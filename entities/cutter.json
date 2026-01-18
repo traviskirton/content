@@ -1,0 +1,51 @@
+{
+  "id": "f35492e6-6da2-442d-a944-f1155c1f7957",
+  "type": "character",
+  "name": "Cutter",
+  "description": "Cutter serves as the principal stage engineer and mentor in \"The Prestige\".",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Cutter is a seasoned stage engineer and a master of mechanical devices, specializing in creating illusions and stage magic effects. Throughout his career, he becomes renowned for his skills in constructing intricate apparatuses for magicians. As his career progresses, Cutter becomes a valuable mentor and confidant to magicians who seek his expertise in stage magic."
+    },
+    {
+      "title": "Personality",
+      "body": "Cutter is a pragmatic and intelligent individual, driven by a deep passion for the art of magic and the mechanics behind it. He has a strong moral compass, often guiding other characters with wise counsel. However, his dedication to his craft can make him stubborn at times, especially when faced with moral dilemmas involving deception or sacrifice."
+    },
+    {
+      "title": "Story Role",
+      "body": "Cutter plays a pivotal role as the stage engineer and mentor for both protagonists—Robert Angier and Alfred Borden. He provides guidance and expertise in constructing the tricks that define their careers. As tensions rise between Angier and Borden, Cutter finds himself caught in the middle, trying to maintain his professional integrity and personal morals while helping to execute increasingly dangerous illusions."
+    },
+    {
+      "title": "Relationships",
+      "body": "Cutter shares a close professional relationship with Robert Angier, for whom he serves as a mentor and confidant. He also works with Alfred Borden, demonstrating a mutual respect for Borden's talent, despite the rivalry between Borden and Angier."
+    }
+  ],
+  "aliases": [
+    "John Cutter"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    },
+    {
+      "type": "friends_with",
+      "target": "5f5157b1-7e9e-4df0-9a2f-d5cb0a2fb7e0"
+    },
+    {
+      "type": "friends_with",
+      "target": "f93e7d9c-7911-4390-bb6f-73c0803b2d65"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Stage Engineer",
+    "portrayed_by": "Michael Caine"
+  },
+  "tags": [
+    "supporting",
+    "mentor",
+    "engineer"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "c3f0383d-af85-4de1-b691-667d0a3d9a10",
+  "type": "location",
+  "name": "Royale-les-Eaux",
+  "description": "A fictional French seaside resort town known for its casino and as the setting for key events in Casino Royale.",
+  "content": [
+    {
+      "title": "History",
+      "body": "**Royale-les-Eaux** is a fictional spa and resort town on the northern coast of France. It was originally established as a seaside health resort, capitalizing on the popularity of therapeutic mineral waters. By the mid-20th century, it had evolved into a destination known for its upscale casino and luxurious hotels, attracting gamblers and tourists from across Europe.\n\nWithin the narrative of *Casino Royale*, the town gains significance primarily due to the presence of the casino where the pivotal baccarat game is held. The story involves espionage and high-stakes gambling, tying Royale-les-Eaux into Cold War tensions and international intrigue."
+    },
+    {
+      "title": "Geography",
+      "body": "Royale-les-Eaux is depicted as a coastal town, situated along the English Channel in northern France. It features typical seaside geography with promenades, beaches, and cliffs. The town has a quaint, picturesque atmosphere with a blend of historical architecture and modern casino facilities.\n\nThough the exact location is fictional, its placement suggests a geography similar to real French coastal towns such as Deauville or Trouville."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **The Casino Royale**: The centerpiece of the town, a luxury casino hosting high-stakes games including baccarat, where the story's key scenes unfold.\n- **Grand Hotels and Spa Facilities**: Catering to wealthy visitors, providing an atmosphere of glamour and sophistication.\n- **The Boardwalk and Seaside Promenade**: Popular spots for leisure and socializing.\n- **Nearby Beaches**: Offering a scenic coastal environment.\n\nThese features make Royale-les-Eaux a hub for leisure, gambling, and covert operations."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Royale-les-Eaux is central to Ian Fleming's *Casino Royale* and its adaptations, notably:\n\n- It is the location of the crucial baccarat game between James Bond and the antagonist Le Chiffre, which drives much of the novel's and film's plot.\n- The casino serves as the backdrop for numerous espionage-related events, including attempts on Bond's life and tense confrontation scenes.\n\nThe town itself embodies the glamorous yet dangerous world Bond navigates, symbolizing the intersection of luxury, risk, and espionage."
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city",
+    "founded": "early 20th century (in-universe)",
+    "population": "Undisclosed, small resort town atmosphere"
+  },
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9b1ab6a0-df91-4c86-8a72-8c23b7428298"
+    }
+  ],
+  "tags": [
+    "city",
+    "fictional",
+    "spy fiction",
+    "1950s",
+    "espionage",
+    "casino",
+    "france",
+    "cold war"
+  ]
+}

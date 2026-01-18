@@ -1,0 +1,57 @@
+{
+  "id": "4fbe1a5d-6f87-44c1-9e0c-d5f49f4f752d",
+  "type": "character",
+  "name": "Abbé Faria",
+  "description": "A highly intelligent and resourceful prisoner who mentors Edmond Dantès during their incarceration and reveals the location of a hidden treasure.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "**Abbé Faria** is an Italian priest imprisoned in the Château d'If. Originally a learned scholar, he was falsely accused and arrested for his political beliefs and involvement against the ruling powers. During his time in prison, he became renowned for his intelligence and status as a teacher and mentor. His most significant contribution in the story is his friendship with Edmond Dantès, to whom he imparts knowledge and reveals the secret of a vast treasure located on the Isle of Monte Cristo."
+    },
+    {
+      "title": "Personality",
+      "body": "- Extremely intelligent and well-educated\n- Wise and patient mentor\n- Determined and resilient despite imprisonment\n- Witty with a dry sense of humor\n- Motivated by justice and the hope of freedom\n- Flawed by his obsession with the treasure and his final desperate escape attempt"
+    },
+    {
+      "title": "Story Role",
+      "body": "Abbé Faria serves as a mentor and catalyst for Edmond Dantès' transformation. He educates Dantès, teaching him languages, history, science, and philosophy, which prepares Dantès for his eventual quest for vengeance and justice. Faria also discloses the secret of the treasure, enabling Dantès to escape and claim the fortune that forms the basis of his identity as the Count of Monte Cristo. His death in prison marks a turning point for Dantès' character arc."
+    },
+    {
+      "title": "Relationships",
+      "body": "**Abbé Faria** shares a deep bond with Edmond Dantès during their imprisonment. They become close friends and allies, with Faria acting as a father-figure and teacher to Dantès. Their relationship is foundational to the plot. Although imprisoned together, Faria contrasts with the corrupt and cruel jailers and officials, embodying integrity and knowledge."
+    },
+    {
+      "title": "Abilities",
+      "body": "Abbé Faria is a polymath:\n- Highly knowledgeable in theology, mathematics, science, and languages\n- Skilled in cryptography and secret codes\n- Excellent teacher and wise counselor\n- Resourceful in using his intellect to manipulate his environment and aid Dantès"
+    }
+  ],
+  "aliases": [
+    "Abbé Faria",
+    "The Mad Priest",
+    "The Italian Priest"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "3c6350b1-f92d-4f6a-a7e7-e82f61c57b13"
+    },
+    {
+      "type": "related_to",
+      "target": "5b178eaf-65ec-4c0d-8f34-93fab1c9b5f6"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "priest, scholar, prisoner",
+    "died": "in-universe, during imprisonment",
+    "born": "early 19th century (approximate, exact year unknown)",
+    "location": "Château d'If (prison)"
+  },
+  "tags": [
+    "supporting",
+    "mentor",
+    "human",
+    "scholar",
+    "prisoner"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "761d9e94-6294-472b-a35c-bbf470a6d510",
+  "type": "character",
+  "name": "Mercédès",
+  "description": "A noblewoman and the former fiancé of Edmond Dantès, whose love and loyalty are central to his story of betrayal and revenge.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "**Mercédès** is a beautiful and proud Catalan woman from Marseille. She grew up in a humble but respectable family and fell deeply in love with Edmond Dantès, a young and promising sailor. Their engagement symbolizes true love and hope for their future together. However, following Edmond's wrongful imprisonment, Mercédès is forced by circumstances and societal pressures to marry Fernand Mondego, Edmond's rival, entering into a life of noble status but personal sacrifice."
+    },
+    {
+      "title": "Personality",
+      "body": "Mercédès is characterized by her loyalty, kindness, and inner strength. Despite the heartbreak caused by Edmond's disappearance, she remains honorable and devoted to her family. She struggles with feelings of guilt and sorrow for betraying Edmond in a way but tries to live with dignity. Mercédès also embodies emotional resilience, showcasing a deep capacity for forgiveness and maternal love."
+    },
+    {
+      "title": "Story Role",
+      "body": "Mercédès serves as a symbol of lost love and the consequences of betrayal within the narrative of *The Count of Monte Cristo*. Her relationship with Edmond Dantès is pivotal, as Edmond’s mistaken imprisonment is partially due to the jealousy of Fernand Mondego, and Mercédès’ subsequent marriage fuels Edmond's complex feelings upon his return as the Count. Throughout the story, Mercédès struggles with her past and the effects of Edmond's revenge, eventually becoming a figure reflecting the human cost of the Count's quest for justice."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Edmond Dantès** (fiancé turned estranged lover): Their deep past love is a key emotional driver in the story.\n- **Fernand Mondego** (husband): Her second husband, who betrays Edmond and rises in social rank due to his actions.\n- **Albert de Morcerf** (son): Mercédès and Fernand's son, whose future and morals are influenced by the family’s legacy."
+    },
+    {
+      "title": "Abilities",
+      "body": "Mercédès is not depicted with extraordinary abilities but is known for her grace, social poise, and emotional intelligence. Her strength lies in her compassion, dignity, and the ability to endure hardship while maintaining her integrity."
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "noblewoman (by marriage)",
+    "born": "circa 1810",
+    "died": null
+  },
+  "aliases": [
+    "Mercedes"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "5b178eaf-65ec-4c0d-8f34-93fab1c9b5f6"
+    },
+    {
+      "type": "related_to",
+      "target": "4cd03369-18ad-427a-9a34-4f337f9c51c7"
+    },
+    {
+      "type": "related_to",
+      "target": "878e8ef7-cac7-4094-8b84-a5467a5248ed"
+    },
+    {
+      "type": "appears_in",
+      "target": "3c6350b1-f92d-4f6a-a7e7-e82f61c57b13"
+    }
+  ],
+  "tags": [
+    "supporting",
+    "noblewoman",
+    "loyal",
+    "tragic",
+    "romantic_interest"
+  ]
+}

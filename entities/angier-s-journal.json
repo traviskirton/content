@@ -1,0 +1,51 @@
+{
+  "id": "ae4b1dd6-8b81-4ef3-98d8-45c48d6f491c",
+  "type": "item",
+  "name": "Angier's Journal",
+  "description": "A detailed journal belonging to Robert Angier, documenting his journey and secrets in the art of magic.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Angier's Journal is a personal diary kept by Robert Angier, a magician, detailing his thoughts, experiences, and secrets related to his performances and rivalry with Alfred Borden. This journal is a crucial plot device in the movie 'The Prestige.'"
+    },
+    {
+      "title": "Appearance",
+      "body": "The journal is a leather-bound book with worn pages, filled with handwritten notes, sketches, and reflections. It has an air of mystery and secrecy, indicative of its owner's meticulous nature and dedication to his craft."
+    },
+    {
+      "title": "Function",
+      "body": "The journal serves as a record of Angier's progression in the field of magic, containing insights into his techniques and innovations. It also includes personal reflections, making it indispensable for understanding Angier's motives and mindset."
+    },
+    {
+      "title": "History",
+      "body": "Angier's Journal was created by Robert Angier himself as he delved deeper into the world of illusion and deception. It captures the evolution of his performances and his obsession with uncovering Borden's secrets."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Angier's Journal plays a pivotal role in the narrative as it is used by Borden to understand Angier's methods and to piece together the events leading to the climactic conflict in 'The Prestige.' It symbolizes the depth of Angier's obsession and ultimately his downfall."
+    }
+  ],
+  "aliases": [
+    "Robert Angier's Diary"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    },
+    {
+      "type": "owned_by",
+      "target": "5f5157b1-7e9e-4df0-9a2f-d5cb0a2fb7e0"
+    }
+  ],
+  "properties": {
+    "item_type": "book",
+    "created_by": "Robert Angier",
+    "fictional": true
+  },
+  "tags": [
+    "artifact",
+    "mystery",
+    "macguffin"
+  ]
+}

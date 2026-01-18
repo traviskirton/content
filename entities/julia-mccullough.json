@@ -1,0 +1,47 @@
+{
+  "id": "7c1b1e36-0c2a-4743-9fd1-d8d7f566b3d6",
+  "type": "character",
+  "name": "Julia McCullough",
+  "description": "Julia McCullough, a talented magician's assistant and Robert Angier's wife, plays a tragic role in 'The Prestige'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Julia McCullough is a character in 'The Prestige', portrayed by Piper Perabo. She is an essential part of the magic act alongside her husband, Robert Angier, and his partner, Alfred Borden."
+    },
+    {
+      "title": "Personality",
+      "body": "Julia is depicted as a caring and talented individual. Despite her strong commitment to the magic act and her husband, she becomes a tragic figure due to her untimely death, which profoundly impacts the other main characters."
+    },
+    {
+      "title": "Story Role",
+      "body": "Julia's death serves as a pivotal moment in the story, instigating the main conflict between Robert Angier and Alfred Borden. Her tragic accident during a water tank escape trick sets off a series of events that drive the narrative forward."
+    },
+    {
+      "title": "Relationships",
+      "body": "Julia is married to Robert Angier, sharing a deep bond with him both personally and professionally. Her professional relationship with Alfred Borden becomes strained due to her accidental death, which Borden is implicated in causing."
+    }
+  ],
+  "aliases": [
+    "Robert Angier's Wife"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    },
+    {
+      "type": "related_to",
+      "target": "5f5157b1-7e9e-4df0-9a2f-d5cb0a2fb7e0"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "magician's assistant",
+    "portrayed_by": "Piper Perabo"
+  },
+  "tags": [
+    "supporting",
+    "tragic",
+    "magician"
+  ]
+}

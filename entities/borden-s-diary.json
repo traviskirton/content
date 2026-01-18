@@ -1,0 +1,55 @@
+{
+  "id": "96bb96b8-ec2f-4115-9e61-f5b1e5a5f6dc",
+  "type": "item",
+  "name": "Borden's Diary",
+  "description": "A diary written by Alfred Borden containing his magic secrets and personal thoughts.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Borden's Diary is a handwritten journal belonging to Alfred Borden, one of the protagonists in 'The Prestige.' It contains detailed, albeit misleading, accounts of Borden's personal and professional life, including his magical secrets and rivalry with Robert Angier."
+    },
+    {
+      "title": "Appearance",
+      "body": "The diary is a leather-bound book, filled with handwritten entries. It has an aged, well-worn appearance, suggesting frequent use and handling."
+    },
+    {
+      "title": "Function",
+      "body": "The primary purpose of the diary is to chronicle Alfred Borden's life and thoughts. However, it also serves as a decoy to mislead Robert Angier with false information. The diary appears to be written in code, with certain sections left intentionally ambiguous or misleading to protect Borden's secrets."
+    },
+    {
+      "title": "History",
+      "body": "Created by Alfred Borden himself, the diary was intended to document his thoughts, experiences, and magic secrets. As a master of deception, Borden crafted his diary not only as a personal journal but also as a tool of misdirection in his rivalry with Angier."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Borden's Diary plays a critical role in 'The Prestige' as it becomes a key plot device. It is used by Angier to try to uncover Borden's secrets, leading him on a quest that drives much of the film's narrative. The diary's contents, particularly its coded nature, illustrate the level of deception and intrigue between the two magicians."
+    }
+  ],
+  "aliases": [
+    "The Professor's Diary"
+  ],
+  "relationships": [
+    {
+      "type": "created_by",
+      "target": "f93e7d9c-7911-4390-bb6f-73c0803b2d65"
+    },
+    {
+      "type": "owned_by",
+      "target": "f93e7d9c-7911-4390-bb6f-73c0803b2d65"
+    },
+    {
+      "type": "featured_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    }
+  ],
+  "properties": {
+    "item_type": "book",
+    "fictional": true
+  },
+  "tags": [
+    "book",
+    "macguffin",
+    "mystery",
+    "deception"
+  ]
+}

@@ -2,23 +2,23 @@
   "id": "01eddf5d-be9b-488f-9398-650d6d00e0b9",
   "type": "person",
   "name": "Andy Serkis",
-  "description": "English actor, director, and producer known for his pioneering work in performance capture roles.",
+  "description": "English actor and filmmaker renowned for his motion capture roles.",
   "content": [
     {
       "title": "Biography",
-      "body": "Andy Serkis was born in 1964 in Ruislip Manor, West London. He studied visual arts and began his career in theatre, quickly becoming known for his versatile talent and unique performances."
+      "body": "Andy Serkis was born in 1964 in Ruislip Manor, England. He is an esteemed actor and filmmaker known for pioneering the art of motion capture. He began his career in theater before making a mark in film through groundbreaking performances using motion capture technology."
     },
     {
       "title": "Career",
-      "body": "Andy Serkis is renowned for revolutionizing performance capture with his roles as Gollum in 'The Lord of the Rings' and Caesar in 'Planet of the Apes'. He has worked extensively in both acting and directing, with major contributions to the development of digital acting through motion capture."
+      "body": "Andy Serkis gained international fame for his role as Gollum in *The Lord of the Rings* trilogy. His portrayal was revolutionary, utilizing performance capture technology to bring intricate digital characters to life. Serkis continued to showcase his talent in roles such as King Kong in *King Kong* and Caesar in the *Planet of the Apes* trilogy. Besides acting, he has directed films like *Mowgli: Legend of the Jungle* and *Venom: Let There Be Carnage*."
     },
     {
       "title": "Notable Collaborations",
-      "body": "Serkis has frequently collaborated with directors like Peter Jackson and Matt Reeves, showcasing his dynamic range and expertise in both live-action and digitally-enhanced roles."
+      "body": "Andy Serkis has frequently collaborated with directors like Peter Jackson (*The Lord of the Rings*), Matt Reeves (*Planet of the Apes*), and Robert Zemeckis. His work with Weta Digital, a special effects company, has been pivotal in advancing performance capture technology."
     },
     {
       "title": "Legacy",
-      "body": "Serkis is regarded as a pioneer in the art of performance capture. His groundbreaking work has earned him numerous accolades and set new standards in the film industry."
+      "body": "Serkis has had a profound impact on the film industry by cementing motion capture as a mainstream technique in filmmaking. He has amassed numerous accolades for his contributions to entertainment, including a BAFTA award and nominations for his transformative performances."
     }
   ],
   "aliases": [
@@ -27,15 +27,19 @@
   "relationships": [
     {
       "type": "acted_in",
-      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+      "target": "01eddf5d-be9b-488f-9398-650d6d00e0b9"
     },
     {
-      "type": "worked_with",
-      "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
+      "type": "acted_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
     },
     {
       "type": "worked_with",
       "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "acted_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
     }
   ],
   "properties": {
@@ -47,12 +51,13 @@
       "producer",
       "writer"
     ],
-    "active_years": "1989-present"
+    "active_years": "1985-present"
   },
   "tags": [
     "actor",
     "director",
     "producer",
+    "writer",
     "sci-fi",
     "fantasy",
     "modern"

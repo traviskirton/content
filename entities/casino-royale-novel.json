@@ -1,0 +1,71 @@
+{
+  "id": "9b1ab6a0-df91-4c86-8a72-8c23b7428298",
+  "type": "book",
+  "name": "Casino Royale (Novel)",
+  "description": "The first James Bond novel by Ian Fleming, introducing the British secret agent 007 in a high-stakes baccarat game against Soviet agent Le Chiffre.",
+  "content": [
+    {
+      "title": "Synopsis",
+      "body": "Casino Royale follows British secret agent James Bond, assigned to bankrupt the villainous Soviet operative Le Chiffre in a high-stakes baccarat game at the Casino Royale in France. The novel blends espionage, gambling, and personal conflict, unveiling Bond's skills and vulnerabilities as he faces threats both at the gaming table and from dangerous adversaries."
+    },
+    {
+      "title": "Themes",
+      "body": "Major themes include the clash of East and West during the Cold War, the allure and danger of gambling, the personal cost of espionage, loyalty and betrayal, and the complex character of James Bond as both a ruthless agent and a flawed human being."
+    },
+    {
+      "title": "Publication History",
+      "body": "Originally published in 1953 by Jonathan Cape in the United Kingdom, Casino Royale marks the debut of Ian Fleming's iconic character James Bond. The novel has been reissued numerous times, including deluxe editions and audiobook versions, and translated into dozens of languages worldwide, making it accessible to a global audience."
+    },
+    {
+      "title": "Legacy",
+      "body": "Casino Royale established the James Bond character and spawned one of the most enduring spy franchises in literature and film. Its influence on the spy genre is profound, blending sophistication with gritty realism. It has been adapted multiple times, notably in 1954 as a television play, in 1967 as a satirical film, and in 2006 as a more faithful cinematic reboot starring Daniel Craig, revitalizing the Bond legacy."
+    }
+  ],
+  "aliases": [
+    "Casino Royale",
+    "James Bond: Casino Royale",
+    "007: Casino Royale"
+  ],
+  "relationships": [
+    {
+      "type": "written_by",
+      "target": "e5e8a4b9-2137-4f7c-9030-8d2c3e7f3521"
+    },
+    {
+      "type": "part_of",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    },
+    {
+      "type": "features_character",
+      "target": "a92f8c66-53a8-4c9a-b4f1-c634c2e83ae0"
+    },
+    {
+      "type": "features_character",
+      "target": "c5637766-14da-4d3d-9ff3-c4973a3d5c50"
+    },
+    {
+      "type": "features_location",
+      "target": "a7f5b313-55b9-4f5d-9b74-7d2f2ddcbd0d"
+    }
+  ],
+  "properties": {
+    "publication_year": 1953,
+    "genre": [
+      "spy fiction",
+      "thriller",
+      "espionage"
+    ],
+    "page_count": 250,
+    "original_language": "English"
+  },
+  "tags": [
+    "spy",
+    "espionage",
+    "thriller",
+    "cold war",
+    "1950s",
+    "bond",
+    "classic",
+    "british literature"
+  ]
+}

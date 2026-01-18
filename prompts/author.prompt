@@ -1,0 +1,21 @@
+Generate a detailed entity for the author "[NAME]".
+
+Include:
+- A comprehensive description
+- Content sections covering:
+  - Biography (birth, early life, education)
+  - Career (writing career, major works, style)
+  - Notable Works (key books and their significance)
+  - Legacy (influence on literature, awards, cultural impact)
+- Aliases (pen names, full name variations)
+- Relationships to other entities (books written, publishers, literary movements)
+- Properties: born (year), died (year if applicable), nationality, genres (array)
+- Tags for categorization (genre associations, era, movements)
+
+Use relationship types like:
+- wrote (to books)
+- published_by (to publishers)
+- influenced_by (to other authors)
+- influenced (to other authors)
+
+IMPORTANT: Only use UUIDs from the existing entities list for relationships. Do not make up UUIDs.

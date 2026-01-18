@@ -1,0 +1,43 @@
+{
+  "id": "a1d9f0c7-758c-4b8d-a6f7-e2b12858e1c2",
+  "type": "location",
+  "name": "Isle of Monte Cristo",
+  "description": "A small, rugged island in the Mediterranean Sea, known for its hidden treasure troves in \"The Count of Monte Cristo.\"",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Isle of Monte Cristo is a remote and uninhabited island in the Mediterranean Sea. It gained its legendary status due to the rumor of hidden treasures buried there by an Italian nobleman. This legend eventually attracts Edmond Dantès, who uses the treasure to transform himself into the Count of Monte Cristo."
+    },
+    {
+      "title": "Geography",
+      "body": "The island is depicted as rocky and isolated, surrounded by steep cliffs and grottoes. Its terrain is rugged and challenging, with many hidden caves that serve as perfect hiding spots for smuggled goods and treasures. The island's location is not precisely mapped, adding to its mystique."
+    },
+    {
+      "title": "Notable Features",
+      "body": "One of the most notable features of the Isle of Monte Cristo is its numerous hidden caves and grottos, which house the legendary treasure that Dantès discovers. The island's natural beauty, with its dramatic cliffs and clear blue waters, also makes it a picturesque yet foreboding location."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Isle of Monte Cristo is central to the narrative of \"The Count of Monte Cristo.\" It is the site of Edmond Dantès' transformation, where he discovers the treasure that enables him to exact his revenge on those who wronged him. The wealth found on the island becomes a symbol of Dantès' newfound power and purpose."
+    }
+  ],
+  "aliases": [
+    "Monte Cristo Island"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "3c6350b1-f92d-4f6a-a7e7-e82f61c57b13"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "island"
+  },
+  "tags": [
+    "island",
+    "adventure",
+    "19th century",
+    "treasure"
+  ]
+}

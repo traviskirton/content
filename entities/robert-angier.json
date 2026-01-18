@@ -1,0 +1,57 @@
+{
+  "id": "5f5157b1-7e9e-4df0-9a2f-d5cb0a2fb7e0",
+  "type": "character",
+  "name": "Robert Angier",
+  "description": "A charismatic magician embroiled in a rivalry with Alfred Borden.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Robert Angier, originally from London, is a talented magician whose life is turned upside down by a tragic accident during a performance. This event fuels his obsession with surpassing his rival, Alfred Borden, leading to a fierce and destructive rivalry."
+    },
+    {
+      "title": "Personality",
+      "body": "Angier is **charismatic** and **ambitious**, often driven by the desire for fame and recognition. However, his obsessive nature becomes one of his major flaws, driving him to extreme lengths in pursuit of his goals."
+    },
+    {
+      "title": "Story Role",
+      "body": "Angier serves as one of the central characters and primary antagonists in 'The Prestige.' His story arc is defined by his rivalry with Borden, which becomes increasingly destructive as both magicians' ambitions and obsessions escalate."
+    },
+    {
+      "title": "Relationships",
+      "body": "Robert Angier's main rivalry is with Alfred Borden, a fellow magician whom he holds responsible for his wife's death. Angier also has connections with other key characters like Cutter, his stage engineer, and Olivia, Borden's assistant and love interest."
+    },
+    {
+      "title": "Abilities",
+      "body": "Angier is a highly skilled magician with expertise in stage performances and illusions. His determination and resources eventually lead him to technological innovations, such as using Tesla's machine in his acts."
+    }
+  ],
+  "aliases": [
+    "The Great Danton"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    },
+    {
+      "type": "rivals_with",
+      "target": "c3d4e5f6-a7b8-9012-cdef-345678901234"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "75a9dc7b-02ee-4d3b-8855-57f9b7f91a43"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "magician",
+    "portrayed_by": "Hugh Jackman"
+  },
+  "tags": [
+    "protagonist",
+    "antagonist",
+    "magician",
+    "obsessive",
+    "charismatic"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "052dc2a4-4a81-45f1-be7a-f5c2999a74e0",
+  "type": "character",
+  "name": "Alley",
+  "description": "A character from 'The Prestige' who assists in the stage illusions.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Alley is a dedicated stage engineer and assistant working with Robert Angier, also known as 'The Great Danton'. He plays a critical role in setting up and executing the mechanics behind Angier's complex stage illusions throughout the narrative."
+    },
+    {
+      "title": "Personality",
+      "body": "Alley is loyal, meticulous, and technically skilled. He demonstrates a strong commitment to ensuring Angier's performances are successful, while staying behind the scenes. His knowledge of stagecraft and engineering is instrumental in realizing Angier's ambitions."
+    },
+    {
+      "title": "Story Role",
+      "body": "Alley serves as a key supporting character who helps Angier enhance his act, including the infamous 'Transported Man' illusion. His technical expertise and discretion are vital to the secrecy and success of Angier's tricks, particularly as the rivalry with Alfred Borden intensifies."
+    },
+    {
+      "title": "Relationships",
+      "body": "Alley works closely with Robert Angier (uuid:5f5157b1-7e9e-4df0-9a2f-d5cb0a2fb7e0) and is one of the few trusted individuals in Angier's circle. His interactions with other characters are limited due to his focused role, but his importance is acknowledged by Angier."
+    },
+    {
+      "title": "Abilities",
+      "body": "Alley is a proficient engineer and stagecraft expert. His skills in machinery and illusion setup are central to Angier's performances. He can effectively manage complex setups and understand intricate mechanical workings required for theatrical magic."
+    }
+  ],
+  "aliases": [
+    "Assistant to Angier",
+    "Stage Engineer"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    },
+    {
+      "type": "works_at",
+      "target": "5de86068-a215-4f6d-a874-3d9ddb2b83b7"
+    },
+    {
+      "type": "friends_with",
+      "target": "5f5157b1-7e9e-4df0-9a2f-d5cb0a2fb7e0"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Stage Engineer",
+    "portrayed_by": "Andy Serkis"
+  },
+  "tags": [
+    "supporting",
+    "engineer",
+    "stagecraft"
+  ]
+}

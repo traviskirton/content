@@ -1,0 +1,60 @@
+{
+  "id": "b8d6f445-34f2-4a94-b9e6-608d667b7727",
+  "type": "character",
+  "name": "Baron Danglars",
+  "description": "A wealthy banker and one of the main antagonists in 'The Count of Monte Cristo'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Baron Danglars, originally known as just Danglars, was born into humble beginnings. He rose to prominence as a successful banker, eventually earning the title of Baron through marriage. His wealth and influence made him a prominent figure in society, but he was known for his ambition and unscrupulous business practices."
+    },
+    {
+      "title": "Personality",
+      "body": "Danglars is characterized as greedy, ambitious, and cunning. His motivations are primarily driven by his desire for wealth and social status. He lacks moral scruples and does not hesitate to betray others for his gain. Despite his success, Danglars harbors insecurity and fear of losing his wealth and status."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Count of Monte Cristo', Danglars serves as one of the main antagonists. He is part of the conspiracy that falsely accuses Edmond Dantès, leading to Dantès's imprisonment. Danglars's betrayal stems from jealousy and ambition to remove a rival and curry favor with higher authorities. Throughout the novel, he is eventually ruined by the very machinations he uses against others, as Dantès, now the Count of Monte Cristo, executes his well-planned revenge."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Edmond Dantès**: Originally colleagues, Danglars becomes one of Dantès's main betrayers. The two become bitter rivals.\n- **Fernand Mondego**: Co-conspirator and fellow antagonist of Dantès.\n- **Mercédès**: A relationship marked by betrayal as Danglars helps to imprison her fiancé, Edmond Dantès.\n- **Villefort**: Involved in the conspiracy against Dantès; their alliance is one of convenience."
+    }
+  ],
+  "aliases": [
+    "Danglars",
+    "Baron Danglars"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "3c6350b1-f92d-4f6a-a7e7-e82f61c57b13"
+    },
+    {
+      "type": "rivals_with",
+      "target": "5b178eaf-65ec-4c0d-8f34-93fab1c9b5f6"
+    },
+    {
+      "type": "rivals_with",
+      "target": "4cd03369-18ad-427a-9a34-4f337f9c51c7"
+    },
+    {
+      "type": "rivals_with",
+      "target": "761d9e94-6294-472b-a35c-bbf470a6d510"
+    },
+    {
+      "type": "rivals_with",
+      "target": "4fbe1a5d-6f87-44c1-9e0c-d5f49f4f752d"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "banker"
+  },
+  "tags": [
+    "antagonist",
+    "villain",
+    "greedy",
+    "banker"
+  ]
+}

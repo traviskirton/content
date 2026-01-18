@@ -1,0 +1,54 @@
+{
+  "id": "f93e7d9c-7911-4390-bb6f-73c0803b2d65",
+  "type": "character",
+  "name": "Alfred Borden",
+  "description": "A dedicated and skilled magician who becomes consumed by his rivalry with Robert Angier.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Alfred Borden, also known as 'The Professor', comes from a humble background. He is a dedicated magician who worked tirelessly to craft illusions that captivate audiences. Borden's passion for magic led him to develop the infamous \"Transported Man\" trick, which becomes the centerpiece of his act."
+    },
+    {
+      "title": "Personality",
+      "body": "Borden is deeply dedicated to the art of magic and is characterized by his perseverance and willingness to make personal sacrifices for his craft. He is fiercely competitive, especially in his rivalry with Robert Angier, often to the detriment of his personal relationships. Borden struggles with maintaining his private life due to his obsession with his work."
+    },
+    {
+      "title": "Story Role",
+      "body": "Alfred Borden is one of the central protagonists in \"The Prestige\", serving as both the foil and rival to Robert Angier. His relentless pursuit of perfection in magic tricks propels the narrative forward, leading to a series of escalating events that underline the dangerous nature of obsession. Borden's character arc explores themes of identity, sacrifice, and the personal cost of artistic dedication."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Robert Angier**: Borden's primary rival, whose competition becomes increasingly bitter and destructive.\n- **Sarah Borden**: Borden's wife, whose relationship with him becomes strained due to his secrets and obsessive nature.\n- **Olivia Wenscombe**: Angier's assistant who becomes romantically involved with Borden.\n- **Fallon**: Borden's secretive companion and partner in magic."
+    },
+    {
+      "title": "Abilities",
+      "body": "Borden is an exceptionally talented magician known for his groundbreaking trick, \"The Transported Man.\" He is skilled in sleight of hand, illusion crafting, and stage performance."
+    }
+  ],
+  "aliases": [
+    "The Professor",
+    "Freddy"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    },
+    {
+      "type": "rivals_with",
+      "target": "5f5157b1-7e9e-4df0-9a2f-d5cb0a2fb7e0"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "magician",
+    "portrayed_by": "Christian Bale"
+  },
+  "tags": [
+    "protagonist",
+    "magician",
+    "rival",
+    "obsessive",
+    "intricate"
+  ]
+}

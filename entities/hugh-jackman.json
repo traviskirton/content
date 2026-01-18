@@ -1,0 +1,61 @@
+{
+  "id": "75a9dc7b-02ee-4d3b-8855-57f9b7f91a43",
+  "type": "person",
+  "name": "Hugh Jackman",
+  "description": "Australian actor best known for his role as Wolverine in the X-Men series.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Hugh Jackman was born in 1968 in Sydney, Australia. He pursued acting at an early stage, attending the Western Australian Academy of Performing Arts."
+    },
+    {
+      "title": "Career",
+      "body": "Hugh Jackman's breakthrough role came in 2000 with the film *X-Men*, where he portrayed Wolverine, a character he became famous for over the next two decades. Besides an impressive run as Wolverine, Jackman has displayed his versatility with roles in films such as *The Prestige*, *Les Misérables*, and *The Greatest Showman*. Jackman is also known for his performances in theater, notably the musical *The Boy from Oz*, which won him a Tony Award."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Jackman has frequently collaborated with director Christopher Nolan (*The Prestige*) and has worked alongside actors like Christian Bale, Michael Caine, and Anne Hathaway."
+    },
+    {
+      "title": "Legacy",
+      "body": "Hugh Jackman is one of Hollywood's most beloved Australian actors. His portrayal of Wolverine has left a lasting impression on the superhero genre. He has been recognized with numerous awards, including a Golden Globe for *Les Misérables* and a Tony Award for *The Boy from Oz*."
+    }
+  ],
+  "aliases": [
+    "Hugh Michael Jackman"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "4cf6d8b9-71f4-4eff-9c9e-bb3b3f7b2e8e"
+    },
+    {
+      "type": "worked_with",
+      "target": "e6149baf-563e-4dc9-8eec-a7a33e3e95ac"
+    }
+  ],
+  "properties": {
+    "born": 1968,
+    "nationality": "Australian",
+    "occupation": [
+      "actor",
+      "singer",
+      "producer"
+    ],
+    "active_years": "1994-present"
+  },
+  "tags": [
+    "actor",
+    "musical",
+    "superhero",
+    "modern"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "4bfa4176-817c-4a84-90f9-df49d22e2edf",
+  "type": "character",
+  "name": "Haydée",
+  "description": "Princess and former slave who becomes a key ally and love interest of the Count of Monte Cristo.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "**Haydée** is the daughter of Ali Pasha of Janina, a noble and influential ruler in the Ottoman Empire. After her father was betrayed and killed by Fernand Mondego (who later becomes Count de Morcerf), Haydée was sold into slavery. She is eventually rescued by Edmond Dantès (the Count of Monte Cristo), who frees her and restores her dignity. She accompanies the Count back to France, where she plays a significant part in his plans for justice and revenge."
+    },
+    {
+      "title": "Personality",
+      "body": "Haydée is characterized by her dignity, quiet strength, and loyalty. Despite her past suffering, she displays grace and compassion. She is deeply devoted to the Count of Monte Cristo, seeing him as a savior and protector. Her motivations include loyalty to her father's memory and seeking justice against those who wronged her family. Though refined, her past as a slave and noblewoman gives her a unique perspective and emotional depth."
+    },
+    {
+      "title": "Story Role",
+      "body": "Haydée serves as a symbol of the Count's justice and mercy, being both a victim restored and an heir to noble lineage. Her testimony is crucial in exposing Fernand Mondego's treachery, leading to his downfall. Over the course of the story, she develops a romantic relationship with the Count, representing hope and renewal after revenge. She embodies the Count's humanitarian side amid his quest for vengeance."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Edmond Dantès / Count of Monte Cristo**: Rescuer, protector, and lover. Haydée is deeply loyal and affectionate toward him.\n- **Fernand Mondego / Count de Morcerf**: Her father's betrayer and murderer, and her family's enemy.\n- **Ali Pasha of Janina**: Her father, whose death sparks the sequence of revenge in the story.\n- **Other noble society figures**: Haydée interacts with Parisian aristocracy through the Count, affecting the social and political conflicts."
+    },
+    {
+      "title": "Abilities",
+      "body": "While not depicted as having specific skills or powers, Haydée possesses:\n- Cultural knowledge and noble upbringing from her heritage as a princess.\n- Emotional resilience and dignity borne from her experiences.\n- The ability to testify convincingly, affecting outcomes in the court of law within the story."
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Princess, former slave",
+    "born": "circa early 19th century (exact date unknown)",
+    "died": null
+  },
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "3c6350b1-f92d-4f6a-a7e7-e82f61c57b13"
+    },
+    {
+      "type": "related_to",
+      "target": "5b178eaf-65ec-4c0d-8f34-93fab1c9b5f6"
+    },
+    {
+      "type": "related_to",
+      "target": "4fbe1a5d-6f87-44c1-9e0c-d5f49f4f752d"
+    },
+    {
+      "type": "related_to",
+      "target": "878e8ef7-cac7-4094-8b84-a5467a5248ed"
+    }
+  ],
+  "tags": [
+    "supporting",
+    "hero",
+    "noble",
+    "princess",
+    "ally",
+    "19th century",
+    "human"
+  ]
+}

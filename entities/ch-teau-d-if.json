@@ -1,0 +1,53 @@
+{
+  "id": "25c7e3f9-896d-4b1c-9f8b-5f67ae3d1825",
+  "type": "location",
+  "name": "Château d'If",
+  "description": "A remote fortress and prison on an island off Marseille, central to the plot of The Count of Monte Cristo.",
+  "content": [
+    {
+      "title": "History",
+      "body": "**Château d'If** is a fortress built in the early 16th century on the small island of If near Marseille, France. Originally constructed as a defensive structure against sea attacks, it was later used as a state prison. Within the universe of *The Count of Monte Cristo*, it is best known as the place where Edmond Dantès is unjustly imprisoned for 14 years. The prison was infamous for its harsh conditions and the isolation it imposed on its captives.\n\nSignificant events related to the Château include:\n- The wrongful imprisonment of Edmond Dantès.\n- The friendship and mentorship Dantès receives from fellow prisoner Abbé Faria, who helps him discover the secret of a hidden treasure.\n- Dantès' dramatic escape from the island, which marks a turning point in his quest for vengeance."
+    },
+    {
+      "title": "Geography",
+      "body": "The Château d'If is situated on the Île d'If, a rocky islet in the Bay of Marseille on the southern coast of France. The island lies just off the mainland near the city of Marseille. Its position made it an ideal location for a fortress and prison: isolated by water yet close enough to Marseille for state control. The fortress is built atop the island's rocky terrain, surrounded by the Mediterranean Sea, emphasizing its role as a nearly inescapable prison."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **The Fortress Walls:** Thick stone walls designed to withstand attacks and contain prisoners.\n- **The Prison Cells:** Small, dark, and damp cells that symbolize the brutal conditions faced by inmates.\n- **The Tower:** The highest point from which prisoners could see the sea, but were trapped by the waters surrounding the island.\n- **The Hidden Passage:** While not a physical feature of the Château itself, the knowledge and maps given by Abbé Faria regarding the Isle of Monte Cristo's treasure are linked to Dantès during his imprisonment here."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Château d'If serves as the pivotal setting for Edmond Dantès' transformation from a naive sailor to the calculating Count of Monte Cristo. Key moments at this location include:\n\n- **Imprisonment of Edmond Dantès:** His unjust incarceration initiates the main conflict.\n- **Meeting Abbé Faria:** Their interaction provides Edmond with education, hope, and the knowledge of a treasure.\n- **Escape:** Dantès' daring escape from Château d'If marks the climax of his imprisonment and the beginning of his revenge.\n\nThe fortress symbolizes despair, injustice, and later, rebirth and retribution in the novel."
+    }
+  ],
+  "aliases": [
+    "Castle of If",
+    "Isle of If Prison"
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building",
+    "founded": 1524,
+    "population": 0
+  },
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "3c6350b1-f92d-4f6a-a7e7-e82f61c57b13"
+    },
+    {
+      "type": "located_in",
+      "target": "919f9f8b-0d8b-4abc-8e2d-f9c0b8980710"
+    }
+  ],
+  "tags": [
+    "building",
+    "prison",
+    "historical",
+    "fictional",
+    "19th century",
+    "literature",
+    "classic"
+  ]
+}

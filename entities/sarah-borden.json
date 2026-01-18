@@ -1,0 +1,47 @@
+{
+  "id": "63cbc573-bd82-483e-9137-9b02a8ee3845",
+  "type": "character",
+  "name": "Sarah Borden",
+  "description": "Sarah Borden is the devoted wife of Alfred Borden in \"The Prestige,\" whose marriage becomes strained by his secrets.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Sarah Borden is a central character in \"The Prestige,\" a film directed by Christopher Nolan. She is the wife of Alfred Borden, one of the main protagonists, who is deeply involved in the world of stage magic in late 19th century London."
+    },
+    {
+      "title": "Personality",
+      "body": "Sarah is portrayed as a loving and supportive wife, but also someone deeply affected by her husband's mysterious and secretive nature. She is intuitive and perceptive, often sensing when Alfred's affections are genuine or when they are clouded by his preoccupations with his work and secrets."
+    },
+    {
+      "title": "Story Role",
+      "body": "Sarah Borden's role in the narrative is pivotal, emphasizing the personal and emotional costs of Alfred Borden's dedication to magic. Her marriage becomes increasingly troubled by Alfred's dual life and the secrets he holds, eventually leading to tragic consequences."
+    },
+    {
+      "title": "Relationships",
+      "body": "Sarah's primary relationship is with her husband, Alfred Borden (UUID: f93e7d9c-7911-4390-bb6f-73c0803b2d65), whose divided attention and secretive nature strain their marriage. Her story is intertwined with the main narrative arc, highlighting the emotional sacrifices made for artistic ambition."
+    }
+  ],
+  "aliases": [
+    "Mrs. Borden"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    },
+    {
+      "type": "related_to",
+      "target": "f93e7d9c-7911-4390-bb6f-73c0803b2d65"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "housewife",
+    "portrayed_by": "Rebecca Hall"
+  },
+  "tags": [
+    "supporting",
+    "tragic",
+    "wife"
+  ]
+}

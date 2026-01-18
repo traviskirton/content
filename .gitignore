@@ -1,5 +1,6 @@
 # Generated files
 build/
+.generation-checkpoint
 
 # Dependencies
 node_modules/

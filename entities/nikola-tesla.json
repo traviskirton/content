@@ -1,0 +1,56 @@
+{
+  "id": "f0a4b9f1-789a-4814-8bcd-369a8d564ea6",
+  "type": "character",
+  "name": "Nikola Tesla",
+  "description": "A brilliant inventor enlisted to create a machine for Robert Angier.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Nikola Tesla is an inventor and electrical engineer, known for his pioneering work in electricity. In *The Prestige*, Tesla is living and working in Colorado Springs, where he continues his experiments on wireless energy transmission."
+    },
+    {
+      "title": "Personality",
+      "body": "Tesla is depicted as an eccentric and visionary scientist with a passion for pushing the boundaries of science. He is deeply invested in his work and largely indifferent to the politics and practices of the business world."
+    },
+    {
+      "title": "Story Role",
+      "body": "Tesla serves as a crucial figure in the narrative of *The Prestige*. He is hired by Robert Angier to create a machine capable of producing a teleportation effect for Angier's magic act. Tesla's machine ultimately produces unexpected and transformative results."
+    },
+    {
+      "title": "Relationships",
+      "body": "Nikola Tesla has a complex professional relationship with Robert Angier, who enlists his help in building a machine for his act. He also has a rival in Thomas Edison, mentioned as a competitor in the world of invention and electricity."
+    },
+    {
+      "title": "Abilities",
+      "body": "Tesla is a masterful inventor and engineer, particularly skilled in the field of electrical engineering and pioneering in wireless energy transfer. His work in *The Prestige* involves creating a machine with seemingly magical capabilities."
+    }
+  ],
+  "aliases": [
+    "The Inventor"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    },
+    {
+      "type": "rivals_with",
+      "target": "5f5157b1-7e9e-4df0-9a2f-d5cb0a2fb7e0"
+    },
+    {
+      "type": "related_to",
+      "target": "5fb7c768-5ebf-4cee-bf7c-e358d2090f1d"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "inventor",
+    "portrayed_by": "David Bowie"
+  },
+  "tags": [
+    "supporting",
+    "mentor",
+    "scientist",
+    "inventor"
+  ]
+}

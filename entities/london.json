@@ -2,45 +2,52 @@
   "id": "5de86068-a215-4f6d-a874-3d9ddb2b83b7",
   "type": "location",
   "name": "London",
-  "description": "Capital city of England and the United Kingdom, known for its significant film industry presence.",
+  "description": "Capital city of the United Kingdom, known for its significant role in film production.",
   "content": [
     {
       "title": "Overview",
-      "body": "**London** is the capital city of England and the United Kingdom, famous for its historical landmarks, cultural institutions, and vibrant arts scene. It is a major global city with a diverse population and serves as a financial and cultural hub. The city is known for iconic landmarks such as the Buckingham Palace, the Tower of London, and the London Eye."
+      "body": "London is the capital city of the United Kingdom, known for its historic landmarks, cultural diversity, and as a major global financial center. Its architecture and vibrant arts scene make it a prime location for film productions."
     },
     {
       "title": "Film History",
-      "body": "London has been a popular location for numerous notable film productions. Its historic and iconic architecture has been featured in many movies. For instance, the Harry Potter film series famously used locations such as King's Cross Station for the magical Platform 9¾ and the Millennium Bridge in 'Harry Potter and the Half-Blood Prince.' Additionally, Westminster Abbey and the Palace of Westminster have been prominently featured in films like 'The Da Vinci Code' and 'V for Vendetta.'"
+      "body": "London has been featured in numerous films and television shows. Notable scenes include the iconic Millennium Bridge destruction in _Harry Potter and the Half-Blood Prince_, the thrilling car chase around the Bank of England in _The Dark Knight_, and the memorable opening of the London 2012 Olympics in _007: Skyfall_."
     },
     {
       "title": "Visiting",
-      "body": "London is a city that offers ample opportunities for film enthusiasts to explore. Most filming locations are publicly accessible, and film location tours are available throughout the city, allowing fans to discover the iconic sites that have graced the silver screen. Key locations like King's Cross Station and the Millennium Bridge are accessible to the public, providing an immersive experience for both locals and tourists."
+      "body": "London is a highly accessible city with numerous public transportation options, including buses, trains, and the iconic London Underground. Film enthusiasts can take guided tours of famous filming locations or visit museums such as the British Film Institute. The city is welcoming to visitors throughout the year."
     }
   ],
   "aliases": [
-    "Capital of England",
-    "London Town"
+    "The Big Smoke",
+    "Londinium"
   ],
   "relationships": [
     {
       "type": "located_in",
-      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
     }
   ],
   "properties": {
     "fictional": false,
     "type": "city",
+    "country": "United Kingdom",
     "coordinates": {
-      "latitude": 51.5074,
-      "longitude": -0.1278
-    },
-    "country": "United Kingdom"
+      "lat": 51.5074,
+      "long": -0.1278
+    }
   },
   "tags": [
     "city",
     "active",
-    "public",
     "tours-available",
-    "iconic-landmarks"
+    "public"
   ]
 }

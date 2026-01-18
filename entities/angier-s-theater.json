@@ -1,0 +1,47 @@
+{
+  "id": "8b7b1c7d-fb3e-4fcd-bbfb-9b12383e78f3",
+  "type": "location",
+  "name": "Angier's Theater",
+  "description": "A famous theater in London owned by magician Robert Angier, known for its captivating magic performances.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Angier's Theater was founded by the renowned magician **Robert Angier** during the golden age of magic in London. It became the venue for some of the most impressive illusions ever performed, including the legendary 'The Transported Man' trick, which astounded audiences and was central to Angier's rivalry with fellow magician **Alfred Borden**."
+    },
+    {
+      "title": "Geography",
+      "body": "Located in the bustling city of **London** during the late 19th and early 20th centuries, the theater is situated amongst other notable entertainment venues of the time."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The theater is known for its grand stage and state-of-the-art equipment designed specifically for magic performances. It includes a hidden basement where Angier stored his secrets and conducted much of his work."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Angier's Theater serves as a central location in *The Prestige*, where many of the film's significant events unfold. Angier's obsession with besting Borden leads him to increasingly dangerous and morally ambiguous decisions, many of which are executed within this theater. It represents both the peak of Angier's career and the site of his ultimate downfall."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    },
+    {
+      "type": "located_in",
+      "target": "12a34567-89ab-4cde-b012-3f456789abcd"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "magic",
+    "narrative_centrality",
+    "19th_century",
+    "mystery",
+    "drama"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "b843d517-768d-4cea-ae3e-fef49e9a0c8e",
+  "type": "person",
+  "name": "Scarlett Johansson",
+  "description": "American actress known for her roles in films such as 'Lost in Translation' and the Marvel Cinematic Universe.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Scarlett Johansson was born on November 22, 1984, in New York City, New York. She showed a passion for acting from a young age and attended the Professional Children's School in Manhattan. Johansson made her film debut in 'North' in 1994 and gained recognition for her role in 'The Horse Whisperer' in 1998."
+    },
+    {
+      "title": "Career",
+      "body": "Scarlett Johansson has appeared in a wide variety of roles, establishing herself as a versatile actress. She gained worldwide fame for her role as Natasha Romanoff / Black Widow in the Marvel Cinematic Universe, starting with 'Iron Man 2' (2010). Other notable films include 'Lost in Translation' (2003), 'The Prestige' (2006), 'The Avengers' series, and 'Marriage Story' (2019). Her performances have earned her several awards and nominations, including multiple Golden Globe nominations. She is known for her ability to portray complex characters with depth and nuance."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Johansson has worked with many prominent directors and actors throughout her career. She has frequently collaborated with directors like Woody Allen and the Russo Brothers. She has also co-starred with actors like Robert Downey Jr., Chris Evans, and Mark Ruffalo in the Marvel Cinematic Universe."
+    },
+    {
+      "title": "Legacy",
+      "body": "Scarlett Johansson is considered one of the most talented actresses of her generation, known for her contributions to both blockbuster films and independent cinema. She has been named among the world's highest-paid actresses multiple times. Johansson's impact on the industry is underscored by her dynamic performances across various genres and her ability to appeal to a broad audience."
+    }
+  ],
+  "aliases": [
+    "ScarJo"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "e2a7890e-ac3e-4a58-a5d9-7f33cc9c5867"
+    },
+    {
+      "type": "acted_in",
+      "target": "b9ecb7c5-7d9b-4d73-8297-43a2b9c4431a"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "f38c8570-bf94-458e-b8b8-4a5fdc5efaa1"
+    }
+  ],
+  "properties": {
+    "born": 1984,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "singer",
+      "producer"
+    ],
+    "active_years": "1994-present"
+  },
+  "tags": [
+    "actor",
+    "producer",
+    "modern",
+    "drama",
+    "thriller",
+    "sci-fi",
+    "comedy"
+  ]
+}

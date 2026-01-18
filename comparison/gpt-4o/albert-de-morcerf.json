@@ -1,0 +1,56 @@
+{
+  "id": "878e8ef7-cac7-4094-8b84-a5467a5248ed",
+  "type": "character",
+  "name": "Albert de Morcerf",
+  "description": "Son of Fernand Mondego and Mercédès, key character in 'The Count of Monte Cristo'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Albert de Morcerf is the son of Fernand Mondego (later known as Count de Morcerf) and Mercédès. He was born into a life of privilege and nobility in Paris. From a young age, Albert was given every advantage of education and refinement, becoming a well-mannered young man, though perhaps a bit naive due to his sheltered upbringing."
+    },
+    {
+      "title": "Personality",
+      "body": "Albert is characterized by his youthful exuberance and naiveté. Despite his noble upbringing, he exhibits a sincere and noble character. He is well-liked and sociable, showing a sense of honor and fairness. His era's aristocratic lifestyle can sometimes cloud his judgment, making him initially blind to the flaws of those around him."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Count of Monte Cristo', Albert serves as an unwitting pawn in the Count's revenge against his family, specifically aimed at his father, Fernand Mondego. Albert initially admires the Count and considers him a friend. Throughout the narrative, Albert’s perception changes as truths about his family’s past come to light, leading to a maturation of character by the end of the novel."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Fernand Mondego**: Albert's father, later revealed to have a dark past which affects Albert's standing.\n- **Mercédès**: Albert's loving mother, who provides emotional support and wisdom.\n- **Edmond Dantès** (Count of Monte Cristo): Initially seen as a friend and benefactor, Albert's view of the Count dramatically changes over the course of the novel."
+    }
+  ],
+  "aliases": [
+    "Viscount de Morcerf"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "4cd03369-18ad-427a-9a34-4f337f9c51c7"
+    },
+    {
+      "type": "related_to",
+      "target": "761d9e94-6294-472b-a35c-bbf470a6d510"
+    },
+    {
+      "type": "related_to",
+      "target": "5b178eaf-65ec-4c0d-8f34-93fab1c9b5f6"
+    },
+    {
+      "type": "appears_in",
+      "target": "3c6350b1-f92d-4f6a-a7e7-e82f61c57b13"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "nobleman, Viscount",
+    "born": "1820",
+    "portrayed_by": "Henry Cavill (film adaptation)"
+  },
+  "tags": [
+    "supporting",
+    "aristocrat",
+    "redeemed"
+  ]
+}

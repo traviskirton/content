@@ -1,0 +1,88 @@
+{
+  "id": "278eef75-2ad5-4241-b689-e4ea9f35ac58",
+  "type": "movie",
+  "name": "The Prestige",
+  "description": "A gripping tale of rivalry between two magicians in the late 19th century.",
+  "content": [
+    {
+      "title": "Synopsis",
+      "body": "In the late 19th century, two magicians, Robert Angier and Alfred Borden, engage in a fierce rivalry to create the ultimate stage illusion. As their obsession grows, they resort to increasingly dangerous methods, putting their lives and the lives of those around them at risk."
+    },
+    {
+      "title": "Production",
+      "body": "Directed by Christopher Nolan, 'The Prestige' is based on the 1995 novel of the same name by Christopher Priest. The film was developed from the Nolan brothers' (Christopher and Jonathan) screenplay, exploring intense themes of rivalry, ambition, and the cost of success. The film features a period-appropriate set, utilizing practical effects and visual storytelling to create a captivating atmosphere."
+    },
+    {
+      "title": "Reception",
+      "body": "'The Prestige' received critical acclaim for its storytelling, direction, and performances, particularly those of Hugh Jackman and Christian Bale. The film was commercially successful, grossing over $109 million worldwide on a budget of $40 million. It received Academy Award nominations for Best Art Direction and Best Cinematography."
+    },
+    {
+      "title": "Legacy",
+      "body": "The film is often regarded as one of Christopher Nolan's finest works and has had a lasting impact on the thriller genre. Its intricate narrative structure and exploration of the art of illusion have influenced numerous filmmakers and have led to a cult following."
+    }
+  ],
+  "aliases": [
+    "Prestige"
+  ],
+  "relationships": [
+    {
+      "type": "directed_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "written_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "stars",
+      "target": "4cf6d8b9-71f4-4eff-9c9e-bb3b3f7b2e8e"
+    },
+    {
+      "type": "stars",
+      "target": "75a9dc7b-02ee-4d3b-8855-57f9b7f91a43"
+    },
+    {
+      "type": "stars",
+      "target": "b843d517-768d-4cea-ae3e-fef49e9a0c8e"
+    },
+    {
+      "type": "stars",
+      "target": "8e1f45e8-42ac-4c0b-977f-50f479d573b3"
+    },
+    {
+      "type": "composed_by",
+      "target": "a3c5de67-f1d3-42b6-a6b3-123f0d65c1a4"
+    },
+    {
+      "type": "produced_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "distributed_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    }
+  ],
+  "properties": {
+    "year": 2006,
+    "runtime": 130,
+    "genre": [
+      "Mystery",
+      "Thriller"
+    ],
+    "budget": 40000000,
+    "box_office": 109676311,
+    "rating": "PG-13"
+  },
+  "tags": [
+    "mystery",
+    "thriller",
+    "2000s",
+    "drama",
+    "cult",
+    "Christopher Nolan"
+  ]
+}

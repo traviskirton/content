@@ -1,0 +1,61 @@
+{
+  "id": "cb746d10-0b57-4d72-b8e8-5d9b782d92f6",
+  "type": "item",
+  "name": "Bentley (Bond)",
+  "description": "A classic luxury car used by James Bond, outfitted with spy gadgets.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Bentley is a luxury vehicle featured in the James Bond universe, primarily used by Bond for transportation that combines opulence with covert utility. It symbolizes both Bond's refined taste and his access to technologically advanced equipment."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Bentley is a classic British luxury car, often depicted as a sleek, elegant, and polished vehicle with a timeless design. It features a gleaming exterior, typically in black or dark shades, with a spacious interior accentuated by leather upholstery and wood trims suitable for a sophisticated secret agent."
+    },
+    {
+      "title": "Function",
+      "body": "Beyond standard luxury car functions, the Bentley is equipped with various spy gadgets to assist James Bond in missions. These modifications may include concealed weapons, enhanced communication devices, and defensive mechanisms, enabling it to serve as both reliable transport and a tactical asset."
+    },
+    {
+      "title": "History",
+      "body": "The Bentley used by James Bond originates from British automotive craftsmanship, with its precise customization done by Q Branch — the technical division of MI6 responsible for arming agents with specialized equipment. The vehicle has appeared in several Bond films, serving as an extension of Bond's persona as a suave yet deadly operative."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Bentley represents Bond's combination of style, sophistication, and lethal efficiency. It often appears in key scenes where Bond showcases his ability to seamlessly blend luxury with espionage. Its presence reinforces Bond's identity and enhances narrative moments involving high-speed chases, secretive meetings, or surprise tactics."
+    }
+  ],
+  "properties": {
+    "item_type": "vehicle",
+    "created_by": "Q Branch",
+    "fictional": true,
+    "brand": "Bentley",
+    "notable_features": [
+      "spy gadgets",
+      "concealed weapons",
+      "luxury interior"
+    ]
+  },
+  "relationships": [
+    {
+      "type": "used_by",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    },
+    {
+      "type": "created_by",
+      "target": "d6f7c658-eaf4-4a2e-9d84-9e2ef4e7a3d1"
+    },
+    {
+      "type": "featured_in",
+      "target": "50fa1b1e-8679-4b51-9646-e429e7c9da31"
+    }
+  ],
+  "tags": [
+    "vehicle",
+    "technology",
+    "spy gadget",
+    "James Bond",
+    "luxury",
+    "fictional"
+  ]
+}

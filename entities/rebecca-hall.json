@@ -1,0 +1,54 @@
+{
+  "id": "2f3b4a12-3b8e-4d7e-893c-f997a275db93",
+  "type": "person",
+  "name": "Rebecca Hall",
+  "description": "British-American actress known for her work in film and television.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Rebecca Hall was born on May 3, 1982, in London, England. She is the daughter of English director Peter Hall and American opera singer Maria Ewing. Hall attended the prestigious Roedean School and later studied English Literature at St. Catharine's College, Cambridge, before leaving to pursue a career in acting."
+    },
+    {
+      "title": "Career",
+      "body": "Rebecca Hall made her professional debut in the film industry with a role in the 2006 film **'Starter for 10'**. She achieved wider recognition for her role in the Woody Allen film **'Vicky Cristina Barcelona'** (2008), for which she received a Golden Globe nomination. Hall is known for her versatile performances in a range of films such as **'The Prestige'** (2006), **'Frost/Nixon'** (2008), **'The Town'** (2010), and **'Iron Man 3'** (2013). Her performances often showcase a deep emotional range and a meticulous approach to character development."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Rebecca Hall has frequently collaborated with director Christopher Nolan, appearing in his film **'The Prestige'** alongside notable actors like Hugh Jackman and Christian Bale. She has also worked with Woody Allen in **'Vicky Cristina Barcelona'** and director Ben Affleck in **'The Town'**."
+    },
+    {
+      "title": "Legacy",
+      "body": "Rebecca Hall has established herself as a prominent figure in the film industry, known for her compelling performances and critical acclaim. She has received various awards and nominations over her career, including a Golden Globe nomination, and continues to influence the next generation of actors. Hall also made her directorial debut with the 2021 film **'Passing'**, further demonstrating her versatility and talent in the industry."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "575d2e4e-e610-4fbb-879d-3c1d688c945e"
+    },
+    {
+      "type": "acted_in",
+      "target": "e2a7890e-ac3e-4a58-a5d9-7f33cc9c5867"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    }
+  ],
+  "properties": {
+    "born": 1982,
+    "nationality": "British-American",
+    "occupation": [
+      "Actor",
+      "Director"
+    ],
+    "active_years": "2003-present"
+  },
+  "tags": [
+    "actor",
+    "director",
+    "drama",
+    "modern"
+  ]
+}

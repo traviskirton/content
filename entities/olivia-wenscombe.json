@@ -1,0 +1,49 @@
+{
+  "id": "e8d3c29a-4f45-4d7e-a5e5-9fda241de2d7",
+  "type": "character",
+  "name": "Olivia Wenscombe",
+  "description": "Assistant and lover of Robert Angier in 'The Prestige'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Olivia Wenscombe is a character in *The Prestige*, a film directed by Christopher Nolan. She works closely with Robert Angier, a magician, as his assistant and later becomes intimately involved with him."
+    },
+    {
+      "title": "Personality",
+      "body": "Olivia is depicted as intelligent, strong-willed, and independent. She is skilled in managing magical performances and plays a significant role in Angier's professional life. Her motivations are often driven by her relationships and personal loyalty."
+    },
+    {
+      "title": "Story Role",
+      "body": "Olivia's character acts as a pivotal bridge between the two lead characters, Robert Angier and Alfred Borden, contributing to the unfolding drama and rivalry in the narrative. Her romantic involvement with both characters creates tension and further complicates the storyline."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Robert Angier**: Olivia is initially Angier's assistant and lover, deeply involved in his professional and personal life.\n- **Alfred Borden**: Her complex relationship with Borden adds layers to the narrative, affecting the rivalry between the two magicians."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    },
+    {
+      "type": "related_to",
+      "target": "5f5157b1-7e9e-4df0-9a2f-d5cb0a2fb7e0"
+    },
+    {
+      "type": "related_to",
+      "target": "f93e7d9c-7911-4390-bb6f-73c0803b2d65"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Magician's Assistant",
+    "portrayed_by": "Scarlett Johansson"
+  },
+  "tags": [
+    "supporting",
+    "love-interest",
+    "complex-character"
+  ]
+}

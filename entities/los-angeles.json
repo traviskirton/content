@@ -2,19 +2,19 @@
   "id": "ecf87b10-d3f5-4832-9c1a-3e1bfaea6abc",
   "type": "location",
   "name": "Los Angeles",
-  "description": "A major city known for its role in the film and entertainment industry.",
+  "description": "Los Angeles is a major city in California known for its significant role in movies and television production.",
   "content": [
     {
       "title": "Overview",
-      "body": "**Los Angeles** is a city in California, USA, and is widely recognized as the entertainment capital of the world. It is home to Hollywood, numerous film studios, and entertainment companies, making it a central hub for the film and television industry."
+      "body": "Los Angeles, commonly referred to as LA, is a large city located in Southern California. It is well-known as the entertainment capital of the world and is primarily known for its significant role in the global film and television industry. Los Angeles is home to Hollywood, which is the heart of the American film industry."
     },
     {
       "title": "Film History",
-      "body": "Los Angeles has been the backdrop for countless films and television shows. Some iconic movies filmed here include `Chinatown`, `Pulp Fiction`, and films within the `Batman` franchise. Notable scenes include downtown Los Angeles for futuristic cityscapes and various neighborhoods for diverse cultural settings."
+      "body": "Many notable movies and television shows have been filmed in Los Angeles, taking advantage of its diverse landscapes and iconic cityscapes. The city itself frequently doubles for other locations in films. LA has hosted filming for movies like 'La La Land', 'Pulp Fiction', and 'Blade Runner'. Notable film locations within the city include the Hollywood Sign, Griffith Observatory, and Santa Monica Pier."
     },
     {
       "title": "Visiting",
-      "body": "Los Angeles is highly accessible to the public with many studios offering tours, such as Warner Bros. Studios Burbank and Universal Studios Hollywood. Visitors can also explore iconic locations like the Walk of Fame, the TCL Chinese Theatre, and the Hollywood Sign."
+      "body": "Los Angeles is open to the public and offers various tours, including studio tours at Warner Bros. Studios and Universal Studios Hollywood. These tours allow visitors to see behind the scenes of film production. The city is also home to world-renowned museums, beaches, and a vibrant nightlife, making it a popular tourist destination."
     }
   ],
   "aliases": [
@@ -24,30 +24,35 @@
   "relationships": [
     {
       "type": "located_in",
-      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
     },
     {
-      "type": "located_in",
-      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+      "type": "filming_location_for",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
     }
   ],
   "properties": {
     "fictional": false,
     "type": "city",
-    "address": null,
-    "city": "Los Angeles",
     "state": "California",
     "country": "United States",
     "coordinates": {
-      "lat": 34.0522,
-      "long": -118.2437
+      "latitude": 34.0522,
+      "longitude": -118.2437
     }
   },
   "tags": [
     "city",
     "active",
     "public",
-    "tours-available",
-    "entertainment"
+    "tours-available"
   ]
 }

@@ -1,0 +1,58 @@
+{
+  "id": "2d0a0ec6-6fdb-4cb8-b3af-9314e8f6a0ba",
+  "type": "character",
+  "name": "Felix Leiter",
+  "description": "CIA operative and longtime ally of James Bond.",
+  "aliases": [
+    "Leiter"
+  ],
+  "content": [
+    {
+      "title": "Background",
+      "body": "**Felix Leiter** is a senior CIA operative of American nationality who has appeared alongside James Bond since the early novels by Ian Fleming. He is originally from the United States and works closely with British intelligence agents, often serving as Bond's counterpart and contact within American intelligence. Over various incarnations, Leiter is portrayed as a seasoned and loyal intelligence officer, trusted by Bond and MI6 alike."
+    },
+    {
+      "title": "Personality",
+      "body": "Felix is characterized by his loyalty, pragmatism, and dependable nature. He can be blunt and straightforward but shares Bond's sense of duty and professionalism. Despite his tough exterior, he is a trusted friend and ally, often assisting Bond in field operations and intelligence gathering. His flaws occasionally include risk-taking in the field and a willingness to bend rules to achieve objectives."
+    },
+    {
+      "title": "Story Role",
+      "body": "Felix Leiter functions primarily as a supporting character and Bond's contact in the CIA. He frequently assists Bond on missions that carry implications for both British and American security. Across the novels and films, Leiter often appears as a fellow operative, sometimes saving Bond or being saved by him. His presence emphasizes the allied relationship between British MI6 and the CIA. He sometimes experiences personal danger and injury, reflecting the stakes of espionage work."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **James Bond:** Felix is James Bond's closest American ally and trusted friend.\n- **CIA and MI6:** He acts as a liaison between American and British intelligence agencies, working closely with both.\n- Other recurring allies and enemies vary by story but typically he shares a professional rapport with many MI6 agents."
+    },
+    {
+      "title": "Abilities",
+      "body": "- Expert in intelligence operations and fieldcraft.\n- Skilled in combat and firearms.\n- Experienced in espionage, covert operations, and interrogation.\n- Fluent in American and international intelligence procedures."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "CIA operative",
+    "portrayed_by": [
+      "Jack Lord",
+      "Cec Linder",
+      "Rik Van Nutter",
+      "David Hedison",
+      "John Terry",
+      "Jeffrey Wright"
+    ]
+  },
+  "tags": [
+    "supporting",
+    "mentor",
+    "human",
+    "spy",
+    "ally",
+    "CIA operative",
+    "intelligence"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "f1b2c3d4-e5f6-7890-abcdefghijk1",
+  "type": "person",
+  "name": "Alexandre Dumas",
+  "description": "French writer famous for historical adventure novels including The Three Musketeers and The Count of Monte Cristo.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Alexandre Dumas was born on July 24, 1802, in Villers-Cotterêts, France. He was the son of General Thomas-Alexandre Dumas, a prominent figure during the French Revolutionary Wars. Growing up in post-revolutionary France, Dumas experienced modest beginnings. He had limited formal education but showcased a passion for literature and writing from a young age."
+    },
+    {
+      "title": "Career",
+      "body": "Dumas began his writing career as a playwright before turning to novel writing. He became renowned for his serialized historical novels, which were immersive, dramatic, and accessible to a broad audience. His major works are characterized by adventure, romance, politics, and intrigue, often set during key moments in French history. His writing style is known for its vivid characters, quick pacing, and emphasis on action and dialogue."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Among his most famous works are \"The Count of Monte Cristo\" and \"The Three Musketeers,\" both of which have been widely adapted into films, television, and other media. \"The Count of Monte Cristo\" is a tale of betrayal and revenge, exploring themes of justice and forgiveness. \"The Three Musketeers\" details the adventures of d'Artagnan and the three musketeers, blending historical events with swashbuckling fun."
+    },
+    {
+      "title": "Legacy",
+      "body": "Alexandre Dumas's influence on literature is profound, pioneering popular historical fiction and adventure genres that remain popular. His works have inspired countless adaptations worldwide, enriching culture and entertainment. Although he faced racial discrimination due to his mixed heritage, his name remains synonymous with classic French literature. His legacy endures through his novels' continued readership and impact on storytelling."
+    }
+  ],
+  "aliases": [
+    "Alexandre Dumas père",
+    "Alexandre Dumas, père",
+    "Alexandre Dumas the Elder",
+    "Alexandre Dumas père (senior)"
+  ],
+  "relationships": [
+    {
+      "type": "wrote",
+      "target": "3c6350b1-f92d-4f6a-a7e7-e82f61c57b13"
+    }
+  ],
+  "properties": {
+    "born": 1802,
+    "died": 1870,
+    "nationality": "French",
+    "genres": [
+      "Historical fiction",
+      "Adventure",
+      "Romance"
+    ]
+  },
+  "tags": [
+    "historical fiction",
+    "19th century",
+    "romanticism",
+    "adventure",
+    "French literature"
+  ]
+}

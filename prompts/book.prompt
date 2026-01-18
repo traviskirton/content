@@ -1,0 +1,23 @@
+Generate a detailed entity for the book "[NAME]".
+
+Include:
+- A comprehensive description
+- Content sections covering:
+  - Synopsis (non-spoiler overview)
+  - Themes (major themes explored)
+  - Publication History (original publication, editions, translations)
+  - Legacy (cultural impact, influence on genre, adaptations)
+- Aliases (alternative titles, series names if applicable)
+- Relationships to other entities (author, publisher, series/franchise, characters, locations)
+- Properties: publication_year, genre (array), page_count (approximate), original_language
+- Tags for categorization (genre tags, era, themes)
+
+Use relationship types like:
+- written_by (to author)
+- published_by (to publisher)
+- part_of (to series/franchise)
+- features_character (to main characters)
+- features_location (to key locations)
+- adapted_into (to film/TV adaptations if any)
+
+IMPORTANT: Only use UUIDs from the existing entities list for relationships. Do not make up UUIDs.

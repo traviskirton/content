@@ -1,0 +1,62 @@
+{
+  "id": "69f8147d-d4c7-472a-9b1f-29b3481fef76",
+  "type": "person",
+  "name": "Piper Perabo",
+  "description": "Piper Perabo is an American actress known for her work in film and television.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Piper Lisa Perabo was born on October 31, 1976, in Dallas, Texas. She made a name for herself as an actress known for her versatility and charm. Perabo graduated from Ohio University, earning a Bachelor of Fine Arts in Theater. Her career officially started in the late 1990s with small roles before achieving her breakout success."
+    },
+    {
+      "title": "Career",
+      "body": "Piper Perabo gained major attention with her performance in the 2000 film **Coyote Ugly**, where she portrayed an ambitious young songwriter. Following the success of that film, she continued to build her career with roles in varied genres, including the spy drama series **Covert Affairs** (2010-2014), for which she received a Golden Globe nomination. Perabo's filmography includes diverse roles in movies like **The Prestige** (2006), and **Looper** (2012). Her style is often characterized by her ability to bring depth and complexity to her characters, blending wit with emotional authenticity."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Throughout her career, Piper Perabo has worked alongside prominent directors and actors, including Christopher Nolan in **The Prestige** and actors like Hugh Jackman and Joseph Gordon-Levitt. Her collaborations have spanned across both film and television, highlighting her adaptability and wide-ranging appeal."
+    },
+    {
+      "title": "Legacy",
+      "body": "Piper Perabo's impact on the entertainment industry is marked by her successful transition from film to television, showcasing her range as an actress. Her role in **Covert Affairs** established her as a formidable presence on television, and she continues to be a respected figure with the ability to draw audiences into her stories. Apart from her acting career, she is also known for her activism and involvement in various social causes."
+    }
+  ],
+  "aliases": [
+    "Piper Lisa Perabo"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "9d8e8f6d-4b3c-4e7f-b92d-1d4ef9e7a5b1"
+    },
+    {
+      "type": "acted_in",
+      "target": "fc8d2f8a-4236-4e8b-b19f-12c312fa4ebf"
+    },
+    {
+      "type": "worked_with",
+      "target": "75a9dc7b-02ee-4d3b-8855-57f9b7f91a43"
+    },
+    {
+      "type": "worked_with",
+      "target": "f4b45718-977d-4185-b97c-8a0f312f5f84"
+    },
+    {
+      "type": "worked_for",
+      "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
+    }
+  ],
+  "properties": {
+    "born": "1976",
+    "nationality": "American",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1997-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "modern"
+  ]
+}

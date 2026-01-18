@@ -1,0 +1,50 @@
+{
+  "id": "b87f1b7e-6794-4fcb-aaa0-4eedf013e2e3",
+  "type": "location",
+  "name": "Colorado Springs",
+  "description": "A pivotal location in 'The Prestige' where crucial developments in the story take place.",
+  "content": [
+    {
+      "title": "History",
+      "body": "In the world of 'The Prestige', Colorado Springs is portrayed as a mysterious and remote town where groundbreaking scientific experiments are conducted. The location gains prominence due to its association with the renowned inventor Nikola Tesla, who is rumored to be conducting secretive works far from the public eye. This period in the narrative marks a significant turning point for the protagonists, particularly for Robert Angier."
+    },
+    {
+      "title": "Geography",
+      "body": "Set amidst the picturesque landscapes of the fictional universe, Colorado Springs is characterized by its vast open spaces and isolation, providing the perfect backdrop for Tesla's experimental endeavors. The seclusion offered by this location plays a vital role in maintaining the secrecy of the technological advancements occurring there."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The most significant feature of Colorado Springs is Tesla's laboratory, which serves as the epicenter for pioneering experiments. The lab is depicted as a hub of innovation and technological marvels, symbolized by the massive lighting displays and complex machinery housed within. This setting amplifies the aura of mystery and intrigue that surrounds Tesla and his inventions."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Colorado Springs holds immense narrative significance as it is here that Robert Angier's pursuit of a groundbreaking illusion materializes. Tesla's experiments in the town lead to the creation of a machine that plays a crucial role in Angier's career and rivalry with Alfred Borden. The location symbolizes the intersection of science and magic that sits at the heart of the film's themes."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "contains",
+      "target": "f0a4b9f1-789a-4814-8bcd-369a8d564ea6"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city"
+  },
+  "tags": [
+    "city",
+    "sci-fi",
+    "historical",
+    "fictional",
+    "The Prestige"
+  ]
+}

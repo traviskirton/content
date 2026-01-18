@@ -1,0 +1,63 @@
+{
+  "id": "e702c27f-23c4-4c42-99f7-c1e42e8cdb2c",
+  "type": "person",
+  "name": "David Bowie",
+  "description": "English singer-songwriter and actor known for his distinctive voice and eclectic career.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "David Bowie, born David Robert Jones on January 8, 1947, in Brixton, London, was an influential figure in the music and film industries. He began his career in music in the 1960s and gained fame with the release of his 1969 single 'Space Oddity.'"
+    },
+    {
+      "title": "Career",
+      "body": "Bowie's acting career included notable roles in films such as 'The Man Who Fell to Earth' (1976), where he played an alien visiting Earth, and 'Labyrinth' (1986), where he starred as Jareth, the Goblin King. Bowie's acting style was often marked by a charismatic, otherworldly presence that mirrored his musical persona."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Bowie frequently collaborated with other artists and creators across various media. In film, he worked with directors such as Nicolas Roeg and Jim Henson, while in music, he collaborated with artists including Queen and Trent Reznor."
+    },
+    {
+      "title": "Legacy",
+      "body": "David Bowie passed away on January 10, 2016, but his influence remains significant in both music and film. Bowie received numerous accolades throughout his career, including Grammy Awards and Brit Awards, and his impact on pop culture and the arts is enduring."
+    }
+  ],
+  "aliases": [
+    "David Robert Jones"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "795f9a71-6b73-4e6e-acb5-1457e2d4c1c4"
+    },
+    {
+      "type": "acted_in",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+    },
+    {
+      "type": "worked_with",
+      "target": "3f9499ca-8ae0-4e8f-b604-5e59d9f3a062"
+    },
+    {
+      "type": "acted_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    }
+  ],
+  "properties": {
+    "born": "1947",
+    "died": "2016",
+    "nationality": "British",
+    "occupation": [
+      "actor",
+      "singer",
+      "songwriter",
+      "record producer"
+    ],
+    "active_years": "1962-2016"
+  },
+  "tags": [
+    "actor",
+    "sci-fi",
+    "fantasy",
+    "modern"
+  ]
+}

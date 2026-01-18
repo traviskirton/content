@@ -71,7 +71,7 @@ Now generate the entity JSON. Output ONLY the JSON, no explanation or markdown c
   while (retries < maxRetries) {
     try {
       response = await client.chat.completions.create({
-        model: 'gpt-4o',
+        model: 'gpt-4.1-mini',
         response_format: { type: 'json_object' },
         messages: [
           { role: 'user', content: fullPrompt }

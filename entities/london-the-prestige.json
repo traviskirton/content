@@ -1,0 +1,45 @@
+{
+  "id": "12a34567-89ab-4cde-b012-3f456789abcd",
+  "type": "location",
+  "name": "London (The Prestige)",
+  "description": "A fictional version of London as depicted in \"The Prestige\".",
+  "content": [
+    {
+      "title": "History",
+      "body": "**London (The Prestige)** is set in the late 19th and early 20th centuries during the period of intense rivalry between two magicians, Robert Angier and Alfred Borden. The city is a backdrop to their competitive attempts to outwit each other with increasingly complex illusions. The historical setting adds a layer of authenticity and gravity to their story, reflecting the cultural fascination with magic during this era."
+    },
+    {
+      "title": "Geography",
+      "body": "This fictional depiction of London serves as a richly atmospheric city, characterized by the fog-laden streets, gas-lit roads, and grand theaters. The city takes on an aura of mystery and intrigue, embodying an era of discovery and enchantment."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **Theaters**: Central to the narrative are the theaters where Angier and Borden perform their illusions. These venues are depicted as opulent and pivotal settings for major plot developments.\n- **Backstage Areas**: Dark and cluttered, these areas provide a stark contrast to the glamour of the stage and are key locations for the story's unfolding mysteries.\n- **Tesla's Lab**: Though not directly in London, Tesla's lab holds significant influence over the events in the city, offering a place of scientific wonder that impacts the magicians' rivalry."
+    },
+    {
+      "title": "Story Significance",
+      "body": "London in \"The Prestige\" is vital as it houses the epicenter of Angier and Borden's rivalry. The city's ambiance amplifies the dramatic tension and serves as a contrasting backdrop to the unusual and supernatural nature of their illusions. It is in London where key character interactions and narrative twists take place, deeply influencing the trajectory of the story."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    },
+    {
+      "type": "located_in",
+      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city"
+  },
+  "tags": [
+    "city",
+    "drama",
+    "period_fiction",
+    "19th_century"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "d6f7c658-eaf4-4a2e-9d84-9e2ef4e7a3d1",
+  "type": "character",
+  "name": "Q",
+  "aliases": [
+    "Quartermaster",
+    "Major Boothroyd"
+  ],
+  "description": "The head of Q Branch, responsible for providing James Bond with gadgets, weapons, and technology.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "**Q** is the code name for the quartermaster of the British Secret Service (MI6), best known as the inventive genius behind the gadgets and high-tech equipment that James Bond uses. The character originated from the title \"Quartermaster\" and was first introduced in Ian Fleming's James Bond novels and subsequently adapted for the film series. Over time, 'Q' became the nickname and primary identity of the character.\n\nThough the personal background and early life of Q are seldom detailed in the films or books, he is typically portrayed as a British technical expert, scientist, and engineer. His position at MI6 involves ensuring that field agents like Bond are equipped with innovative and often unconventional tools that aid in espionage and combat.\n\nMultiple actors have portrayed Q, with significant portrayals by Desmond Llewelyn (the classic Q), John Cleese (as his assistant and successor), and Ben Whishaw (the modern incarnation starting from the Daniel Craig era)."
+    },
+    {
+      "title": "Personality",
+      "body": "- Highly intelligent and inventive, with expertise in engineering and technology.\n- Often exhibits a dry, witty, and sarcastic sense of humor.\n- Patient and meticulous, valuing precision and safety.\n- Shows paternal or mentor-like care toward Bond, frequently admonishing him for reckless behavior but ultimately supporting him.\n- Sometimes exasperated by Bond's disregard for protocols and equipment."
+    },
+    {
+      "title": "Story Role",
+      "body": "**Q** serves as the technological mentor and supplier to James Bond, offering cutting-edge gadgets, vehicles with special modifications, weapons, and various espionage tools. His inventions range from weaponized pens to explosive devices camouflaged as everyday items. Q's role is vital for the success of many Bond missions, as his gadgets often provide creative solutions to complex problems.\n\nOver the course of the film series, Q's relationship with Bond evolves from formal professional to more familiar and friendly, highlighting their mutual respect despite contrasting personalities."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **James Bond**: Q has a professional and somewhat familial relationship with Bond, often teasing him for his reckless use of gadgets but maintaining a protective and supportive attitude.\n- **MI6**: As head of Q Branch, he is a key figure within MI6's organizational structure.\n- **Other Q Branch staff**: Sometimes shown working alongside assistants or successors, for instance, John Cleese's character in later movies."
+    },
+    {
+      "title": "Abilities",
+      "body": "- Genius-level expertise in weapons engineering, gadget design, and espionage technology.\n- Skilled inventor capable of miniaturizing complex devices.\n- Experienced in covert technology applications tailored for espionage.\n- Knowledgeable in explosives, surveillance devices, and clandestine communications.\n- Capable of quick problem-solving under pressure."
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Q Branch Quartermaster, MI6 Engineer",
+    "portrayed_by": [
+      "Desmond Llewelyn",
+      "John Cleese",
+      "Ben Whishaw"
+    ]
+  },
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    }
+  ],
+  "tags": [
+    "supporting",
+    "mentor",
+    "scientist",
+    "inventor",
+    "British Secret Service"
+  ]
+}

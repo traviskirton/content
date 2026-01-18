@@ -1,0 +1,51 @@
+{
+  "id": "919f9f8b-0d8b-4abc-8e2d-f9c0b8980710",
+  "type": "location",
+  "name": "Marseille (Monte Cristo)",
+  "description": "A fictional version of Marseille, central to the story of 'The Count of Monte Cristo'.",
+  "content": [
+    {
+      "title": "History",
+      "body": "In the world of **The Count of Monte Cristo**, Marseille is depicted as the starting point of Edmond Dantès's journey. It's here that Dantès returns from his voyage, only to be unjustly imprisoned following a conspiracy against him."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated along the Mediterranean coast, the fictional version of Marseille is characterized by a bustling port, narrow streets, and vibrant marketplaces. It serves as a key location for trade and commerce in the narrative."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **Port of Marseille**: A central hub for seafaring and trade, crucial for the plot.\n- **Dantès's Residence**: The home of Edmond Dantès before his imprisonment.\n- **Phocéen Café**: A fictional café where several key discussions take place."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Marseille is where the plot begins and where several important characters are first introduced. It symbolizes both the starting point of Dantès's misfortune and the eventual site of his return."
+    }
+  ],
+  "aliases": [
+    "Marseille",
+    "Monte Cristo's Marseille"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "3c6350b1-f92d-4f6a-a7e7-e82f61c57b13"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "contains",
+      "target": "25c7e3f9-896d-4b1c-9f8b-5f67ae3d1825"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city"
+  },
+  "tags": [
+    "city",
+    "historical fiction",
+    "19th century"
+  ]
+}

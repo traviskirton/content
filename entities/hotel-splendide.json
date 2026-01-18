@@ -1,0 +1,50 @@
+{
+  "id": "11cba6f8-6d26-4d9a-8e57-8d66871c435f",
+  "type": "location",
+  "name": "Hotel Splendide",
+  "description": "A luxurious hotel and casino featured in Casino Royale, known for its opulent setting and as the site of a pivotal high-stakes poker game.",
+  "content": [
+    {
+      "title": "History",
+      "body": "**Hotel Splendide** is a renowned establishment within the universe of *Casino Royale*. Noted as a luxurious hotel and casino, it serves as a key setting where significant events pertaining to espionage and gambling unfold. The hotel gained prominence as the venue for the crucial baccarat and poker games involving James Bond and his adversaries. It is depicted as an exclusive and sophisticated destination catering to elite clientele involved in espionage, gambling, and high society."
+    },
+    {
+      "title": "Geography",
+      "body": "Hotel Splendide is located in the fictional city of Royale-les-Eaux, a renowned European resort town on the northern coast of France. The hotel occupies a beachfront position overlooking the sea, with grand architecture evoking the elegance and grandeur of classic European luxury hotels. Its proximity to the casino and scenic waterfront makes it a prestigious and atmospheric place for the story’s events."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The hotel is famed for its:\n\n- Lavish accommodations with elegantly appointed rooms and suites.\n- An integrated casino where the high-stakes poker game is held.\n- Grand public spaces including a formal dining room, lounges, and terraces with sea views.\n- Security and surveillance befitting a location attracting espionage figures.\n- A stylish, tense atmosphere that perfectly complements the intense psychological games played inside."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Hotel Splendide is central to *Casino Royale*'s narrative as the primary venue for the climactic poker tournament where James Bond confronts Le Chiffre, the story's antagonist. The hotel's casino setting facilitates key scenes of secrecy, strategy, and suspense, making it the backdrop for pivotal suspenseful gameplay and interactions that drive the plot forward. The hotel epitomizes the blend of luxury and danger characteristic of Bond’s world."
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building",
+    "founded": "circa 1950s",
+    "population": null
+  },
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "c3f0383d-af85-4de1-b691-667d0a3d9a10"
+    },
+    {
+      "type": "featured_in",
+      "target": "9d3e574f-7b2f-4d0a-a07f-7e0d4a2a5a17"
+    }
+  ],
+  "tags": [
+    "building",
+    "casino",
+    "luxury hotel",
+    "espionage",
+    "spy fiction",
+    "1950s",
+    "Casino Royale",
+    "James Bond"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "9d5b4558-6a3f-4b9f-8463-7bc1ed6c314c",
+  "type": "character",
+  "name": "Villefort",
+  "description": "Gerard de Villefort is a powerful prosecutor in 'The Count of Monte Cristo' who is involved in the wrongful imprisonment of Edmond Dantès.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Villefort is a character of noble lineage, the son of a known Bonapartist named Noirtier. He seeks to distance himself from his father's political affiliations by working as a public prosecutor who aligns himself with the royalists. Villefort is highly ambitious and eager to advance his career and societal standing."
+    },
+    {
+      "title": "Personality",
+      "body": "Villefort is depicted as cunning, ambitious, and opportunistic. He is willing to sacrifice others to protect his own career and reputation. His primary flaw is his hubris, believing that his actions, no matter how unscrupulous, are justified if they serve his ends."
+    },
+    {
+      "title": "Story Role",
+      "body": "Villefort is one of the main antagonists in 'The Count of Monte Cristo.' He is responsible for the imprisonment of Edmond Dantès after facilitating a letter that implicates him as a Bonapartist plotter. Villefort's actions set the plot in motion, leading to Edmond Dantès' transformation into the Count of Monte Cristo."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Edmond Dantès** (UUID: 5b178eaf-65ec-4c0d-8f34-93fab1c9b5f6): The man he wrongfully imprisons, and who later becomes the Count of Monte Cristo and seeks revenge.\n- **Noirtier**: His father, whose Bonapartist leanings Villefort tries to conceal.\n- **Baron Danglars** (UUID: b8d6f445-34f2-4a94-b9e6-608d667b7727), **Fernand Mondego** (UUID: 4cd03369-18ad-427a-9a34-4f337f9c51c7), **Gérard de Villefort**: Co-conspirators in Dantès' downfall.\n- **Mercédès** (UUID: 761d9e94-6294-472b-a35c-bbf470a6d510): Once romantically linked to Dantès."
+    }
+  ],
+  "aliases": [
+    "Gérard de Villefort"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "3c6350b1-f92d-4f6a-a7e7-e82f61c57b13"
+    },
+    {
+      "type": "rivals_with",
+      "target": "5b178eaf-65ec-4c0d-8f34-93fab1c9b5f6"
+    },
+    {
+      "type": "related_to",
+      "target": "4fbe1a5d-6f87-44c1-9e0c-d5f49f4f752d"
+    },
+    {
+      "type": "related_to",
+      "target": "b8d6f445-34f2-4a94-b9e6-608d667b7727"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Prosecutor",
+    "born": "1796"
+  },
+  "tags": [
+    "antagonist",
+    "villain",
+    "noble",
+    "prosecutor"
+  ]
+}
