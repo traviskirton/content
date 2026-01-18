@@ -1,0 +1,44 @@
+{
+  "id": "1d8e8f63-e7a7-4c41-92b4-df0f60f9fb34",
+  "type": "location",
+  "name": "Mumbai",
+  "description": "A fictional representation of the city in 'Tenet', featuring notable action scenes.",
+  "content": [
+    {
+      "title": "History",
+      "body": "In the universe of *Tenet*, Mumbai is depicted as a bustling metropolis where significant parts of the plot unfold. The city is portrayed primarily for its architectural and urban landscape, which hosts crucial events linked to characters navigating complex time-inversion situations."
+    },
+    {
+      "title": "Geography",
+      "body": "Located in India, Mumbai in *Tenet* combines elements of the real world with fictional enhancements to heighten the narrative's tension and urgency. The city is characterized by its high-rise buildings and busy streets which provide the backdrop for intense action sequences."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Mumbai features several important fictional locations, including the high-rise buildings where key espionage activities occur. The cityscape contributes to the tension and scale of the action sequences."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Mumbai serves as a critical location in *Tenet*, where the Protagonist and Neil execute a daring plan to capture Priya, who is integral to unraveling the antagonistic plot. The sequences in Mumbai emphasize the film's themes of time manipulation and reflect its intricate storyline."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "contains",
+      "target": "1c4d5e6f-8b9a-7c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city"
+  },
+  "tags": [
+    "city",
+    "sci-fi",
+    "futuristic"
+  ]
+}

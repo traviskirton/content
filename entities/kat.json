@@ -1,0 +1,52 @@
+{
+  "id": "3fbb2f56-c3f7-457a-8773-e8b9f7d8e57b",
+  "type": "character",
+  "name": "Kat",
+  "description": "A pivotal character in 'Tenet,' Kat plays a crucial role as the estranged wife of antagonist Andrei Sator.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Kat is a British art appraiser and the wife of Andrei Sator. She is trapped in a controlling and abusive marriage due to her husband's manipulation and power plays. She is deeply concerned for the well-being of her son, Max, which becomes a primary motivation for her actions throughout the film."
+    },
+    {
+      "title": "Personality",
+      "body": "Kat is a strong-willed and determined individual. Despite being in a difficult situation, she is protective of her son and willing to take great risks to ensure his safety. Her resilience is evident as she navigates the dangerous world she is unwillingly a part of. However, she struggles with trust and vulnerability due to her traumatic experiences."
+    },
+    {
+      "title": "Story Role",
+      "body": "Kat is central to the plot of 'Tenet' as her relationship with Sator and the fate of their son drive much of the protagonist's actions. Her liberation becomes a symbolic parallel to the film's broader themes of time inversion and free will. Kat's character arc involves reclaiming her autonomy and making pivotal decisions that impact the unfolding events."
+    },
+    {
+      "title": "Relationships",
+      "body": "Kat is married to Andrei Sator, the primary antagonist, which places her in a precarious position. Her relationship with the Protagonist, the film's lead character, is complex as they develop trust and alliance over the course of the narrative. Their interactions are marked by shared goals to undermine Sator's plans and protect Max."
+    }
+  ],
+  "aliases": [
+    "Katherine Barton"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "related_to",
+      "target": "d1f9c872-b97c-4c93-bd58-22a7a721b3a6"
+    },
+    {
+      "type": "related_to",
+      "target": "c45406b4-9c8f-4f0d-8f0d-df8562b1e735"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Art Appraiser",
+    "portrayed_by": "Elizabeth Debicki"
+  },
+  "tags": [
+    "protagonist",
+    "supporting",
+    "protective",
+    "resilient"
+  ]
+}

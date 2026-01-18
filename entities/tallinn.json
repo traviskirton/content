@@ -1,0 +1,49 @@
+{
+  "id": "2f691aae-612a-4460-bf97-9a2a258499b1",
+  "type": "location",
+  "name": "Tallinn",
+  "description": "A key location in the movie 'Tenet', featuring in a major heist sequence.",
+  "content": [
+    {
+      "title": "History",
+      "body": "**Tallinn** in the universe of \"Tenet\" serves as a critical location for a major heist during the movie. While in the real world, Tallinn is the capital of Estonia, the film uses it as a backdrop for complex action sequences involving time inversion devices."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated as an oceanic gateway city with access to several major maritime routes, Tallinn is depicted as a modern city with a mix of historic and contemporary architecture. The film showcases both the urban cityscape and the waterfront."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Tallinn features prominently in an intense heist scene, involving the use of the Freeport storage facility specifically designed for securely storing and trading valuables. This location is pivotal to the plot as it involves the lead characters attempting to invert time to retrieve a valuable artifact."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'Tenet', Tallinn is the site of a complex heist that is central to the film's plot. By utilizing technology that manipulates time, the protagonists undertake a bold operation that combines forward and backward actions, showcasing the film's unique take on time travel and its physical implications. This setting allows the plot to explore the intricacies of time inversion and present some of the movie's most memorable action sequences."
+    }
+  ],
+  "aliases": [
+    "Reval"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "contains",
+      "target": "b4833d86-f3d9-4bd8-b8b6-97b1e1f89de8"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city",
+    "founded": "Unknown"
+  },
+  "tags": [
+    "city",
+    "sci-fi",
+    "futuristic",
+    "heist",
+    "action"
+  ]
+}

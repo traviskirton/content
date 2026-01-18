@@ -1,0 +1,55 @@
+{
+  "id": "0e1248f3-9ad0-40a1-9a1e-8e92d7756809",
+  "type": "item",
+  "name": "Algorithm",
+  "description": "A device designed to invert the entropy of all objects on Earth in 'Tenet.'",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Algorithm is a fictional device in the film 'Tenet', created with the capability to invert the entropy of the entire planet, effectively reversing the flow of time globally. It is central to the plot of the film and is a powerful tool that can lead to catastrophic consequences if misused."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Algorithm consists of nine separate pieces which, when assembled, form a complex and intricate-looking mechanism. Its construction is metallic with interconnected parts, having an almost abstract design indicating advanced technology."
+    },
+    {
+      "title": "Function",
+      "body": "The primary function of the Algorithm is to reverse the entropy of the Earth, essentially inverting time for all objects and beings. It was devised as a means to 'reset' the planet and was intended as a last resort by future generations facing environmental collapse."
+    },
+    {
+      "title": "History",
+      "body": "The Algorithm was created in the future as a response to climate change and other environmental challenges. A scientist, whose precise identity remains unknown, developed it but then hid its components in different locations and sent them back through time to prevent its assembly and potentially apocalyptic consequences."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Throughout 'Tenet', the Protagonist and members of the Tenet organization seek to prevent the Algorithm from being assembled by Andrei Sator, who aims to use it to end the world. The Algorithm's assembly and disassembly are pivotal plot points, especially during the climactic battle at Stalsk-12."
+    }
+  ],
+  "properties": {
+    "item_type": "device",
+    "created_by": "Unknown future scientist",
+    "fictional": true
+  },
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "used_by",
+      "target": "1e9f075d-babe-4e28-8fa4-1123e2c61d7f"
+    },
+    {
+      "type": "located_at",
+      "target": "d5d1c4f9-a7d2-4f2e-8d4f-a0b7f7e0d567"
+    }
+  ],
+  "tags": [
+    "device",
+    "artifact",
+    "sci-fi",
+    "macguffin",
+    "time-travel",
+    "powerful"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "54f3e302-d610-4d5d-b588-38db06f93a1d",
+  "type": "location",
+  "name": "Estonia",
+  "description": "Country in Northern Europe known for its medieval architecture and notable filming locations.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Estonia is a country in Northern Europe bordered by the Gulf of Finland and the Baltic Sea. Known for its rich history and well-preserved medieval architecture, Estonia is a growing hub for film production due to its unique landscapes and favorable production incentives."
+    },
+    {
+      "title": "Film History",
+      "body": "Estonia has been featured in several international productions. Notably, **Christopher Nolan's 'Tenet'** was filmed here, utilizing locations in and around the cities of Tallinn and Narva. Key sequences including the complex car chase scenes were shot in Tallinn, showcasing the city's urban landscapes."
+    },
+    {
+      "title": "Visiting",
+      "body": "Estonia is open to the public, and visitors can explore its beautiful cities, including medieval Old Towns like Tallinn, a UNESCO World Heritage Site. While direct film tours are not typically offered, visitors may recognize landscapes from various film scenes while exploring the region."
+    }
+  ],
+  "aliases": [
+    "Republic of Estonia"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "country",
+    "coordinates": {
+      "lat": "58.5953",
+      "long": "25.0136"
+    },
+    "city": "Tallinn"
+  },
+  "tags": [
+    "country",
+    "active",
+    "public",
+    "filming-location"
+  ]
+}

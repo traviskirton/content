@@ -1,0 +1,54 @@
+{
+  "id": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09",
+  "type": "location",
+  "name": "United Kingdom",
+  "description": "The United Kingdom, a sovereign country in north-western Europe, consists of England, Scotland, Wales, and Northern Ireland.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The **United Kingdom** (UK) is a sovereign country located off the north-western coast of mainland Europe. Comprising four constituent countries: England, Scotland, Wales, and Northern Ireland, it has a rich history and diverse culture. Known for its significant impact on global politics, economics, science, and culture. The UK serves not only as a residential and business hub but also as a dynamic cultural and tourist destination visited by millions each year."
+    },
+    {
+      "title": "Film History",
+      "body": "The United Kingdom has served as a backdrop for numerous notable film productions: \n- **Harry Potter series**: Various real-world locations such as Alnwick Castle and Gloucester Cathedral across the UK doubled for fictional sites in the wizarding world.\n- **James Bond series**: Locations like the MI6 Building in London have been prominently featured.\n- **The Dark Knight Rises**: Key scenes were filmed in urban landscapes and iconic structures.\n- Countless historical films and period dramas levered the UK's historic castles, countryside, and estates."
+    },
+    {
+      "title": "Visiting",
+      "body": "The United Kingdom is accessible to the public and welcomes tourists from around the globe. Major cities like London, Edinburgh, and Cardiff offer a wide range of attractions, from museums to historic landmarks. Visitors can explore famous filming locations and partake in guided tours that delve into the rich tapestry of film history intertwined with the UK’s cultural heritage. Public transport and travel infrastructure make visiting various parts of the UK feasible and accommodated by diverse lodging options."
+    }
+  ],
+  "aliases": [
+    "UK",
+    "Britain",
+    "Great Britain"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "country",
+    "country": "United Kingdom"
+  },
+  "tags": [
+    "country",
+    "public",
+    "tours-available",
+    "active"
+  ]
+}

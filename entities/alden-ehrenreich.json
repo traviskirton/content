@@ -24,16 +24,7 @@
   "aliases": [
     "Alden Caleb Ehrenreich"
   ],
-  "relationships": [
-    {
-      "type": "acted_in",
-      "target": "7e3f2345-7495-43b0-bc1c-7059233f5c2d"
-    },
-    {
-      "type": "acted_in",
-      "target": "f8730861-4d1c-42b9-9404-1ecf0cb5e58e"
-    }
-  ],
+  "relationships": [],
   "properties": {
     "born": 1989,
     "nationality": "American",

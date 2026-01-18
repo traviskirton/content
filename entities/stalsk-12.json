@@ -1,0 +1,43 @@
+{
+  "id": "d5d1c4f9-a7d2-4f2e-8d4f-a0b7f7e0d567",
+  "type": "location",
+  "name": "Stalsk-12",
+  "description": "A fictional location depicted as a secretive closed city within the Russian Federation in the movie 'Tenet'.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Stalsk-12 is presented as a closed city established during the height of the Cold War, closely associated with nuclear research and experimental technology. It plays a significant role in the backdrop of the events leading to the inversion technology pivotal to 'Tenet'."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated in a remote and desolate landscape within Russia, Stalsk-12 is portrayed as having a harsh climate, surrounded by barren land, and with limited accessibility, emphasizing its secretive and isolated nature."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The most notable feature of Stalsk-12 is the large facility dedicated to housing and operating the experimental technology related to time inversion. This facility is critical to the antagonistic plans in the film, featuring heavily fortified structures and advanced weaponry."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Stalsk-12 is the setting for the climactic showdown in 'Tenet', where the protagonist and his allies seek to thwart the antagonist's plan of using the inversion technology housed there to annihilate the present timeline. Its depiction as a site of cataclysmic potential sets the stakes for the narrative's resolution."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city"
+  },
+  "tags": [
+    "city",
+    "sci-fi",
+    "futuristic"
+  ]
+}

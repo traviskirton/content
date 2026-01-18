@@ -1,0 +1,56 @@
+{
+  "id": "6f2e94d3-7482-4de5-829a-c5f5a8b75212",
+  "type": "character",
+  "name": "Neil",
+  "description": "A key character in 'Tenet', portrayed by Robert Pattinson.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Neil is a mysterious and intelligent operative who works alongside the Protagonist to prevent World War III. Not much is known about his past, but it is hinted that he has a deep understanding of time inversion technology."
+    },
+    {
+      "title": "Personality",
+      "body": "Neil is portrayed as charming, witty, and intelligent. He is extremely loyal to the Protagonist and demonstrates a strong sense of duty towards their mission. Despite his laid-back demeanor, Neil is highly perceptive and skilled in combat and espionage."
+    },
+    {
+      "title": "Story Role",
+      "body": "Neil serves as the Protagonist's primary ally throughout the film 'Tenet'. He assists in various missions related to preventing a catastrophic future event. As the story unfolds, it becomes clear that Neil has known the Protagonist for a long time, due to their encounters across time. His arc concludes with a heroic sacrifice, revealing he knows his fate due to the temporal nature of their mission."
+    },
+    {
+      "title": "Relationships",
+      "body": "Neil shares a deep bond with the Protagonist, suggesting a long-standing friendship that transcends time. He also has working relationships with several operatives involved in the 'Tenet' mission, though these are not explored in detail."
+    },
+    {
+      "title": "Abilities",
+      "body": "Neil possesses extensive knowledge of time inversion technology, combat skills, and tactical expertise. He is also fluent in multiple languages and skilled in infiltration and reconnaissance."
+    }
+  ],
+  "aliases": [
+    "The operative"
+  ],
+  "relationships": [
+    {
+      "type": "portrayed_by",
+      "target": "dbf564e7-1a57-4ed3-a2b0-ec5d646bdb24"
+    },
+    {
+      "type": "appears_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "friends_with",
+      "target": "c45406b4-9c8f-4f0d-8f0d-df8562b1e735"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "operative"
+  },
+  "tags": [
+    "protagonist",
+    "supporting",
+    "hero",
+    "time-traveler",
+    "operative"
+  ]
+}

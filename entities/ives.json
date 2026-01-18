@@ -1,0 +1,57 @@
+{
+  "id": "ed4f8534-1cc4-4c5e-b8f8-c54c9f0d3eff",
+  "type": "character",
+  "name": "Ives",
+  "description": "Ives is a military leader and strategist from the film 'Tenet'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Ives is introduced as a high-ranking military officer who works closely with The Protagonist and Neil in the film _Tenet_. His specific background is not extensively detailed in the film, but his command and strategic skills imply a thorough military and tactical upbringing."
+    },
+    {
+      "title": "Personality",
+      "body": "Ives is decisive, strategic, and highly mission-focused. He is known for his quick thinking and ability to adapt rapidly to changing situations. He is pragmatic and not easily swayed by emotions, prioritizing mission success above all else."
+    },
+    {
+      "title": "Story Role",
+      "body": "Ives plays a critical supporting role in the film, acting as a key strategist and leader in the battle against Andrei Sator's plans. He leads the Red Team in the final temporal pincer movement and works closely with The Protagonist and Neil to ensure the success of their mission."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **The Protagonist**: Ives works collaboratively with The Protagonist, respecting his leadership and capabilities. They share the mutual goal of stopping Sator.\n- **Neil**: Ives also coordinates with Neil during their operations, sharing a professional camaraderie.\n- **Andrei Sator**: As his antagonist, Ives is determined to prevent Sator's catastrophic plans."
+    },
+    {
+      "title": "Abilities",
+      "body": "Ives possesses advanced military tactics and leadership skills. He is adept at coordinating complex operations involving temporal mechanics, showcasing his expertise in executing high-stakes missions with precision."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "friends_with",
+      "target": "c45406b4-9c8f-4f0d-8f0d-df8562b1e735"
+    },
+    {
+      "type": "friends_with",
+      "target": "6f2e94d3-7482-4de5-829a-c5f5a8b75212"
+    },
+    {
+      "type": "rivals_with",
+      "target": "1e9f075d-babe-4e28-8fa4-1123e2c61d7f"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "military leader",
+    "portrayed_by": "Aaron Taylor-Johnson"
+  },
+  "tags": [
+    "supporting",
+    "strategist",
+    "military"
+  ]
+}

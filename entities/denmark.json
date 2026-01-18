@@ -1,0 +1,49 @@
+{
+  "id": "5c8b7e90-7d23-4d42-94f9-fddeb9ad7162",
+  "type": "location",
+  "name": "Denmark",
+  "description": "A Scandinavian country known for its rich history and picturesque landscapes, often used as a filming location.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Denmark is a country located in Northern Europe, part of the Scandinavian region. Known for its diverse landscapes, from rolling hills to serene coasts, and its modern cities rich in history. Denmark is famous for its design, gastronomy, and high standard of living."
+    },
+    {
+      "title": "Film History",
+      "body": "Denmark's scenic beauty and unique architecture have made it a popular filming location. One notable production is the movie 'Tenet' (2020), directed by Christopher Nolan, where several scenes were shot in the capital city, Copenhagen. The futuristic architecture and urban settings provided a perfect backdrop for the film's intricate storyline."
+    },
+    {
+      "title": "Visiting",
+      "body": "Denmark is open to the public and easily accessible through various international connections. Key attractions include the Tivoli Gardens, The Little Mermaid statue, and Kronborg Castle. The country offers guided tours and film location tours that provide insights into the historical and cultural significance of local sites."
+    }
+  ],
+  "aliases": [
+    "Kongeriget Danmark",
+    "Danish Kingdom"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "located_in",
+      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "country",
+    "country": "Denmark",
+    "coordinates": {
+      "lat": 56.2639,
+      "long": 9.5018
+    }
+  },
+  "tags": [
+    "country",
+    "active",
+    "public",
+    "tours-available"
+  ]
+}

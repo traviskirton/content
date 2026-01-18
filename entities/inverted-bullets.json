@@ -1,0 +1,62 @@
+{
+  "id": "f3d1b1e4-6292-4b9a-a398-0f01fde8ea08",
+  "type": "item",
+  "name": "Inverted Bullets",
+  "description": "Bullets that move backwards in time, causing damage before being fired.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Inverted Bullets are a type of weapon featured in the movie \"Tenet.\" These bullets are characterized by their ability to travel backwards through time, effectively reversing the cause and effect of their trajectory. This means they cause damage before being fired, creating a unique tactical advantage."
+    },
+    {
+      "title": "Appearance",
+      "body": "Physically, inverted bullets appear similar to regular bullets. However, their interaction with time gives them the distinct characteristic of causing observable damage in reverse."
+    },
+    {
+      "title": "Function",
+      "body": "Inverted bullets work by utilizing technology that allows objects to reverse their entropy. When fired, these bullets move backwards through time, striking a target before they are technically shot out of the gun. This reversed causality is a central aspect of the film's narrative, providing a visually compelling and strategic element to combat scenes."
+    },
+    {
+      "title": "History",
+      "body": "The concept and creation of inverted bullets are attributed to future scientists who developed the technology to manipulate time. This innovation was initially created as part of a larger effort to combat a future threat, but the specifics of their origin are deeply tied to the enigmatic Sator, who seeks to use such technology for his own purposes."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Inverted bullets play a significant role in several key scenes in \"Tenet.\" One notable scene involves Neil, The Protagonist, and other operatives using these bullets during a heist at the Freeport. They illustrate the mind-bending time mechanics at play, emphasizing the movie's exploration of time inversion and its implications for warfare and strategy."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "used_by",
+      "target": "c45406b4-9c8f-4f0d-8f0d-df8562b1e735"
+    },
+    {
+      "type": "used_by",
+      "target": "6f2e94d3-7482-4de5-829a-c5f5a8b75212"
+    },
+    {
+      "type": "created_by",
+      "target": "1ea15c82-2e51-4f0d-bfce-98fc45a6ac50"
+    },
+    {
+      "type": "located_at",
+      "target": "b4833d86-f3d9-4bd8-b8b6-97b1e1f89de8"
+    }
+  ],
+  "properties": {
+    "item_type": "weapon",
+    "created_by": "future scientists",
+    "fictional": true
+  },
+  "tags": [
+    "weapon",
+    "sci-fi",
+    "time-travel",
+    "technology"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "7f2e64b4-d234-468a-bad5-398f1e34e2a9",
+  "type": "location",
+  "name": "India",
+  "description": "A vibrant and diverse country known for its rich culture and history, and a popular filming destination.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**India** is a country located in South Asia, known for its vast landscapes, cultural heritage, and vibrant cities. It serves as a major hub for the film industry, both for Bollywood and international productions."
+    },
+    {
+      "title": "Film History",
+      "body": "India has been the backdrop for numerous notable films. The historic city of **Jodhpur** doubled for Gotham City in **'The Dark Knight Rises'**. Various locations in India have been used in other famous movies like **'Slumdog Millionaire'**, showcasing the bustling streets of Mumbai, and **'The Best Exotic Marigold Hotel,'** set in the colorful landscapes of Rajasthan."
+    },
+    {
+      "title": "Visiting",
+      "body": "India is accessible to the public with diverse attractions, ranging from the Himalayas in the north to tropical beaches in the south. Many film locations offer tours, such as the **Mehrangarh Fort in Jodhpur**, where visitors can experience the cinematic scenery firsthand. The country is generally welcoming to tourists with rich experiences in music, dance, cuisine, and festivals."
+    }
+  ],
+  "aliases": [
+    "Bharat",
+    "Republic of India"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "country",
+    "country": "India",
+    "coordinates": "20.5937, 78.9629"
+  },
+  "tags": [
+    "country",
+    "active",
+    "public",
+    "tours-available",
+    "cultural-hub"
+  ]
+}

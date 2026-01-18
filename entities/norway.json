@@ -1,0 +1,56 @@
+{
+  "id": "e6ac1f30-0d01-4c84-9c18-9ae8f13f4ef2",
+  "type": "location",
+  "name": "Norway",
+  "description": "A Scandinavian country known for its stunning landscapes, used as a filming location for various films.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Norway** is a Scandinavian country encompassing vast wilderness, mountains, glaciers, and deep coastal fjords. The capital, Oslo, is a city of green spaces and museums. Norway is known for its vibrant cultural life, natural beauty, and as an adventure tourism hotspot."
+    },
+    {
+      "title": "Film History",
+      "body": "Norway has served as a breathtaking backdrop for multiple film productions. Notably, *Star Wars: Episode V – The Empire Strikes Back* filmed scenes in Norway, specifically the snowy landscapes of the Hardangerjøkulen Glacier, doubling for the ice planet Hoth. The film *The Wave* (Bølgen), a disaster movie based on a true-story rockslide-induced tsunami, was filmed along the scenic edges of the Geirangerfjord. Other movies include *Ex Machina*, where the secluded setting reflects the isolation required for the film's narrative, and *Tenet*, which filmed some sequences in Oslo and the stunning Rjukan waterfall."
+    },
+    {
+      "title": "Visiting",
+      "body": "Norway is highly accessible to tourists, offering a range of public transport options including buses, trains, and ferries. Many tourist companies provide guided tours to iconic fjords, northern lights experiences, and historic site visits. As a popular destination, it has ample tourist infrastructure catering to international visitors. Key filming locations like the fjords and major cities like Oslo are highlighted in various tourism packages."
+    }
+  ],
+  "aliases": [
+    "Kingdom of Norway"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "country",
+    "country": "Norway",
+    "coordinates": [
+      60.472,
+      -8.4689
+    ]
+  },
+  "tags": [
+    "country",
+    "active",
+    "tours-available",
+    "public"
+  ]
+}

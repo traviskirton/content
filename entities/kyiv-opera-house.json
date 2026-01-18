@@ -1,0 +1,48 @@
+{
+  "id": "e7a9c560-40c9-4d9e-9432-f8f2e4df1d02",
+  "type": "location",
+  "name": "Kyiv Opera House",
+  "description": "A prominent and pivotal location in the film 'Tenet' where a high-stakes mission unfolds.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Kyiv Opera House, in the universe of 'Tenet,' is portrayed as a grand and historic venue for performing arts in the capital of Ukraine. Within the context of the film, it becomes the site of a major, intense action sequence."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated in the heart of Kyiv, the Opera House is depicted as a large and architecturally significant building, marked by its ornate design and spacious seating area, typical of European cultural landmarks of its kind."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The interior of the Kyiv Opera House is lavish, featuring rich velvet seating, grand balconies, and intricate moldings. It serves as an ideal backdrop for performances as well as the dramatic events of the storyline in 'Tenet.'"
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'Tenet,' the Kyiv Opera House is the setting for a crucial opening sequence involving a complex operation to protect civilians from a terrorist attack. This scene sets the tone for the protagonist's journey, introducing viewers to the film's high-concept spying and time manipulation themes."
+    }
+  ],
+  "aliases": [
+    "Kyiv's Opera",
+    "Opera House in Tenet"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "located_in",
+      "target": "9f7d3c2e-4e7a-4b8c-aa54-bc42389b8de9"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "sci-fi",
+    "action",
+    "2020s"
+  ]
+}

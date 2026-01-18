@@ -1,0 +1,60 @@
+{
+  "id": "1e9f075d-babe-4e28-8fa4-1123e2c61d7f",
+  "type": "character",
+  "name": "Andrei Sator",
+  "description": "A powerful Russian oligarch and arms dealer dealing with inverted time technology.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Andrei Sator is a Russian oligarch born in the former Soviet Union. He rose from humble beginnings in the Soviet secret cities where he later acquired control of an inverted detonation device."
+    },
+    {
+      "title": "Personality",
+      "body": "Sator is ruthless, ambitious, and driven by a desire for control and power. He is highly manipulative, often using those around him to achieve his own ends, and displays a cold, calculating demeanor."
+    },
+    {
+      "title": "Story Role",
+      "body": "Sator serves as the main antagonist in 'Tenet,' attempting to trigger a world-ending event using inversed time technology. His actions set the plot into motion and he becomes the primary obstacle for the Protagonist and Neil."
+    },
+    {
+      "title": "Relationships",
+      "body": "Sator is married to Kat, who becomes an important figure in his plans and someone he manipulates emotionally. His relationship with her is abusive and controlling. He is a key adversary to the Protagonist and Neil in their mission to stop him."
+    },
+    {
+      "title": "Abilities",
+      "body": "Sator has significant influence and resources at his disposal as an oligarch. He understands and uses inverted time technology to his advantage, posing a significant threat to the protagonists."
+    }
+  ],
+  "aliases": [
+    "Sator"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "related_to",
+      "target": "3fbb2f56-c3f7-457a-8773-e8b9f7d8e57b"
+    },
+    {
+      "type": "rivals_with",
+      "target": "c45406b4-9c8f-4f0d-8f0d-df8562b1e735"
+    },
+    {
+      "type": "rivals_with",
+      "target": "6f2e94d3-7482-4de5-829a-c5f5a8b75212"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "oligarch",
+    "portrayed_by": "Kenneth Branagh"
+  },
+  "tags": [
+    "antagonist",
+    "villain",
+    "oligarch",
+    "arms dealer"
+  ]
+}

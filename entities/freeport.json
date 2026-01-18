@@ -1,0 +1,41 @@
+{
+  "id": "b4833d86-f3d9-4bd8-b8b6-97b1e1f89de8",
+  "type": "location",
+  "name": "Freeport",
+  "description": "Secure storage facility in Oslo, Norway used in art heists and inversion-based operations.",
+  "content": [
+    {
+      "title": "Geography",
+      "body": "Freeport is located at the Oslo Airport, designed to be a tax-free, high-security storage facility primarily for artworks and other valuable items."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **Security**: The Freeport is equipped with advanced security systems, including blast-proof storage areas and oxygen-deprivation as a defense mechanism.\n- **Vaults**: The core of the Freeport consists of highly secure vaults used for storing art and valuables."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Freeport plays a pivotal role in the film 'Tenet' as a location where The Protagonist and Neil execute a heist to retrieve a piece of the algorithm. The reverse temporal mechanics are prominently featured here, showcasing the complexity of the operation through inversion."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "located_in",
+      "target": "5de86068-a215-4f6d-a874-3d9ddb2b83b7"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building",
+    "population": "N/A"
+  },
+  "tags": [
+    "building",
+    "sci-fi",
+    "futuristic"
+  ]
+}

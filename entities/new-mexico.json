@@ -23,12 +23,7 @@
     "country": "United States",
     "coordinates": "34.5199,-105.8701"
   },
-  "relationships": [
-    {
-      "type": "filming_location_for",
-      "target": "f9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
-    }
-  ],
+  "relationships": [],
   "tags": [
     "film-location",
     "tourist-attraction",

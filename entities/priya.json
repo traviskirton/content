@@ -1,0 +1,54 @@
+{
+  "id": "1c4d5e6f-8b9a-7c0d-1e2f-3a4b5c6d7e8f",
+  "type": "character",
+  "name": "Priya",
+  "description": "A key arms dealer and a significant player in the events of 'Tenet'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Priya is an influential arms dealer based in Mumbai, India. She possesses a deep understanding of the covert and inverted world and plays a crucial role in the narrative by providing vital information and resources to The Protagonist."
+    },
+    {
+      "title": "Personality",
+      "body": "Priya is portrayed as a calm, calculated, and highly intelligent character. She is resourceful and strategic, often thinking several steps ahead. Her motivations align with maintaining the balance of power and preventing catastrophic outcomes."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Tenet', Priya serves as a critical source of information for The Protagonist. She provides insights into the operations of Andrei Sator and the mechanics of time inversion. Her character is pivotal in guiding the main characters towards understanding the threat posed by the future arms race."
+    },
+    {
+      "title": "Relationships",
+      "body": "Priya maintains a professional relationship with The Protagonist, acting as a facilitator of information. Her connection with Andrei Sator is adversarial, as she secretly works against his plan to manipulate time inversion technology for destructive purposes."
+    },
+    {
+      "title": "Abilities",
+      "body": "Priya possesses extensive knowledge of arms dealing and international espionage. She expertly navigates the complexities of time inversion and has access to a vast network of contacts and resources."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "related_to",
+      "target": "1e9f075d-babe-4e28-8fa4-1123e2c61d7f"
+    },
+    {
+      "type": "related_to",
+      "target": "c45406b4-9c8f-4f0d-8f0d-df8562b1e735"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "arms dealer",
+    "portrayed_by": "Dimple Kapadia"
+  },
+  "tags": [
+    "supporting",
+    "mentor",
+    "resourceful",
+    "strategist"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "c6b6351e-9147-4f0b-a56f-ce388c7ab4ce",
+  "type": "location",
+  "name": "Italy",
+  "description": "A country in Southern Europe, known for its rich film history and diverse filming locations.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Italy** is a country located in Southern Europe, known for its rich history, culture, and contributions to art, architecture, and cuisine. Its real-world purpose spans a variety of industries including tourism, agriculture, and manufacturing. Italy is not only a popular tourist destination but also a significant location for international film productions due to its picturesque landscapes and historic architecture."
+    },
+    {
+      "title": "Film History",
+      "body": "Italy has been the backdrop for many notable film productions. Movies such as **'The Talented Mr. Ripley'**, **'Gladiator'**, and **'Eat Pray Love'** have utilized Italy's stunning locations. The Vatican and the Colosseum in Rome, the canals of Venice, and the rolling hills of Tuscany have been featured in countless productions, helping to bring stories to life with their unique atmospheres."
+    },
+    {
+      "title": "Visiting",
+      "body": "Italy is accessible to tourists and visitors from around the globe. Popular destinations like Rome, Venice, and Florence offer a mix of historical sites and modern amenities. Many historical places can be explored independently or as part of guided tours, providing insights into both Italian culture and the locations seen in various film productions. **Note:** Access to specific filming sites may vary depending on location and season."
+    }
+  ],
+  "aliases": [
+    "Italian Republic",
+    "Repubblica Italiana"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "9ea831c8-8d94-4312-9954-6159a1c7e065"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "country",
+    "address": null,
+    "city": null,
+    "state": null,
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 41.87194,
+      "longitude": 12.56738
+    }
+  },
+  "tags": [
+    "country",
+    "film location",
+    "public",
+    "tourism",
+    "historic"
+  ]
+}

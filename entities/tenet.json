@@ -1,0 +1,98 @@
+{
+  "id": "bc20c469-e768-4609-8f86-70267ae45c1a",
+  "type": "movie",
+  "name": "Tenet",
+  "description": "A mind-bending espionage thriller where time inversion plays a crucial role.",
+  "content": [
+    {
+      "title": "Synopsis",
+      "body": "In the world of international espionage, a mysterious organization known as _Tenet_ is leading a risky operation in a bid to prevent World War III. Armed with only one word – Tenet – a protagonist journeys through a twilight world of global intrigue on a mission that will unfold in something beyond real-time: time inversion."
+    },
+    {
+      "title": "Production",
+      "body": "Directed and written by Christopher Nolan, _Tenet_ was produced by Syncopy and Warner Bros. Pictures. The project was shrouded in secrecy, described as an epic blockbuster blending action and science fiction elements. Filming took place across various countries, including Denmark, Estonia, India, Italy, and the United Kingdom, with principal photography commencing in May 2019 and wrapping up in November 2019."
+    },
+    {
+      "title": "Reception",
+      "body": "Upon release, _Tenet_ received mixed to positive reviews, praising its visual effects, direction, and the originality of the concept, although some critics cited the complexity of the plot and sound mixing as points of contention. The film grossed over $363 million worldwide against a production budget of $200 million, becoming one of the highest-grossing films of 2020."
+    },
+    {
+      "title": "Legacy",
+      "body": "Despite the challenges of releasing during the COVID-19 pandemic, _Tenet_ became a point of discussion for its ambitious storytelling and pioneering use of time inversion in film. It is considered by many to be a testament to Christopher Nolan's dedication to practical effects and complex narratives."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "directed_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "written_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "stars",
+      "target": "0c1d2eb3-acf4-4343-9924-58f2bf89e121"
+    },
+    {
+      "type": "stars",
+      "target": "fa6ad433-5bae-4a91-a9c6-38068e12d6f8"
+    },
+    {
+      "type": "stars",
+      "target": "d1f9c872-b97c-4c93-bd58-22a7a721b3a6"
+    },
+    {
+      "type": "stars",
+      "target": "e13cd9c3-d92f-4f3e-8726-79d8f37bc561"
+    },
+    {
+      "type": "composed_by",
+      "target": "d89a19c5-7b44-4ff8-bd6b-90b4f3bbf2a4"
+    },
+    {
+      "type": "features_location",
+      "target": "708e2574-efb1-4626-b6f2-a8e2af2f8227"
+    },
+    {
+      "type": "features_location",
+      "target": "7b053441-48e1-4d56-96c7-498a1d3f832d"
+    },
+    {
+      "type": "features_location",
+      "target": "a2f3b6c9-7654-4b8d-9ec3-fa7c4f8a670d"
+    },
+    {
+      "type": "features_location",
+      "target": "b623e742-3a65-4ea9-a559-787f3d096a8e"
+    }
+  ],
+  "properties": {
+    "year": 2020,
+    "runtime": 150,
+    "genre": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "budget": 200000000,
+    "box_office": 363000000,
+    "rating": "PG-13"
+  },
+  "tags": [
+    "sci-fi",
+    "action",
+    "thriller",
+    "2020s",
+    "time-travel",
+    "blockbuster"
+  ]
+}

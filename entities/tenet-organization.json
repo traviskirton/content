@@ -1,0 +1,57 @@
+{
+  "id": "534627de-1fa6-44f3-b786-9fd4c7a72c30",
+  "type": "organization",
+  "name": "Tenet Organization",
+  "description": "A secretive organization operating in a world where time inversion is a reality.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Tenet Organization** is a clandestine and enigmatic organization dedicated to preventing global catastrophe through the use of time inversion technology. Its primary mission is to ensure global stability by manipulating and understanding the flow of time."
+    },
+    {
+      "title": "History",
+      "body": "The history of the Tenet Organization is shrouded in mystery, much like its operations. It is implicitly known that the organization was formed in response to advances in time manipulation and inversion technology. Since its inception, Tenet has been involved in numerous covert operations to thwart existential threats."
+    },
+    {
+      "title": "Structure",
+      "body": "The Tenet Organization operates with a decentralized structure. Leadership and hierarchy are not explicitly defined, allowing for flexibility and minimal risk of exposure. Key members, known as 'Protagonists,' are tasked with executing high-stakes missions."
+    },
+    {
+      "title": "Operations",
+      "body": "The organization employs unique methods involving time inversion, allowing its members to interact with events that are unfolding in reverse. This technology is harnessed to prevent events that could lead to widespread destruction. **Goals** include maintaining the chronological integrity of the world and averting temporal disasters."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In the narrative of *Tenet*, the organization plays a crucial role in enabling the protagonist, known as 'The Protagonist,' to unravel and prevent a complex plot orchestrated by antagonist Andrei Sator. Key moments include the storied 'Temporal Pincer Movement' where the organization demonstrates its mastery over time inversion to achieve its objectives."
+    }
+  ],
+  "aliases": [
+    "Tenet"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "led_by",
+      "target": "c45406b4-9c8f-4f0d-8f0d-df8562b1e735"
+    },
+    {
+      "type": "members",
+      "target": "6f2e94d3-7482-4de5-829a-c5f5a8b75212"
+    }
+  ],
+  "properties": {
+    "founded": "Unknown",
+    "founder": "Unknown",
+    "type": "secret society",
+    "headquarters": "Unknown",
+    "fictional": true
+  },
+  "tags": [
+    "secret-society",
+    "neutral",
+    "sci-fi"
+  ]
+}

@@ -26,10 +26,6 @@
   ],
   "relationships": [
     {
-      "type": "acted_in",
-      "target": "9e5d0420-d2b1-4c4b-bd78-ec194a7ec45e"
-    },
-    {
       "type": "worked_with",
       "target": "f38c8570-bf94-458e-b8b8-4a5fdc5efaa1"
     },

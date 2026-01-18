@@ -1,0 +1,47 @@
+{
+  "id": "7fa7678a-d5a9-4078-b7ae-33e0209b251c",
+  "type": "character",
+  "name": "Barbara",
+  "description": "Barbara is a character featured in the film 'Tenet', portrayed by Clémence Poésy.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Barbara, appearing in 'Tenet', is a scientist with deep knowledge about the complex time inversion technology central to the film's plot. Her background and early life remain largely unexplored in the film, but she serves as an informative character explaining crucial science to the protagonist."
+    },
+    {
+      "title": "Personality",
+      "body": "Barbara is portrayed as intelligent, composed, and pragmatic. She approaches the sci-fi concepts of the film with a calm demeanor and provides clear, concise explanations of the complex temporal mechanics at play. Her motivation seems to be aligned with the larger mission of preventing global catastrophe."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Tenet', Barbara's role is primarily expository, educating the protagonist on the nuances of inverted entropy and guiding him in his initial understanding of the mission. While her screen time is limited, she plays a pivotal role in setting the stage for the protagonist's journey."
+    },
+    {
+      "title": "Relationships",
+      "body": "Barbara's key relationship in 'Tenet' is with the protagonist, whom she informs about the temporal inversion technology. She acts as both a mentor and a source of vital information for him, although their personal relationship dynamics beyond this professional interaction are not deeply explored."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "portrayed_by",
+      "target": "599550fb-347b-4874-bd88-4eada7a957b8"
+    },
+    {
+      "type": "appears_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "friends_with",
+      "target": "c45406b4-9c8f-4f0d-8f0d-df8562b1e735"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "scientist"
+  },
+  "tags": [
+    "supporting",
+    "mentor",
+    "scientist"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ec7514e5-5d96-4b77-9114-43d63e0ff912",
+  "type": "location",
+  "name": "Amalfi Coast",
+  "description": "A luxurious fictional seaside location featured in the film 'Tenet.'",
+  "content": [
+    {
+      "title": "Geography",
+      "body": "The **Amalfi Coast** is depicted as a picturesque seaside region characterized by stunning cliffs, clear blue waters, and elegant villas. It is situated in an indeterminate geographic region in the world of 'Tenet,' echoing the real-world Amalfi Coast in Italy."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **Luxury Villas**: Expansive and opulent, these villas overlook the sea, offering a backdrop for key interactions.\n- **Private Beaches**: Secluded beaches provide a setting for private meetings and character development.\n- **Yacht Marinas**: Serving as a docking place for elegant yachts, highlighting the wealth associated with the location."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The **Amalfi Coast** plays a vital role in 'Tenet' as the setting for crucial meetings between characters, revealing critical narrative developments. It provides a serene yet dramatic backdrop that contrasts with the complexity of the plot, enhancing the thematic elements of time, luxury, and intrigue."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "region"
+  },
+  "tags": [
+    "region",
+    "luxury",
+    "sci-fi",
+    "futuristic"
+  ]
+}
