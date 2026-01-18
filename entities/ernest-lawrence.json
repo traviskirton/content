@@ -1,0 +1,49 @@
+{
+  "id": "1a39400a-5c38-4f4d-9e47-c5e8b93e1f23",
+  "type": "character",
+  "name": "Ernest Lawrence",
+  "description": "A prominent physicist and supporter of the Manhattan Project.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Ernest Lawrence, born in 1901, was a brilliant physicist known for inventing the cyclotron. He played a significant role in the development of the atomic bomb as part of the Manhattan Project."
+    },
+    {
+      "title": "Personality",
+      "body": "Ernest was known for his dedication to scientific advancement and his ability to foster collaboration among scientists. He was passionate about his work but also deeply concerned about the impact of scientific discoveries on the world."
+    },
+    {
+      "title": "Story Role",
+      "body": "In the narrative of 'Oppenheimer', Ernest Lawrence is portrayed as a key scientific collaborator and a supporter of J. Robert Oppenheimer. He provides technical expertise and helps to advance the Manhattan Project."
+    },
+    {
+      "title": "Relationships",
+      "body": "Ernest Lawrence has a professional relationship with J. Robert Oppenheimer, working closely with him on the development of the atomic bomb. As part of the scientific community, he is also connected to many of the other scientists involved in the project."
+    },
+    {
+      "title": "Abilities",
+      "body": "Lawrence is a skilled physicist, known for his invention of the cyclotron, a device that was crucial in experimental particle physics. He has extensive technical expertise and scientific knowledge, which he applies in both theoretical and practical settings."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "friends_with",
+      "target": "f41da99b-62cf-4de5-b79b-9c999e62aa8f"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "physicist",
+    "born": "1901",
+    "portrayed_by": "Josh Hartnett"
+  },
+  "tags": [
+    "supporting",
+    "scientist",
+    "collaborator"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "b398dd70-b0aa-4c0a-ae4d-0efec7e5bb1e",
+  "type": "character",
+  "name": "Jean Tatlock",
+  "description": "A psychiatrist and love interest of J. Robert Oppenheimer in 'Oppenheimer'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Jean Tatlock was born in the early 1910s and rose to prominence in the 1930s and 1940s in America. She worked as a psychiatrist and was known for her political activism, particularly her affiliations with Communist organizations. Tatlock's relationship with J. Robert Oppenheimer, the physicist who spearheaded the Manhattan Project, was marked by both romance and tension due to their political differences."
+    },
+    {
+      "title": "Personality",
+      "body": "Tatlock was known for her intelligence, depth, and political awareness. She was a passionate individual, both in her personal relationships and political beliefs. Her involvement in Communist activities often put her at odds with the establishment, reflecting her rebellious nature."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Oppenheimer', Jean Tatlock serves as a significant love interest to J. Robert Oppenheimer, providing insight into his personal conflicts and struggles beyond his scientific career. Her tragic fate underscores the emotional and political complexities that affected Oppenheimer's life and work."
+    },
+    {
+      "title": "Relationships",
+      "body": "Tatlock had a complicated romantic relationship with J. Robert Oppenheimer, marked by a deep intellectual connection and shared political discussions. Their relationship was pivotal, affecting Oppenheimer's personal life and career decisions."
+    }
+  ],
+  "aliases": [
+    "Jean Frances Tatlock"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "related_to",
+      "target": "f41da99b-62cf-4de5-b79b-9c999e62aa8f"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "psychiatrist",
+    "portrayed_by": "Florence Pugh"
+  },
+  "tags": [
+    "supporting",
+    "love interest",
+    "historical figure"
+  ]
+}

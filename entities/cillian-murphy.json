@@ -2,36 +2,44 @@
   "id": "15f5a123-d9e8-4397-b782-67814dc0b9b6",
   "type": "person",
   "name": "Cillian Murphy",
-  "description": "Irish actor known for his roles in 'Peaky Blinders' and 'Inception.'",
+  "description": "Acclaimed Irish actor known for his roles in Inception, Peaky Blinders, and The Dark Knight Trilogy.",
   "content": [
     {
       "title": "Biography",
-      "body": "Cillian Murphy was born in 1976 in Douglas, County Cork, Ireland. Initially inclined towards music, Murphy turned down a record deal to focus on acting, and began his career in theatre in the late 1990s."
+      "body": "Cillian Murphy was born on May 25, 1976, in Douglas, Cork, Ireland. He began his career in music as a lead singer and guitarist for a rock band before moving into acting. His acting career started with stage productions and short films in the late 1990s."
     },
     {
       "title": "Career",
-      "body": "Murphy's breakout role came in 2002 with the film *28 Days Later*, where he played the lead role of Jim. He gained further recognition as Dr. Jonathan Crane/Scarecrow in Christopher Nolan's *The Dark Knight Trilogy*. His collaboration with Nolan continued in *Inception* (2010) and *Dunkirk* (2017). Murphy is also highly acclaimed for his role as Thomas Shelby in the BBC series *Peaky Blinders*."
+      "body": "Cillian Murphy gained international recognition for his performance as Jim in **28 Days Later** (2002). He is renowned for his versatility and ability to portray complex characters. His notable works include portraying Dr. Jonathan Crane/Scarecrow in **The Dark Knight Trilogy** and starring as Thomas Shelby in the television series **Peaky Blinders**. Murphy has worked extensively with director Christopher Nolan, featuring in films such as **Inception** (2010) and **Dunkirk** (2017)."
     },
     {
       "title": "Notable Collaborations",
-      "body": "Murphy frequently collaborates with director Christopher Nolan, appearing in several of his films including *Batman Begins*, *The Dark Knight*, *The Dark Knight Rises*, *Inception*, and *Dunkirk*. He has also worked with actors like Christian Bale, Tom Hardy, and Michael Caine, often within Nolan's projects."
+      "body": "Murphy has frequently collaborated with director Christopher Nolan, appearing in **The Dark Knight Trilogy**, **Inception**, and **Dunkirk**. He has also co-starred with actors like Tom Hardy and Michael Caine."
     },
     {
       "title": "Legacy",
-      "body": "Cillian Murphy is celebrated for his versatility and intensity as an actor, contributing significantly to both film and television. He has received numerous awards and nominations for his performances, especially noted for his impactful portrayal in *Peaky Blinders*."
+      "body": "Cillian Murphy is known for his intense performances and has been nominated for and received numerous awards throughout his career. His roles have left a significant impact on both film and television, solidifying him as a prominent actor in contemporary cinema."
     }
   ],
   "aliases": [
-    "Cilian Murphy"
+    "Cillian Murphy"
   ],
   "relationships": [
     {
       "type": "acted_in",
-      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
     },
     {
       "type": "acted_in",
-      "target": "f18ac8fd-6b74-4e9d-9abc-dbd5c4747e5b"
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "acted_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "acted_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
     },
     {
       "type": "worked_with",
@@ -39,7 +47,7 @@
     },
     {
       "type": "worked_with",
-      "target": "4cf6d8b9-71f4-4eff-9c9e-bb3b3f7b2e8e"
+      "target": "e5d3f69c-ce24-4a97-a133-6a74f0b5f6be"
     },
     {
       "type": "worked_with",
@@ -57,7 +65,7 @@
   "tags": [
     "actor",
     "drama",
-    "thriller",
+    "sci-fi",
     "modern"
   ]
 }

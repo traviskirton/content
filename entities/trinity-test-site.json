@@ -1,0 +1,47 @@
+{
+  "id": "e15c9f42-5241-4fbb-ae9b-8f8a644b9a73",
+  "type": "location",
+  "name": "Trinity Test Site",
+  "description": "A key location in \"Oppenheimer\" where the first nuclear bomb test took place.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Trinity Test Site is the location of the first successful detonation of a nuclear weapon, conducted by the United States as part of the Manhattan Project during World War II. This test, known as \"Trinity,\" marked a pivotal moment in the story of \"Oppenheimer,\" symbolizing both scientific triumph and profound ethical considerations."
+    },
+    {
+      "title": "Geography",
+      "body": "The site is located in a remote desert region of New Mexico, characterized by its barren landscape and isolation from major population centers. The geography of the area provided a strategic location for conducting highly sensitive and secretive military tests."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **Ground Zero:** The exact site where the bomb was detonated, marked by a crater and a monument.\n- **Observation Bunkers:** Reinforced structures where scientists and military personnel observed the test from a safe distance.\n- **Jumbo:** A massive steel container intended to contain the plutonium in case of a failed explosion."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Trinity Test Site is central to \"Oppenheimer,\" as it represents the culmination of years of intense scientific research and personal struggle. It is the setting for the dramatic test scene that demonstrates the power and destructive capability of nuclear weapons, influencing the course of history and the characters' journeys thereafter."
+    }
+  ],
+  "aliases": [
+    "Trinity Site"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "located_in",
+      "target": "8f3e5d69-5a9c-4a3b-b891-7a8f6e3f965a"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "region"
+  },
+  "tags": [
+    "region",
+    "drama",
+    "historical",
+    "1945"
+  ]
+}

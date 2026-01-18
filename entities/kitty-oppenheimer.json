@@ -1,0 +1,50 @@
+{
+  "id": "98b1b8dc-90d7-4530-abf4-b1f6e4f92d84",
+  "type": "character",
+  "name": "Kitty Oppenheimer",
+  "description": "Kitty Oppenheimer was J. Robert Oppenheimer's wife, known for her complex personality and significant influence during the development of the atomic bomb.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Kitty Oppenheimer, born Katherine Puening, was of German descent and had a European upbringing. She studied music and biology, earning a reputation for her strong-willed and spirited nature. Kitty's life took multiple turns, including several marriages, before she met and married J. Robert Oppenheimer. She became a crucial figure at Los Alamos during World War II, supporting her husband in his scientific endeavors."
+    },
+    {
+      "title": "Personality",
+      "body": "Kitty was known for her bold and fiery personality. She was intelligent, outspoken, and often exhibited a strong emotional range. Her assertiveness and sometimes abrasive manner were both her strengths and flaws. Despite these, she was fiercely supportive of her husband and played a key role in managing social dynamics within the Los Alamos community."
+    },
+    {
+      "title": "Story Role",
+      "body": "In the narrative of 'Oppenheimer,' Kitty serves as a vital supporting character whose actions and decisions significantly impact her husband's work and personal life. She embodies the emotional and moral complexities surrounding the creation of the atomic bomb, adding depth to the personal and ethical challenges faced by those involved."
+    },
+    {
+      "title": "Relationships",
+      "body": "Kitty Oppenheimer had a primarily profound and occasionally tumultuous relationship with her husband, J. Robert Oppenheimer. Her unwavering support and adept social skills were instrumental in navigating the pressures at Los Alamos."
+    }
+  ],
+  "aliases": [
+    "Katherine Puening",
+    "Mrs. Oppenheimer"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "related_to",
+      "target": "f41da99b-62cf-4de5-b79b-9c999e62aa8f"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "biologist, socialite",
+    "born": "1910",
+    "died": "1972",
+    "portrayed_by": "Emily Blunt"
+  },
+  "tags": [
+    "supporting",
+    "spouse",
+    "historical figure"
+  ]
+}

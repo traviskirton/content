@@ -1,0 +1,55 @@
+{
+  "id": "ab1c23d4-5e67-f890-abcd-ef1234567890",
+  "type": "character",
+  "name": "Edward Teller",
+  "description": "A physicist involved in the Manhattan Project, known for his future advocacy of the hydrogen bomb.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Edward Teller is a Hungarian-American physicist whose early life in Hungary and academic pursuits in physics eventually led him to the United States. He became involved in the Manhattan Project during World War II, where he worked with other scientists to develop nuclear weapons."
+    },
+    {
+      "title": "Personality",
+      "body": "Teller is often portrayed as a highly intelligent and ambitious scientist, driven by a desire to advance nuclear technology. He is also known to be contentious and assertive, which sometimes led to conflicts with his colleagues."
+    },
+    {
+      "title": "Story Role",
+      "body": "In \"Oppenheimer,\" Edward Teller serves as a supporting character, highlighting the differing perspectives and tensions among scientists working on the Manhattan Project. He is particularly known for advocating further development of nuclear technology, which sets him apart from others who are more cautious."
+    },
+    {
+      "title": "Relationships",
+      "body": "Teller collaborated with and often disagreed with other prominent scientists such as J. Robert Oppenheimer (UUID: f41da99b-62cf-4de5-b79b-9c999e62aa8f) and Lewis Strauss (UUID: baf4a1e9-3c45-4c3a-8f1e-13fd81967c2f). His professional relationships were complex, involving both collaboration and conflict."
+    },
+    {
+      "title": "Abilities",
+      "body": "Teller is a highly skilled physicist with expertise in nuclear physics and theoretical physics. His contributions were significant in the development of nuclear weapons technology."
+    }
+  ],
+  "aliases": [
+    "Dr. Edward Teller"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "related_to",
+      "target": "f41da99b-62cf-4de5-b79b-9c999e62aa8f"
+    },
+    {
+      "type": "related_to",
+      "target": "baf4a1e9-3c45-4c3a-8f1e-13fd81967c2f"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "physicist",
+    "portrayed_by": "Benny Safdie"
+  },
+  "tags": [
+    "supporting",
+    "scientist",
+    "nuclear physicist"
+  ]
+}

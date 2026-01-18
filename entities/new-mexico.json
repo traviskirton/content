@@ -1,0 +1,38 @@
+{
+  "id": "eafbb7e1-4588-4c0b-9e21-6df2456a4a6d",
+  "type": "location",
+  "name": "New Mexico",
+  "description": "A Southwestern U.S. state known for its arid climate and diverse landscapes, popular for film and television production.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**New Mexico** is a state located in the Southwestern region of the United States. It is known for its diverse geography that includes deserts, high plains, and mountains. The state has a rich cultural heritage influenced by Native American and Hispanic populations. New Mexico's unique landscapes and favorable climate have made it a popular location for various film and television productions."
+    },
+    {
+      "title": "Film History",
+      "body": "New Mexico has been a filming location for numerous notable productions. **'Breaking Bad'** and its spin-off **'Better Call Saul'** utilized Albuquerque and its surroundings to portray the American Southwest setting central to the series. The desert landscape of the state has stood in for alien worlds in films like **'John Carter'** and **'Transformers'** franchises. Additionally, movies such as **'No Country for Old Men'** and **'The Lone Ranger'** have utilized New Mexico's diverse settings for their plots."
+    },
+    {
+      "title": "Visiting",
+      "body": "Visitors to New Mexico can explore many of the filming locations from their favorite movies and TV shows. Albuquerque offers bus tours to see notable locations from **'Breaking Bad'**. Other locations, such as the White Sands National Park, provide public access where visitors can see firsthand the backdrop of many epic film scenes. The state's landscapes offer hiking, photography, and sightseeing opportunities year-round."
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "state",
+    "country": "United States",
+    "coordinates": "34.5199,-105.8701"
+  },
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "f9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    }
+  ],
+  "tags": [
+    "film-location",
+    "tourist-attraction",
+    "public",
+    "active"
+  ]
+}

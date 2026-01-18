@@ -1,0 +1,51 @@
+{
+  "id": "94053159-3b75-4baf-a7de-15f1d9c8da99",
+  "type": "person",
+  "name": "Alden Ehrenreich",
+  "description": "American actor known for roles in Solo: A Star Wars Story and Beautiful Creatures.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Alden Ehrenreich was born on November 22, 1989, in Los Angeles, California, USA. He began acting in his late teens and got his first notable break with filmmaker Francis Ford Coppola in 'Tetro' (2009). Ehrenreich's early exposure to film production environments and directors with a nuanced style influenced his acting approach and growth."
+    },
+    {
+      "title": "Career",
+      "body": "Ehrenreich gained prominence for his role in 'Beautiful Creatures' (2013) and was widely praised for his performance in the Coen Brothers' 'Hail, Caesar!' (2016). His most high-profile role to date is as Han Solo in 'Solo: A Star Wars Story' (2018), where he took on the daunting task of bringing a young version of the iconic character to life."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Ehrenreich has worked with renowned directors such as the Coen Brothers and Ron Howard, and shared the screen with prominent actors like Harrison Ford and Woody Harrelson. His collaboration with industry stalwarts has been key to his development as an actor."
+    },
+    {
+      "title": "Legacy",
+      "body": "Alden Ehrenreich's portrayal of Han Solo in 'Solo: A Star Wars Story' contributed significantly to enhancing his profile in Hollywood. Though the film had mixed critical reception, Ehrenreich was praised for adding depth to the beloved character originally portrayed by Harrison Ford. His work continues to inspire young actors attempting to follow in his footsteps."
+    }
+  ],
+  "aliases": [
+    "Alden Caleb Ehrenreich"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "7e3f2345-7495-43b0-bc1c-7059233f5c2d"
+    },
+    {
+      "type": "acted_in",
+      "target": "f8730861-4d1c-42b9-9404-1ecf0cb5e58e"
+    }
+  ],
+  "properties": {
+    "born": 1989,
+    "nationality": "American",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "2005-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "sci-fi",
+    "modern"
+  ]
+}

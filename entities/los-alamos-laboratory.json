@@ -1,0 +1,77 @@
+{
+  "id": "2f668c0f-90c1-4344-9a0b-c6e933f6f49a",
+  "type": "organization",
+  "name": "Los Alamos Laboratory",
+  "description": "A secret facility established during World War II as part of the Manhattan Project to develop the atomic bomb.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Los Alamos Laboratory** is a top-secret research facility created as part of the Manhattan Project during World War II. Its primary purpose was to develop the first atomic bomb, a significant scientific and military endeavor."
+    },
+    {
+      "title": "History",
+      "body": "The laboratory was founded in 1943 under the leadership of J. Robert Oppenheimer. It played a crucial role in the scientific breakthroughs that led to the development and eventual successful testing of the atomic bomb in 1945."
+    },
+    {
+      "title": "Structure",
+      "body": "The laboratory was led by J. Robert Oppenheimer, who coordinated a team of distinguished scientists, including Edward Teller and Ernest Lawrence, among others, working under strict secrecy to achieve their goals."
+    },
+    {
+      "title": "Operations",
+      "body": "Los Alamos Laboratory's operations focused on theoretical physics, chemistry, and engineering to construct and test the nuclear weapon, known for the Trinity Test, the first successful detonation of an atomic bomb."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The laboratory features prominently in the narrative of 'Oppenheimer,' highlighting the intense and sometimes controversial efforts by scientists to harness atomic power, leading to a monumental shift in global military and political dynamics."
+    }
+  ],
+  "aliases": [
+    "Project Y",
+    "Site Y"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "led_by",
+      "target": "f41da99b-62cf-4de5-b79b-9c999e62aa8f"
+    },
+    {
+      "type": "members",
+      "target": "ab1c23d4-5e67-f890-abcd-ef1234567890"
+    },
+    {
+      "type": "members",
+      "target": "1a39400a-5c38-4f4d-9e47-c5e8b93e1f23"
+    },
+    {
+      "type": "members",
+      "target": "d784972a-bb7d-4c6f-93fd-560b123e6b98"
+    },
+    {
+      "type": "headquartered_in",
+      "target": "8f3e5d69-5a9c-4a3b-b891-7a8f6e3f965a"
+    },
+    {
+      "type": "allied_with",
+      "target": "c9a6d77e-c3d2-493f-bf0a-4a79e45b1d2a"
+    }
+  ],
+  "properties": {
+    "founded": "1943",
+    "founder": "J. Robert Oppenheimer",
+    "type": "government",
+    "headquarters": "Los Alamos",
+    "fictional": true
+  },
+  "tags": [
+    "organization",
+    "government",
+    "secret-society",
+    "neutral",
+    "historical",
+    "science"
+  ]
+}

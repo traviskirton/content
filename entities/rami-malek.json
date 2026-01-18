@@ -1,0 +1,50 @@
+{
+  "id": "8d84dc6f-5d87-4a2e-a11b-1b7a67e8439a",
+  "type": "person",
+  "name": "Rami Malek",
+  "description": "An American actor known for his versatile performances and winning an Academy Award for his role as Freddie Mercury.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Rami Malek was born on May 12, 1981, in Los Angeles, California, USA. He is of Egyptian descent and pursued an interest in acting during his school years. After graduating from the University of Evansville with a degree in Fine Arts, Malek began his professional acting career."
+    },
+    {
+      "title": "Career",
+      "body": "Rami Malek gained recognition for his role as Elliot Alderson in the television series *Mr. Robot*, which earned him an Emmy Award. His portrayal of Freddie Mercury in the 2018 film *Bohemian Rhapsody* was met with critical acclaim, earning him the Academy Award for Best Actor. Malek is known for his intense and nuanced performances, often diving deep into the complexities of his characters."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "- Collaborated with director *Bryan Singer* in *Bohemian Rhapsody*.\n- Worked alongside *Lucy Boynton* in *Bohemian Rhapsody*."
+    },
+    {
+      "title": "Legacy",
+      "body": "Rami Malek has left a significant mark on the film industry through his dedication to his craft and varied roles. His portrayal of iconic figures has broadened the representation of actors of Middle Eastern descent in Hollywood. He continues to challenge himself with diverse roles, further solidifying his presence in the acting world."
+    }
+  ],
+  "aliases": [
+    "Rami Said Malek"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "worked_with",
+      "target": "dbf564e7-1a57-4ed3-a2b0-ec5d646bdb24"
+    }
+  ],
+  "properties": {
+    "born": 1981,
+    "nationality": "American",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "2004-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "modern"
+  ]
+}

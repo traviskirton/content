@@ -1,0 +1,46 @@
+{
+  "id": "d2a9ee0f-3598-43cc-bf18-0c68d535f8b2",
+  "type": "organization",
+  "name": "Atomic Energy Commission",
+  "description": "A fictional government organization focused on overseeing the development and regulation of atomic energy as depicted in 'Oppenheimer'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The **Atomic Energy Commission** is a fictional government organization tasked with the oversight and regulation of atomic energy development, including research, safety, and containment protocols. This body plays a pivotal role in the scientific and military aspects of atomic energy in the universe of _Oppenheimer_."
+    },
+    {
+      "title": "History",
+      "body": "In the universe of _Oppenheimer_, the Atomic Energy Commission was founded in response to the need for a centralized authority in the burgeoning field of atomic energy, particularly in the aftermath of the Manhattan Project."
+    },
+    {
+      "title": "Structure",
+      "body": "The organization is led by a chairman and a board composed of senior scientists and military personnel who create and implement policies related to atomic research and energy usage."
+    },
+    {
+      "title": "Operations",
+      "body": "The Atomic Energy Commission is responsible for research funding, establishing safety protocols, and managing atomic energy resources. Its operations include collaborating with scientific institutions and military branches to ensure the safe and effective use of atomic energy."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In **_Oppenheimer_**, the Atomic Energy Commission serves as an authoritative body that highlights the ethical and political dilemmas surrounding atomic energy, playing a critical role in the post-war landscape and decisions regarding the future of atomic research and development."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    }
+  ],
+  "properties": {
+    "founded": "Post-Manhattan Project era",
+    "type": "government",
+    "headquarters": "Washington, D.C.",
+    "fictional": true
+  },
+  "tags": [
+    "organization",
+    "government",
+    "neutral",
+    "sci-fi"
+  ]
+}

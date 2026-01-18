@@ -1,0 +1,52 @@
+{
+  "id": "f5c497da-4823-4f25-902c-f347d517e917",
+  "type": "character",
+  "name": "General Leslie Groves",
+  "description": "A key military figure overseeing the Manhattan Project in 'Oppenheimer'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "General Leslie Groves was a real-life U.S. Army engineer officer who played a crucial role in overseeing the Manhattan Project during World War II. In 'Oppenheimer', he is portrayed as a driving force behind the development of the atomic bomb, ensuring the project's completion on time despite numerous challenges."
+    },
+    {
+      "title": "Personality",
+      "body": "General Groves is depicted as authoritative and determined, with a no-nonsense approach to leadership. His military background informs his efficient and sometimes ruthless management style, prioritizing project success over personal relationships."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Oppenheimer', General Leslie Groves is a pivotal supporting character who oversees the Manhattan Project. His interactions with J. Robert Oppenheimer and other scientists add tension and urgency to the narrative as he navigates the complexities of war-time science and politics."
+    },
+    {
+      "title": "Relationships",
+      "body": "General Groves' primary relationship in the film is with J. Robert Oppenheimer (uuid: f41da99b-62cf-4de5-b79b-9c999e62aa8f). He often clashes with Oppenheimer's unconventional approach but respects his genius."
+    },
+    {
+      "title": "Abilities",
+      "body": "As a military officer, General Groves possesses strong leadership skills, strategic thinking, and an understanding of complex engineering and logistics."
+    }
+  ],
+  "aliases": [
+    "Leslie Groves",
+    "General Groves"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "related_to",
+      "target": "f41da99b-62cf-4de5-b79b-9c999e62aa8f"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "U.S. Army General",
+    "portrayed_by": "Matt Damon"
+  },
+  "tags": [
+    "supporting",
+    "mentor",
+    "military"
+  ]
+}

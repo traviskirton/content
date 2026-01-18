@@ -1,0 +1,50 @@
+{
+  "id": "964ed9fc-b4dc-4fbd-8d8f-cf3f8e7e4d5c",
+  "type": "person",
+  "name": "Himesh Patel",
+  "description": "British actor known for roles in 'Yesterday' and 'Tenet'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Himesh Patel is a British actor born in 1990 in Cambridgeshire, England. He developed an interest in acting at a young age and was involved in local theater productions. Patel made his television debut as Tamwar Masood on the long-running British soap opera **'EastEnders'**, a role he played from 2007 to 2016."
+    },
+    {
+      "title": "Career",
+      "body": "Himesh Patel gained international recognition for his leading role in the 2019 musical comedy film **'Yesterday'**, directed by Danny Boyle, where he portrayed Jack Malik, a struggling musician who wakes up in a world where The Beatles never existed. His performance was well-received, emphasizing his musical talents as he performed several classic Beatles hits.\n\nIn 2020, Patel appeared in Christopher Nolan's sci-fi thriller **'Tenet'**, showcasing his versatility as an actor in high-concept films. Patel has continued to work on various projects across film and television, contributing to both British and international cinema."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Patel has worked closely with prominent filmmakers such as **Danny Boyle** and **Christopher Nolan**, further cementing his place in the film industry."
+    }
+  ],
+  "aliases": [
+    "Himesh Jitendra Patel"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "acted_in",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    }
+  ],
+  "properties": {
+    "born": 1990,
+    "nationality": "British",
+    "occupation": [
+      "actor",
+      "musician"
+    ],
+    "active_years": "2007-present"
+  },
+  "tags": [
+    "actor",
+    "musician",
+    "modern",
+    "comedy",
+    "drama",
+    "sci-fi"
+  ]
+}

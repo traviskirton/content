@@ -1,0 +1,54 @@
+{
+  "id": "0d5e3fa4-4bd2-4fc6-be53-9c3419728a58",
+  "type": "character",
+  "name": "Albert Einstein",
+  "description": "Renowned physicist known for his contributions to the theory of relativity, appearing as a character in 'Oppenheimer'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Albert Einstein was born on March 14, 1879, in Ulm, in the Kingdom of Württemberg in the German Empire. He developed the theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics). His work is also known for its influence on the philosophy of science."
+    },
+    {
+      "title": "Personality",
+      "body": "Einstein is depicted as an intellectual giant, with a keen curiosity and a deep dedication to scientific discovery. He was known for his rebellious nature against established norms and his gentle, humorous demeanor."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Oppenheimer', Albert Einstein serves as a mentor and an intellectual figure that represents the broader scientific community involved in the development of the atomic bomb. His interactions with Oppenheimer highlight the ethical dilemmas and the burden of scientific responsibility."
+    },
+    {
+      "title": "Relationships",
+      "body": "Einstein shares a mentor-like relationship with J. Robert Oppenheimer. Their conversations reflect the tensions and moral considerations of the time."
+    },
+    {
+      "title": "Abilities",
+      "body": "Einstein is considered one of the most influential physicists of the 20th century, known for his contributions to the development of quantum theory and the general theory of relativity."
+    }
+  ],
+  "aliases": [
+    "Professor Einstein",
+    "Einstein"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "related_to",
+      "target": "f41da99b-62cf-4de5-b79b-9c999e62aa8f"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "physicist",
+    "born": "1879",
+    "died": "1955",
+    "portrayed_by": "Tom Conti"
+  },
+  "tags": [
+    "supporting",
+    "mentor",
+    "scientist"
+  ]
+}

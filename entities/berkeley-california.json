@@ -1,0 +1,44 @@
+{
+  "id": "68f6a9e5-1449-4bc5-b834-c7c2607079e9",
+  "type": "location",
+  "name": "Berkeley, California",
+  "description": "A vibrant city known for its university and cultural contributions.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Berkeley, California** is a city on the east shore of San Francisco Bay in northern Alameda County. It is home to the University of California, Berkeley, which is considered one of the top public universities in the world. The city is known for its liberal politics, influential social movements, and its significant role in the 1960s counterculture."
+    },
+    {
+      "title": "Film History",
+      "body": "Berkeley has been featured in a number of films and TV shows, often taking advantage of its beautiful university campus and scenic views. Notable appearances include films such as *The Graduate*, where scenes were shot at the university, and the TV series *13 Reasons Why*, which filmed some scenes in the city."
+    },
+    {
+      "title": "Visiting",
+      "body": "Berkeley is an accessible city with a variety of public transportation options, including BART, buses, and bike-friendly paths. Visitors can explore the UC Berkeley campus, enjoy cultural events, and dine in a variety of restaurants offering diverse cuisine. The city also hosts several parks and outdoor spaces for recreation."
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "address": null,
+    "city": "Berkeley",
+    "state": "California",
+    "country": "United States",
+    "coordinates": {
+      "lat": 37.8715,
+      "long": -122.273
+    }
+  },
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    }
+  ],
+  "tags": [
+    "city",
+    "active",
+    "public",
+    "university"
+  ]
+}

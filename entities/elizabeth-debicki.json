@@ -1,0 +1,72 @@
+{
+  "id": "fa6ad433-5bae-4a91-a9c6-38068e12d6f8",
+  "type": "person",
+  "name": "Elizabeth Debicki",
+  "description": "Acclaimed Australian actor known for her roles in 'The Night Manager' and 'The Crown'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Elizabeth Debicki was born in 1990 in Paris, France, to an Australian mother and a Polish father. Her family moved to Melbourne, Australia, when she was five years old. Debicki attended the Victorian College of the Arts, graduating in 2010. Her early career began in the theater, where she honed her skills before transitioning to film and television."
+    },
+    {
+      "title": "Career",
+      "body": "Elizabeth Debicki gained international recognition through her performance in Baz Luhrmann's 'The Great Gatsby' (2013), where she played Jordan Baker. She further established herself in the industry with major roles in films such as 'Widows' (2018), 'Guardians of the Galaxy Vol. 2' (2017), and Christopher Nolan's 'Tenet' (2020). Debicki is praised for her commanding screen presence and nuanced acting skills. Most recently, she portrayed Princess Diana in the acclaimed series 'The Crown' (2022)."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Elizabeth Debicki has collaborated with prominent directors and actors. She worked with Christopher Nolan in 'Tenet,' sharing the screen with John David Washington [UUID: 0c1d2eb3-acf4-4343-9924-58f2bf89e121], and appeared alongside Viola Davis in Steve McQueen's heist thriller 'Widows'."
+    },
+    {
+      "title": "Legacy",
+      "body": "Elizabeth Debicki is considered one of the most talented actors of her generation, known for her versatility and depth in both film and television. She has received critical acclaim for her performances and continues to impact the industry with her distinct style and choice of roles."
+    }
+  ],
+  "aliases": [
+    "Liz Debicki"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "acted_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "acted_in",
+      "target": "4a15ed35-d579-4b34-9dfa-e3d96de5d31b"
+    },
+    {
+      "type": "acted_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "acted_in",
+      "target": "fc8d2f8a-4236-4e8b-b19f-12c312fa4ebf"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "18fccbcc-2783-4d1c-8f80-e3bb89891a5c"
+    }
+  ],
+  "properties": {
+    "born": "1990",
+    "nationality": "Australian",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "2010-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "thriller",
+    "modern",
+    "sci-fi"
+  ]
+}

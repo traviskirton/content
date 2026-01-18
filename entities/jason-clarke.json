@@ -1,0 +1,56 @@
+{
+  "id": "71a2b0e1-8d8b-4c70-94b7-8b95c5bcd738",
+  "type": "person",
+  "name": "Jason Clarke",
+  "description": "Australian actor known for roles in 'Zero Dark Thirty' and 'Dawn of the Planet of the Apes'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Jason Clarke was born on July 17, 1969, in Winton, Queensland, Australia. He studied at the Victorian College of the Arts in Melbourne before pursuing a career in acting. Clarke worked extensively in Australian television before gaining international recognition."
+    },
+    {
+      "title": "Career",
+      "body": "Jason Clarke gained prominence for his role as Dan in Kathryn Bigelow's 'Zero Dark Thirty' (2012). His portrayal of an intense and driven intelligence operative was widely acclaimed. Clarke further established himself with leading roles in films such as 'Dawn of the Planet of the Apes' (2014), where he played the character Malcom, and 'Everest' (2015), as Rob Hall. Clarke is known for his ability to portray complex characters and has become a sought-after actor in Hollywood."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Throughout his career, Jason Clarke has worked with esteemed directors and actors. His collaboration with director Kathryn Bigelow on 'Zero Dark Thirty' was a significant turning point in his career. Clarke has also worked alongside fellow actors such as Gary Oldman and Keri Russell in 'Dawn of the Planet of the Apes'."
+    },
+    {
+      "title": "Legacy",
+      "body": "Jason Clarke is recognized for his versatility and intensity as an actor. He has received critical acclaim for his performances and continues to be a prominent figure in both Australian and international cinema. Clarke's work in significant films such as 'Zero Dark Thirty' and the 'Planet of the Apes' franchise has contributed to his reputation as a talented and reliable actor."
+    }
+  ],
+  "aliases": [
+    "J. Clarke"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "acted_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "worked_with",
+      "target": "83e9fafd-1d4c-4b54-a1cc-1b389fee6762"
+    }
+  ],
+  "properties": {
+    "born": 1969,
+    "nationality": "Australian",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1995-present"
+  },
+  "tags": [
+    "actor",
+    "modern",
+    "drama",
+    "thriller",
+    "sci-fi"
+  ]
+}

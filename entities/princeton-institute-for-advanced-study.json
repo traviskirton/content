@@ -1,0 +1,49 @@
+{
+  "id": "c99d5dc6-94a8-4a5f-bf75-689f7a8b9349",
+  "type": "location",
+  "name": "Princeton Institute for Advanced Study",
+  "description": "A prestigious research institution where key discussions about the Manhattan Project take place.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Princeton Institute for Advanced Study, known in the story of 'Oppenheimer,' was founded in the early 20th century as a center for theoretical research. In the narrative, it plays a critical role as a gathering place for intellectuals during World War II, contributing to discussions that eventually lead to the Manhattan Project."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated in Princeton, New Jersey, the institute is depicted as an idyllic and serene environment conducive to scholarly pursuits. The location offers expansive grounds and historical buildings that blend seamlessly with the town's academic atmosphere."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The Institute boasts a library filled with academic texts, a large conference room where many discussions take place, and beautiful gardens that provide a tranquil setting for reflective thought and informal gatherings among scientists."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'Oppenheimer,' the Institute is a pivotal location for critical discussions among scientists, including J. Robert Oppenheimer, which set the stage for the development of the atomic bomb. It represents the intersection of intellectual rigor and moral considerations in the face of global conflict."
+    }
+  ],
+  "aliases": [
+    "IAS",
+    "Institute for Advanced Study"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building",
+    "founded": "1930"
+  },
+  "tags": [
+    "academic",
+    "history",
+    "world-war-ii",
+    "research"
+  ]
+}

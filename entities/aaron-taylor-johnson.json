@@ -1,0 +1,52 @@
+{
+  "id": "795f9a71-6b73-4e6e-acb5-1457e2d4c1c4",
+  "type": "person",
+  "name": "Aaron Taylor-Johnson",
+  "description": "A British actor known for his roles in action and dramatic films.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Aaron Taylor-Johnson was born in 1990 in High Wycombe, England. He began acting at a young age, appearing in television shows and stage productions. His breakout role was in the 2008 film 'Angus, Thongs, and Perfect Snogging.'"
+    },
+    {
+      "title": "Career",
+      "body": "Aaron Taylor-Johnson is best known for his roles in 'Kick-Ass' (2010) and its sequel, 'Kick-Ass 2' (2013), as well as playing the titular character in 'Avengers: Age of Ultron' (2015). His performance in 'Nocturnal Animals' (2016) earned him a Golden Globe Award for Best Supporting Actor. He often portrays complex characters in both action and dramatic genres."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Taylor-Johnson has worked with directors such as Matthew Vaughn and Joe Wright. He frequently collaborates with other actors from the Marvel Cinematic Universe."
+    },
+    {
+      "title": "Legacy",
+      "body": "Aaron Taylor-Johnson has made a significant impact on the film industry with his versatile performances in both action blockbusters and critically acclaimed dramas. His work continues to influence aspiring actors."
+    }
+  ],
+  "aliases": [
+    "Aaron Perry Johnson",
+    "Aaron Johnson"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "acted_in",
+      "target": "b837b7a8-fc4b-4d48-9c02-2c3a80c039e8"
+    }
+  ],
+  "properties": {
+    "born": 1990,
+    "nationality": "British",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "2000-present"
+  },
+  "tags": [
+    "actor",
+    "action",
+    "drama",
+    "modern"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "8a3d7f5b-a9c2-4977-89e5-4b6ef5a7c8d9",
+  "type": "character",
+  "name": "Niels Bohr",
+  "description": "Renowned physicist and mentor figure in the workings of quantum mechanics in 'Oppenheimer'",
+  "content": [
+    {
+      "title": "Background",
+      "body": "**Niels Bohr** was a Danish physicist, born in 1885. He is renowned for his foundational contributions to understanding atomic structure and quantum theory, earning him the 1922 Nobel Prize in Physics. In 'Oppenheimer', he plays a significant role as a senior scientific advisor and a voice of reason and moral authority."
+    },
+    {
+      "title": "Personality",
+      "body": "Niels Bohr is depicted as wise and contemplative, often providing guidance with a calm demeanor. He demonstrates a strong ethical compass, reflecting his concern over the implications of scientific advancements."
+    },
+    {
+      "title": "Story Role",
+      "body": "Niels Bohr serves as a mentor and moral anchor within 'Oppenheimer', offering perspectives that challenge and guide the protagonist, J. Robert Oppenheimer, as they both navigate the ethical dilemmas posed by their work on nuclear weapons."
+    },
+    {
+      "title": "Relationships",
+      "body": "Niels Bohr shares a deep professional relationship with **J. Robert Oppenheimer** (UUID: f41da99b-62cf-4de5-b79b-9c999e62aa8f), acting as a mentor and confidante. His interactions with Oppenheimer are pivotal in shaping the latter's understanding of the moral complexities involved in their research."
+    },
+    {
+      "title": "Abilities",
+      "body": "Niels Bohr was known for his expertise in quantum mechanics and atomic theory, along with his ability to communicate complex ideas in an accessible manner, making him an influential figure in both the scientific community and the narrative of 'Oppenheimer'."
+    }
+  ],
+  "aliases": [
+    "Dr. Bohr",
+    "Professor Bohr"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "related_to",
+      "target": "f41da99b-62cf-4de5-b79b-9c999e62aa8f"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "physicist",
+    "born": "1885",
+    "died": "1962",
+    "portrayed_by": "Kenneth Branagh"
+  },
+  "tags": [
+    "supporting",
+    "mentor",
+    "scientist"
+  ]
+}

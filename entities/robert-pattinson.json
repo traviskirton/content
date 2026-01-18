@@ -2,44 +2,49 @@
   "id": "dbf564e7-1a57-4ed3-a2b0-ec5d646bdb24",
   "type": "person",
   "name": "Robert Pattinson",
-  "description": "English actor known for his roles in Twilight and The Batman films.",
+  "description": "Renowned British actor known for roles in the Twilight saga and The Batman.",
   "content": [
     {
       "title": "Biography",
-      "body": "Robert Douglas Thomas Pattinson was born on May 13, 1986, in London, England. He began his acting career at a young age, initially performing in amateur plays with the Barnes Theatre Company before landing his first major role in the Harry Potter series as Cedric Diggory. Pattinson rose to international fame with his portrayal of Edward Cullen in the 'Twilight' film series."
+      "body": "Robert Pattinson was born on May 13, 1986, in London, England. He developed a passion for acting during his school years and began his professional career at a young age. Pattinson gained initial recognition through theatre performances and minor television roles."
     },
     {
       "title": "Career",
-      "body": "Pattinson's career took off with the 'Twilight' saga, which became a global phenomenon. He diversified his roles post-Twilight, appearing in independent films like 'Cosmopolis', 'The Lighthouse', and 'Good Time'. His role as Batman in Matt Reeves' 'The Batman' reinvigorated his career in mainstream Hollywood. Pattinson is known for his versatility and willingness to take on complex, non-commercial roles."
+      "body": "Pattinson's breakout role came with his portrayal of Cedric Diggory in *Harry Potter and the Goblet of Fire* (2005). However, he gained worldwide fame for his role as Edward Cullen in the *Twilight* saga (2008-2012), which became a global phenomenon. His career further diversified with performances in indie films like *Good Time* (2017) and acclaimed projects such as *The Lighthouse* (2019). In 2022, Pattinson starred as the titular character in Matt Reeves' *The Batman*, showcasing his versatility and depth as an actor."
     },
     {
       "title": "Notable Collaborations",
-      "body": "Robert Pattinson has worked with acclaimed directors such as Christopher Nolan in 'Tenet', Claire Denis in 'High Life', and Matt Reeves in 'The Batman'. His collaborations often see him in critical and demanding roles that showcase his range as an actor."
+      "body": "Pattinson has frequently collaborated with prominent filmmakers like Christopher Nolan, having appeared in *Tenet* (2020). He also worked with directors such as David Cronenberg in *Cosmopolis* (2012) and *Maps to the Stars* (2014), consistently challenging himself with diverse roles."
     },
     {
       "title": "Legacy",
-      "body": "Pattinson's impact on the film industry is significant, having successfully transitioned from teen heartthrob to a respected actor in both independent and blockbuster films. His performances have earned him critical acclaim, and he is seen as one of the most talented actors of his generation. Pattinson has been nominated for several awards, including the BAFTA, and remains a prominent figure in cinema."
+      "body": "Robert Pattinson has established himself as a versatile and talented actor, earning critical praise and a broad fanbase. He has been recognized with numerous awards, solidifying his status as one of his generation's leading talents."
     }
   ],
   "aliases": [
-    "R-Patz"
+    "RPatz",
+    "Robert Douglas Thomas Pattinson"
   ],
   "relationships": [
     {
       "type": "acted_in",
-      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
     },
     {
       "type": "acted_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "worked_with",
       "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     },
     {
       "type": "worked_with",
-      "target": "709fafc7-7df4-4a2e-8b8a-e53e9da184f7"
+      "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
     },
     {
       "type": "worked_with",
-      "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
+      "target": "e8b08e64-1f5b-4cee-aabe-b802d5a09512"
     }
   ],
   "properties": {
@@ -47,14 +52,17 @@
     "nationality": "British",
     "occupation": [
       "actor",
+      "producer",
       "musician"
     ],
     "active_years": "2004-present"
   },
   "tags": [
     "actor",
+    "producer",
+    "musician",
     "drama",
-    "thriller",
+    "fantasy",
     "modern"
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "id": "9f9b3e04-92e4-4b98-9ef3-517bd882b9eb",
+  "type": "person",
+  "name": "Josh Hartnett",
+  "description": "American actor known for his roles in films like 'Pearl Harbor' and 'Black Hawk Down'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Josh Hartnett was born in 1978 in Saint Paul, Minnesota, USA. He gained prominence in the late 1990s with roles in teen films and enjoyed a successful career in the early 2000s with prominent roles in major Hollywood films."
+    },
+    {
+      "title": "Career",
+      "body": "Hartnett's breakout role came in 1998 with the horror film **Halloween H20: 20 Years Later**. He then starred in notable films such as **Pearl Harbor** and **Black Hawk Down**. Known for his versatility, Hartnett has taken on a variety of roles in different genres. He briefly stepped away from mainstream Hollywood, exploring independent and international projects."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "- **Michael Bay**: Director of 'Pearl Harbor'\n- **Ridley Scott**: Director of 'Black Hawk Down'"
+    },
+    {
+      "title": "Legacy",
+      "body": "Although Hartnett stepped back from the Hollywood spotlight, his work in the early 2000s left a significant impact. He was regarded as one of the promising young actors of his generation and continues to be involved in diverse projects."
+    }
+  ],
+  "aliases": [
+    "Joshua Daniel Hartnett"
+  ],
+  "relationships": [
+    {
+      "type": "worked_with",
+      "target": "f38c8570-bf94-458e-b8b8-4a5fdc5efaa1"
+    },
+    {
+      "type": "worked_with",
+      "target": "4e8b08e3-acf3-4784-aeb8-2fbb0c1f4721"
+    }
+  ],
+  "properties": {
+    "born": 1978,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "producer"
+    ],
+    "active_years": "1997-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "action",
+    "modern"
+  ]
+}

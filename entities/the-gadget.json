@@ -1,0 +1,58 @@
+{
+  "id": "e2a7890e-ac3e-4a58-a5d9-7f33cc9c5867",
+  "type": "item",
+  "name": "The Gadget",
+  "description": "The Gadget is the codename for the first atomic bomb ever detonated.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**The Gadget** was the first nuclear device ever detonated as part of the Manhattan Project, marking a pivotal moment in military and scientific history. Its primary purpose was to demonstrate the viability of a nuclear weapon."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Gadget was a spherical device, with a shell of explosively formed lenses designed to compress a plutonium core, leading to a nuclear explosion. Its exterior had a metallic, industrial appearance with numerous wires and components protruding."
+    },
+    {
+      "title": "Function",
+      "body": "The Gadget utilized an implosion-type nuclear weapon design. High explosives formed around a plutonium core were detonated to compress it into a supercritical state, initiating a nuclear chain reaction and a resultant explosion."
+    },
+    {
+      "title": "History",
+      "body": "Developed during the Manhattan Project, The Gadget was the culmination of scientific efforts led by physicists such as J. Robert Oppenheimer. It was assembled and tested by a team of scientists and engineers at the Los Alamos Laboratory and detonated at the Trinity Test Site on July 16, 1945."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The detonation of The Gadget in 'Oppenheimer' symbolizes the birth of the atomic age and the consequential ethical and moral dilemmas faced by scientists and humanity. Its test is a climactic moment that influences the narrative arc and the personal and professional life of J. Robert Oppenheimer."
+    }
+  ],
+  "aliases": [
+    "First Atomic Bomb",
+    "Trinity Device"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "created_by",
+      "target": "f41da99b-62cf-4de5-b79b-9c999e62aa8f"
+    },
+    {
+      "type": "located_at",
+      "target": "e15c9f42-5241-4fbb-ae9b-8f8a644b9a73"
+    }
+  ],
+  "properties": {
+    "item_type": "device",
+    "created_by": "Manhattan Project",
+    "fictional": false
+  },
+  "tags": [
+    "device",
+    "technology",
+    "historical",
+    "weapon",
+    "science"
+  ]
+}

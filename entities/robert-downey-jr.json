@@ -1,0 +1,52 @@
+{
+  "id": "f38c8570-bf94-458e-b8b8-4a5fdc5efaa1",
+  "type": "person",
+  "name": "Robert Downey Jr.",
+  "description": "An acclaimed American actor and producer, known for his role as Tony Stark/Iron Man in the Marvel Cinematic Universe.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "**Robert John Downey Jr.** was born on April 4, 1965, in New York City, USA. He grew up immersed in acting, as his father was an avant-garde filmmaker, Robert Downey Sr. Downey Jr. began acting at a young age, making appearances in his father's films. He faced various personal challenges during his life and career, including struggles with substance abuse, which he overcame to resurrect his career."
+    },
+    {
+      "title": "Career",
+      "body": "Robert Downey Jr.'s career began in the 1980s with the 'Brat Pack' films like *Less Than Zero* but faced a downturn in the late 1990s due to personal struggles. He made a strong comeback in the 2000s with critically acclaimed roles in *Kiss Kiss Bang Bang*, *Zodiac*, and his portrayal of Tony Stark/Iron Man in the Marvel Cinematic Universe, which cemented his status as a Hollywood A-lister. He is known for his charismatic performances and the depth he brings to his characters."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Downey Jr. has worked with several renowned directors like Jon Favreau, Shane Black, and many talents across the Marvel Cinematic Universe, including a significant collaboration with Alan Silvestri, who scored many of the films he starred in."
+    },
+    {
+      "title": "Legacy",
+      "body": "Robert Downey Jr.'s impact on Hollywood is marked by his transformation from a promising young actor with potential derailed by personal issues to a highly respected and successful actor known worldwide. His portrayal of Iron Man has been pivotal to the success of the Marvel Cinematic Universe, and his performances have garnered numerous awards and nominations, including two Academy Award nominations."
+    }
+  ],
+  "aliases": [
+    "RDJ"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "f38c8570-bf94-458e-b8b8-4a5fdc5efaa1"
+    },
+    {
+      "type": "worked_with",
+      "target": "7e34d755-1a4c-44c8-b953-64d5287d3aad"
+    }
+  ],
+  "properties": {
+    "born": "1965",
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "producer"
+    ],
+    "active_years": "1970-present"
+  },
+  "tags": [
+    "actor",
+    "producer",
+    "marvel",
+    "modern"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "3d98b280-78ec-4eaa-99c0-364f0ddf637f",
+  "type": "person",
+  "name": "Emily Blunt",
+  "description": "A versatile and acclaimed British actress known for her roles in a wide range of genres.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Emily Blunt was born on February 23, 1983, in London, England. She attended Hurtwood House, a private sixth-form college known for its performing arts program. Her professional career began with a stage role in 'The Royal Family' for which she was named Best Newcomer by the Evening Standard Theatre Awards in 2001."
+    },
+    {
+      "title": "Career",
+      "body": "Emily Blunt gained recognition for her breakthrough role in 'The Devil Wears Prada' (2006), where she starred alongside Meryl Streep and Anne Hathaway. Her performance led to a host of subsequent major film roles, including 'The Young Victoria' (2009), 'Edge of Tomorrow' (2014), 'Sicario' (2015), and 'A Quiet Place' (2018), for which she won a Screen Actors Guild Award. Known for her ability to navigate diverse genres, Blunt has an acclaimed presence in both period dramas and sci-fi action films."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Emily Blunt frequently collaborates with her husband, director, and actor John Krasinski, most notably in 'A Quiet Place' (2018) and its sequel. She has also worked alongside actors like Tom Cruise in 'Edge of Tomorrow' and Dwayne Johnson in 'Jungle Cruise'."
+    },
+    {
+      "title": "Legacy",
+      "body": "With several awards and nominations, Emily Blunt is regarded as one of the most talented actresses of her generation. She has won a Golden Globe Award and several SAG Awards. Renowned for her chameleon-like ability to adapt to diverse roles, Blunt's impact on the film industry continues to grow with each performance."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "acted_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "acted_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "worked_with",
+      "target": "e6149baf-563e-4dc9-8eec-a7a33e3e95ac"
+    },
+    {
+      "type": "worked_with",
+      "target": "18fccbcc-2783-4d1c-8f80-e3bb89891a5c"
+    }
+  ],
+  "properties": {
+    "born": 1983,
+    "nationality": "British",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "2001-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "sci-fi",
+    "comedy",
+    "modern"
+  ]
+}

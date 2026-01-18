@@ -1,0 +1,59 @@
+{
+  "id": "39d41719-e36b-4e59-b689-fb4a992209a8",
+  "type": "person",
+  "name": "Florence Pugh",
+  "description": "Acclaimed English actress known for her versatile roles in indie films and major blockbusters.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Florence Pugh, born on January 3, 1996, in Oxford, England, is a renowned English actress. She began her acting journey with the 2014 mystery drama film *The Falling*. Her standout performances and unique approach have made her one of the most sought-after actresses in the industry."
+    },
+    {
+      "title": "Career",
+      "body": "Florence Pugh gained recognition for her compelling performance in the 2016 independent film *Lady Macbeth*, earning her critical acclaim. She later starred in *Fighting with My Family* (2019), a biographical sports comedy-drama film, and *Midsommar* (2019), a horror film directed by Ari Aster. Her role as Amy March in Greta Gerwig's *Little Women* (2019) earned her an Academy Award nomination for Best Supporting Actress."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Pugh's notable collaborations include working with acclaimed directors Greta Gerwig and Ari Aster. She also acted alongside actors like Saoirse Ronan and Timothée Chalamet in *Little Women*."
+    },
+    {
+      "title": "Legacy",
+      "body": "Florence Pugh is celebrated for her ability to deliver powerful performances across various genres. She has been recognized with numerous awards and nominations, solidifying her impact on modern cinema as a versatile and committed actress."
+    }
+  ],
+  "aliases": [
+    "Flossie"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "acted_in",
+      "target": "6a90f4f8-d2f0-41b5-8334-c8c8e9a0de69"
+    },
+    {
+      "type": "worked_with",
+      "target": "4e6b0921-35fb-4c85-9e5c-709ec9727d8a"
+    },
+    {
+      "type": "worked_with",
+      "target": "4a15ed35-d579-4b34-9dfa-e3d96de5d31b"
+    }
+  ],
+  "properties": {
+    "born": 1996,
+    "nationality": "British",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "2014-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "horror",
+    "modern"
+  ]
+}

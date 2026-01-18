@@ -1,0 +1,50 @@
+{
+  "id": "8f3e5d69-5a9c-4a3b-b891-7a8f6e3f965a",
+  "type": "location",
+  "name": "Los Alamos",
+  "description": "A pivotal scientific community where the atomic bomb was developed in the story.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Founded during World War II as part of the Manhattan Project, Los Alamos was established to develop the atomic bomb. It housed many of the brightest scientists and served as a secretive and highly secure military location."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated in a remote desert in the fictional universe, Los Alamos was carefully chosen for its isolation, making it an ideal location for secretive military research."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Key landmarks include:\n- **The Laboratory Buildings**: Where scientists worked tirelessly on the Manhattan Project.\n- **The Housing Facility**: Home to Oppenheimer and other important characters during the project.\n- **The Testing Grounds**: Nearby fields where initial testing of prototypes occurred."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Los Alamos is the epicenter of the Manhattan Project in the story, where J. Robert Oppenheimer and his team worked on developing the atomic bomb. It serves as a backdrop for significant plot developments and character interactions."
+    }
+  ],
+  "aliases": [
+    "The Manhattan Project Site"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "contains",
+      "target": "f5b8e5a1-62c3-4ad1-8dce-2b1a1ec58d62"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city",
+    "population": 6000,
+    "founded": "1943"
+  },
+  "tags": [
+    "city",
+    "historical",
+    "scientific",
+    "drama",
+    "1940s"
+  ]
+}

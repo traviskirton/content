@@ -1,0 +1,56 @@
+{
+  "id": "d3a4f4c8-bf78-4c27-adb7-f8d7c1d905f2",
+  "type": "person",
+  "name": "David Krumholtz",
+  "description": "American actor known for his roles in 'NUMB3RS' and 'The Santa Clause'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "David Krumholtz was born on May 15, 1978, in Queens, New York. He began his acting career at a young age, making his Broadway debut in the production of 'Conversations with My Father' when he was just 13. This role led to a robust acting career in both film and television."
+    },
+    {
+      "title": "Career",
+      "body": "Krumholtz is best known for his starring role as Charlie Eppes in the CBS drama 'NUMB3RS', which ran from 2005 to 2010. He has also appeared in notable films such as 'The Santa Clause' series, where he played Bernard the Elf, and 'Superbad'. His acting style is characterized by a strong comedic presence but he has also delivered compelling performances in dramatic roles."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "David Krumholtz has frequently collaborated with actor Seth Rogen, appearing together in several films including 'This Is the End' and 'Sausage Party'. He also worked with director Harold Ramis on 'The Ice Harvest'."
+    },
+    {
+      "title": "Legacy",
+      "body": "Though known primarily for his role in 'NUMB3RS', Krumholtz's versatility and longevity in the industry have earned him a respected place as a character actor. His contributions to both comedic and dramatic fields have been widely recognized, making him a cherished figure in modern television and film."
+    }
+  ],
+  "aliases": [
+    "Dave Krumholtz"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "9e5d0420-d2b1-4c4b-bd78-ec194a7ec45e"
+    },
+    {
+      "type": "worked_with",
+      "target": "f38c8570-bf94-458e-b8b8-4a5fdc5efaa1"
+    },
+    {
+      "type": "worked_with",
+      "target": "4e6b0921-35fb-4c85-9e5c-709ec9727d8a"
+    }
+  ],
+  "properties": {
+    "born": 1978,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "producer"
+    ],
+    "active_years": "1993-present"
+  },
+  "tags": [
+    "actor",
+    "comedy",
+    "drama",
+    "modern"
+  ]
+}

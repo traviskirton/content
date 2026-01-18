@@ -1,0 +1,60 @@
+{
+  "id": "c9a6d77e-c3d2-493f-bf0a-4a79e45b1d2a",
+  "type": "organization",
+  "name": "Manhattan Project",
+  "description": "A top-secret government project focused on developing the first nuclear weapons during World War II.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The **Manhattan Project** was a highly classified and collaborative government initiative during World War II, aimed at developing nuclear weapons."
+    },
+    {
+      "title": "History",
+      "body": "The Manhattan Project was initiated in 1939 with escalating fears of Nazi Germany developing nuclear fission weapons. It gained momentum in 1942, when it was formally established and managed by Major General Leslie Groves."
+    },
+    {
+      "title": "Structure",
+      "body": "The Manhattan Project was under the joint management of the US Army Corps of Engineers and involved many prominent scientists, including J. Robert Oppenheimer, who was the scientific director. The project involved multiple research and production sites across the United States."
+    },
+    {
+      "title": "Operations",
+      "body": "The primary goal of the Manhattan Project was to research and develop atomic bombs. This involved extensive scientific research, materials engineering, and industrial manufacturing. The project culminated in the Trinity Test, the first detonation of a nuclear device."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In the narrative of **Oppenheimer**, the Manhattan Project represents the peak of scientific ambition and ethical dilemma for the characters involved, notably J. Robert Oppenheimer, as it leads to the creation of weapons of unprecedented destructive power."
+    }
+  ],
+  "properties": {
+    "founded": "1942",
+    "founder": "United States government",
+    "type": "government",
+    "headquarters": "Los Alamos",
+    "fictional": true
+  },
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "led_by",
+      "target": "f41da99b-62cf-4de5-b79b-9c999e62aa8f"
+    },
+    {
+      "type": "led_by",
+      "target": "f5c497da-4823-4f25-902c-f347d517e917"
+    },
+    {
+      "type": "headquartered_in",
+      "target": "8f3e5d69-5a9c-4a3b-b891-7a8f6e3f965a"
+    }
+  ],
+  "tags": [
+    "organization",
+    "secret-society",
+    "government",
+    "sci-fi",
+    "neutral"
+  ]
+}

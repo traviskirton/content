@@ -1,0 +1,47 @@
+{
+  "id": "baf4a1e9-3c45-4c3a-8f1e-13fd81967c2f",
+  "type": "character",
+  "name": "Lewis Strauss",
+  "description": "A prominent figure in the narrative of 'Oppenheimer', serving as a politically influential figure and an adversary.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Lewis Strauss was a significant figure in the United States government. He served on the United States Atomic Energy Commission, eventually becoming its chairman. Strauss is a multifaceted personality, with a strong influence over nuclear policy and political affairs."
+    },
+    {
+      "title": "Personality",
+      "body": "Strauss is depicted as a highly intelligent and strategic thinker, often motivated by personal and political gain. He is characterized by his meticulous nature and his ability to navigate complex political landscapes. However, his ambition and quest for power sometimes lead to moral ambiguities, showcasing a flaw in his character."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Oppenheimer', Lewis Strauss serves as an antagonist, frequently clashing with J. Robert Oppenheimer. His role is pivotal in the political maneuvering surrounding the narrative, as he challenges Oppenheimer's viewpoints and decisions. Strauss's actions and decisions impact the course of events, highlighting the power struggles within the atomic energy sector."
+    },
+    {
+      "title": "Relationships",
+      "body": "Strauss maintains a complex and adversarial relationship with J. Robert Oppenheimer. The tension between the two characters underscores many of the film's key conflicts. Strauss's interactions are also influenced by his connections with various political figures and allies within the government."
+    }
+  ],
+  "aliases": [
+    "Louis Strauss"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "rivals_with",
+      "target": "f41da99b-62cf-4de5-b79b-9c999e62aa8f"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Chairman of the United States Atomic Energy Commission",
+    "portrayed_by": "Robert Downey Jr."
+  },
+  "tags": [
+    "antagonist",
+    "politician",
+    "strategist"
+  ]
+}

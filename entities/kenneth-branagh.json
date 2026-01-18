@@ -1,0 +1,56 @@
+{
+  "id": "d1f9c872-b97c-4c93-bd58-22a7a721b3a6",
+  "type": "person",
+  "name": "Kenneth Branagh",
+  "description": "An acclaimed Northern Irish actor and filmmaker known for his Shakespearean roles and directorial works.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Kenneth Branagh was born on December 10, 1960, in Belfast, Northern Ireland. He moved to Reading, England, with his family at the age of nine. Branagh developed an interest in acting during his youth and went on to train at the Royal Academy of Dramatic Art in London."
+    },
+    {
+      "title": "Career",
+      "body": "Kenneth Branagh gained prominence in the 1980s for his stage performances, particularly in Shakespearean plays. He founded the Renaissance Theatre Company in 1987 and directed several plays, further establishing his reputation. Branagh's film career took off with his 1989 film adaptation of 'Henry V', which he directed and starred in. He received several awards and nominations, including an Academy Award nomination for Best Actor and Best Director. Known for his versatility, Branagh has appeared in various genres, from Shakespearean adaptations to contemporary dramas and blockbuster films like 'Harry Potter and the Chamber of Secrets' and 'Tenet'."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Kenneth Branagh has frequently collaborated with actor Emma Thompson, who was also his wife from 1989 to 1995. He has also worked with actor-director Christopher Nolan, appearing in Nolan's films such as 'Dunkirk' and 'Tenet'."
+    },
+    {
+      "title": "Legacy",
+      "body": "Branagh's work has had a significant impact on bringing Shakespeare to contemporary audiences through both his stage and film adaptations. He has received numerous awards, including a knighthood in 2012 for his services to drama and the community of Northern Ireland. His influence extends beyond his acting, with his directorial style being highly respected in both theatrical and cinematic communities."
+    }
+  ],
+  "aliases": [
+    "Ken Branagh"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "0d9f8d3b-6c12-4adb-9e8c-a5d7463d049b"
+    },
+    {
+      "type": "acted_in",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    }
+  ],
+  "properties": {
+    "born": "1960",
+    "nationality": "Northern Irish",
+    "occupation": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active_years": "1981-present"
+  },
+  "tags": [
+    "actor",
+    "director",
+    "producer",
+    "writer",
+    "drama",
+    "modern"
+  ]
+}

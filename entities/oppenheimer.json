@@ -1,0 +1,108 @@
+{
+  "id": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248",
+  "type": "movie",
+  "name": "Oppenheimer",
+  "description": "A biographical drama depicting the life of J. Robert Oppenheimer and his role in the development of the atomic bomb during World War II.",
+  "content": [
+    {
+      "title": "Synopsis",
+      "body": "The film chronicles the life of J. Robert Oppenheimer, focusing on his leadership role in the Manhattan Project during World War II. As the head of a team of scientists, Oppenheimer developed the first nuclear weapons, which played a crucial role in ending the war. The movie follows his journey through scientific breakthroughs and moral dilemmas, set against the backdrop of intense political and personal pressures."
+    },
+    {
+      "title": "Production",
+      "body": "Directed by Christopher Nolan, 'Oppenheimer' was developed with the intention of creating a detailed and nuanced portrayal of the physicist's life. Production on the film began in early 2022, with a focus on historical accuracy and character depth. The screenplay was adapted from the biography 'American Prometheus' by Kai Bird and Martin J. Sherwin. Filming took place in various locations to authentically capture the settings of the time period."
+    },
+    {
+      "title": "Reception",
+      "body": "Upon its release, 'Oppenheimer' received critical acclaim for its screenplay, direction, and Cillian Murphy's performance in the titular role. The film was praised for its gripping narrative and its exploration of complex themes. It achieved significant commercial success at the box office, becoming one of the year's highest-grossing films. 'Oppenheimer' won several awards, including accolades for best picture, director, and actor."
+    },
+    {
+      "title": "Legacy",
+      "body": "The film 'Oppenheimer' has been lauded not only as a cinematic achievement but also for reinvigorating interest in the historical and ethical implications of nuclear research. It has sparked discussions in educational and scholarly circles and inspired other filmmakers to approach historical narratives with similar depth and authenticity."
+    }
+  ],
+  "aliases": [
+    "Oppenheimer Film",
+    "Oppenheimer Movie"
+  ],
+  "relationships": [
+    {
+      "type": "directed_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "distributed_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "written_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "composed_by",
+      "target": "d89a19c5-7b44-4ff8-bd6b-90b4f3bbf2a4"
+    },
+    {
+      "type": "stars",
+      "target": "15f5a123-d9e8-4397-b782-67814dc0b9b6"
+    },
+    {
+      "type": "stars",
+      "target": "3d98b280-78ec-4eaa-99c0-364f0ddf637f"
+    },
+    {
+      "type": "stars",
+      "target": "f38c8570-bf94-458e-b8b8-4a5fdc5efaa1"
+    },
+    {
+      "type": "stars",
+      "target": "39d41719-e36b-4e59-b689-fb4a992209a8"
+    },
+    {
+      "type": "stars",
+      "target": "4d2f65d9-5158-4563-8055-8eef6c6f9786"
+    },
+    {
+      "type": "features_character",
+      "target": "d5726a3d-fd00-4f52-9eb0-1e68836f5c82"
+    },
+    {
+      "type": "features_character",
+      "target": "fb09e323-a504-42ea-a945-54c080f6437a"
+    },
+    {
+      "type": "features_location",
+      "target": "e1c864e6-a0de-420d-8b0f-36f51a0fdc8b"
+    }
+  ],
+  "properties": {
+    "year": 2023,
+    "runtime": 180,
+    "genre": [
+      "Drama",
+      "History",
+      "Biography"
+    ],
+    "budget": 100000000,
+    "box_office": 850000000,
+    "rating": "R"
+  },
+  "tags": [
+    "drama",
+    "biography",
+    "history",
+    "2020s",
+    "classic",
+    "blockbuster",
+    "scientific",
+    "war"
+  ]
+}

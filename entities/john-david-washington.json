@@ -1,0 +1,53 @@
+{
+  "id": "0c1d2eb3-acf4-4343-9924-58f2bf89e121",
+  "type": "person",
+  "name": "John David Washington",
+  "description": "A prominent American actor known for his versatile roles in film and television.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "John David Washington, born in 1984, is an American actor and producer. The son of actor Denzel Washington and actress and singer Pauletta Washington, he began his career in the entertainment industry after a brief stint as a professional football player."
+    },
+    {
+      "title": "Career",
+      "body": "**Major Works:** John David Washington gained recognition for his role as Ron Stallworth in Spike Lee's *BlacKkKlansman* (2018), for which he received a Golden Globe nomination. His performance as the Protagonist in Christopher Nolan's *Tenet* (2020) further solidified his status as a leading actor.\n\n**Achievements:** Known for his compelling performances and commanding screen presence, Washington's work continues to garner critical and commercial success.\n\n**Style or Approach:** His acting style is often noted for its intensity and depth, bringing complex characters to life on screen."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Washington has frequently collaborated with directors like Spike Lee and Christopher Nolan. His partnership with Nolan for *Tenet* marked a significant milestone in his career, providing him with an opportunity to showcase his talent in a high-concept, big-budget film."
+    },
+    {
+      "title": "Legacy",
+      "body": "John David Washington's impact on the film industry is marked by his ability to transcend the shadow of his legendary father, carving out his own identity as a versatile and respected actor. As he continues to take on diverse roles, he is building a legacy characterized by strong performances and significant contributions to modern cinema."
+    }
+  ],
+  "properties": {
+    "born": 1984,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "producer"
+    ],
+    "active_years": "2015-present"
+  },
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "acted_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    }
+  ],
+  "tags": [
+    "actor",
+    "producer",
+    "drama",
+    "modern"
+  ]
+}

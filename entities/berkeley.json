@@ -1,0 +1,49 @@
+{
+  "id": "3617a5c1-3b3a-4bb7-b577-b480c54896e3",
+  "type": "location",
+  "name": "Berkeley",
+  "description": "A fictional version of the city of Berkeley within the universe of the movie 'Oppenheimer'.",
+  "content": [
+    {
+      "title": "History",
+      "body": "In the fictional narrative of **Oppenheimer**, Berkeley serves as a pivotal setting where J. Robert Oppenheimer conducts significant scientific work. As a university town, it supports a robust academic community that fuels Oppenheimer's research."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated in the state of California, the fictional Berkeley mirrors its real-world counterpart with sprawling university grounds and an academic atmosphere."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **University Campus**: The primary setting where Oppenheimer's scientific pursuits unfold. \n- **Academic Buildings**: Various fictional science labs where key research is conducted."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Berkeley is essential to the narrative of **Oppenheimer** as it represents the cradle of theoretical physics where Oppenheimer and his colleagues make groundbreaking discoveries. The city's portrayal emphasizes both the intellectual vibrancy and political tensions of the era."
+    }
+  ],
+  "aliases": [
+    "Berkeley University Town",
+    "Berkeley City"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city"
+  },
+  "tags": [
+    "city",
+    "Oppenheimer",
+    "1950s",
+    "academic",
+    "California"
+  ]
+}

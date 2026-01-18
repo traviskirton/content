@@ -1,0 +1,47 @@
+{
+  "id": "e13cd9c3-d92f-4f3e-8726-79d8f37bc561",
+  "type": "person",
+  "name": "Dimple Kapadia",
+  "description": "Versatile Indian actress known for her roles in Hindi cinema.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Dimple Kapadia was born in 1957 in Bombay, India. She began her acting career at a young age and made her debut in Bollywood with the lead role in the iconic film *Bobby* (1973). Her performance in the film at the age of 16 earned her immediate recognition and fame."
+    },
+    {
+      "title": "Career",
+      "body": "Dimple Kapadia is renowned for her performances in a variety of Hindi films throughout her career. After her debut, she took a sabbatical from acting for several years following her marriage. She made a resounding comeback with the movie *Saagar* (1985) for which she won a Filmfare Award. Known for her strong, versatile roles, she has worked in critically acclaimed films such as *Rudaali* (1993), *Dil Chahta Hai* (2001), and *Tenet* (2020). Her acting style is characterized by a deep emotional depth and strong on-screen presence."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Throughout her career, Dimple Kapadia has collaborated with numerous notable filmmakers and actors. She worked alongside director Ramesh Sippy in *Saagar* and collaborated with renowned international director Christopher Nolan in the film *Tenet*."
+    },
+    {
+      "title": "Legacy",
+      "body": "Dimple Kapadia's contributions to Hindi cinema have left an indelible impact. She is celebrated for breaking stereotypes with her choice of roles and for her emotional performances. Her work has earned her numerous awards and recognitions, including four Filmfare Awards and the National Film Award for Best Actress."
+    }
+  ],
+  "aliases": [
+    "Dimple Chunnibhai Kapadia"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    }
+  ],
+  "properties": {
+    "born": "1957",
+    "nationality": "Indian",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1973–present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "Bollywood",
+    "modern"
+  ]
+}

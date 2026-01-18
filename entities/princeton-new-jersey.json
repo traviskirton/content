@@ -1,0 +1,47 @@
+{
+  "id": "a977ccee-7397-4264-9eca-5c81b490e6e3",
+  "type": "location",
+  "name": "Princeton, New Jersey",
+  "description": "A vibrant university town in New Jersey known for its Ivy League university.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Princeton is a town located in Mercer County, New Jersey, United States. It is known globally as the home of Princeton University, a prestigious Ivy League institution. The town is a center of research and education with its various cultural and historical attractions."
+    },
+    {
+      "title": "Film History",
+      "body": "Princeton, New Jersey, has been used as a filming location for various movies and TV shows. **'Admission,'** starring Tina Fey and Paul Rudd, featured scenes shot on the Princeton University campus. The comedy **'IQ,'** with Meg Ryan and Tim Robbins, also utilized Princeton's scenic locales, portraying the 1950s era. The university setting has often doubled for fictional institutions in various productions."
+    },
+    {
+      "title": "Visiting",
+      "body": "Princeton is open to the public, with many attractions such as the Princeton University Art Museum, Nassau Hall, and historical walking tours available. The town offers guided tours of the university campus, showcasing its architectural beauty and historical significance. The area is pedestrian-friendly with a variety of shops, restaurants, and cultural sites."
+    }
+  ],
+  "aliases": [
+    "Princeton"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "address": "Princeton, NJ 08540, USA",
+    "city": "Princeton",
+    "state": "New Jersey",
+    "country": "United States",
+    "coordinates": {
+      "lat": 40.3573,
+      "long": -74.6672
+    }
+  },
+  "tags": [
+    "city",
+    "active",
+    "public",
+    "tours-available"
+  ]
+}

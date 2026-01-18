@@ -1,0 +1,54 @@
+{
+  "id": "d784972a-bb7d-4c6f-93fd-560b123e6b98",
+  "type": "character",
+  "name": "Isidor Isaac Rabi",
+  "description": "A brilliant physicist and friend of J. Robert Oppenheimer, Rabi plays a critical role during the development of the atomic bomb.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Isidor Isaac Rabi was born in the Austrian Empire, in what is now Poland, and immigrated to the United States with his family. He became a prominent physicist, known for his work on the electron spin resonance and radar technology. Rabi was heavily involved in the academic circle at Columbia University, where he played a pivotal role in theoretical physics advancements."
+    },
+    {
+      "title": "Personality",
+      "body": "Rabi is characterized by his sharp intellect and wit. He is often perceived as a voice of reason, questioning the ethical implications of scientific advancements. This trait makes him both a critical thinker and a skeptic, always striving to ensure that scientific progress aligns with moral values."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Oppenheimer', Rabi serves as a supportive friend and colleague to J. Robert Oppenheimer but also as a critical voice regarding the Manhattan Project's goals and consequences. His skepticism and ethical concerns highlight the moral dilemmas faced by scientists during that era. Through his arc, Rabi reinforces the importance of contemplative discourse amidst groundbreaking discoveries."
+    },
+    {
+      "title": "Relationships",
+      "body": "Rabi shares a profound collegial relationship with J. Robert Oppenheimer, characterized by mutual respect and intellectual camaraderie. As a friend, he provides Oppenheimer with both personal support and critique, ensuring that considerations extend beyond the scientific community to the broader human context."
+    },
+    {
+      "title": "Abilities",
+      "body": "Rabi is an accomplished physicist, with deep expertise in quantum mechanics and magnetic resonance. His academic prowess and contributions to radar technology and theoretical physics are pivotal in advancing the scientific community's understanding during his time."
+    }
+  ],
+  "aliases": [
+    "I. I. Rabi",
+    "Isidor Rabi"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "friends_with",
+      "target": "f41da99b-62cf-4de5-b79b-9c999e62aa8f"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "physicist",
+    "born": "1898",
+    "died": "1988",
+    "portrayed_by": "David Krumholtz"
+  },
+  "tags": [
+    "supporting",
+    "scientist",
+    "mentor"
+  ]
+}

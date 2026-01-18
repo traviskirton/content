@@ -1,0 +1,60 @@
+{
+  "id": "599550fb-347b-4874-bd88-4eada7a957b8",
+  "type": "person",
+  "name": "Clémence Poésy",
+  "description": "French actress known for roles in Harry Potter and In Bruges.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Clémence Poésy was born in 1982 in L'Haÿ-les-Roses, France. She began her acting career on stage and appeared in French television films before gaining international recognition."
+    },
+    {
+      "title": "Career",
+      "body": "Clémence is best known for her role as Fleur Delacour in the *Harry Potter* film series. Her performance in *In Bruges* alongside Colin Farrell and Brendan Gleeson showcased her versatility and earned her critical acclaim. She has also appeared in films such as *127 Hours* and *Tenet*. Poésy is noted for her nuanced performances and ability to tackle both dramatic and comedic roles."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Clémence Poésy has worked frequently with notable directors including Christopher Nolan in *Tenet*."
+    },
+    {
+      "title": "Legacy",
+      "body": "Clémence Poésy's work in both European and Hollywood films has cemented her place as a versatile and accomplished actress. Her role in the *Harry Potter* series has left a lasting impact on fans worldwide."
+    }
+  ],
+  "aliases": [
+    "Clémence Guichard"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "a9c2b0f1-3e45-476f-989b-d3e1f7e93b13"
+    },
+    {
+      "type": "acted_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "acted_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "acted_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    }
+  ],
+  "properties": {
+    "born": 1982,
+    "nationality": "French",
+    "occupation": [
+      "actor",
+      "model"
+    ],
+    "active_years": "1999-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "comedy",
+    "modern"
+  ]
+}
