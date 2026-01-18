@@ -26,11 +26,11 @@
   ],
   "relationships": [
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "dbf564e7-1a57-4ed3-a2b0-ec5d646bdb24"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
     },
     {

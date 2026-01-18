@@ -31,7 +31,12 @@
     "Sherlock Holmes: The Hound",
     "Baskervilles"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "author",
+      "target": "7f39ba3a-6b6e-4d3e-8f2b-9b66027320b0"
+    }
+  ],
   "properties": {
     "author": "Sir Arthur Conan Doyle",
     "publication_year": 1902,

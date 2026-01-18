@@ -28,6 +28,10 @@
   ],
   "relationships": [
     {
+      "type": "author",
+      "target": "f66c22f3-f2ad-4d17-bf5c-f0bde7a79d63"
+    },
+    {
       "type": "features_character",
       "target": "3281e560-22b2-497a-84ce-c1c1bb7f9d58"
     },

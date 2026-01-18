@@ -30,7 +30,7 @@
   "relationships": [
     {
       "type": "located_in",
-      "target": "f1b2c3d4-e5f6-7890-abcdefghijk1"
+      "target": "dbd93414-7d92-4a6c-9370-7a316e89d9ae"
     },
     {
       "type": "contains",

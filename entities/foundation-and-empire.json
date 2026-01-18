@@ -32,6 +32,14 @@
   ],
   "relationships": [
     {
+      "type": "author",
+      "target": "a7d81242-1f49-4f49-bc68-9bb3f929d6e5"
+    },
+    {
+      "type": "part_of_franchise",
+      "target": "f0d9fb2a-0f3e-446a-9a1d-2db988b68967"
+    },
+    {
       "type": "features_character",
       "target": "64d37a5b-1080-4c2b-b01f-1e1faa984f2c"
     },

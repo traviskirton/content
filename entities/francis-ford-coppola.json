@@ -42,6 +42,14 @@
     {
       "type": "directed",
       "target": "d5f5bf96-6e3b-4d6f-b32b-32b91a67b1c8"
+    },
+    {
+      "type": "directed",
+      "target": "a34e10f7-2f77-48bd-803f-efa34f19c87f"
+    },
+    {
+      "type": "directed",
+      "target": "f2318973-a4ee-4b60-8585-397a6f1d4d73"
     }
   ],
   "properties": {

@@ -31,6 +31,10 @@
   ],
   "relationships": [
     {
+      "type": "portrayed_by",
+      "target": "e5d3f69c-ce24-4a97-a133-6a74f0b5f6be"
+    },
+    {
       "type": "appears_in",
       "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
     },

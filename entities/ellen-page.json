@@ -26,7 +26,7 @@
   ],
   "relationships": [
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     },
     {
@@ -34,15 +34,15 @@
       "target": "ac3b1234-abf5-40d2-8bef-c8b789d8e123"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "e6149baf-563e-4dc9-8eec-a7a33e3e95ac"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
     }
   ],

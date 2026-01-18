@@ -41,6 +41,10 @@
       "target": "7fd2fc7e-9c20-4c82-a5d5-9357db638226"
     },
     {
+      "type": "includes_book",
+      "target": "87f3d82a-1c34-4f8d-97fc-3202ead228d1"
+    },
+    {
       "type": "features_character",
       "target": "cc15c2e4-13b8-4e1b-867e-112f66a93662"
     },

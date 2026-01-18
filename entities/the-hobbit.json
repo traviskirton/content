@@ -30,7 +30,12 @@
     "There & Back Again: The Hobbit",
     "Bilbo's Adventure"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "author",
+      "target": "6c3edb3b-1c68-4f0f-9ed9-952d3e7acb6e"
+    }
+  ],
   "properties": {
     "author": "J.R.R. Tolkien",
     "publication_year": 1937,

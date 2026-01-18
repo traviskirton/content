@@ -25,7 +25,16 @@
     "The Lord of the Rings: The Two Towers",
     "LOTR: Two Towers"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "author",
+      "target": "6c3edb3b-1c68-4f0f-9ed9-952d3e7acb6e"
+    },
+    {
+      "type": "part_of_franchise",
+      "target": "3f2a8ac1-8265-4be2-b147-af56f003de51"
+    }
+  ],
   "properties": {
     "author": "J.R.R. Tolkien",
     "publication_year": 1954,

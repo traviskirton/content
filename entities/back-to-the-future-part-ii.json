@@ -22,7 +22,9 @@
     }
   ],
   "aliases": [
-    "Back to the Future 2"
+    "Back to the Future 2",
+    "BTTF2",
+    "BTTF II"
   ],
   "relationships": [
     {
@@ -64,6 +66,30 @@
     {
       "type": "features_character",
       "target": "c3d4e5f6-a7b8-9012-cdef-345678901234"
+    },
+    {
+      "type": "features_character",
+      "target": "b3fbd1f3-8215-4a6a-9417-5f4c1d308eef"
+    },
+    {
+      "type": "features_character",
+      "target": "24c9d2f3-2b68-4e27-b18b-7a5c0b0f789a"
+    },
+    {
+      "type": "features_character",
+      "target": "b5a41d6b-4f3e-4dc1-8268-c4aeda84b8b4"
+    },
+    {
+      "type": "features_character",
+      "target": "9a65f6e3-4d98-4f7a-b5ad-1e0cf9c7d330"
+    },
+    {
+      "type": "features_character",
+      "target": "b9e2f930-6b50-4f27-9ff9-f0d4e827f5d1"
+    },
+    {
+      "type": "features_character",
+      "target": "91c5a0e5-be13-4ac9-808c-8e4df7d82334"
     },
     {
       "type": "features_location",

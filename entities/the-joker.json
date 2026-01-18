@@ -28,9 +28,14 @@
   "aliases": [
     "Clown Prince of Crime",
     "Harlequin of Hate",
-    "Jester of Genocide"
+    "Jester of Genocide",
+    "Joker"
   ],
   "relationships": [
+    {
+      "type": "portrayed_by",
+      "target": "d5c5fcb1-02d2-4c82-9f84-efb89c8a2bd9"
+    },
     {
       "type": "appears_in",
       "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"

@@ -22,23 +22,24 @@
     }
   ],
   "aliases": [
-    "Christian Charles Philip Bale"
+    "Christian Charles Philip Bale",
+    "Bale"
   ],
   "relationships": [
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "e8b08e64-1f5b-4cee-aabe-b802d5a09512"
     },
     {
@@ -46,7 +47,7 @@
       "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
     }
   ],

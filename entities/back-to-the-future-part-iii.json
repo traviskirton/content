@@ -23,7 +23,9 @@
   ],
   "aliases": [
     "BTTF Part III",
-    "Back to the Future 3"
+    "Back to the Future 3",
+    "BTTF3",
+    "BTTF III"
   ],
   "relationships": [
     {
@@ -65,6 +67,22 @@
     {
       "type": "features_character",
       "target": "b3fbd1f3-8215-4a6a-9417-5f4c1d308eef"
+    },
+    {
+      "type": "features_character",
+      "target": "943327b5-f3a3-4a6b-a2df-3b6d72ec4486"
+    },
+    {
+      "type": "features_character",
+      "target": "28e933d7-2659-4413-b2f2-4a126c7c1957"
+    },
+    {
+      "type": "features_character",
+      "target": "d47d2ba3-4fca-4ed5-b0d1-ecf81b896b8f"
+    },
+    {
+      "type": "features_character",
+      "target": "2f83a8c2-7bd3-4c4e-ba86-92d5a8f8d295"
     },
     {
       "type": "features_location",

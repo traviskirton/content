@@ -26,7 +26,7 @@
   ],
   "relationships": [
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
     },
     {
@@ -38,7 +38,7 @@
       "target": "d2e9f21d-ae29-4f4a-9b12-0e5f5d1b9e79"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
     }
   ],

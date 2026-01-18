@@ -22,11 +22,12 @@
     }
   ],
   "aliases": [
-    "Matthew David McConaughey"
+    "Matthew David McConaughey",
+    "McConaughey"
   ],
   "relationships": [
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
     },
     {
@@ -42,11 +43,11 @@
       "target": "c5f8d103-826e-410b-bb7b-30d8bbf3b5ba"
     },
     {
-      "type": "acted_in",
+      "type": "appears_in",
       "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
     },
     {
-      "type": "appears_in",
+      "type": "starred_in",
       "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
     }
   ],

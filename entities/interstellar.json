@@ -64,7 +64,39 @@
     },
     {
       "type": "features_character",
-      "target": "ae2541d3-fd8b-4839-a91b-f8c8bdf5ef87"
+      "target": "c5f8d103-826e-410b-bb7b-30d8bbf3b5ba"
+    },
+    {
+      "type": "features_character",
+      "target": "9d71539f-9a11-4259-825b-b7b6363a3469"
+    },
+    {
+      "type": "features_character",
+      "target": "a28b62e3-098c-4d5b-b47e-5c4e29e1c314"
+    },
+    {
+      "type": "features_character",
+      "target": "dee30356-293b-4b92-b489-7c13cbdb2308"
+    },
+    {
+      "type": "features_character",
+      "target": "1f02e131-f680-4aeb-991b-85ce3b0e0b17"
+    },
+    {
+      "type": "features_character",
+      "target": "1229c5e0-8cd2-46fa-8b0c-55c6822f1f86"
+    },
+    {
+      "type": "features_character",
+      "target": "c5637766-14da-4d3d-9ff3-c4973a3d5c50"
+    },
+    {
+      "type": "features_character",
+      "target": "1c8df9d8-7c51-4c31-94d7-7a8e596cb4ad"
+    },
+    {
+      "type": "features_character",
+      "target": "6143f888-086b-49dc-bf9e-eb039c5b1e66"
     },
     {
       "type": "features_location",
@@ -103,6 +135,9 @@
     "box_office": 677471339,
     "rating": "PG-13"
   },
+  "aliases": [
+    "Interstellar: The IMAX Experience"
+  ],
   "tags": [
     "sci-fi",
     "2010s",

@@ -27,31 +27,31 @@
   ],
   "relationships": [
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
     },
     {
@@ -71,7 +71,7 @@
       "target": "c9b4e5f3-371e-4dc3-b2f5-1a80a2e965f9"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
     }
   ],

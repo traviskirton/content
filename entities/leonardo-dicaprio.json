@@ -23,19 +23,21 @@
   ],
   "aliases": [
     "Leo DiCaprio",
-    "Leonardo Wilhelm DiCaprio"
+    "Leonardo Wilhelm DiCaprio",
+    "Leo",
+    "DiCaprio"
   ],
   "relationships": [
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
     },
     {
@@ -51,7 +53,7 @@
       "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
     }
   ],

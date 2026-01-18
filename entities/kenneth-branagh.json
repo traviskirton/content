@@ -26,15 +26,15 @@
   ],
   "relationships": [
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "0d9f8d3b-6c12-4adb-9e8c-a5d7463d049b"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     },
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
     }
   ],

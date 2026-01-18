@@ -24,7 +24,7 @@
   "aliases": [],
   "relationships": [
     {
-      "type": "acted_in",
+      "type": "starred_in",
       "target": "e2a7890e-ac3e-4a58-a5d9-7f33cc9c5867"
     },
     {

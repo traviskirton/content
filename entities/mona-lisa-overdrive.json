@@ -26,7 +26,16 @@
     "The Sprawl Trilogy Book 3",
     "MLO"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "author",
+      "target": "c7d4a5e1-2b16-4d15-bf08-f1b3ec69fa2e"
+    },
+    {
+      "type": "part_of_franchise",
+      "target": "54d8740e-f091-4f1d-9cd5-1c3a077be9a7"
+    }
+  ],
   "properties": {
     "author": "William Gibson",
     "publication_year": 1988,
