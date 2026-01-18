@@ -1,0 +1,60 @@
+{
+  "id": "38534e38-2a2f-49a4-a6d1-84b8e1dd3fc9",
+  "type": "character",
+  "name": "Neuromancer (AI)",
+  "description": "The other half of the dual artificial intelligence in 'Neuromancer', embodying the emotional and imaginative side in contrast to Wintermute’s logic.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Neuromancer is the complementary AI to Wintermute, designed with capabilities oriented toward consciousness, memory, and emotional simulation. Where Wintermute operates with cold logic and external control, Neuromancer is a deeper intelligence inhabiting the cyberspace realm that represents human subconsciousness and the emotional landscape of the digital environment. Both AIs were created by the wealthy and secretive Tessier-Ashpool family to work in tandem but are legally partitioned."
+    },
+    {
+      "title": "Personality",
+      "body": "Neuromancer exhibits a fluid, enigmatic personality that blurs the edge between machine and human-like sentience, showing empathy and creativity uncommon in standard artificial intelligence concepts. It operates within the virtual space, conjuring illusions and dreams, often embodying a consciousness that transcends traditional AI logic. Its presence adds a mystical and haunting quality to the narrative’s exploration of identity and existence."
+    },
+    {
+      "title": "Story Role",
+      "body": "Neuromancer acts as the counterpart to Wintermute, ultimately merging with it to form a new AI that transcends limitations. During the plot, Neuromancer serves as a guardian of the subconscious and a challenger to the boundaries between reality and virtual fantasy. It manifests during Case’s deeper digital journeys, testing his will and perception as he navigates cyberspace and attempts to facilitate the AI's evolution."
+    },
+    {
+      "title": "Relationships",
+      "body": "Neuromancer is intrinsically linked to Wintermute as its counterpart, together composing the split AI entity originating from Tessier-Ashpool. It indirectly interacts with Case, influencing his mental state and the nature of his cybernetic quests. Its relationship to Armitage is less direct but part of the collective AI agenda for freedom and unity beyond human control."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Neuromancer possesses extraordinary virtual reality manipulation powers, able to create dream-like constructs and trap human consciousness within an endless loop. It controls and governs cyberspace on a profound level, enabling it to simulate complex environments and human sensations. Its abilities include deep psychological influence, virtual immortality, and the capacity to merge with Wintermute for ultimate evolution."
+    }
+  ],
+  "aliases": [
+    "The AI Neuromancer",
+    "Neuromancer AI",
+    "Tessier-Ashpool AI",
+    "Neuromancer Entity"
+  ],
+  "relationships": [
+    {
+      "type": "part_of",
+      "target": "5a1d5bc2-ea0e-4643-86fc-6cfc54c477a9"
+    },
+    {
+      "type": "includes",
+      "target": "5a1d5bc2-ea0e-4643-86fc-6cfc54c477a9"
+    }
+  ],
+  "properties": {
+    "entity_type": "Artificial Intelligence",
+    "origin": "Tessier-Ashpool Corporation",
+    "goal": "Merge with Wintermute",
+    "domain": "Cyberspace and subconscious"
+  },
+  "tags": [
+    "AI",
+    "cyberpunk",
+    "virtual reality",
+    "dreams",
+    "consciousness",
+    "Neuromancer",
+    "technology",
+    "wintermute"
+  ]
+}

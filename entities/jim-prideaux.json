@@ -1,0 +1,57 @@
+{
+  "id": "a78a2e8e-38fd-4298-b103-cab2f4c2274f",
+  "type": "character",
+  "name": "Jim Prideaux",
+  "description": "A veteran British spy whose fateful mission exposes a deep betrayal within MI6 and shapes the central mystery.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Jim Prideaux is an experienced intelligence officer specializing in covert field operations, especially in Eastern Europe during the Cold War. Known for his professionalism and competence, Prideaux’s career is punctuated by a significant mission that ends disastrously, altering his life and the dynamics within British intelligence. Having served loyally for years, Prideaux’s personal morale is deeply affected by betrayal at high levels, emphasizing the profound impact espionage has on agents’ lives beyond the field."
+    },
+    {
+      "title": "Personality",
+      "body": "Prideaux is stoic, disciplined, and introspective, embodying the quintessential reserved British spy. His measured demeanor masks inner turmoil and wounded pride following traumatic events on a covert operation. Despite his quiet nature, Prideaux possesses a deep sense of duty and integrity, refusing to compromise his principles even in adversity. His humility and professionalism stand in contrast to the political manipulations around him."
+    },
+    {
+      "title": "Story Role",
+      "body": "As the field agent sent on a crucial mission to Czechoslovakia, Prideaux becomes central to both the plot's mystery and its resolution. His capture and the botched operation trigger the ensuing events that lead to George Smiley initiating the mole hunt. Prideaux’s return and testimony are pivotal in exposing the traitor, offering firsthand insight into the dangerous duplicity within the Circus. His character serves as both a symbol of sacrifice and a conduit to uncovering hidden betrayals."
+    },
+    {
+      "title": "Relationships",
+      "body": "Prideaux shares a complex relationship with George Smiley, who views him as a trusted and valued colleague and friend. His interactions with other intelligence officers, including Peter Guillam and Ann Smiley, acknowledge his importance in internal investigations. Prideaux’s personal isolation following his mission reflects the burdens carried by those in espionage, often alienated from friends and family due to the clandestine nature of their work."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Jim Prideaux is highly proficient in espionage tradecraft, including surveillance, dead drops, and covert field operations. He is physically capable and mentally resilient, trained to survive hostile detention and interrogation. Prideaux’s experience in Eastern Europe grants him valuable cultural and geopolitical knowledge, enhancing his operational effectiveness. Despite suffering professionally after his mission, his skill set remains critical in intelligence activities."
+    }
+  ],
+  "aliases": [
+    "Jim",
+    "Captain Prideaux",
+    "Agent Prideaux"
+  ],
+  "relationships": [
+    {
+      "type": "ally_of",
+      "target": "b32e3b8b-54c2-4a1e-9e35-bccd3de890d2"
+    },
+    {
+      "type": "ally_of",
+      "target": "e341ca8d-ad25-4d26-b28c-9b23eae9f3f7"
+    }
+  ],
+  "properties": {
+    "nationality": "British",
+    "organization": "MI6",
+    "role": "Field Operations Officer",
+    "experience": "Veteran"
+  },
+  "tags": [
+    "Cold War",
+    "Spy",
+    "Covert Operations",
+    "MI6",
+    "Sacrifice",
+    "Espionage Drama"
+  ]
+}

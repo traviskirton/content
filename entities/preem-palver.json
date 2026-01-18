@@ -1,0 +1,65 @@
+{
+  "id": "471a8aae-0feb-4e52-bdc6-58f59da2bc2e",
+  "type": "character",
+  "name": "Preem Palver",
+  "description": "A high-ranking First Foundation politician whose path intersects with the Second Foundation's covert operations.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Preem Palver emerges from the politically charged environment of the First Foundation, where he serves as a representative figure in the Galactic Empire’s declining bureaucracy. Unlike the secretive Second Foundation agents, Palver operates openly within political structures, advocating for First Foundation interests. His upbringing was shaped by the Pragmatic, science-driven culture on the Foundation’s home planet, providing him a formidable intellect and practical mindset suitable for political leadership."
+    },
+    {
+      "title": "Personality",
+      "body": "Palver is pragmatic and somewhat skeptical, traits that both serve him well and breed mistrust towards the unseen powers of the Second Foundation. He is ambitious but values order and stability, believing firmly in the First Foundation's ability to guide humanity’s future through technology and political control. Palver shows sharp political instincts, often navigating a fine line between cooperation and rivalry with the Second Foundation."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Second Foundation,' Palver functions as a foil to the covert manipulations originating from the Second Foundation. His quest to uncover and confront the secretive socio-psychological influences exemplifies the tension between overt authority and hidden powers. His actions catalyze key plot developments, as his interactions reveal cracks in the political landscape and challenge the hidden psychic dominance of the Second Foundation."
+    },
+    {
+      "title": "Relationships",
+      "body": "Palver’s relationships are primarily political, involving alliances and rivalries within the First Foundation’s leadership ranks. He is wary of mentalic individuals and suspects their influence extends beyond comprehension, including those associated with @@Pelleas Anthor@@. Despite these tensions, he occasionally seeks to engage with or expose the Second Foundation’s agents, motivated by his dedication to transparency and governance."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Though lacking psychic abilities, Palver is a skilled orator and strategist, adept at bureaucratic maneuvering and political intrigue. He understands the foundations of technology and science, which he uses to bolster the First Foundation’s socio-political dominance. His keen intuition often compensates for his inability to perceive mentalic manipulations directly."
+    }
+  ],
+  "aliases": [
+    "Palver",
+    "Senator Palver",
+    "Preem"
+  ],
+  "relationships": [
+    {
+      "type": "rival_of",
+      "target": "bb2d4b77-295e-4cde-9ef1-2faf4f8d7502"
+    },
+    {
+      "type": "part_of",
+      "target": "4e8ca927-012a-4b0e-94ef-59f1e2a9ab2e"
+    }
+  ],
+  "properties": {
+    "affiliation": "First Foundation",
+    "role": "Politician",
+    "skills": [
+      "political strategy",
+      "bureaucracy",
+      "public speaking"
+    ],
+    "species": "Human",
+    "gender": "Male"
+  },
+  "tags": [
+    "First Foundation",
+    "politics",
+    "science fiction",
+    "human",
+    "Foundation Series",
+    "rivalry",
+    "character",
+    "Isaac Asimov",
+    "first-foundation"
+  ]
+}

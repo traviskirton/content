@@ -42,6 +42,10 @@
     {
       "type": "portrayed_by",
       "target": "f9b7c8a2-5693-4b4a-b4d5-a307c6f6b8d4"
+    },
+    {
+      "type": "appears_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
     }
   ],
   "properties": {

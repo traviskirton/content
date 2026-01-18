@@ -3,11 +3,196 @@
   "type": "location",
   "name": "United States",
   "description": "A country in North America, home to Hollywood and the largest film industry in the world.",
-  "aliases": ["USA", "United States of America", "America", "US"],
-  "relationships": [],
+  "aliases": [
+    "USA",
+    "United States of America",
+    "America",
+    "US"
+  ],
+  "relationships": [
+    {
+      "type": "contains",
+      "target": "0a4d2e36-598a-4da2-9d48-54b708bd28d5"
+    },
+    {
+      "type": "contains",
+      "target": "bf84ed68-aa8b-40d9-87b0-5a7f2e275b5a"
+    },
+    {
+      "type": "contains",
+      "target": "b3e1a2c6-d9e9-41a9-bb55-62a647e2fa06"
+    },
+    {
+      "type": "contains",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "contains",
+      "target": "f9415ca5-eb80-409e-b5da-05549fe3821e"
+    },
+    {
+      "type": "contains",
+      "target": "2f4b5c6d-7e8f-9a0b-1c2d-3e4f5g6h7i8j"
+    },
+    {
+      "type": "contains",
+      "target": "b87f1b7e-6794-4fcb-aaa0-4eedf013e2e3"
+    },
+    {
+      "type": "contains",
+      "target": "292b4f91-1a9f-46e1-b2b4-3f7e926f71fc"
+    },
+    {
+      "type": "contains",
+      "target": "f5b8e5a1-62c3-4ad1-8dce-2b1a1ec58d62"
+    },
+    {
+      "type": "contains",
+      "target": "d65b3a1e-5b3b-4a72-907d-fae2b0ef4f90"
+    },
+    {
+      "type": "contains",
+      "target": "54f3e302-d610-4d5d-b588-38db06f93a1d"
+    },
+    {
+      "type": "contains",
+      "target": "fd26f3a0-487f-4f24-a343-093e2fc62ee3"
+    },
+    {
+      "type": "contains",
+      "target": "3b52879a-7129-4f5c-9e15-60d01eb9c0da"
+    },
+    {
+      "type": "contains",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "contains",
+      "target": "976a4e98-6067-41f3-a51c-8b36b2d5df64"
+    },
+    {
+      "type": "contains",
+      "target": "f872408b-3f39-4aaa-8e8b-ee4e2a7a8592"
+    },
+    {
+      "type": "contains",
+      "target": "9f7d3c2e-4e7a-4b8c-aa54-bc42389b8de9"
+    },
+    {
+      "type": "contains",
+      "target": "4c6b6d52-7b63-4f29-b77b-3573bd66d892"
+    },
+    {
+      "type": "contains",
+      "target": "7f2e64b4-d234-468a-bad5-398f1e34e2a9"
+    },
+    {
+      "type": "contains",
+      "target": "f2df83b6-a820-4aef-a101-0e1f2c2b9b8d"
+    },
+    {
+      "type": "contains",
+      "target": "ecf87b10-d3f5-4832-9c1a-3e1bfaea6abc"
+    },
+    {
+      "type": "contains",
+      "target": "40c60e18-7bc9-4c41-b4f3-7b376a805dd2"
+    },
+    {
+      "type": "contains",
+      "target": "82f4eef8-b309-4b98-8c86-1338da56a582"
+    },
+    {
+      "type": "contains",
+      "target": "7f4c330e-5379-4c84-a28b-86c34d5a4d51"
+    },
+    {
+      "type": "contains",
+      "target": "2216d72e-589b-4d06-ae52-60f24c971234"
+    },
+    {
+      "type": "contains",
+      "target": "a9c2b0f1-3e45-476f-989b-d3e1f7e93b13"
+    },
+    {
+      "type": "contains",
+      "target": "cf8a2c91-2d47-4f59-b041-59bcbc0fcb86"
+    },
+    {
+      "type": "contains",
+      "target": "c99d5dc6-94a8-4a5f-bf75-689f7a8b9349"
+    },
+    {
+      "type": "contains",
+      "target": "a977ccee-7397-4264-9eca-5c81b490e6e3"
+    },
+    {
+      "type": "contains",
+      "target": "163f25f5-8a97-40f9-bb36-d9edb5cb43cf"
+    },
+    {
+      "type": "contains",
+      "target": "e1e3f6a9-809f-42d4-8738-5d0cfab9f351"
+    },
+    {
+      "type": "contains",
+      "target": "254a8b25-d53b-4b2b-814c-9d9a3e6018a8"
+    },
+    {
+      "type": "contains",
+      "target": "9180225d-1af2-4db3-b6b4-a8f3bd05de5b"
+    },
+    {
+      "type": "contains",
+      "target": "d5d1c4f9-a7d2-4f2e-8d4f-a0b7f7e0d567"
+    },
+    {
+      "type": "contains",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "contains",
+      "target": "b2f5e4b5-d7a7-4b3b-80aa-abf9b1e4f344"
+    },
+    {
+      "type": "contains",
+      "target": "b1a0418d-0459-4bbf-a28e-10cc88d9f4db"
+    },
+    {
+      "type": "contains",
+      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
+    },
+    {
+      "type": "contains",
+      "target": "23cab135-3c56-4ec3-9f0b-a1cfe85993f2"
+    },
+    {
+      "type": "contains",
+      "target": "aad70d92-5fbb-4c71-b553-22a01ed58db5"
+    },
+    {
+      "type": "contains",
+      "target": "5b7f9e4c-6e26-4e88-ace0-a8795114adf7"
+    },
+    {
+      "type": "contains",
+      "target": "927c31a9-bf5f-4a9a-b3c8-5c6f0f4622f7"
+    },
+    {
+      "type": "contains",
+      "target": "0a824e12-7862-4a10-9d62-e5613a7e8f9a"
+    },
+    {
+      "type": "contains",
+      "target": "6ef7dc2a-e2f0-4299-9e9a-15e2a8956e24"
+    }
+  ],
   "properties": {
     "type": "country",
     "fictional": false
   },
-  "tags": ["country", "north-america"]
+  "tags": [
+    "country",
+    "north-america"
+  ]
 }

@@ -1,0 +1,58 @@
+{
+  "id": "a3380f94-875e-430d-af9b-456f2a1b5369",
+  "type": "organization",
+  "name": "The Scalphunters",
+  "description": "A rogue group of mercenaries and spies operating independently from major intelligence agencies, involved in clandestine operations within 'Tinker, Tailor, Soldier, Spy'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Scalphunters are portrayed as an unofficial, loosely organized group of mercenary spies and operatives who function outside the traditional boundaries of established intelligence services like the Circus or Moscow Centre. They specialize in high-risk espionage, black operations, and are often motivated by personal gain or ideological fanaticism rather than national allegiance."
+    },
+    {
+      "title": "Structure",
+      "body": "Unlike formal intelligence agencies, the Scalphunters lack a clear hierarchy and centralized control. Their network is fluid, consisting of freelance agents, ex-military personnel, and informants who collaborate on missions with mercenary-like efficiency and disregard for regulation. This dismantled structure allows them flexibility but also breeds distrust and volatile alliances."
+    },
+    {
+      "title": "History",
+      "body": "Emerging during the heightened espionage paranoia of the Cold War period, the Scalphunters filled a niche for covert actions too extreme or deniable for official agencies. Their reputation hinges on brutality and secrecy, often intersecting with both Western and Eastern intelligence plots, complicating the already fraught spy landscape of 'Tinker, Tailor, Soldier, Spy.'"
+    },
+    {
+      "title": "Goals",
+      "body": "Their objectives are primarily opportunistic – encompassing sabotage, assassination, information brokering, and disruption of rival intelligence operations. The Scalphunters do not serve a particular government but are instead driven by contracts, personal vendettas, or ideological causes. Their presence symbolizes the dangerous undercurrent of unregulated espionage in Cold War tensions."
+    },
+    {
+      "title": "Key Members",
+      "body": "Key members are shadowy and rarely named, emphasizing their elusive and peripheral status. They include a mixture of hardened spies and disaffected operatives who have left or been expelled from formal agencies, lending an unpredictable and menacing edge to their operations."
+    }
+  ],
+  "aliases": [
+    "Mercenary Spies",
+    "Rogue Operatives",
+    "Freelance Spies",
+    "Black Ops Group"
+  ],
+  "relationships": [
+    {
+      "type": "opposes",
+      "target": "d1b5bc08-de73-4b7c-a5e0-f7a92c2c3780"
+    },
+    {
+      "type": "rivals",
+      "target": "4b3a47cc-9bde-4cb3-985b-50d9e8f2ff1a"
+    }
+  ],
+  "properties": {
+    "nature": "Mercenary",
+    "activity": "Clandestine",
+    "affiliation": "Independent",
+    "operating_period": "Cold War Era"
+  },
+  "tags": [
+    "Mercenaries",
+    "Espionage",
+    "Covert Operations",
+    "Rogue Agents",
+    "Cold War",
+    "Spy Fiction"
+  ]
+}

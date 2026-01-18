@@ -1,0 +1,64 @@
+{
+  "id": "442b3c8d-9a8b-4f39-85fa-2fbd792a1a03",
+  "type": "character",
+  "name": "Lady Callia",
+  "description": "A mysterious and influential member of the Second Foundation, renowned for her exceptional mentalic talents.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Lady Callia is a celebrated mentalic within the ranks of the Second Foundation, distinguished by her unique heritage and outstanding psychic abilities. She is said to come from a lineage carefully cultivated to enhance mentalic powers, making her one of the most formidable agents in the covert council. Her activities are cloaked in secrecy, consistent with the Foundation’s ethos of subtle control and preservation of the psychohistorical plan."
+    },
+    {
+      "title": "Personality",
+      "body": "Callia combines a noble bearing with an inscrutable aura, often enigmatic and highly disciplined. She exhibits a mixture of compassion and ruthlessness, applying her mentalic powers with judicious consideration of long-term consequences. Her personality is marked by an unwavering commitment to the goals of the Second Foundation, willing to make difficult decisions to ensure the plan’s success."
+    },
+    {
+      "title": "Story Role",
+      "body": "Lady Callia plays a crucial role in the unfolding events within 'Second Foundation,' acting as both protector and manipulator of key political players. Her involvement intensifies the narrative’s focus on mentalic influence and the power of hidden minds shaping galactic history. Through covert interventions, she often serves as a balancing force against threats that might derail the Seldon Plan."
+    },
+    {
+      "title": "Relationships",
+      "body": "She maintains close working relationships with other elite mentalics such as @@Pelleas Anthor@@ and beyond, forming the leadership core of the clandestine Second Foundation. Her relations with the First Foundation are largely adversarial or carefully controlled, as she seeks to guide events without overt confrontation. She also acts as a mentor to younger mentalics within the Foundation."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Lady Callia’s abilities include sophisticated telepathy, mind manipulation, and deep insight into human behavior. Her powers allow her to influence large groups subtly and control complex social dynamics while remaining undetected. Her training also encompasses knowledge of psychohistory, enabling her to align her actions with predicted social trajectories."
+    }
+  ],
+  "aliases": [
+    "Callia",
+    "Lady Callia of Second Foundation",
+    "The Mentalic Lady"
+  ],
+  "relationships": [
+    {
+      "type": "colleague_of",
+      "target": "bb2d4b77-295e-4cde-9ef1-2faf4f8d7502"
+    },
+    {
+      "type": "member_of",
+      "target": "4e8ca927-012a-4b0e-94ef-59f1e2a9ab2e"
+    }
+  ],
+  "properties": {
+    "affiliation": "Second Foundation",
+    "role": "Mentalic agent",
+    "abilities": [
+      "advanced telepathy",
+      "psychological manipulation",
+      "psychohistorical insight"
+    ],
+    "species": "Human",
+    "gender": "Female"
+  },
+  "tags": [
+    "Second Foundation",
+    "mentalic",
+    "psychic powers",
+    "female character",
+    "Foundation Series",
+    "Isaac Asimov",
+    "science fiction",
+    "character"
+  ]
+}

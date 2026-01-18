@@ -1,0 +1,67 @@
+{
+  "id": "2d639401-3047-4db3-b3b5-22bb4a3b5b47",
+  "type": "character",
+  "name": "Ebling Mis",
+  "description": "A brilliant psychologist and scientist whose research uncovers crucial information about the Mule and the possible restoration of the Seldon Plan.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Ebling Mis is an eminent psychologist and researcher of the Foundation, dedicated to psychohistory and understanding the anomalies that threaten it. His intellectual pursuits focus on decoding hidden patterns and predicting human behaviors, large and small. His work becomes essential during the crisis posed by the Mule, as he strives to find solutions to maintain the future forecasted by Hari Seldon's Plan."
+    },
+    {
+      "title": "Personality",
+      "body": "Mis is deeply introspective, intense, and consumed by his quest for knowledge. He displays a mixture of brilliant insight and fragility, often wrestling with the immense pressures of his discoveries. While somewhat socially reserved, Mis commands respect for his academic rigor and unyielding dedication, though his obsession sometimes blinds him to immediate dangers."
+    },
+    {
+      "title": "Story Role",
+      "body": "As 'Foundation and Empire' progresses, Ebling Mis takes a pivotal role when previous hopes of psychohistory's stability falter due to the Mule's rise. His research appears to offer a breakthrough in understanding the possible future or defeat of the Mule’s anomalous power. Ultimately, his fate intertwines tragically with the effort to counter the Mule’s encroachment."
+    },
+    {
+      "title": "Relationships",
+      "body": "Mis interacts closely with Bayta and Toran Darell and Lathan Devers during their efforts against the Mule. His relationship with these key figures is built around mutual respect and shared desperation to save the Foundation’s future. He is seen as an intellectual guide and a moral compass, although his growing obsession creates tension with his companions."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Ebling Mis possesses extraordinary powers of analysis and psychological insight. His mastery of psychohistory, coupled with his deep understanding of human nature, enables him to penetrate complex patterns and predict outcomes. However, his emotional vulnerability and mental exhaustion render his remarkable abilities a double-edged sword, exposing him to internal conflict."
+    }
+  ],
+  "aliases": [
+    "Doctor Mis",
+    "Psychologist Mis",
+    "E. Mis"
+  ],
+  "relationships": [
+    {
+      "type": "ally_of",
+      "target": "b346f270-fb23-4090-9e6c-c4b6d7bbbf95"
+    },
+    {
+      "type": "ally_of",
+      "target": "3be1ba69-3c1c-4b44-bde8-e13db2e69a54"
+    },
+    {
+      "type": "ally_of",
+      "target": "65c334b1-03e0-4d97-bc87-7d06bbf68f44"
+    },
+    {
+      "type": "antagonist_of",
+      "target": "b51fdbe5-3b66-4b84-9b83-298df591d245"
+    }
+  ],
+  "properties": {
+    "occupation": "Psychologist and Scientist",
+    "role": "Supporting protagonist",
+    "discipline": "Psychohistory and Psychology",
+    "impact": "Key to fighting the Mule",
+    "alignment": "Foundation loyalist"
+  },
+  "tags": [
+    "Scientist",
+    "Psychologist",
+    "Psychohistory",
+    "Foundation",
+    "Researcher",
+    "Tragic Figure",
+    "Science Fiction"
+  ]
+}

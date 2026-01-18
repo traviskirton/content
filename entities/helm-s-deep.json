@@ -1,0 +1,52 @@
+{
+  "id": "c0248f26-4e6d-4e1d-a68d-bd5bf563c2d1",
+  "type": "location",
+  "name": "Helm's Deep",
+  "description": "A fortress nestled in the White Mountains of Rohan, site of a legendary battle in 'The Two Towers'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Helm's Deep is a large valley in the northwestern White Mountains of Middle-earth, famous primarily for the fortress of the Hornburg and the Deeping Wall that guards the entrance to the valley. It serves as a refuge for the people of Rohan during times of war and is a symbol of hope and resistance against invaders. Its strategic location and strong defenses make it a critical stronghold in the battle to halt Saruman’s advance during the War of the Ring."
+    },
+    {
+      "title": "Appearance",
+      "body": "The fortress of Helm's Deep is built around a steep fortress carved into the mountain face, featuring stone walls, battlements, and towers. The Deeping Wall is an imposing stone wall that stretches across the mouth of the valley, reinforced by the Hornburg keep that dominates the hilltop. The valley itself is deep and narrow, surrounded by rocky heights and dense forest on one side, creating a natural fortress complemented by man-made defenses. The bleak and forbidding scenery adds to the fortress’s air of impenetrability."
+    },
+    {
+      "title": "History",
+      "body": "Named after Helm Hammerhand, a legendary King of Rohan who defended Rohan’s borders centuries ago, the fortress has long served as a bastion of refuge and resistance. In 'The Two Towers,' it becomes the site of one of the most dramatic and intense battles of the War of the Ring. The people of Rohan, led by King Théoden with aid from Aragorn, Legolas, Gimli, and Gandalf, withstand a prolonged siege by Saruman’s vast army of Uruk-hai. The arrival of Gandalf with reinforcements marks a turning point in the battle, culminating in a decisive victory and a resurgence of Rohan's power."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Battle of Helm's Deep is a central, iconic moment in 'The Two Towers,' exemplifying themes of courage, unity, and perseverance against overwhelming odds. The fortress embodies the resilience of Rohan and the hope of Middle-earth’s free peoples. The siege tests the leadership and morale of Rohan’s king and warriors, while the intervention by unexpected allies highlights the importance of fellowship and solidarity. Its defense marks a critical setback for Saruman and a turning point in the Second Age’s final conflict."
+    }
+  ],
+  "aliases": [
+    "The Hornburg",
+    "Deeping Coomb",
+    "Stronghold of Rohan",
+    "Helm's Deep Fortress"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "8cdb1f9a-849e-41b2-8d28-7c665a84f3a9"
+    }
+  ],
+  "properties": {
+    "fortress_type": "Mountain Fortress",
+    "defenses": "Deeping Wall, Hornburg",
+    "notable_battle": "Battle of Helm's Deep",
+    "ruler": "King Théoden (during War of the Ring)"
+  },
+  "tags": [
+    "Middle-earth",
+    "Fortress",
+    "Rohan",
+    "Battle",
+    "The Two Towers",
+    "War of the Ring",
+    "Fantasy",
+    "Siege"
+  ]
+}

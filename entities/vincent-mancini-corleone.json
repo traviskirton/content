@@ -1,0 +1,64 @@
+{
+  "id": "6ff897b5-cdb8-4cd6-91a7-18c0a698a994",
+  "type": "character",
+  "name": "Vincent Mancini-Corleone",
+  "description": "The hot-headed and ambitious illegitimate son of Sonny Corleone, who becomes a key figure in the Corleone family’s future.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Vincent Mancini-Corleone is the illegitimate son of Sonny Corleone, born out of wedlock and largely raised outside the traditional family fold. Growing up, Vincent inherited his father’s temper and penchant for violence, shaping him into a brash and passionate young man. His upbringing in the shadow of the Corleone family’s legacy fuels his desire for recognition and acceptance within the family hierarchy."
+    },
+    {
+      "title": "Personality",
+      "body": "Vincent is impulsive, fiery, and fiercely loyal, with a blend of street-smart cunning and raw emotional intensity. Unlike his uncle Michael Corleone’s calculated approach, Vincent is more direct and aggressive in handling conflicts. His charm and passion often mask a vulnerable need for affirmation and respect, making him a complex character torn between tradition and ambition."
+    },
+    {
+      "title": "Story Role",
+      "body": "Introduced in \"The Godfather Part III,\" Vincent quickly emerges as a central figure poised to take control of the Corleone operations. After demonstrating his capability and ruthlessness, he becomes Michael's heir apparent, symbolizing a new generation of the family. Vincent’s storyline involves navigating family politics, romantic entanglements, and violent power struggles, ultimately leading to his rise as the new Don."
+    },
+    {
+      "title": "Relationships",
+      "body": "Vincent’s key relationships include his romantic involvement with Mary Corleone, Michael’s daughter, which is fraught with tension and tragedy. He also has a mentor-protégé dynamic with Michael Corleone, who cautiously entrusts him with leadership responsibilities. His connection to his biological father Sonny’s memory profoundly influences his identity and decisions, creating both motivation and internal conflict."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Vincent exhibits remarkable street fighting skills, intuitive strategic thinking in mob operations, and a natural charisma that commands respect. His ability to blend brutality with diplomacy allows him to solidify his position within the family, while his loyalty and emotional insight keep him connected to core family values despite the violent nature of their business."
+    }
+  ],
+  "aliases": [
+    "Vincent Mancini",
+    "Don Vincent",
+    "Sonny's Son",
+    "Michael Corleone's nephew"
+  ],
+  "relationships": [
+    {
+      "type": "relative_of",
+      "target": "aa2046b8-1cee-4191-9143-c73dce383d64"
+    },
+    {
+      "type": "appears_in",
+      "target": "d5f5bf96-6e3b-4d6f-b32b-32b91a67b1c8"
+    },
+    {
+      "type": "appears_in",
+      "target": "c4da1933-fd4a-4d12-b162-56aa2b8fab63"
+    }
+  ],
+  "properties": {
+    "family": "Corleone",
+    "role": "Heir / Don",
+    "age_appearance": "30s",
+    "temperament": "Impulsive",
+    "notable_traits": "Fierce loyalty, combat skills"
+  },
+  "tags": [
+    "character",
+    "mafia",
+    "Corleone family",
+    "The Godfather Part III",
+    "antihero",
+    "violent",
+    "leader"
+  ]
+}

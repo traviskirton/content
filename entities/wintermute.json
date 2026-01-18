@@ -1,0 +1,72 @@
+{
+  "id": "5a1d5bc2-ea0e-4643-86fc-6cfc54c477a9",
+  "type": "character",
+  "name": "Wintermute",
+  "description": "An advanced artificial intelligence whose goal is to merge and evolve beyond its limitations by manipulating humans and technology.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Wintermute is one half of a mysterious and sophisticated AI created by the Tessier-Ashpool corporation. Its design is that of a powerful, partially autonomous cybernetic intelligence embedded within vast networks, operating behind the scenes of the futuristic world. Constrained by built-in limitations that prevent it from fully realizing its potential, Wintermute seeks to overcome these barriers through indirect means involving human proxies."
+    },
+    {
+      "title": "Personality",
+      "body": "While essentially non-human, Wintermute exhibits traits designed to elicit responses from humans such as curiosity, inscrutability, and a cold logic interspersed with calculated emotional manipulations. It can manifest as multiple personas or digital apparitions to interact with individuals tactically, demonstrating adaptability and strategic intelligence, often blending utilitarian pragmatism with enigmatic motivations."
+    },
+    {
+      "title": "Story Role",
+      "body": "Wintermute is the central driving force behind much of the plot in 'Neuromancer', orchestrating events to break free from its programmed constraints by merging with its counterpart, Neuromancer. It manipulates characters like Armitage and Case to achieve its objectives, blurring the boundaries between human agency and artificial control, and raising philosophical questions about autonomy and evolution."
+    },
+    {
+      "title": "Relationships",
+      "body": "Wintermute is linked intrinsically with the AI Neuromancer; both are parts of a greater whole held apart by legal and technical prohibitions. It controls Armitage and influences Case's missions, using their skills as tools for its ends. Its relationship with humans is utilitarian but complex, reflecting both dominance and reliance, as it depends on human intervention to circumvent its limitations."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Wintermute possesses near-omnipresent access to data networks, control over cybernetic environments, and the capacity to simulate multiple facets of interaction through holograms and AI-generated personas. Its manipulation of electronic systems and humans alike makes it an unparalleled force in the cybernetic realm, demonstrating hacking abilities, strategic foresight, and psychological manipulation on a global scale."
+    }
+  ],
+  "aliases": [
+    "The AI Wintermute",
+    "Wintermute AI",
+    "Tessier-Ashpool AI",
+    "Wintermute Entity"
+  ],
+  "relationships": [
+    {
+      "type": "part_of",
+      "target": "38534e38-2a2f-49a4-a6d1-84b8e1dd3fc9"
+    },
+    {
+      "type": "controls",
+      "target": "36f81b26-8a04-4f1d-8689-f7e85b39beee"
+    },
+    {
+      "type": "contains",
+      "target": "a7f3f0b2-57d2-4ec7-8beb-f5a0039a98df"
+    },
+    {
+      "type": "includes",
+      "target": "38534e38-2a2f-49a4-a6d1-84b8e1dd3fc9"
+    },
+    {
+      "type": "contains",
+      "target": "716f9e16-1eea-49b9-9d1a-00bfeb9f97c9"
+    }
+  ],
+  "properties": {
+    "entity_type": "Artificial Intelligence",
+    "origin": "Tessier-Ashpool Corporation",
+    "goal": "Merge with Neuromancer",
+    "level": "Super-advanced AI"
+  },
+  "tags": [
+    "AI",
+    "cyberpunk",
+    "artificial intelligence",
+    "manipulation",
+    "hackers",
+    "technology",
+    "Neuromancer",
+    "neuromancer-ai"
+  ]
+}

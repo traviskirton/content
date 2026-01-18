@@ -1,0 +1,48 @@
+{
+  "id": "1e6f5f0d-1e9c-4a76-a30f-9a05a3d25648",
+  "type": "character",
+  "name": "Sir Hugo Baskerville",
+  "description": "Sir Hugo Baskerville is an infamous ancestor of the Baskerville family, whose cruel and violent actions centuries earlier set the legend of the monstrous hound in motion.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Sir Hugo Baskerville lived several centuries before the novel’s present timeline, known as a ruthless and sadistic nobleman infamous for his debauchery and cruelty. He was the original owner of the Baskerville estate and is said to have hunted down and killed a servant who ran away with a local farmer's daughter. His death, brought about by a supernatural hound after violent escapades on the grim moor, solidified his legacy in the family's dark history."
+    },
+    {
+      "title": "Personality",
+      "body": "Hugo embodies brutality, arrogance, and lawlessness typical of a violent baron in folklore. His personality is marked by a disregard for morality and human life, fueling the terror and curse associated with the Baskerville lineage. The vivid recounting of his deeds paints him as a villainous figure whose legacy haunts subsequent generations."
+    },
+    {
+      "title": "Story Role",
+      "body": "Though only described in flashbacks, Sir Hugo’s tale is foundational to the novel’s central mystery. His violent death and the ensuing legend of the hellish hound create the supernatural aura that drives the plot. The curse linked to him serves as a catalyst for present-day dangers and the investigation by Sherlock Holmes."
+    },
+    {
+      "title": "Relationships",
+      "body": "Sir Hugo is the ancestor of Sir Charles Baskerville and Sir Henry Baskerville, connecting him directly to the protagonists. His legend influences the servants and inhabitants of the moor, as well as characters like Stapleton who seek to exploit the curse for personal gain."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "As a baron, Hugo likely possessed skills related to hunting, horsemanship, and combat, which he exercised violently and recklessly. His reputation as a fierce and feared nobleman reflects his prowess in intimidation and brutality rather than noble virtues or heroism."
+    }
+  ],
+  "aliases": [
+    "The Original Baskerville",
+    "Baron Baskerville",
+    "Hugo the Cruel"
+  ],
+  "relationships": [],
+  "properties": {
+    "title": "Sir",
+    "historical_role": "Founding Baskerville",
+    "reputation": "Cruel and infamous",
+    "period": "Medieval Era"
+  },
+  "tags": [
+    "Ancestral Figure",
+    "Legend",
+    "The Hound of the Baskervilles",
+    "Mythical Curse",
+    "Folklore",
+    "Arthur Conan Doyle"
+  ]
+}

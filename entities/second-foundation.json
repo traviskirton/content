@@ -1,0 +1,64 @@
+{
+  "id": "478a780d-5633-44ed-beab-55a3c19c8f03",
+  "type": "organization",
+  "name": "Second Foundation",
+  "description": "The Second Foundation is a secretive and powerful organization in Isaac Asimov's Foundation series, dedicated to preserving the Seldon Plan through mental science and subtle governance.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Second Foundation is a covert organization established by Hari Seldon, located at 'Star's End,' dedicated to safeguarding and guiding the Seldon Plan through the use of advanced psychological and mental sciences. Unlike the First Foundation, which relies on physical sciences and technology, the Second Foundation manipulates the political and social order from the shadows with unparalleled mental abilities."
+    },
+    {
+      "title": "Structure",
+      "body": "Comprising elite mentalics known as psychologists or telepaths, the Second Foundation operates as a centralized, secretive group. Its members are carefully selected and trained in the art of mental science, capable of influencing minds, predicting behaviors, and steering societal developments subtly to ensure the Seldon Plan's continuation."
+    },
+    {
+      "title": "History",
+      "body": "The Second Foundation was created concurrently with the First Foundation as part of Hari Seldon's grand psychohistorical scheme to shorten the period of galactic chaos after the fall of the Galactic Empire. It remained hidden for centuries, intervening discreetly during critical junctures, particularly during the rise of the Mule and later threats to the project."
+    },
+    {
+      "title": "Goals",
+      "body": "Its primary goal is the preservation and fulfillment of the Seldon Plan – an overarching strategy designed to guide the galaxy through inevitable turmoil towards a renewed Empire. Unlike the more overt First Foundation, it favors subtle mental manipulation, maintaining secrecy to avoid detection by those who might derail the plan."
+    },
+    {
+      "title": "Key Members",
+      "body": "Notable figures linked to the Second Foundation include its leader, known as the First Speaker, and other mentalics with exceptional telepathic capabilities. These members often work undercover within the galaxy, influencing events unseen and countering existential threats to the Plan."
+    }
+  ],
+  "aliases": [
+    "Seldon's Second Foundation",
+    "The Hidden Foundation",
+    "Mind Foundation",
+    "Second Foundationers"
+  ],
+  "relationships": [
+    {
+      "type": "located_at",
+      "target": "5d234cf7-6bbf-4b3e-8489-b8298c1e3504"
+    },
+    {
+      "type": "operates_from",
+      "target": "d75919c5-7c9a-4c67-b80a-9f1a6c9d5ef2"
+    },
+    {
+      "type": "counterpart",
+      "target": "4e8ca927-012a-4b0e-94ef-59f1e2a9ab2e"
+    }
+  ],
+  "properties": {
+    "field": "Mental Science and Psychohistory",
+    "secrecy_level": "Extremely High",
+    "influence_range": "Galaxy-wide",
+    "foundation_type": "Secretive Organization"
+  },
+  "tags": [
+    "Foundation",
+    "Second Foundation",
+    "Isaac Asimov",
+    "Science Fiction",
+    "Psychohistory",
+    "Mentalics",
+    "Secret Society",
+    "Galactic Empire"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "1c7b8b0e-5414-43c4-8d72-8cf1d4d29cc4",
+  "type": "person",
+  "name": "Mario Puzo",
+  "description": "Mario Puzo was an American author and screenwriter best known for writing 'The Godfather' novel and co-writing its acclaimed film adaptations.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Mario Puzo was born on October 15, 1920, in New York City to Italian-American parents. Growing up in the Hell's Kitchen neighborhood, his experiences inspired much of his writing, which frequently dealt with crime and the Italian-American experience. He served in the U.S. Army during World War II and later pursued writing full-time, becoming one of the most influential crime novelists of the 20th century."
+    },
+    {
+      "title": "Career",
+      "body": "Puzo's writing career began with modestly received novels, but his breakthrough came with 'The Godfather' in 1969, which became a bestseller and cultural phenomenon. Following its success, he collaborated on the screenplay of the 1972 film adaptation directed by Francis Ford Coppola. He went on to co-write screenplays for other films including the sequels to 'The Godfather' and adaptations of his subsequent novels."
+    },
+    {
+      "title": "Notable Works",
+      "body": "'The Godfather' (1969) is Puzo's most famous novel, providing an intense and compelling look at the Mafia world and Italian-American family dynamics. Other significant novels include 'The Sicilian' and 'The Last Don'. His screenwriting credits include 'The Godfather' trilogy and 'Superman' (1978)."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Puzo's narrative style combined gritty realism with epic storytelling, characterized by his vivid depictions of organized crime and complex characterizations of loyalty, honor, and betrayal. His influence extends beyond literature into cinema, shaping the portrayal of the Mafia archetype in popular culture and inspiring numerous authors and filmmakers."
+    }
+  ],
+  "aliases": [
+    "Mario Francis Puzo",
+    "Mario Puzo Sr."
+  ],
+  "relationships": [
+    {
+      "type": "creator_of",
+      "target": "49963d4f-8613-406d-8c82-6a50c1d6e9af"
+    },
+    {
+      "type": "creator_of",
+      "target": "1ec0d5ef-4a7f-460e-aefa-fb0fa6876bb2"
+    },
+    {
+      "type": "creator_of",
+      "target": "d6b102b3-0c4b-4c33-97f2-c0d36df8ec84"
+    },
+    {
+      "type": "wrote",
+      "target": "f2906db8-5e3f-45a9-85db-8a1a451c7d1c"
+    }
+  ],
+  "properties": {
+    "birth_date": "1920-10-15",
+    "death_date": "1999-07-02",
+    "nationality": "American",
+    "occupation": [
+      "Author",
+      "Screenwriter"
+    ]
+  },
+  "tags": [
+    "author",
+    "screenwriter",
+    "novelist",
+    "Italian-American",
+    "crime fiction",
+    "20th century",
+    "literature"
+  ]
+}

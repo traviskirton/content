@@ -1,0 +1,62 @@
+{
+  "id": "ea9b2b82-71cc-417d-9f3d-b7b0c202367a",
+  "type": "location",
+  "name": "Unseen University",
+  "description": "The premier institution of magical learning on Discworld, located in Ankh-Morpork, known for its eccentric staff and arcane research.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Unseen University is the foremost magical academy in the Discworld universe, dedicated to the study and practice of magic. Situated prominently in Ankh-Morpork, the University is a sprawling complex of ancient, magically charged buildings filled with secret passages, exotic libraries, and laboratories. The University serves not only as a seat of higher learning for wizards but also as a bastion of magical tradition and sometimes chaotic experimentation, blending the arcane with the slightly absurd."
+    },
+    {
+      "title": "Appearance",
+      "body": "The University is a picturesque yet somewhat haphazard collection of medieval-styled buildings, towers, and courtyards, often imbued with magical traps and enchantments. Its architecture combines Gothic spires, stone walls covered in arcane symbols, and statues that occasionally animate themselves. The grounds include the iconic Tower of Art, the Great Library, and the various faculty halls. The interior is known for shifting staircases, unpredictable magical anomalies, and a labyrinthine layout that confounds visitors."
+    },
+    {
+      "title": "History",
+      "body": "Founded centuries ago by the greatest wizards of Discworld, Unseen University has evolved into a center for magical thought and governance. Its history is marked by storied figures, magical breakthroughs, and internal power struggles among the faculty. The University has weathered threats from both magical and mundane sources and has often served as a repository for the Disc’s magical knowledge. Despite occasional institutional inertia and the eccentricities of its staff, the University remains a vital magical hub."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Unseen University acts as the primary workplace and environment for many notable characters in the Discworld series, including Ponder Stibbons, the Archchancellor, and the Librarian. It represents both the comedic and serious aspects of magic, functioning as a narrative device to explore themes of tradition versus innovation, knowledge versus power, and bureaucracy. The University is a recurrent setting where plotlines involving magical disasters, secret societies, and academic rivalries unfold, highlighting the Disc’s unique blend of satire and fantasy."
+    }
+  ],
+  "aliases": [
+    "UU",
+    "The University",
+    "Discworld Magical College"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "c280701d-cc72-4e97-9367-ef8b120ff1a3"
+    },
+    {
+      "type": "located_in",
+      "target": "57bca9b6-ab08-4c4a-976e-6f3ffdf5b6e7"
+    },
+    {
+      "type": "employs",
+      "target": "e89d9a3c-5d70-4e76-aa54-57e3b8a9cde1"
+    },
+    {
+      "type": "contains",
+      "target": "e89d9a3c-5d70-4e76-aa54-57e3b8a9cde1"
+    }
+  ],
+  "properties": {
+    "type": "Magical university",
+    "location": "Ankh-Morpork",
+    "notable_faculty": "Archchancellor, Ponder Stibbons, The Bursar",
+    "magical_focus": "Advanced arcane study and magical experimentation"
+  },
+  "tags": [
+    "Location",
+    "Magical Institution",
+    "Unseen University",
+    "Discworld",
+    "Wizards",
+    "Education",
+    "Magic"
+  ]
+}

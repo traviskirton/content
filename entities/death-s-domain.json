@@ -1,0 +1,52 @@
+{
+  "id": "86f89b4a-2e8d-4791-b460-1670b6b0fc60",
+  "type": "location",
+  "name": "Death's Domain",
+  "description": "The surreal and enigmatic realm where Death resides, a place existing beyond normal reality with ethereal landscapes and timeless qualities.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Death's Domain is the metaphysical residence of Death in the Discworld universe, serving as a liminal space between life and the afterlife. It is portrayed as a strange, dreamlike place that reflects the peculiar personality of its master, Death. The Domain is neither wholly physical nor completely abstract, and reality there often behaves unpredictably, embodying the ambiguous nature of mortality itself. Within this realm, Death takes on a more humanized role, allowing for narratives that explore existential themes with humor and poignancy."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Domain is characterized by ethereal and whimsical landscapes that defy ordinary logic – including shifting colors, peculiar plants, and timeless architecture. Among its notable features are Death's black castle-like house, complete with a small vegetable garden and a pond inhabited by creatures of myth. The environment mixes cozy domesticity with the eeriness of otherworldliness, containing rooms and corridors that lead to unknown destinations and are often suffused with a spectral glow."
+    },
+    {
+      "title": "History",
+      "body": "As a metaphysical construct, Death's Domain has existed since the creation of Discworld, representing the personification of Death himself. It has evolved alongside Death’s character, reflecting changes in how mortality is conceptualized within the series. Over time, the Domain has become the setting for multiple Discworld stories that reveal Death's personality, his interactions with humans, and his occasional grappling with his own nature and responsibilities."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Death's Domain serves as a narrative fulcrum for exploring deeper themes of life, death, and fate within the Discworld series. It appears in several novels as a place of refuge, conflict, or revelation involving Death and other characters. This setting humanizes an anthropomorphic force, allowing the series to balance the solemnity of death with humor, empathy, and philosophical inquiry. The Domain acts as both a backdrop and a character in its own right, reinforcing the metaphysical underpinning of the Discworld mythos."
+    }
+  ],
+  "aliases": [
+    "The Realm of Death",
+    "Death's House",
+    "Death's Home",
+    "The Beyond"
+  ],
+  "relationships": [
+    {
+      "type": "part_of",
+      "target": "57bca9b6-ab08-4c4a-976e-6f3ffdf5b6e7"
+    }
+  ],
+  "properties": {
+    "nature": "Metaphysical realm",
+    "inhabitant": "Death (Anthropomorphic)",
+    "location": "Beyond ordinary Discworld reality",
+    "theme": "Mortality, existentialism"
+  },
+  "tags": [
+    "Location",
+    "Metaphysical",
+    "Death",
+    "Discworld",
+    "Fantasy",
+    "Otherworld",
+    "Philosophy",
+    "discworld-world"
+  ]
+}

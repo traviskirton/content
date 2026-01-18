@@ -1,0 +1,58 @@
+{
+  "id": "2965a032-5490-4f0b-8eaa-b22709c2f508",
+  "type": "character",
+  "name": "Princess Keli",
+  "description": "Princess Keli is a central character from Discworld's 'The Wee Free Men,' notable for her resourcefulness and strong will.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Princess Keli, more commonly known as Tiffany Aching, is a young witch who first appears in 'The Wee Free Men.' While not a princess in the traditional sense, she is the daughter of farmers and assumes responsibilities far beyond her age and status. Gifted with an innate magical talent and a keen intellect, Keli quickly rises to prominence as a protector of her people and a formidable friend to the Nac Mac Feegle, the boisterous fairy folk."
+    },
+    {
+      "title": "Personality",
+      "body": "Keli is characterized by a mix of fiercely independent spirit and practical sensibility. She is brave and sharp-witted, often demonstrating leadership and courage in dangerous situations. Despite her youth, she displays maturity and compassion, along with a no-nonsense attitude towards problems. Her strong sense of justice motivates her to stand up against evil, and she balances toughness with warmth and empathy."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Wee Free Men' and subsequent Tiffany Aching novels, Princess Keli serves as the primary protagonist. She confronts various challenges that test her magical abilities and character, including battling the Queen of the Elves and protecting her home territory from malevolent forces. Her journey is central to the themes of growing up, responsibility, and self-discovery, with her role as a young witch positioning her as a key figure in the Discworld's exploration of magic and humanity."
+    },
+    {
+      "title": "Relationships",
+      "body": "Princess Keli has a profound bond with the Nac Mac Feegle, tiny but fierce fairy warriors who both assist and challenge her. She also interacts with other witches such as Granny Weatherwax, who acts as a mentor figure, helping to guide her development. Her relationships with her family and community reflect her deep connection to the land and people she protects."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Keli possesses natural witchcraft abilities, including charms, spells, and an intuitive understanding of magical and natural forces. She is skilled in defensive magic, problem-solving, and leadership. Her connection to the Nac Mac Feegle adds a strategic and combative edge to her abilities, making her both a powerful and inspiring figure among humans and magical creatures alike."
+    }
+  ],
+  "aliases": [
+    "Tiffany Aching",
+    "The Young Witch",
+    "Witch Princess"
+  ],
+  "relationships": [
+    {
+      "type": "associated_with",
+      "target": "fe53f4ae-3d0a-4df8-b7a9-23cb68c519e3"
+    },
+    {
+      "type": "friend_of",
+      "target": "842d773e-c527-4ef7-b4bf-748232f2ec4e"
+    }
+  ],
+  "properties": {
+    "species": "Human",
+    "affiliation": "Witches of Discworld",
+    "gender": "Female",
+    "origin": "Discworld"
+  },
+  "tags": [
+    "Discworld",
+    "Fantasy",
+    "Character",
+    "Witchcraft",
+    "Young Female Protagonist",
+    "Magic",
+    "Adventure"
+  ]
+}

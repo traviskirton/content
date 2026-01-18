@@ -1,0 +1,58 @@
+{
+  "id": "ddf1c9b4-8a80-4fca-a0ce-dd50eb33d8b2",
+  "type": "location",
+  "name": "Cuba (Godfather)",
+  "description": "The Cuban setting in The Godfather Part II, representing a key historical and narrative backdrop.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Cuba in The Godfather Part II serves as a critical setting that highlights the political and social tension of the late 1950s. Portrayed as both a tropical paradise and an unstable political environment, it plays a fundamental role in the film’s depiction of the decline of old power structures and the rise of new conflicts within the mafia world."
+    },
+    {
+      "title": "Appearance",
+      "body": "The scenes set in Cuba feature vibrant street scenes, opulent casinos, and luxurious mansions, juxtaposed against the growing unrest of the Cuban Revolution. The use of warm colors and lively crowds reflects the festive yet volatile atmosphere during the final days of Batista’s regime."
+    },
+    {
+      "title": "History",
+      "body": "Set primarily around 1958-1959, the depiction of Cuba captures the period just before the Cuban Revolution’s success led by Fidel Castro. During this time, the island was rife with political upheaval, economic disparity, and widespread dissatisfaction, which the film incorporates to enhance themes of corruption and power shifts."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Cuba is central to Michael Corleone's expansion of his crime empire into international political dealings and casino operations. The setting underscores the tension between old corrupt establishments and revolutionary change, reflecting Michael's own internal conflicts and the eventual unraveling of his power."
+    },
+    {
+      "title": "Cultural Context",
+      "body": "The film’s Cuban scenes were partially filmed in the Dominican Republic, with Cuba portrayed as a symbol of decadence and political instability. This backdrop provides insight into mid-20th century U.S.-Cuba relations and the mafia's entanglement with political regimes."
+    }
+  ],
+  "aliases": [
+    "Cuba",
+    "Cuban scenes",
+    "Cuban Casino",
+    "Cuba 1950s",
+    "Cuban Revolution Setting"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a34e10f7-2f77-48bd-803f-efa34f19c87f"
+    }
+  ],
+  "properties": {
+    "country": "Cuba",
+    "time_period": "1958-1959",
+    "significance": "Critical film location for mafia's international operations and political conflict",
+    "climate": "Tropical",
+    "film_location_substitute": "Dominican Republic"
+  },
+  "tags": [
+    "film location",
+    "Cuba",
+    "1950s",
+    "mafia",
+    "political",
+    "revolution",
+    "The Godfather Part II",
+    "cinematography"
+  ]
+}

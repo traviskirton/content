@@ -1,0 +1,141 @@
+{
+  "source": "The Godfather",
+  "entities": [
+    {
+      "type": "person",
+      "name": "Mario Puzo"
+    },
+    {
+      "type": "book",
+      "name": "The Godfather"
+    },
+    {
+      "type": "character",
+      "name": "Vito Corleone"
+    },
+    {
+      "type": "character",
+      "name": "Michael Corleone"
+    },
+    {
+      "type": "character",
+      "name": "Sonny Corleone"
+    },
+    {
+      "type": "character",
+      "name": "Fredo Corleone"
+    },
+    {
+      "type": "character",
+      "name": "Tom Hagen"
+    },
+    {
+      "type": "character",
+      "name": "Connie Corleone"
+    },
+    {
+      "type": "character",
+      "name": "Kay Adams"
+    },
+    {
+      "type": "character",
+      "name": "Carmela Corleone"
+    },
+    {
+      "type": "character",
+      "name": "Luca Brasi"
+    },
+    {
+      "type": "character",
+      "name": "Peter Clemenza"
+    },
+    {
+      "type": "character",
+      "name": "Salvatore Tessio"
+    },
+    {
+      "type": "character",
+      "name": "Johnny Fontane"
+    },
+    {
+      "type": "character",
+      "name": "Amerigo Bonasera"
+    },
+    {
+      "type": "character",
+      "name": "Virgil Sollozzo"
+    },
+    {
+      "type": "character",
+      "name": "Emilio Barzini"
+    },
+    {
+      "type": "character",
+      "name": "Philip Tattaglia"
+    },
+    {
+      "type": "character",
+      "name": "Captain McCluskey"
+    },
+    {
+      "type": "character",
+      "name": "Jack Woltz"
+    },
+    {
+      "type": "character",
+      "name": "Carlo Rizzi"
+    },
+    {
+      "type": "location",
+      "name": "Corleone Compound"
+    },
+    {
+      "type": "location",
+      "name": "Genco Olive Oil Company"
+    },
+    {
+      "type": "location",
+      "name": "Louis Restaurant"
+    },
+    {
+      "type": "location",
+      "name": "Las Vegas (Godfather)"
+    },
+    {
+      "type": "location",
+      "name": "Sicily (Godfather)"
+    },
+    {
+      "type": "location",
+      "name": "Corleone, Sicily"
+    },
+    {
+      "type": "organization",
+      "name": "Corleone Crime Family"
+    },
+    {
+      "type": "organization",
+      "name": "The Five Families"
+    },
+    {
+      "type": "organization",
+      "name": "Barzini Crime Family"
+    },
+    {
+      "type": "organization",
+      "name": "Tattaglia Crime Family"
+    },
+    {
+      "type": "item",
+      "name": "The Horse Head"
+    },
+    {
+      "type": "item",
+      "name": "The Offer"
+    },
+    {
+      "type": "item",
+      "name": "Mattresses (Going to the Mattresses)"
+    }
+  ]
+}

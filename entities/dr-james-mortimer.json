@@ -1,0 +1,65 @@
+{
+  "id": "c203d90b-f1b1-4465-9d29-2a1f6c5c9b3e",
+  "type": "character",
+  "name": "Dr. James Mortimer",
+  "description": "A family friend and country doctor who brings the Baskerville case to Sherlock Holmes’s attention.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Dr. James Mortimer is a respected local physician and close friend to the Baskerville family. A man of science and practical knowledge, he lives near the moor and is deeply familiar with local legends and the social milieu surrounding Baskerville Hall. His dedication to his patients and friends compels him to seek Holmes’s counsel to protect the heir, Sir Henry."
+    },
+    {
+      "title": "Personality",
+      "body": "Mortimer is characterized by his earnestness, loyalty, and straightforward approach to life. His scientific mindset is balanced with an appreciation for folklore, making him an ideal intermediary between the rationalist Holmes and the eerie mysteries of the moor. He is kind and cautious, acting with genuine concern for those at risk."
+    },
+    {
+      "title": "Story Role",
+      "body": "Dr. Mortimer serves as the initiator of the plot by introducing the case to Sherlock Holmes and Dr. Watson. He accompanies Sir Henry to Baskerville Hall and provides crucial insights into the local environment, legends, and social dynamics, supporting the investigation throughout. His medical expertise helps interpret suspicious circumstances relating to the Baskerville deaths."
+    },
+    {
+      "title": "Relationships",
+      "body": "Mortimer is a trusted friend to both Sir Charles and Sir Henry Baskerville, serving as a guardian and advisor. He closely collaborates with Holmes and Watson, valuing their investigative acumen. His ties to various villagers and knowledge of the locale provide vital context and assistance during the unfolding mystery."
+    },
+    {
+      "title": "Abilities / Skills",
+      "body": "As a rural physician, Mortimer possesses medical knowledge and a scientific mindset, enabling him to analyze physical evidence and symptoms related to the case. His familiarity with the local geography and folklore allows him to mediate between belief and skepticism, an important skill given the mythic aspects surrounding the investigation."
+    }
+  ],
+  "aliases": [
+    "Dr. Mortimer",
+    "James Mortimer",
+    "Baskerville family doctor"
+  ],
+  "relationships": [
+    {
+      "type": "associated_with",
+      "target": "4bf09e22-6f34-4049-bb8e-e507078e61f9"
+    },
+    {
+      "type": "associated_with",
+      "target": "9ad14328-28d9-4cdb-8623-c653288c81d0"
+    },
+    {
+      "type": "associated_with",
+      "target": "b7ec1b4f-e5ee-4821-a5c1-82d6ebcfc867"
+    },
+    {
+      "type": "associated_with",
+      "target": "6c8b10a3-af96-4e41-82a1-3fdda8f234e8"
+    }
+  ],
+  "properties": {
+    "occupation": "Physician",
+    "nationality": "British",
+    "role": "Case informant and investigator ally",
+    "age": "Middle-aged",
+    "status": "Alive"
+  },
+  "tags": [
+    "Victorian era",
+    "Ally",
+    "Medical professional",
+    "Detective fiction",
+    "Baskerville family associate"
+  ]
+}

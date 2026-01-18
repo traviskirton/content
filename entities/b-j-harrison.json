@@ -1,0 +1,49 @@
+{
+  "id": "5fe4f1b4-d972-4ee9-b7a9-46c0075d0d10",
+  "type": "character",
+  "name": "B.J. Harrison",
+  "description": "B.J. Harrison is an FBI agent featured in The Godfather Part III, involved in the federal investigations into the Corleone family's activities.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "B.J. Harrison works as an agent of the Federal Bureau of Investigation in The Godfather Part III. His role is primarily investigative, targeting corruption and illegal activities tied to organized crime. His character represents the persistent legal pressure on the Corleone family as they attempt to legitimize their business interests. B.J.'s presence is emblematic of the broader shift within the American justice system to combat organized crime through legal and political means."
+    },
+    {
+      "title": "Personality",
+      "body": "Agent Harrison is methodical, determined, and embodies the law-and-order mindset of the FBI during the 1970s and 1980s. He approaches his work with seriousness and dedication, emphasizing procedure and justice. His character bears the weight of the government’s efforts to dismantle mafia influence, often appearing pragmatic yet unyielding in the pursuit of truth and legality."
+    },
+    {
+      "title": "Story Role",
+      "body": "Within the narrative of The Godfather Part III, B.J. Harrison functions as a representative of the federal efforts to investigate and prosecute the Corleone family's criminal enterprises. He is integral to depicting the increasing entanglement of organized crime with political and economic corruption, challenging Michael Corleone's attempts at legitimacy. While he is not a central character, his interactions highlight the tension between crime and law enforcement."
+    },
+    {
+      "title": "Relationships",
+      "body": "B.J. Harrison’s professional relationship is primarily adversarial, being a federal agent investigating the Corleone crime family. His role intersects with other government officials and legal bodies involved in the anti-mafia campaigns, although specific relationships with characters such as Michael Corleone or family members are limited and focused on his investigative capacity."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Agent Harrison demonstrates skills in investigation, intelligence gathering, and legal procedure. His persistence and bureaucratic skills support his role in building cases against organized crime figures. His character’s attributes reflect the collective efforts of law enforcement agencies attempting to penetrate the secretive and violent world of the mafia."
+    }
+  ],
+  "aliases": [
+    "Agent Harrison",
+    "FBI Agent B.J.",
+    "B. J. Harrison"
+  ],
+  "relationships": [],
+  "properties": {
+    "gender": "male",
+    "occupation": "FBI Agent",
+    "role": "Law enforcement",
+    "nationality": "American"
+  },
+  "tags": [
+    "The Godfather Part III",
+    "character",
+    "law enforcement",
+    "FBI",
+    "organized crime",
+    "investigation",
+    "drama"
+  ]
+}

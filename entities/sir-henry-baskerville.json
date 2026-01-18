@@ -1,0 +1,62 @@
+{
+  "id": "9ad14328-28d9-4cdb-8623-c653288c81d0",
+  "type": "character",
+  "name": "Sir Henry Baskerville",
+  "description": "The young heir to the Baskerville estate who becomes the focus of a mysterious and dangerous investigation.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Sir Henry Baskerville is the last surviving heir of the Baskerville family, having emigrated from Canada to England to claim his ancestral estate after the suspicious death of his uncle, Sir Charles Baskerville. Raised in a well-to-do Canadian family, he is unaware of the full history and the dark legends surrounding his family’s estate on the Devon moor."
+    },
+    {
+      "title": "Personality",
+      "body": "Sir Henry is portrayed as courageous, determined, and honorable, despite his initial naïveté about the dangers he faces. His affable and straightforward nature contrasts effectively with the sinister atmosphere of his surroundings. His cautiousness grows throughout the story as he gradually comprehends the threats against him."
+    },
+    {
+      "title": "Story Role",
+      "body": "Sir Henry serves as the central figure around whom the mystery revolves. His arrival at Baskerville Hall sets the stage for the investigation conducted by Holmes and Watson. He represents the tangible target of the threats posed by the antagonist, and his safety drives the narrative tension."
+    },
+    {
+      "title": "Relationships",
+      "body": "Sir Henry is related by blood to Sir Charles Baskerville, the deceased uncle. He forms a trusting partnership with Dr. Watson, who accompanies and aids him during the investigation. His cautious yet polite interactions with other characters such as Dr. Mortimer and the Stapletons add layers to the unfolding mystery."
+    },
+    {
+      "title": "Abilities / Skills",
+      "body": "Though not a detective himself, Sir Henry demonstrates resilience and a basic level of bravery essential to facing the dangers at Baskerville Hall. His athleticism and practical sense aid him in enduring the treacherous moor environment, though much of his survival depends on Holmes and Watson’s detective work."
+    }
+  ],
+  "aliases": [
+    "Sir Henry",
+    "Henry Baskerville",
+    "Heir of Baskerville"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "4bf09e22-6f34-4049-bb8e-e507078e61f9"
+    },
+    {
+      "type": "associated_with",
+      "target": "c203d90b-f1b1-4465-9d29-2a1f6c5c9b3e"
+    },
+    {
+      "type": "interacts_with",
+      "target": "b7ec1b4f-e5ee-4821-a5c1-82d6ebcfc867"
+    }
+  ],
+  "properties": {
+    "title": "Baronet",
+    "nationality": "British-Canadian",
+    "approximate_age": "Late 20s",
+    "occupation": "Heir and landowner",
+    "status": "Survivor"
+  },
+  "tags": [
+    "Protagonist",
+    "Baskerville family",
+    "British gentry",
+    "Heir",
+    "Victorian era",
+    "Fictional nobility"
+  ]
+}

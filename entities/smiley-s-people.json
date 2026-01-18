@@ -1,0 +1,64 @@
+{
+  "id": "2e02ff66-1399-475d-9720-8659e0e0fc3e",
+  "type": "book",
+  "name": "Smiley's People",
+  "description": "A Cold War espionage novel by John le Carré focusing on George Smiley's hunt for a Soviet spy.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Smiley's People is the third novel in John le Carré's Karla Trilogy, featuring the iconic British intelligence officer George Smiley. Published in 1979, this spy novel continues the story of espionage, deception, and psychological intrigue surrounding the hunt for the mysterious Soviet spymaster Karla. The book is recognized for its intricate plot, richly drawn characters, and its exploration of loyalty, betrayal, and the moral ambiguity of espionage."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "The narrative follows George Smiley as he investigates the death of one of his former agents, which leads him to uncover a web of Soviet deception managed by Karla, the elusive head of Moscow Centre’s intelligence operations. Smiley's investigation spans London, Paris, and Switzerland, as he pieces together clues from informants and double agents. The climax revolves around Smiley orchestrating an elaborate counter-operation to bring Karla to justice, culminating in a confrontation of wits and loyalties."
+    },
+    {
+      "title": "Themes",
+      "body": "Key themes explored include the psychological toll of espionage, the murky ethics involved in spycraft, and the dehumanizing effect of the Cold War's ideological battles. The novel delves into the complexities of trust and betrayal both in personal relationships and in service to country. It also reflects on the loneliness of spies, the intricacies of intelligence work, and the thin line between friend and foe."
+    },
+    {
+      "title": "Reception",
+      "body": "Smiley's People was critically acclaimed for its sophisticated storytelling and deep characterizations. It reinforced le Carré’s reputation as a master of the spy genre. The novel was praised for its realistic portrayal of espionage, eschewing glamor for grit, and for its thoughtful approach to the emotional and ethical landscapes of intelligence agents. It has been adapted for television, further cementing its place in Cold War literary canon."
+    }
+  ],
+  "aliases": [
+    "Smiley's People (Novel)",
+    "Karla Trilogy Book 3",
+    "George Smiley Third Case"
+  ],
+  "relationships": [
+    {
+      "type": "features_character",
+      "target": "3281e560-22b2-497a-84ce-c1c1bb7f9d58"
+    },
+    {
+      "type": "features_character",
+      "target": "76fdb097-b658-44cc-80db-37455d8f5654"
+    },
+    {
+      "type": "features_character",
+      "target": "5bc9d84a-4952-4761-8a53-d306e9dcdca3"
+    },
+    {
+      "type": "features_character",
+      "target": "a4e18068-628c-4d5e-9bdb-990ee2a03fbe"
+    }
+  ],
+  "properties": {
+    "author": "John le Carré",
+    "publication_year": 1979,
+    "genre": "Spy fiction",
+    "series": "Karla Trilogy",
+    "language": "English"
+  },
+  "tags": [
+    "Cold War",
+    "Espionage",
+    "Spy Novel",
+    "John le Carré",
+    "George Smiley",
+    "Karla Trilogy",
+    "Intelligence",
+    "Thriller"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "507e1b09-89f0-4c44-88b5-37d69b1bd0a9",
+  "type": "character",
+  "name": "The Luggage",
+  "description": "A magical, semi-sentient chest that follows and protects Rincewind relentlessly across the Discworld.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "The Luggage is a remarkable and iconic artifact in the Discworld series, first appearing in 'The Colour of Magic'. It originates from the magical, enchanted forests and is imbued with powerful enchantments enabling its semi-sentient nature and extraordinary abilities. It serves as Rincewind's travel companion and protector, although it behaves more like a wild animal than a simple item of luggage."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Luggage appears as a large, wooden chest made of sapient pearwood, noted for its durability and self-healing properties. It has hundreds of little legs beneath that allow it to move swiftly and silently across any terrain. The chest's lid is capable of snapping shut on threats with lethal ferocity, making it as dangerous as many creatures it encounters."
+    },
+    {
+      "title": "Function",
+      "body": "More than just a container for belongings, The Luggage is fiercely protective of its owner and responds aggressively to any perceived threats. It is capable of following Rincewind across vast distances and even across dimensions. It is famously implacable and efficient in dealing with dangers, making it an invaluable, albeit somewhat terrifying, companion."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Throughout the Discworld novels, The Luggage serves not only as comic relief but also as a symbol of loyalty and indefatigable protection. Its frequent appearances alongside Rincewind highlight the absurdity and dangers of the Discworld adventures. Its unique personality and extraordinary abilities make it one of the most memorable and beloved 'characters' of the series."
+    }
+  ],
+  "aliases": [
+    "Sapient Pearwood Chest",
+    "The Walking Luggage",
+    "Rincewind's Luggage",
+    "The Chest"
+  ],
+  "relationships": [
+    {
+      "type": "ownership",
+      "target": "9ce2a5ad-046d-471d-8e63-80d5202a0b7f"
+    }
+  ],
+  "properties": {
+    "type": "Magical Chest",
+    "material": "Sapient Pearwood",
+    "movement": "Hundreds of legs",
+    "sentience": "Semi-sentient",
+    "loyalty": "Implacably loyal to owner"
+  },
+  "tags": [
+    "Discworld",
+    "magical item",
+    "artifact",
+    "companion",
+    "fantasy",
+    "humor",
+    "sentient",
+    "protector"
+  ]
+}

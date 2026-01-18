@@ -1,0 +1,57 @@
+{
+  "id": "a852c3e2-ba7d-4c5c-8a10-137e4d321152",
+  "type": "location",
+  "name": "Reculver (Bond)",
+  "description": "A fictional British coastal village used as a pivotal setting in the 'Goldfinger' storyline, hosting the antagonist’s key factory.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Reculver, as portrayed in 'Goldfinger,' is a small, quiet coastal village located in England, serving as the strategic site of Goldfinger's Factory. While appearing serene and traditional, the village's geographic isolation and proximity to the sea make it ideal for covert operations and smuggling activities."
+    },
+    {
+      "title": "Appearance",
+      "body": "The village itself is characterized by modest seaside architecture, including fishermen's cottages and small harbors. The stark contrast between the idyllic village and the imposing industrial factory complex provides a visual metaphor for the tension between innocence and evil present within the story."
+    },
+    {
+      "title": "History",
+      "body": "Though a real location in Kent, England, Reculver in the Bond universe is reshaped as the home for Auric Goldfinger’s secretive gold processing operations. The choice of such a location underscores themes of secrecy and unsuspected danger prevalent throughout Bond’s missions."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Reculver is critical as the physical setting for the climax and strategic operations of the antagonist. It is where James Bond conducts decisive reconnaissance and confrontation, heightening suspense. The factory’s hidden activities within this village escalate the story’s stakes and facilitate the progression of the plot."
+    }
+  ],
+  "aliases": [
+    "Reculver Village",
+    "Coastal Reculver",
+    "Goldfinger's Reculver"
+  ],
+  "relationships": [
+    {
+      "type": "hosts",
+      "target": "319a784a-8e43-4dfb-93e4-2b484576bc0b"
+    },
+    {
+      "type": "contains",
+      "target": "319a784a-8e43-4dfb-93e4-2b484576bc0b"
+    }
+  ],
+  "properties": {
+    "country": "United Kingdom",
+    "region": "Kent",
+    "geography": "Coastal village",
+    "function_in_story": "Location of Goldfinger's Factory",
+    "appears_in": [
+      "Goldfinger (movie)",
+      "Goldfinger (novel)"
+    ]
+  },
+  "tags": [
+    "James Bond",
+    "Goldfinger",
+    "Coastal Village",
+    "England",
+    "Espionage Location",
+    "Industrial"
+  ]
+}

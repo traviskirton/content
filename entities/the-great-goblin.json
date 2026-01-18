@@ -1,0 +1,62 @@
+{
+  "id": "4851b425-83ff-4dc3-b4d5-51493e88c317",
+  "type": "character",
+  "name": "The Great Goblin",
+  "description": "Ruler of the Goblins of the Misty Mountains, known for his dominance and cruelty over his kin.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "The Great Goblin is the ruler of the goblins inhabiting the Misty Mountains, a formidable subterranean and mountainous domain. His species, lesser known as Orcs in broader Middle-earth lore, are known for their malice and hostility toward other races, especially elves and dwarves. The Great Goblin commands fear and obedience among his goblin subjects, maintaining a harsh rule that reflects the violent and savage nature of goblin society. He dwells deep within the mountain caves, surrounded by his minions and treasures seized from intruders and enemies."
+    },
+    {
+      "title": "Personality",
+      "body": "The Great Goblin embodies brutality, arrogance, and a bitter cunning that befits a ruthless tyrant. He is aggressive and suspicious, quick to anger and merciless toward those who oppose him or trespass in his realm. His leadership style depends heavily on fear and domination, ensuring that his goblin followers act with fierce loyalty mostly out of submission and dread. Despite his small stature relative to other creatures, the Great Goblin's demeanor and authority command a significant respect within his tribe."
+    },
+    {
+      "title": "Story Role",
+      "body": "In The Hobbit, The Great Goblin serves as the primary antagonist during the company’s passage through the Misty Mountains. He captures Thorin Oakenshield’s company and imprisons them, intending to crush their quest for the Lonely Mountain's treasure. His role underscores the dangers encountered by travelers in Middle-earth, especially in wild and treacherous regions. His defeat by Gandalf, who slays him with a powerful blow, marks a turning point in the journey and also showcases the wizard’s power."
+    },
+    {
+      "title": "Relationships",
+      "body": "The Great Goblin is the leader of the goblin clans encountered by the dwarves and Bilbo during their journey. His relationships are dominated by enmity toward the company, especially Thorin and his kin. He is also opposed to the forces of good, like Gandalf and the elves. His interactions are largely antagonistic and serve to unite other characters in opposition against his tyranny. There is a general hostility between the goblins and nearly every free folk in Middle-earth."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "The Great Goblin wields considerable influence over his goblin followers, employing tactics of intimidation and cunning. While not immensely powerful individually, his strength lies in commanding a horde of fighters and using their knowledge of the dark passages and traps in the Misty Mountains. His combat prowess was notable enough to pose danger to the company, though he was ultimately outmatched by Gandalf’s superior magic and swordsmanship."
+    }
+  ],
+  "aliases": [
+    "Goblin King",
+    "King of the Misty Mountain Goblins",
+    "Goblin Chieftain"
+  ],
+  "relationships": [
+    {
+      "type": "enemy_of",
+      "target": "635b6ad8-43c7-48be-b27a-f25b7812b3cc"
+    },
+    {
+      "type": "enemy_of",
+      "target": "9ca26488-6bad-4f30-9e6b-9f39a603d004"
+    },
+    {
+      "type": "enemy_of",
+      "target": "8346b987-d7da-4e02-80df-40184ff2a7b7"
+    }
+  ],
+  "properties": {
+    "species": "Goblin",
+    "domain": "Misty Mountains",
+    "status": "Deceased",
+    "adversaries": "Thorin's Company"
+  },
+  "tags": [
+    "Misty Mountains",
+    "Goblin",
+    "Antagonist",
+    "Middle-earth",
+    "Cruel",
+    "Fantasy",
+    "The Hobbit"
+  ]
+}

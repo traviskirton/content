@@ -1,0 +1,53 @@
+{
+  "id": "c754d3f7-5691-4d03-a89e-d9d2693f9d12",
+  "type": "character",
+  "name": "Enoch Drebber",
+  "description": "A wealthy and unscrupulous man whose murder forms the central mystery in 'A Study in Scarlet'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Enoch Drebber is depicted as a wealthy, morally questionable individual involved in a complex conflict with Jefferson Hope stemming from events in the Utah territory. He is an important figure in the Mormon community, but his personal misconduct, including abducting Lucy Ferrier and causing tragic consequences, leads to his downfall. His murder in London serves as the catalyst for the investigation by Holmes."
+    },
+    {
+      "title": "Personality",
+      "body": "Drebber is portrayed as arrogant, impatient, and insensitive, particularly towards those he wronged. He exhibits a sense of entitlement and disregard for social or moral norms, which ultimately make him a target for retribution. His demeanor, described in the narrative, underscores his callousness and untrustworthiness."
+    },
+    {
+      "title": "Story Role",
+      "body": "Drebber is the first murder victim investigated in 'A Study in Scarlet', his death setting the stage for Holmes' introduction to the London police and Dr. Watson. His murder is the key to unraveling the deeper narrative involving faith, betrayal, and revenge, linking back to his actions in American Mormon society. The revelation of Drebber’s identity and past is essential to exposing Jefferson Hope’s motive."
+    },
+    {
+      "title": "Relationships",
+      "body": "Drebber was involved with Joseph Stangerson and had a hostile relationship with Jefferson Hope, who sought revenge for the harm Drebber inflicted upon Lucy Ferrier and her family. His relationship with Lucy was that of an abductor, which positions him as an antagonist to Jefferson Hope and a morally reprehensible figure within the story."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Drebber's skills are largely social and financial, relying on wealth and position within the Mormon community. There is little indication of physical or intellectual prowess. His reliance on social status exposes him to vulnerability when confronted with Hope's calculated revenge."
+    }
+  ],
+  "aliases": [
+    "Drebber",
+    "Enoch Drebber",
+    "The First Victim"
+  ],
+  "relationships": [
+    {
+      "type": "victim_of",
+      "target": "2e54a2b0-2a0e-4bd0-a201-2bc622ec64b6"
+    }
+  ],
+  "properties": {
+    "gender": "Male",
+    "nationality": "American",
+    "social_status": "Wealthy",
+    "occupation": "Unknown"
+  },
+  "tags": [
+    "Victim",
+    "Murdered",
+    "Antagonist",
+    "Mormon",
+    "Revenge Plot",
+    "A Study in Scarlet"
+  ]
+}

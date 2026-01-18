@@ -1,0 +1,45 @@
+{
+  "id": "9d3e574f-7b2f-4d0a-a07f-7e0d4a2a5a17",
+  "type": "location",
+  "name": "Casino Royale",
+  "description": "A high-stakes casino and hotel in Montenegro, central to the espionage events in the James Bond universe.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Casino Royale is a prestigious casino located in Montenegro, established to host high-profile gambling events attracting elite clientele from around the world. Within the fictional universe of Ian Fleming's James Bond series and its adaptations, the casino is pivotal as the setting for Bond's first major mission as a 00-agent. It is known for hosting a crucial poker tournament where Bond confronts the villain Le Chiffre to prevent him from financing terrorism."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated on the Adriatic coast in the fictional Balkan country of Montenegro, Casino Royale is a luxurious waterfront complex combining a grand casino and hotel. It is depicted as an opulent, elegant building with art deco and modernist architectural influences, surrounded by picturesque seaside landscapes and mountain backdrops."
+    },
+    {
+      "title": "Notable Features",
+      "body": "**Casino Royale is characterized by:**\n\n- A grand casino floor featuring tables for poker, baccarat, and other high-stakes games.\n- Luxurious hotel accommodations serving elite guests.\n- Private rooms and VIP areas for clandestine meetings.\n- A sophisticated bar and restaurant.\n- Lavish interior design with rich décor highlighting the exclusivity and danger of the location.\n- Security and surveillance systems reflecting its importance as a hub for international intrigue."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Casino Royale is the central location in the 1953 novel by Ian Fleming and its subsequent film adaptations, notably the 2006 movie starring Daniel Craig. It serves as the backdrop for the pivotal poker game between James Bond and Le Chiffre, which drives the main plot. The casino embodies the blend of glamour and peril in Bond’s world, symbolizing the psychological and physical stakes in espionage and warfare against global terrorism networks."
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building",
+    "founded": "1940s (implied in-universe)",
+    "population": "Not applicable"
+  },
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9b1ab6a0-df91-4c86-8a72-8c23b7428298"
+    }
+  ],
+  "tags": [
+    "building",
+    "casino",
+    "spy fiction",
+    "James Bond",
+    "1950s",
+    "2006",
+    "espionage"
+  ]
+}

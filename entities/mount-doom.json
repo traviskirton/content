@@ -1,0 +1,51 @@
+{
+  "id": "31f323de-5b04-4d76-91f4-6e21c4a41cb8",
+  "type": "location",
+  "name": "Mount Doom",
+  "description": "A volcanic mountain in Mordor where the One Ring was forged and where it must be destroyed to end Sauron's power.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Mount Doom, known to the Elves as Orodruin, is an active volcano located within the heart of Mordor. It is infamous as the forging place of the One Ring by Sauron himself and the only place where the Ring can be unmade. The mountain's turbulent and fiery nature makes it a deadly and foreboding location central to the fate of Middle-earth."
+    },
+    {
+      "title": "Appearance",
+      "body": "The mountain is rugged and towering, with jagged slopes scarred by streams of molten lava, ash clouds billowing continuously from its summit. Surrounded by desolation, the summit features the 'Cracks of Doom,' a fiery chasm where the Ring’s destruction can be accomplished. The atmosphere is oppressive, filled with heat, smoke, and fire."
+    },
+    {
+      "title": "History",
+      "body": "Mount Doom rose millions of years ago as part of the volcanic activity of the region and became central to Middle-earth’s history when the Dark Lord Sauron forged the One Ring within its fires. Over the ages, it has been a symbol of dread and destruction, a place feared by all free peoples. The mountain was a constant reminder of Sauron’s malice and influence."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Mount Doom is the final destination for Frodo and Sam in ‘The Lord of the Rings’ trilogy’s pivotal quest. It embodies the epic climax where the power of the One Ring can be ended and Sauron defeated. The journey to its summit and the Ring’s destruction there are critical to the narrative’s resolution, symbolizing sacrifice, courage, and hope against overwhelming evil."
+    }
+  ],
+  "aliases": [
+    "Orodruin",
+    "The Cracks of Doom",
+    "The Fire-mountain"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "fa0913cf-7aa6-4b44-8ec0-5d6b9b3bba4e"
+    }
+  ],
+  "properties": {
+    "type": "Active volcano",
+    "role": "Forge and destruction site of the One Ring",
+    "danger_level": "Extremely high",
+    "associated_with": "Sauron, One Ring"
+  },
+  "tags": [
+    "volcano",
+    "Mordor",
+    "One Ring",
+    "destruction",
+    "Middle-earth",
+    "fiery",
+    "final quest",
+    "Third Age"
+  ]
+}

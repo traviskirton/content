@@ -1,0 +1,57 @@
+{
+  "id": "592fc825-b23d-4d1f-8448-225e04485244",
+  "type": "item",
+  "name": "Andúril",
+  "description": "The reforged sword of King Aragorn, symbolizing his rightful claim to the throne of Gondor.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Andúril, meaning 'Flame of the West' in Sindarin, is the sword reforged from the shards of Narsil, the legendary blade that cut the One Ring from Sauron's hand. It is wielded by Aragorn during The Lord of the Rings and symbolizes his heritage as the heir of Isildur and rightful king of Gondor and Arnor. Andúril is both a weapon of war and a talisman embodying hope and kingship."
+    },
+    {
+      "title": "Appearance",
+      "body": "The sword is long, broad, and shining, with an intricate Elvish design on its blade and hilt. Unlike the broken Narsil, Andúril is a fully restored and glowing weapon, etched with runes and symbolic markings. Its shining blade is emblematic of the light of the West and is meant to inspire allies and strike fear into enemies."
+    },
+    {
+      "title": "Function",
+      "body": "Andúril functions as a masterful combat weapon, lethal in battle and crafted to legendary standards. Beyond its martial use, it serves as a symbol of Aragorn's legitimacy and destiny, encouraging loyalty from allies and dread in foes. The sword also plays a ceremonial role in Aragorn’s assuming kingship and leadership in the War of the Ring."
+    },
+    {
+      "title": "History",
+      "body": "Narsil, the original sword, was broken during the battle against Sauron in the Second Age. The shards were preserved by the heirs of Isildur but kept as an heirloom until the Third Age. At the start of The Lord of the Rings, Elves of Rivendell reforged the shards into Andúril for Aragorn. This reforging marks a turning point in the story, coinciding with Aragorn’s acceptance of his role."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Andúril is a powerful symbol of hope and restoration for the realm of men, marking Aragorn’s rise as king. Its presence unifies the Fellowship and legitimizes Aragorn’s leadership in the events leading to the defeat of Sauron. The sword represents the rekindling of ancient power and the dawn of a new era in Middle-earth."
+    }
+  ],
+  "aliases": [
+    "Flame of the West",
+    "Narsil (reforged)",
+    "King’s Sword",
+    "Sword of the King"
+  ],
+  "relationships": [
+    {
+      "type": "used_by",
+      "target": "31e3f5a7-8764-4f96-a32e-85e3d02955a1"
+    }
+  ],
+  "properties": {
+    "origin": "Reforged Narsil",
+    "material": "Elven-forged steel",
+    "length": "Long sword",
+    "symbolism": "Kingship and hope",
+    "power": "Lethal in battle; inspirational"
+  },
+  "tags": [
+    "sword",
+    "middle-earth",
+    "fantasy",
+    "aragon",
+    "kingship",
+    "legendary",
+    "reforged",
+    "symbol"
+  ]
+}

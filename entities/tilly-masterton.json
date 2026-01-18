@@ -1,0 +1,49 @@
+{
+  "id": "3d02ed67-9c6e-4d56-b58a-1a9d1d492a25",
+  "type": "character",
+  "name": "Tilly Masterton",
+  "description": "Tilly Masterton is a significant supporting character in the James Bond film Goldfinger, known primarily as Jill Master's sister and an important figure in motivating Bond's mission.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Tilly Masterton appears in the 1964 James Bond film Goldfinger as the protective elder sister of Jill Masterton. She comes from a wealthy background and has a strong connection to her sister, whose mysterious death becomes a pivotal plot point in the film. Tilly's character is introduced during the scenes that establish the stakes of the villain Auric Goldfinger's scheme, placing her at the heart of the personal drama motivating Bond."
+    },
+    {
+      "title": "Personality",
+      "body": "Tilly is characterized by her determined and caring nature, showcasing loyalty to her sister Jill throughout the plot. Despite limited screen time, she conveys vulnerability and grief following Jill’s suspicious death, but also a resolve to seek justice. Her presence humanizes the impact of Goldfinger's threat and acts as a catalyst for Bond’s engagement with the case."
+    },
+    {
+      "title": "Story Role",
+      "body": "In Goldfinger, Tilly's primary narrative function is to underline the stakes of Goldfinger's plot. After Jill Masterton dies under strange circumstances, Tilly confronts Bond, seeking help and answers. She becomes an indirect motivator for Bond’s investigation into the villain’s operation, symbolizing civilian suffering caused by Goldfinger’s actions."
+    },
+    {
+      "title": "Relationships",
+      "body": "Tilly’s strongest and only significant relationship is with her sister Jill Masterton, whose mysterious demise deeply affects her. Additionally, she interacts with James Bond, trusting him to uncover the truth behind Jill’s death. Her relationship with Bond is based on mutual concern and the shared goal of confronting the antagonist."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "While Tilly is not portrayed as an action-oriented character, she demonstrates emotional resilience and courage when faced with tragedy. She insists on uncovering the truth, showing determination that helps push Bond forward. Her role is more supportive and narrative-driven rather than physical or tactical."
+    }
+  ],
+  "aliases": [
+    "Miss Masterton",
+    "Tilly",
+    "Jill's Sister"
+  ],
+  "relationships": [],
+  "properties": {
+    "gender": "female",
+    "nationality": "British",
+    "appearance_year": 1964,
+    "franchise": "James Bond",
+    "film": "Goldfinger"
+  },
+  "tags": [
+    "James Bond",
+    "Goldfinger",
+    "supporting_character",
+    "1960s",
+    "female_characters",
+    "Bond_girl_related"
+  ]
+}

@@ -40,6 +40,14 @@
     {
       "type": "located_in",
       "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "produced",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "produced",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
     }
   ],
   "properties": {

@@ -1,0 +1,56 @@
+{
+  "id": "590276d2-0b4a-4966-92c3-2c2f962f5d4a",
+  "type": "character",
+  "name": "Salvatore Tessio",
+  "description": "A cunning and ambitious capo in the Corleone family whose betrayal marks a critical turning point in the story.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Salvatore Tessio is a long-standing capo within the Corleone Mafia family, known for his sharp mind and organizational skills. Originating from Italy, Tessio migrated to New York and quickly rose through the ranks of the Mafia due to his loyalty and tactical acumen. His role involved supervising key operations, and he contributed significantly to expanding the family's influence. However, his ambitions and cautious nature made him susceptible to conflicting strategies, eventually leading to a betrayal that impacts the Corleone family's internal dynamics."
+    },
+    {
+      "title": "Personality",
+      "body": "Tessio presents as a composed and calculating operator, often measured in his speech and actions. While outwardly loyal, he harbors ambitions that lead to delicate maneuvering in the mob politics. Tessio values prudence and tends to advocate for negotiation and caution rather than outright violence when possible. Nonetheless, his intelligence is paired with a willingness to engage in brutal action when it suits his goals. This duality exposes him as a pragmatist, sometimes prioritizing self-preservation."
+    },
+    {
+      "title": "Story Role",
+      "body": "Within The Godfather, Tessio's role evolves from loyal capo to traitor, betraying Michael Corleone to rival forces in a critical plot twist. His double-cross represents a pivotal betrayal that triggers decisive reactions from the Corleone family. Tessio’s defection highlights the fragile nature of Mafia alliances and the dangers of ambition unchecked by loyalty. His ultimate fate underscores themes of trust and retribution that permeate the story."
+    },
+    {
+      "title": "Relationships",
+      "body": "Salvatore Tessio maintains strong ties with other capos, including Peter Clemenza and initially Luca Brasi, sharing responsibility for family operations. His relationship with Michael Corleone becomes complicated due to his secret negotiations with enemies, exposing fissures within the family. Tessio's betrayal impacts alliances and prompts responses from the family’s leadership, thereby influencing the narrative arcs of multiple characters."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Tessio is skilled in strategic planning, negotiation, and overseeing complex criminal enterprises. His insight into Mafia power structures and diplomacy allows him to wield considerable influence. Although less overtly violent than some, he is capable of orchestrating violence when necessary and has experience managing personnel and resources efficiently. His intellect and cautious demeanor serve as assets in the volatile environment of organized crime."
+    }
+  ],
+  "aliases": [
+    "Capo Tessio",
+    "Sal Tessio"
+  ],
+  "relationships": [
+    {
+      "type": "associated_with",
+      "target": "a2bd0db1-7900-453a-b77f-6ae124562b0f"
+    },
+    {
+      "type": "associated_with",
+      "target": "2d782426-b951-4f59-8f1f-a2e10f54f44d"
+    }
+  ],
+  "properties": {
+    "role": "Caporegime",
+    "loyalty": "Compromised",
+    "origin": "Italy",
+    "notable_betrayal": true
+  },
+  "tags": [
+    "Mafia",
+    "Capo",
+    "Betrayer",
+    "Corleone Family",
+    "Organized crime",
+    "Strategist"
+  ]
+}

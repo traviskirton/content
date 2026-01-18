@@ -1,0 +1,49 @@
+{
+  "id": "6506035d-d84c-4d8f-a39e-952d778bfe3f",
+  "type": "organization",
+  "name": "The Bondsmagi of Karthain",
+  "description": "An elite order of powerful and enigmatic sorcerers based in Karthain, known for their mastery of magic and intricate use of arcane contracts.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Bondsmagi are a prestigious and secretive guild of sorcerers residing in the great city of Karthain. They are famed for their ability to bind others through magical contracts—literal bonds that are inescapable and enforceable by arcane law. Their influence extends far beyond Karthain, as their services are sought by nobles, merchants, and rulers alike desperate for magical enforcement and protection."
+    },
+    {
+      "title": "Structure",
+      "body": "The order is hierarchically organized, with a council of the most powerful magi guiding its doctrine and decisions. Membership is highly selective, restricted to those who demonstrate extraordinary magical talent and loyalty to the guild’s codes. The Bondsmagi's inner workings remain deliberately opaque to outsiders, and speculation abounds regarding their rituals and governance."
+    },
+    {
+      "title": "History",
+      "body": "Established centuries ago, the Bondsmagi emerged as a stabilizing force in a chaotic world of competing magical factions and political unrest. They pioneered the use of binding spells for legal and financial purposes, thereby intertwining magic with societal contracts. Their reputation for ruthlessness and unyielding application of magical law has granted them fearful respect across the known world."
+    },
+    {
+      "title": "Goals",
+      "body": "The Bondsmagi seek to maintain their monopoly on arcane bonding magic, ensuring their indispensability in political and economic matters. Their objectives include preserving their autonomy, enhancing their collective power through magical research, and influencing regional and global affairs through contractual obligations that tie even kings and emperors to their will."
+    },
+    {
+      "title": "Key Members",
+      "body": "While individual magi are seldom highlighted outside of specialized circles, the order is known to include legendary sorcerers renowned for their intellect and cruelty. These figures serve as exemplars and enforcers of the guild’s principles and are vital in maintaining the Bondsmagi’s fearsome reputation and operational coherence."
+    }
+  ],
+  "aliases": [
+    "Bondsmagi",
+    "Karthain Bondsmagi",
+    "The Arcane Guild"
+  ],
+  "relationships": [],
+  "properties": {
+    "location": "Karthain",
+    "specialty": "Magical binding",
+    "membership": "Exclusive magical elite",
+    "influence_scope": "Political and legal"
+  },
+  "tags": [
+    "fantasy",
+    "organization",
+    "magic",
+    "sorcerer guild",
+    "arcane law",
+    "Karthain",
+    "binding magic"
+  ]
+}

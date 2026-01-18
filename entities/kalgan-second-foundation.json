@@ -1,0 +1,55 @@
+{
+  "id": "d75919c5-7c9a-4c67-b80a-9f1a6c9d5ef2",
+  "type": "location",
+  "name": "Kalgan (Second Foundation)",
+  "description": "Kalgan is a crucial planet in the Foundation universe, serving as a stronghold and power base for the Second Foundation.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Kalgan is a planet of strategic and military significance in Isaac Asimov's Foundation series. Known for its strong fortifications and industrial capacity, it serves as the seat of power for factions opposing the original Foundation, notably the Second Foundation in certain narrative contexts."
+    },
+    {
+      "title": "Appearance",
+      "body": "Kalgan is depicted as a harsh and militarized world with sprawling fortresses and battle-scarred terrain. Its urban areas are heavily industrialized, designed primarily for defense and sustained conflict, contrasting with more peaceful or commercially oriented planets."
+    },
+    {
+      "title": "History",
+      "body": "Throughout the series, Kalgan rose to prominence under the leadership of the warlord known as the Mule, who used it as a base to challenge the Foundation's authority. Later, it also becomes associated with the clandestine activities and covert operations of the Second Foundation."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Kalgan plays a pivotal role in the power struggles that shape the galactic order, embodying the tension between overt military might and the subtle manipulations of the Second Foundation. Its presence underlines themes of control, resistance, and the hidden hand guiding the galaxy’s future."
+    },
+    {
+      "title": "Relationship to Second Foundation",
+      "body": "In later developments of the series, Kalgan is linked to the secretive Second Foundation, which uses its facilities for intelligence and psychological manipulation. The planet thus symbolizes the shadow war between visible empires and unseen controllers."
+    }
+  ],
+  "aliases": [
+    "Kalgan Planet",
+    "Kalgan Stronghold"
+  ],
+  "relationships": [
+    {
+      "type": "home_of",
+      "target": "478a780d-5633-44ed-beab-55a3c19c8f03"
+    },
+    {
+      "type": "located_in",
+      "target": "f0d9fb2a-0f3e-446a-9a1d-2db988b68967"
+    }
+  ],
+  "properties": {
+    "type": "Military Planet",
+    "population": "High Military Concentration",
+    "government": "Military Dictatorship"
+  },
+  "tags": [
+    "Foundation",
+    "Kalgan",
+    "Second Foundation",
+    "Military",
+    "Isaac Asimov",
+    "Science Fiction"
+  ]
+}

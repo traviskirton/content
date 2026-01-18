@@ -1,0 +1,63 @@
+{
+  "id": "1d9a0b4b-91c3-4b11-9f82-1f4380fe4c80",
+  "type": "book",
+  "name": "From Russia with Love",
+  "description": "A 1957 spy novel by Ian Fleming featuring James Bond's mission against the Soviet organization SMERSH.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "From Russia with Love is the fifth novel in Ian Fleming's James Bond series, published in 1957. The book revolves around a complex espionage mission involving the secret Soviet counter-intelligence agency SMERSH. It showcases the blend of Cold War tensions, high-stakes spycraft, and exotic locations, cementing Bond as a cultural icon. The novel is noted for its intricate plot and the introduction of several memorable villains, exemplifying the sophisticated spy thriller genre."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "The story follows Bond's assignment to facilitate the defection of Tatiana Romanova, a Soviet cipher clerk, to the West with a valuable Lektor decoding machine. The plan, however, is a SMERSH trap orchestrated by Rosa Klebb and her assassin, Red Grant, aiming to kill Bond and recover the device. Set primarily in Istanbul and on the Orient Express, the narrative unfolds through a tense cat-and-mouse game culminating in Bond's survival and thwarting the KGB's scheme."
+    },
+    {
+      "title": "Themes",
+      "body": "From Russia with Love explores themes of Cold War espionage, loyalty, and betrayal. The novel delves into the psychological and physical dangers faced by spies during global ideological conflicts. It also comments on gender roles through characters like Rosa Klebb and Tatiana Romanova, infusing the plot with nuances of seduction and deception. The narrative emphasizes the clash between East and West, underpinning the pervasive paranoia and intrigue of the era."
+    },
+    {
+      "title": "Reception",
+      "body": "Upon release, From Russia with Love was praised for its thrilling plot and realistic depiction of spy operations, solidifying Ian Fleming's reputation as a leading author in spy fiction. Critics appreciated the vivid characterizations and detailed settings, which contributed to the book's lasting appeal. The novel has inspired multiple film and media adaptations, notably the 1963 film, regarded as one of the best Bond installments. It remains a seminal work influencing the spy genre."
+    }
+  ],
+  "aliases": [
+    "FRWL",
+    "From Russia with Love (James Bond novel)",
+    "James Bond: From Russia with Love"
+  ],
+  "relationships": [
+    {
+      "type": "features_character",
+      "target": "73d8d327-a5d3-4d8a-8c0c-f3afbf513194"
+    },
+    {
+      "type": "features_character",
+      "target": "7e2b8123-4ec0-4bcf-919f-b0f586e4bcaf"
+    },
+    {
+      "type": "features_character",
+      "target": "057c3f11-c3b7-4e4b-9972-547a2debc3c3"
+    },
+    {
+      "type": "features_character",
+      "target": "a4e01e24-cc9b-4b5a-adf6-f34d70506126"
+    }
+  ],
+  "properties": {
+    "author": "Ian Fleming",
+    "publication_year": 1957,
+    "genre": "Spy fiction",
+    "series": "James Bond",
+    "pages": 253
+  },
+  "tags": [
+    "James Bond",
+    "Spy fiction",
+    "Cold War",
+    "Thriller",
+    "Ian Fleming",
+    "Espionage",
+    "1950s literature"
+  ]
+}

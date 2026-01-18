@@ -1,0 +1,57 @@
+{
+  "id": "cc493ad7-d7b6-45df-9e8d-c3c2e4f07eaa",
+  "type": "location",
+  "name": "Senate Hearing Room",
+  "description": "Location in The Godfather Part II where Michael Corleone faces governmental scrutiny during a Senate investigation.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Senate Hearing Room is the setting for critical scenes in which Michael Corleone is called to testify before a government panel investigating organized crime. This formal and austere chamber reflects the power and influence of the U.S. government as it confronts mafia activities."
+    },
+    {
+      "title": "Appearance",
+      "body": "The hearing room is depicted with grandiose wood paneling, imposing high ceilings, and rows of seating for senators, legal teams, journalists, and the public. The spotlight on Michael during testimony adds dramatic tension and emphasizes his isolation under political pressure."
+    },
+    {
+      "title": "Historical Context",
+      "body": "Senate hearings in the 1950s and 60s, such as those led by Senator Estes Kefauver, were instrumental in exposing organized crime across America. The film draws upon this history to illustrate the government's attempt to dismantle mafia power and to highlight Michael Corleone’s vulnerability."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The hearings heighten the film’s tension by showing the external threats to Michael’s empire. It underscores the intersection of crime, politics, and legality, as Michael navigates deception and power struggles in his efforts to protect his family and empire."
+    },
+    {
+      "title": "Symbolism",
+      "body": "The Senate Hearing Room symbolizes institutional authority and societal judgment. It is a battleground where Michael's legitimacy, morality, and empire are challenged, representing the broader conflict between law and organized crime in America."
+    }
+  ],
+  "aliases": [
+    "Senate Inquiry Room",
+    "Government Hearing Room",
+    "Senate Investigative Chamber",
+    "Senate Committee Room"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a34e10f7-2f77-48bd-803f-efa34f19c87f"
+    }
+  ],
+  "properties": {
+    "location": "United States Senate",
+    "time_period": "Late 1950s",
+    "function": "Government investigation",
+    "political_significance": "Exposure of organized crime",
+    "dramatic_use": "Interrogation of Michael Corleone"
+  },
+  "tags": [
+    "government",
+    "political drama",
+    "organized crime",
+    "Senate hearings",
+    "The Godfather Part II",
+    "investigation",
+    "law and order",
+    "power struggle"
+  ]
+}

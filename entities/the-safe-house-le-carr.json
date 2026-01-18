@@ -1,0 +1,56 @@
+{
+  "id": "716f9e16-1eea-49b9-9d1a-00bfeb9f97c9",
+  "type": "location",
+  "name": "The Safe House (le Carré)",
+  "description": "A clandestine location used by British intelligence in John le Carré's novels, serving as a hideout and meeting place for agents.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Safe House is a covert refuge utilized by British intelligence operatives in le Carré’s espionage fiction, including 'Tinker, Tailor, Soldier, Spy.' It functions as a secure place for agents to meet, exchange information, and lie low from hostile surveillance. Reflecting real-world spycraft, safe houses are central to maintaining secrecy and protecting sensitive sources and operations."
+    },
+    {
+      "title": "Appearance",
+      "body": "Typically unremarkable and nondescript, The Safe House is designed to blend seamlessly into everyday surroundings, often appearing as an ordinary residential or commercial property. Interiors are sparsely furnished but equipped with necessary security measures and communication apparatus, facilitating discreet intelligence exchanges and briefings within a controlled environment."
+    },
+    {
+      "title": "History",
+      "body": "Within the fictional milieu, The Safe House represents the operational backbone of MI6’s clandestine activities during the Cold War. While specific histories vary, such locations are implied to have been established post-WWII as intelligence methods evolved to counter increasingly sophisticated espionage threats. Their existence underscores the constant danger faced by spies and the necessity for trusted havens."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Safe House is signified as a critical setting where pivotal plot developments and secret meetings occur, allowing characters to exchange intelligence information away from official premises, and evade enemy watch. It symbolizes the shadowy and precarious nature of espionage, highlighting the constant balancing act between exposure and concealment vital to the spy narrative."
+    }
+  ],
+  "aliases": [
+    "Intelligence Safe House",
+    "Spy Safe House",
+    "Secure Hideout",
+    "Secret Meeting Place"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "5a1d5bc2-ea0e-4643-86fc-6cfc54c477a9"
+    },
+    {
+      "type": "used_by",
+      "target": "20f89568-d71c-4822-8c95-d579fbbc5653"
+    }
+  ],
+  "properties": {
+    "function": "Safehouse for intelligence operations",
+    "security_level": "High",
+    "associated_organization": "MI6",
+    "location_type": "Residential/Urban"
+  },
+  "tags": [
+    "location",
+    "espionage",
+    "safehouse",
+    "Cold War",
+    "secrecy",
+    "intelligence",
+    "MI6",
+    "John le Carré"
+  ]
+}

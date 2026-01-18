@@ -1,0 +1,51 @@
+{
+  "id": "7d23a92b-8673-464d-9290-3a3c65802bc4",
+  "type": "person",
+  "name": "Al Lettieri",
+  "description": "Al Lettieri was an American actor best remembered for his menacing roles as villains in several iconic films of the 1960s and 1970s.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Born on February 24, 1928, Al Lettieri began his acting career in the early 1960s and quickly became known for his intense portrayals of antagonists, often playing gangster or mobster characters. His imposing presence and distinctive features made him a natural fit for villainous roles. Al Lettieri's career, though relatively brief, left a lasting impact on crime and thriller genres. He died in 1975 at the age of 47."
+    },
+    {
+      "title": "Career",
+      "body": "Lettieri carved a niche by portraying ruthless and cold-blooded characters in films such as 'The Godfather' (1972), where he played the brutal Virgil Sollozzo, and 'The Getaway' (1972). His ability to deliver chilling performances brought authenticity and suspense to crime dramas. Lettieri was respected by peers for his dedication to his roles and his intense preparation, often contributing to the depth of the characters he portrayed."
+    },
+    {
+      "title": "Notable Works",
+      "body": "His most iconic role is Virgil Sollozzo in 'The Godfather', a narcotics dealer whose conflict with the Corleone family sets a key plot motion. In 'The Getaway,' Lettieri portrayed a hitman, further solidifying his reputation as a convincing villain. His performances are considered essential in defining the archetype of the mobster antagonist in American cinema."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Al Lettieri's style was marked by intense delivery, a steely gaze, and controlled menace. He brought complex psychological layers to his villainous roles, avoiding one-dimensional portrayals. His work influenced the depiction of mobsters and criminals in subsequent crime films, emphasizing realism and psychological tension."
+    }
+  ],
+  "aliases": [
+    "Al Lettieri",
+    "Virgil Sollozzo (Role)",
+    "American Villain Actor"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a34e10f7-2f77-48bd-803f-efa34f19c87f"
+    }
+  ],
+  "properties": {
+    "birth_date": "1928-02-24",
+    "death_date": "1975-10-18",
+    "nationality": "American",
+    "occupation": "Actor",
+    "active_years": "1960-1975"
+  },
+  "tags": [
+    "actor",
+    "villain",
+    "mobster",
+    "crime films",
+    "The Godfather",
+    "1970s cinema",
+    "American actors"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "59ea23e1-3286-44ae-8358-e8e25a1d8f6d",
+  "type": "character",
+  "name": "Mouth of Sauron",
+  "description": "The Mouth of Sauron is a dark and sinister emissary serving as Sauron's lieutenant and spokesperson during the siege of Minas Tirith.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "The Mouth of Sauron, a name that signifies his role as the voice of the Dark Lord, is a powerful servant who appears in the later stages of the War of the Ring. His origins are shrouded in mystery, but he is known as a Black Númenórean, possibly from the dwindling descendants of those who aligned with Sauron after the fall of Númenor. He acts as Sauron's ambassador and chief negotiator, tasked with demoralizing the enemy and conveying Sauron's terms."
+    },
+    {
+      "title": "Personality",
+      "body": "Described as cruel, cunning, and eloquent, the Mouth of Sauron exudes malice and menace. His rhetoric is designed to intimidate and break the will of his opponents. He is unflinching in his loyalty to Sauron, demonstrating a readiness to manipulate and betray without remorse. His presence at the Black Gate embodies the ever-looming threat of Sauron's domination."
+    },
+    {
+      "title": "Story Role",
+      "body": "The Mouth of Sauron's pivotal moment occurs when he confronts Gandalf and the army of the West during the parley at the Black Gate. He presents Frodo's mithril shirt and other items as proof of Sauron's capture of the hobbit, serving both as psychological warfare and negotiation leverage. His actions heighten the tension before the final battle. Despite his role as mouthpiece, he ultimately meets his end in combat, symbolizing the failure of Sauron’s last desperate tactics."
+    },
+    {
+      "title": "Relationships",
+      "body": "As Sauron's emissary, he functions under the Witch-king's command during the siege of Minas Tirith and as part of Sauron's inner hierarchy. He interacts with the leaders of the armies opposing Sauron, including Gandalf and Aragorn, with whom he antagonizes. His connections include other servants of Sauron and those loyal to the Dark Lord's cause."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "The Mouth of Sauron is skilled in negotiation, intimidation, and dark lore. Although not a singularly powerful warrior like the Witch-king, he is proficient in dark magic and combat. His knowledge of Sauron's strategy and capacity to wield fear and manipulation render him a dangerous foe in his diplomatic and martial roles."
+    }
+  ],
+  "aliases": [
+    "Black Captain",
+    "Sauron's Emissary",
+    "The Dark Lord's Mouth"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "7f7967a6-878a-4cb9-b3b4-5f4465061f6c"
+    },
+    {
+      "type": "serves_under",
+      "target": "4af7f867-6c8a-43c1-a4e1-08db387f6d32"
+    }
+  ],
+  "properties": {
+    "role": "Emissary and Lieutenant of Sauron",
+    "allegiance": "Sauron",
+    "status": "Mortal",
+    "origin": "Black Númenórean"
+  },
+  "tags": [
+    "middle-earth",
+    "lord of the rings",
+    "sauron",
+    "antagonist",
+    "fantasy",
+    "emissary",
+    "shadow"
+  ]
+}

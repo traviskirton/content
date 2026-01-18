@@ -1,0 +1,51 @@
+{
+  "id": "6c8b10a3-af96-4e41-82a1-3fdda8f234e8",
+  "type": "book",
+  "name": "The Hound of the Baskervilles",
+  "description": "A classic detective novel by Sir Arthur Conan Doyle featuring Sherlock Holmes investigating the legend of a supernatural hound in Devon.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Published in 1902, 'The Hound of the Baskervilles' is one of the most famous Sherlock Holmes novels written by Sir Arthur Conan Doyle. It intricately blends supernatural elements with rational investigation, set against the eerie backdrop of the English moorland, specifically the Devonshire countryside. The novel revitalized Doyle's creation after Holmes’s temporary death, and it remains a cornerstone of detective fiction appreciated for its atmospheric storytelling and complex plot."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "The story follows the famous detective Sherlock Holmes and his friend Dr. Watson as they investigate the mysterious death of Sir Charles Baskerville, believed to be caused by a supernatural hound. When Sir Henry Baskerville, the heir, arrives from Canada to claim his estate, Holmes and Watson unravel a complex plot involving family inheritance, deception, and a supposed curse. The investigation reveals a human antagonist exploiting the legend of the hound to cover a calculated crime."
+    },
+    {
+      "title": "Themes",
+      "body": "Central themes include the conflict between rationalism and superstition, the use of scientific reasoning to dispel myths, and the impact of folklore on human psychology. The novel explores the tension between urban modernity and rural tradition, alongside concepts of justice, morality, and the nature of evil disguised beneath the veil of legend."
+    },
+    {
+      "title": "Reception",
+      "body": "Upon release, 'The Hound of the Baskervilles' achieved immediate popularity, praised for its suspense and vivid setting. It played a critical role in reviving the Sherlock Holmes character's popularity after Conan Doyle’s earlier attempt to end the detective’s adventures. The novel remains highly influential, inspiring numerous adaptations across various media, and is often cited as a quintessential work of mystery literature."
+    },
+    {
+      "title": "Legacy and Influence",
+      "body": "The story significantly impacted the mystery genre, setting standards for character-driven detective narratives entwined with atmospheric settings. The mythic hound has entered popular culture as a symbol of menacing supernatural forces debunked through logical inquiry. The novel is studied for its narrative structure, use of red herrings, and as a masterclass in combining legend with empirical investigation."
+    }
+  ],
+  "aliases": [
+    "The Hound of the Baskervilles",
+    "Hound of Baskervilles",
+    "Sherlock Holmes: The Hound",
+    "Baskervilles"
+  ],
+  "relationships": [],
+  "properties": {
+    "author": "Sir Arthur Conan Doyle",
+    "publication_year": 1902,
+    "genre": "Detective fiction, Mystery",
+    "language": "English",
+    "setting": "Devonshire, England"
+  },
+  "tags": [
+    "Sherlock Holmes",
+    "Detective fiction",
+    "Classic literature",
+    "Mystery",
+    "Supernatural",
+    "Victorian era",
+    "English literature"
+  ]
+}

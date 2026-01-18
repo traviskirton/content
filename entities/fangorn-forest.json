@@ -1,0 +1,52 @@
+{
+  "id": "d5ffb3cd-50a6-4be6-8f1b-3cf8889443f3",
+  "type": "location",
+  "name": "Fangorn Forest",
+  "description": "A vast and ancient forest in Middle-earth, home to the Ents and a pivotal setting in 'The Two Towers'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Fangorn Forest is an ancient woodland located to the east of the River Isen and south of the Misty Mountains in Middle-earth. Known for its towering, gnarled trees and deep, dark foliage, it serves as a mysterious and somewhat sentient region inhabited by the Ents, an ancient race of tree-herders. The forest is named after Fangorn, the Old Man of the Forest, the oldest Ent alive. It is a place where the natural world dominates, largely untouched by the encroaching forces of darkness during the War of the Ring."
+    },
+    {
+      "title": "Appearance",
+      "body": "The forest is dense with massive, centuries-old trees whose twisting branches form a canopy so thick that sunlight struggles to penetrate. Thick undergrowth, moss, and creeping vines cover much of the forest floor, making travel difficult and disorienting for outsiders. The landscape is punctuated by ancient roots and occasional clearings, with a heavy, earthy atmosphere. The forest seems alive and aware, with the Ents acting as its guardians, able to communicate with the trees and the land itself."
+    },
+    {
+      "title": "History",
+      "body": "Fangorn Forest has existed since ancient times, witnessing the rise and fall of many civilizations. It played a crucial role during the War of the Ring as the home of the Ents who, after centuries of slumber and neglect by other races, rose in revolt against Saruman and his destructive plans. The Ents’ march from Fangorn to Isengard resulted in the decisive assault on Saruman’s stronghold, marking a turning point in the conflict. Prior to these events, the forest was largely avoided or misunderstood by neighboring peoples due to its wild and ominous reputation."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'The Two Towers', Fangorn Forest serves as a pivotal location where the characters Merry and Pippin encounter Treebeard, the eldest Ent, who ultimately rallies the Ents to attack Saruman’s fortress at Isengard. This action cripples Saruman’s power and aids the forces of Rohan and Gondor. The forest’s mysterious and ancient nature also symbolizes the enduring power of nature and the natural world in the face of industrial destruction and evil. It highlights themes of environmental stewardship, ancient wisdom, and the importance of unlikely allies in times of crisis."
+    }
+  ],
+  "aliases": [
+    "The Old Forest",
+    "Entwood",
+    "Fangorn",
+    "Forest of the Ents"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "8cdb1f9a-849e-41b2-8d28-7c665a84f3a9"
+    }
+  ],
+  "properties": {
+    "region": "Rohan",
+    "inhabitants": "Ents",
+    "type": "Ancient Forest",
+    "notable_residents": "Treebeard"
+  },
+  "tags": [
+    "Middle-earth",
+    "Forest",
+    "Ents",
+    "The Two Towers",
+    "Ancient",
+    "Fantasy",
+    "War of the Ring",
+    "Environment"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "4db75ca2-f36f-4c73-8a6d-4edbec6f4c25",
+  "type": "location",
+  "name": "Stoke Moran Manor",
+  "description": "The ancestral home and estate of Dr. Grimesby Roylott, located in Surrey, England, central to the events of 'The Adventure of the Speckled Band.'",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Stoke Moran Manor is a large, old English manor house situated in the rural county of Surrey. It serves as the family residence of the Roylott family, most notably Dr. Grimesby Roylott, the last surviving male heir. The manor is renowned for its eerie atmosphere, dilapidated wings, and a reputation for mysterious events, making it a classic setting for the dark and suspenseful narrative of 'The Adventure of the Speckled Band.' Its isolation and gloomy ambiance contribute significantly to the story's suspense."
+    },
+    {
+      "title": "Appearance",
+      "body": "The manor is described as a sprawling, somewhat decaying estate with extensive grounds. Architecturally, it boasts a Victorian style with sprawling corridors, heavy wooden furnishings, and aged stonework. The windows are barred in some sections, and certain wings, including the one where the mystery unfolds, show signs of neglect and a haunting presence. The interior is dimly lit, with long passages and rooms decorated with ominous trophies from Dr. Roylott's time in India, reinforcing the exotic and menacing atmosphere."
+    },
+    {
+      "title": "History",
+      "body": "Stoke Moran Manor has belonged to the Roylott family for generations and symbolizes both wealth and decay. Dr. Roylott, having returned from his medical practice in India, brought with him deadly knowledge and a dangerous temperament that cast a shadow over the estate. The manor’s history is stained with strange deaths and rumors of sinister practices. Its remote location and old design provided an ideal environment for the sinister plot that unfolds during the story."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The manor is the epicenter for Holmes's investigation, as its structure directly masks the secret method used for attempted murder. The locked and barred windows, the ventilator connecting rooms, and the presence of a fake bell-rope all serve as physical clues that Sherlock Holmes pieces together to reveal the nature of the danger lurking within. Stoke Moran Manor heightens the suspense and serves as a character in its own right, encapsulating Victorian Gothic mystery and horror."
+    }
+  ],
+  "aliases": [
+    "Roylott Estate",
+    "Roylott Manor",
+    "Stoke Moran"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
+    },
+    {
+      "type": "contained_location",
+      "target": "8a4f0ea5-e4d0-49d1-bfa1-d3cb64f4f0f7"
+    },
+    {
+      "type": "contained_location",
+      "target": "47374696-f2c8-4053-8bd9-2c7a3e1a9032"
+    },
+    {
+      "type": "contains",
+      "target": "8a4f0ea5-e4d0-49d1-bfa1-d3cb64f4f0f7"
+    },
+    {
+      "type": "contains",
+      "target": "47374696-f2c8-4053-8bd9-2c7a3e1a9032"
+    }
+  ],
+  "properties": {
+    "region": "Surrey, England",
+    "building_style": "Victorian manor",
+    "status": "Occupied during story",
+    "owner": "Dr. Grimesby Roylott"
+  },
+  "tags": [
+    "fictional location",
+    "manor",
+    "mystery",
+    "Victorian England",
+    "Gothic",
+    "Sherlock Holmes"
+  ]
+}

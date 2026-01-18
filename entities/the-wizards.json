@@ -1,0 +1,64 @@
+{
+  "id": "59a8c7f4-6d9e-4ab3-97ed-3dd77e68eabd",
+  "type": "organization",
+  "name": "The Wizards",
+  "description": "A collective of magic practitioners primarily affiliated with Unseen University, responsible for maintaining magical order and balance in Discworld.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Wizards are a diverse group of magic users predominantly based at Unseen University in Ankh-Morpork. While their power and knowledge are formidable, their behavior often ranges from highly professional to absurdly eccentric. They wield significant influence in Discworld society largely due to their magical abilities and political roles. Renowned for their debate, rivalry, and peculiar customs, the Wizards are simultaneously a guild, an academic body, and a political force."
+    },
+    {
+      "title": "Structure",
+      "body": "The Wizards operate under a loosely hierarchical system led by the Archchancellor and senior chairs of various magical disciplines. Membership to the Wizards is typically by acceptance to Unseen University, and many serve as professors and advisors in magic. Despite their formal titles and status, the group is famously chaotic in governance, with many internal disputes and personal power struggles. They occasionally band together in times of external threats or when powerful magic destabilizes Discworld."
+    },
+    {
+      "title": "History",
+      "body": "Originating as the original founders and practitioners of magic on the Disc, the Wizards have been integral to its history and mythology. Over centuries, they developed the magical disciplines taught at Unseen University and served as guardians of arcane knowledge. Their reputation has fluctuated with their successes and failings — including numerous magical mishaps causing havoc across the world. Despite this, they remain key figures in Discworld's magical and political landscape."
+    },
+    {
+      "title": "Goals",
+      "body": "The Wizards seek to master and control the practice of magic while safeguarding the Disc from chaotic or dangerous magical forces. They aim to preserve traditional magical knowledge and advance new discoveries within the academic setting of Unseen University. Additionally, they endeavor to maintain their status and privileges in social and political spheres, often influencing events beyond academia through their interventions."
+    },
+    {
+      "title": "Key Members",
+      "body": "Notable Wizards include Mustrum Ridcully, the pragmatic Archchancellor; Ponder Stibbons, who embodies modern, scientific magic; and the enigmatic Librarian, a magically transformed orangutan. Other figures include the bumbling but powerful Rincewind, exiled from the university, and the faculty who contribute wildly varied magical skills, personalities, and agendas."
+    }
+  ],
+  "aliases": [
+    "Wizardry Guild",
+    "Unseen University Wizards",
+    "Discworld Wizards",
+    "The Archmagisters"
+  ],
+  "relationships": [
+    {
+      "type": "member_of",
+      "target": "327c5b8d-cc4c-4f7a-9b6c-b0ac28cbd8e3"
+    }
+  ],
+  "properties": {
+    "primary_location": "Unseen University",
+    "magical_disciplines": [
+      "Thaumaturgy",
+      "Necromancy",
+      "Alchemy",
+      "Enchantment"
+    ],
+    "number_of_members": "Variable (dozens)",
+    "governance": "Archchancellor and Chairs",
+    "affiliations": [
+      "Unseen University"
+    ]
+  },
+  "tags": [
+    "magic",
+    "organization",
+    "wizards",
+    "fantasy",
+    "Discworld",
+    "magical_institutions",
+    "eccentric",
+    "fictional_group"
+  ]
+}

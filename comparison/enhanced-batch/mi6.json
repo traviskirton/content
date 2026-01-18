@@ -1,0 +1,64 @@
+{
+  "id": "50fa1b1e-8679-4b51-9646-e429e7c9da31",
+  "type": "organization",
+  "name": "MI6",
+  "description": "United Kingdom's Secret Intelligence Service, employing James Bond.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "MI6, officially known as the Secret Intelligence Service (SIS), is the UK's foreign intelligence agency responsible for espionage activities outside the British Isles. It recruits agents such as James Bond to conduct covert operations critical to national security."
+    },
+    {
+      "title": "Structure",
+      "body": "MI6 operates under the authority of the British government and is led by the chief referred to as M. The organization includes divisions for intelligence gathering, technological development, and field operations, supported by staff like Miss Moneypenny and Q."
+    },
+    {
+      "title": "History",
+      "body": "Founded officially in 1909, MI6 evolved through the World Wars and the Cold War into a sophisticated intelligence body addressing global threats. In Fleming’s fiction, MI6 epitomizes the clandestine fight against communism and international terrorism."
+    },
+    {
+      "title": "Goals",
+      "body": "Its main objectives include protecting British interests abroad through espionage, counter-intelligence, and disruption of hostile plots. MI6 is depicted as working under secrecy with mechanisms to deal with politically sensitive missions."
+    },
+    {
+      "title": "Key Members",
+      "body": "Notable in fiction are M, the head of MI6; Miss Moneypenny, M’s secretary; Q, the quartermaster providing advanced gadgets; James Bond, the field operative; and Felix Leiter, representing allied intelligence."
+    }
+  ],
+  "aliases": [
+    "Secret Intelligence Service",
+    "SIS",
+    "British Intelligence"
+  ],
+  "relationships": [
+    {
+      "type": "employs",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    },
+    {
+      "type": "employs",
+      "target": "4d8ecfab-7db7-4e8c-a2ba-2e0dea54ce91"
+    },
+    {
+      "type": "employs",
+      "target": "7b3b796d-02f6-4e16-a55c-4b5f0b9db1e2"
+    },
+    {
+      "type": "employs",
+      "target": "a7dd4634-3f53-4ce3-9adc-49273238e25a"
+    }
+  ],
+  "properties": {
+    "country": "United Kingdom",
+    "established": "1909",
+    "type": "Intelligence agency",
+    "headquarters": "London"
+  },
+  "tags": [
+    "organization",
+    "intelligence",
+    "government agency",
+    "spy",
+    "British"
+  ]
+}

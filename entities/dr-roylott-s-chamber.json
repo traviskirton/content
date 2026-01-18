@@ -1,0 +1,54 @@
+{
+  "id": "8a4f0ea5-e4d0-49d1-bfa1-d3cb64f4f0f7",
+  "type": "location",
+  "name": "Dr. Roylott's Chamber",
+  "description": "The private room of Dr. Grimesby Roylott in Stoke Moran Manor, which contains the secret mechanism used in the crime central to 'The Adventure of the Speckled Band.'",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Dr. Roylott's Chamber is a secluded room within the west wing of Stoke Moran Manor, serving as his private quarters. It is a place marked by an ominous aura, filled with exotic and threatening Indian artifacts, including a venomous snake. This chamber is integral to the unfolding mystery as it houses elements that enable Dr. Roylott’s deadly plot to kill his stepdaughters and retain his fortune."
+    },
+    {
+      "title": "Appearance",
+      "body": "The chamber is described as dimly lit and sparsely furnished with an iron bedstead and leather-bound chairs. The walls are adorned with grotesque trophies and exotic animal heads collected during Roylott's time in India. A strange ventilator connects the chamber to the adjacent room, and a bell-pull that serves no actual bell hangs by the bed, all designed to conceal the method of attack. These features give the chamber an exotic, hostile character filled with lurking menace."
+    },
+    {
+      "title": "History",
+      "body": "This room reflects Dr. Roylott’s past as a physician in India and his fascination with deadly creatures. He modified this chamber secretly to accommodate a snake known as the swamp adder, which he trained to use for attacks. The presence of the ventilator and fake bell cord was part of a calculated scheme to murder while maintaining plausible deniability, reflecting his cold and cruel ingenuity."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Roylott’s Chamber is the location where the climax of the story unfolds, and where Sherlock Holmes uncovers the method behind the murders. The room’s construction and dangerous contents directly lead to the resolution of the mystery, demonstrating Holmes’s ability to interpret physical clues and outwit malevolent intent. Its role is pivotal in revealing the unique murder technique involving the swamp adder."
+    }
+  ],
+  "aliases": [
+    "Roylott's Room",
+    "West Wing Chamber",
+    "Doctor's Room"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "4db75ca2-f36f-4c73-8a6d-4edbec6f4c25"
+    },
+    {
+      "type": "contains",
+      "target": "a1cdd2ef-e08f-4f58-a88c-e6ff8cd4c9ea"
+    }
+  ],
+  "properties": {
+    "floor": "West wing",
+    "access": "Private",
+    "connected_to": "Helen's Bedroom (via ventilator)",
+    "dangerous_elements": true,
+    "occupant": "Dr. Grimesby Roylott"
+  },
+  "tags": [
+    "fictional room",
+    "mystery",
+    "murder weapon",
+    "Sherlock Holmes",
+    "Gothic",
+    "Victorian"
+  ]
+}

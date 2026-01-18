@@ -1,0 +1,65 @@
+{
+  "id": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe",
+  "type": "character",
+  "name": "James Bond",
+  "description": "British secret agent known as 007, skilled in espionage, combat and covert operations.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "**James Bond** is a British secret agent originally created by author Ian Fleming. His exact birth year and early life details vary across continuities, but generally, he is presented as a former British naval officer recruited into MI6 to serve as a spy. Bond is educated, highly trained, and often portrayed as coming from a privileged background, with extensive skills in languages, firearms, hand-to-hand combat, and intelligence gathering. His codename is 007, indicating his license to kill. Bond operates globally on missions involving thwarting criminal organizations, terrorists, and rogue states."
+    },
+    {
+      "title": "Personality",
+      "body": "Bond is charismatic, confident, and suave, often displaying a mix of professionalism and charm. He is motivated by duty to his country and moral imperative to stop threats, but is also prone to recklessness and risk-taking. He often exhibits a dry wit and a cold pragmatism, masked by a debonair exterior. His flaws include a tendency towards womanizing, occasional emotional detachment, and sometimes overconfidence. Nonetheless, he displays loyalty, courage, and resilience."
+    },
+    {
+      "title": "Story Role",
+      "body": "James Bond is the protagonist of the James Bond series, serving as the central character whose missions drive the narrative. He typically receives orders from MI6 leadership, notably M, and engages antagonists ranging from global crime syndicates (like SPECTRE) to megalomaniac villains. Across novels, films, and other media, Bond’s character arc involves repeated cycles of danger, betrayal, and survival, with his personal life sometimes touched upon but remaining secondary to his espionage work."
+    },
+    {
+      "title": "Relationships",
+      "body": "- Works for MI6 and reports to M (head of secret service).\n- Has recurring relationships with allies such as Q (gadgets and technology expert) and Moneypenny (M’s secretary).\n- Encounters numerous romantic interests, known as \"Bond girls,\" who vary by story.\n- Faces off against iconic antagonists such as Ernst Stavro Blofeld and other villains.\n- Often has complex relationships with other intelligence agencies and allies depending on mission context."
+    },
+    {
+      "title": "Abilities",
+      "body": "- Expert in firearms and hand-to-hand combat.\n- Highly trained in espionage, stealth, and infiltration.\n- Skilled pilot, driver, and scuba diver.\n- Multilingual and culturally adaptable.\n- Proficient in use of advanced gadgets supplied by Q Branch.\n- Exceptional tactical thinking and resourcefulness in hostile environments."
+    }
+  ],
+  "aliases": [
+    "007",
+    "Commander Bond",
+    "Agent 007"
+  ],
+  "relationships": [
+    {
+      "type": "member_of",
+      "target": "4b751a8e-3dce-4d29-8b1a-4e7db45a98fe"
+    },
+    {
+      "type": "appears_in",
+      "target": "4b751a8e-3dce-4d29-8b1a-4e7db45a98fe"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "secret agent",
+    "portrayed_by": [
+      "Sean Connery",
+      "Roger Moore",
+      "Pierce Brosnan",
+      "Daniel Craig",
+      "Timothy Dalton",
+      "George Lazenby"
+    ],
+    "born": "1920s-1930s (approximate, varies)",
+    "organization": "MI6"
+  },
+  "tags": [
+    "protagonist",
+    "hero",
+    "spy",
+    "human",
+    "agent",
+    "licensed_to_kill"
+  ]
+}

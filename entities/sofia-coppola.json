@@ -1,0 +1,62 @@
+{
+  "id": "9ade6ec2-703e-425c-8abe-8a6a5a3fbe55",
+  "type": "person",
+  "name": "Sofia Coppola",
+  "description": "American filmmaker and actress who played Mary Corleone in The Godfather Part III.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Sofia Coppola was born on May 14, 1971, in New York City into the illustrious Coppola family known for their cinematic achievements. She began her career as an actress but eventually became a celebrated director and screenwriter. Known for her distinctive visual style and contemplative storytelling, Coppola has earned critical acclaim and awards for her work in independent cinema."
+    },
+    {
+      "title": "Career",
+      "body": "Sofia Coppola made her acting debut in The Godfather Part III, portraying Mary Corleone. Despite mixed reception surrounding her performance, she transitioned behind the camera, directing films such as The Virgin Suicides, Lost in Translation (which earned her an Academy Award for Best Original Screenplay), Marie Antoinette, and The Bling Ring. She is recognized for her nuanced exploration of themes like isolation, privilege, and youth culture."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Coppola's most notable works include Lost in Translation (2003), for which she won an Oscar, The Virgin Suicides (1999), and Marie Antoinette (2006). In addition to her directorial efforts, her performance as Mary Corleone in The Godfather Part III (1990) remains a notable milestone in her career, despite critical controversy at the time."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Sofia Coppola's filmmaking is characterized by an atmospheric and minimalist approach, often focusing on emotional undercurrents and internal experiences of characters rather than overt drama. She incorporates soft color palettes and subtle soundtracks, creating a unique cinematic tone. Her influence extends to inspiring a generation of female filmmakers and reshaping portrayals of women and adolescence in modern cinema."
+    }
+  ],
+  "aliases": [
+    "Sofia Carmina Coppola",
+    "Mary Corleone Actress",
+    "Sofia"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a34e10f7-2f77-48bd-803f-efa34f19c87f"
+    },
+    {
+      "type": "child_of",
+      "target": "3a0c7f6d-9b31-478c-a716-f3fdbc3b10e7"
+    },
+    {
+      "type": "colleague",
+      "target": "f571c85e-fd0f-448a-a9f3-64c9e8c3d36f"
+    },
+    {
+      "type": "colleague",
+      "target": "5f7e92e6-2291-4741-8691-252c88e411fe"
+    }
+  ],
+  "properties": {
+    "birth_date": "1971-05-14",
+    "nationality": "American",
+    "occupation": "Director, Screenwriter, Actress",
+    "awards": "Academy Award for Best Original Screenplay",
+    "active_years": "1989–present"
+  },
+  "tags": [
+    "director",
+    "actress",
+    "The Godfather Part III",
+    "independent film",
+    "award winner",
+    "female filmmaker"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "a7dd4634-3f53-4ce3-9adc-49273238e25a",
+  "type": "character",
+  "name": "Q (James Bond)",
+  "description": "MI6's quartermaster responsible for equipment and gadgets used by Bond.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Q is the head of the Q Branch, the research and development division of MI6 that supplies James Bond with specialized weapons, gadgets, and vehicles to aid in his missions. The character was introduced in the early James Bond stories to highlight the technological aspects of espionage."
+    },
+    {
+      "title": "Personality",
+      "body": "Q is often portrayed as highly intelligent, pragmatic, and sometimes exasperated by Bond’s cavalier use of equipment. Despite this, Q is dedicated to providing state-of-the-art technology vital to national security."
+    },
+    {
+      "title": "Role in Story",
+      "body": "Serving as Bond’s gadgeteer, Q develops innovative tools and weapons that are integral to many missions, although in 'Casino Royale' the focus is less on gadgets and more on Bond's skills. He often provides briefings and technical support from headquarters."
+    },
+    {
+      "title": "Relationships",
+      "body": "Q maintains a professional relationship with Bond, marked by a subtle mix of mentorship and mild annoyance. He works closely alongside M and Miss Moneypenny within MI6's command structure."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Q is an expert in engineering, technology, and weaponry design. His innovations are frequently cutting-edge and tailor-made to Bond’s needs, showcasing advanced spy technology."
+    }
+  ],
+  "aliases": [
+    "Major Boothroyd",
+    "Q Branch Chief"
+  ],
+  "relationships": [
+    {
+      "type": "member_of",
+      "target": "50fa1b1e-8679-4b51-9646-e429e7c9da31"
+    },
+    {
+      "type": "supports",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    },
+    {
+      "type": "colleague_of",
+      "target": "4d8ecfab-7db7-4e8c-a2ba-2e0dea54ce91"
+    },
+    {
+      "type": "colleague_of",
+      "target": "7b3b796d-02f6-4e16-a55c-4b5f0b9db1e2"
+    }
+  ],
+  "properties": {
+    "position": "Quartermaster",
+    "organization": "MI6",
+    "expertise": [
+      "engineering",
+      "gadgets",
+      "weapons development"
+    ]
+  },
+  "tags": [
+    "MI6",
+    "gadgets",
+    "technology",
+    "James Bond",
+    "support"
+  ]
+}

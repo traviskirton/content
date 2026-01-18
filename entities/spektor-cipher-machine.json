@@ -1,0 +1,57 @@
+{
+  "id": "1adc9a0e-f785-4ed3-bb49-6292d494d7d3",
+  "type": "item",
+  "name": "Spektor Cipher Machine",
+  "description": "A Soviet cipher device central to 'From Russia with Love', used for encrypting and decrypting highly classified communications.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Spektor Cipher Machine is a portable cryptographic device used by Soviet intelligence to encode and decode sensitive messages. Its advanced encryption capabilities make it a prized asset in Cold War espionage, with both Soviet and Western agencies vying for control over its secrets. In 'From Russia with Love', it is the focal point of a high-stakes intelligence operation."
+    },
+    {
+      "title": "Appearance",
+      "body": "Compact and rugged in design, the Spektor Cipher Machine resembles early Cold War telecommunication equipment with a combination of mechanical components and electronic circuits. It typically features a keyboard, display or indicator lights for code input, and internal rotors or circuitry responsible for encryption transformations."
+    },
+    {
+      "title": "Function",
+      "body": "The machine uses complex algorithms and rotating cipher wheels or electrical circuits to scramble messages into unreadable formats and reverse the process for authorized users. Its portability allows operatives in the field to securely transmit information, making it a vital tool in Soviet espionage and counter-intelligence efforts, as depicted in the novel and film."
+    },
+    {
+      "title": "History",
+      "body": "Developed by Soviet cryptographers during the peak of Cold War tensions, the Spektor was designed to rival Western devices such as the Enigma and help maintain Soviet communications security. It emerges in fiction as an emblem of the ongoing technology race between intelligence agencies, playing a pivotal role in the plot of 'From Russia with Love'."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Within 'From Russia with Love', the Spektor Cipher Machine symbolizes the shifting balance of power in espionage. Its planned defection to the West through a convoluted plot entangles James Bond in deadly schemes and highlights the deadly interplay of trust and betrayal characteristic of spy narratives."
+    }
+  ],
+  "aliases": [
+    "Spektor",
+    "Spektor Machine",
+    "Soviet Cipher Device"
+  ],
+  "relationships": [
+    {
+      "type": "target_of",
+      "target": "76a02ca0-5c12-42a8-ad97-4ae1666d6a3d"
+    },
+    {
+      "type": "created_by",
+      "target": "c90f3ec0-839f-46a5-b32c-ea29f999f77f"
+    }
+  ],
+  "properties": {
+    "type": "Cipher Machine",
+    "origin": "Soviet Union",
+    "era": "Cold War",
+    "use": "Secure Communications"
+  },
+  "tags": [
+    "item",
+    "cipher machine",
+    "Cold War",
+    "espionage",
+    "encryption",
+    "Soviet technology"
+  ]
+}

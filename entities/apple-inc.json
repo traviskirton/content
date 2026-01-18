@@ -1,0 +1,75 @@
+{
+  "id": "c848cc2b-5060-4c37-8a82-f8e9e10f23d9",
+  "type": "company",
+  "name": "Apple Inc.",
+  "description": "Apple Inc. is a multinational technology company renowned for its consumer electronics, software, and innovative design.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Founded in 1976, Apple Inc. is a global leader in consumer technology, famous for its product lines including the iPhone, iPad, Mac computers, and Apple Watch. The company is noted for its focus on design, seamless ecosystem, and innovation in hardware and software integration."
+    },
+    {
+      "title": "Structure",
+      "body": "Apple's corporate structure is streamlined to foster rapid innovation, with divisions dedicated to hardware engineering, software development, services, and retail. Its leadership team includes a CEO, COO, and heads of various product teams who collaborate closely to bring products from concept to market."
+    },
+    {
+      "title": "History",
+      "body": "Starting from the Apple I computer, the company has revolutionized multiple markets, from personal computing to mobile technology. Key milestones include the launch of the iPod in 2001, iPhone in 2007, and the introduction of the iOS platform. Apple is credited with establishing the smartphone and tablet segments."
+    },
+    {
+      "title": "Goals",
+      "body": "Apple aims to enrich lives through innovative technology that combines powerful performance with exceptional design. Sustainability, privacy, and user experience remain central goals as the company expands its services and pushes the boundaries of hardware capability."
+    },
+    {
+      "title": "Key Members",
+      "body": "Past and present leaders like Steve Jobs, Tim Cook, Jony Ive, and numerous talented engineers such as Greg Christie have been instrumental in Apple's success. The culture emphasizes creativity, excellence, and customer-focused product development."
+    }
+  ],
+  "aliases": [
+    "Apple",
+    "Apple Computer, Inc.",
+    "AAPL"
+  ],
+  "relationships": [
+    {
+      "type": "employs",
+      "target": "3f723138-0736-44db-90ab-c94d3f4df925"
+    },
+    {
+      "type": "employs",
+      "target": "812a6c69-b6f9-4eaf-9b66-57e69f055c71"
+    },
+    {
+      "type": "developer_of",
+      "target": "8123d0b0-c6c4-4aec-847b-44a52a84d253"
+    },
+    {
+      "type": "developer_of",
+      "target": "6a930372-1e04-4532-bbb5-e3a100c6c5ef"
+    }
+  ],
+  "properties": {
+    "founded": 1976,
+    "founders": [
+      "Steve Jobs",
+      "Steve Wozniak",
+      "Ronald Wayne"
+    ],
+    "headquarters": "Cupertino, California, USA",
+    "industry": [
+      "Consumer Electronics",
+      "Software",
+      "Digital Distribution"
+    ],
+    "stock_symbol": "AAPL"
+  },
+  "tags": [
+    "technology",
+    "electronics",
+    "software",
+    "consumer",
+    "innovation",
+    "smartphone",
+    "computers"
+  ]
+}

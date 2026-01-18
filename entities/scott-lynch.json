@@ -1,0 +1,47 @@
+{
+  "id": "faa6c2d0-1db1-4a71-9a0f-d051afc8a9b9",
+  "type": "person",
+  "name": "Scott Lynch",
+  "description": "American fantasy author best known for his Gentleman Bastard series.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Scott Lynch was born in 1978 and is an American author specializing in fantasy fiction. He grew up in Rhode Island and developed a passion for literature and fantasy early in life. Despite various personal challenges, Lynch persevered to become a notable figure in the fantasy genre. His storytelling is marked by intricate plotting, sharp dialogue, and richly built worlds."
+    },
+    {
+      "title": "Career",
+      "body": "Lynch's career took off with the publication of his debut novel in 2006, which introduced readers to the Gentleman Bastard series. He has been praised for revitalizing the fantasy genre with a unique blend of crime capers and epic storytelling. Over the years, Lynch has built a dedicated fan base and received critical acclaim for his narrative style and world-building."
+    },
+    {
+      "title": "Notable Works",
+      "body": "His most famous work is the 'Gentleman Bastard Series,' starting with 'The Lies of Locke Lamora.' This series follows the exploits of a group of con artists in a richly textured fantasy city. The books stand out for their blend of intrigue, humor, and dark fantasy elements, establishing Lynch as a significant contemporary author in speculative fiction."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Lynch combines traditional fantasy tropes with elements of mystery, thriller, and heist genres. His prose is noted for its wit and clever dialogue, while his complex characters break from typical archetypes. His work has influenced many other writers and has contributed to the fantasy genre's evolution towards more character-driven and morally ambiguous narratives."
+    }
+  ],
+  "aliases": [
+    "Scott Lynch",
+    "S. Lynch"
+  ],
+  "relationships": [],
+  "properties": {
+    "birth_year": 1978,
+    "nationality": "American",
+    "genres": [
+      "Fantasy",
+      "Speculative Fiction"
+    ],
+    "debut_novel_year": 2006,
+    "occupation": "Author"
+  },
+  "tags": [
+    "author",
+    "fantasy",
+    "writer",
+    "Gentleman Bastard",
+    "American literature",
+    "speculative fiction"
+  ]
+}

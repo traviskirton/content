@@ -1,0 +1,55 @@
+{
+  "id": "d4b89188-3f48-403f-9f6d-e8e9b3618ceb",
+  "type": "character",
+  "name": "Captain McCluskey",
+  "description": "A corrupt police captain who works with Sollozzo and plays a key role in the conflict with the Corleone family.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Captain McCluskey is a high-ranking officer in the New York Police Department, notable for his corruption and willingness to collude with organized crime figures for personal gain. His position affords him considerable influence, which he uses to provide protection to corrupt elements within the mafia, primarily supporting Virgil Sollozzo’s narcotics operations. McCluskey’s corruption exemplifies the blurred lines between law enforcement and crime during the era."
+    },
+    {
+      "title": "Personality",
+      "body": "He is depicted as brash, openly hostile towards the Corleone family, and unapologetically corrupt. McCluskey displays a mixture of arrogance and impaired moral judgment, often abusing his power to intimidate or neutralize perceived threats. Despite his aggressive demeanor, he is ultimately a pawn in the larger power struggle."
+    },
+    {
+      "title": "Story Role",
+      "body": "McCluskey acts as an enforcer and protector for Sollozzo’s interests, shielding narcotics smuggling from police interference. He arrests Michael Corleone after a violent confrontation, providing a crucial narrative moment that leads to Michael’s transformation from reluctant family outsider to decisive mafia leader. His corruption and collusion highlight the extent of systemic rot in the city."
+    },
+    {
+      "title": "Relationships",
+      "body": "His primary alliance is with Virgil Sollozzo, whom he protects in exchange for bribes and favors. This relationship puts him at odds with the Corleone family, especially Michael. McCluskey is widely viewed with suspicion and disdain by honest officers and mafia adversaries alike."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "McCluskey wields police authority as a weapon, facilitating illegal activities through intimidation and selective enforcement. Though lacking in subtlety or strategic finesse, his position and readiness for violence make him a dangerous adversary in the street-level conflicts depicted."
+    }
+  ],
+  "aliases": [
+    "Captain McCluskey",
+    "Corrupt Police Captain"
+  ],
+  "relationships": [
+    {
+      "type": "ally_of",
+      "target": "0b4c2f14-4f1e-4b2d-9d06-986720123eb1"
+    }
+  ],
+  "properties": {
+    "role": "Corrupt Police Captain",
+    "affiliation": "NYPD",
+    "nationality": "American",
+    "status": "Deceased",
+    "notable_event": "Arrest of Michael Corleone"
+  },
+  "tags": [
+    "corruption",
+    "law_enforcement",
+    "police",
+    "organized_crime",
+    "The Godfather",
+    "antagonist",
+    "fictional_character",
+    "1950s"
+  ]
+}

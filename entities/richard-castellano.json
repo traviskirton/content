@@ -1,0 +1,57 @@
+{
+  "id": "f3933fbb-71ee-44d6-8231-3e643d4e4f8a",
+  "type": "person",
+  "name": "Richard Castellano",
+  "description": "American actor famous for his portrayal of Peter Clemenza in The Godfather, a pivotal character in the Corleone family.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Richard S. Castellano was born on September 4, 1933, in Queens, New York. Known for his robust presence and distinctive voice, he rose to prominence in film during the early 1970s. Castellano's career included theater, television, and film, but he is best remembered for his role in The Godfather and for contributing to the Italian-American gangster archetype in popular culture."
+    },
+    {
+      "title": "Career",
+      "body": "Castellano was cast as Peter Clemenza, the Corleone family caporegime, in the 1972 film The Godfather. His portrayal of Clemenza was marked by a mix of warmth, menace, and practical ruthlessness, adding significant texture to the film’s depiction of mafia culture. Castellano declined to appear in The Godfather Part II after disagreements over script changes. His other work includes television appearances and stage roles in New York."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Apart from The Godfather, Richard Castellano starred as the lead in the 1973 detective series 'The Super' and appeared in films such as Lovers and Other Strangers and Murder Inc. His character Clemenza introduced cultural elements and memorable dialogue that have become iconic in cinematic history."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Castellano's acting style combined a naturalistic performance with a distinct Italian-American flair. His character work contributed to the popular image of mobsters in the 1970s and beyond, inspiring numerous portrayals of similar characters in film and television. His assertive delivery and nuanced approach to mafia roles remain influential."
+    },
+    {
+      "title": "Legacy",
+      "body": "Richard Castellano's portrayal of Clemenza in The Godfather cemented his place in cinematic history as a key contributor to the mafia genre. The character's blend of loyalty and authority added depth to the film's ensemble. Though his filmography is not extensive, his impact in the genre is enduring."
+    }
+  ],
+  "aliases": [
+    "Richard S. Castellano",
+    "Peter Clemenza (character portrayal)"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "co_starred_with",
+      "target": "8e4c5d90-fde9-405f-b387-108f4bf79eda"
+    }
+  ],
+  "properties": {
+    "birth_year": 1933,
+    "death_year": 1988,
+    "nationality": "American",
+    "notable_role": "Peter Clemenza"
+  },
+  "tags": [
+    "actor",
+    "The Godfather",
+    "mafia",
+    "American cinema",
+    "Italian-American",
+    "gangster",
+    "1970s film"
+  ]
+}

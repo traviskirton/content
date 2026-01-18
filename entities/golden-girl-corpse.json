@@ -1,0 +1,57 @@
+{
+  "id": "3113d4c8-cb46-4f44-8a3e-f95ac1ce98f2",
+  "type": "item",
+  "name": "Golden Girl (Corpse)",
+  "description": "A preserved corpse plated in gold, found in Goldfinger's vault, symbolizing his greed and ruthlessness.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Golden Girl is the macabre trophy displayed in Auric Goldfinger’s vault during the film. It is the corpse of a woman who was murdered and then entirely covered in gold paint, rendering her immobile and forever a gilded artifact of Goldfinger’s obsession with wealth and ostentation. The corpse serves as a chilling warning of the villain’s merciless nature."
+    },
+    {
+      "title": "Appearance",
+      "body": "The corpse is covered in a flawless layer of gold paint, including skin and clothing, which gives it a surreal, statuesque appearance. The features of the woman remain visible but frozen in a permanent expression of shock or horror. The lighting in the vault highlights the shimmering metallic finish, which contrasts starkly with the deadly reality behind its creation."
+    },
+    {
+      "title": "Function",
+      "body": "Within the narrative, the Golden Girl serves as a symbolic testament to Goldfinger's identity and values. It projects his merciless pursuit of wealth at any cost and acts as a psychological intimidation to others who enter the vault. It also deepens the aura of danger and decadence surrounding his criminal persona."
+    },
+    {
+      "title": "History",
+      "body": "Although the identity of the Golden Girl remains undisclosed in the film, the corpse is one of Goldfinger's victims turned into a grim artistic statement. The gruesome display reflects the villain’s desire to immortalize wealth and power while instilling dread in his adversaries and associates alike."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Golden Girl scene is one of the most memorable visuals in Goldfinger, encapsulating the film’s themes of morality, greed, and mortality. It emphasizes Auric Goldfinger’s ruthless character and foreshadows the lethal consequences of crossing him."
+    }
+  ],
+  "aliases": [
+    "Gold Plated Corpse",
+    "Gilded Corpse",
+    "Goldfinger's Golden Girl",
+    "Gold Body",
+    "The Gilded Woman"
+  ],
+  "relationships": [
+    {
+      "type": "owned_by",
+      "target": "e91b6591-828c-4f44-8961-9830dc031b96"
+    }
+  ],
+  "properties": {
+    "material": "Gold Paint",
+    "identity": "Unknown",
+    "location_found": "Goldfinger's Vault",
+    "symbolism": "Greed and Ruthlessness",
+    "film_appearance": 1964
+  },
+  "tags": [
+    "Corpse",
+    "Goldfinger",
+    "Symbolism",
+    "Villainy",
+    "Film Prop",
+    "Macabre",
+    "James Bond"
+  ]
+}

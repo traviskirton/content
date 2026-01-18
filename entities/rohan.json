@@ -1,0 +1,64 @@
+{
+  "id": "8cdb1f9a-849e-41b2-8d28-7c665a84f3a9",
+  "type": "location",
+  "name": "Rohan",
+  "description": "A kingdom of horse-lords in Middle-earth, known for its vast grasslands and crucial role in the War of the Ring.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Rohan, also called the Riddermark, is a great kingdom of Men located in the north-west of Middle-earth. It is famed for its extensive grassy plains, sweeping horse pastures, and a people renowned as master horsemen known as the Rohirrim. This land serves as a key ally to Gondor during the War of the Ring, with its warriors playing a vital role in resisting the forces of Saruman and Sauron. Rohan’s culture and society revolve heavily around their horses, giving them a distinctive identity within the realms of Middle-earth."
+    },
+    {
+      "title": "Appearance",
+      "body": "Rohan is characterized by sprawling fields of tall grasses rolling into gentle hills and open plains, ideal for raising horses. Its landscape features the White Mountains to the south, forests on the borders, and the river Isen forming a natural defensive barrier. Settlements are generally built in a sturdy, rustic style with wooden and stone architecture, suited to the hardy, nomadic lifestyle of the Rohirrim. The capital city of Edoras crowns the hilltops providing a robust vantage point over the surrounding land."
+    },
+    {
+      "title": "History",
+      "body": "Rohan was established when the ancestors of the Rohirrim were granted this land by Gondor as a reward for their loyalty and assistance in previous wars. Over the centuries, the Rohirrim built a proud warrior culture centered on horses and martial prowess. In 'The Two Towers,' Rohan faces invasion and devastation at the hands of Saruman’s forces, leading to the pivotal stand at Helm’s Deep. The kingdom’s fate is closely intertwined with the efforts of King Théoden and the arrival of Aragorn, Gandalf, and allies, who help reclaim Rohan’s strength and vitality."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'The Two Towers,' Rohan is central to the unfolding drama of the War of the Ring, serving as a frontline kingdom resisting the industrial and military might of Saruman. Its society and leadership undergo trials and transformation—most importantly the rejuvenation of King Théoden, freed from Saruman’s influence by Gandalf. The defense of Helm’s Deep and the subsequent Ride of the Rohirrim to the aid of Gondor are key moments demonstrating themes of courage, loyalty, and hope amid overwhelming darkness. Rohan’s identity as a land of strength and tradition is a crucial counterbalance to the mechanized evil of Isengard."
+    }
+  ],
+  "aliases": [
+    "Land of the Horse-lords",
+    "Riddermark",
+    "Mark",
+    "Kingdom of the Rohirrim"
+  ],
+  "relationships": [
+    {
+      "type": "contains",
+      "target": "c0248f26-4e6d-4e1d-a68d-bd5bf563c2d1"
+    },
+    {
+      "type": "contains",
+      "target": "242675da-6bbd-47cf-920d-5822bcf7addd"
+    },
+    {
+      "type": "located_near",
+      "target": "d5ffb3cd-50a6-4be6-8f1b-3cf8889443f3"
+    },
+    {
+      "type": "contains",
+      "target": "d5ffb3cd-50a6-4be6-8f1b-3cf8889443f3"
+    }
+  ],
+  "properties": {
+    "ruler": "King Théoden",
+    "known_for": "Horse-lords, Cavalry",
+    "terrain": "Grasslands, Plains",
+    "alliance": "Gondor"
+  },
+  "tags": [
+    "Middle-earth",
+    "Kingdom",
+    "Rohirrim",
+    "The Two Towers",
+    "War of the Ring",
+    "Fantasy",
+    "Horse-lords",
+    "Medieval"
+  ]
+}

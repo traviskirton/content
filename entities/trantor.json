@@ -1,0 +1,54 @@
+{
+  "id": "c3f3e1a2-5a33-4b5d-98b5-4c165ef1b6b7",
+  "type": "location",
+  "name": "Trantor",
+  "description": "Trantor is the capital planet of the Galactic Empire in Isaac Asimov's Foundation universe, known for its vast cityscape and political significance.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Trantor stands as the administrative and political heart of the Galactic Empire, covered entirely by a sprawling metropolis that houses billions of inhabitants. As a planet, it is unique in the galaxy for its complete urbanization, its surface supporting enormous complexes of government buildings, administrative centers, and residences. It symbolizes the pinnacle of imperial power and the central node from which the Emperor and his bureaucracy exert control."
+    },
+    {
+      "title": "Appearance",
+      "body": "The planet is entirely enveloped by the imperial city, with towering structures made from advanced materials that stretch above the planet’s surface. Architectural styles are grandiose and imposing, often cold and utilitarian, designed to accommodate multifunctional usage to sustain the Empire's bureaucracy. The surface is a labyrinthine tangle of domes, skyscrapers, and underground sectors, illuminated by millions of artificial light sources, giving the impression of a never-ending city."
+    },
+    {
+      "title": "History",
+      "body": "Originally a relatively nondescript planet, Trantor rose to prominence as the foundation of the Galactic Empire no longer relied on traditional centers but on a centralized administration. Over centuries, the entire surface was urbanized to support the needs of the imperial government. However, during the decline of the Empire, Trantor suffered tremendous damage and depopulation, becoming a symbol of the fragility of centralized power."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Trantor is a critical setting in the Foundation series, representing both the zenith of human political organization and the inevitable decay of the Empire. Its fall is both literal and metaphorical, showcasing the themes of decline and rebirth central to Asimov's work. It acts as a contrasting backdrop to the remote planet Terminus, where the Foundation begins its rise."
+    }
+  ],
+  "aliases": [
+    "Imperial Capital",
+    "The City-Planet",
+    "Heart of the Empire"
+  ],
+  "relationships": [
+    {
+      "type": "contains",
+      "target": "7b9b04d7-5a01-4ec7-988e-c145c7103f2f"
+    },
+    {
+      "type": "contains",
+      "target": "c2187d20-5268-4c77-b581-d45fdd3d5a2c"
+    }
+  ],
+  "properties": {
+    "planet_type": "City-Planet",
+    "population": "Billions",
+    "status": "Capital of Galactic Empire",
+    "location": "Central Galactic Region"
+  },
+  "tags": [
+    "Foundation",
+    "Science Fiction",
+    "Planet",
+    "Galactic Empire",
+    "Capital",
+    "Urban",
+    "Isaac Asimov"
+  ]
+}

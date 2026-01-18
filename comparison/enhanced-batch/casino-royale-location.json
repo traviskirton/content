@@ -1,0 +1,52 @@
+{
+  "id": "363797be-3d66-4844-b24d-39f1657c5c00",
+  "type": "location",
+  "name": "Casino Royale (Location)",
+  "description": "Fictional casino in Royale-les-Eaux, central setting of the novel.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Casino Royale is a fictional gambling establishment located in the French coastal resort town of Royale-les-Eaux. It serves as the primary setting for the high-stakes baccarat game in Ian Fleming’s novel, where Bond aims to defeat the antagonist Le Chiffre."
+    },
+    {
+      "title": "Appearance",
+      "body": "The casino is depicted as an elegant and opulent venue, complete with lavish décor, exclusive gaming rooms, and an atmosphere of sophistication mingled with underlying tension. It attracts wealthy clientele from across Europe, including spies, criminals, and dignitaries."
+    },
+    {
+      "title": "History",
+      "body": "Though fictional, the Casino Royale draws inspiration from real European gambling houses of the post-war era, particularly those in French Riviera towns. In the story’s timeline, its significance lies in being the stage for a critical financial showdown between opposing intelligence factions."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The casino is the epicenter of the novel’s tension, where Bond confronts Le Chiffre in a game that blends psychological warfare with financial stakes. It symbolizes the cold battleground of espionage waged not just with weapons, but with wits and nerves."
+    }
+  ],
+  "aliases": [
+    "Royal Casino",
+    "Casino Royale"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "c3f0383d-af85-4de1-b691-667d0a3d9a10"
+    },
+    {
+      "type": "featured_in",
+      "target": "1365a1a6-3bcc-4a06-8ff3-51e24d1a9a64"
+    }
+  ],
+  "properties": {
+    "type": "Casino",
+    "location_city": "Royale-les-Eaux",
+    "primary_function": "Gambling and espionage ambush",
+    "notable_event": "Baccarat game showdown"
+  },
+  "tags": [
+    "location",
+    "casino",
+    "gambling",
+    "French Riviera",
+    "spy fiction",
+    "Casino Royale"
+  ]
+}

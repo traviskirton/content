@@ -1,0 +1,57 @@
+{
+  "id": "1a9f67b2-74f6-46da-82a7-62fe32246dfb",
+  "type": "character",
+  "name": "Molly Millions",
+  "description": "Molly Millions is a cybernetically enhanced mercenary and street samurai featured in 'Neuromancer,' known for her lethal combat skills and distinctive mirrored eye implants.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Molly Millions, sometimes simply referred to as Molly, is a professional bodyguard and mercenary who has undergone extensive cybernetic enhancements, including retractable blades beneath her fingernails and mirrored lenses surgically implanted over her eyes. Her past includes a history of violence and survival in the underworld of the Sprawl, shaped by a tough upbringing and immersion in criminal and corporate conflicts. Her augmentations aid her in both combat and stealth, making her a formidable and respected figure."
+    },
+    {
+      "title": "Personality",
+      "body": "Molly embodies a blend of toughness and vulnerability. She projects a cold, detached exterior, shaped by years of experiencing betrayal and exploitation, but also displays loyalty and a strong moral code beneath her mercenary facade. She is emotionally guarded, pragmatic, and fiercely independent, yet forms a complex emotional connection with Case. Molly’s narrative voice is marked by grit and street-smart cynicism tempered by subtle compassion."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Neuromancer,' Molly functions as both protector and partner to Henry Case, facilitating his journey through dangerous environments both physical and virtual. She acts as a bodyguard, enforcer, and foil, representing the human element intertwined with cybernetic enhancement. Her skills and presence balance Case’s technical abilities, enabling their survival and success in the novel’s complex web of espionage and AI manipulation. Molly’s character also exemplifies Gibson’s exploration of identity and embodiment in a cybernetic age."
+    },
+    {
+      "title": "Relationships",
+      "body": "Molly’s primary relationship is with Henry Case, developing from professional collaborators into a complicated romantic dynamic. She is fiercely loyal to those she trusts but wary of attachments due to her harsh experiences. Her interactions with other characters—including the mysterious Armitage and shadowy corporate entities—highlight her status as a tool and player within larger power struggles. Molly’s autonomy and humanity amidst augmentation raise thematic questions about individuality."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Molly's trademark features include cybernetic reflex enhancements, retractable surgical blades under her fingernails, and mirrored eye implants granting her advanced visual capabilities. These augmentations make her a deadly combatant skilled in hand-to-hand fighting, assassination, and tactical operations. Additionally, she displays proficiency in stealth, infiltration, and firearms, complemented by streetwise intuition and survival skills crucial in the Sprawl’s harsh environments."
+    }
+  ],
+  "aliases": [
+    "Molly",
+    "Street Samurai",
+    "Mirror-Eyed Molly"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d8b0039a-8bb0-4f52-9053-f303e3e6d398"
+    }
+  ],
+  "properties": {
+    "role": "Deuteragonist",
+    "augmented": true,
+    "skills": [
+      "combat",
+      "assassination",
+      "tactical support"
+    ],
+    "nationality": "American"
+  },
+  "tags": [
+    "character",
+    "cyberpunk",
+    "mercenary",
+    "cybernetic enhancement",
+    "street samurai",
+    "William Gibson"
+  ]
+}

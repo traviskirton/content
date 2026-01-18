@@ -32,6 +32,10 @@
     {
       "type": "doubled_for",
       "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "featured_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
     }
   ],
   "properties": {
@@ -52,5 +56,6 @@
       "tours-available",
       "historical"
     ]
-  }
+  },
+  "tags": []
 }

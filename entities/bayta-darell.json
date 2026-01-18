@@ -1,0 +1,62 @@
+{
+  "id": "b346f270-fb23-4090-9e6c-c4b6d7bbbf95",
+  "type": "character",
+  "name": "Bayta Darell",
+  "description": "A courageous and intelligent woman who plays a critical role in thwarting the Mule's conquest and aiding the Foundation.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Bayta Darell is a member of the influential Darell family with deep roots in Foundation society. She emerges as a key figure during the conflict with the Mule, demonstrating remarkable bravery, intuition, and moral fortitude. As a woman of strong will and intellect, she becomes pivotal in uncovering the truth about the Mule and rallying resistance."
+    },
+    {
+      "title": "Personality",
+      "body": "Bayta is perceptive, compassionate, and determined, combining a heartfelt concern for the welfare of others with a strategic mind. She exhibits resilience under pressure and a willingness to take risks when necessary. Her empathy and sense of justice guide her actions, making her a natural leader and a heroine in face of seemingly insurmountable odds."
+    },
+    {
+      "title": "Story Role",
+      "body": "Bayta takes center stage in the resistance against the Mule's domination. Her discovery of critical information about the Mule's limitations and vulnerabilities is instrumental in turning the tide. Throughout the narrative, she acts as a beacon of hope and a force of human will that challenges the deterministic outlook of psychohistory."
+    },
+    {
+      "title": "Relationships",
+      "body": "Bayta is married to Toran Darell, forming a powerful partnership grounded in mutual respect and shared purpose. She also allies closely with Lathan Devers, working in concert to counter the Mule’s influence. Bayta’s relationships are marked by trust and genuine commitment to preserving the future of the Foundation."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Besides her sharp intelligence and tactical insight, Bayta displays courage and quick thinking in dangerous situations. She is skilled in negotiation and uses her emotional intelligence to influence and motivate others. Bayta’s ability to perceive the psychological and emotional elements beneath events allows her to navigate complex political landscapes and expose hidden threats."
+    }
+  ],
+  "aliases": [
+    "Lady Darell",
+    "Bayta",
+    "Darell"
+  ],
+  "relationships": [
+    {
+      "type": "spouse_of",
+      "target": "3be1ba69-3c1c-4b44-bde8-e13db2e69a54"
+    },
+    {
+      "type": "ally_of",
+      "target": "65c334b1-03e0-4d97-bc87-7d06bbf68f44"
+    },
+    {
+      "type": "enemy_of",
+      "target": "b51fdbe5-3b66-4b84-9b83-298df591d245"
+    }
+  ],
+  "properties": {
+    "origin": "Foundation",
+    "role": "Key protagonist",
+    "alignment": "Foundation loyalist",
+    "social_status": "Noble family"
+  },
+  "tags": [
+    "Heroine",
+    "Foundation",
+    "Resistance",
+    "Darell Family",
+    "Science Fiction",
+    "Psychological Insight",
+    "Psychohistory"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "aa6fe840-4d12-4b7d-a68e-4b0b8be846d6",
+  "type": "location",
+  "name": "221B Baker Street",
+  "description": "The famous address in London where Sherlock Holmes and Dr. John Watson reside and conduct their detective work in 'A Study in Scarlet'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "221B Baker Street is the fictional London residence and office of the legendary detective Sherlock Holmes and his companion Dr. John Watson. Serving as the hub for their investigative activities, it is described as a comfortable yet modest apartment located in the Baker Street area of London. The site is iconic in detective literature and has become synonymous with Holmes himself."
+    },
+    {
+      "title": "Appearance",
+      "body": "The rooms at 221B Baker Street are depicted as a furnished flat with a sitting room filled with books, scientific equipment, and various artifacts related to Holmes' cases. It exudes the atmosphere of Victorian-era London, blending intellectual rigor with practical utility. The setting is intimate, fostering a conducive environment for deduction and discussion."
+    },
+    {
+      "title": "History",
+      "body": "Writers like Arthur Conan Doyle popularized 221B Baker Street as the residence of Sherlock Holmes starting with 'A Study in Scarlet'. Although the building number did not originally exist in the real Baker Street, the address became a cultural landmark. In later years, it inspired museum exhibits and tourist attractions celebrating Holmes’ legacy."
+    },
+    {
+      "title": "Story Significance",
+      "body": "221B Baker Street acts as the narrative's central location where Holmes and Watson meet, collaborate, and solve mysteries. It also symbolizes the intellectual heart of the detective’s operations and serves as a counterpoint to the various locations of crime they investigate. The site anchors the story's plot and character interactions."
+    }
+  ],
+  "aliases": [
+    "Baker Street",
+    "Holmes' Apartment",
+    "Sherlock Holmes' Residence"
+  ],
+  "relationships": [
+    {
+      "type": "residence_of",
+      "target": "749fc445-2e2d-4548-8d94-d4683da833e7"
+    },
+    {
+      "type": "residence_of",
+      "target": "ef5b2a12-9673-4b7f-a816-946d3a0e2b45"
+    },
+    {
+      "type": "residence_of",
+      "target": "6a0e6af5-e237-462e-9d5a-a3ba0c6b5fb9"
+    }
+  ],
+  "properties": {
+    "address": "221B Baker Street, London",
+    "era": "Victorian",
+    "building_type": "Apartment",
+    "famous_residents": "Sherlock Holmes, Dr. John Watson",
+    "literary_importance": "High"
+  },
+  "tags": [
+    "A Study in Scarlet",
+    "location",
+    "home",
+    "Victorian London",
+    "Sherlock Holmes",
+    "literary setting",
+    "fictional location"
+  ]
+}

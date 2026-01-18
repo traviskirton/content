@@ -1,0 +1,47 @@
+{
+  "id": "fa700adb-e857-4e77-b0eb-b0bd8a8030e6",
+  "type": "location",
+  "name": "Geneva (Bond)",
+  "description": "A luxurious European city serving as a key diplomatic and espionage setting within the James Bond series.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Geneva, as depicted in Bond narratives, combines its real-world status as a hub of international diplomacy with fictional intrigue involving espionage and covert operations. The city provides a backdrop of elegance and political complexity that complements the espionage genre."
+    },
+    {
+      "title": "Appearance",
+      "body": "The portrayal of Geneva includes scenic views of Lake Geneva, iconic landmarks such as the Jet d'Eau, and sophisticated urban architecture. Stylish hotels, exclusive clubs, and official consulates create environments reflective of high society and secretive meetings."
+    },
+    {
+      "title": "History",
+      "body": "Historically renowned for hosting peace talks and international organizations, Geneva is imagined in the Bond universe as a crossroads for spies, diplomats, and criminals alike. Its neutrality and political significance make it a logical site for clandestine missions."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In Bond storylines, Geneva facilitates interactions between characters of varying political and espionage backgrounds. It often serves as the locale for plots involving secret deals, intelligence exchanges, and high-stakes negotiations, underscoring its role as an international intelligence nexus."
+    }
+  ],
+  "aliases": [
+    "Swiss Geneva",
+    "City of Peace",
+    "Lake Geneva City"
+  ],
+  "relationships": [],
+  "properties": {
+    "country": "Switzerland",
+    "known_for": "Diplomacy and espionage",
+    "climate": "Temperate",
+    "genre_role": "International diplomatic hub",
+    "appears_in": [
+      "Goldfinger (movie)"
+    ]
+  },
+  "tags": [
+    "James Bond",
+    "Espionage",
+    "European City",
+    "Diplomatic Hub",
+    "International",
+    "Luxury"
+  ]
+}

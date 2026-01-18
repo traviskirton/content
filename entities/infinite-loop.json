@@ -1,0 +1,61 @@
+{
+  "id": "0a824e12-7862-4a10-9d62-e5613a7e8f9a",
+  "type": "location",
+  "name": "Infinite Loop",
+  "description": "The historic former corporate headquarters of Apple Inc., a street and campus complex in Cupertino serving as Apple's home before Apple Park.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Infinite Loop refers to the original Apple corporate campus located on Infinite Loop street in Cupertino, California. It was the company's headquarters from the late 1990s until 2017, when the new Apple Park campus opened. The site includes several office buildings arranged in a loop, interconnected to facilitate collaboration."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Infinite Loop campus spans multiple low-rise buildings numbered 1 through 6, characterized by modern office layouts, large glass windows, and minimalist design, reflecting Apple's aesthetic. The buildings are situated within well-manicured grounds featuring walking paths, plazas, and Apple-themed landscaping, providing employees with spaces for informal meetings and relaxation."
+    },
+    {
+      "title": "History",
+      "body": "Apple's Infinite Loop campus was acquired and developed primarily in the late 1990s and early 2000s during Apple's renaissance under Steve Jobs. It housed critical departments including engineering, marketing, and executive offices, witnessing pivotal product developments such as the iMac, iPhone, and iPad. Infinite Loop was synonymous with Apple's comeback and rapid growth in the tech industry."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'Creative Selection,' Infinite Loop represents the starting point for Apple's modern innovation journey. The site signifies a phase of cultural and creative transformation within the company that laid the groundwork for the company's world-changing products and philosophies exemplified in later works and the Apple Campus."
+    },
+    {
+      "title": "Legacy and Transition",
+      "body": "Though largely replaced by Apple Park as Apple's corporate headquarters, Infinite Loop remains an operational campus housing certain teams and serves as a symbolic site embodying Apple's evolution. It remains a point of interest for historians, employees, and fans reflecting on Apple's history."
+    }
+  ],
+  "aliases": [
+    "Apple Infinite Loop",
+    "IL Campus",
+    "Apple HQ (Old)",
+    "Cupertino Campus",
+    "Infinite Loop Street"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "predecessor_to",
+      "target": "5b7f9e4c-6e26-4e88-ace0-a8795114adf7"
+    }
+  ],
+  "properties": {
+    "location": "Cupertino, California",
+    "established": "1990s",
+    "number_of_buildings": 6,
+    "purpose": "Corporate Headquarters",
+    "current_use": "Mixed, some teams remain"
+  },
+  "tags": [
+    "technology",
+    "corporate_culture",
+    "history",
+    "apple_inc",
+    "headquarters",
+    "campus",
+    "cupertino"
+  ]
+}

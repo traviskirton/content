@@ -1,0 +1,66 @@
+{
+  "id": "f571c85e-fd0f-448a-a9f3-64c9e8c3d36f",
+  "type": "person",
+  "name": "Andy Garcia",
+  "description": "American actor known for his role as Vincent Mancini in The Godfather Part III.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Andy Garcia was born on April 12, 1956, in Havana, Cuba. His family emigrated to the United States when he was a child, settling in Miami, Florida. Garcia's background as a Cuban-American helped shape his nuanced portrayals in Hollywood, especially his roles that explore complex identities and cultural heritage. Over the decades, he has become widely respected for his charismatic presence and powerful performances in film and television."
+    },
+    {
+      "title": "Career",
+      "body": "Garcia's career spans several decades with a variety of roles in both independent and major studio films. He garnered widespread attention with his performances in movies such as The Untouchables (1987), when he portrayed the mobster George Stone, and The Godfather Part III (1990), in which he played Vincent Mancini, the illegitimate son of Sonny Corleone. Garcia has also worked as a director and producer, adding to his multifaceted career in the entertainment industry."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Among Garcia's most acclaimed roles are Vincent Mancini in The Godfather Part III, for which he received Golden Globe and Academy Award nominations. Other highlights include his roles in When a Man Loves a Woman, Ocean's Eleven and its sequels, and the biographical film The Lost City. His versatility allows him to navigate crime dramas, romantic roles, and ensemble casts with equal skill."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Andy Garcia is known for his intense and charismatic screen presence, often portraying characters with depth and complexity, especially within the gangster genre. His Cuban heritage and bilingual abilities have widened the scope of his roles, contributing to representation in Hollywood. Garcia's performances are marked by a blend of subtlety and intensity that gives life to conflicted, authoritative characters."
+    }
+  ],
+  "aliases": [
+    "Andrés Arturo García Menéndez",
+    "Vincent Mancini Actor",
+    "Andy"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a34e10f7-2f77-48bd-803f-efa34f19c87f"
+    },
+    {
+      "type": "colleague",
+      "target": "9ade6ec2-703e-425c-8abe-8a6a5a3fbe55"
+    },
+    {
+      "type": "colleague",
+      "target": "5f7e92e6-2291-4741-8691-252c88e411fe"
+    },
+    {
+      "type": "colleague",
+      "target": "ae37ba0f-5c7e-4da9-afe6-ab0f35c47e10"
+    },
+    {
+      "type": "colleague",
+      "target": "3b5e9ed9-96f9-4b63-807c-fb7deef5765f"
+    }
+  ],
+  "properties": {
+    "birth_date": "1956-04-12",
+    "nationality": "American",
+    "occupation": "Actor, Director",
+    "awards": "Golden Globe Nominee, Academy Award Nominee",
+    "active_years": "1978–present"
+  },
+  "tags": [
+    "actor",
+    "Hollywood",
+    "The Godfather Part III",
+    "crime drama",
+    "Cuban-American",
+    "Vincent Mancini"
+  ]
+}

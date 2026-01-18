@@ -1,0 +1,60 @@
+{
+  "id": "c4824b5c-f2ec-4c99-b07a-5cd2befd8a9d",
+  "type": "item",
+  "name": "Group Thirteen",
+  "description": "An elite and secretive faction within British intelligence, known for its high-level operations and controversial role in Cold War espionage.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Group Thirteen is an enigmatic and highly secretive division within the British intelligence community depicted in 'Smiley's People'. Operating at the highest levels of espionage and counter-espionage, it undertakes sensitive assignments that often skirt official policies and legal boundaries. Its members are handpicked for their skills and loyalty, entrusted with operations critical to national security and often involving deception at the state level."
+    },
+    {
+      "title": "Structure",
+      "body": "The internal structure of Group Thirteen is deliberately opaque, with compartmentalization to protect its members and operations. It operates under the Directorate of Operations but maintains autonomous control over its agents and missions. Leadership within Group Thirteen consists of senior intelligence officers who manage covert operatives, coordinate clandestine actions, and oversee high-risk intelligence coups. The group maintains a tight security protocol, using code names and secure locations to conduct meetings and planning."
+    },
+    {
+      "title": "History",
+      "body": "Formed during the Cold War to counter Soviet espionage, Group Thirteen emerged from a need for a more ruthless and effective intelligence cell within British services. Over time, it built a reputation for successfully penetrating enemy networks and executing covert sabotage. However, its methods brought controversy, including allegations of unauthorized spying, manipulation, and political interference. In 'Smiley's People', Group Thirteen's legacy is complicated by betrayal and espionage scandals that challenge its integrity."
+    },
+    {
+      "title": "Goals",
+      "body": "The primary goal of Group Thirteen is to maintain Britain's strategic advantage against the Soviet Union by any means necessary. This goal involves intelligence gathering, recruiting and handling double agents, executing covert operations, and undermining enemy spy networks. It prioritizes operational success and secrecy, sometimes at the cost of moral ambiguity. Group Thirteen is also tasked with protecting the security of its own agents from exposure, often engaging in internal surveillance to hunt leaks or moles within the service."
+    },
+    {
+      "title": "Key Members",
+      "body": "Members of Group Thirteen include senior figures within 'The Circus,' the British intelligence service, and operatives skilled in tradecraft, analysis, and field operations. Although most remain unnamed or known by cryptic aliases, George Smiley's career and investigations frequently intersect with the group's actions, revealing its influence and reach. The group is associated with a select cadre of intelligence officers who command respect and fear, emphasizing professionalism combined with ruthless practicality."
+    }
+  ],
+  "aliases": [
+    "13th Group",
+    "Thirteen",
+    "Section 13",
+    "Smiley's Inner Circle"
+  ],
+  "relationships": [
+    {
+      "type": "associated_with",
+      "target": "b2bd4e7b-d440-4f9f-97cd-b59d43935bf9"
+    },
+    {
+      "type": "involved_in",
+      "target": "d4395616-2c5b-4e2c-a14c-f1c33038f43f"
+    }
+  ],
+  "properties": {
+    "type": "Secret Intelligence Division",
+    "jurisdiction": "British Intelligence",
+    "activity_period": "Cold War era",
+    "operational_secrecy": "Extreme",
+    "notable_operations": "Counterintelligence, mole hunting"
+  },
+  "tags": [
+    "intelligence",
+    "Cold War",
+    "espionage",
+    "British intelligence",
+    "covert operations",
+    "Smiley's People",
+    "secret group"
+  ]
+}

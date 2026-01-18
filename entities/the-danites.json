@@ -1,0 +1,51 @@
+{
+  "id": "91362f92-2b44-44c3-8bae-98fcee6288f3",
+  "type": "organization",
+  "name": "The Danites",
+  "description": "A secretive and militant group within the Mormon community in the 19th century, known for enforcing discipline and exacting violent retribution.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Danites were an infamous, clandestine group formed in the early 1840s within the Church of Jesus Christ of Latter-day Saints (LDS Church). They operated as a paramilitary organization tasked with protecting the community and punishing dissenters or enemies. Though their existence is debated, historical accounts and fiction portray them as a band of avengers enforcing order through intimidation and violence."
+    },
+    {
+      "title": "Structure",
+      "body": "Operating covertly, the Danites were composed of select members from the Mormon community, often led by influential church figures or local commanders. They employed a hierarchical structure with secret codes, rituals, and oaths of loyalty binding members. Their operations were highly secretive, exercising control through fear and swift justice without public oversight."
+    },
+    {
+      "title": "History",
+      "body": "The Danites emerged amid religious persecution and conflict faced by Mormons during the 1830s and 1840s in the American West, especially Missouri and Illinois. Their alleged activities included intimidating critics, protecting LDS leaders, and addressing internal lawlessness. The organization became notorious during the Missouri Mormon War and the troubles in Nauvoo, eventually fading as the LDS Church distanced itself from vigilantism."
+    },
+    {
+      "title": "Goals",
+      "body": "The primary goal of the Danites was to safeguard the Mormon community from external threats and internal dissent. They sought to uphold religious purity, defend against persecution, and ensure the community’s cohesion. This often involved extrajudicial measures aimed at enemies or apostates, reflecting the turbulent environment of the period."
+    },
+    {
+      "title": "Key Members",
+      "body": "Historical records suggest that prominent Mormon leaders like Joseph Smith and leaders in the Nauvoo period had indirect or direct connections to the Danites, though their exact involvement is disputed. In fictionalized accounts such as 'A Study in Scarlet,' the Danites are dramatized as a secretive, fearsome order linked to dark deeds and vengeance within the Mormon settlements."
+    }
+  ],
+  "aliases": [
+    "Danite Band",
+    "Danite Order",
+    "Mormon Danites",
+    "The Destroying Angels"
+  ],
+  "relationships": [],
+  "properties": {
+    "founded": "circa 1838",
+    "region": "Missouri, Illinois, Utah",
+    "type": "Militant Sect",
+    "affiliation": "LDS Church (historical)",
+    "status": "Defunct"
+  },
+  "tags": [
+    "Mormon history",
+    "militant groups",
+    "secret societies",
+    "religious persecution",
+    "vigilantism",
+    "19th century America",
+    "paramilitary"
+  ]
+}

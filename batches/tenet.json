@@ -1,0 +1,109 @@
+{
+  "source": "Tenet",
+  "entities": [
+    {
+      "type": "person",
+      "name": "John David Washington"
+    },
+    {
+      "type": "person",
+      "name": "Robert Pattinson"
+    },
+    {
+      "type": "person",
+      "name": "Elizabeth Debicki"
+    },
+    {
+      "type": "person",
+      "name": "Kenneth Branagh"
+    },
+    {
+      "type": "person",
+      "name": "Dimple Kapadia"
+    },
+    {
+      "type": "person",
+      "name": "Aaron Taylor-Johnson"
+    },
+    {
+      "type": "person",
+      "name": "Clémence Poésy"
+    },
+    {
+      "type": "person",
+      "name": "Himesh Patel"
+    },
+    {
+      "type": "movie",
+      "name": "Tenet"
+    },
+    {
+      "type": "character",
+      "name": "The Protagonist"
+    },
+    {
+      "type": "character",
+      "name": "Neil"
+    },
+    {
+      "type": "character",
+      "name": "Kat"
+    },
+    {
+      "type": "character",
+      "name": "Andrei Sator"
+    },
+    {
+      "type": "character",
+      "name": "Priya"
+    },
+    {
+      "type": "character",
+      "name": "Ives"
+    },
+    {
+      "type": "character",
+      "name": "Barbara"
+    },
+    {
+      "type": "location",
+      "name": "Kyiv Opera House"
+    },
+    {
+      "type": "location",
+      "name": "Freeport"
+    },
+    {
+      "type": "location",
+      "name": "Tallinn"
+    },
+    {
+      "type": "location",
+      "name": "Stalsk-12"
+    },
+    {
+      "type": "location",
+      "name": "Mumbai"
+    },
+    {
+      "type": "location",
+      "name": "Amalfi Coast"
+    },
+    {
+      "type": "organization",
+      "name": "Tenet Organization"
+    },
+    {
+      "type": "item",
+      "name": "Algorithm"
+    },
+    {
+      "type": "item",
+      "name": "Inverted Bullets"
+    },
+    {
+      "type": "item",
+      "name": "Turnstile"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "138bfb20-630b-46b4-b189-0aff46f8f309",
+  "type": "character",
+  "name": "Sally Shears",
+  "description": "A street-smart and independently wealthy figure operating in the Sprawl, Sally Shears is a former prostitute turned formidable mercenary in 'Mona Lisa Overdrive'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Sally Shears emerged from the gritty underworld of the Sprawl, initially surviving through sex work during her youth in a sprawling cyberpunk megacity. Her natural shrewdness, combined with an innate talent for survival and combat, allowed her to transition from the shadows into the mercenary and information brokering scene. She maintains a fractured but complex relationship with her own past, reflecting themes of identity and redemption. The character’s background also highlights the harsh realities faced by women in the dystopian future of William Gibson's Work, where personal agency is hard-earned."
+    },
+    {
+      "title": "Personality",
+      "body": "Sally is fiercely independent, pragmatic, and pragmatic yet deeply guarded about her emotions and past. She exudes toughness tempered by wit and a keen tactical mind, which she applies both in combat and in navigating the political machinations of corporate and criminal factions. While appearing insular, she develops a strong sense of loyalty to those who earn her trust. Sally's internal conflict stems from reconciling her traumatic experiences with her growing desire for genuine connection and control over her destiny."
+    },
+    {
+      "title": "Story Role",
+      "body": "Sally plays a major role in 'Mona Lisa Overdrive' as a lynchpin character whose actions influence corporate intrigue and character fates alike. Employed as a bodyguard and mercenary, Sally becomes entwined with powerful interests and other protagonists, acting as a protector and sometimes instigator. Her past and skills position her uniquely within the narrative, bridging worlds of street-level survival and high-tech espionage. Sally's journey intertwines with themes of transformation and the impact of technology on identity."
+    },
+    {
+      "title": "Relationships",
+      "body": "Sally Shears is connected to various players in the Sprawl’s shadow economy, including connections to Kumiko Yanaka, with whom she cooperates tactically. She is somewhat estranged from her former life but is still impacted by lingering relationships. Her alliances are pragmatic, operating in an environment where loyalty is often fleeting. These interactions deepen her character's development and emphasize the isolation and complexity of interpersonal dynamics within the cyberpunk setting."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Sally is highly skilled in hand-to-hand combat, firearm use, and cybernetic augmentations that enhance her physical prowess. Her experience in high-risk environments has made her adept at quick decision-making and tactical planning. In addition to physical skills, Sally possesses streetwise intelligence, allowing her to negotiate and manipulate underworld contacts. Her mercenary work is backed by a combination of cybernetic enhancements and traditional combat training, making her a deadly asset in both physical and digital arenas."
+    }
+  ],
+  "aliases": [
+    "Sally",
+    "The Shears",
+    "Mercenary Sally",
+    "Blade Runner"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d8b0039a-8bb0-4f52-9053-f303e3e6d398"
+    },
+    {
+      "type": "ally_of",
+      "target": "2a931b3a-cd8e-4a0f-a91e-9872a0719e46"
+    }
+  ],
+  "properties": {
+    "origin": "The Sprawl",
+    "profession": "Mercenary/Bodyguard",
+    "background": "Former prostitute",
+    "cybernetic_enhancements": true
+  },
+  "tags": [
+    "cyberpunk",
+    "mercenary",
+    "female protagonist",
+    "Mona Lisa Overdrive",
+    "William Gibson",
+    "Sprawl Trilogy",
+    "combat specialist",
+    "augmented"
+  ]
+}

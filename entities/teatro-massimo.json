@@ -1,0 +1,47 @@
+{
+  "id": "bdc3e95b-f6a8-4d27-86ca-646f4d330e6b",
+  "type": "location",
+  "name": "Teatro Massimo",
+  "description": "Teatro Massimo in Palermo is a majestic opera house featured prominently in The Godfather Part III, notable for its dramatic setting.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Teatro Massimo is Italy's largest opera house and one of the most famous theatrical venues in Europe. Located in Palermo, Sicily, it boasts exceptional acoustics and grandiose architecture. In The Godfather Part III, the theatre's opulent interiors and exterior staircases provide a symbolic and atmospheric setting for pivotal scenes, reflecting themes of drama, culture, and the making of destiny."
+    },
+    {
+      "title": "Appearance",
+      "body": "The building is distinguished by its neoclassical façade, impressive Corinthian columns, and vast marble staircases, which lend a regal and solemn atmosphere. Inside, the decor features lavish gilding, intricate frescoes, and sumptuous velvet upholstery, evoking the splendor of Italian opera culture. The film captures the theatre’s elegance and the aura of performance and spectacle."
+    },
+    {
+      "title": "History",
+      "body": "Construction of Teatro Massimo began in the 1870s and took over two decades to complete, with its grand opening in 1897. It was designed by architect Giovanni Battista Filippo Basile and later completed by his son, Ernesto Basile. The theatre is historically significant as a cultural landmark of Sicily, symbolizing the island's artistic heritage and resilience."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Within The Godfather Part III, Teatro Massimo serves as the backdrop to critical narrative moments, including performances that echo the opera of tragedy occurring within the Corleone family. The opera house embodies the collision of culture and crime, beauty and brutality, underscoring the film’s exploration of legacy, betrayal, and redemption. The theatre’s staircase is famously the site of a key violent climax."
+    }
+  ],
+  "aliases": [
+    "Massimo Theatre",
+    "Teatro Massimo Vittorio Emanuele",
+    "Palermo Opera House"
+  ],
+  "relationships": [],
+  "properties": {
+    "location": "Palermo, Sicily, Italy",
+    "type": "Opera House",
+    "capacity": 1380,
+    "year_opened": 1897,
+    "architects": "Giovanni Battista Filippo Basile, Ernesto Basile"
+  },
+  "tags": [
+    "The Godfather Part III",
+    "location",
+    "opera house",
+    "Palermo",
+    "Sicily",
+    "architecture",
+    "Italian culture",
+    "film setting"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "96059f19-8c34-4f67-8bfb-f0e3c311bd07",
+  "type": "item",
+  "name": "Glamdring",
+  "description": "A legendary Elven sword known as the 'Foe-hammer', wielded by Gandalf, shining blue in the presence of orcs.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Glamdring is an ancient Elven blade, crafted in Gondolin and renowned for its power and heritage. It was found by Gandalf in the troll-hoard along with Orcrist and Sting and serves as his primary weapon throughout Middle-earth's great conflicts. Known as the 'Foe-hammer,' Glamdring is revered both for its combat prowess and symbolic importance, representing the enduring struggle against darkness."
+    },
+    {
+      "title": "Appearance",
+      "body": "The sword is described as magnificent and finely made, with a long, silver-blue blade that glows brightly in the presence of orcs and goblins. Its hilt is fashioned with elegant Elven motifs that denote its craftsmanship, giving Glamdring a regal and timeless look. The blade is balanced and effective, befitting a wizard of great power."
+    },
+    {
+      "title": "Function",
+      "body": "Apart from being an exceptionally well-forged sword, Glamdring possesses a magical property to glow blue near orcs and goblins, allowing Gandalf to sense danger. Its sharp edge and strength enable Gandalf to combat formidable foes, including goblins, trolls, and other malevolent creatures encountered during his journeys across Middle-earth."
+    },
+    {
+      "title": "History",
+      "body": "Forged in the hidden Elven city of Gondolin, Glamdring was wielded by Turgon, King of Gondolin, in ancient times before being lost in the cataclysm that destroyed the city. Rediscovered in the troll hoard by Gandalf before the quest to Erebor, it was a token linking the past glories of Elven realms to the present struggle against evil. Glamdring features in both The Hobbit and The Lord of the Rings."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Glamdring's significance extends beyond combat; it serves as a symbol of hope and endurance against darkness. As Gandalf's main weapon, it personifies his role as protector and guide to the forces opposing evil. It also reflects the deep history of Middle-earth’s ancient races and their contributions to the story’s outcome."
+    }
+  ],
+  "aliases": [
+    "Foe-hammer",
+    "Elven sword Glamdring",
+    "Gandalf's sword"
+  ],
+  "relationships": [
+    {
+      "type": "wielded_by",
+      "target": "668d4c66-92e8-4b6e-b695-bd9fd6283f22"
+    }
+  ],
+  "properties": {
+    "type": "Sword",
+    "origin": "Elven, Gondolin",
+    "magic_property": "Glows blue near orcs/goblins",
+    "material": "Elven steel"
+  },
+  "tags": [
+    "The Hobbit",
+    "The Lord of the Rings",
+    "Elven",
+    "Sword",
+    "Magic",
+    "Fantasy"
+  ]
+}

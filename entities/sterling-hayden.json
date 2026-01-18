@@ -1,0 +1,56 @@
+{
+  "id": "65b5f31d-fbb9-4ef7-80f9-b08094bf5dbc",
+  "type": "person",
+  "name": "Sterling Hayden",
+  "description": "Sterling Hayden was an American actor and author, known for his commanding presence and roles in classic films from the 1940s to the 1980s.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Born on March 26, 1916, Sterling Hayden was an accomplished actor and author who gained fame for his rugged looks and intense screen presence. Originally a sailor and adventurer, Hayden's varied life experiences enriched his acting career. He was also known for his work as an author, writing memoirs that detailed his life away from Hollywood. Hayden passed away in 1986, leaving behind a legacy of significant roles in classic cinema."
+    },
+    {
+      "title": "Career",
+      "body": "Sterling Hayden's acting career began in the 1940s, with standout roles in film noir and westerns. He starred in notable films such as 'The Asphalt Jungle' (1950), 'The Godfather' (1972), and 'Dr. Strangelove' (1964). His distinctive on-screen persona often cast him as authoritative or intimidating characters, contributing to his iconic status in American cinema. Hayden worked with some of the most renowned directors of his time, including Francis Ford Coppola and Stanley Kubrick."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Among his most memorable roles was Captain McCluskey, a corrupt police officer in 'The Godfather' (1972). He also portrayed General Jack D. Ripper in 'Dr. Strangelove' and starred in 'The Asphalt Jungle,' which cemented his reputation in film noir. Hayden's ability to embody diverse and complex characters made him a versatile and respected figure in Hollywood."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Hayden's acting style was characterized by a naturalistic intensity and understated toughness, often lending authenticity to his roles. His background as a sailor and his adventurer's spirit imbued him with a rugged charisma that influenced later generations of actors in similar genres. He was also outspoken about the challenges of the Hollywood system, and his memoirs reflect his complex relationship with the industry."
+    }
+  ],
+  "aliases": [
+    "Sterling Hayden",
+    "Captain McCluskey (Role)",
+    "Hollywood Actor",
+    "Author Sterling Hayden"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a34e10f7-2f77-48bd-803f-efa34f19c87f"
+    }
+  ],
+  "properties": {
+    "birth_date": "1916-03-26",
+    "death_date": "1986-05-23",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Author"
+    ],
+    "active_years": "1940-1980s"
+  },
+  "tags": [
+    "actor",
+    "film noir",
+    "classic cinema",
+    "American actors",
+    "1970s films",
+    "Sterling Hayden",
+    "Hollywood",
+    "The Godfather"
+  ]
+}

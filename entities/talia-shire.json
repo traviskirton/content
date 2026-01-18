@@ -1,0 +1,60 @@
+{
+  "id": "bf6a0eae-e87a-42ce-ae55-1c6056ddb70b",
+  "type": "person",
+  "name": "Talia Shire",
+  "description": "American actress best known for her role as Connie Corleone in The Godfather trilogy.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Talia Shire, born Talia Rose Coppola on April 25, 1946, in Lake Success, New York, is an American actress and a member of the prominent Coppola family. She studied at the University of Southern California and has been active in the entertainment industry since the late 1960s. Shire is the sister of director Francis Ford Coppola, who cast her in several family projects."
+    },
+    {
+      "title": "Career",
+      "body": "Shire rose to prominence with her role as Connie Corleone, the strong-willed and emotional sister in The Godfather trilogy. Her portrayal added depth to the family dynamic within the story, illustrating the complexity of women within the mafia world. Beyond The Godfather, Shire gained critical acclaim for her role as Adrian Pennino in the Rocky series, earning Academy Award nominations. Her career is noted for gritty, emotionally charged characters."
+    },
+    {
+      "title": "Notable Works",
+      "body": "In addition to her iconic role as Connie Corleone, Talia Shire is best remembered for playing Adrian in the Rocky films, a role that granted her multiple award nominations. Connie’s character arc in The Godfather captures the struggles of loyalty, family politics, and personal trauma, which Shire portrayed with fierce vulnerability and strength."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Shire's acting style is characterized by a naturalistic and raw emotional approach, effectively conveying the complexity of her characters’ personal and family struggles. Her performances often reveal intense emotional layers beneath a tough exterior, influencing portrayals of women in crime dramas and sports films alike."
+    },
+    {
+      "title": "Awards and Honors",
+      "body": "Throughout her career, Talia Shire received critical recognition with Academy Award nominations for Best Supporting Actress — for The Godfather Part II — and Best Actress — for Rocky. These accolades underscore her skill at delivering compelling and memorable performances in both supporting and leading roles."
+    }
+  ],
+  "aliases": [
+    "Talia Coppola",
+    "Connie Corleone (character portrayal)",
+    "Adrian Pennino"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "family_member",
+      "target": "8e4c5d90-fde9-405f-b387-108f4bf79eda"
+    }
+  ],
+  "properties": {
+    "birth_year": 1946,
+    "nationality": "American",
+    "notable_roles": [
+      "Connie Corleone",
+      "Adrian Pennino"
+    ]
+  },
+  "tags": [
+    "actor",
+    "The Godfather",
+    "crime drama",
+    "American cinema",
+    "Rocky series",
+    "Coppola family",
+    "academy award nominee"
+  ]
+}

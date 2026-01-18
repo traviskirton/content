@@ -48,6 +48,10 @@
     {
       "type": "portrayed_by",
       "target": "f0737a6e-5aef-4b39-b3a6-3e0a8455f1da"
+    },
+    {
+      "type": "appears_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
     }
   ],
   "properties": {

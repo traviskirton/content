@@ -1,0 +1,52 @@
+{
+  "id": "3b10a158-151f-4eb3-9ca1-07e5ed63aaa1",
+  "type": "location",
+  "name": "Bag End",
+  "description": "Bag End is the comfortable and well-known hobbit-hole residence of Bilbo and Frodo Baggins in Hobbiton.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Bag End is a spacious and comfortable hobbit-hole located on the western edge of Hobbiton in the Shire. It is the ancestral home of the Baggins family and is renowned for its hospitality and warmth. Famous locally and beyond, Bag End serves as the starting point for the epic adventures of Bilbo and later Frodo Baggins. Its cozy interior and well-stocked pantries reflect the hobbits' love of comfort, food, and quiet life."
+    },
+    {
+      "title": "Appearance",
+      "body": "Constructed into the side of a hill called The Hill, Bag End features a distinctive round front door painted green with a shiny yellow brass knob in the center. Inside, it boasts multiple rooms including a parlor, dining room, kitchen, bedrooms, and pantries, all adorned with fine furnishings and decorated with an abundance of comfortable and homely items. The entrance is accessed by a stone path, winding through a flowering garden rich with fruit trees and herbs."
+    },
+    {
+      "title": "History",
+      "body": "Bag End was originally built by Bungo Baggins and has been home to the Baggins family for generations. It earned a great reputation for its size and comfort, unusual for hobbit-holes. The residence became legendary when Bilbo Baggins used it as a base for his travels and adventures, and later when Frodo began his quest to destroy the One Ring. Despite the turmoil of the outside world, Bag End remained a symbol of hobbit life and stability."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Bag End serves as the literal and symbolic gateway between the peaceful Shire and the broader, perilous world. It is where Frodo inherits the One Ring, marking the moment when the epic struggle against Sauron begins. The comfort and safety of Bag End contrast with the dangers that lie ahead, underscoring themes of leaving home, courage, and change. It is often referenced as a cherished, ideal place to which the characters long to return."
+    }
+  ],
+  "aliases": [
+    "Baggins' Home",
+    "The Hobbit-hole",
+    "Baggins Family Residence",
+    "The Hill-hole"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "e495ac26-3f0a-4ea4-9a83-39b85871f45b"
+    }
+  ],
+  "properties": {
+    "type": "Hobbit-hole",
+    "owner": "Baggins family",
+    "location": "Hobbiton",
+    "construction": "Underground dugout",
+    "era": "Third Age"
+  },
+  "tags": [
+    "Shire",
+    "Hobbits",
+    "Residence",
+    "Home",
+    "Hobbit-hole",
+    "Setting",
+    "Middle-earth"
+  ]
+}

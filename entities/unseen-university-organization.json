@@ -1,0 +1,56 @@
+{
+  "id": "327c5b8d-cc4c-4f7a-9b6c-b0ac28cbd8e3",
+  "type": "organization",
+  "name": "Unseen University (Organization)",
+  "description": "The premier magical institution in Ankh-Morpork, where wizards study the arcane arts under a shroud of eccentricity and tradition.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Unseen University is the principal school of magic on the Discworld, situated in the city of Ankh-Morpork. Despite its grand name and historical importance, the university is notorious for its chaotic magical experiments, cumbersome bureaucracy, and the incompetent but brilliant faculty it employs. The university is housed in an imposing, labyrinthine building filled with ancient tomes, magical artifacts, and a wide variety of enchanted rooms. It serves as both a seat of arcane learning and a center of political power among the wizarding community."
+    },
+    {
+      "title": "Structure",
+      "body": "The university is organized around several key departments focused on different aspects of magic, including thaumaturgy, necromancy, and alchemy. It is headed by the Archchancellor, who oversees the faculty and administration. Beneath him are the various chairs occupied by senior wizards, who typically wield significant influence both within and outside the university. The university also employs novice wizards and apprentices, who often find themselves caught between rigorous study and the peculiar dangers of their teachers’ experiments. The institution also maintains the iconic library, considered one of the most important repositories of magical knowledge."
+    },
+    {
+      "title": "History",
+      "body": "Founded many centuries ago, Unseen University has a storied history full of similar misadventures and breakthroughs. It has survived numerous magical disasters, political intrigues, and turf wars with other magical practitioners. Significant historical events include its role in times of crisis for the city of Ankh-Morpork and its ongoing rivalry with the Wizards’ Conclave and various other magical factions on the Disc. Over the years, it has produced some of the most notable wizards in Discworld lore, serving as a bastion of magical education and eccentricity."
+    },
+    {
+      "title": "Goals",
+      "body": "The stated goal of Unseen University is the pursuit and advancement of magical knowledge for the betterment of magic and its practitioners. However, in practice, the university often focuses on maintaining its own power and prestige, grooming wizards for positions of influence, and ensuring that the delicate balance of magic on the Disc is preserved. Many of its activities, while outwardly scholarly, often align with the interests of the city’s political elite, making the university a player in Ankh-Morpork’s complex political landscape."
+    },
+    {
+      "title": "Key Members",
+      "body": "Notable figures at the university include the Archchancellor Mustrum Ridcully, renowned for his blunt and practical approach to wizardry; the Librarian, an orangutan who guards the magical tomes with intelligence and occasional ferocity; and various senior wizards such as Ponder Stibbons, who represents a new, more empirical approach to magic. These members illustrate the balance between tradition and innovation that defines the university."
+    }
+  ],
+  "aliases": [
+    "UU",
+    "Unseen Uni",
+    "The University",
+    "Discworld University of Magic"
+  ],
+  "relationships": [
+    {
+      "type": "has_member",
+      "target": "59a8c7f4-6d9e-4ab3-97ed-3dd77e68eabd"
+    }
+  ],
+  "properties": {
+    "location": "Ankh-Morpork",
+    "founded": "Ancient times (exact unknown)",
+    "affiliation": "Wizards",
+    "notable_building": "The University itself",
+    "arcane_focus": true
+  },
+  "tags": [
+    "magic",
+    "education",
+    "organization",
+    "fictional_university",
+    "Discworld",
+    "fantasy",
+    "wizards"
+  ]
+}

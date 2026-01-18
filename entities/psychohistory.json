@@ -1,0 +1,64 @@
+{
+  "id": "d57efa78-eb1f-4a04-b1ae-598328f5655d",
+  "type": "item",
+  "name": "Psychohistory",
+  "description": "Psychohistory is a fictional scientific discipline that combines history, sociology, and mathematical statistics to predict the future behavior of large populations.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Psychohistory is a branch of social science developed in Isaac Asimov's Foundation universe, which allows the modeling and prediction of mass human behavior over large populations and long time spans. It uses complex statistical laws and mathematical modeling to foresee likely socio-political developments and guide strategic actions."
+    },
+    {
+      "title": "Function",
+      "body": "Unlike traditional prediction methods, psychohistory does not attempt to forecast individual behavior but rather the probabilistic outcomes of groups numbering in the millions or billions. It applies mathematical equations to vast datasets of historical, economic, and cultural information to generate statistically reliable projections of the future."
+    },
+    {
+      "title": "Appearance",
+      "body": "Psychohistory is an abstract scientific discipline rather than a tangible object; however, its results are encoded in detailed models, charts, and algorithms tightly guarded by the Foundation's leaders. It requires significant computational power and access to large-scale historical data, interpreted through specially developed algorithms."
+    },
+    {
+      "title": "History",
+      "body": "Developed by Hari Seldon, psychohistory was formulated during the late stages of the Galactic Empire. Its first public use was the Seldon Plan, designed to shorten the anticipated period of galactic chaos and ensure the rapid rise of a new civilization. Despite skepticism and opposition, psychohistory's predictions have repeatedly proven accurate over successive crises."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Psychohistory is central to the Foundation series, serving as the intellectual underpinning of the plot's progression. It drives the strategic decisions of the Foundation characters and frames the narrative structure around the unfolding of Seldon's predicted events. The science symbolizes the triumph of reason and structured thought over chaos and randomness."
+    }
+  ],
+  "aliases": [
+    "Seldon’s Psychohistory",
+    "Mathematical Sociology",
+    "Predictive Social Science"
+  ],
+  "relationships": [
+    {
+      "type": "created_by",
+      "target": "b418b4d6-d755-4f48-a615-9a1d5b5f3c5d"
+    },
+    {
+      "type": "used_by",
+      "target": "4e8ca927-012a-4b0e-94ef-59f1e2a9ab2e"
+    },
+    {
+      "type": "applies_to",
+      "target": "1fa5b055-3c7f-4dad-9ef4-2a961a9a90ca"
+    }
+  ],
+  "properties": {
+    "discipline_type": "Mathematical sociology and history",
+    "scope": "Large populations, galactic scale",
+    "predictive_power": "Probabilistic future events prediction",
+    "founder": "Hari Seldon",
+    "role_in_series": "Foundational scientific principle"
+  },
+  "tags": [
+    "science_fiction",
+    "mathematics",
+    "sociology",
+    "Isaac Asimov",
+    "Future prediction",
+    "Foundation series",
+    "social science",
+    "psychohistory"
+  ]
+}

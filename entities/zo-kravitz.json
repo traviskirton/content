@@ -32,6 +32,10 @@
     {
       "type": "acted_in",
       "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
+    },
+    {
+      "type": "portrays",
+      "target": "d89e052c-4577-4753-a15c-3b890c6576df"
     }
   ],
   "properties": {

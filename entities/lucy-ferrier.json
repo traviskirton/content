@@ -1,0 +1,57 @@
+{
+  "id": "ef5b2a12-9673-4b7f-a816-946d3a0e2b45",
+  "type": "character",
+  "name": "Lucy Ferrier",
+  "description": "Daughter of John Ferrier and a tragic figure in 'A Study in Scarlet', whose fate triggers the novel's central revenge plot.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Lucy Ferrier is the daughter of John Ferrier, a central figure in the backstory of 'A Study in Scarlet'. After surviving a massacre that kills the rest of their party, Lucy and her father are taken under the protection of the Mormon community. Lucy's upbringing is marked by hardship and tragedy, culminating in circumstances that profoundly affect the novel's primary narrative and the ensuing quest for justice."
+    },
+    {
+      "title": "Personality",
+      "body": "Lucy is portrayed as gentle, innocent, and devoted to her father, embodying the virtues of kindness and loyalty. Her innocence and vulnerability stand in stark contrast with the harsh desert environment and the brutal fate that awaits her. Despite the tragic circumstances she faces, Lucy's character evokes empathy and underlines themes of loss and injustice."
+    },
+    {
+      "title": "Story Role",
+      "body": "Lucy Ferrier's forced marriage to the Mormon Danite leader, and her subsequent death, trigger Jefferson Hope's vengeful pursuit of those responsible. Lucy represents the victim whose suffering motivates the actions that drive the central mystery. Her story is a poignant catalyst for the emotional and moral underpinnings of Hope's vendetta."
+    },
+    {
+      "title": "Relationships",
+      "body": "Lucy is the daughter of John Ferrier and the object of Jefferson Hope's affection and protection. Her tragic involvement with the Mormon community binds her to key antagonists in the story, including the Mormon elders who enforce the fatal marriage arrangement. Her relationships define the human and emotional stakes of the plot."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Lucy's character is primarily centered on her emotional and symbolic role within the story rather than active skills or abilities. Her resilience and purity serve as narrative devices emphasizing the human cost at the heart of the novel's conflict."
+    }
+  ],
+  "aliases": [
+    "Lucy",
+    "Lucy Ferrier (Miss Ferrier)"
+  ],
+  "relationships": [
+    {
+      "type": "child_of",
+      "target": "6a0e6af5-e237-462e-9d5a-a3ba0c6b5fb9"
+    },
+    {
+      "type": "love_interest_of",
+      "target": "749fc445-2e2d-4548-8d94-d4683da833e7"
+    }
+  ],
+  "properties": {
+    "role": "Victim",
+    "age": "Young adult",
+    "relationship_status": "Forced marriage",
+    "nationality": "American",
+    "story_impact": "Catalyst for revenge"
+  },
+  "tags": [
+    "A Study in Scarlet",
+    "character",
+    "tragic",
+    "female character",
+    "19th century literature",
+    "Sherlock Holmes"
+  ]
+}

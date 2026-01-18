@@ -1,0 +1,53 @@
+{
+  "id": "251b6703-f715-4a13-9bb5-45a716198cdf",
+  "type": "character",
+  "name": "Dr. Toran Darell II",
+  "description": "A prominent scientist and political figure on the First Foundation, father of Arkady Darell and a key player in the galactic conflict.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Dr. Toran Darell II is a renowned scientist and political leader on the planet of the First Foundation. His career is rooted in scientific advancement and governance, contributing to the preservation and strengthening of the Foundation amid threats from outside forces. He comes from a long line of influential Darells, a family often involved in the political and social fabric of the Foundation’s society."
+    },
+    {
+      "title": "Personality",
+      "body": "Dr. Darell is characterized by his integrity, intelligence, and dedication to the First Foundation's ideals. He is pragmatic and sometimes cautious, balancing scientific curiosity with political responsibility. His concern for his daughter Arkady reveals a caring and protective side, even as his public actions focus on broader galactic stability."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Second Foundation', Dr. Toran Darell II is a significant figure dealing with the political upheavals and hidden threats from the Second Foundation and other galactic forces. His actions and decisions influence the unfolding events, setting the stage for Arkady's involvement and the ultimate confrontation between the Foundations."
+    },
+    {
+      "title": "Relationships",
+      "body": "Toran Darell II is the father of Arkady Darell, informing much of her motivations and access to political spheres. He interacts with other First Foundation leaders and scientists, playing a diplomatic and authoritative role. His family’s legacy and reputation provide a backdrop for his participation in the critical events of the story."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Dr. Darell is a skilled politician and scientist, adept in leadership and the application of technological advancements critical to the survival of the First Foundation. While lacking mentalic abilities, he relies on strategic thinking and scientific expertise to navigate the complex challenges posed by his adversaries."
+    }
+  ],
+  "aliases": [
+    "Toran Darell",
+    "Dr. Darell",
+    "Scientist Darell"
+  ],
+  "relationships": [
+    {
+      "type": "father_of",
+      "target": "80bcb71e-7990-4fc9-8a24-c828c164fbc1"
+    }
+  ],
+  "properties": {
+    "species": "Human",
+    "affiliation": "First Foundation",
+    "role": "Scientist and Politician",
+    "gender": "Male"
+  },
+  "tags": [
+    "character",
+    "First Foundation",
+    "scientist",
+    "politician",
+    "family",
+    "science fiction"
+  ]
+}

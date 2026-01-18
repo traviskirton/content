@@ -1,0 +1,64 @@
+{
+  "id": "f77e9aaa-59c3-4fec-9a15-5a4051cc37ba",
+  "type": "character",
+  "name": "Lord Stettin",
+  "description": "A powerful political leader within the First Foundation, known for his influence and ambition during the galaxy’s turbulent era.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Lord Stettin is a leading aristocrat and political figure on the planet Terminus, the homeworld of the First Foundation. He rose from a traditional noble family with considerable resources, using wealth and political savvy to gain significant influence within the Foundation’s governance. Stettin’s tenure is marked by his efforts to consolidate power amidst external threats and internal dissent, making him a key player in the power struggles surrounding the first Foundation."
+    },
+    {
+      "title": "Personality",
+      "body": "Stettin is characterized by his commanding presence and steely resolve. Ambitious and shrewd, he is willing to employ political manipulation and alliances to achieve his aims. At the same time, he is pragmatic and understands the complexities of the Foundation’s precarious position in the galaxy. His leadership is naturally authoritative, inspiring loyalty but also generating opposition."
+    },
+    {
+      "title": "Story Role",
+      "body": "Within 'Second Foundation,' Lord Stettin serves as a significant political rival whose actions inadvertently provide opportunities and challenges to the Second Foundation's objectives. His quest for control and stability represents the overt political ambitions that contrast with the secretive and cerebral influence exercised by the Second Foundation agents. His maneuvers often trigger crises that test the resilience of the psychohistorical design."
+    },
+    {
+      "title": "Relationships",
+      "body": "Stettin’s relationships are firmly rooted within First Foundation political circles, often interacting with figures like @@Preem Palver@@. His rivalry and occasional alliances with other power brokers shape the strategic environment. While aware of the Second Foundation’s rumored existence, he remains focused on consolidating overt political control rather than confronting hidden powers directly."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Lord Stettin is a consummate politician proficient in negotiation, political strategy, and tactical leadership. His experience navigating crises and managing factions within the First Foundation stands out as his major skills. Although lacking mentalic powers, his keen mind allows him to anticipate moves within the political chess game, sometimes unwittingly playing into the hands of the Second Foundation."
+    }
+  ],
+  "aliases": [
+    "Stettin",
+    "Lord of Terminus",
+    "Political Lord Stettin"
+  ],
+  "relationships": [
+    {
+      "type": "ally_or_rival",
+      "target": "471a8aae-0feb-4e52-bdc6-58f59da2bc2e"
+    },
+    {
+      "type": "part_of",
+      "target": "4e8ca927-012a-4b0e-94ef-59f1e2a9ab2e"
+    }
+  ],
+  "properties": {
+    "affiliation": "First Foundation",
+    "role": "Political leader",
+    "skills": [
+      "political strategy",
+      "leadership",
+      "diplomacy"
+    ],
+    "species": "Human",
+    "gender": "Male"
+  },
+  "tags": [
+    "First Foundation",
+    "politics",
+    "nobility",
+    "science fiction",
+    "Foundation Series",
+    "Isaac Asimov",
+    "character",
+    "first-foundation"
+  ]
+}

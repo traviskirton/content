@@ -64,6 +64,10 @@
     {
       "type": "distributed_by",
       "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "filmed_in",
+      "target": "5de86068-a215-4f6d-a874-3d9ddb2b83b7"
     }
   ],
   "properties": {
@@ -83,6 +87,7 @@
     "2000s",
     "drama",
     "cult",
-    "Christopher Nolan"
+    "Christopher Nolan",
+    "christopher-nolan"
   ]
 }

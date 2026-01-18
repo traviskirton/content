@@ -1,0 +1,62 @@
+{
+  "id": "9d5bb3a3-d2ed-4544-9282-1bbf4def1829",
+  "type": "person",
+  "name": "James Caan",
+  "description": "An American actor best known for his role as Sonny Corleone in The Godfather, known for his charismatic and intense performances.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "James Langston Edmund Caan was born on March 26, 1940, in The Bronx, New York City. With a career spanning from the early 1960s until his passing, Caan earned fame for his compelling portrayals of complex characters, balancing vulnerability with raw energy. His background in acting includes theater and film roles across various genres."
+    },
+    {
+      "title": "Career",
+      "body": "Caan shot to fame with his portrayal of Sonny Corleone in 'The Godfather' (1972), a role that showcased his ability to embody volatile and passionate characters. He continued his career with significant roles in films like 'Misery,' 'Rollerball,' and 'Elf,' demonstrating range and versatility."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Sonny Corleone marked Caan’s breakout role, earning him critical acclaim and an Academy Award nomination. His performances are often marked by their emotional intensity and rugged charm. Over his career, he has maintained respect for delivering memorable and multi-dimensional characters."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "James Caan was known for his gritty and authentic acting style, often portraying characters with a fierce emotional edge. His naturalistic approach helped redefine tough, charismatic roles in American cinema, influencing the portrayal of similar characters in crime and action films."
+    },
+    {
+      "title": "Legacy",
+      "body": "Caan remains a celebrated figure in Hollywood, particularly for his iconic role in The Godfather. His work contributed significantly to the portrayal of complex masculinity in film and continues to be admired for its passion and authenticity."
+    }
+  ],
+  "aliases": [
+    "Sonny Corleone",
+    "James Langston Caan",
+    "Jim Caan"
+  ],
+  "relationships": [
+    {
+      "type": "portrays",
+      "target": "37f90f75-1f4c-4d85-8d2e-eafcebb09118"
+    },
+    {
+      "type": "worked_with",
+      "target": "3a0c7f6d-9b31-478c-a716-f3fdbc3b10e7"
+    }
+  ],
+  "properties": {
+    "birth_date": "1940-03-26",
+    "death_date": null,
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "awards": "Academy Award Nominee",
+    "active_years": "1961-2022"
+  },
+  "tags": [
+    "actor",
+    "crime films",
+    "The Godfather",
+    "American cinema",
+    "method acting",
+    "character actor",
+    "drama"
+  ]
+}

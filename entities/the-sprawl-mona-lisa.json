@@ -1,0 +1,48 @@
+{
+  "id": "7b82cfcf-99e7-4ae1-bd76-216dd38c3720",
+  "type": "location",
+  "name": "The Sprawl (Mona Lisa)",
+  "description": "The Sprawl is a vast, sprawling megalopolis where much of 'Mona Lisa Overdrive' unfolds, characterized by its dense urban landscape and cybernetic social structures.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Sprawl, also known as the Boston-Cyberabad Metropolitan Axis (BAMA), is an immense urban conglomeration extending along the U.S. East Coast. It is a chaotic fusion of towering skyscrapers, slums, neon-lit streets, and endless cyberspace networks. The Sprawl embodies the essence of William Gibson’s cyberpunk universe, representing both technological marvel and social decay. It plays host to diverse characters engaged in hacking, corporate espionage, and survival strategies amidst a fractured societal structure dominated by corporate interests and underground factions."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Sprawl is visually overwhelming, dominated by labyrinthine architecture with a mixture of sleek corporate towers and neglected, dangerous neighborhoods. Neon signs, holographic advertisements, and digital billboards create a sensory overload. Streets are congested with vehicles, pedestrians, and street-level commerce, while the ever-present network infrastructure overlays the physical cityscape. Above all, it reflects a blend of futuristic technology and grim dystopia, where urban blight and high-tech development coexist uncomfortably."
+    },
+    {
+      "title": "History",
+      "body": "The Sprawl arose from decades of unchecked urban growth, technological innovation, and economic stratification. It evolved out of the ruins of former cities after ecological and societal collapse forced the population into densely packed metropolitan zones. Corporations and governments ceded control over vast sectors to private entities, creating power vacuums exploited by criminal organizations and rogue AIs. The Sprawl's history is marked by conflicts over data control, population displacement, and technological evolution that define Gibson’s vision of a near-future society."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'Mona Lisa Overdrive', the Sprawl is not simply a backdrop but an active participant in the story. It shapes the lives and choices of characters like Kumiko and Sally, influencing their access to technology, alliances, and threats. The city is a terrain of contested power, where data is currency and survival requires mastery of both the physical and digital realms. The Sprawl encapsulates core cyberpunk themes such as the alienation in hyper-technological society, the corrosion of traditional institutions, and the persistent struggle for individual autonomy."
+    }
+  ],
+  "aliases": [
+    "BAMA",
+    "Boston-Cyberabad Metropolitan Axis",
+    "Urban Sprawl",
+    "Sprawl"
+  ],
+  "relationships": [],
+  "properties": {
+    "type": "Megalopolis",
+    "region": "U.S. East Coast",
+    "population": "Millions",
+    "technology_level": "Highly advanced",
+    "dominant_features": "Cybernetics, data networks"
+  },
+  "tags": [
+    "location",
+    "cyberpunk",
+    "megalopolis",
+    "urban dystopia",
+    "Mona Lisa Overdrive",
+    "William Gibson",
+    "The Sprawl Trilogy",
+    "future city"
+  ]
+}

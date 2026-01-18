@@ -1,0 +1,68 @@
+{
+  "id": "8567f7a2-0349-4a4d-9ed8-0173d917a9f5",
+  "type": "character",
+  "name": "Tom Hagen (Duvall)",
+  "description": "Tom Hagen, played by Robert Duvall, is the Corleone family’s adopted son and trusted consigliere known for his calm, diplomatic approach and legal expertise.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Tom Hagen was taken in as an orphan by Vito Corleone after losing his biological parents. Raised as a member of the family, he was educated in law and skilled in western etiquette, bridging the world of legitimate business and organized crime. As the Corleone family's official consigliere, Hagen handles legal affairs, strategy, and negotiations, becoming the family’s key advisor and problem solver."
+    },
+    {
+      "title": "Personality",
+      "body": "Tom’s personality contrasts with the often volatile nature of the Corleone family, marked by his calm, pragmatic, and intellectually analytical demeanor. He is marked by loyalty, discretion, and professionalism, balancing the brutality of the family’s business with a sense of legal and moral boundaries. His stoicism and unemotional approach make him a stabilizing force."
+    },
+    {
+      "title": "Story Role",
+      "body": "As consigliere, Tom plays an essential role managing the Corleone family's dealings both in legal contexts and within the mafia’s treacherous environment. He assists in strategic decisions and acts as a liaison between the family and political or business entities. His measured counsel supports both Vito and later Michael in consolidating and expanding the family’s power."
+    },
+    {
+      "title": "Relationships",
+      "body": "Tom is Vito Corleone's adopted son and close confidant, enjoying a relationship akin to a biological sibling with Michael, Sonny, and Fredo. His bond with the family hinges on mutual respect and trust. Externally, he interacts with rival mafia families and political figures, negotiating alliances and resolving conflicts with discretion. His professional demeanor often sets him apart from others within the criminal underworld."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Tom Hagen possesses legal expertise, understanding of criminal codes, and diplomatic skills that are invaluable to the family’s operations. His strategic thinking and calm under pressure enable him to negotiate complex deals and manage sensitive situations. He also demonstrates a keen political sense and the ability to mediate disputes, acting as an effective and respected consigliere."
+    }
+  ],
+  "aliases": [
+    "Consigliere Hagen",
+    "Tom",
+    "Adopted Corleone Son",
+    "Corleone Advisor"
+  ],
+  "relationships": [
+    {
+      "type": "adopted_son_of",
+      "target": "f3055e19-9313-4e9f-8f78-6a6769c4b5c7"
+    },
+    {
+      "type": "brother_like",
+      "target": "aa2046b8-1cee-4191-9143-c73dce383d64"
+    },
+    {
+      "type": "brother_like",
+      "target": "2f54a3f3-f041-44b4-8932-9d2b23e7b0e9"
+    },
+    {
+      "type": "brother_like",
+      "target": "2a8e89d1-e285-4c03-876f-82ece94d0476"
+    }
+  ],
+  "properties": {
+    "occupation": "Consigliere",
+    "nationality": "German-Irish American",
+    "portrayed_by": "Robert Duvall",
+    "relationship_to_family": "Adopted Son"
+  },
+  "tags": [
+    "The Godfather",
+    "mafia",
+    "consigliere",
+    "legal advisor",
+    "Duvall",
+    "Corleone family",
+    "strategist",
+    "crime drama"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "d51bb3af-aa0f-4edd-b9ae-645a1d1f9945",
+  "type": "organization",
+  "name": "Pussy Galore's Flying Circus",
+  "description": "An all-female aerial stunt team led by Pussy Galore, playing a pivotal role in the events of 'Goldfinger'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Pussy Galore's Flying Circus is a highly skilled, all-female group of pilots and stunt performers specializing in aerobatic maneuvers and precision flying. Known for their daring aerial displays, the group functions as both an entertainment troupe and an auxiliary force within Auric Goldfinger's criminal operations."
+    },
+    {
+      "title": "Structure",
+      "body": "The organization is hierarchically led by Pussy Galore, who commands respect and authority among her team of pilots. Members are trained rigorously in various aspects of aviation, from stunt flying to formation flying, and the unit operates out of a specialized airfield equipped to support their performances and covert missions."
+    },
+    {
+      "title": "History",
+      "body": "Founded as an independent stunt flying troupe, Pussy Galore's Flying Circus was co-opted into Goldfinger's plans due to their unique skills and capabilities. Their expertise in airborne operations and evasive maneuvers made them valuable assets in executing Goldfinger's schemes to evade detection and safeguard his interests."
+    },
+    {
+      "title": "Goals",
+      "body": "Primarily aiming to showcase aviation artistry, the organization also serves Goldfinger’s agenda by providing aerial surveillance, transportation, and tactical support. Members initially aligned with the antagonist, but key events, including interactions with James Bond, challenge their loyalties and objectives."
+    },
+    {
+      "title": "Key Members",
+      "body": "The most prominent figure is Pussy Galore, whose leadership combines charisma, skill, and tactical acumen. Other members, while less individually characterized, contribute significantly to the organization’s collective prowess in complex aerial operations and form a close-knit unit reinforced by trust and shared experience."
+    }
+  ],
+  "aliases": [
+    "Pussy Galore's Circus",
+    "Flying Circus",
+    "Pussy Galore's Air Troupe",
+    "Goldfinger's Flying Circus"
+  ],
+  "relationships": [],
+  "properties": {
+    "type": "Aerial stunt team",
+    "leader": "Pussy Galore",
+    "affiliation": "Auric Goldfinger",
+    "function": "Aerial stunt performances and covert operations",
+    "appears_in": [
+      "Goldfinger (movie)"
+    ]
+  },
+  "tags": [
+    "James Bond",
+    "Goldfinger",
+    "Aviation",
+    "Spy Fiction",
+    "Female Pilots",
+    "Villain Organization",
+    "Flying Circus"
+  ]
+}

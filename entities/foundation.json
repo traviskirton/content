@@ -1,0 +1,71 @@
+{
+  "id": "7fd2fc7e-9c20-4c82-a5d5-9357db638226",
+  "type": "book",
+  "name": "Foundation",
+  "description": "Foundation is the first book in Isaac Asimov's Foundation Series, collecting early short stories about the attempt to preserve knowledge amidst a collapsing galactic empire.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Originally published as a series of short stories in Astounding Magazine in the early 1940s, 'Foundation' was later collected into a single volume in 1951. It introduces the concept of psychohistory and the establishment of the Foundation, a scientific refuge tasked with preserving human knowledge. The stories explore key crises the Foundation faces, blending political strategy with scientific foresight."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "'Foundation' follows mathematician Hari Seldon, who predicts the inevitable fall of the Galactic Empire and the dark age that will follow. To reduce this period of chaos, Seldon creates the Foundation on a remote planet to compile and protect human knowledge. The book details the Foundation’s early challenges, including political manipulation, trade monopolies, and confrontations with diminishing imperial forces."
+    },
+    {
+      "title": "Themes",
+      "body": "Key themes include the power of knowledge as a tool for societal preservation, the conflict between technological progress and political power, and the tension between deterministic science and unpredictable human behavior. The book also examines themes of leadership, survival, and the ethical implications of guiding societies."
+    },
+    {
+      "title": "Reception",
+      "body": "Critically acclaimed since its release, 'Foundation' is considered foundational (pun intended) to modern science fiction. It won the inaugural Hugo Award for Best All-Time Series (in 1966, for the series as a whole). The narrative style and ideas have influenced numerous authors and thinkers, cementing Asimov's status as a visionary writer."
+    },
+    {
+      "title": "Impact",
+      "body": "'Foundation' set the stage for a rich universe that would expand across multiple volumes and inspire adaptations in diverse media. Its success popularized serialized storytelling in science fiction and introduced large-scale speculative sociopolitical science to a wide readership."
+    }
+  ],
+  "aliases": [
+    "Foundation (1951)",
+    "Foundation (Novel)",
+    "First Foundation",
+    "Original Foundation Book"
+  ],
+  "relationships": [
+    {
+      "type": "author",
+      "target": "a7d81242-1f49-4f49-bc68-9bb3f929d6e5"
+    },
+    {
+      "type": "part_of_franchise",
+      "target": "f0d9fb2a-0f3e-446a-9a1d-2db988b68967"
+    },
+    {
+      "type": "features_character",
+      "target": "cc15c2e4-13b8-4e1b-867e-112f66a93662"
+    },
+    {
+      "type": "features_character",
+      "target": "ce8943af-4d82-4e8a-86b0-f0fa30b71877"
+    }
+  ],
+  "properties": {
+    "publication_year": 1951,
+    "genres": [
+      "science fiction",
+      "speculative fiction"
+    ],
+    "format": "novel",
+    "original_format": "serialized short stories",
+    "pages": 255
+  },
+  "tags": [
+    "science fiction",
+    "classic",
+    "psychohistory",
+    "Galactic Empire",
+    "Isaac Asimov",
+    "novel",
+    "serialized stories"
+  ]
+}

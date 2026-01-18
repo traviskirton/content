@@ -1,0 +1,68 @@
+{
+  "id": "3a0c7f6d-9b31-478c-a716-f3fdbc3b10e7",
+  "type": "person",
+  "name": "Francis Ford Coppola",
+  "description": "An influential American filmmaker renowned for directing The Godfather trilogy and reshaping the landscape of modern cinema.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Born on April 7, 1939, in Detroit, Michigan, Francis Ford Coppola is a celebrated director, screenwriter, and producer. From his early days studying film at UCLA to becoming a leading figure in the New Hollywood movement, Coppola's work merges artistic innovation with narrative depth. His upbringing in a creative Italian-American family profoundly influenced his storytelling focus."
+    },
+    {
+      "title": "Career",
+      "body": "Coppola began his career directing films in the 1960s, but his rise to prominence came with the release of The Godfather in 1972. He went on to direct two sequels, both critically lauded, especially The Godfather Part II, which won multiple Oscars. Beyond the trilogy, his work includes 'Apocalypse Now,' 'The Conversation,' and various other films that are pillars of American cinema."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Coppola’s filmography is highlighted by masterpieces such as 'The Godfather' series and 'Apocalypse Now' (1979). These works earned him multiple Academy Awards, including Best Director and Best Picture, establishing his reputation as one of cinema’s greatest auteurs."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Known for his meticulous visual style, in-depth character studies, and exploration of family and power, Coppola has influenced countless filmmakers. His use of color, shadow, and narrative complexity set a new benchmark for Hollywood storytelling, inspiring generations in both independent and mainstream cinema."
+    },
+    {
+      "title": "Legacy",
+      "body": "Francis Ford Coppola is widely recognized as a pivotal figure in 20th-century American cinema. His contributions helped usher in the era of auteur-driven Hollywood and his films continue to be studied and revered for their artistry, cultural resonance, and technical achievements."
+    }
+  ],
+  "aliases": [
+    "F. F. Coppola",
+    "Frank Coppola",
+    "Director Coppola"
+  ],
+  "relationships": [
+    {
+      "type": "director_of",
+      "target": "37f90f75-1f4c-4d85-8d2e-eafcebb09118"
+    },
+    {
+      "type": "directed",
+      "target": "c4da1933-fd4a-4d12-b162-56aa2b8fab63"
+    },
+    {
+      "type": "directed",
+      "target": "d5f5bf96-6e3b-4d6f-b32b-32b91a67b1c8"
+    }
+  ],
+  "properties": {
+    "birth_date": "1939-04-07",
+    "nationality": "American",
+    "occupation": [
+      "Director",
+      "Producer",
+      "Screenwriter"
+    ],
+    "active_years": "1960-present",
+    "awards": "Multiple Academy Awards"
+  },
+  "tags": [
+    "film director",
+    "screenwriter",
+    "producer",
+    "New Hollywood",
+    "American cinema",
+    "auteur",
+    "classic films",
+    "The Godfather"
+  ]
+}

@@ -81,6 +81,22 @@
     {
       "type": "features_location",
       "target": "e1c864e6-a0de-420d-8b0f-36f51a0fdc8b"
+    },
+    {
+      "type": "filmed_in",
+      "target": "7f2e64b4-d234-468a-bad5-398f1e34e2a9"
+    },
+    {
+      "type": "filmed_in",
+      "target": "ecf87b10-d3f5-4832-9c1a-3e1bfaea6abc"
+    },
+    {
+      "type": "filmed_in",
+      "target": "e6ac1f30-0d01-4c84-9c18-9ae8f13f4ef2"
+    },
+    {
+      "type": "filmed_in",
+      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
     }
   ],
   "properties": {
@@ -103,6 +119,7 @@
     "classic",
     "blockbuster",
     "scientific",
-    "war"
+    "war",
+    "christopher-nolan"
   ]
 }

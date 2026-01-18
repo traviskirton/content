@@ -1,0 +1,57 @@
+{
+  "id": "77c93881-41eb-4d35-b5df-6d58954d1b33",
+  "type": "character",
+  "name": "Gollum",
+  "description": "A tragic creature torn between his loyalty and obsession with the One Ring, originally named Sméagol, pivotal to Frodo and Sam's journey.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Gollum was once a Stoor Hobbit named Sméagol who fell under the corruptive influence of the One Ring after murdering his cousin Déagol to possess it. Over centuries, the Ring's power twisted him into the twisted, emaciated creature known as Gollum. He lived in the dark tunnels beneath the Misty Mountains, obsessed and enslaved by the Ring, calling it 'my precious.' His long life and transformation symbolize the consuming nature of greed and power."
+    },
+    {
+      "title": "Personality",
+      "body": "Gollum's personality is defined by duality and conflict; he displays two identities—Gollum, the Ring-obsessed and malicious side, and Sméagol, his former, more innocent self. This schism is evident in his internal dialogues, expressing both cunning and vulnerability. He is sly, obsessive, and dangerous yet pitiable, eliciting both fear and sympathy. His fixation on the Ring drives his actions, often making him unreliable and dangerous to those around him."
+    },
+    {
+      "title": "Story Role",
+      "body": "Gollum is crucial in The Two Towers as the guide for Frodo and Sam through the dangerous terrains of Mordor. His intimate knowledge of the land and obsession with reclaiming the Ring shape much of the narrative tension. He embodies the theme of corruption and the Ring's seductive power. His conflicting loyalty—sometimes aiding Frodo, sometimes plotting to betray him—creates a complex and tragic figure central to the story’s climax."
+    },
+    {
+      "title": "Relationships",
+      "body": "Gollum has a complex relationship with Frodo and Sam; Frodo treats him with pity and tries to redeem him, seeing a reflection of his own burden, whereas Sam distrusts and despises him as a threat. He also has a dark past marked by his relation to Déagol, the victim of his original betrayal. Gollum’s relationship with the Ring is the most profound, as it utterly defines his identity and destiny."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Gollum is highly stealthy, surviving for many years in isolated caves, adept at moving silently and hunting for food. He possesses an uncanny knowledge of the secret paths leading into Mordor, making him an invaluable yet dangerous guide. His agility and survival skills are notable, and his sharp senses compensate for his frail appearance. However, his obsession with the Ring often clouds his judgment."
+    }
+  ],
+  "aliases": [
+    "Sméagol",
+    "Stinker",
+    "Creature",
+    "Wretched One"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "851e34d9-5dfc-4e4d-b3b7-78613af03cb2"
+    }
+  ],
+  "properties": {
+    "species": "Hobbit (Stoor)",
+    "alignments": "Neutral Evil",
+    "origin": "Misty Mountains",
+    "notable_item": "The One Ring",
+    "age": "Approximately 500+ years"
+  },
+  "tags": [
+    "corruption",
+    "ring-bearer",
+    "tragic",
+    "antihero",
+    "fantasy",
+    "middle-earth",
+    "hobbit",
+    "character"
+  ]
+}

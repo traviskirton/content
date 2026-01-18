@@ -36,6 +36,10 @@
     {
       "type": "worked_with",
       "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "acted_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
     }
   ],
   "properties": {

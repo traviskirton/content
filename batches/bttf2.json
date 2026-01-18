@@ -1,0 +1,105 @@
+{
+  "source": "Back to the Future Part II",
+  "entities": [
+    {
+      "type": "movie",
+      "name": "Back to the Future Part II"
+    },
+    {
+      "type": "location",
+      "name": "Cafe 80's"
+    },
+    {
+      "type": "location",
+      "name": "Hill Valley 2015"
+    },
+    {
+      "type": "location",
+      "name": "Hilldale"
+    },
+    {
+      "type": "location",
+      "name": "Biff Tannen's Pleasure Paradise"
+    },
+    {
+      "type": "location",
+      "name": "Alternate 1985 Hill Valley"
+    },
+    {
+      "type": "character",
+      "name": "Old Biff Tannen"
+    },
+    {
+      "type": "character",
+      "name": "Griff Tannen"
+    },
+    {
+      "type": "character",
+      "name": "Marlene McFly"
+    },
+    {
+      "type": "character",
+      "name": "Marty McFly Jr."
+    },
+    {
+      "type": "item",
+      "name": "Gray's Sports Almanac"
+    },
+    {
+      "type": "item",
+      "name": "Hoverboard"
+    },
+    {
+      "type": "item",
+      "name": "Mr. Fusion"
+    },
+    {
+      "type": "item",
+      "name": "Self-Lacing Nikes"
+    },
+    {
+      "type": "character",
+      "name": "Marty McFly"
+    },
+    {
+      "type": "character",
+      "name": "Doc Brown"
+    },
+    {
+      "type": "character",
+      "name": "Biff Tannen"
+    },
+    {
+      "type": "character",
+      "name": "Lorraine Baines"
+    },
+    {
+      "type": "character",
+      "name": "George McFly"
+    },
+    {
+      "type": "character",
+      "name": "Jennifer Parker"
+    },
+    {
+      "type": "location",
+      "name": "Hill Valley"
+    },
+    {
+      "type": "location",
+      "name": "Courthouse Square"
+    },
+    {
+      "type": "location",
+      "name": "Lyon Estates"
+    },
+    {
+      "type": "location",
+      "name": "McFly Residence"
+    },
+    {
+      "type": "vehicle",
+      "name": "DeLorean Time Machine"
+    }
+  ]
+}

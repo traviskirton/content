@@ -1,0 +1,61 @@
+{
+  "id": "9e0b61d4-e799-4b6a-8f03-912f29eca130",
+  "type": "character",
+  "name": "Percy Alleline",
+  "description": "Director of Operations for the Circus, an ambitious and politically savvy spymaster whose leadership is ultimately undermined by the presence of a Soviet mole.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Percy Alleline is an upper-echelon British intelligence officer who rose to the position of Head of the Circus’s operative branch. Coming from a moderately comfortable middle-class background, he worked his way up through bureaucratic maneuvering and efficiency. Alleline's tenure came at a turbulent period of the Cold War when anxieties about espionage and leaks were rife. His ambition and eagerness to prove himself saw his rise to power, backed by strong political connections."
+    },
+    {
+      "title": "Personality",
+      "body": "Alleline is characterized by his smooth charm, political acumen, and ambition. Unlike the old-school spy masters of bygone eras, he is more pragmatic and sometimes cynical about the workings of intelligence and state apparatus. He is perceptive about power dynamics within the Circus but less insightful about personal loyalties, which blinds him to internal treachery. His leadership style is more managerial than hands-on, relying heavily on trust in his inner team."
+    },
+    {
+      "title": "Story Role",
+      "body": "As the Circus's Director of Operations, Alleline represents the new leadership succeeding Control. His tenure is overshadowed by the betrayal of the mole he trusted. He spearheads the Circus during a period of critical intelligence operations, including attempts to control the Circus through the 'Witchcraft' operation. His failure to detect the mole leads to a crisis of confidence and a covert investigation led by George Smiley."
+    },
+    {
+      "title": "Relationships",
+      "body": "Alleline surrounds himself with a close inner circle, including colleagues like Roy Bland and Toby Esterhase, whose loyalty helps cement his authority. His relationship with Bill Haydon is professional but cautious. He holds a somewhat political rivalry and suspicion toward Smiley, whom he underestimates. Alleline's connections to the establishment support his rise but ultimately fail to protect him from downfall."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Alleline's principal strengths lie in organizational leadership, political strategy, and intelligence management. He excels at navigating bureaucratic politics and leveraging alliances but lacks the deeper intuition and operational expertise of field agents like Smiley. His reliance on ciphers and technical operations highlights a preference for data over human intelligence, a critical shortcoming in identifying the mole."
+    }
+  ],
+  "aliases": [
+    "Director of Operations",
+    "Percy",
+    "The Soldier"
+  ],
+  "relationships": [
+    {
+      "type": "colleague",
+      "target": "3de7ab58-1d6a-4538-9608-8843a87480c9"
+    },
+    {
+      "type": "colleague",
+      "target": "bc41ff39-1acd-4f29-ac0e-9a22640b4c5c"
+    },
+    {
+      "type": "associate",
+      "target": "2fa86052-cb8b-4e1a-9ec5-1e81a1025b62"
+    }
+  ],
+  "properties": {
+    "Position": "Director of Operations",
+    "Nationality": "British",
+    "Leadership Style": "Political",
+    "Status": "Disgraced"
+  },
+  "tags": [
+    "Espionage",
+    "Cold War",
+    "British Intelligence",
+    "Bureaucratic",
+    "Mole Scandal",
+    "Tinker Tailor Soldier Spy"
+  ]
+}

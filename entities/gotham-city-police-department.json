@@ -44,6 +44,10 @@
     {
       "type": "rivals_with",
       "target": "1a03f4d0-5132-475b-8b52-ba48966705d1"
+    },
+    {
+      "type": "contains",
+      "target": "c5d8e1f3-8c6f-47aa-bb98-23f0c8e8c5d1"
     }
   ],
   "properties": {

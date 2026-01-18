@@ -42,6 +42,26 @@
     {
       "type": "spin_off_of",
       "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    },
+    {
+      "type": "includes",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "includes",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "part_of",
+      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+    },
+    {
+      "type": "includes",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "filmed_in",
+      "target": "a7b9806d-4c68-4a0f-9671-ead5f36b3b3f"
     }
   ],
   "properties": {
@@ -56,6 +76,7 @@
     "action",
     "thriller",
     "film-series",
-    "modern"
+    "modern",
+    "the-dark-knight-trilogy"
   ]
 }

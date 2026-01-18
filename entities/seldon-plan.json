@@ -1,0 +1,61 @@
+{
+  "id": "eb917d41-36a2-41b8-bbbc-28e5be5c80a7",
+  "type": "item",
+  "name": "Seldon Plan",
+  "description": "A grand, predictive strategy developed by Hari Seldon to shorten the impending galactic dark ages and guide the future of humanity.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Seldon Plan is a complex, long-term predictive framework created by the mathematician Hari Seldon using the science of psychohistory. It forecasts the collapse of the Galactic Empire and prescribes a course of action to reduce the expected period of chaos from 30,000 years to a mere 1,000. The Plan relies on guiding historical currents and mass psychology instead of individual actions, making it a probabilistic blueprint for shaping the future."
+    },
+    {
+      "title": "Function",
+      "body": "Functioning as both a preventative and corrective mechanism, the Seldon Plan is designed to steer major political, economic, and social forces toward an orderly Galactic civilization rebirth. By manipulating variables within vast populations and epochs, it aims to avoid catastrophic failures, minimize conflict, and ensure continuity of knowledge and culture amidst collapse."
+    },
+    {
+      "title": "History",
+      "body": "Developed during the final centuries of the Galactic Empire, Hari Seldon mathematically formulated the Plan after recognizing the inevitability of imperial decay. The plan was kept largely secret and encoded within crises known as 'Seldon Crises,' which test and reaffirm its effectiveness. The formation of the Foundation at the galaxy's periphery marks the first step to implementing the Plan."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Seldon Plan provides the backbone to the entire 'Foundation' series by Isaac Asimov. It shapes the narrative tension, as characters must adapt when unexpected variables appear, particularly during the Seldon Crises. The Plan's interplay with fate, free will, and unpredictability drives the saga's philosophical and thematic core."
+    },
+    {
+      "title": "Implications and Controversies",
+      "body": "While the Plan assumes masses act predictively, individual deviations and anomalies challenge its infallibility. Story arcs explore the consequences when the plan is threatened by mutations in psychohistorical trends, inspiring debates on determinism versus individual influence, and the ethics of manipulating civilizations for a presumed greater good."
+    }
+  ],
+  "aliases": [
+    "Psychohistory Plan",
+    "Foundation Plan",
+    "Seldon's Predictive Scheme",
+    "Galactic Rebirth Blueprint"
+  ],
+  "relationships": [
+    {
+      "type": "central_to",
+      "target": "4e6c3f79-072d-4b10-8c87-cc7f5244c7cd"
+    },
+    {
+      "type": "created_by",
+      "target": "b418b4d6-d755-4f48-a615-9a1d5b5f3c5d"
+    }
+  ],
+  "properties": {
+    "origin": "Galactic Empire Era",
+    "type_of_entity": "Predictive Model",
+    "scope": "Galaxy-wide",
+    "timeframe": "10,000+ years",
+    "predictive_accuracy": "Probabilistic"
+  },
+  "tags": [
+    "psychohistory",
+    "future",
+    "strategy",
+    "science fiction",
+    "Isaac Asimov",
+    "Foundation",
+    "galactic empire",
+    "long-term plan"
+  ]
+}

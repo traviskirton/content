@@ -1,0 +1,52 @@
+{
+  "id": "242675da-6bbd-47cf-920d-5822bcf7addd",
+  "type": "location",
+  "name": "Edoras",
+  "description": "The capital city of Rohan, situated on a hill and home to the Golden Hall of Meduseld.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Edoras is the principal city and capital of the kingdom of Rohan, strategically located on a rocky hill surrounded by fertile plains and visible from miles around. It functions as the political and cultural center of the Rohirrim and the seat of the King of Rohan. Edoras is notable for its historic and architectural importance, including the legendary Golden Hall, Meduseld, which serves as the royal residence and throne room."
+    },
+    {
+      "title": "Appearance",
+      "body": "Perched atop a hill, Edoras overlooks the vast plains of the Riddermark. The city is fortified with wooden palisades and stone structures that reflect the rustic yet functional architecture of the Rohirrim. Meduseld, the Golden Hall, is the most prominent building—adorned with golden thatch-like roofing and carved wooden decorations depicting the kingdom’s history and values. The city's layout is designed to blend with the natural landscape, with simple dwellings and training grounds for warriors surrounding the hall."
+    },
+    {
+      "title": "History",
+      "body": "Edoras has been the royal seat of Rohan since the founding of the kingdom by the ancestors of the Rohirrim. Over the centuries, it has witnessed both peace and conflict, including the challenges posed during Saruman’s uprising in 'The Two Towers.’ It is in Edoras that King Théoden resides before being freed from Saruman's manipulations with Gandalf's aid. The city exemplifies the heritage of the Rohirrim, preserving their customs and leadership structure despite external threats."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Edoras plays a critical role in 'The Two Towers' as the site where key political and personal transformations take place. The reclaiming of Théoden’s will and authority following Gandalf’s intervention marks a turning point in Rohan’s resistance against Saruman. Edoras symbolizes the heart of Rohan's identity and the revival of its strength. It serves as a rallying point for the Rohirrim and a base for organizing the kingdom’s military and strategic efforts, particularly leading to the defense of Helm's Deep."
+    }
+  ],
+  "aliases": [
+    "Capital of Rohan",
+    "City of the Rohirrim",
+    "Meduseld (Golden Hall)",
+    "Royal Seat of Rohan"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "8cdb1f9a-849e-41b2-8d28-7c665a84f3a9"
+    }
+  ],
+  "properties": {
+    "region": "Rohirrim Plains",
+    "architecture_style": "Rustic Medieval",
+    "notable_residence": "Meduseld",
+    "ruler": "King Théoden"
+  },
+  "tags": [
+    "Middle-earth",
+    "City",
+    "Rohan",
+    "The Two Towers",
+    "Medieval",
+    "Fantasy",
+    "Capital",
+    "Royalty"
+  ]
+}

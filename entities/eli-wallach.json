@@ -1,0 +1,58 @@
+{
+  "id": "ae37ba0f-5c7e-4da9-afe6-ab0f35c47e10",
+  "type": "person",
+  "name": "Eli Wallach",
+  "description": "Veteran American actor who played Don Altobello in The Godfather Part III.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Eli Wallach was born on December 7, 1915, in Brooklyn, New York City. He was a prolific actor known for a career that spanned over six decades, involving film, television, and stage. Wallach’s cultural heritage is Jewish, and he was celebrated for his ability to play villains, comic roles, and a variety of character parts with remarkable depth and nuance."
+    },
+    {
+      "title": "Career",
+      "body": "Wallach's illustrious acting career includes iconic roles in classic films such as The Magnificent Seven (1960), The Good, the Bad and the Ugly (1966), and Baby Doll (1956). In The Godfather Part III, he portrayed Don Altobello, an aging Mafia boss entwined in the Corleone family's saga. Wallach’s versatility and distinctive voice made him an indispensable character actor, respected for his professionalism and longevity."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Eli Wallach is best remembered for his contributions to the Western and crime drama genres, with notable performances in The Godfather Part III, The Magnificent Seven, The Good, the Bad and the Ugly, and the stage play The Rose Tattoo. His work earned numerous awards and commendations, including a Tony Award and an Honorary Academy Award later in his career."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Wallach was renowned for his ability to imbue both lead and supporting roles with charisma and emotional complexity. His characters often possessed a blend of menace and humor, making him uniquely resonant in crime and Western films. His influence endures through actors who emulate his naturalistic style and commitment to character."
+    }
+  ],
+  "aliases": [
+    "Eli Herschel Wallach",
+    "Don Altobello Actor",
+    "Eli"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a34e10f7-2f77-48bd-803f-efa34f19c87f"
+    },
+    {
+      "type": "colleague",
+      "target": "f571c85e-fd0f-448a-a9f3-64c9e8c3d36f"
+    },
+    {
+      "type": "colleague",
+      "target": "5f7e92e6-2291-4741-8691-252c88e411fe"
+    }
+  ],
+  "properties": {
+    "birth_date": "1915-12-07",
+    "death_date": "2014-06-24",
+    "nationality": "American",
+    "occupation": "Actor",
+    "active_years": "1945–2010"
+  },
+  "tags": [
+    "actor",
+    "character actor",
+    "The Godfather Part III",
+    "Western films",
+    "Tony Award",
+    "Honorary Oscar"
+  ]
+}

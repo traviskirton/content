@@ -1,0 +1,48 @@
+{
+  "id": "714b2c9e-94ef-4b92-9310-a2f46231ebb8",
+  "type": "item",
+  "name": "Holmes's Magnifying Glass",
+  "description": "A classic magnifying glass used by Sherlock Holmes for close examination of evidence during his cases.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Holmes’s magnifying glass is a quintessential forensic tool symbolizing the detective’s attention to minute details. It embodies his scientific approach to detecting, allowing him to uncover clues that others might overlook and providing a visual means of emphasizing his methodical techniques."
+    },
+    {
+      "title": "Appearance",
+      "body": "The magnifying glass is characterized by a round, polished convex lens set into a silver or brass frame, attached to a slender handle for handheld use. Its design is practical and elegant, fitting with Holmes's Victorian-era style and suitable for rapid inspection of documents, fabrics, and other materials."
+    },
+    {
+      "title": "Function",
+      "body": "Primarily, the magnifying glass assists Holmes in examining tiny physical details such as fibers, fingerprints, or inscriptions. It improves visual clarity and aids in identifying evidence that is critical for solving mysteries, underscoring Holmes's forensic competence."
+    },
+    {
+      "title": "History",
+      "body": "The magnifying glass as an investigative tool predates Holmes, but through the character it became a cultural icon representing deduction and scientific inquiry in detective work. It remains a symbol of Holmes's empirical methods throughout 'A Study in Scarlet' and subsequent stories."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In the narrative of 'A Study in Scarlet', the magnifying glass supports Holmes’s investigative scenes and reinforces the theme that detailed observation can reveal the truth behind complex cases. Its repeated use serves as a narrative device to demonstrate Holmes’s sharp intellect."
+    }
+  ],
+  "aliases": [
+    "Sherlock's Magnifier",
+    "Detective's Magnifying Glass",
+    "Holmes's Lens"
+  ],
+  "relationships": [],
+  "properties": {
+    "material": "Glass lens with metal frame",
+    "period": "Victorian Era",
+    "function": "Evidence examination",
+    "size": "Handheld"
+  },
+  "tags": [
+    "item",
+    "Holmes",
+    "magnifying glass",
+    "forensic tool",
+    "detective accessory",
+    "A Study in Scarlet"
+  ]
+}

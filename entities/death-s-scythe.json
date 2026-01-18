@@ -1,0 +1,52 @@
+{
+  "id": "8ee36b37-f2a1-4ea1-a5ce-f5a7ec689fbc",
+  "type": "item",
+  "name": "Death's Scythe",
+  "description": "The symbolic and deadly weapon wielded by Death, representing his role as the harvester of souls on the Discworld.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Death’s Scythe is the iconic tool of Death himself in the Discworld universe, symbolizing the inevitable nature of mortality. Far more than a simple farming implement, it is both a weapon and a metaphysical object that Death uses to collect the souls of the dead. The Scythe encapsulates the paradox of Death’s role — both feared and respected — and its presence announces the final transition beyond life."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Scythe is a large, gracefully curved blade attached to a long wooden haft, crafted in an unearthly and timeless style. The blade seems to shimmer subtly, reflecting no light but darkness itself, and the haft is worn smooth by unknown eons of use. It exudes a cold aura and its formidable presence intimidates all who perceive it, embodying the power and authority of Death."
+    },
+    {
+      "title": "Function",
+      "body": "Death’s Scythe serves as the instrument by which Death severs the spiritual tether from living beings to guide souls to the afterlife. Beyond its physical manifestation, the Scythe can cut through the fabric of reality and fate, symbolizing the cutting of life’s thread. It is also used in supernatural contexts to ward off or end unnatural phenomena connected with life and death."
+    },
+    {
+      "title": "History",
+      "body": "Throughout Discworld’s long history, Death’s Scythe has remained a constant emblem of the end. Passed through legends and stories, it is known to have been wielded by Death in countless incarnations, always remaining unchanged and mysterious. Its symbolic and literal importance has been highlighted in various Discworld novels where Death interacts with mortals or intervenes in the cosmic order."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Scythe plays a critical role in embodying the character of Death, a major figure in Discworld. Its presence underscores themes of mortality, destiny, and the nature of existence, often appearing in key moments where the line between life and death is crossed. The Scythe is intertwined with Death’s personality, duties, and the philosophical underpinnings of Terry Pratchett’s storytelling."
+    }
+  ],
+  "aliases": [
+    "Death’s Blade",
+    "Reaper’s Scythe",
+    "Harvester's Tool",
+    "Soul Cutter"
+  ],
+  "relationships": [],
+  "properties": {
+    "material": "ethereal metal and ancient wood",
+    "symbolism": "mortality and fate",
+    "power_level": "immense",
+    "function": "soul harvesting",
+    "age": "timeless"
+  },
+  "tags": [
+    "discworld",
+    "item",
+    "death",
+    "weapon",
+    "symbol",
+    "supernatural",
+    "fantasy",
+    "artifact"
+  ]
+}

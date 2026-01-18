@@ -1,0 +1,70 @@
+{
+  "id": "49963d4f-8613-406d-8c82-6a50c1d6e9af",
+  "type": "character",
+  "name": "Vito Corleone",
+  "description": "Vito Corleone is the patriarch of the Corleone family and a powerful Mafia Don known for his strategic mind, influence, and complex morality.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Born in Corleone, Sicily, Vito immigrated to the United States as a child to escape a violent past. He grew up in New York City, where he eventually built one of the most powerful Mafia families. As head of the Corleone family, Vito balanced criminal dealings with a strong sense of family loyalty and honor, earning respect and fear as both a shrewd businessman and a compassionate patriarch."
+    },
+    {
+      "title": "Personality",
+      "body": "Vito is generally calm, reserved, and dignified. He commands loyalty with a mix of respect and fear, operating under a personal code of ethics that chooses diplomacy over unnecessary violence. His ability to forgive and his paternal care towards his family contrast with his ruthless decisiveness against enemies, making him a complex figure respected even by rivals."
+    },
+    {
+      "title": "Story Role",
+      "body": "As the central figure of the Corleone family initially, Vito’s near-fatal shooting serves as the catalyst for his son Michael’s rise to power. His leadership style, decisions, and legacy strongly influence the novel’s major events and character arcs, setting the tone for the family’s struggle to maintain power in a changing criminal underworld."
+    },
+    {
+      "title": "Relationships",
+      "body": "Vito is the father of Michael, Sonny, Fredo, and Connie Corleone, showcasing deep devotion to his family. He is also a patron and protector for many in the community, maintaining strong ties with other Mafia families, allies, and political figures. His relationship with Michael is central, as he both mentors and passes the mantle to his son."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Vito has exceptional negotiation skills, a strategic mind for organization and crime, and an ability to command loyalty. He is adept at balancing tradition with business acumen, often using diplomacy rather than violence when possible. His leadership and influence extend across both legitimate and illegitimate enterprises."
+    }
+  ],
+  "aliases": [
+    "Don Vito",
+    "The Godfather",
+    "Don Corleone",
+    "Il Padrino"
+  ],
+  "relationships": [
+    {
+      "type": "son_of",
+      "target": "1c7b8b0e-5414-43c4-8d72-8cf1d4d29cc4"
+    },
+    {
+      "type": "father_of",
+      "target": "1ec0d5ef-4a7f-460e-aefa-fb0fa6876bb2"
+    },
+    {
+      "type": "father_of",
+      "target": "d6b102b3-0c4b-4c33-97f2-c0d36df8ec84"
+    },
+    {
+      "type": "appears_in",
+      "target": "f2906db8-5e3f-45a9-85db-8a1a451c7d1c"
+    }
+  ],
+  "properties": {
+    "origin": "Sicily",
+    "role": "Mafia Don",
+    "family": "Corleone",
+    "notable_skills": [
+      "Leadership",
+      "Negotiation",
+      "Strategy"
+    ]
+  },
+  "tags": [
+    "mafia",
+    "godfather",
+    "corleone family",
+    "fictional character",
+    "organized crime",
+    "patriarch"
+  ]
+}

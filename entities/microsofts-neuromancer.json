@@ -1,0 +1,50 @@
+{
+  "id": "41576b62-6497-4cbe-aa38-7f64d9f1e1a2",
+  "type": "item",
+  "name": "Microsofts (Neuromancer)",
+  "description": "Small, compact data storage and computational devices commonly used by hackers and operators in the Neuromancer universe.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "In 'Neuromancer,' 'Microsofts' refer to miniature, highly portable computer devices used primarily by hackers and cybernetics specialists. They function as tools for data manipulation, storage, and processing on the go, enabling users to perform complex computational tasks without relying on bulky equipment. These devices are emblematic of the convergence between high technology and everyday accessibility in the cyberpunk milieu."
+    },
+    {
+      "title": "Appearance",
+      "body": "Microsofts typically appear as palm-sized, handheld units comprised of sleek, modular components. Their design emphasizes portability and efficiency, often featuring sliding covers, input pads, and data jacks. The devices may emit faint glows or have physical readout displays, combining utility with a utilitarian aesthetic characteristic of underground technological gear in the novel."
+    },
+    {
+      "title": "Function",
+      "body": "These devices serve multifaceted roles, including encrypted data storage, running hacking scripts, decrypting secure files, and interfacing with larger networks. Microsofts grant users autonomy by enabling remote operations or supplementing primary deck-based access. Their functionality includes signal scramblers, virus deployment mechanisms, or scanning tools, making them indispensable to cyber operatives working in hostile digital environments."
+    },
+    {
+      "title": "History",
+      "body": "Named as a nod to and perhaps a subversion of the real-world software giant Microsoft, these devices reflect the novel's blending of corporate technology with underground hacker culture. They emerged from the escalating demand for compact, powerful computing tools amid corporate data wars and the rise of cyberspace. Throughout Neuromancer, Microsofts underscore the decentralization and democratization of technology, as individuals harness powerful tools once exclusive to megacorps."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Microsofts enable characters to act independently within the digital sphere, highlighting themes of personal empowerment and vulnerability. Their use demonstrates the novel’s focus on the blurred lines between human agency and technological mediation. While not as central as the deck, they contribute to the novel’s realistic portrayal of cybernetically enhanced subcultures and the shifting power dynamics of information control."
+    }
+  ],
+  "aliases": [
+    "Microcomputers",
+    "Portable Data Units",
+    "Cyber Tools",
+    "Handheld Computing Devices"
+  ],
+  "relationships": [],
+  "properties": {
+    "type": "portable computer",
+    "size": "palm-sized",
+    "usage": "hacking, data storage",
+    "power_source": "unknown/compact",
+    "user_base": "hackers, operators"
+  },
+  "tags": [
+    "cyberpunk",
+    "technology",
+    "hardware",
+    "neuromancer",
+    "portable",
+    "computing"
+  ]
+}

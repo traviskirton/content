@@ -1,0 +1,65 @@
+{
+  "id": "97ec55e8-e0ac-4e45-bfa7-d2d1795a02a1",
+  "type": "item",
+  "name": "Time Vault",
+  "description": "A secure underground chamber within the Foundation containing pre-recorded holographic messages from Hari Seldon to guide future generations.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Time Vault is a vital artifact embedded in the Foundation's headquarters on Terminus. It houses the prerecorded holographic projections of Hari Seldon, which play out at predefined historical junctures called Seldon Crises. These messages reveal essential context, instructions, and warnings for navigating complex galactic challenges."
+    },
+    {
+      "title": "Appearance and Location",
+      "body": "Located deep beneath the administrative center of Terminus, the Time Vault is a heavily guarded, technologically advanced vault composed of durable alloys and energy shielding. Inside, it contains archaic yet sophisticated recording equipment and display systems able to project interactive holograms of Seldon and his associates."
+    },
+    {
+      "title": "Function",
+      "body": "The primary function of the Time Vault is to serve as the medium through which Seldon's psychohistorical predictions and strategies are disclosed in staged intervals to the Foundation's leadership. It acts both as a repository of accumulated knowledge and a tool for societal guidance during crisis moments, ensuring continuity and clarity of the Seldon Plan."
+    },
+    {
+      "title": "History",
+      "body": "Constructed shortly after the Foundation's establishment, the Time Vault was designed under Seldon's direct supervision to operate autonomously long after his death. Its recordings were carefully encoded with hidden contingencies and instructions predicated on galactic events unfolding as predicted, providing a direct link between Seldon's vision and future Foundation governors."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Time Vault is central to the narrative structure of the Foundation saga, serving as both a catalyst and a checkpoint for major plot developments. Its preordained messages unveil crucial turning points, raising questions about predestination, the role of individuals, and the tension between fixed future and human agency."
+    }
+  ],
+  "aliases": [
+    "Seldon Vault",
+    "Foundation Time Vault",
+    "Seldon's Holographic Repository",
+    "Crisis Vault"
+  ],
+  "relationships": [
+    {
+      "type": "contains_messages_from",
+      "target": "b418b4d6-d755-4f48-a615-9a1d5b5f3c5d"
+    },
+    {
+      "type": "guides",
+      "target": "4e6c3f79-072d-4b10-8c87-cc7f5244c7cd"
+    },
+    {
+      "type": "instrument_of",
+      "target": "eb917d41-36a2-41b8-bbbc-28e5be5c80a7"
+    }
+  ],
+  "properties": {
+    "location": "Terminus",
+    "security_level": "Maximum",
+    "technology": "Holographic recordings",
+    "operational_status": "Active",
+    "creator": "Hari Seldon"
+  },
+  "tags": [
+    "artefact",
+    "hologram",
+    "psychohistory",
+    "Foundation",
+    "science fiction",
+    "Isaac Asimov",
+    "future guidance",
+    "crisis management"
+  ]
+}

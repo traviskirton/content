@@ -1,0 +1,62 @@
+{
+  "id": "64d37a5b-1080-4c2b-b01f-1e1faa984f2c",
+  "type": "character",
+  "name": "Bel Riose",
+  "description": "A notable general of the Galactic Empire, known as its last great military leader, who attempts to reclaim dominance over the Foundation.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Bel Riose serves as a gifted and ambitious general in the waning days of the Galactic Empire, tasked with restoring the Empire's fading authority. Hailing from a tradition of military leaders, Riose commands a formidable fleet and is renowned for his strategic brilliance and determination. Operating under Emperor Cleon II's reign, he represents the old order's last hope to halt the Foundation's rise and prolong imperial control."
+    },
+    {
+      "title": "Personality",
+      "body": "Riose is characterized by a strong sense of duty, a sharp intellect, and a dedication to the Empire's preservation. He possesses confidence and ambition but is also pragmatic, willing to navigate political currents and espionage. Despite his loyalty, Riose is portrayed with a degree of noble idealism and respect for reason and order, distinguishing him from purely ruthless commanders."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Foundation and Empire', General Bel Riose spearheads the Empire's military campaign against the Foundation. His efforts symbolize the Empire’s last attempt to reverse decline through conventional warfare. Although initially successful, his campaign is ultimately undermined by political intrigue and Seldon Plan dynamics, illustrating the futility of such attempts against the tide of history and psychohistorical inevitability."
+    },
+    {
+      "title": "Relationships",
+      "body": "Riose serves under Emperor Cleon II and is aware of the political machinations surrounding him in the imperial court. He has encounters and adversarial relations with Foundation agents and politicians, including Ducem Barr, who act covertly to subvert his campaign. His loyalty to the Empire puts him in conflict with rising forces advocating change beyond imperial doctrine."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Bel Riose possesses exceptional military acumen and leadership skills, commanding fleets with tactical precision. His strategic planning enables him to orchestrate effective campaigns against the Foundation, showcasing expertise in logistics, battle command, and political navigation. However, his conventional skills are ultimately challenged by unpredictable factors beyond his control."
+    }
+  ],
+  "aliases": [
+    "General Riose",
+    "Imperial General Bel Riose",
+    "Last Great General of the Empire"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "87f3d82a-1c34-4f8d-97fc-3202ead228d1"
+    },
+    {
+      "type": "serves_under",
+      "target": "5c1a4746-0c85-4a9e-abf9-86e659986e08"
+    },
+    {
+      "type": "adversary_of",
+      "target": "4666aea9-5daf-4e4f-94f3-5757b26c2a23"
+    }
+  ],
+  "properties": {
+    "role": "Imperial General",
+    "affiliation": "Galactic Empire",
+    "notability": "Last great Imperial general",
+    "military_rank": "General"
+  },
+  "tags": [
+    "science fiction",
+    "character",
+    "galactic empire",
+    "military",
+    "foundation series",
+    "antagonist",
+    "space militia"
+  ]
+}

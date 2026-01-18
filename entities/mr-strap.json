@@ -1,0 +1,49 @@
+{
+  "id": "d1f10478-2db8-4f3f-8fc2-6e5e1b0c9f6a",
+  "type": "character",
+  "name": "Mr. Strap",
+  "description": "Mr. Strap is Auric Goldfinger's loyal henchman and chauffeur, responsible for transportation and enforcing Goldfinger's commands in Goldfinger.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Mr. Strap serves as the personal chauffeur and trusted aide to the villain Auric Goldfinger. His position within Goldfinger’s inner circle places him as a key operative, handling logistics and security details during Goldfinger’s criminal operations. His nickname derives from the distinctive driving gloves and mastery of automotive control."
+    },
+    {
+      "title": "Personality",
+      "body": "Mr. Strap is professional, efficient, and dangerous. He remains composed under pressure and fiercely loyal to Goldfinger’s commands, showing no hesitation when carrying out illicit assignments. Despite his role as a subordinate, he exudes menace and determination, underscoring the threat posed by Goldfinger’s organization."
+    },
+    {
+      "title": "Story Role",
+      "body": "In Goldfinger, Mr. Strap's main role surfaces during the tense car chase scenes and moments when Goldfinger escapes or maneuvers through his schemes. He provides the physical presence and threat necessary to maintain security for Goldfinger, often confronting Bond or others who threaten the villain’s plans."
+    },
+    {
+      "title": "Relationships",
+      "body": "Mr. Strap’s relationship is almost exclusively with Auric Goldfinger, acting as his enforcer and chauffeur. He follows Goldfinger’s orders without question and interacts with other henchmen within the criminal organization. His professional relationship with Goldfinger is marked by obedience and a shared goal of executing the villain’s plan."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Mr. Strap possesses exceptional driving skills, demonstrated through expert handling of vehicles in high-speed pursuits. He is physically capable and familiar with security and combat tactics to defend his employer. His skills make him an effective and dangerous opponent to Bond during their encounters."
+    }
+  ],
+  "aliases": [
+    "Strap",
+    "Goldfinger's Chauffeur",
+    "Henchman Strap"
+  ],
+  "relationships": [],
+  "properties": {
+    "occupation": "Chauffeur / Henchman",
+    "nationality": "Unspecified",
+    "loyalty": "High to Auric Goldfinger",
+    "film": "Goldfinger",
+    "role": "supporting_antagonist"
+  },
+  "tags": [
+    "Goldfinger",
+    "henchman",
+    "chauffeur",
+    "villain_support",
+    "James Bond",
+    "1960s"
+  ]
+}

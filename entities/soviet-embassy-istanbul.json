@@ -1,0 +1,62 @@
+{
+  "id": "c1e2c4ef-041b-4de1-b5aa-0a537b0410af",
+  "type": "location",
+  "name": "Soviet Embassy Istanbul",
+  "description": "The Soviet Embassy in Istanbul plays a strategic role in 'From Russia with Love', acting as a center for Soviet diplomatic and intelligence activities in the city.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Soviet Embassy serves as the political and espionage nerve center for Soviet operations in Istanbul. It functions not only as a diplomatic post but also as a hub for intelligence gathering, covert exchanges, and coordination of agents, reflecting the embassy’s dual roles during the tense Cold War period."
+    },
+    {
+      "title": "Appearance",
+      "body": "The embassy is depicted as a fortified compound blending typical Soviet architectural austerity with diplomatic formality. It features secure meeting rooms, communication facilities, and living quarters for officials and agents, underscoring the mix of official business and covert operations housed within the premises."
+    },
+    {
+      "title": "History",
+      "body": "Situated in a city of critical geopolitical significance, the embassy was a focal point for Soviet activities aimed at influencing Turkey and the broader region during the height of East-West tensions. It witnessed a range of espionage maneuvers and counterintelligence efforts typical of Cold War diplomatic missions."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'From Russia with Love', the Soviet Embassy provides key narrative developments, including interactions between Russian agents and tensions that impact James Bond’s mission. It is often the backdrop for planning and executing intelligence strategies, heightening the spy thriller atmosphere."
+    }
+  ],
+  "aliases": [
+    "Soviet Diplomatic Mission Istanbul",
+    "USSR Embassy",
+    "Russian Embassy Istanbul"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "d33a788c-4d51-41ca-bc82-444cfd009159"
+    },
+    {
+      "type": "employs",
+      "target": "68c75d12-e6e6-4931-b25e-5a8c8afba161"
+    },
+    {
+      "type": "contains",
+      "target": "68c75d12-e6e6-4931-b25e-5a8c8afba161"
+    }
+  ],
+  "properties": {
+    "country": "Turkey",
+    "affiliation": "Soviet Union",
+    "function": [
+      "Diplomatic",
+      "Intelligence"
+    ],
+    "security_level": "High",
+    "importance": "Strategic"
+  },
+  "tags": [
+    "Location",
+    "Embassy",
+    "Soviet Union",
+    "Cold War",
+    "Espionage",
+    "James Bond",
+    "Istanbul"
+  ]
+}

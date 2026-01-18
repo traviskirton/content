@@ -1,0 +1,50 @@
+{
+  "id": "4064a044-7b84-4e10-b73e-bd390b8bf3f6",
+  "type": "person",
+  "name": "Raf Vallone",
+  "description": "Italian actor and journalist known for his work in European cinema during the mid-20th century.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Raffaele Vallone was born on February 17, 1916, in Tropea, Calabria, Italy. He initially pursued journalism and worked as a war correspondent before transitioning into acting after World War II. Vallone’s career spanned film, theater, and television, where he gained acclaim both in Italy and internationally. His presence on screen was characterized by his commanding voice, dignified bearing, and ability to convey complex emotional depth."
+    },
+    {
+      "title": "Career",
+      "body": "Vallone began acting in the 1940s and quickly became a prominent figure in Italian neorealist cinema, starring in films such as \"Bitter Rice\" (1949). His versatility led him to roles in dramas, thrillers, and romances, often portraying serious, thoughtful characters. Beyond Italian cinema, he made appearances in French and American films, expanding his international appeal. Vallone was also a celebrated theater actor and maintained a journalistic presence throughout his career."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Raf Vallone’s notable films include \"Bitter Rice,\" \"The Machine That Kills Bad People,\" and \"The Godfather Part III,\" where he played Cardinal Lamberto. His role in \"The Godfather Part III\" was significant as Cardinal Lamberto is pivotal in the film’s plot, embodying justice and redemption. Vallone’s performance combined gravitas with subtle humanity, reinforcing his reputation for portraying complex characters."
+    },
+    {
+      "title": "Influence and Style",
+      "body": "Vallone’s style was marked by a naturalistic and emotional depth rooted in his journalistic background and theatrical experience. His dignified on-screen demeanor and authoritative voice lent authenticity to his characters. Vallone influenced European cinema through his commitment to realism and nuanced performances that bridged the gap between popular appeal and artistic merit."
+    },
+    {
+      "title": "Legacy",
+      "body": "Raf Vallone passed away on October 31, 2002, leaving behind a rich legacy of film and theater work. He is remembered as one of Italy’s finest actors of the 20th century who successfully crossed over into international cinema. His performance in \"The Godfather Part III\" remains a highlight and is often cited as a key element of the film’s dramatic core."
+    }
+  ],
+  "aliases": [
+    "Raffaele Vallone",
+    "Raf V.",
+    "Cardinal Lamberto (role)"
+  ],
+  "relationships": [],
+  "properties": {
+    "birth_date": "1916-02-17",
+    "death_date": "2002-10-31",
+    "nationality": "Italian",
+    "occupation": "Actor, Journalist",
+    "active_years": "1947–1999"
+  },
+  "tags": [
+    "actor",
+    "Italian cinema",
+    "journalist",
+    "theater",
+    "film",
+    "neorealism",
+    "international cinema"
+  ]
+}

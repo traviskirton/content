@@ -2,82 +2,59 @@
   "id": "50fa1b1e-8679-4b51-9646-e429e7c9da31",
   "type": "organization",
   "name": "MI6",
-  "description": "The United Kingdom's foreign intelligence service responsible for overseas espionage and intelligence gathering.",
-  "aliases": [
-    "Secret Intelligence Service",
-    "SIS",
-    "British Secret Intelligence Service"
-  ],
+  "description": "MI6, or the Secret Intelligence Service, is the British foreign intelligence agency tasked with overseas espionage, prominently featured in the James Bond series.",
   "content": [
     {
       "title": "Overview",
-      "body": "**MI6** (Military Intelligence, Section 6), officially known as the *Secret Intelligence Service (SIS)*, is the United Kingdom's foreign intelligence agency. It is tasked with gathering intelligence overseas to support the UK government in safeguarding national security, conducting espionage operations, counter-terrorism, and counter-espionage activities.\n\nMI6 operates covertly across the globe, leveraging human intelligence assets, technological surveillance, and covert operations."
-    },
-    {
-      "title": "History",
-      "body": "Founded during World War I under the direction of Sir Mansfield Smith-Cumming, MI6 evolved from the Secret Service Bureau established in 1909. It initially focused on monitoring German activities abroad. Over time, it expanded its role to include broader intelligence gathering during the Cold War and modern geopolitical conflicts.\n\nIn the fictional James Bond universe, MI6 is depicted as a highly secretive and action-oriented spy agency often engaged in combating global threats, frequently through the efforts of its top agent, 007.\n\nMajor events in its fictional history include its ongoing covert battles against criminal organizations such as SPECTRE, and involvement in high-stakes operations worldwide."
+      "body": "Her Majesty's Secret Intelligence Service (MI6) is the United Kingdom's foreign intelligence agency, specializing in covert operations, espionage, and gathering intelligence beyond Britain's borders. In the James Bond universe, MI6 is responsible for protecting national security against foreign threats, particularly during the Cold War era. The agency operates through field agents like James Bond, facilitating missions that maintain geopolitical stability and counteract hostile powers."
     },
     {
       "title": "Structure",
-      "body": "MI6 is led by the Chief of the Secret Intelligence Service, often known simply as \"M\" in the James Bond series. The organization maintains a strict hierarchical structure with departments focusing on intelligence gathering, analysis, operations, technical support, and administration.\n\nKey personnel include:\n- **M**: The head of MI6\n- **Q**: The quartermaster responsible for gadgets and technical innovations\n- **Moneypenny**: Personal assistant to M and liaison to field agents\n\nField agents are typically recruited from elite military or intelligence backgrounds, with '00' agents like James Bond granted licence to kill."
+      "body": "MI6 is organized into various divisions overseeing intelligence gathering, analysis, and operational deployment. It is headed by the Chief of the Secret Intelligence Service, known colloquially as 'M,' who oversees agents and field operatives. The agency maintains a network of operatives worldwide, spanning intelligence officers, technical experts, and support staff. Its hierarchical structure emphasizes strict secrecy, chain of command, and specialized departments to address regional and thematic intelligence concerns."
     },
     {
-      "title": "Operations",
-      "body": "MI6 conducts covert intelligence operations around the world, including espionage, sabotage, assassination, and counter-intelligence. Agents gather information on hostile governments, terrorist cells, and criminal syndicates.\n\nTechniques employed include:\n- High-tech surveillance equipment\n- Undercover human intelligence (HUMINT)\n- Use of advanced gadgets crafted in Q-branch\n- Strategic alliances with other intelligence agencies\n\nIts goals are to protect British interests, prevent global crises, and counter emerging threats, often operating beyond legal boundaries for national security."
+      "title": "History",
+      "body": "Founded in 1909 originally as the Secret Service Bureau, MI6 has evolved through both World Wars and the Cold War, adapting to new geopolitical challenges and technologies. It has historically been a cornerstone of British intelligence, working both independently and alongside allied agencies such as the CIA and French intelligence services. The agency’s involvement in fictional narratives like Casino Royale highlights its crucial role in countering Soviet espionage and international terrorism."
     },
     {
-      "title": "Story Significance",
-      "body": "MI6 is central to the James Bond narrative universe, serving as the employer and operational base for the titular character. It drives many plotlines involving espionage, geopolitical intrigue, and battles against adversarial organizations.\n\nKey moments include assignments handed to Bond by M, the deployment of various gadgets by Q, and interactions with allies and enemies worldwide. MI6 provides the grounding and bureaucratic tension behind Bond's missions, embodying the classic spy thriller ethos."
+      "title": "Goals",
+      "body": "MI6's primary mission is to safeguard British interests through intelligence collection, covert diplomacy, and destabilizing hostile entities. It aims to prevent espionage, sabotage, and terrorist activities targeted against the UK, leveraging field agents to infiltrate enemy operations. The agency also supports allied nations through intelligence sharing and joint operations, maintaining global stability and furthering British geopolitical influence."
+    },
+    {
+      "title": "Key Members",
+      "body": "In the context of Casino Royale and related stories, MI6 includes figures such as M, the authoritative director, Moneypenny, the confidential assistant, and James Bond, its elite field agent. These characters exemplify the agency's personnel profile: highly trained, discreet, and resourceful individuals dedicated to their nation's defense. MI6 operatives are portrayed as possessing a blend of tactical skill, intelligence, and unyielding resolve."
     }
+  ],
+  "aliases": [
+    "Secret Intelligence Service",
+    "SIS",
+    "British Intelligence",
+    "MI-6"
   ],
   "relationships": [
     {
-      "type": "featured_in",
+      "type": "employs",
       "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
     },
     {
-      "type": "featured_in",
+      "type": "appears_in",
       "target": "9b1ab6a0-df91-4c86-8a72-8c23b7428298"
-    },
-    {
-      "type": "featured_in",
-      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
-    },
-    {
-      "type": "led_by",
-      "target": "eccd0f82-c15b-4a6f-a3a4-a8c5b2391d1a"
-    },
-    {
-      "type": "members",
-      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
-    },
-    {
-      "type": "members",
-      "target": "d6f7c658-eaf4-4a2e-9d84-9e2ef4e7a3d1"
-    },
-    {
-      "type": "featured_in",
-      "target": "9b1ab6a0-df91-4c86-8a72-8c23b7428298"
-    },
-    {
-      "type": "headquartered_in",
-      "target": "5de86068-a215-4f6d-a874-3d9ddb2b83b7"
     }
   ],
   "properties": {
-    "founded": "1909",
-    "founder": "Sir Mansfield Smith-Cumming",
-    "type": "government",
-    "headquarters": "MI6 Building, London",
-    "fictional": true
+    "country": "United Kingdom",
+    "type": "Foreign Intelligence Service",
+    "founded": 1909,
+    "headquarters": "London",
+    "role": "Espionage and counterintelligence"
   },
   "tags": [
-    "organization",
-    "government",
-    "secret-service",
-    "spy-agency",
-    "heroic",
-    "espionage",
-    "thriller"
+    "Espionage",
+    "British Intelligence",
+    "Government Agency",
+    "Cold War",
+    "James Bond",
+    "Secret Service",
+    "Covert Operations"
   ]
 }

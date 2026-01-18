@@ -1,0 +1,46 @@
+{
+  "id": "5d234cf7-6bbf-4b3e-8489-b8298c1e3504",
+  "type": "location",
+  "name": "Star's End",
+  "description": "Star's End is a legendary location referenced in the Foundation universe, known for its mysterious significance and symbolic meaning.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Star's End is often mentioned as a distant or symbolic location within the Foundation series. Unlike typical planets or stations, it holds a mythic or thematic role, representing a point of destiny or cosmic significance in the unfolding of galactic events."
+    },
+    {
+      "title": "Appearance",
+      "body": "Descriptions of Star's End are deliberately vague, enhancing its mystique. It is often portrayed as a remote celestial point or space station, shrouded in myths and associated with endings and new beginnings in the storyline."
+    },
+    {
+      "title": "History",
+      "body": "Throughout the Foundation narrative, Star's End serves as a conceptual marker rather than a defined physical presence. It symbolizes the limits and aspirations of the galactic civilization, marking the horizons of exploration and understanding."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Symbolically, Star's End underscores the philosophical and existential themes embedded in the Foundation series, including fate, destiny, and the cyclical nature of history. It represents both an actual and figurative locus for critical turning points for characters and political entities."
+    }
+  ],
+  "aliases": [
+    "Star's End Point",
+    "The End Star"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "478a780d-5633-44ed-beab-55a3c19c8f03"
+    }
+  ],
+  "properties": {
+    "type": "Symbolic Location",
+    "mysticism": "High",
+    "appearance": "Celestial/Mystical"
+  },
+  "tags": [
+    "Foundation",
+    "Symbolism",
+    "Science Fiction",
+    "Mythic Location",
+    "Second Foundation"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "37f90f75-1f4c-4d85-8d2e-eafcebb09118",
+  "type": "franchise",
+  "name": "The Godfather Trilogy",
+  "description": "A seminal film franchise based on Mario Puzo's novels, chronicling the Corleone crime family across three epic movies.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Godfather Trilogy is a landmark series of American crime films that explore the powerful Corleone mafia family. Adapted from Mario Puzo's novel, the films span decades, capturing the rise, fall, and transformation of the family under various leaderships with epic storytelling, rich characterization, and a deep examination of power and loyalty."
+    },
+    {
+      "title": "Film Entries",
+      "body": "The trilogy consists of three films: 'The Godfather' (1972), directed by Francis Ford Coppola, 'The Godfather Part II' (1974), which also serves as a prequel, and 'The Godfather Part III' (1990). Each movie expands on the complex dynamics of the mafia, intertwining personal family dramas with criminal empire narratives."
+    },
+    {
+      "title": "Themes",
+      "body": "Key themes throughout the trilogy include power, loyalty, betrayal, the American Dream, and the corrupting influence of crime and family obligation. The films delve into morality, tradition, and the tragic consequences of choosing family over society."
+    },
+    {
+      "title": "Reception and Legacy",
+      "body": "Critically acclaimed and commercially successful, the trilogy set a new standard for gangster films, winning numerous Academy Awards and influencing generations of filmmakers. Its cultural impact extends beyond cinema, embedding itself in popular culture as a defining portrayal of organized crime."
+    },
+    {
+      "title": "Franchise Continuity",
+      "body": "The films maintain continuity through shared characters, story arcs, and themes, with characters evolving dramatically across installments. The franchise also sparked adaptations and expanded media but remains best known for its cinematic masterpiece trilogy."
+    }
+  ],
+  "aliases": [
+    "Godfather Trilogy",
+    "The Godfather Series",
+    "Corleone Trilogy"
+  ],
+  "relationships": [],
+  "properties": {
+    "medium": "Film",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "country": "United States",
+    "original_language": "English",
+    "created_by": "@@Francis Ford Coppola@@"
+  },
+  "tags": [
+    "mafia",
+    "crime",
+    "drama",
+    "film trilogy",
+    "organized crime",
+    "classic cinema",
+    "franchise",
+    "1970s cinema"
+  ]
+}

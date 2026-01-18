@@ -1,0 +1,47 @@
+{
+  "id": "1c7f578f-fd87-4e76-aa99-507b2a12a2f9",
+  "type": "book",
+  "name": "Mona Lisa Overdrive",
+  "description": "A seminal cyberpunk novel by William Gibson, continuing the Sprawl Trilogy with intersecting stories of hackers, corporate power, and artificial intelligence.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Mona Lisa Overdrive, published in 1988, is the third novel in William Gibson's influential Sprawl Trilogy. Set in a cyberpunk future dominated by ubiquitous cyberspace, corporate intrigue, and complex human-machine interfaces, the novel intertwines the lives of four central characters whose paths converge around a shadowy cyber underworld. Building upon the themes and settings of its predecessors, it pushes forward notions of identity, reality, and technology’s impact on society."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "The novel unfolds through multiple narrative threads, focusing on Mona Lisa, a high-class prostitute with ties to powerful entities; Angie Mitchell, a young girl with cybernetic enhancements granting her unprecedented sensory access to cyberspace; Bobby Newmark, a hacker trying to make a name for himself; and Slick Henry, an avant-garde artist who creates mechanical constructs from scrap. Through their intersecting stories, Mona Lisa Overdrive explores a world where technology and human consciousness collide, culminating in a high-stakes encounter involving corporate espionage and artificial intelligence."
+    },
+    {
+      "title": "Themes",
+      "body": "Mona Lisa Overdrive deals deeply with cybernetic augmentation, the blurred line between human and machine, and the nature of consciousness and identity in a mediated world. It explores the consequences of corporate dominance, the fragmentation of self in a hyper-connected digital landscape, and the socio-political dynamics of power. Themes of surveillance, exploitation, and resistance permeate the narrative, inviting reflection on humanity’s technological trajectory."
+    },
+    {
+      "title": "Reception",
+      "body": "Critically acclaimed for its ambitious narrative and stylistic innovation, Mona Lisa Overdrive solidified William Gibson’s status as a pioneer of the cyberpunk genre. While some critics noted its complex plot and dense prose as challenging, the novel was praised for its vivid world-building, intricate characterizations, and prescient depiction of digital culture. It remains a touchstone in speculative fiction and an early influence on cyber-culture."
+    }
+  ],
+  "aliases": [
+    "Mona Lisa Overdrive (Novel)",
+    "The Sprawl Trilogy Book 3",
+    "MLO"
+  ],
+  "relationships": [],
+  "properties": {
+    "author": "William Gibson",
+    "publication_year": 1988,
+    "genre": "Cyberpunk, Science Fiction",
+    "series": "Sprawl Trilogy",
+    "pages": 320
+  },
+  "tags": [
+    "cyberpunk",
+    "science fiction",
+    "novel",
+    "William Gibson",
+    "Sprawl Trilogy",
+    "cyberspace",
+    "artificial intelligence",
+    "technology"
+  ]
+}

@@ -43,6 +43,10 @@
     {
       "type": "friends_with",
       "target": "9c39d7e0-1f12-4590-8b53-9ddb5f765cb5"
+    },
+    {
+      "type": "appears_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
     }
   ],
   "properties": {

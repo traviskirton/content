@@ -1,0 +1,57 @@
+{
+  "id": "1a3e6e9d-996d-4246-90f5-fccfd050c399",
+  "type": "location",
+  "name": "1917 New York",
+  "description": "Early 20th-century New York City setting showcasing the immigrant neighborhoods central to the origins of the Corleone family.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The 1917 New York setting in The Godfather Part II captures the atmosphere of rapidly growing urban immigrant communities. It illustrates the hardships and opportunities faced by recent arrivals like Vito Corleone and the ambient environment that shaped the Corleone legacy."
+    },
+    {
+      "title": "Appearance",
+      "body": "The film depicts crowded tenement buildings, bustling streets filled with street vendors and children, and humble homes in lower Manhattan and the Bronx. The gritty, authentic sets emphasize tight-knit communities and economic struggles in contrast to the later Corleone affluence."
+    },
+    {
+      "title": "Historical Context",
+      "body": "1917 was a period marked by massive waves of immigration, industrial expansion, and emerging ethnic enclaves in New York City. These conditions created both social tension and camaraderie, laying the foundation for the immigrant families’ survival and eventual rise."
+    },
+    {
+      "title": "Story Significance",
+      "body": "1917 New York depicts the formative environment for young Vito Corleone, illustrating his early life challenges including his family’s tragedy and his initial steps into a life of organized crime. This backdrop forms the emotional and cultural roots of the Corleone saga."
+    },
+    {
+      "title": "Cinematic Technique",
+      "body": "The use of sepia tones, period detail, authentic costumes, and historically accurate props recreates a convincing early 1900s experience, immersing the audience in Vito’s world and enhancing the film’s nostalgic and epic scope."
+    }
+  ],
+  "aliases": [
+    "New York City 1917",
+    "Early 20th Century NYC",
+    "Immigrant NYC",
+    "Old New York"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a34e10f7-2f77-48bd-803f-efa34f19c87f"
+    }
+  ],
+  "properties": {
+    "city": "New York City",
+    "era": "1917",
+    "importance": "Origin of Vito Corleone",
+    "urban_character": "Immigrant neighborhood",
+    "film_significance": "Flashback setting"
+  },
+  "tags": [
+    "historical location",
+    "immigrant community",
+    "early 1900s",
+    "New York City",
+    "period setting",
+    "The Godfather Part II",
+    "family origins",
+    "urban life"
+  ]
+}

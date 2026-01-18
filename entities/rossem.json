@@ -1,0 +1,47 @@
+{
+  "id": "b9c6f6fb-c473-4375-ac4b-24ead1f4e537",
+  "type": "location",
+  "name": "Rossem",
+  "description": "Rossem is a significant planet within the Foundation universe, known for its industrial development and political relevance.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Rossem is a technologically advanced planet featured in Isaac Asimov's Foundation series, characterized by its thriving industrial economy and a pivotal role in regional politics. It maintains a complex socio-political environment that influences the long-term strategies of the Foundation and other galactic entities."
+    },
+    {
+      "title": "Appearance",
+      "body": "The planetary environment of Rossem is predominantly terrestrial with sprawling urban centers marked by heavy industry. Its architecture manifests a blend of utilitarian style with large manufacturing plants, reflecting its focus on production and economic expansion."
+    },
+    {
+      "title": "History",
+      "body": "Rossem's history is marked by rapid industrialization, emerging as a key economic hub in the interstellar era. The planet has experienced various political shifts, including periods of semi-autonomy and influence by dominant galactic powers, shaping its strategic importance within the Foundation narrative."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Within the Foundation series, Rossem serves as a backdrop for political intrigue and economic development. Its industries provide vital resources and support for the Foundation, making it a coveted asset among competing factions vying for control and influence over the galaxy’s future."
+    }
+  ],
+  "aliases": [
+    "Planet Rossem",
+    "Rossem World"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "f0d9fb2a-0f3e-446a-9a1d-2db988b68967"
+    }
+  ],
+  "properties": {
+    "type": "Industrial Planet",
+    "population": "Multi-billion",
+    "government": "Technocratic Oligarchy"
+  },
+  "tags": [
+    "Foundation",
+    "Planet",
+    "Science Fiction",
+    "Rossem",
+    "Isaac Asimov",
+    "Galactic Empire"
+  ]
+}

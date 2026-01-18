@@ -1,0 +1,109 @@
+{
+  "source": "Tinker, Tailor, Soldier, Spy",
+  "entities": [
+    {
+      "type": "person",
+      "name": "John le Carré"
+    },
+    {
+      "type": "franchise",
+      "name": "Karla Trilogy"
+    },
+    {
+      "type": "franchise",
+      "name": "George Smiley Series"
+    },
+    {
+      "type": "book",
+      "name": "Tinker, Tailor, Soldier, Spy"
+    },
+    {
+      "type": "character",
+      "name": "George Smiley"
+    },
+    {
+      "type": "character",
+      "name": "Control (le Carré)"
+    },
+    {
+      "type": "character",
+      "name": "Bill Haydon"
+    },
+    {
+      "type": "character",
+      "name": "Percy Alleline"
+    },
+    {
+      "type": "character",
+      "name": "Roy Bland"
+    },
+    {
+      "type": "character",
+      "name": "Toby Esterhase"
+    },
+    {
+      "type": "character",
+      "name": "Peter Guillam"
+    },
+    {
+      "type": "character",
+      "name": "Ricki Tarr"
+    },
+    {
+      "type": "character",
+      "name": "Jim Prideaux"
+    },
+    {
+      "type": "character",
+      "name": "Karla"
+    },
+    {
+      "type": "character",
+      "name": "Ann Smiley"
+    },
+    {
+      "type": "character",
+      "name": "Connie Sachs"
+    },
+    {
+      "type": "location",
+      "name": "The Circus (le Carré)"
+    },
+    {
+      "type": "location",
+      "name": "Cambridge Circus"
+    },
+    {
+      "type": "location",
+      "name": "Thursgood's School"
+    },
+    {
+      "type": "location",
+      "name": "The Safe House (le Carré)"
+    },
+    {
+      "type": "organization",
+      "name": "The Circus"
+    },
+    {
+      "type": "organization",
+      "name": "Moscow Centre"
+    },
+    {
+      "type": "organization",
+      "name": "The Scalphunters"
+    },
+    {
+      "type": "item",
+      "name": "Operation Testify"
+    },
+    {
+      "type": "item",
+      "name": "Operation Witchcraft"
+    },
+    {
+      "type": "item",
+      "name": "The Mole (Codename Gerald)"
+    }
+  ]
+}

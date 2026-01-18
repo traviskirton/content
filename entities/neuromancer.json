@@ -1,0 +1,68 @@
+{
+  "id": "d8b0039a-8bb0-4f52-9053-f303e3e6d398",
+  "type": "book",
+  "name": "Neuromancer",
+  "description": "Neuromancer is a groundbreaking 1984 cyberpunk novel by William Gibson that explores hacking, artificial intelligence, and cyberspace in a dystopian future.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "'Neuromancer' is William Gibson's debut novel and a defining work in the cyberpunk genre, first published in 1984. It introduces readers to a high-tech, gritty future where computer manipulation, artificial intelligences, and cybernetic augmentation are commonplace, set in a sprawling urban landscape called the Sprawl. The novel is renowned for coining and popularizing the term 'cyberspace' and has profoundly influenced speculative fiction, technology culture, and popular media."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "The novel follows Henry Case, a washed-up computer hacker who is hired for a final job after being blacklisted and physically incapacitated from accessing cyberspace. Contracted by the mysterious Armitage and aided by Molly Millions, a street samurai with cybernetic enhancements, Case navigates a complex mission involving powerful AIs Wintermute and Neuromancer. The story unravels themes of corporate espionage, identity, and the evolving relationship between humans and technology, culminating in a confrontation with the limits of artificial intelligence and consciousness."
+    },
+    {
+      "title": "Themes",
+      "body": "'Neuromancer' explores themes of alienation, the blurring of human and machine boundaries, and the implications of artificial intelligence. The novel delves into cybernetic enhancement, corporate power, and the emergence of virtual spaces as new realms of human experience. Gibson's narrative questions the nature of reality, memory, and consciousness in an increasingly digital world, raising ethical and existential questions still resonant today."
+    },
+    {
+      "title": "Reception",
+      "body": "Upon release, 'Neuromancer' was critically acclaimed for its innovative world-building and forward-looking concepts. It won the Hugo, Nebula, and Philip K. Dick Awards, cementing Gibson's place in science fiction history. The book garnered both literary praise and a devoted cult following, influencing numerous writers, filmmakers, and game designers. Its vision anticipated many developments in computing and virtual environments, securing its legacy as a prescient work of speculative fiction."
+    },
+    {
+      "title": "Impact and Legacy",
+      "body": "'Neuromancer' has become a seminal text in cyberpunk literature and broader cultural discourse on technology. It inspired cyberpunk media, from Ridley Scott's 'Blade Runner' aesthetic to countless video games and films. Its depiction of cyberspace helped shape the conceptual framework of the Internet and virtual reality. The novel remains a staple in academic research on cyberculture and speculative futures, continuing to provoke thought about technology’s role in society."
+    }
+  ],
+  "aliases": [
+    "Neuromancer (Novel)",
+    "Neuromancer by William Gibson",
+    "The Neuromancer"
+  ],
+  "relationships": [
+    {
+      "type": "author",
+      "target": "c7d4a5e1-2b16-4d15-bf08-f1b3ec69fa2e"
+    },
+    {
+      "type": "part_of",
+      "target": "54d8740e-f091-4f1d-9cd5-1c3a077be9a7"
+    },
+    {
+      "type": "features_character",
+      "target": "8ec8a9e9-3b3b-4b3d-8c9a-225ea62a117c"
+    },
+    {
+      "type": "features_character",
+      "target": "1a9f67b2-74f6-46da-82a7-62fe32246dfb"
+    }
+  ],
+  "properties": {
+    "publication_year": 1984,
+    "genre": "Cyberpunk",
+    "pages": 271,
+    "publisher": "Ace Books"
+  },
+  "tags": [
+    "cyberpunk",
+    "science fiction",
+    "William Gibson",
+    "novel",
+    "AI",
+    "hacking",
+    "virtual reality",
+    "dystopia",
+    "sprawl-trilogy"
+  ]
+}

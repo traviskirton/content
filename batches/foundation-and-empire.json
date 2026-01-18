@@ -1,0 +1,81 @@
+{
+  "source": "Foundation and Empire",
+  "entities": [
+    {
+      "type": "book",
+      "name": "Foundation and Empire"
+    },
+    {
+      "type": "character",
+      "name": "Bel Riose"
+    },
+    {
+      "type": "character",
+      "name": "Ducem Barr"
+    },
+    {
+      "type": "character",
+      "name": "Cleon II"
+    },
+    {
+      "type": "character",
+      "name": "Brodrig"
+    },
+    {
+      "type": "character",
+      "name": "Lathan Devers"
+    },
+    {
+      "type": "character",
+      "name": "The Mule"
+    },
+    {
+      "type": "character",
+      "name": "Bayta Darell"
+    },
+    {
+      "type": "character",
+      "name": "Toran Darell"
+    },
+    {
+      "type": "character",
+      "name": "Ebling Mis"
+    },
+    {
+      "type": "character",
+      "name": "Han Pritcher"
+    },
+    {
+      "type": "character",
+      "name": "Magnifico Giganticus"
+    },
+    {
+      "type": "location",
+      "name": "Kalgan"
+    },
+    {
+      "type": "location",
+      "name": "Neotrantor"
+    },
+    {
+      "type": "location",
+      "name": "Haven"
+    },
+    {
+      "type": "organization",
+      "name": "The Mule's Empire"
+    },
+    {
+      "type": "organization",
+      "name": "Independent Traders"
+    },
+    {
+      "type": "item",
+      "name": "Emotional Control (Mule)"
+    },
+    {
+      "type": "item",
+      "name": "Visi-Sonor"
+    }
+  ]
+}

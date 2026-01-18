@@ -1,0 +1,66 @@
+{
+  "id": "d4395616-2c5b-4e2c-a14c-f1c33038f43f",
+  "type": "franchise",
+  "name": "George Smiley Series",
+  "description": "A collection of novels and stories by John le Carré centered on the British intelligence officer George Smiley.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The George Smiley Series encompasses several novels and short stories written by John le Carré focusing on George Smiley, a meticulous and unassuming British intelligence officer. The series charts Smiley's various assignments, including his pursuit of double agents and navigating the complexities of espionage during the Cold War and beyond. This franchise defines a new type of spy fiction, emphasizing psychological realism over action."
+    },
+    {
+      "title": "Books and Stories",
+      "body": "The series includes major works such as 'Call for the Dead' (1961), 'A Murder of Quality' (1962), and the Karla Trilogy ('Tinker, Tailor, Soldier, Spy', 'The Honourable Schoolboy', 'Smiley's People'). Later novels like 'A Legacy of Spies' revisit Smiley’s legacy. Together, these works present a coherent narrative arc chronicling Smiley's career and the shifting geopolitical landscape."
+    },
+    {
+      "title": "Character Development",
+      "body": "Throughout the series, George Smiley evolves from a relatively minor intelligence figure into a complex protagonist grappling with moral ambiguity and personal vulnerability. Often portrayed as physically unimposing but intellectually formidable, Smiley embodies the quiet heroism and ethical struggles of espionage, standing in contrast to more glamorous spy archetypes."
+    },
+    {
+      "title": "Themes",
+      "body": "Recurring themes include trust and betrayal, the futility of ideological conflict, and the toll of living a double life. The series highlights institutional decay and political machinations within intelligence agencies, creating a nuanced critique of Cold War realities. It explores how personal ethics intersect with national duty in an environment rife with subterfuge."
+    },
+    {
+      "title": "Legacy",
+      "body": "The George Smiley Series established le Carré as a master of espionage fiction and has influenced countless writers and filmmakers. Smiley's character redefined the spy genre, paving the way for more introspective and realistic portrayals of intelligence work. Adaptations continue to renew popular interest in Smiley’s stories and the Cold War era."
+    }
+  ],
+  "aliases": [
+    "Smiley Series",
+    "George Smiley Novels"
+  ],
+  "relationships": [
+    {
+      "type": "created_by",
+      "target": "f66c22f3-f2ad-4d17-bf5c-f0bde7a79d63"
+    },
+    {
+      "type": "features_character",
+      "target": "b72a1e33-745b-4a6f-8eea-b4bb365ddb2a"
+    },
+    {
+      "type": "includes_franchise",
+      "target": "1e271d3c-46e7-44b9-bc95-73e8e97f9333"
+    },
+    {
+      "type": "includes_book",
+      "target": "32c5d5e9-2e8f-43f3-982d-9846bc4a1450"
+    }
+  ],
+  "properties": {
+    "genre": "Spy Fiction",
+    "medium": "Books",
+    "start_year": 1961,
+    "notable_character": "George Smiley"
+  },
+  "tags": [
+    "spy fiction",
+    "john le carré",
+    "george smiley",
+    "cold war",
+    "espionage",
+    "novel series",
+    "literature",
+    "thriller"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "65a1271b-9a4f-4e6f-8dc7-8ed652b2c2a7",
+  "type": "character",
+  "name": "Saruman",
+  "description": "Saruman is a powerful wizard initially leader of the Istari who falls to darkness under Sauron's influence.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Saruman, also known as Curunír in Elvish, is one of the five Istari sent to Middle-earth by the Valar to assist in opposing Sauron. Originally the chief of the wizards, he established his stronghold at Isengard and was renowned for his great knowledge and craftiness. However, his desire to rival Sauron led him to betray the Free Peoples, seeking the One Ring for himself. His fall marks a pivotal shift in the struggle for Middle-earth, showcasing the perils of pride and corruption."
+    },
+    {
+      "title": "Personality",
+      "body": "Saruman's personality evolves from a wise and respected guide to a prideful, manipulative antagonist. Initially committed to resisting evil, his ambitions cloud his judgment, driving him toward deceit and cruelty. He is a master of rhetoric, able to persuade and command others, but ultimately his lust for power blinds him. Saruman is characterized by his arrogance, bitterness, and strategic cunning, making him a dangerous adversary both politically and magically."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Fellowship of the Ring,' Saruman functions as a significant adversary whose betrayal forms a major obstacle for the Fellowship. His manipulation of the Orcs and creation of Uruk-hai exemplify his shift toward evil, directly challenging Gandalf and the Free Peoples. His plot to seize the One Ring illustrates the deepening conflict beyond Sauron's immediate threat, emphasizing themes of fallibility and temptation."
+    },
+    {
+      "title": "Relationships",
+      "body": "Saruman was once allied with Gandalf and the White Council, sharing a common cause against Sauron. However, his secret alliance with Sauron and eventual rebellion mark his severance from the Free Peoples' alliance. He manipulates and enslaves Orcs and men under his command and confronts Gandalf in a power struggle. Saruman's rivalry with Gandalf and antagonism towards the Fellowship underscore his complex and tragic role."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Saruman is a white wizard of immense magical power and vast knowledge of lore, machinery, and voice-based persuasion. His talents include sorcery, enchantment, and the crafting of enchanted beings, notably the Uruk-hai. Saruman's voice is a weapon, capable of bending wills and spreading falsehoods. His expertise in smithcraft and lore rival Sauron's and he holds great influence over many through charisma and fear."
+    }
+  ],
+  "aliases": [
+    "Curunír",
+    "Saruman the White",
+    "The White Wizard",
+    "Lord of Isengard"
+  ],
+  "relationships": [
+    {
+      "type": "servant_of",
+      "target": "5fcd7a2e-6397-45dd-82dd-936dbeb0f251"
+    },
+    {
+      "type": "rival_of",
+      "target": "28a92e48-bc40-4e1a-865f-1e2a6e0226e2"
+    }
+  ],
+  "properties": {
+    "title": "Wizard",
+    "allegiance": "Istari (formerly), Sauron (later)",
+    "realm": "Isengard",
+    "weapon": "Staff",
+    "race": "Maia"
+  },
+  "tags": [
+    "Istari",
+    "Wizard",
+    "Magic",
+    "Traitor",
+    "Middle-earth",
+    "Power",
+    "Antagonist"
+  ]
+}

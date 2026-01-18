@@ -1,0 +1,51 @@
+{
+  "id": "f6d7a8d1-cf2b-4a64-95a7-2e210c854e48",
+  "type": "item",
+  "name": "The Horse Head",
+  "description": "A severed horse head used as a brutal warning and threat in The Godfather.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Horse Head is a notorious item symbolizing a ruthless warning within The Godfather narrative. It is used by the Corleone family to intimidate others, signifying the deadly consequences of crossing them. Its shocking presence evokes terror and compels compliance from adversaries or those who owe debts."
+    },
+    {
+      "title": "Appearance",
+      "body": "The item is a realistic, severed horse head, gruesomely realistic to enhance the horror effect. In the film, it is placed in the bed of a film producer, waking him in the most disturbing manner to deliver a silent yet terrifying message. The head’s lifelike appearance is crucial to its impact as a symbol of threat."
+    },
+    {
+      "title": "Function",
+      "body": "The horse head is a psychological weapon rather than a conventional tool, designed to instill fear and exert control. It conveys a non-verbal ultimatum, making clear that refusal or defiance will result in deadly reprisals. Such tactics are characteristic of the intimidation methods used by Mafia families in the series."
+    },
+    {
+      "title": "History",
+      "body": "The use of a horse head as a message is famously portrayed in the first Godfather film, where it serves as a turning point in negotiations with Hollywood producer Jack Woltz. This grisly tactic underlines the Corleone family's influence and readiness to employ brutal means to achieve their ends."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Horse Head scene stands as one of the most iconic and chilling moments in cinematic history, symbolizing the cold and violent strategies of organized crime. It firmly establishes the Corleone's power and the seriousness of their demands, marking a pivotal moment in Michael Corleone's rise in the family business."
+    }
+  ],
+  "aliases": [
+    "Horse Head",
+    "The Horse's Head",
+    "Horse Head Threat",
+    "Severed Horse Head"
+  ],
+  "relationships": [],
+  "properties": {
+    "material": "Animal head (horse)",
+    "usage": "Intimidation",
+    "origin": "Corleone Family tactic",
+    "notability": "Iconic scene",
+    "impact": "Psychological terror"
+  },
+  "tags": [
+    "iconic_scene",
+    "intimidation",
+    "mafia",
+    "symbol",
+    "The Godfather",
+    "movie_prop",
+    "psychological_warfare"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "9f2b3a1e-4d7a-4f6f-a99b-4b2239d758ad",
+  "type": "item",
+  "name": "Oddjob's Bowler Hat",
+  "description": "A deadly weaponized bowler hat used by Goldfinger's henchman Oddjob, capable of lethal precision attacks.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Oddjob's Bowler Hat is an iconic weapon featured in the film Goldfinger. Worn by Goldfinger’s fiercely loyal enforcer Oddjob, the hat is custom-modified with a razor-sharp, weighted brim allowing it to be thrown with deadly accuracy. It combines traditional British fashion with lethal functionality, becoming a signature accessory of one of Bond’s most memorable adversaries."
+    },
+    {
+      "title": "Appearance",
+      "body": "The hat resembles a classic black bowler hat, with a perfectly rounded crown and rigid brim, incorporating inconspicuous but heavy metal plating within the edges. Its simple appearance belies the deadly capacity hidden within, making it an efficient surprise weapon in combat situations. Oddjob’s silent, menacing demeanor paired with this unusual weapon increases its intimidation factor."
+    },
+    {
+      "title": "Function",
+      "body": "Designed to be thrown like a discus or frisbee, the bowler hat can cut through metal and sever limbs with precision. Beyond its offensive capability, it serves as a symbol of Oddjob's unmatched skill and loyalty to Goldfinger. The hat can be recalled or retrieved manually, often used as a close-range or ranged weapon in assassin-style attacks."
+    },
+    {
+      "title": "History",
+      "body": "The idea of weaponizing a bowler hat reflects Goldfinger’s penchant for blending elegance and danger. Oddjob’s use of the hat during key confrontations with James Bond defined it as a unique gadget weapon in Bond lore. The novelty and effectiveness of the hat elevated Oddjob’s status within cinematic henchmen archetypes."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Oddjob's Bowler Hat is central to his characterization and several memorable scenes, including tense combat and assassination attempts. It symbolizes the blend of sophistication and concealed menace that typifies Goldfinger’s operation. The weapon also underscores the dangerous lengths that Goldfinger’s organization will go to maintain power."
+    }
+  ],
+  "aliases": [
+    "Oddjob's Hat",
+    "Deadly Bowler",
+    "Goldfinger's Weapon",
+    "Flying Hat",
+    "Harmful Bowler"
+  ],
+  "relationships": [
+    {
+      "type": "used_by",
+      "target": "e91b6591-828c-4f44-8961-9830dc031b96"
+    }
+  ],
+  "properties": {
+    "type": "Weaponized Hat",
+    "material": "Metal-plated",
+    "user": "Oddjob",
+    "special_features": [
+      "Weighted Brim",
+      "Razor Sharp Edges"
+    ],
+    "film_appearance": 1964
+  },
+  "tags": [
+    "Weapon",
+    "Henchman Gear",
+    "Oddjob",
+    "Goldfinger",
+    "Bond Villains",
+    "Gadget",
+    "Throwing Weapon"
+  ]
+}

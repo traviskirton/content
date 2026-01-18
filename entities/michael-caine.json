@@ -65,6 +65,14 @@
     {
       "type": "worked_with",
       "target": "e689d7d2-51c0-4fe1-a9b8-2334e19b0d1e"
+    },
+    {
+      "type": "part_of",
+      "target": "c9b4e5f3-371e-4dc3-b2f5-1a80a2e965f9"
+    },
+    {
+      "type": "acted_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
     }
   ],
   "properties": {
@@ -81,6 +89,7 @@
     "drama",
     "sci-fi",
     "classic-hollywood",
-    "modern"
+    "modern",
+    "the-batman-reeves"
   ]
 }

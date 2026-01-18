@@ -1,0 +1,62 @@
+{
+  "id": "1e271d3c-46e7-44b9-bc95-73e8e97f9333",
+  "type": "franchise",
+  "name": "Karla Trilogy",
+  "description": "A trilogy of espionage novels by John le Carré featuring George Smiley's hunt for a Soviet mole.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Karla Trilogy is a set of three espionage novels by John le Carré that examine the Cold War spy world through the investigations of George Smiley. The trilogy explores betrayal, loyalty, and the moral ambiguity of intelligence tradecraft, centering on the search for a Soviet mole within the British Secret Service. The books are celebrated for their intricate plotting and psychological depth."
+    },
+    {
+      "title": "Books Included",
+      "body": "The trilogy consists of 'Tinker, Tailor, Soldier, Spy' (1974), 'The Honourable Schoolboy' (1977), and 'Smiley's People' (1979). Together, they chronicle the decline of the British intelligence service and the personal and professional challenges faced by George Smiley as he confronts his nemesis, the enigmatic Soviet spymaster known only as Karla."
+    },
+    {
+      "title": "Themes",
+      "body": "Central themes include duplicity and betrayal, reflecting the Cold War's pervasive paranoia. The novels probe the ethical complexities of espionage, focusing on the personal costs endured by agents. They emphasize the tension between duty and conscience, and the persistent fog of uncertainty surrounding truth in spycraft."
+    },
+    {
+      "title": "Cultural Impact",
+      "body": "The Karla Trilogy has greatly influenced spy genre conventions, emphasizing realism and psychological nuance. Adaptations, especially the 1979 BBC miniseries and the 2011 film of 'Tinker, Tailor, Soldier, Spy,' have brought the stories to wider audiences and contributed to popularizing a more serious, introspective vision of espionage."
+    },
+    {
+      "title": "Legacy",
+      "body": "The trilogy stands as a hallmark of espionage fiction, with George Smiley as a defining character embodying the cerebral, morally conflicted spy. Its legacy endures in literature, film, and television, inspiring subsequent works that explore intelligence operations beneath the veneer of action to reveal human complexity."
+    }
+  ],
+  "aliases": [
+    "Smiley Trilogy",
+    "Le Carré's Karla Trilogy"
+  ],
+  "relationships": [
+    {
+      "type": "created_by",
+      "target": "f66c22f3-f2ad-4d17-bf5c-f0bde7a79d63"
+    },
+    {
+      "type": "features_character",
+      "target": "b72a1e33-745b-4a6f-8eea-b4bb365ddb2a"
+    },
+    {
+      "type": "includes_book",
+      "target": "32c5d5e9-2e8f-43f3-982d-9846bc4a1450"
+    }
+  ],
+  "properties": {
+    "start_year": 1974,
+    "end_year": 1979,
+    "genre": "Espionage Fiction",
+    "medium": "Novels"
+  },
+  "tags": [
+    "spy fiction",
+    "cold war",
+    "john le carré",
+    "espionage",
+    "series",
+    "literature",
+    "thriller",
+    "george smiley"
+  ]
+}

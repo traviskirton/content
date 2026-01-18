@@ -1,58 +1,48 @@
 {
-  "id": "eccd0f82-c15b-4a6f-a3a4-a8c5b2391d1a",
+  "id": "4d8ecfab-7db7-4e8c-a2ba-2e0dea54ce91",
   "type": "character",
-  "name": "M",
-  "description": "The codename for the head of MI6 and James Bond's superior in the James Bond series.",
-  "aliases": [
-    "Head of MI6",
-    "Sir Miles Messervy",
-    "Mallory"
-  ],
+  "name": "M (James Bond)",
+  "description": "The codename of the head of MI6, James Bond's superior and handler, responsible for assigning missions.",
   "content": [
     {
       "title": "Background",
-      "body": "**M** is the codename used for the director of the British Secret Intelligence Service (MI6). The character has been portrayed by several individuals in the James Bond franchise, with the original literary character often named Sir Miles Messervy. Generally depicted as a career intelligence officer and a high-ranking official in the British government, M oversees MI6 operations and directs agents such as James Bond. The role has evolved across novels and films to reflect different leadership styles and periods in British intelligence history. For example, in later films, the character’s name is revealed as Gareth Mallory.\n\nThe background often highlights M's extensive experience in espionage and politics, with a distinguished career that commands respect from subordinates and the British government alike."
+      "body": "M is the codename used for the Director of the Secret Intelligence Service (MI6), the British foreign intelligence agency. The character was introduced in Ian Fleming’s novels and has appeared in all James Bond adaptations. M serves as the ultimate authority for Bond’s missions, providing directives, resources, and oversight. The identity behind M has varied, but typically portrays a senior, authoritative figure immersed in high-level espionage and government politics."
     },
     {
       "title": "Personality",
-      "body": "- **Authoritative and disciplined:** M embodies the strict discipline and professionalism expected of a spy chief.\n- **Pragmatic and practical:** Balances national security concerns with the risks and collateral damage of espionage.\n- **Protective yet demanding:** Shows concern for agents like Bond but expects high standards and results.\n- **Wry and occasionally sarcastic:** Often uses dry wit, especially in interactions with Bond.\n- **Stubborn and cautious:** Sometimes skeptical of Bond's unorthodox methods but ultimately trusts his effectiveness.\n\nM’s motivations revolve around protecting the United Kingdom’s interests, maintaining order within MI6, and managing the complex geopolitical threats the agency faces. Flaws include occasional rigidity, political expediency, and emotional restraint that distances M from personal connections."
+      "body": "M is often depicted as stern, pragmatic, and authoritative, embodying the serious and bureaucratic aspects of intelligence operations. They demonstrate a strong sense of duty and responsibility, as well as occasional skepticism about Bond’s unorthodox methods. However, M frequently shows a paternal or protective attitude toward Bond and the agency, balancing operational demands with concern for personal safety and national interest."
     },
     {
       "title": "Story Role",
-      "body": "M serves as the primary authority figure and handler for James Bond, giving assignments, authorizing missions, and providing strategic oversight. The character often acts as a mentor and foil to Bond, representing institutional responsibility and accountability. M’s interactions help ground Bond’s escapades within a larger intelligence context.\n\nCharacter arcs involving M include struggles with internal intelligence politics, facing threats against MI6 itself, and adapting leadership to new global challenges. In some adaptations, M’s relationship with Bond deepens, showing mutual respect and sometimes conflict over mission tactics."
+      "body": "M acts as Bond’s direct superior and is pivotal in the narrative by setting objectives, assessing risks, and sometimes restricting or guiding Bond’s actions. This role adds tension and accountability to Bond’s often reckless exploits. M represents the institutional side of espionage, contrasting Bond’s fieldwork. Throughout the series, M provides exposition and political context while occasionally becoming the target of conspiracies or threats."
     },
     {
       "title": "Relationships",
-      "body": "- **James Bond:** M is Bond’s boss and mentor, with a complex relationship encompassing authority, trust, reprimand, and mutual respect.\n- **MI6 Staff:** Oversees a network of agents and operatives, sometimes portrayed as a stabilizing figure.\n- **British Government and Officials:** Frequently depicted navigating political pressures and serving as a liaison between intelligence operations and government leadership.\n- **Villains and Adversaries:** M is often targeted by antagonists seeking to undermine MI6 or the British government, raising the stakes for Bond's missions."
+      "body": "M’s primary relationship is with James Bond as his commanding officer. The dynamic often reflects respect tempered by professional disapproval or concern over Bond’s methods. M may also interact with other MI6 personnel like Miss Moneypenny and Q, reflecting the operational hierarchy within the agency. While mostly formal, moments of empathy and camaraderie appear, reflecting the complexities of high-stress intelligence work."
     },
     {
-      "title": "Abilities",
-      "body": "- Expert in espionage management, intelligence analysis, and government liaison.\n- Skilled in strategic decision-making, crisis management, and leadership.\n- Extensive knowledge of international politics and covert operations.\n- Strong interpersonal skills used to command respect from agents and officials alike.\n\nUnlike field agents, M’s strengths lie in leadership and oversight rather than direct combat."
+      "title": "Abilities and Skills",
+      "body": "M possesses extensive intelligence experience, strategic acumen, and political savvy. Equipped with deep knowledge of international affairs, M makes critical decisions influencing intelligence operations. While not directly involved in fieldwork, M’s leadership ensures the functioning and prioritization of complex missions. Their role requires a balance of discretion, decisiveness, and management capabilities."
     }
   ],
+  "aliases": [
+    "Chief of MI6",
+    "Director of MI6",
+    "Moneypenny's Boss"
+  ],
+  "relationships": [],
   "properties": {
-    "species": "human",
-    "occupation": "Director of MI6 (Head of British Secret Intelligence Service)",
-    "portrayed_by": [
-      "Bernard Lee",
-      "Robert Brown",
-      "Judi Dench",
-      "Ralph Fiennes"
-    ]
+    "position": "Head of MI6",
+    "gender": "varies",
+    "role": "handler and supervisor",
+    "nationality": "British"
   },
-  "relationships": [
-    {
-      "type": "related_to",
-      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
-    }
-  ],
   "tags": [
-    "supporting",
-    "mentor",
-    "spy",
-    "intelligence_officer",
-    "british",
-    "mi6",
-    "authority_figure"
+    "fictional character",
+    "spy fiction",
+    "MI6",
+    "authority",
+    "supervisor",
+    "espionage"
   ]
 }

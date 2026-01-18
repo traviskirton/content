@@ -1,0 +1,49 @@
+{
+  "id": "e99c1a3d-0a17-4baf-9bb2-598f2f58e926",
+  "type": "person",
+  "name": "Michael V. Gazzo",
+  "description": "American actor and playwright known for his role as Frank Pentangeli in The Godfather Part II, depicting a complex and tragic mobster figure.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Michael V. Gazzo was born on April 5, 1923, in Hillside, New Jersey. He was an actor and playwright who gained recognition not only for his acting talent but also for his contributions to theater as a playwright. Gazzo’s deep understanding of dramatic storytelling added layers to the characters he portrayed, most famously Frank Pentangeli."
+    },
+    {
+      "title": "Career",
+      "body": "Gazzo’s career spanned stage and screen, but he achieved widespread fame through his role in The Godfather Part II, portraying Frank Pentangeli, a mobster caught in the violent politics of organized crime. His performance earned him an Academy Award nomination for Best Supporting Actor, highlighting his ability to evoke empathy and conflict in his characters."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Aside from The Godfather Part II, Gazzo was known for his work in films such as Broadway productions and the play 'A Hatful of Rain', which he also wrote. His versatility allowed him to navigate between acting and writing, making him a respected figure in theatrical and cinematic circles."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Gazzo excelled in portraying nuanced, conflicted characters frequently in crime dramas. His ability to convey vulnerability amid toughness brought humanity to roles that might otherwise be one-dimensional. His influence in The Godfather Part II added authenticity to the depiction of the Mafia underworld."
+    }
+  ],
+  "aliases": [
+    "Mike Gazzo",
+    "Michael Vincent Gazzo"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "a34e10f7-2f77-48bd-803f-efa34f19c87f"
+    }
+  ],
+  "properties": {
+    "birthdate": "1923-04-05",
+    "deathdate": "1995-02-14",
+    "occupation": "Actor, Playwright",
+    "nationality": "American",
+    "award_nomination": "Academy Award for Best Supporting Actor (1975)"
+  },
+  "tags": [
+    "actor",
+    "playwright",
+    "The Godfather Part II",
+    "Academy Award Nominee",
+    "crime drama",
+    "theater"
+  ]
+}

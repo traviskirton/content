@@ -1,0 +1,66 @@
+{
+  "id": "6e7a59f5-1f96-4ffe-a2d4-5433b5eae72e",
+  "type": "location",
+  "name": "Dartmoor",
+  "description": "A rugged and wild moorland region in Devon, England, known for its atmospheric landscapes and as the setting for much of \"The Hound of the Baskervilles.\"",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Dartmoor is an expansive area of moorland covering approximately 368 square miles of Devon. Known for its tors—rocky hilltops—and boggy expanses, the area is largely wild and sparsely populated. In \"The Hound of the Baskervilles,\" it provides a haunting and atmospheric setting, filled with natural dangers and mystery, well suited for the novel's gothic tone."
+    },
+    {
+      "title": "Appearance",
+      "body": "The moor features sweeping open landscapes dominated by heather, bracken, and peat bogs, interspersed with granite tors that rise abruptly from the terrain. The fog frequently shrouds the moor, adding an ethereal feel, and the treacherous Grimpen Mire marks one of its most feared natural hazards, notorious for its quicksand and deadly bogs."
+    },
+    {
+      "title": "History",
+      "body": "Dartmoor has long been associated with legends and folklore, often seen as a place of mystery and superstition. Its history includes ancient settlements, medieval farms, and mining activity. The area has inspired many literary works, notably Arthur Conan Doyle’s use of it as a setting that complements the eerie and suspenseful narrative of \"The Hound of the Baskervilles.\""
+    },
+    {
+      "title": "Story Significance",
+      "body": "In the novel, Dartmoor is the physical and symbolic wilderness that encloses the mystery of the Baskerville curse. The moor’s landscape creates a naturally ominous backdrop that isolates the characters, adding to the suspense and heightening the stakes in the investigation conducted by Holmes and Watson. Key locations such as Baskerville Hall and Grimpen Mire all lie within this area."
+    }
+  ],
+  "aliases": [
+    "Dartmoor Moors",
+    "The Moorlands"
+  ],
+  "relationships": [
+    {
+      "type": "contains",
+      "target": "b7d9110d-26a1-47b5-94d2-193b6c4e93b4"
+    },
+    {
+      "type": "contains",
+      "target": "b9c0b025-5715-4f6e-94f2-8e15666ce8f1"
+    },
+    {
+      "type": "located_near",
+      "target": "c543a7b3-fb33-4b4f-9aeb-df2b9fc19a48"
+    },
+    {
+      "type": "contains",
+      "target": "d4e6f31c-2d27-42b3-95f5-b56c842f6e12"
+    },
+    {
+      "type": "contains",
+      "target": "c543a7b3-fb33-4b4f-9aeb-df2b9fc19a48"
+    }
+  ],
+  "properties": {
+    "location": "Devon, England",
+    "area_size": "Approximately 368 square miles",
+    "terrain_type": "Moorland",
+    "climate": "Temperate oceanic with frequent fog"
+  },
+  "tags": [
+    "moorland",
+    "Devon",
+    "wildlife",
+    "setting",
+    "gothic",
+    "landscape",
+    "folklore",
+    "literature"
+  ]
+}

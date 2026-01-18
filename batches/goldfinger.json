@@ -1,0 +1,89 @@
+{
+  "source": "Goldfinger",
+  "entities": [
+    {
+      "type": "book",
+      "name": "Goldfinger (Novel)"
+    },
+    {
+      "type": "character",
+      "name": "Auric Goldfinger"
+    },
+    {
+      "type": "character",
+      "name": "Oddjob"
+    },
+    {
+      "type": "character",
+      "name": "Pussy Galore"
+    },
+    {
+      "type": "character",
+      "name": "Jill Masterton"
+    },
+    {
+      "type": "character",
+      "name": "Tilly Masterton"
+    },
+    {
+      "type": "character",
+      "name": "Colonel Smithers"
+    },
+    {
+      "type": "character",
+      "name": "Mr. Strap"
+    },
+    {
+      "type": "character",
+      "name": "Mr. Midnight"
+    },
+    {
+      "type": "location",
+      "name": "Fort Knox"
+    },
+    {
+      "type": "location",
+      "name": "Goldfinger's Factory"
+    },
+    {
+      "type": "location",
+      "name": "Miami Beach (Bond)"
+    },
+    {
+      "type": "location",
+      "name": "Reculver (Bond)"
+    },
+    {
+      "type": "location",
+      "name": "Geneva (Bond)"
+    },
+    {
+      "type": "organization",
+      "name": "Pussy Galore's Flying Circus"
+    },
+    {
+      "type": "organization",
+      "name": "The Mob (Goldfinger)"
+    },
+    {
+      "type": "item",
+      "name": "Aston Martin DB Mark III"
+    },
+    {
+      "type": "item",
+      "name": "Operation Grand Slam"
+    },
+    {
+      "type": "item",
+      "name": "Golden Girl (Corpse)"
+    },
+    {
+      "type": "item",
+      "name": "Oddjob's Bowler Hat"
+    },
+    {
+      "type": "item",
+      "name": "Goldfinger's Gold"
+    }
+  ]
+}

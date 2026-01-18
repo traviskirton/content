@@ -1,0 +1,61 @@
+{
+  "id": "8f5a4e30-28e4-4e3d-9096-5ebeb501a9bd",
+  "type": "person",
+  "name": "Marlon Brando",
+  "description": "An iconic American actor best known for his powerful portrayal of Vito Corleone in The Godfather, revolutionizing acting with his naturalistic style.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Marlon Brando Jr., born on April 3, 1924, in Omaha, Nebraska, became one of the most influential actors of the 20th century. His early passion for theater led him to method acting, which gained him substantial fame and critical acclaim. Brando's career spanned over five decades with groundbreaking performances across stage and screen."
+    },
+    {
+      "title": "Career Highlights",
+      "body": "Brando's career is marked by classic roles in films such as 'A Streetcar Named Desire,' 'On the Waterfront,' and 'Apocalypse Now.' His legendary role as Vito Corleone in 'The Godfather' earned him an Academy Award, cementing his place as a cinematic icon known for his intense and authentic acting methods."
+    },
+    {
+      "title": "Notable Works",
+      "body": "'The Godfather' (1972) is perhaps Brando’s most celebrated work, where his portrayal of Don Vito Corleone became a defining moment in cinema history. Other notable films include 'Last Tango in Paris' and ‘Julius Caesar,’ showcasing his versatility and dedication to craft."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Brando pioneered method acting in Hollywood, delivering emotionally raw and nuanced performances that broke away from theatrical traditions. His influence reshaped acting standards worldwide, inspiring countless actors and directors to pursue naturalistic and depth-driven techniques."
+    },
+    {
+      "title": "Legacy",
+      "body": "Marlon Brando is regarded as one of cinema’s greatest actors, whose work elevated the art of film acting. His tenure as Vito Corleone continues to be celebrated as an unparalleled portrayal of power, vulnerability, and humanity in gangster cinema."
+    }
+  ],
+  "aliases": [
+    "Don Vito Corleone",
+    "Marlon Brando Jr.",
+    "Brando"
+  ],
+  "relationships": [
+    {
+      "type": "portrays",
+      "target": "37f90f75-1f4c-4d85-8d2e-eafcebb09118"
+    },
+    {
+      "type": "worked_with",
+      "target": "3a0c7f6d-9b31-478c-a716-f3fdbc3b10e7"
+    }
+  ],
+  "properties": {
+    "birth_date": "1924-04-03",
+    "death_date": "2004-07-01",
+    "occupation": [
+      "Actor"
+    ],
+    "nationality": "American",
+    "awards": "Two Academy Awards"
+  },
+  "tags": [
+    "actor",
+    "method acting",
+    "legendary",
+    "The Godfather",
+    "cinematic icon",
+    "Hollywood",
+    "naturalistic acting"
+  ]
+}

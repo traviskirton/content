@@ -1,0 +1,58 @@
+{
+  "id": "831f6c2b-f6b2-4399-a3a5-31abbb2e43d4",
+  "type": "item",
+  "name": "Periscope Briefcase",
+  "description": "A sophisticated espionage device disguised as a briefcase, equipped with a periscope and hidden weaponry, featured in 'From Russia with Love'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Periscope Briefcase is an ingenious piece of spy technology used in Ian Fleming's James Bond universe, prominently appearing in the novel and film 'From Russia with Love'. It serves as a multifunctional covert tool that not only functions as a briefcase but also houses an extendable periscope for discreet observation, a concealed knife for close combat, and hidden compartments for secret documents or items."
+    },
+    {
+      "title": "Appearance",
+      "body": "On the surface, the Periscope Briefcase looks like a classic, leather-bound attaché case with polished brass hinges and robust locks, adhering to the 1960s style elegance befitting a secret agent like James Bond. Internally, it contains an intricate mechanism for the periscope, which can be raised through the top of the briefcase, enabling the user to see over obstacles or around corners without being exposed. The interior compartments are cleverly designed to conceal weapons and other espionage tools, all maintaining the briefcase's innocuous facade."
+    },
+    {
+      "title": "Function",
+      "body": "The primary function of the Periscope Briefcase is to enable an operative to conduct surveillance and self-defense while maintaining a low profile. The retractable periscope extends upward for visual reconnaissance, especially useful in situations requiring concealment such as urban or indoor environments. Additionally, hidden within the briefcase is a razor-sharp folding knife, providing a defense option if the user is confronted directly. The briefcase also secures vital intelligence via secret compartments, making it a portable, all-in-one espionage device."
+    },
+    {
+      "title": "History",
+      "body": "The Periscope Briefcase was designed and issued to James Bond by Q Branch, the research and development division of British intelligence in the 1963 film adaptation of 'From Russia with Love'. It exemplified the innovative gadgetry that became a hallmark of the Bond franchise. The briefcase was tailored for Bond’s mission involving the retrieval of the Soviet encryption machine, the Lektor, by blending surveillance and defense capabilities in a single, inconspicuous item."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'From Russia with Love', the Periscope Briefcase aids Bond in navigating the dangerous espionage scenario set around the defection of a Soviet cipher machine. The briefcase's periscope allows Bond to safely scout and anticipate threats, while the concealed knife adds a layer of personal security critical to surviving assassination attempts. This item symbolizes the blend of style, technology, and danger synonymous with Bond’s missions, underscoring the resourcefulness and preparedness required in Cold War spycraft."
+    }
+  ],
+  "aliases": [
+    "Periscope Spy Briefcase",
+    "Q Branch Briefcase",
+    "Bond's Gadget Briefcase",
+    "Espionage Periscope Case",
+    "From Russia with Love Briefcase"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "831f6c2b-f6b2-4399-a3a5-31abbb2e43d4"
+    }
+  ],
+  "properties": {
+    "material": "Leather and metal",
+    "gadgets": 3,
+    "first_appearance_year": 1963,
+    "origin": "Q Branch",
+    "usage": "Espionage and self-defense"
+  },
+  "tags": [
+    "James Bond",
+    "Espionage gadget",
+    "Periscope",
+    "Briefcase",
+    "Spy technology",
+    "Cold War",
+    "Q Branch",
+    "From Russia with Love"
+  ]
+}

@@ -29,6 +29,10 @@
     {
       "type": "filming_location_for",
       "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "contains",
+      "target": "21e16d08-8c5a-462c-9730-73ff2c3cba00"
     }
   ],
   "properties": {

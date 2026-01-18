@@ -1,0 +1,63 @@
+{
+  "id": "35d0df0f-2cce-408e-8a3c-7e285e2bee16",
+  "type": "book",
+  "name": "The Adventure of the Speckled Band",
+  "description": "A Sherlock Holmes short story by Arthur Conan Doyle involving a mysterious death connected to a sinister family secret.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Adventure of the Speckled Band is one of the 56 short stories featuring Sherlock Holmes, penned by Sir Arthur Conan Doyle. First published in 1892, it is renowned for its compact narrative, atmospheric setting, and ingenious plot centered on a deadly mystery surrounding an English country estate. The story was originally published in The Strand Magazine and later included in The Adventures of Sherlock Holmes collection."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "In this story, Helen Stoner seeks the aid of Sherlock Holmes after fearing for her life following the mysterious death of her sister Julia, who died in their family home under perplexing circumstances. Holmes and Watson investigate the secluded Stoke Moran estate, uncovering strange noises and a curious ventilator and bell-pull that appear nonfunctional. Ultimately, Holmes reveals the culprit to be Dr. Grimesby Roylott, Helen's stepfather, who used a venomous swamp adder—dubbed the 'speckled band'—as his murder weapon to preserve his financial interests. The story concludes with Holmes' intervention averting Helen's fate."
+    },
+    {
+      "title": "Themes",
+      "body": "The story explores themes such as the abuse of power, the legacy of colonialism, and the limits of Victorian science. Roylott’s character embodies the threatening brute force contrasting with Holmes’ rationalism and deductive method. The exotic and mysterious swamp adder symbolizes both the dark secrets lurking beneath genteel society and the colonial influence of India, highlighting anxieties about the unknown and the misuse of foreign knowledge."
+    },
+    {
+      "title": "Reception",
+      "body": "The Adventure of the Speckled Band is widely regarded as one of Conan Doyle’s best Sherlock Holmes stories and is frequently lauded for its tight plotting and suspenseful atmosphere. Critics praise the story for its effective use of gothic horror elements combined with Sherlockian deduction. It has been adapted numerous times for radio, television, and theater, cementing its place in popular culture as an iconic detective tale."
+    }
+  ],
+  "aliases": [
+    "Speckled Band",
+    "The Speckled Band",
+    "Sherlock Holmes: The Speckled Band"
+  ],
+  "relationships": [
+    {
+      "type": "features_character",
+      "target": "ee1d3001-d3d9-49de-b463-03c1de2d3db3"
+    },
+    {
+      "type": "features_character",
+      "target": "91d00a09-0b0a-4f4a-9548-f2c50668944d"
+    },
+    {
+      "type": "features_character",
+      "target": "f06ae0e3-2d91-40fa-8bc6-ec62d8b9a65e"
+    },
+    {
+      "type": "features_character",
+      "target": "ae9ebafb-0449-4a88-b163-fb22d2c3f0f6"
+    }
+  ],
+  "properties": {
+    "author": "Arthur Conan Doyle",
+    "first_published": "1892",
+    "genre": "Detective fiction, Mystery",
+    "collection": "The Adventures of Sherlock Holmes"
+  },
+  "tags": [
+    "Sherlock Holmes",
+    "Arthur Conan Doyle",
+    "detective fiction",
+    "mystery",
+    "short story",
+    "Victorian literature",
+    "classic",
+    "crime"
+  ]
+}

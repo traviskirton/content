@@ -1,0 +1,66 @@
+{
+  "id": "812a6c69-b6f9-4eaf-9b66-57e69f055c71",
+  "type": "person",
+  "name": "Henri Lamiraux",
+  "description": "Henri Lamiraux is a lesser-known figure associated with early iPhone software development and user interface innovation.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Henri Lamiraux is recognized for his role within Apple's software engineering teams, contributing to the development of mobile operating systems during the nascent years of the iPhone. While details about his life are less public, his technical contributions have impacted user experience design and software functionality."
+    },
+    {
+      "title": "Career",
+      "body": "Lamiraux worked as part of the software development teams focused on iOS components, specializing in input methods and browser technologies. His technical expertise supported the refinement and optimization of user interface elements, ensuring seamless performance and responsiveness in Apple's products."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Among Henri Lamiraux's key contributions were enhancements to the Safari Browser tailored for mobile use, aiding in its fluidity and ease of navigation. He also contributed to the implementation of predictive text and input algorithms within the iPhone Keyboard, directly influencing typing accuracy and speed."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Henri's approach emphasized technical robustness and user-centric design, focusing on creating software components that blend functionality with intuitive use. His influence is seen in the smooth scrolling, fast rendering, and predictive typing mechanisms that became hallmarks of Apple's mobile software."
+    },
+    {
+      "title": "Relationships",
+      "body": "Working alongside designers like Greg Christie and within Apple's renowned technology ecosystem, Henri Lamiraux played a supportive but crucial role in the development of signature products such as the iPhone Keyboard and Safari Browser, directly contributing to Apple's mobile success."
+    }
+  ],
+  "aliases": [
+    "Henri L.",
+    "H. Lamiraux",
+    "Apple Software Engineer"
+  ],
+  "relationships": [
+    {
+      "type": "works_for",
+      "target": "c848cc2b-5060-4c37-8a82-f8e9e10f23d9"
+    },
+    {
+      "type": "contributed_to",
+      "target": "8123d0b0-c6c4-4aec-847b-44a52a84d253"
+    },
+    {
+      "type": "contributed_to",
+      "target": "6a930372-1e04-4532-bbb5-e3a100c6c5ef"
+    }
+  ],
+  "properties": {
+    "profession": "Software Engineer",
+    "specialization": [
+      "Mobile Software",
+      "Browser Development",
+      "Input Systems"
+    ],
+    "employer": "@@Apple Inc.@@",
+    "nationality": "French"
+  },
+  "tags": [
+    "software",
+    "Apple",
+    "mobile",
+    "iOS",
+    "engineering",
+    "browser",
+    "typing"
+  ]
+}

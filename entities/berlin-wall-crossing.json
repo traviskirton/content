@@ -1,0 +1,47 @@
+{
+  "id": "e40ee5ae-5b51-4513-af1b-7314391fc72d",
+  "type": "location",
+  "name": "Berlin Wall Crossing",
+  "description": "A tense and perilous border crossing in 'Smiley’s People' epitomizing Cold War division and espionage danger.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Berlin Wall Crossing represents one of the most iconic and dangerous junctures in Cold War espionage. In 'Smiley’s People', it serves as a critical physical and symbolic barrier separating East and West, and a key point for secret meetings, defections, and intelligence passage."
+    },
+    {
+      "title": "Appearance",
+      "body": "The crossing is marked by stark concrete barriers, guarded checkpoints, watchtowers, and heavily surveilled zones. The atmosphere is one of austerity, suspicion, and latent threat where each movement is closely monitored by opposing sides."
+    },
+    {
+      "title": "History",
+      "body": "Constructed in 1961, the Berlin Wall physically and ideologically divided East and West Berlin during the Cold War. The Wall Crossing points became flashpoints for espionage operations, defections, and diplomatic confrontations, capturing the era’s tension and paranoia."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'Smiley’s People', the Berlin Wall Crossing is a backdrop for crucial plot events including clandestine meetings and exchanges of information. It epitomizes the personal and political divisions explored in the narrative, reflecting the high stakes of espionage."
+    }
+  ],
+  "aliases": [
+    "Checkpoint Charlie",
+    "Berlin Border Crossing",
+    "Cold War Crossing"
+  ],
+  "relationships": [],
+  "properties": {
+    "location": "Berlin, Germany",
+    "era": "Cold War",
+    "type": "Border crossing",
+    "security_level": "Maximum",
+    "symbolism": "East-West division"
+  },
+  "tags": [
+    "location",
+    "Berlin Wall",
+    "Cold War",
+    "espionage",
+    "border crossing",
+    "le Carré",
+    "Smiley's People",
+    "checkpoint"
+  ]
+}

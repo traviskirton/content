@@ -1,0 +1,60 @@
+{
+  "id": "791cb81b-6ecc-4f5e-a71b-08a731e3bc8a",
+  "type": "item",
+  "name": "Prime Radiant",
+  "description": "The Prime Radiant is a complex device that contains and visualizes Hari Seldon's psychohistory equations, allowing mentalic and scientific analysts to foresee future socio-political trends.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Prime Radiant is a sophisticated technological and mentalic interface designed to hold the entirety of Seldon's psychohistorical equations and models. It is primarily used by the Second Foundation and scientists specializing in psychohistory to visualize and project the future statistical probabilities of human civilization on a galactic scale."
+    },
+    {
+      "title": "Appearance",
+      "body": "The device appears as a large, elaborate holographic projector or a table, emitting intricate three-dimensional patterns of light that represent complex mathematical models and timelines. Its display is dynamic and interactive, showing possible futures as overlapping vectors and changing flows that expert mentalics can interpret with clarity."
+    },
+    {
+      "title": "Function",
+      "body": "Serving as the core tool for psychohistorical analysis, the Prime Radiant allows users to input current galactic data, simulate Seldon Plan trajectories, and evaluate deviations or disruptions. It combines computational power with mentalic feedback from Second Foundation mentalics to update and refine predictions continuously."
+    },
+    {
+      "title": "History",
+      "body": "Developed in the early days of Hari Seldon's Foundation project, the Prime Radiant was indispensable for maintaining the Seldon Plan through centuries of galactic upheaval. Its secrecy and restricted access have been closely guarded by the Second Foundation to prevent misuse or destruction by adversaries."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Prime Radiant serves as the symbol of psychohistory's power and the mentalic prowess of the Second Foundation. It provides crucial plot devices where characters interpret its data to uncover threats to the Plan and devise interventions, highlighting the tension between determinism and free will in the series."
+    }
+  ],
+  "aliases": [
+    "Seldon's Prime Radiant",
+    "Psychohistory Projector",
+    "Psychohistorical Console",
+    "Foundation Radiant"
+  ],
+  "relationships": [
+    {
+      "type": "used_by",
+      "target": "e7b40bfc-4703-452e-8bb6-4399fb276f9a"
+    },
+    {
+      "type": "related_to",
+      "target": "f9d1b8a2-9093-40ed-bb6a-4d3e0a7cfe9f"
+    }
+  ],
+  "properties": {
+    "type": "psychohistorical device",
+    "function": "Predict future societal trends",
+    "user_group": "Second Foundation mentalics",
+    "appearance": "Holographic table/projector",
+    "importance": "Central to Seldon Plan monitoring"
+  },
+  "tags": [
+    "technology",
+    "psychohistory",
+    "science fiction",
+    "Isaac Asimov",
+    "Foundation series",
+    "mentalics",
+    "prediction"
+  ]
+}

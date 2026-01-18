@@ -1,0 +1,65 @@
+{
+  "id": "ae9ebafb-0449-4a88-b163-fb22d2c3f0f6",
+  "type": "character",
+  "name": "Percy Armitage",
+  "description": "A local lawyer concerned with the legal affairs of the Stoner siblings, briefly referenced in The Adventure of the Speckled Band.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Percy Armitage is a regional legal professional connected to the Stoner family estate. He is mentioned in the story as an acquaintance who is involved in legal counsel regarding the family affairs, particularly the inheritance issues complicated by Dr. Roylott’s presence and actions."
+    },
+    {
+      "title": "Personality",
+      "body": "While Percy's direct personality traits are not elaborated upon, his role as a sober and responsible legal advisor implies diligence and a sense of ethical duty. He represents the lawful side of the conflict peripheral to the central mystery."
+    },
+    {
+      "title": "Story Role",
+      "body": "Percy Armitage appears briefly in the narrative, chiefly as a supporting figure referenced to reinforce the legal tensions surrounding the Stoner inheritance and the motives for the stepfather’s alleged crimes. He helps contextualize the financial and familial stakes that underpin the story's conflict."
+    },
+    {
+      "title": "Relationships",
+      "body": "Percy is professionally related to Helen and Julia Stoner, likely acting as their legal counsel or family solicitor. He serves as a distant foil to the more directly involved figures such as Dr. Roylott and Sherlock Holmes, supporting the background framework for the story’s events."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "As a lawyer, Percy Armitage possesses knowledge of property law and estates, which are crucial about the Stoner inheritance. His understanding of legal intricacies contextualizes the motivations and pressures faced by the characters but does not extend into the physical or investigative realms."
+    }
+  ],
+  "aliases": [
+    "Mr. Percy Armitage",
+    "Lawyer Armitage"
+  ],
+  "relationships": [
+    {
+      "type": "legal_counsel_for",
+      "target": "91d00a09-0b0a-4f4a-9548-f2c50668944d"
+    },
+    {
+      "type": "legal_counsel_for",
+      "target": "f06ae0e3-2d91-40fa-8bc6-ec62d8b9a65e"
+    },
+    {
+      "type": "associated_with",
+      "target": "35d0df0f-2cce-408e-8a3c-7e285e2bee16"
+    },
+    {
+      "type": "appears_in",
+      "target": "35d0df0f-2cce-408e-8a3c-7e285e2bee16"
+    }
+  ],
+  "properties": {
+    "occupation": "Lawyer",
+    "nationality": "English",
+    "affiliation": "Stoner family",
+    "role_importance": "Supporting",
+    "time_period": "Late 19th century"
+  },
+  "tags": [
+    "supporting character",
+    "lawyer",
+    "Sherlock Holmes",
+    "legal",
+    "Victorian era",
+    "family"
+  ]
+}

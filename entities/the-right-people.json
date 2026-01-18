@@ -1,0 +1,58 @@
+{
+  "id": "1d2a7043-1b8c-4e3b-824c-2d66b2e3f1ad",
+  "type": "organization",
+  "name": "The Right People",
+  "description": "A mysterious and powerful clandestine group in Camorr known for monopolizing illegal activities and holding considerable influence over the city’s underworld.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Right People are an elusive cabal operating from the shadows, wielding significant control over Camorr's criminal enterprises and black market dealings. While little is publicly known about their membership or internal structure, they are widely recognized as the apex power brokers within the city's illicit circles, enforcing their will through a combination of intimidation, bribery, and strategic alliances."
+    },
+    {
+      "title": "Structure",
+      "body": "The organization is tightly secretive, with layers of secrecy and compartmentalization protecting the identities of their leaders. Information is tightly guarded, and contact with outsiders is limited to trusted intermediaries. Their hierarchy is rumored to include influential nobles, merchants, and criminal masterminds who collectively ensure their supremacy over Camorr’s illegal economy."
+    },
+    {
+      "title": "History",
+      "body": "Emerging over decades as an organized syndicate, the Right People grew by absorbing smaller gangs and exploiting weaknesses in the city’s fractured power dynamics. Their rise parallels the increasing complexity of Camorr’s underworld, where fragmented factions were unified under the Right People’s ironclad control, cementing their position as an indispensable force in both crime and politics."
+    },
+    {
+      "title": "Goals",
+      "body": "The Right People aim to maintain and expand their dominance over all illicit activities within Camorr, ensuring that rival factions are subdued or co-opted. Their goals extend beyond mere profit, encompassing influence over the city’s governance and the capacity to manipulate events behind the scenes, thereby shaping Camorr’s future to favor their continued control."
+    },
+    {
+      "title": "Key Members",
+      "body": "While individual members are largely unknown, notable operatives and lieutenants are occasionally referenced, each acting as a node in the syndicate’s network. Their anonymity serves to protect the organization, making direct confrontation difficult and granting them an aura of menace and inscrutability in the public imagination."
+    }
+  ],
+  "aliases": [
+    "Right People",
+    "Camorr’s Shadow Council",
+    "The Hidden Hand"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "5e935984-f3d1-42d9-bd6e-8a0e417cbc37"
+    },
+    {
+      "type": "rival_of",
+      "target": "d491a3d3-548e-4eba-a7d9-2fcdd97db2f0"
+    }
+  ],
+  "properties": {
+    "influence_zone": "Camorr",
+    "secrecy_level": "Extreme",
+    "activity_scope": "Organized crime and politics",
+    "known_for": "Monopolizing illegal trade"
+  },
+  "tags": [
+    "fantasy",
+    "organization",
+    "criminal syndicate",
+    "secret society",
+    "political influence",
+    "Camorr",
+    "underworld"
+  ]
+}

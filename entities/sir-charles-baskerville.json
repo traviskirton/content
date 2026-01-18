@@ -1,0 +1,57 @@
+{
+  "id": "4bf09e22-6f34-4049-bb8e-e507078e61f9",
+  "type": "character",
+  "name": "Sir Charles Baskerville",
+  "description": "The deceased head of the Baskerville family whose mysterious death ignites the novel's central investigation.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Sir Charles Baskerville was the previous baronet of the Baskerville estate. His death under mysterious circumstances—found on the grounds near the moor with a look of terror and no apparent cause—revived ancient legends about a spectral hound that haunts his family. His demise triggers the plot, prompting Dr. Mortimer to seek Holmes’s aid."
+    },
+    {
+      "title": "Personality",
+      "body": "Sir Charles is portrayed as a cautious and solitary figure, aware of the supposed curse but determined to maintain his estate and honor. His lifestyle is somewhat reclusive and marked by wariness of the moor and its legends, despite attempts to live peacefully on his ancestral grounds."
+    },
+    {
+      "title": "Story Role",
+      "body": "Though deceased before the narrative begins, Sir Charles’s suspicious death is the catalyst for the entire plot. His demise sparks intrigue as Holmes and Watson investigate, attempting to separate myth from reality and prevent further harm to the Baskerville lineage."
+    },
+    {
+      "title": "Relationships",
+      "body": "Sir Charles was uncle and guardian to Sir Henry Baskerville. His close friend Dr. James Mortimer shares his concern for the family’s welfare and seeks to protect and inform Sir Henry. His family legacy weighs heavily on the tale, symbolizing the intersection of tradition and menace."
+    },
+    {
+      "title": "Abilities / Skills",
+      "body": "Little is described about Sir Charles’s specific abilities in the story, but his position as a baronet and estate owner implies leadership and responsibility. His prior military experience is suggested, reflecting a Victorian gentleman’s expected background, though ultimately unable to shield him from his tragic fate."
+    }
+  ],
+  "aliases": [
+    "Sir Charles",
+    "Charles Baskerville",
+    "Late Baskerville Baronet"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "9ad14328-28d9-4cdb-8623-c653288c81d0"
+    },
+    {
+      "type": "associated_with",
+      "target": "c203d90b-f1b1-4465-9d29-2a1f6c5c9b3e"
+    }
+  ],
+  "properties": {
+    "title": "Baronet",
+    "status": "Deceased",
+    "nationality": "British",
+    "cause_of_death": "Mysterious; attributed to hound legend",
+    "age_at_death": "Late 50s"
+  },
+  "tags": [
+    "Victim",
+    "Baskerville family",
+    "Mystery",
+    "Victorian era",
+    "Fictional nobility"
+  ]
+}

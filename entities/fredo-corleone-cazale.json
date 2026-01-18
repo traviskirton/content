@@ -1,0 +1,67 @@
+{
+  "id": "2a8e89d1-e285-4c03-876f-82ece94d0476",
+  "type": "character",
+  "name": "Fredo Corleone (Cazale)",
+  "description": "Fredo Corleone, portrayed by John Cazale, is the middle son of Vito Corleone, known for his weaker and less decisive nature.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Fredo Corleone is the second son of Vito Corleone, born and raised in a prominent mafia family in New York. Unlike his brothers Sonny and Michael, Fredo struggles to command respect and authority within the organization. His insecurity and comparatively weaker temperament make him less effective in the violent and cutthroat world his family inhabits."
+    },
+    {
+      "title": "Personality",
+      "body": "Fredo is characterized by his vulnerability, insecurity, and indecisiveness. Often overshadowed by his more forceful brothers, he exhibits a desire for recognition but lacks the ruthlessness or intelligence to assert it successfully. Despite his flaws, Fredo is loyal and craves acceptance within the family, which makes him susceptible to manipulation by others."
+    },
+    {
+      "title": "Story Role",
+      "body": "Fredo's role primarily explores themes of family loyalty, betrayal, and personal inadequacy. Although he is initially a peripheral figure, his eventual betrayal profoundly impacts the family dynamics and Michael's leadership. His character serves as a poignant contrast to his brothers, highlighting internal fractures within the Corleone family."
+    },
+    {
+      "title": "Relationships",
+      "body": "Fredo is the brother of Michael, Sonny, and Tom Hagen by adoption as well as the son of Vito Corleone. His relationships within the family are complicated by feelings of jealousy and inadequacy, especially regarding Michael's rise to power. He is married and seeks approval but ultimately becomes estranged after his betrayal."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Fredo lacks the strategic and combat prowess of his siblings and is not equipped for leadership. While he attempts involvement in the family business, he lacks discretion and sound judgment, which diminish his effectiveness. His skills lie more in social charm and emotional appeal than in criminal operations."
+    }
+  ],
+  "aliases": [
+    "Frederico Corleone",
+    "Fredo",
+    "The Weak Son",
+    "Corleone Middle Brother"
+  ],
+  "relationships": [
+    {
+      "type": "son_of",
+      "target": "f3055e19-9313-4e9f-8f78-6a6769c4b5c7"
+    },
+    {
+      "type": "brother_of",
+      "target": "aa2046b8-1cee-4191-9143-c73dce383d64"
+    },
+    {
+      "type": "brother_of",
+      "target": "2f54a3f3-f041-44b4-8932-9d2b23e7b0e9"
+    },
+    {
+      "type": "brother_of",
+      "target": "8567f7a2-0349-4a4d-9ed8-0173d917a9f5"
+    }
+  ],
+  "properties": {
+    "occupation": "Mafia Family Member",
+    "nationality": "Italian-American",
+    "portrayed_by": "John Cazale",
+    "temperament": "Insecure"
+  },
+  "tags": [
+    "The Godfather",
+    "mafia",
+    "Corleone family",
+    "betrayal",
+    "Cazale",
+    "character flaw",
+    "family dynamics"
+  ]
+}

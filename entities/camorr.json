@@ -1,0 +1,56 @@
+{
+  "id": "082a0e65-147f-4b15-8e3d-b3459755c1c1",
+  "type": "location",
+  "name": "Camorr",
+  "description": "A sprawling, vibrant city inspired by Venice, featuring a complex network of canals and a deadly underworld ruled by crime lords.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Camorr is a vast, ancient city characterized by its labyrinthine canals, narrow bridges, and closely packed buildings that rise dramatically above the waters. Its culture, architecture, and social systems evoke the grandeur and decay of a Renaissance-era Venice mixed with brutal, often violent criminal politics. The city is controlled by a patchwork of noble houses and crime families, each vying for influence and power amid the elaborate social and criminal hierarchies."
+    },
+    {
+      "title": "Appearance",
+      "body": "Camorr’s streets wind through dense neighborhoods on tall, aged buildings, intersected by waterways filled with gondolas and merchant ships. The city is a labyrinth of stone, wrought iron, and archival artistry, with ornate palaces and crumbling back alleys coexisting. Its canals reflect the flickering lights of lanterns and the bustling activity of merchants, thieves, nobles, and commoners alike, creating a vivid and atmospheric urban landscape."
+    },
+    {
+      "title": "History",
+      "body": "Founded centuries before the events of the story, Camorr has a rich history as a center of trade, magic, and crime. Its noble families, including the Barsavis and Salvaras, have shaped its political and economic landscape through generations of alliances and warfare. The city’s magical traditions run deep, with ancient and arcane secrets buried beneath its streets and in its elite institutions. This long history breeds both cultural refinement and brutal ruthlessness."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Camorr is the primary setting of 'The Lies of Locke Lamora,' providing a backdrop steeped in danger, mystery, and intrigue. The city’s socio-political complexity catalyzes much of the story’s conflict, as Locke Lamora and his Gentlemen Bastards navigate its treacherous criminal landscape. Camorr’s unique blend of elegance and menace influences the tone of the narrative and challenges the characters at every turn."
+    }
+  ],
+  "aliases": [
+    "City of Camorr",
+    "The City of Waters",
+    "Venetian-Style City"
+  ],
+  "relationships": [
+    {
+      "type": "contains",
+      "target": "c16f0f79-d8cc-467a-bbda-eb3c903028f1"
+    },
+    {
+      "type": "contains",
+      "target": "4ed45f32-bd1b-4d4f-b126-b1af691034ad"
+    }
+  ],
+  "properties": {
+    "type": "City",
+    "region": "Unknown",
+    "notable_features": "Canals, Crime Lords, Nobility",
+    "population": "Large",
+    "primary_setting": true
+  },
+  "tags": [
+    "City",
+    "Fantasy Setting",
+    "Venetian",
+    "Crime",
+    "Nobility",
+    "Magic",
+    "Theft",
+    "Novel Setting"
+  ]
+}

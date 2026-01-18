@@ -1,0 +1,52 @@
+{
+  "id": "5c0b4d04-39d5-4b6f-b5b7-7c1d3f794a9c",
+  "type": "organization",
+  "name": "Le Chiffre's Network",
+  "description": "A secretive criminal organization led by the financier Le Chiffre, specializing in high-stakes gambling and illicit financial operations.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Le Chiffre's Network** is a clandestine criminal syndicate centered around high-stakes gambling, money laundering, and financing for terrorist and criminal activities. It operates internationally with a sophisticated web of connections used to hide and move illicit funds, primarily using underground casinos and gambling operations as a front."
+    },
+    {
+      "title": "History",
+      "body": "Founded in the early 2000s, it first rose to prominence through its leader, Le Chiffre, a financial genius known for managing money for terrorist groups. The network's activities predominantly revolve around illegal gambling and corruption in international casinos. It notably surfaces during the events of the 2006 film *Casino Royale*, where an attempted poker game at Casino Royale was used to recover lost funds for the syndicate."
+    },
+    {
+      "title": "Structure",
+      "body": "- **Leader**: Le Chiffre, the mastermind and financier\n- **Hierarchy**: The organization is run with a strict hierarchy, with Le Chiffre at the top overseeing operatives responsible for security, finances, and gambling operations.\n- **Membership**: Consists of professional gamblers, financial operatives, security personnel, and enforcers working in various locations.\n- The network operates through layers of secrecy, using intermediaries and fronts to shield true operations."
+    },
+    {
+      "title": "Operations",
+      "body": "- Controls and manipulates high-stakes poker games to recover or launder funds.\n- Utilizes casinos as fronts to mask illegal financial transactions.\n- Employs intimidation and violence to enforce debts and secure interests.\n- Supports terrorist financing by managing and hiding resources.\n- Uses sophisticated surveillance and counterintelligence to avoid detection by authorities."
+    },
+    {
+      "title": "Story Significance",
+      "body": "- Central antagonist organization in the 2006 James Bond film *Casino Royale*.\n- The poker game at Casino Royale serves as a decisive event where protagonist James Bond aims to bankrupt Le Chiffre and thwart his financing abilities.\n- Le Chiffre's desperation to recover lost funds leads to intense confrontations and exposes the network's operations.\n- The network's downfall is pivotal in Bond's early career and the overall fight against global terrorism financing."
+    }
+  ],
+  "properties": {
+    "founded": "early 2000s",
+    "founder": "Le Chiffre",
+    "type": "criminal",
+    "headquarters": "Unknown (Operates internationally)",
+    "fictional": true
+  },
+  "relationships": [
+    {
+      "type": "led_by",
+      "target": "e4f2568b-8c69-4e8a-9cf3-b12584970a29"
+    },
+    {
+      "type": "featured_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    }
+  ],
+  "tags": [
+    "criminal",
+    "villainous",
+    "spy",
+    "thriller",
+    "fictional"
+  ]
+}

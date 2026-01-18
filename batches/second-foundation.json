@@ -1,0 +1,81 @@
+{
+  "source": "Second Foundation",
+  "entities": [
+    {
+      "type": "book",
+      "name": "Second Foundation"
+    },
+    {
+      "type": "character",
+      "name": "Bail Channis"
+    },
+    {
+      "type": "character",
+      "name": "First Speaker"
+    },
+    {
+      "type": "character",
+      "name": "Arkady Darell"
+    },
+    {
+      "type": "character",
+      "name": "Dr. Toran Darell II"
+    },
+    {
+      "type": "character",
+      "name": "Pelleas Anthor"
+    },
+    {
+      "type": "character",
+      "name": "Preem Palver"
+    },
+    {
+      "type": "character",
+      "name": "Lady Callia"
+    },
+    {
+      "type": "character",
+      "name": "Lord Stettin"
+    },
+    {
+      "type": "character",
+      "name": "Homir Munn"
+    },
+    {
+      "type": "location",
+      "name": "Rossem"
+    },
+    {
+      "type": "location",
+      "name": "Tazenda"
+    },
+    {
+      "type": "location",
+      "name": "Star's End"
+    },
+    {
+      "type": "location",
+      "name": "Kalgan (Second Foundation)"
+    },
+    {
+      "type": "organization",
+      "name": "Second Foundation"
+    },
+    {
+      "type": "organization",
+      "name": "Speakers (Second Foundation)"
+    },
+    {
+      "type": "item",
+      "name": "Prime Radiant"
+    },
+    {
+      "type": "item",
+      "name": "Mentalics"
+    },
+    {
+      "type": "item",
+      "name": "Mental Static Device"
+    }
+  ]
+}

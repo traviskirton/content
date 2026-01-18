@@ -1,0 +1,52 @@
+{
+  "id": "29c1b5ee-9f80-44ce-b5eb-dd8e7b49c8cc",
+  "type": "item",
+  "name": "Death's Hourglass",
+  "description": "The time-measuring artifact used by Death to track the lifespans of mortals across the Discworld.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Death’s Hourglass is a mystical device representing the finite nature of mortal life. It measures, in magical terms, the time remaining in a being’s life and is used by Death to schedule the inevitable moment of passing. The Hourglass underscores the importance of time and fate within Discworld’s cosmology and serves as an instrument to maintain universal balance."
+    },
+    {
+      "title": "Appearance",
+      "body": "This hourglass is far from ordinary, crafted from ancient crystal that glows faintly with a pale blue light and held in a frame of blackened, otherworldly metal. The sands within it shimmer with a peculiar luminescence, flowing slowly and endlessly, sometimes halting or changing speed subtly according to the fabric of fate. Its exquisite craftsmanship reflects its divine origin and immense power."
+    },
+    {
+      "title": "Function",
+      "body": "The main function of Death’s Hourglass is to track the chronological lifespan of every individual on the Discworld. It enables Death to know when a life is ending and to plan accordingly. Though metaphysical rather than purely mechanical, the Hourglass is integral to Death’s duties and the natural order. It is said to sometimes reflect the state of the entire Disc’s life energy and can act as a focus for temporal magic."
+    },
+    {
+      "title": "History",
+      "body": "The Hourglass is an ancient heirloom of Death, likely as old as the Discworld itself, handed down through countless incarnations of the cosmic force. Stories describe moments when the Hourglass was central to plots involving temporal anomalies or attempts to cheat death. Its enduring presence affirms the Discworld’s conception of time as inevitable yet mysterious and manipulable only under rare circumstances."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Featured in various Discworld narratives, Death's Hourglass is a symbol of the relentless march of time and the inevitability of death. It provides a tangible representation of abstract concepts and is crucial in stories where characters grapple with mortality, the meaning of life, or attempts to evade fate. Its significance transcends function, touching philosophical themes central to Pratchett’s work."
+    }
+  ],
+  "aliases": [
+    "The Hourglass of Mortality",
+    "Death's Timekeeper",
+    "Soul Sandglass",
+    "Temporal Hourglass"
+  ],
+  "relationships": [],
+  "properties": {
+    "material": "crystal and shadow-metal",
+    "function": "lifespan tracking",
+    "symbolism": "time and death",
+    "power_level": "vast",
+    "origin": "ancient"
+  },
+  "tags": [
+    "discworld",
+    "item",
+    "time",
+    "death",
+    "artifact",
+    "magic",
+    "fantasy",
+    "symbol"
+  ]
+}

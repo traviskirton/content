@@ -1,0 +1,61 @@
+{
+  "id": "75ac4040-09ee-4397-bf11-8f7ca29d3b58",
+  "type": "character",
+  "name": "Bobby Newmark",
+  "description": "A young, inexperienced hacker trying to prove his skill in the dangerous cybernetic world of the Sprawl.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Bobby Newmark, nicknamed 'Count Zero' in previous works but distinctly characterized here, is a young hacker from a lower-middle-class background who is eager to make a name for himself in the competitive cyberpunk underground. With less experience but abundant ambition, Bobby ventures into cyberspace with mixed success, navigating both technological and social perils in a world dominated by powerful megacorporations and shadowy forces."
+    },
+    {
+      "title": "Personality",
+      "body": "Bobby is portrayed as hopeful, sometimes naive but inherently brave and resourceful. His youthful enthusiasm contrasts with the often cynical and brutal environment he inhabits. His determination to prove himself drives many of his decisions, and despite mistakes, he shows a strong moral compass and resilience when confronted with adversity."
+    },
+    {
+      "title": "Story Role",
+      "body": "In Mona Lisa Overdrive, Bobby’s narrative represents the everyman hacker’s perspective: vulnerable but pivotal. He becomes entwined in larger conspiracies beyond his initial understanding and grows from a fledgling user into a key participant influencing events involving artificial intelligences and corporate machinations. Bobby’s arc reflects themes of coming-of-age within a fragmented, technological reality."
+    },
+    {
+      "title": "Relationships",
+      "body": "He crosses paths with Angie Mitchell and Mona Lisa, often finding allies and enemies alike. His interactions with Slick Henry and other secondary characters provide both comic relief and emotional depth. The relationships he develops highlight the interplay between technology, friendship, and survival."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "While not initially the most skilled hacker, Bobby demonstrates a fast learning curve and adaptability. He uses traditional hacking tools enriched by creativity and determination. His naivety sometimes leads to errors but also fosters unique approaches to circumventing security in cyberspace."
+    }
+  ],
+  "aliases": [
+    "Count Zero",
+    "Bobby",
+    "Newmark"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "1c7f578f-fd87-4e76-aa99-507b2a12a2f9"
+    },
+    {
+      "type": "associate_of",
+      "target": "fd9ab115-95bb-418b-a879-1b2bddbd6551"
+    },
+    {
+      "type": "friend_of",
+      "target": "2b93636b-d7ae-4b74-9f9a-71c5b091b42a"
+    }
+  ],
+  "properties": {
+    "occupation": "Hacker",
+    "age": 20,
+    "origin": "The Sprawl",
+    "role": "Supporting protagonist"
+  },
+  "tags": [
+    "cyberpunk",
+    "hacker",
+    "technology",
+    "novice",
+    "protagonist",
+    "digital world"
+  ]
+}

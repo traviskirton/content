@@ -1,0 +1,60 @@
+{
+  "id": "3e041def-f5cd-4d8c-9a34-f9f77f9bbdf3",
+  "type": "character",
+  "name": "Éowyn",
+  "description": "A noblewoman of Rohan, disguised as a warrior, who demonstrates courage and defies traditional roles to protect her people.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Éowyn is a shieldmaiden of Rohan, the niece of King Théoden and sister to Éomer. Raised in the golden halls of Edoras, she is steeped in the culture of the Rohirrim but longs to prove herself beyond the constraints of noblewomanhood. Despite the societal expectations of women in her culture, Éowyn yearns for the valor and glory of battle, motivated by loyalty and a desire to protect her people from the shadow of war."
+    },
+    {
+      "title": "Personality",
+      "body": "Éowyn's character is marked by a strong will, bravery, and a deeply passionate spirit. She struggles with feelings of isolation and frustration at the limitations imposed on her gender. Determined and compassionate, she harbors a quiet nobility and resilience. Her fierce independence and courage drive her to take bold and dangerous actions, embodying the theme of inner strength and defiance."
+    },
+    {
+      "title": "Story Role",
+      "body": "In The Two Towers, Éowyn plays a crucial role as she disguises herself as a male warrior named Dernhelm to ride to battle alongside the riders of Rohan. She participates in the Battle of Helm’s Deep, confronting the terror of war firsthand. Through her actions and later in The Return of the King, she challenges traditional gender roles and becomes a symbol of hope and defiance against evil forces."
+    },
+    {
+      "title": "Relationships",
+      "body": "Éowyn is the niece of King Théoden, with whom she shares a familial loyalty. She has a close sibling bond with Éomer, who deeply cares for her. Additionally, she develops a meaningful relationship with Aragorn, who sees her bravery but also warns against her desire for glory. Her interactions with Merry, whom she nurses back to health, reveal her compassionate side. Later, her story connects profoundly with themes of healing and love."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Éowyn is skilled in combat, especially swordsmanship and horsemanship, which she uses effectively despite her initial disguise. Her courage under fire is exceptional, enabling her to face overwhelming enemies without hesitation. She possesses the resilience of spirit necessary to defy societal norms and a strategic mind that aids her in battle. Éowyn's combination of noble lineage and warrior skill makes her a formidable figure in the defense of Rohan."
+    }
+  ],
+  "aliases": [
+    "Shieldmaiden of Rohan",
+    "Dernhelm (disguise)",
+    "Lady of Rohan"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "851e34d9-5dfc-4e4d-b3b7-78613af03cb2"
+    },
+    {
+      "type": "related_to",
+      "target": "543bafe5-7915-40d0-bbcd-2718a7e65347"
+    }
+  ],
+  "properties": {
+    "title": "Lady of Rohan",
+    "kingdom": "Rohan",
+    "species": "Human",
+    "affiliation": "Rohirrim",
+    "role": "Warrior/Noblewoman"
+  },
+  "tags": [
+    "female warrior",
+    "rohirrim",
+    "noble",
+    "shieldmaiden",
+    "middle-earth",
+    "fantasy",
+    "courage",
+    "defiance"
+  ]
+}

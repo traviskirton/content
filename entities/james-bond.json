@@ -2,64 +2,55 @@
   "id": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe",
   "type": "character",
   "name": "James Bond",
-  "description": "British secret agent known as 007, skilled in espionage, combat and covert operations.",
+  "description": "A British Secret Service agent, designated 007, known for his suave demeanor, resourcefulness, and exceptional espionage skills.",
   "content": [
     {
       "title": "Background",
-      "body": "**James Bond** is a British secret agent originally created by author Ian Fleming. His exact birth year and early life details vary across continuities, but generally, he is presented as a former British naval officer recruited into MI6 to serve as a spy. Bond is educated, highly trained, and often portrayed as coming from a privileged background, with extensive skills in languages, firearms, hand-to-hand combat, and intelligence gathering. His codename is 007, indicating his license to kill. Bond operates globally on missions involving thwarting criminal organizations, terrorists, and rogue states."
+      "body": "James Bond is a fictional British MI6 agent created by Ian Fleming, first introduced in the novel 'Casino Royale' (1953). Born in Scotland and educated at Eton College, Bond has a distinguished military and intelligence background. He is known by his code number 007, with the '00' indicating his license to kill. Bond operates during the Cold War era, engaging in covert missions with global stakes. His character bridges the world of refined social elite and deadly espionage operative."
     },
     {
       "title": "Personality",
-      "body": "Bond is charismatic, confident, and suave, often displaying a mix of professionalism and charm. He is motivated by duty to his country and moral imperative to stop threats, but is also prone to recklessness and risk-taking. He often exhibits a dry wit and a cold pragmatism, masked by a debonair exterior. His flaws include a tendency towards womanizing, occasional emotional detachment, and sometimes overconfidence. Nonetheless, he displays loyalty, courage, and resilience."
+      "body": "Bond is characterized by his confidence, charm, and sophistication. He can navigate high society while simultaneously exhibiting cold efficiency and ruthless pragmatism. Bond’s personality combines joie de vivre and professionalism, often masking his underlying vulnerability and isolation. His penchant for wit, a taste for fine food, drink, and gambling, as well as a roguish demeanor, make him both captivating and complex."
     },
     {
       "title": "Story Role",
-      "body": "James Bond is the protagonist of the James Bond series, serving as the central character whose missions drive the narrative. He typically receives orders from MI6 leadership, notably M, and engages antagonists ranging from global crime syndicates (like SPECTRE) to megalomaniac villains. Across novels, films, and other media, Bond’s character arc involves repeated cycles of danger, betrayal, and survival, with his personal life sometimes touched upon but remaining secondary to his espionage work."
+      "body": "As the protagonist of the James Bond novels and films, Bond is central to the unfolding of numerous espionage narratives. He undertakes dangerous missions to protect Britain and its interests, thwarting villains ranging from communists to criminal masterminds. His assignments often involve complex political intrigue, high stakes action, and international locations. Over the course of the series, Bond’s experiences evolve from idealized gentleman spy to a more layered and occasionally tormented figure."
     },
     {
       "title": "Relationships",
-      "body": "- Works for MI6 and reports to M (head of secret service).\n- Has recurring relationships with allies such as Q (gadgets and technology expert) and Moneypenny (M’s secretary).\n- Encounters numerous romantic interests, known as \"Bond girls,\" who vary by story.\n- Faces off against iconic antagonists such as Ernst Stavro Blofeld and other villains.\n- Often has complex relationships with other intelligence agencies and allies depending on mission context."
+      "body": "Bond’s important relationships include his connections with M, his superior, Miss Moneypenny, and Q, his quartermaster. Romantic entanglements, especially with characters like Vesper Lynd in 'Casino Royale,' play significant roles in his personal life and character development. While these relationships humanize him, Bond often remains a solitary figure, with loyalty to duty sometimes conflicting with personal bonds."
     },
     {
-      "title": "Abilities",
-      "body": "- Expert in firearms and hand-to-hand combat.\n- Highly trained in espionage, stealth, and infiltration.\n- Skilled pilot, driver, and scuba diver.\n- Multilingual and culturally adaptable.\n- Proficient in use of advanced gadgets supplied by Q Branch.\n- Exceptional tactical thinking and resourcefulness in hostile environments."
+      "title": "Abilities and Skills",
+      "body": "Bond possesses exceptional combat skills, intelligence gathering ability, and proficiency with firearms and gadgets. His training encompasses hand-to-hand combat, driving, skiing, and survival techniques. Bond’s resourcefulness and quick thinking allow him to adapt to rapidly changing situations. Fluency in several languages and cultural adaptability aid in international espionage, making him a consummate spy merging brains, brawn, and charisma."
     }
   ],
   "aliases": [
     "007",
     "Commander Bond",
-    "Agent 007"
+    "James Bond, Agent 007",
+    "Bond, James"
   ],
-  "relationships": [
-    {
-      "type": "member_of",
-      "target": "4b751a8e-3dce-4d29-8b1a-4e7db45a98fe"
-    },
-    {
-      "type": "appears_in",
-      "target": "4b751a8e-3dce-4d29-8b1a-4e7db45a98fe"
-    }
-  ],
+  "relationships": [],
   "properties": {
-    "species": "human",
-    "occupation": "secret agent",
-    "portrayed_by": [
-      "Sean Connery",
-      "Roger Moore",
-      "Pierce Brosnan",
-      "Daniel Craig",
-      "Timothy Dalton",
-      "George Lazenby"
-    ],
-    "born": "1920s-1930s (approximate, varies)",
-    "organization": "MI6"
+    "nationality": "British",
+    "occupation": "Secret Service Agent",
+    "code_number": "007",
+    "skills": [
+      "espionage",
+      "combat",
+      "languages",
+      "driving",
+      "weaponry"
+    ]
   },
   "tags": [
-    "protagonist",
-    "hero",
+    "fictional character",
     "spy",
-    "human",
-    "agent",
-    "licensed_to_kill"
+    "MI6",
+    "British",
+    "protagonist",
+    "espionage",
+    "action"
   ]
 }

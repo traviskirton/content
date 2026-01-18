@@ -1,0 +1,61 @@
+{
+  "id": "28a92e48-bc40-4e1a-865f-1e2a6e0226e2",
+  "type": "character",
+  "name": "Galadriel",
+  "description": "Galadriel is an Elven queen of great power and wisdom in J.R.R. Tolkien's Middle-earth.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Galadriel is one of the greatest and most revered elves remaining in Middle-earth during the Third Age. She is a Noldorin princess, born in Valinor before the First Age, and is known for her unparalleled beauty, wisdom, and power. After the exile of the Noldor, she dwelt in Middle-earth, eventually becoming the Lady of Lothlórien together with her husband Celeborn. Galadriel's ancient lineage and her possession of one of the Three Elven Rings, Nenya, grant her unique abilities to preserve and protect. Her role spans many ages, embodying the deep history and underlying significance of the elves in the world."
+    },
+    {
+      "title": "Personality",
+      "body": "Galadriel is depicted as a figure of great grace, dignity, and majesty, with an aura of serene authority. She embodies wisdom and gentleness but is also a being of deep strength and subtle power. Despite her noble nature, she wrestles with the temptation of power, as seen in her moment of testing with the One Ring, where she resists the lure of dominating others. Her compassion for Middle-earth's peoples and her commitment to oppose the shadow reflect a nuanced character balancing pride with humility."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Fellowship of the Ring,' Galadriel acts as a key ally to the Fellowship, providing sanctuary in Lothlórien and gifts that aid them on their journey. She is a beacon of hope and a source of insight into the struggle against Sauron. Her encounter with Frodo and other members of the Fellowship highlights the deeper themes of temptation, sacrifice, and the burden of power. Galadriel's role presages future events, emphasizing the significance of choices made by characters in their resistance to darkness."
+    },
+    {
+      "title": "Relationships",
+      "body": "Galadriel is wife to Celeborn, another powerful Elven lord, and together they rule the realm of Lothlórien. She maintains complex relations with other key figures such as Elrond, with whom she shares counsel, and is a revered figure to the Fellowship members she aids. Her deep-seated enmity is with Sauron, the Dark Lord, whom she opposes throughout the Third Age. Through Nenya and her participation in the struggle for Middle-earth, her fate is closely intertwined with the destiny of the Rings of Power and the resistance against evil."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Galadriel possesses vast magical powers, wisdom, and foresight, attributes uncommon even among the Eldar. She wields the Ring of Water, Nenya, which allows her to preserve and protect realms from decay and evil influence. Her telepathic and illusion-casting abilities enable her to peer into the minds of others and to communicate across great distances. Additionally, her knowledge of lore and history spans millennia, providing invaluable counsel. Galadriel's physical prowess and endurance reflect her origins among the mightiest Elves, and she is a formidable opponent of dark forces."
+    }
+  ],
+  "aliases": [
+    "Lady of Lothlórien",
+    "The Lady of Light",
+    "Eldest",
+    "Nerwen",
+    "Lady Galadriel"
+  ],
+  "relationships": [
+    {
+      "type": "enemy_of",
+      "target": "5fcd7a2e-6397-45dd-82dd-936dbeb0f251"
+    },
+    {
+      "type": "ally_of",
+      "target": "65a1271b-9a4f-4e6f-8dc7-8ed652b2c2a7"
+    }
+  ],
+  "properties": {
+    "race": "Elf",
+    "gender": "Female",
+    "age": "Over several thousand years",
+    "ring": "Nenya",
+    "realm": "Lothlórien"
+  },
+  "tags": [
+    "Elves",
+    "Third Age",
+    "Middle-earth",
+    "Magic",
+    "Royalty",
+    "Ring-bearer",
+    "Wisdom"
+  ]
+}

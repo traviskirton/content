@@ -1,0 +1,47 @@
+{
+  "id": "3cc09054-44cb-400b-a4ab-620c1a6c12b6",
+  "type": "location",
+  "name": "Miami Beach (Bond)",
+  "description": "A glamorous coastal locale featured in James Bond's mission, known for its vibrant nightlife and key espionage encounters.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Miami Beach in the Bond universe is depicted as a sun-soaked, glamorous resort city with pristine beaches, upscale hotels, and bustling social scenes. It plays host to opulent parties, secret meetings, and tense confrontations amid its Art Deco backdrop. The city’s transient international crowd makes it ideal for espionage activities requiring discretion and speed."
+    },
+    {
+      "title": "Appearance",
+      "body": "Known for its distinctive pastel-colored buildings and palm-lined promenades, Miami Beach is rendered with a vibrant, lively atmosphere. The location features iconic casinos, luxury apartments, and diverse urban settings including marinas and neon-lit clubs. The juxtaposition of sun-drenched leisure and covert operations creates strong narrative contrast."
+    },
+    {
+      "title": "History",
+      "body": "In the context of Bond’s adventures, Miami Beach serves as a temporary operational base and rendezvous point for intelligence operations. It has historical ties to espionage in the Cold War era, with various clandestine activities masked beneath the city's party facade. Its prominence arises largely through Bond's encounters and unfolding plotlines involving smuggling and surveillance."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Miami Beach is integral to the beginning act of 'Goldfinger,' providing a picturesque yet perilous environment for Bond's investigation. The location marks the start of high-octane chases, social manipulations, and confrontations that set the tone for the film. Its blend of leisure and danger perfectly underscores the spy thriller genre."
+    }
+  ],
+  "aliases": [
+    "Miami",
+    "Miami Shores",
+    "Floridian Beach"
+  ],
+  "relationships": [],
+  "properties": {
+    "country": "United States",
+    "climate": "Subtropical",
+    "significance": "Espionage hotspot",
+    "appears_in": [
+      "Goldfinger (movie)"
+    ],
+    "geography": "Coastal resort city"
+  },
+  "tags": [
+    "James Bond",
+    "Espionage",
+    "Coastal City",
+    "Cold War Era",
+    "Beach",
+    "Crime"
+  ]
+}

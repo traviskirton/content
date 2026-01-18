@@ -1,0 +1,55 @@
+{
+  "id": "1f0a8220-48da-43e2-90b6-52507e8690ac",
+  "type": "location",
+  "name": "Straylight",
+  "description": "A colossal orbital habitat housing a corporate and criminal fortress at the heart of 'Neuromancer's climax.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Straylight is a massive, luxurious space habitat built within a von Neumann-style multilevel orbital platform. Situated in orbit, it serves as the stronghold of the powerful Tessier-Ashpool family and functions as a nexus of corporate power, artificial intelligence development, and criminal activity. The habitat’s intricate design and isolated location make it an impenetrable fortress combining extreme wealth, advanced technology, and dark psychological themes, embodying the novel’s exploration of human and machine interfaces."
+    },
+    {
+      "title": "Appearance",
+      "body": "The immense structure of Straylight is formidable and labyrinthine, featuring multiple layers of interconnected rings and complexes that house opulent residences, high-tech research facilities, and private quarters. Its architecture fuses futuristic design with an organic modularity, reflecting the controlling personality of its creators. The habitat is bathed in artificial lighting and provides panoramic views of space, with vast chambers echoing cold luxury alongside sterile technological precision. Despite its grandeur, the station exudes a claustrophobic, oppressive atmosphere tied to its inhabitants’ psychological intricacies."
+    },
+    {
+      "title": "History",
+      "body": "Built and controlled by the reclusive Tessier-Ashpool dynasty, Straylight represents the apex of post-industrial corporate and technological dominance. Its construction as an orbital habitat symbolizes the ultimate separation of the corporation elite from Earthbound society. The station became the seat of hidden machinations involving artificial intelligence, human consciousness alteration, and power manipulation. Over time, it evolved into a secretive and paranoid fortress, both a home and prison for its rulers, reflecting themes of isolation and control."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Straylight is central to the climax of 'Neuromancer', where the protagonist confronts the Tessier-Ashpool family’s artificial intelligences and the mysteries surrounding Case's mission. The habitat encapsulates the convergence of human, machine, and corporate identities, becoming a metaphorical crucible for the novel’s explorations of autonomy, consciousness, and technological transcendence. The functions and secrets of Straylight epitomize the dangers and possibilities inherent in cybernetic futures."
+    }
+  ],
+  "aliases": [
+    "Straylight Villa",
+    "Orbital Habitat Straylight",
+    "Tessier-Ashpool Estate"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "71b6fdea-7640-4829-8e50-2a2a5f09a204"
+    },
+    {
+      "type": "connected_to",
+      "target": "57e4f965-dc7c-4f70-b3da-9bab2d395f4c"
+    }
+  ],
+  "properties": {
+    "type": "Orbital habitat",
+    "owner": "Tessier-Ashpool family",
+    "function": "Corporate fortress, AI hub",
+    "location": "Orbit",
+    "security": "Highly guarded"
+  },
+  "tags": [
+    "location",
+    "space station",
+    "cyberpunk",
+    "corporate",
+    "artificial intelligence",
+    "setting",
+    "dystopia"
+  ]
+}

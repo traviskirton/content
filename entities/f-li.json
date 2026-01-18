@@ -1,0 +1,58 @@
+{
+  "id": "8346b987-d7da-4e02-80df-40184ff2a7b7",
+  "type": "character",
+  "name": "Fíli",
+  "description": "A young dwarf prince and skilled warrior, nephew to Thorin Oakenshield and brother to Kíli.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Fíli is a young but valiant dwarf, belonging to the royal family of Durin as the nephew of Thorin Oakenshield. Along with his brother Kíli, Fíli is among the youngest members of Thorin’s company tasked with reclaiming Erebor, the Lonely Mountain. His upbringing as a prince imbues him with both the responsibilities of nobility and the drive to prove himself in battle. Fíli's story is that of youthful valor combined with a legacy of dwarven perseverance and deep familial loyalty."
+    },
+    {
+      "title": "Personality",
+      "body": "Fíli is courageous, determined, and often demonstrates a youthful exuberance and enthusiasm for the quest. Though young, he is brave and deeply loyal to his family and company. His attitude is marked by a strong sense of duty and honor, tempered with occasional moments of warmth and kindness to his companions. Fíli also shows a protective instinct toward his younger brother Kíli and a respectful admiration for Thorin as his uncle and leader."
+    },
+    {
+      "title": "Story Role",
+      "body": "In The Hobbit, Fíli plays a critical role as one of Thorin’s most trusted young warriors, engaging in combat and exploration throughout the journey. His bravery in facing goblins, spiders, and the perils of the Lonely Mountain highlights the youth and vitality fueling the company’s mission. Though his time in the primary narrative is brief, Fíli participates meaningfully in the Battle of the Five Armies, where his valor and sacrifice resonate deeply. He symbolizes the future and hope of the dwarven line."
+    },
+    {
+      "title": "Relationships",
+      "body": "Fíli is the eldest brother of Kíli, sharing a close and protective bond. Both are nephews to Thorin Oakenshield, to whom Fíli is devoted. Their familial ties inspire much of their motivation and courage. Fíli also shares camaraderie and friendship with the other members of the company, including dwarves like Balin and Dwalin, and extends respect to their hired guide Gandalf. His relationship with his kin is pivotal in driving the emotional core of the dwarven quest."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Fíli is skilled in the arts of traditional dwarven combat, adept with swords, shields, and axes. He possesses agility unusual for dwarves his age and size, allowing him to navigate difficult terrain and fight effectively against various foes. Fíli's training as a prince also includes leadership capabilities and knowledge of dwarven titles and traditions. His determination and budding skill set make him a promising warrior aligned with dwarven honor."
+    }
+  ],
+  "aliases": [
+    "Prince Fíli",
+    "Nephew of Thorin",
+    "Young Warrior"
+  ],
+  "relationships": [
+    {
+      "type": "ally_of",
+      "target": "635b6ad8-43c7-48be-b27a-f25b7812b3cc"
+    },
+    {
+      "type": "ally_of",
+      "target": "9ca26488-6bad-4f30-9e6b-9f39a603d004"
+    }
+  ],
+  "properties": {
+    "race": "Dwarf",
+    "weapon": "Sword and Axe",
+    "role": "Prince and Warrior",
+    "age": "Young"
+  },
+  "tags": [
+    "Dwarf",
+    "Prince",
+    "Warrior",
+    "Thorin's Company",
+    "Middle-earth",
+    "Fantasy",
+    "The Hobbit"
+  ]
+}

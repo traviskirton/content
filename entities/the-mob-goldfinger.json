@@ -1,0 +1,62 @@
+{
+  "id": "e91b6591-828c-4f44-8961-9830dc031b96",
+  "type": "organization",
+  "name": "The Mob (Goldfinger)",
+  "description": "A criminal syndicate led by Auric Goldfinger, specializing in high-stakes smuggling and heists with international reach.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Mob (Goldfinger) is a covert international criminal organization commanded by the infamous Auric Goldfinger. Renowned for its involvement in large-scale gold smuggling, fraud, and armored car heists, the organization exerts substantial influence within the global underworld. It is marked by its ruthless operational methods and meticulous planning, allowing it to evade law enforcement and maintain secrecy over its intricate criminal enterprises."
+    },
+    {
+      "title": "Structure",
+      "body": "The Mob operates with a hierarchical structure headed by Goldfinger himself, who functions as the mastermind and primary decision-maker. Beneath him are trusted lieutenants responsible for diverse operational sectors including logistics, enforcement, and intelligence gathering. This compartmentalized framework ensures operational efficiency and limits exposure in the event of infiltration or capture. Members are often highly skilled criminals recruited for specialized abilities such as hacking, sabotage, or combat."
+    },
+    {
+      "title": "History",
+      "body": "Founded in the mid-20th century, The Mob achieved notoriety through a series of audacious gold-related crimes, culminating in the infamous Operation Grand Slam, an elaborate heist plan targeting the U.S. Bullion Depository at Fort Knox. The organization capitalized on post-war economic instability to expand its smuggling routes and money laundering operations. Despite numerous investigations, The Mob has maintained its existence by leveraging corruption, intimidation, and high-level connections."
+    },
+    {
+      "title": "Goals",
+      "body": "The Mob's primary objective is the accumulation of vast wealth through control of precious metals, specifically gold, aiming to manipulate global markets and finance other clandestine activities. Secondary aims include dismantling government financial systems through large-scale thefts and creating monopolies in underground trade. The group’s long-term vision involves establishing a self-sustaining empire impervious to legal intervention."
+    },
+    {
+      "title": "Key Members",
+      "body": "Besides Auric Goldfinger, the organization includes several key operatives such as Oddjob, the personal bodyguard known for his lethal bowler hat, as well as various specialists in espionage, sabotage, and assassinations. Their loyalty is enforced through a combination of fear, financial incentives, and shared criminal ambition."
+    }
+  ],
+  "aliases": [
+    "Goldfinger's Mob",
+    "The Gold Syndicate",
+    "Auric's Organization",
+    "Goldfinger Crime Group",
+    "The Golden Mob"
+  ],
+  "relationships": [
+    {
+      "type": "controls",
+      "target": "a7ade420-29d0-4889-90b3-acd91203d1f4"
+    },
+    {
+      "type": "employs",
+      "target": "9f2b3a1e-4d7a-4f6f-a99b-4b2239d758ad"
+    }
+  ],
+  "properties": {
+    "founder": "Auric Goldfinger",
+    "foundation_year": 1950,
+    "primary_crime": "Gold Smuggling",
+    "headquarters": "Unknown",
+    "operational_scope": "International"
+  },
+  "tags": [
+    "Crime Syndicate",
+    "Goldfinger",
+    "Smuggling",
+    "Heist",
+    "Organized Crime",
+    "Film Villain",
+    "Espionage",
+    "James Bond"
+  ]
+}

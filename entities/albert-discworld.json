@@ -1,0 +1,53 @@
+{
+  "id": "060f8de0-1cf0-4ca1-9e47-cec1135f0a1d",
+  "type": "character",
+  "name": "Albert (Discworld)",
+  "description": "Albert is the loyal, sardonic servant and companion to Death in the Discworld series.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Albert was once a powerful wizard named Alberto Malich who, through unknown circumstances, became Death’s servant and companion. As a half-immortal figure, he has lived with Death for centuries and serves as his aide in the Discworld universe. His history is layered with mystery, and he is often depicted as somewhat weary of his role but deeply loyal. Albert has a wealth of arcane knowledge and experience and occasionally serves as a source of wisdom for those encountering Death."
+    },
+    {
+      "title": "Personality",
+      "body": "Albert is characterized by a sardonic wit and a dry, often cynical sense of humor. Despite his apparent cynicism, he shows a deep sense of responsibility and loyalty toward Death and those around him. Albert’s demeanor can sometimes seem gruff or dismissive, but it often conceals genuine warmth and care. His pragmatic approach to his duties often offers a contrast to Death’s sometimes blunt or literal-minded perspective."
+    },
+    {
+      "title": "Story Role",
+      "body": "Albert frequently appears as Death’s right-hand man throughout multiple novels in the Discworld series, including 'Mort' and 'Reaper Man.' He helps administer the complex affairs of Death’s duties and assists in bridging the gap between the human world and supernatural realms. Albert often provides key support, logistical assistance, and occasional comic relief by reacting to the absurdities of the mortal world with dry incredulity."
+    },
+    {
+      "title": "Relationships",
+      "body": "Albert has a close, complex relationship with Death, acting as both confidant and servant. His interactions with Ysabell show a shared history and sometimes a protective attitude. Albert is generally distant from other mortals, though his centuries of experience have connected him to numerous other characters on the Discworld. His loyalty and long service endear him to those within Death’s circle."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Although now bound in service, Albert retains extensive magical knowledge from his days as a wizard. He has an intimate understanding of the supernatural laws in the Discworld and considerable skill in manipulation of magical energies. Additionally, Albert is adept at house management, problem-solving, and acting as an intermediary between the realms of the living and the dead, applying his magic pragmatically."
+    }
+  ],
+  "aliases": [
+    "Alberto Malich",
+    "Death's Servant",
+    "Death's Manservant"
+  ],
+  "relationships": [
+    {
+      "type": "serves",
+      "target": "842d773e-c527-4ef7-b4bf-748232f2ec4e"
+    }
+  ],
+  "properties": {
+    "species": "Half-immortal (former wizard)",
+    "affiliation": "Death's Household",
+    "gender": "Male",
+    "origin": "Discworld"
+  },
+  "tags": [
+    "Discworld",
+    "Fantasy",
+    "Character",
+    "Death Related",
+    "Magic",
+    "Supporting Character"
+  ]
+}

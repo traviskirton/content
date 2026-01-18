@@ -44,6 +44,10 @@
     {
       "type": "lives_in",
       "target": "048f308b-450f-4f86-9a04-6c411d1d746d"
+    },
+    {
+      "type": "featured_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
     }
   ],
   "properties": {

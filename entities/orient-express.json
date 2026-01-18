@@ -1,0 +1,51 @@
+{
+  "id": "ea0a1f7e-87b7-4c0c-9ed3-cd218d505c78",
+  "type": "location",
+  "name": "Orient Express",
+  "description": "The Orient Express is a legendary luxury train featured prominently in 'From Russia with Love', serving as a key location for suspense and intrigue.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Orient Express in 'From Russia with Love' symbolizes elegance, mystery, and danger, offering a confined yet glamorous setting where pivotal scenes occur. This iconic train route, running between Istanbul and Western Europe, was renowned for its luxury and exclusivity, making it an ideal environment for clandestine meetings and espionage operations during the Cold War."
+    },
+    {
+      "title": "Appearance",
+      "body": "The train's lavish interior includes plush cabins, ornate dining cars, and sophisticated lounges that evoke the opulence of a bygone era. Its rich wood paneling, crystal chandeliers, and antique furnishings contrast sharply with the suspenseful undercurrents running through the narrative, creating a dramatic backdrop for character confrontations."
+    },
+    {
+      "title": "History",
+      "body": "Historically, the Orient Express was established in the late 19th century and became synonymous with long-distance luxury rail travel across Europe. Its route through politically volatile regions during the Cold War added layers of intrigue and danger, as intelligence agents and criminals alike manipulated its enclosed setting for their schemes."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Within 'From Russia with Love', the Orient Express is the scene of significant suspense, including attempts on James Bond's life and the unfolding of the central conspiracy involving the Lektor device. The train's confined quarters heighten tension, forcing characters into close proximity and confrontations that are crucial to the narrative climax."
+    }
+  ],
+  "aliases": [
+    "The Express",
+    "Sleeping Car",
+    "Orient Express Train"
+  ],
+  "relationships": [
+    {
+      "type": "located_between",
+      "target": "d33a788c-4d51-41ca-bc82-444cfd009159"
+    }
+  ],
+  "properties": {
+    "type": "Luxury Train",
+    "route": "Istanbul to Western Europe",
+    "era": "Cold War Period",
+    "significance": "Key story location",
+    "symbolism": "Mystery and danger"
+  },
+  "tags": [
+    "Location",
+    "James Bond",
+    "Train",
+    "Cold War",
+    "Suspense",
+    "Transportation",
+    "Luxury"
+  ]
+}

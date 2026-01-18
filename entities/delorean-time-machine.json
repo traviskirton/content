@@ -57,6 +57,14 @@
     {
       "type": "owned_by",
       "target": "c3d4e5f6-a7b8-9012-cdef-345678901234"
+    },
+    {
+      "type": "includes",
+      "target": "4d8c3b2e-153f-4ab5-bc53-57e8f759c6e9"
+    },
+    {
+      "type": "includes",
+      "target": "2e9f1c66-8e4c-4d5d-9ed3-20f47a47124f"
     }
   ],
   "properties": {

@@ -1,0 +1,73 @@
+{
+  "id": "2ccf6837-0518-4a67-9c49-2154a85fca68",
+  "type": "character",
+  "name": "Locke Lamora",
+  "description": "The cunning and charismatic protagonist of the Gentleman Bastard series, a master thief and con artist in the city of Camorr.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Locke Lamora was orphaned at a young age and taken in by the Thiefmaker, later apprenticed to Father Chains, who trained him in the arts of thievery and deception within the secretive Gentleman Bastards. Raised in the city of Camorr, modeled after a fantastic version of Venice, Locke grew up navigating its treacherous alleys, learning both the street smarts and refined intellect needed to operate as a premier con artist."
+    },
+    {
+      "title": "Personality",
+      "body": "Locke is quick-witted, charming, and fearless, with a sharp tongue and a flair for elaborate deception. Despite his life of crime, he possesses a complex moral code and deep loyalty to his friends, often revealing empathy beneath his roguish exterior. His blend of humor and ruthless pragmatism makes him a compelling and multifaceted character in the grim and dangerous city of Camorr."
+    },
+    {
+      "title": "Story Role",
+      "body": "Locke serves as the primary narrator and protagonist of 'The Lies of Locke Lamora' and other stories in the Gentleman Bastard series. His masterful cons and heists drive much of the plot, but the narrative also delves into his personal struggles, relationships, and the evolving threats against him and his crew. Locke’s intelligence and audacity often put him at the center of political and criminal upheavals."
+    },
+    {
+      "title": "Relationships",
+      "body": "Locke shares a profound bond with his closest companion Jean Tannen, whose physical strength complements Locke’s cunning. He also has complex relations with his fellow Gentleman Bastards, including Sabetha, as well as the criminal underworld and nobility of Camorr. These relationships are marked by trust, betrayal, and dependence, reflecting the precarious balance Locke maintains to survive."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Locke is an expert strategist and conman, skilled in disguise, deception, and manipulation. He is highly intelligent, particularly adept at planning elaborate schemes and reading people. While not physically imposing, he compensates with agility and wit. Locke is also knowledgeable about Camorr’s complex social and criminal hierarchies, enabling him to navigate threats effectively."
+    }
+  ],
+  "aliases": [
+    "Locke Lamora",
+    "Gentleman Bastard",
+    "The Thiefmaker's Apprentice",
+    "The Fox"
+  ],
+  "relationships": [
+    {
+      "type": "member_of",
+      "target": "5a7efcd8-1e55-4d39-b265-9f136e63f9a1"
+    },
+    {
+      "type": "appears_in",
+      "target": "379ade9b-9c45-4d0c-8219-0a1a6b03a5a5"
+    },
+    {
+      "type": "close_friend",
+      "target": "40b1487e-eca5-4529-bd7b-ca5a9a60213c"
+    },
+    {
+      "type": "created_by",
+      "target": "faa6c2d0-1db1-4a71-9a0f-d051afc8a9b9"
+    }
+  ],
+  "properties": {
+    "role": "Protagonist",
+    "occupation": "Con artist, thief",
+    "origin": "Camorr",
+    "skills": [
+      "con artistry",
+      "disguise",
+      "strategy",
+      "deception"
+    ],
+    "alignment": "Chaotic Neutral"
+  },
+  "tags": [
+    "character",
+    "protagonist",
+    "thief",
+    "con artist",
+    "fantasy",
+    "Camorr",
+    "Gentleman Bastard"
+  ]
+}

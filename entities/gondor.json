@@ -1,0 +1,60 @@
+{
+  "id": "e44c1405-f8cf-4b44-b7d8-3c9b1e72a8d5",
+  "type": "organization",
+  "name": "Gondor",
+  "description": "A major kingdom of Men in Middle-earth, known as the last stronghold against the forces of Sauron.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Gondor is one of the greatest realms of Men in J.R.R. Tolkien’s Middle-earth, established by the faithful Númenórean survivors who fled the downfall of their island kingdom. It is renowned for its strongholds, rich culture, and pivotal role in the War of the Ring. Governed by Stewards during the absence of a king, it symbolizes endurance and human valor."
+    },
+    {
+      "title": "Structure",
+      "body": "Gondor's political system comprises a monarchy, later replaced by the line of Stewards who ruled in place of absent kings. It has prominent cities such as Minas Tirith, Osgiliath, and Dol Amroth, each serving administrative, military, or noble functions. The governance involves lords, stewards, captains, and other officials overseeing various regions and military units."
+    },
+    {
+      "title": "History",
+      "body": "Founded at the end of the Second Age by Isildur and Anárion, Gondor was initially a beacon of Númenórean power in Middle-earth. Over centuries, it faced wars with orcs, Easterlings, and internal strife. Its history is marked by great victories and near collapse, culminating in the desperate times during Sauron’s return, where heroes like Aragorn and Faramir defended its legacy."
+    },
+    {
+      "title": "Goals",
+      "body": "The primary goal of Gondor is to defend Middle-earth from the darkness of Sauron and to restore rightful kingship. It seeks to preserve its culture, sovereignty, and protect the free peoples from enslavement or destruction. The return of the king marks the fulfillment of this mission, aiming to usher in peace and renewal."
+    },
+    {
+      "title": "Key Members",
+      "body": "Notable figures include the Stewards like Denethor II, kings such as Aragorn (Elessar), warriors like Faramir and Boromir, and nobles such as Imrahil of Dol Amroth. Additionally, the army commanders and various captains play vital roles in the defense and governance of the kingdom."
+    }
+  ],
+  "aliases": [
+    "Kingdom of Gondor",
+    "Land of the White Tree",
+    "The Realm of Men",
+    "The South Kingdom"
+  ],
+  "relationships": [
+    {
+      "type": "has_item",
+      "target": "82190b16-008d-4b79-90f8-5e9decf1a9c1"
+    },
+    {
+      "type": "ally_of",
+      "target": "0ab0b6f8-c602-4097-9267-38d8e1f2d493"
+    }
+  ],
+  "properties": {
+    "founded": "Second Age, c. 3320 SA",
+    "capital": "Minas Tirith",
+    "government": "Monarchy / Stewardship",
+    "population": "Primarily Men (Humans)",
+    "language": "Westron (Common Speech), Sindarin influences"
+  },
+  "tags": [
+    "Middle-earth",
+    "Kingdom",
+    "Fantasy",
+    "Men",
+    "Gondor",
+    "Númenórean",
+    "The Lord of the Rings"
+  ]
+}

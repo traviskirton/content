@@ -1,0 +1,62 @@
+{
+  "id": "65c334b1-03e0-4d97-bc87-7d06bbf68f44",
+  "type": "character",
+  "name": "Lathan Devers",
+  "description": "A resourceful and cunning trader from the Foundation, involved in key events during the conflict with the Mule.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Lathan Devers is a skilled trader operating at the fringes of the Foundation's sphere of influence. Known for his sharp instincts and a willingness to engage in risky ventures, Devers hails from a modest background and has risen through the ranks by using his wits and trading acumen. He is often involved in clandestine operations, leveraging his contacts and knowledge of various planets to advance Foundation interests."
+    },
+    {
+      "title": "Personality",
+      "body": "Devers is pragmatic, resourceful, and sometimes morally ambiguous, employing charm and deception as tools to achieve his goals. Despite his mercantile focus, he possesses a strong sense of loyalty towards the Foundation and its cause. His street-smart and pragmatic nature make him adept at navigating the political and social complexities of the galaxy, often in morally grey situations."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Foundation and Empire', Devers plays a crucial part as an intermediary between different factions. He is pivotal in uncovering and undermining the Mule's expanding influence, serving as a surrogate for Foundation interests. His actions and decisions directly influence the course of the struggle, making him a significant player in the resistance against the Mule's tyranny."
+    },
+    {
+      "title": "Relationships",
+      "body": "Devers forms important connections with other central characters such as Bayta Darell and Toran Darell, working alongside them against the Mule. While his relationships are largely professional due to his transactional nature, he demonstrates respect and camaraderie with these allies, sharing a common purpose. His dealings often put him in conflict with agents loyal to the Mule."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Lathan Devers is an expert negotiator and trader, highly adaptable in unpredictable circumstances. His skills in diplomacy, subterfuge, and strategic maneuvering allow him to operate behind enemy lines and procure critical intelligence. He is not a combat specialist but has enough survival instincts and cunning to avoid capture and manipulate situations to his advantage."
+    }
+  ],
+  "aliases": [
+    "Trader Devers",
+    "Foundation Agent Devers",
+    "L. Devers"
+  ],
+  "relationships": [
+    {
+      "type": "ally_of",
+      "target": "b346f270-fb23-4090-9e6c-c4b6d7bbbf95"
+    },
+    {
+      "type": "ally_of",
+      "target": "3be1ba69-3c1c-4b44-bde8-e13db2e69a54"
+    },
+    {
+      "type": "enemy_of",
+      "target": "b51fdbe5-3b66-4b84-9b83-298df591d245"
+    }
+  ],
+  "properties": {
+    "origin": "Foundation",
+    "occupation": "Trader and agent",
+    "role": "Supporting protagonist",
+    "alignment": "Pro-Foundation"
+  },
+  "tags": [
+    "Foundation",
+    "Trader",
+    "Ally",
+    "Resistance",
+    "Science Fiction",
+    "Role Player",
+    "Psychohistory"
+  ]
+}

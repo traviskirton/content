@@ -1,0 +1,76 @@
+{
+  "id": "02f23350-9a14-4aff-9a4f-4963e3e9a8f0",
+  "type": "character",
+  "name": "Dr. John Watson",
+  "description": "Dr. John Watson is Sherlock Holmes' loyal friend, companion, and chronicler, serving as the narrator in many Holmes stories.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Dr. John H. Watson is a former army doctor who served in Afghanistan before returning to London to begin a new civilian life. Seeking affordable lodgings, he becomes acquainted with Sherlock Holmes and moves in as his flatmate at 221B Baker Street. Watson's background as a man of science and medicine complements Holmes’ detective work, bridging the gap between Holmes’ eccentric genius and the broader social context."
+    },
+    {
+      "title": "Personality",
+      "body": "Watson is portrayed as kindhearted, practical, and courageous, often acting as the grounded counterpart to Holmes’ more detached and cerebral nature. He is earnest, loyal, and sometimes bemused by Holmes’ idiosyncrasies but consistently supportive. His warmth and moral compass provide emotional balance within the stories, making him an accessible narrator and beloved character."
+    },
+    {
+      "title": "Story Role",
+      "body": "Watson serves as Holmes’ assistant and confidant, often accompanying him on investigations and participating in key moments of deduction. Importantly, he acts as the primary narrator in most Holmes stories, providing the reader with a humanized perspective on the detective’s extraordinary abilities. Watson’s medical expertise and social connections are also valuable assets during their cases."
+    },
+    {
+      "title": "Relationships",
+      "body": "John Watson shares a deep bond with Sherlock Holmes, marked by mutual respect and friendship. He often functions as Holmes’ link to the outside world, including law enforcement and society at large. Watson's relationship with Holmes is one of intellectual partnership and personal loyalty. He also has his own social and professional circles that occasionally intersect with Holmes’ cases."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Watson is a skilled medical doctor with firsthand experience in military and civil medicine. His observable nature and sound judgment assist Holmes during investigations. While not possessing Holmes’ deductive genius, Watson is brave, resourceful, and proficient with firearms. His narrative role as a reporter and biographer immortalizes Holmes’ exploits."
+    }
+  ],
+  "aliases": [
+    "John Watson",
+    "Dr. Watson",
+    "Watson",
+    "Captain John H. Watson"
+  ],
+  "relationships": [
+    {
+      "type": "created_by",
+      "target": "7f39ba3a-6b6e-4d3e-8f2b-9b66027320b0"
+    },
+    {
+      "type": "key_character_in",
+      "target": "b56774d8-47a7-44a5-857d-27fa4d0e416c"
+    },
+    {
+      "type": "partner_of",
+      "target": "59f6480b-1ca3-4c1f-933f-5aecfdb0b9d3"
+    },
+    {
+      "type": "appears_in",
+      "target": "b56774d8-47a7-44a5-857d-27fa4d0e416c"
+    }
+  ],
+  "properties": {
+    "occupation": [
+      "Medical Doctor",
+      "Army Surgeon"
+    ],
+    "residence": "221B Baker Street, London",
+    "skills": [
+      "Medicine",
+      "Narration",
+      "Firearms",
+      "Military tactics"
+    ],
+    "era": "Victorian/Edwardian"
+  },
+  "tags": [
+    "Sherlock Holmes",
+    "sidekick",
+    "doctor",
+    "narrator",
+    "Victorian",
+    "detective fiction",
+    "companion",
+    "friend"
+  ]
+}

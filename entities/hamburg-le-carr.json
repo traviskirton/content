@@ -1,0 +1,47 @@
+{
+  "id": "9ee6ee4b-82d3-4a8a-9f96-7c562734a0f0",
+  "type": "location",
+  "name": "Hamburg (le Carré)",
+  "description": "A key setting in 'Smiley’s People' representing a city divided and steeped in Cold War espionage intrigue.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Hamburg in 'Smiley’s People' is depicted as a significant Cold War urban landscape. As West Germany’s major port city, it functions as a major hub for intelligence operations, providing a tense and complex environment for spy craft and clandestine meetings."
+    },
+    {
+      "title": "Appearance",
+      "body": "The city is portrayed with a blend of old-world European architecture alongside post-war modern development. Its labyrinthine streets, docks, and cupolas offer numerous covert locations, reflecting the clandestine nature of spy exchanges amidst everyday urban life."
+    },
+    {
+      "title": "History",
+      "body": "Historically, Hamburg was a crucial territorial and economic point in post-war Europe, made more volatile during the Cold War due to its proximity to the Iron Curtain. In le Carré’s narrative, the city embodies the liminality between East and West, peace and conflict, playing a pivotal role in operational manoeuvres."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Hamburg is the site of several critical plot developments in 'Smiley’s People'. The city’s divisions and shadows mirror the fractured loyalties of characters and deepen the themes of betrayal and ideological conflict that permeate the story."
+    }
+  ],
+  "aliases": [
+    "Hamburg, Germany",
+    "West Hamburg",
+    "Cold War Hamburg"
+  ],
+  "relationships": [],
+  "properties": {
+    "country": "Germany",
+    "historical_period": "Cold War era",
+    "importance": "Intelligence and espionage center",
+    "port_city": true,
+    "population": "Approximately 1.7 million (circa 1970s)"
+  },
+  "tags": [
+    "location",
+    "Cold War",
+    "Germany",
+    "espionage",
+    "city",
+    "le Carré",
+    "Smiley's People",
+    "intelligence"
+  ]
+}

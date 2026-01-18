@@ -1,0 +1,52 @@
+{
+  "id": "0581d0a6-5cf9-4a3f-920d-fcad36f16806",
+  "type": "location",
+  "name": "The Elderglass",
+  "description": "The mysterious and ancient, now ruined, glass-like structures formed from a fallen, otherworldly material that litter the landscape near Camorr.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Elderglass consists of large, shimmering ruins composed of an incredibly durable glass-like substance that is neither fully understood nor of ordinary earthly origin. These strange, crumbling structures dominate parts of the landscape surrounding Camorr, creating eerie yet majestic landmarks. The Elderglass’s presence infuses the surrounding land with an aura of mysticism and ancient power, symbolizing forgotten eras and lost civilizations."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Elderglass ruins are vast, prismatic, and translucent, catching the light in ways that mimic natural crystal formations but on a massive architectural scale. Their towering shards and spires reflect refracted light with colors shifting subtly through the spectrum. Over time, nature has both shattered and embraced the Elderglass, with moss, vines, and other flora growing in the spaces between these monumental glass fragments, creating a stark contrast between the fragile beauty of the material and its harsh surroundings."
+    },
+    {
+      "title": "History",
+      "body": "The origins of the Elderglass are mysterious and tied to ancient, incomprehensible past events, possibly related to powerful magical or extraterrestrial phenomena. The remnants of what once was a grand city or other superstructure now lie broken and abandoned. Over centuries, knowledge has faded, and the material’s properties inspire myth and fear. The Elderglass’s indestructible nature and alien quality mark it as a relic from a bygone age that continues to influence the culture and lore surrounding Camorr."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'The Lies of Locke Lamora,' the Elderglass serves as both a physical and symbolic location. Its ruins are sites of significant plot developments, mystery, and danger. Characters encounter these sites in moments of revelation or confrontation, and the Elderglass represents the profound, often unfathomable forces shaping the world beyond human understanding. It evokes themes of decay, lost knowledge, and the enduring impact of the past on present events."
+    }
+  ],
+  "aliases": [
+    "Elderglass Ruins",
+    "Glass Ruins",
+    "Ancient Glass Structures"
+  ],
+  "relationships": [
+    {
+      "type": "near",
+      "target": "082a0e65-147f-4b15-8e3d-b3459755c1c1"
+    }
+  ],
+  "properties": {
+    "material": "Glass-like",
+    "origin": "Ancient/Otherworldly",
+    "condition": "Ruined",
+    "location_type": "Ruins",
+    "magical_significance": true
+  },
+  "tags": [
+    "Location",
+    "Ruins",
+    "Magic",
+    "Ancient",
+    "Elderglass",
+    "Fantasy Setting",
+    "Camorr",
+    "Mystery"
+  ]
+}

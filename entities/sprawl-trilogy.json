@@ -1,0 +1,57 @@
+{
+  "id": "54d8740e-f091-4f1d-9cd5-1c3a077be9a7",
+  "type": "franchise",
+  "name": "Sprawl Trilogy",
+  "description": "The Sprawl Trilogy is a seminal cyberpunk series of novels by William Gibson, centered around a futuristic urban environment known as the Sprawl.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Sprawl Trilogy comprises three interconnected novels—'Neuromancer,' 'Count Zero,' and 'Mona Lisa Overdrive'—set in a dystopian future dominated by multinational corporations and sprawling urban landscapes. The series explores complex themes of artificial intelligence, cybernetics, and virtual reality while following a rotating cast of characters whose fates intertwine. This trilogy solidified Gibson's reputation as a pioneering voice in cyberpunk, influencing the genre's aesthetics and expanding the conceptualization of cyberspace."
+    },
+    {
+      "title": "Setting and Environment",
+      "body": "The trilogy is set primarily in a vast metropolitan area dubbed 'The Sprawl,' a largely ungoverned, continuous urban stretch along the U.S. eastern seaboard, heavily characterized by technological decay and rampant corporate control. This mega-city is depicted with haunting imagery of neon-lit streets, overpopulated slums, and cutting-edge technology intersecting with urban squalor. The Sprawl serves as a critical backdrop reflecting contemporary anxieties about unchecked urbanization and technological dominance."
+    },
+    {
+      "title": "Themes",
+      "body": "Central themes include the interplay between humanity and technology, the nature of consciousness and identity, and socio-economic disparities in a digitized world. The novels probe the implications of artificial intelligence autonomy and virtual space as new frontier ecosystems. Additionally, Gibson examines the ethical ambiguity of corporate power and the underbelly of cybernetic enhancement, probing how technology redefines reality and individual agency."
+    },
+    {
+      "title": "Reception and Legacy",
+      "body": "The Sprawl Trilogy received widespread critical praise for its originality, visionary storytelling, and influence on the cyberpunk genre. 'Neuromancer,' the trilogy’s opening volume, is especially celebrated, having won multiple major awards and inspiring a vivid cultural lexicon. The trilogy's vision of cyberspace and cybernetics has been foundational, impacting not only literature but also film, videogames, and academic discourse on digital futures. It established cyberpunk as a mainstream subgenre of science fiction."
+    },
+    {
+      "title": "Key Characters and Continuity",
+      "body": "Each novel in the trilogy introduces new protagonists while maintaining a loosely shared continuity through recurring locales, advanced technologies, and thematic motifs. Characters such as hackers, mercenaries, and artificial intelligences navigate shifting alliances and blurred realities. Relationships are defined by survival and moral complexity within the shifting geopolitical landscape of the Sprawl."
+    }
+  ],
+  "aliases": [
+    "The Sprawl Series",
+    "The Sprawl Cycle",
+    "Sprawl Novels"
+  ],
+  "relationships": [
+    {
+      "type": "created_by",
+      "target": "c7d4a5e1-2b16-4d15-bf08-f1b3ec69fa2e"
+    },
+    {
+      "type": "includes",
+      "target": "d8b0039a-8bb0-4f52-9053-f303e3e6d398"
+    }
+  ],
+  "properties": {
+    "books_count": 3,
+    "genre": "Cyberpunk",
+    "publication_period": "1984-1988"
+  },
+  "tags": [
+    "cyberpunk",
+    "science fiction",
+    "William Gibson",
+    "literature",
+    "dystopia",
+    "trilogy",
+    "technology"
+  ]
+}

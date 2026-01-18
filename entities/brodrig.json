@@ -1,0 +1,59 @@
+{
+  "id": "3b0a9718-5c91-4ece-a0eb-0f055c5a8aba",
+  "type": "character",
+  "name": "Brodrig",
+  "description": "A high-ranking Imperial official and political figure involved in the power struggles within the Galactic Empire during the events of 'Foundation and Empire'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Brodrig serves within the administrative elite of the Galactic Empire. His role primarily concerns the political dynamics at the imperial court, navigating the delicate balance between military leaders, bureaucrats, and imperial interests. Operating during the terminal phase of Imperial power, Brodrig’s actions are representative of the complex, often self-interested politics that contribute to the Empire’s stagnation."
+    },
+    {
+      "title": "Personality",
+      "body": "Brodrig is depicted as calculating and politically savvy, aware of the fragility of imperial authority and the necessity of wielding influence through behind-the-scenes maneuvering. He is typically cautious and skilled in court intrigue, prioritizing stability and power preservation in an unstable environment. His demeanor contrasts with more overtly aggressive or idealistic characters, emphasizing pragmatism."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Foundation and Empire', Brodrig acts as a key player in the internal imperial politics surrounding General Bel Riose’s campaign. He embodies the factions within the Empire that both support and undermine Riose’s efforts, reflecting the divided loyalties and power struggles that weaken Imperial resolve. His role highlights the challenges faced by the Empire’s leadership and their impact on historic outcomes."
+    },
+    {
+      "title": "Relationships",
+      "body": "Brodrig operates within Emperor Cleon II’s court and interacts with military leaders like Bel Riose. His political dealings pit him at times against proponents of aggressive campaigns, as he maneuvers to influence imperial direction. His alliances and enmities within the court shape decisions and contribute to the overall narrative tension within the Empire."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Brodrig’s strengths lie in political strategy, diplomacy, and manipulation. His capacity to navigate and influence complex court intrigues positions him as an effective, though not always visible, power broker in the Empire. Unlike battlefield commanders, his skills are exercised through rhetoric, alliances, and bureaucratic control."
+    }
+  ],
+  "aliases": [
+    "Imperial Official Brodrig",
+    "Brodrig the Politician"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "87f3d82a-1c34-4f8d-97fc-3202ead228d1"
+    },
+    {
+      "type": "colleague_of",
+      "target": "64d37a5b-1080-4c2b-b01f-1e1faa984f2c"
+    },
+    {
+      "type": "serves_under",
+      "target": "5c1a4746-0c85-4a9e-abf9-86e659986e08"
+    }
+  ],
+  "properties": {
+    "occupation": "Imperial Official",
+    "affiliation": "Galactic Empire",
+    "role": "Political figure"
+  },
+  "tags": [
+    "science fiction",
+    "character",
+    "galactic empire",
+    "politics",
+    "foundation series",
+    "court intrigue"
+  ]
+}

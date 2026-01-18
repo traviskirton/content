@@ -1,0 +1,69 @@
+{
+  "id": "0e4a7328-6d97-40a1-8769-bb8c4f91e64d",
+  "type": "character",
+  "name": "Aragorn",
+  "description": "Aragorn, also known as Strider, is the heir of Isildur and rightful king of Gondor, a skilled ranger and warrior who leads and protects the Fellowship.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Aragorn is a human ranger of the North, descended from the ancient line of Númenórean kings. Raised in Rivendell under Elrond’s care, he was given the name Estel, meaning 'hope', to shield him from enemies. He later adopted the ranger alias 'Strider' and spent years protecting the wild lands and aiding those in need. His heritage and destiny as the rightful King of Gondor weigh heavily upon him, driving his mission to unite the realms of Men against Sauron's forces."
+    },
+    {
+      "title": "Personality",
+      "body": "Aragorn combines nobility with humility, possessing a quiet strength and deep sense of responsibility. He is wise, courageous, and self-sacrificing, often putting the welfare of others above his own. His pragmatism blends with a visionary hope for peace and restoration. Though reserved, Aragorn earns deep respect and loyalty through consistent deeds and honorable conduct."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Fellowship of the Ring,' Aragorn joins the Fellowship as its principal guide and protector, using his skills in tracking and combat to navigate dangerous territories. He acts as a leader in Gandalf’s absence and is deeply committed to the quest’s success. His ability to bridge the gap between wild lands and kingdoms personifies the uniting of diverse peoples within the narrative."
+    },
+    {
+      "title": "Relationships",
+      "body": "Aragorn is closely allied with Gandalf, who trusts him implicitly. He shares bonds of friendship and mutual respect with fellow Fellowship members such as Legolas and Gimli, overcoming traditional enmities. His relationship with Arwen, an Elven princess, reflects his extraordinary heritage and emotional depth. His protective instinct extends especially toward Frodo and the Hobbits."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Aragorn is a master swordsman and skilled hunter, tracker, and healer. He wields the reforged sword Andúril with great proficiency. His extensive knowledge of the wilds and languages, combined with tactical acumen, make him an exceptional leader. Aragorn also exhibits endurance and courage, often taking on the most perilous tasks for the Fellowship’s safety."
+    }
+  ],
+  "aliases": [
+    "Strider",
+    "Estel",
+    "Elessar",
+    "Thorongil",
+    "Chieftain of the Dúnedain"
+  ],
+  "relationships": [
+    {
+      "type": "ally_of",
+      "target": "668d4c66-92e8-4b6e-b695-bd9fd6283f22"
+    },
+    {
+      "type": "ally_of",
+      "target": "9a12e591-8131-4a38-b2f1-64e345fe5c50"
+    },
+    {
+      "type": "ally_of",
+      "target": "d4c6f2a9-45b3-427e-abd4-5241a7ca92b8"
+    },
+    {
+      "type": "protector_of",
+      "target": "ef8c90fa-e1e8-4c1a-9707-c626f1b6e7bd"
+    }
+  ],
+  "properties": {
+    "species": "Human (Dúnedain)",
+    "title": "Heir of Isildur",
+    "weapon": "Andúril",
+    "role": "Ranger, leader"
+  },
+  "tags": [
+    "Human",
+    "Ranger",
+    "Fellowship of the Ring",
+    "Heir of Isildur",
+    "King",
+    "Leader",
+    "Warrior",
+    "Middle-earth"
+  ]
+}

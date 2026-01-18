@@ -1,0 +1,125 @@
+{
+  "source": "The Fellowship of the Ring",
+  "entities": [
+    {
+      "type": "person",
+      "name": "J.R.R. Tolkien"
+    },
+    {
+      "type": "franchise",
+      "name": "Middle-earth"
+    },
+    {
+      "type": "franchise",
+      "name": "The Lord of the Rings"
+    },
+    {
+      "type": "book",
+      "name": "The Fellowship of the Ring"
+    },
+    {
+      "type": "character",
+      "name": "Frodo Baggins"
+    },
+    {
+      "type": "character",
+      "name": "Samwise Gamgee"
+    },
+    {
+      "type": "character",
+      "name": "Gandalf"
+    },
+    {
+      "type": "character",
+      "name": "Aragorn"
+    },
+    {
+      "type": "character",
+      "name": "Legolas"
+    },
+    {
+      "type": "character",
+      "name": "Gimli"
+    },
+    {
+      "type": "character",
+      "name": "Boromir"
+    },
+    {
+      "type": "character",
+      "name": "Meriadoc Brandybuck"
+    },
+    {
+      "type": "character",
+      "name": "Peregrin Took"
+    },
+    {
+      "type": "character",
+      "name": "Bilbo Baggins"
+    },
+    {
+      "type": "character",
+      "name": "Elrond"
+    },
+    {
+      "type": "character",
+      "name": "Galadriel"
+    },
+    {
+      "type": "character",
+      "name": "Sauron"
+    },
+    {
+      "type": "character",
+      "name": "Saruman"
+    },
+    {
+      "type": "location",
+      "name": "The Shire"
+    },
+    {
+      "type": "location",
+      "name": "Bag End"
+    },
+    {
+      "type": "location",
+      "name": "Rivendell"
+    },
+    {
+      "type": "location",
+      "name": "Moria"
+    },
+    {
+      "type": "location",
+      "name": "Lothlórien"
+    },
+    {
+      "type": "location",
+      "name": "Mordor"
+    },
+    {
+      "type": "location",
+      "name": "Mount Doom"
+    },
+    {
+      "type": "item",
+      "name": "The One Ring"
+    },
+    {
+      "type": "item",
+      "name": "Sting (Sword)"
+    },
+    {
+      "type": "item",
+      "name": "Mithril Coat"
+    },
+    {
+      "type": "item",
+      "name": "Andúril"
+    },
+    {
+      "type": "organization",
+      "name": "The Fellowship of the Ring (Group)"
+    }
+  ]
+}

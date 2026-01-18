@@ -1,0 +1,51 @@
+{
+  "id": "47b9c418-2f0e-4a4a-9ac3-02f7c0c59ddb",
+  "type": "location",
+  "name": "Moria",
+  "description": "Also known as Khazad-dûm, Moria is an ancient underground dwarf kingdom beneath the Misty Mountains, known for its vast halls and dark depths.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Moria is a vast network of subterranean halls, tunnels, and mines once inhabited by Dwarves, famed for being a center of Dwarven craftsmanship and treasure. It extends under the Misty Mountains and includes grand chambers like the Great Hall of Durin and the Mirrormere. Despite its grandeur, by the time of the War of the Ring, Moria had fallen into ruin, haunted by orcs, trolls, and the Balrog."
+    },
+    {
+      "title": "Appearance",
+      "body": "The interior of Moria is characterized by colossal architecture, carved directly from stone with monumental pillars supporting cavernous roofs. Its vastness is awe-inspiring, lit dimly by sparse torchlight and remnants of Elvish illumination. The mine is labyrinthine and foreboding, featuring deep chasms, echoing halls, and ancient dwarven statues, creating an atmosphere both magnificent and menacing."
+    },
+    {
+      "title": "History",
+      "body": "Once a thriving Dwarven realm famous for its mithril mines, Moria was founded in the First Age by Durin the Deathless. It prospered for millennia until it was overrun by Orcs and other dark creatures when a Balrog was awakened in its depths. Its abandonment marked a tragic downturn in Dwarven fortunes, and attempts to reclaim it in the Third Age, including Balin’s colony, ultimately failed."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Moria serves as a critical and perilous passage for the Fellowship in ‘The Lord of the Rings’. Their journey through it is marked by loss and confrontation with ancient evils, most famously the battle with the Balrog in the Bridge of Khazad-dûm. The fate of Moria symbolizes the greater struggle against encroaching darkness and the fading of ancient civilizations."
+    }
+  ],
+  "aliases": [
+    "Khazad-dûm",
+    "The Dwarrowdelf",
+    "The Great Underground Kingdom"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "f1b2c3d4-e5f6-7890-abcdefghijk1"
+    }
+  ],
+  "properties": {
+    "region": "Misty Mountains",
+    "type": "Underground Dwarven city",
+    "notable_features": "Mithril mines, Great Hall of Durin",
+    "current_inhabitants": "Orcs, trolls (during Third Age)"
+  },
+  "tags": [
+    "Dwarven",
+    "underground",
+    "mine",
+    "ruins",
+    "Misty Mountains",
+    "ancient",
+    "dark",
+    "Balrog"
+  ]
+}

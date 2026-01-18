@@ -1,0 +1,73 @@
+{
+  "source": "Smiley's People",
+  "entities": [
+    {
+      "type": "book",
+      "name": "Smiley's People"
+    },
+    {
+      "type": "character",
+      "name": "General Vladimir"
+    },
+    {
+      "type": "character",
+      "name": "Otto Leipzig"
+    },
+    {
+      "type": "character",
+      "name": "Madame Ostrakova"
+    },
+    {
+      "type": "character",
+      "name": "Alexandra (Tatiana)"
+    },
+    {
+      "type": "character",
+      "name": "Grigoriev"
+    },
+    {
+      "type": "character",
+      "name": "Kirov"
+    },
+    {
+      "type": "character",
+      "name": "Toby Esterhase (Smiley's People)"
+    },
+    {
+      "type": "character",
+      "name": "Saul Enderby"
+    },
+    {
+      "type": "character",
+      "name": "Lauder Strickland"
+    },
+    {
+      "type": "location",
+      "name": "Hampstead Heath"
+    },
+    {
+      "type": "location",
+      "name": "Hamburg (le Carré)"
+    },
+    {
+      "type": "location",
+      "name": "Paris (le Carré)"
+    },
+    {
+      "type": "location",
+      "name": "Bern (le Carré)"
+    },
+    {
+      "type": "location",
+      "name": "Berlin Wall Crossing"
+    },
+    {
+      "type": "item",
+      "name": "The Sandman Network"
+    },
+    {
+      "type": "item",
+      "name": "Group Thirteen"
+    }
+  ]
+}

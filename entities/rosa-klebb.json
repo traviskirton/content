@@ -1,0 +1,70 @@
+{
+  "id": "73d8d327-a5d3-4d8a-8c0c-f3afbf513194",
+  "type": "character",
+  "name": "Rosa Klebb",
+  "description": "A ruthless and high-ranking operative of the Soviet agency SMERSH, known for her cunning and cruelty.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Rosa Klebb is introduced as a senior officer within SMERSH, the Soviet counter-intelligence agency aimed at eliminating threats to the state during the Cold War. Formerly a combat officer in the Soviet military, Klebb embodies the ruthless efficiency of Soviet espionage. She is tasked with devising and overseeing operations to neutralize Western spies, reflecting the deep mistrust and hostility of the era. Her experience and authority make her a formidable antagonist."
+    },
+    {
+      "title": "Personality",
+      "body": "Klebb's personality is characterized by unyielding coldness, meticulous planning, and a sadistic streak. She exhibits no hesitation in using extreme measures to achieve her goals and is highly manipulative, employing psychological tactics and deception. Despite her position, she harbors resentment and paranoia, typical of Soviet operatives portrayed during the period, manifesting in her distrust even of her own agents. Her cold demeanor is chilling and serves to heighten her menace."
+    },
+    {
+      "title": "Story Role",
+      "body": "Within 'From Russia with Love,' Rosa Klebb is the architect of the trap laid for James Bond. She orchestrates the plan to lure Bond into a deadly snare using the defection of Tatiana Romanova as bait. Klebb supervises the use of the assassin Red Grant and personally participates in attempts to eliminate Bond. Her role is pivotal, providing much of the novel's tension and conflict, and she exemplifies the perils of espionage at the highest levels."
+    },
+    {
+      "title": "Relationships",
+      "body": "Rosa Klebb maintains professional but strained relations with other Soviet operatives, especially with assassin Red Grant, whom she controls. She treats Tatiana Romanova as a disposable pawn in her schemes. Her relationship with SMERSH is one of dedication but also marked by ruthless ambition. Klebb's interactions with Bond are defined by enmity and deadly opposition, highlighting the clash between Western and Eastern intelligence agencies."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Klebb is highly skilled in espionage, combat, and psychological warfare. Her military background endows her with strategic thinking and hand-to-hand combat proficiency. She is adept at manipulation, interrogation, and the use of covert tactics. Notably, in the novel and film adaptations, she wields a poison-tipped shoe blade, demonstrating her lethal proficiency and inventive approach to assassination."
+    }
+  ],
+  "aliases": [
+    "Colonel Klebb",
+    "SMERSH Agent Klebb",
+    "Soviet Spy Klebb"
+  ],
+  "relationships": [
+    {
+      "type": "member_of",
+      "target": "4e9eab3b-d986-44e9-bf2a-7bfdad2c3f9f"
+    },
+    {
+      "type": "commands",
+      "target": "7e2b8123-4ec0-4bcf-919f-b0f586e4bcaf"
+    },
+    {
+      "type": "antagonist_in",
+      "target": "1d9a0b4b-91c3-4b11-9f82-1f4380fe4c80"
+    },
+    {
+      "type": "creates_trap_for",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    },
+    {
+      "type": "appears_in",
+      "target": "1d9a0b4b-91c3-4b11-9f82-1f4380fe4c80"
+    }
+  ],
+  "properties": {
+    "occupation": "SMERSH operative",
+    "nationality": "Soviet",
+    "gender": "Female",
+    "rank": "Colonel"
+  },
+  "tags": [
+    "Villain",
+    "Spy",
+    "SMERSH",
+    "Cold War",
+    "Assassin",
+    "James Bond",
+    "Femme fatale"
+  ]
+}

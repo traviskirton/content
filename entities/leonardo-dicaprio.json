@@ -45,6 +45,14 @@
     {
       "type": "worked_with",
       "target": "ae2541d3-fd8b-4839-a91b-f8c8bdf5ef87"
+    },
+    {
+      "type": "portrays",
+      "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
+    },
+    {
+      "type": "acted_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
     }
   ],
   "properties": {

@@ -100,6 +100,38 @@
     {
       "type": "part_of",
       "target": "f7e6d5c4-b3a2-1098-7654-321fedcba987"
+    },
+    {
+      "type": "filmed_in",
+      "target": "5b7c8d1e-9f0a-403e-a7c3-6e8f4b5d0e1f"
+    },
+    {
+      "type": "filmed_in",
+      "target": "b3734d99-c7f4-480f-b3b3-638842efe417"
+    },
+    {
+      "type": "filmed_in",
+      "target": "ecf87b10-d3f5-4832-9c1a-3e1bfaea6abc"
+    },
+    {
+      "type": "filmed_in",
+      "target": "a9c2b0f1-3e45-476f-989b-d3e1f7e93b13"
+    },
+    {
+      "type": "filmed_in",
+      "target": "163f25f5-8a97-40f9-bb36-d9edb5cb43cf"
+    },
+    {
+      "type": "filmed_in",
+      "target": "4f39b6e0-1234-4c7a-b545-7c58d2f87acd"
+    },
+    {
+      "type": "filmed_in",
+      "target": "23cab135-3c56-4ec3-9f0b-a1cfe85993f2"
+    },
+    {
+      "type": "filmed_in",
+      "target": "aad70d92-5fbb-4c71-b553-22a01ed58db5"
     }
   ],
   "properties": {
@@ -120,6 +152,8 @@
     "adventure",
     "1980s",
     "time-travel",
-    "classic"
+    "classic",
+    "robert-zemeckis",
+    "back-to-the-future"
   ]
 }

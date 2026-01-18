@@ -72,6 +72,10 @@
     {
       "type": "uses",
       "target": "f3a317d5-5b56-4d8f-bd7e-065ecf7886a1"
+    },
+    {
+      "type": "appears_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
     }
   ],
   "properties": {

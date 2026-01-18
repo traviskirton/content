@@ -1,0 +1,56 @@
+{
+  "id": "57e4f965-dc7c-4f70-b3da-9bab2d395f4c",
+  "type": "location",
+  "name": "Freeside",
+  "description": "A luxurious free-trade space station resort on a hollowed-out asteroid, blending opulence with dark undercurrents.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Freeside is an orbiting space station and resort built within a hollowed-out asteroid, serving as a hub of high technology, decadence, and illicit activity in the world of 'Neuromancer'. Designed as a free-trade zone, it attracts the wealthy elite, corporate executives, and shadow operatives seeking privacy and luxury beyond Earth’s constraints. Despite its lavish surface, Freeside conceals beneath it complex social stratification, corporate intrigue, and underworld dealings, epitomizing the duality of glamour and corruption."
+    },
+    {
+      "title": "Appearance",
+      "body": "Visually, Freeside is a sprawling, self-contained environment featuring sleek architectural spaces illuminated by artificial sunlight simulators. Its interiors boast high-end casinos, luxury dwellings, and exclusive entertainment venues, contrasting with restricted access industrial and security zones. The station’s design utilizes both organic asteroid rock formations and advanced synthetic materials, creating an uneasy juxtaposition of natural and manufactured elements. The opulence is accentuated by neon glows and high-tech gadgetry, evoking a futuristic playground for the powerful."
+    },
+    {
+      "title": "History",
+      "body": "Initially constructed as a corporate venture to establish a tax-free haven and leisure destination, Freeside rapidly grew into a nexus of economic activity, political influence, and clandestine operations. Its strategic location in orbit allows it autonomy from terrestrial laws, contributing to its reputation as a haven for unregulated commerce and covert agreements. Over time, it attracted a mix of legitimate wealthy patrons and shadowy figures from the espionage and criminal worlds, becoming a microcosm of the broader conflicts between corporate powers."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Freeside plays a critical setting role as the launching point for Case’s mission into the Straylight orbiting complex. It embodies the cyberpunk theme of spaces where extremes of wealth and power manifest in isolated environments, amplifying notions of escape, illusion, and underlying menace. The station's luxurious veneer conceals the harsh realities of control and danger, highlighting the fragile veneer between comfort and chaos in Gibson’s universe."
+    }
+  ],
+  "aliases": [
+    "Freeside Space Station",
+    "Asteroid Resort",
+    "Free Trade Zone"
+  ],
+  "relationships": [
+    {
+      "type": "part_of",
+      "target": "71b6fdea-7640-4829-8e50-2a2a5f09a204"
+    },
+    {
+      "type": "connected_to",
+      "target": "1f0a8220-48da-43e2-90b6-52507e8690ac"
+    }
+  ],
+  "properties": {
+    "type": "Space station resort",
+    "location": "Orbiting asteroid",
+    "status": "Free trade zone",
+    "population": "Elite and shadow operators",
+    "climate": "Artificial environment"
+  },
+  "tags": [
+    "location",
+    "space station",
+    "cyberpunk",
+    "resort",
+    "free trade",
+    "setting",
+    "orbit",
+    "the-sprawl"
+  ]
+}

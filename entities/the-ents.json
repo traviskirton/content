@@ -1,0 +1,52 @@
+{
+  "id": "c2d89f40-7b70-43b0-a64a-044231b56b40",
+  "type": "organization",
+  "name": "The Ents",
+  "description": "Ancient tree-like beings who are the shepherds of the forests of Middle-earth.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Ents are an ancient race of giant, sentient tree-like creatures who act as guardians and shepherds of the forests in Middle-earth. They possess great strength and a deep connection to nature, living in the forest of Fangorn and elsewhere. Known for their slow, deliberative manner and powerful presence, Ents play a vital role in the natural order, preserving the balance between growth and decay and defending their woods from harm."
+    },
+    {
+      "title": "Structure",
+      "body": "Organizationally, the Ents function as a loose council rather than a structured society, led by the oldest and wisest among them called the Entmoot. They do not have hierarchical leadership similar to human or elven societies but instead convene to discuss important matters and reach consensus. The Ents communicate through deep, slow speech and gestures, and their decisions are measured and thoughtful, reflecting their enduring lifespan and close ties to the earth."
+    },
+    {
+      "title": "History",
+      "body": "The Ents were believed to have been created by Eru Ilúvatar and awakened by Yavanna to protect the forests from destruction by men and other creatures. Through millennia, they lived largely in seclusion, minimizing interaction with other races. Their history is marked by long periods of peaceful stewardship punctuated by times of conflict when they intervene to protect their lands, such as their famous march against Isengard during the War of the Ring when they destroyed Saruman’s fortress and machinery."
+    },
+    {
+      "title": "Goals",
+      "body": "Primarily, the Ents strive to protect the natural world, especially the forests under their care, from exploitation and destruction. They aim to maintain the balance of nature by shepherding the growth of trees and plants and fighting against forces that threaten to despoil the land, including industrialization and war. They serve as defenders of the wild and symbolize the enduring power and wisdom of nature in Middle-earth."
+    },
+    {
+      "title": "Key Members",
+      "body": "Treebeard, also known as Fangorn, is the oldest and most prominent Ent, renowned for his wisdom and leadership during the Entmoot. Other known Ents include Quickbeam, who is notably more impetuous and spirited. While the Ents as a group are rare and few in number by the time of 'The Lord of the Rings,' their impact is significant, especially in the defeat of Saruman’s forces."
+    }
+  ],
+  "aliases": [
+    "Shepherds of the Trees",
+    "Tree-folk",
+    "The Shepherds of Fangorn",
+    "The Entish"
+  ],
+  "relationships": [],
+  "properties": {
+    "race": "Ents (tree-like beings)",
+    "location": "Fangorn Forest",
+    "lifespan": "Extremely long - possibly immortal",
+    "nature": "Guardians of forests",
+    "language": "Entish"
+  },
+  "tags": [
+    "Middle-earth",
+    "Fantasy race",
+    "Guardians",
+    "Forests",
+    "Nature spirits",
+    "Tree beings",
+    "War of the Ring",
+    "Fangorn"
+  ]
+}

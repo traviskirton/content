@@ -1,0 +1,68 @@
+{
+  "id": "57bca9b6-ab08-4c4a-976e-6f3ffdf5b6e7",
+  "type": "location",
+  "name": "Discworld (World)",
+  "description": "A flat, disc-shaped world balanced on the backs of four giant elephants standing on a massive turtle, serving as the primary setting for Terry Pratchett’s fantasy series.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Discworld is a fantastical universe created by Terry Pratchett, distinguished by its unique cosmology: a flat disc resting on the backs of four gigantic elephants, which in turn stand on the shell of a cosmic Great A'Tuin, a giant turtle endlessly swimming through space. This world blends parody, satire, and fantasy, encompassing diverse cultures, species, and landscapes from bustling cities like Ankh-Morpork to mysterious realms such as Death’s Domain. The Disc is a place where magic permeates reality, often interacting humorously with everyday life."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Discworld is a vast, circular flat plane with a rolling frontier edge that drops off into space, dominated by magical phenomena and mythic creatures. Its outer rim is often depicted as a waterfall that cascades off into the void. Landscapes vary widely, from civilized cities to wild, enchanted forests and desolate wastelands. The presence of the cosmic turtle A'Tuin, the elephants, and the occasional starry skies lend the Disc a surreal and mythological aesthetic, blending whimsy with a sense of ancient cosmic mystery."
+    },
+    {
+      "title": "History",
+      "body": "The history of Discworld is extensive and detailed in the series, marked by numerous magical events, wars, and the rise and fall of kingdoms, organizations, and guilds. Originally created by the Great Gods of the Disc, the world has evolved its own cultures and civilizations, often reflecting and parodying real-world mythology, history, and societal structures. The balance of magic and mundane has shifted over time, with modern developments such as technology and institutions like the Unseen University shaping its current state."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Discworld serves as the foundational backdrop for over 40 novels by Terry Pratchett, offering a richly textured setting where characters explore themes such as power, mortality, belief, bureaucracy, and ethics through fantastic and often comedic lenses. Every region and landmark has narrative significance, supporting diverse storylines ranging from the adventures of the City Watch to explorations of Death's philosophy. The world itself becomes almost a character, evolving alongside its inhabitants and their challenges, playing a crucial role in the humor and heart of the series."
+    }
+  ],
+  "aliases": [
+    "The Disc",
+    "Discworld Universe",
+    "Disc-shaped World",
+    "Pratchett's Discworld"
+  ],
+  "relationships": [
+    {
+      "type": "contains",
+      "target": "c280701d-cc72-4e97-9367-ef8b120ff1a3"
+    },
+    {
+      "type": "contains",
+      "target": "ea9b2b82-71cc-417d-9f3d-b7b0c202367a"
+    },
+    {
+      "type": "contains",
+      "target": "86f89b4a-2e8d-4791-b460-1670b6b0fc60"
+    },
+    {
+      "type": "home_of",
+      "target": "e89d9a3c-5d70-4e76-aa54-57e3b8a9cde1"
+    },
+    {
+      "type": "includes",
+      "target": "86f89b4a-2e8d-4791-b460-1670b6b0fc60"
+    }
+  ],
+  "properties": {
+    "shape": "Flat disc",
+    "cosmology": "Four elephants on a giant turtle",
+    "genre": "Fantasy, Satire",
+    "creator": "Terry Pratchett",
+    "population": "Varies; humans, dwarfs, trolls, and other species"
+  },
+  "tags": [
+    "Fantasy World",
+    "Discworld",
+    "Terry Pratchett",
+    "Magic",
+    "Literature",
+    "Satire",
+    "Mythology"
+  ]
+}

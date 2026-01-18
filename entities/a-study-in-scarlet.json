@@ -1,0 +1,62 @@
+{
+  "id": "b56774d8-47a7-44a5-857d-27fa4d0e416c",
+  "type": "book",
+  "name": "A Study in Scarlet",
+  "description": "A Study in Scarlet is the 1887 detective novel by Arthur Conan Doyle that introduces Sherlock Holmes and Dr. John Watson.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "'A Study in Scarlet' is the seminal work that introduced the characters Sherlock Holmes and Dr. John Watson to the literary world. Published in 1887, it is a detective novel spanning two distinct narrative parts: the first set in London focusing on the crime investigation, and the second recounting a backstory set in the American West. The novel established many conventions of detective fiction and set the foundation for the enduring Holmes canon."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "The novel opens with Dr. John Watson returning to London and seeking a flatmate, leading to his meeting with Sherlock Holmes. When a murder occurs involving a mysterious word scrawled in blood, Holmes employs his analytical skills to uncover the motive and identity of the culprit. The narrative then shifts to a detailed backstory involving religious persecution and vengeance in Utah, providing context for the crime. Ultimately, Holmes solves the case by unveiling the perpetrator and their motivations."
+    },
+    {
+      "title": "Themes",
+      "body": "'A Study in Scarlet' explores themes such as justice and revenge, rationality and deduction versus superstition, and friendship and loyalty. The novel contrasts order and chaos through Holmes’ investigative methods against the darker human motivations of the crime. The narrative also touches on cultural conflicts, social issues, and the emergence of modern forensic science."
+    },
+    {
+      "title": "Reception",
+      "body": "Though the novel initially received a lukewarm reception and modest sales, it gained tremendous importance as the starting point of the Sherlock Holmes phenomenon. Readers and critics later lauded its originality and the compelling detective partnership. Today, it is celebrated as a classic and foundational work in detective literature, with significant impact on popular media and genre storytelling."
+    },
+    {
+      "title": "Significance",
+      "body": "'A Study in Scarlet' is historically significant as the first work to bring Holmes and Watson to life, shaping detective fiction’s form and style. Its unique narrative structure and character dynamics influenced countless works behind its genre. The novel also highlights Doyle’s innovative approach to mystery writing, combining scientific reasoning with engaging storytelling."
+    }
+  ],
+  "aliases": [
+    "Study in Scarlet",
+    "Sherlock Holmes: A Study in Scarlet",
+    "A Study in Scarlet (Novel)"
+  ],
+  "relationships": [
+    {
+      "type": "author",
+      "target": "7f39ba3a-6b6e-4d3e-8f2b-9b66027320b0"
+    },
+    {
+      "type": "features_character",
+      "target": "59f6480b-1ca3-4c1f-933f-5aecfdb0b9d3"
+    },
+    {
+      "type": "features_character",
+      "target": "02f23350-9a14-4aff-9a4f-4963e3e9a8f0"
+    }
+  ],
+  "properties": {
+    "publication_year": 1887,
+    "genre": "Detective fiction",
+    "pages": 188,
+    "publisher": "Ward, Lock & Co."
+  },
+  "tags": [
+    "Sherlock Holmes",
+    "detective novel",
+    "Arthur Conan Doyle",
+    "crime",
+    "classic literature",
+    "mystery",
+    "Victorian"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "31e3f5a7-8764-4f96-a32e-85e3d02955a1",
+  "type": "organization",
+  "name": "The Fellowship of the Ring (Group)",
+  "description": "A diverse group of nine heroes formed to destroy The One Ring and defeat Sauron.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Fellowship of the Ring is a coalition formed in Rivendell with the singular purpose of destroying The One Ring by casting it into the fires of Mount Doom. Consisting of nine members representing the Free Peoples of Middle-earth — hobbits, humans, an elf, a dwarf, and a wizard — the Fellowship is bound by shared commitment, courage, and sacrifice. Their mission is to resist the power of Sauron and prevent his dominion."
+    },
+    {
+      "title": "Structure",
+      "body": "The Fellowship comprises nine individuals: Frodo Baggins (Ring-bearer), Samwise Gamgee, Meriadoc Brandybuck, Peregrin Took (hobbits), Aragorn and Boromir (humans), Legolas (elf), Gimli (dwarf), and Gandalf (wizard). Leadership primarily rests with Gandalf, and later Aragorn assumes command. Each member contributes unique skills and backgrounds, enabling the group to face diverse challenges. Its structure emphasizes unity across races and classes amid peril."
+    },
+    {
+      "title": "History",
+      "body": "Formed at the Council of Elrond in Rivendell, the Fellowship’s inception was a direct response to the discovery of The One Ring and the imminent threat from Sauron. Their journey begins in 'The Fellowship of the Ring' book/movie, embarking on a perilous path toward Mordor. Throughout their quest, the group faces betrayal, loss, and fracture yet sets foundational events in motion that lead to Middle-earth’s salvation."
+    },
+    {
+      "title": "Goals",
+      "body": "The Fellowship’s paramount goal is the destruction of The One Ring, which demands traversing dangerous lands to Mount Doom in Mordor. By doing so, they seek to eliminate Sauron’s power and restore peace to Middle-earth. Secondary objectives include protecting the Ring-bearer, uniting the varied peoples of Middle-earth, and resisting external enemies who seek to seize or destroy the Ring for themselves."
+    },
+    {
+      "title": "Key Members",
+      "body": "Frodo Baggins shoulders the burden as the Ring-bearer, entrusted with ultimate responsibility. Gandalf offers wisdom and magical power, guiding the group’s course. Aragorn, heir to the throne of Gondor, provides martial prowess and leadership. Legolas and Gimli symbolize unity between elves and dwarves. Boromir’s internal conflict reflects the Ring’s corruptive influence, while Sam, Merry, and Pippin represent loyalty, bravery, and the heart of the hobbit folk."
+    }
+  ],
+  "aliases": [
+    "The Fellowship",
+    "Ring-bearer's Company",
+    "The Company of the Ring",
+    "Nine Walkers",
+    "Friends of the Ring"
+  ],
+  "relationships": [
+    {
+      "type": "has_item",
+      "target": "f8839ed5-8b42-4a97-9479-04ddf7e00850"
+    },
+    {
+      "type": "has_item",
+      "target": "23d6712d-bfce-4b63-aae2-fd7a659e6911"
+    },
+    {
+      "type": "has_item",
+      "target": "7a6fd1ea-342e-4c3c-9f4a-40f7620d8b52"
+    },
+    {
+      "type": "has_item",
+      "target": "592fc825-b23d-4d1f-8448-225e04485244"
+    }
+  ],
+  "properties": {
+    "members_count": 9,
+    "formation_location": "Rivendell",
+    "primary_goal": "Destroy The One Ring",
+    "active_period": "Third Age",
+    "leadership": "Gandalf, later Aragorn"
+  },
+  "tags": [
+    "organization",
+    "group",
+    "middle-earth",
+    "fantasy",
+    "ring",
+    "quest",
+    "heroes",
+    "tolkien"
+  ]
+}

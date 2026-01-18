@@ -1,0 +1,56 @@
+{
+  "id": "23d6712d-bfce-4b63-aae2-fd7a659e6911",
+  "type": "item",
+  "name": "Sting (Sword)",
+  "description": "A small but legendary Elvish blade favored by Bilbo and later Frodo Baggins.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Sting is an Elven dagger-like sword originally found by Bilbo Baggins in a troll hoard during The Hobbit. It is renowned for its ability to glow blue in the presence of orcs or goblins, alerting its wielder of nearby danger. Sting, though diminutive in size, carries great sentimental and practical value, symbolizing courage and resourcefulness."
+    },
+    {
+      "title": "Appearance",
+      "body": "Sting resembles a long dagger or short sword, with an elegant Elvish design characterized by a bright blue or silver hilt adorned with intricate carvings. The blade is slender and sharp, crafted using the superior metallurgy of the Elven smiths. Its blade mysteriously glows with a pale blue light when orcs or goblins are near, a feature that serves as an invaluable warning."
+    },
+    {
+      "title": "Function",
+      "body": "Though small for a sword, Sting is surprisingly effective in combat, especially against goblins and orcs. The blue glow acts as an early-warning mechanism in hostile environments, giving the wielder a tactical advantage. It is primarily a symbol of protection and survival for its bearers, Bilbo and Frodo, throughout their perilous journeys."
+    },
+    {
+      "title": "History",
+      "body": "Sting was found by Bilbo in a troll hoard during The Hobbit and used throughout his adventures. Later, it was passed on to Frodo, who carried it on his quest to destroy The One Ring. Throughout The Lord of the Rings, Sting played a critical role in multiple fights against orcs and other dark creatures, earning fame as a trusty companion to the hobbits."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Sting embodies the unlikely hero motif central to Tolkien’s work, being a small but powerful weapon wielded by humble hobbits. Its ability to warn of danger symbolizes vigilance and hope amid darkness. Sting also represents the legacy and continuity of courage passed between generations during Middle-earth’s struggle against evil."
+    }
+  ],
+  "aliases": [
+    "Bilbo's Sword",
+    "Frodo's Sword",
+    "Elvish Blade",
+    "Goblin-cleaver"
+  ],
+  "relationships": [
+    {
+      "type": "used_by",
+      "target": "31e3f5a7-8764-4f96-a32e-85e3d02955a1"
+    }
+  ],
+  "properties": {
+    "origin": "Elven",
+    "warning_effect": "Glows blue near orcs/goblins",
+    "size": "Short sword/dagger length",
+    "material": "Elvish steel"
+  },
+  "tags": [
+    "weapon",
+    "sword",
+    "elvish",
+    "hobbit",
+    "middle-earth",
+    "fantasy",
+    "glowing",
+    "orcs"
+  ]
+}

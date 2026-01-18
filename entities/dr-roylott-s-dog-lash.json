@@ -1,0 +1,60 @@
+{
+  "id": "3b5a0728-8cee-4d05-bc8f-cf2ff0915de7",
+  "type": "item",
+  "name": "Dr. Roylott's Dog-Lash",
+  "description": "A heavy and deadly Indian bullwhip used by Dr. Grimesby Roylott as a weapon and intimidatory tool in The Adventure of the Speckled Band.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Dr. Roylott’s Dog-Lash is a formidable, thick bullwhip that he prominently uses throughout The Adventure of the Speckled Band. Originally from India, this whip is not only a tool for controlling his fierce cheetahs and dogs on the estate but also a symbol of his violent temperament and readiness to intimidate. The dog-lash is mentioned in the story as an imposing object, reinforcing Roylott's menacing presence."
+    },
+    {
+      "title": "Appearance",
+      "body": "The dog-lash is crafted from braided leather, approximately six to eight feet in length, with a heavy handle and a long, flexible lash designed to crack loudly and inflict serious damage. The whip is rugged and well-used, bearing the patina of years spent tamed alongside Roylott’s exotic pets. Its sound when cracked echoes menacingly across the grounds of Stoke Moran."
+    },
+    {
+      "title": "Function",
+      "body": "Primarily, the dog-lash serves as a control weapon for Roylott’s cheetahs and dogs, enabling him to assert dominance physically. However, it also functions as a brutal self-defense tool and a method to terrorize those around him. Its use reinforces Roylott’s character as aggressive and dangerous, and it is often implied that he is unhesitant in using it to great effect."
+    },
+    {
+      "title": "History",
+      "body": "Acquired during Roylott's time spent in India, the dog-lash is a relic of his colonial experiences and a symbol of his violent upbringing and nature. It has been a companion to his brutality throughout his return to England and the dark affairs at Stoke Moran. The whip represents colonial-era power dynamics and Roylott’s personal brand of intimidation."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The dog-lash is humorously and tragically cited in the story’s resolution, as its crack inadvertently leads to Dr. Roylott’s own death when he is attacked by the very venomous swamp adder he sought to weaponize. It embodies the theme of poetic justice and the ironic downfall of the villain. The whip’s presence underscores Roylott's violent control over the estate and adds palpable menace to the narrative."
+    }
+  ],
+  "aliases": [
+    "Bullwhip",
+    "Indian Bullwhip",
+    "Leather Whip",
+    "Roylott's Whip",
+    "Cheetah Whip"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "7b9b54fe-410e-44c3-b790-9957c11db367"
+    },
+    {
+      "type": "connected_to",
+      "target": "4f0b7e38-bb3c-4d69-b45a-01221d151a7c"
+    }
+  ],
+  "properties": {
+    "length": "6-8 feet",
+    "material": "Braided leather",
+    "origin": "India",
+    "function": "Animal control and intimidation"
+  },
+  "tags": [
+    "The Adventure of the Speckled Band",
+    "Violence",
+    "Weapon",
+    "Colonial Era",
+    "Sherlock Holmes",
+    "Indian Bullwhip",
+    "Symbolism"
+  ]
+}

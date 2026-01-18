@@ -3,14 +3,108 @@
   "type": "location",
   "name": "California",
   "description": "A state on the west coast of the United States, home to Hollywood and the center of the American film industry.",
-  "aliases": ["CA", "The Golden State"],
+  "aliases": [
+    "CA",
+    "The Golden State"
+  ],
   "relationships": [
-    { "type": "located_in", "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f" }
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "contains",
+      "target": "6a4b0f74-b7b5-4874-bfed-c8068f3e0c3b"
+    },
+    {
+      "type": "contains",
+      "target": "bf84ed68-aa8b-40d9-87b0-5a7f2e275b5a"
+    },
+    {
+      "type": "featured_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "contains",
+      "target": "b3e1a2c6-d9e9-41a9-bb55-62a647e2fa06"
+    },
+    {
+      "type": "contains",
+      "target": "68f6a9e5-1449-4bc5-b834-c7c2607079e9"
+    },
+    {
+      "type": "contains",
+      "target": "3617a5c1-3b3a-4bb7-b577-b480c54896e3"
+    },
+    {
+      "type": "contains",
+      "target": "790bfd61-634f-4b25-a9ac-4f2798aa30d7"
+    },
+    {
+      "type": "contains",
+      "target": "fd26f3a0-487f-4f24-a343-093e2fc62ee3"
+    },
+    {
+      "type": "contains",
+      "target": "048f308b-450f-4f86-9a04-6c411d1d746d"
+    },
+    {
+      "type": "contains",
+      "target": "f9b4c1d8-3479-4e60-b9d2-a3c4f778b8bf"
+    },
+    {
+      "type": "contains",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    },
+    {
+      "type": "contains",
+      "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
+    },
+    {
+      "type": "contains",
+      "target": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
+    },
+    {
+      "type": "contains",
+      "target": "163f25f5-8a97-40f9-bb36-d9edb5cb43cf"
+    },
+    {
+      "type": "contains",
+      "target": "a789b123-4c56-7d89-ef01-23456789abcd"
+    },
+    {
+      "type": "contains",
+      "target": "e1e3f6a9-809f-42d4-8738-5d0cfab9f351"
+    },
+    {
+      "type": "contains",
+      "target": "9180225d-1af2-4db3-b6b4-a8f3bd05de5b"
+    },
+    {
+      "type": "contains",
+      "target": "217d1e4e-b4f3-4c6f-a1e7-ed74e29c8e67"
+    },
+    {
+      "type": "contains",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "contains",
+      "target": "23cab135-3c56-4ec3-9f0b-a1cfe85993f2"
+    },
+    {
+      "type": "contains",
+      "target": "aad70d92-5fbb-4c71-b553-22a01ed58db5"
+    }
   ],
   "properties": {
     "type": "state",
     "country": "United States",
     "fictional": false
   },
-  "tags": ["state", "usa", "film-industry"]
+  "tags": [
+    "state",
+    "usa",
+    "film-industry"
+  ]
 }

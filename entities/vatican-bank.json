@@ -1,0 +1,61 @@
+{
+  "id": "ee7f7340-b561-47ab-b7d2-9c6f595bd8cd",
+  "type": "organization",
+  "name": "Vatican Bank",
+  "description": "The financial institution of the Holy See, playing a critical role in the power and corruption themes of The Godfather Part III.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Vatican Bank, officially known as the Institute for the Works of Religion, manages assets belonging to the Catholic Church. In The Godfather Part III, it is portrayed as a key player in global financial dealings, including dubious money laundering and clandestine investments connected with organized crime."
+    },
+    {
+      "title": "Structure",
+      "body": "The bank operates with a complex and opaque organizational structure, maintaining close ties with the Holy See. Its governance involves high-ranking clerical officials and trusted laypeople. The secrecy and autonomy of the bank’s operations have historically made it susceptible to exploitation, which the film reflects in its storyline."
+    },
+    {
+      "title": "History",
+      "body": "The Vatican Bank has a controversial past marked by periodic scandals involving corruption, embezzlement, and illicit financial operations. Its depiction in the film draws on real-world events from the late 20th century where the bank was implicated in financial scandals, money laundering, and connections to criminal organizations."
+    },
+    {
+      "title": "Goals",
+      "body": "The institution aims to safeguard and grow the Church’s financial resources, often balancing spiritual mandates with temporal influence. In the narrative, however, it also embodies the corrupting influence of power and the challenges of reconciling morality with economic interests."
+    },
+    {
+      "title": "Key Members",
+      "body": "Key figures include senior clergy involved in the bank’s affairs and unscrupulous financial agents. Their actions drive the film’s plot as Michael Corleone seeks to disentangle himself from dark dealings involving the bank and Immobiliare."
+    }
+  ],
+  "aliases": [
+    "Institute for the Works of Religion",
+    "IOR",
+    "Holy See Bank"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "37f90f75-1f4c-4d85-8d2e-eafcebb09118"
+    },
+    {
+      "type": "linked_with",
+      "target": "5bc20469-a1d5-4fd3-ae10-d2bfe9de811d"
+    }
+  ],
+  "properties": {
+    "location": "Vatican City",
+    "industry": "Religious Banking and Finance",
+    "notable_scandals": [
+      "Money laundering",
+      "Corruption"
+    ],
+    "established": "1942"
+  },
+  "tags": [
+    "organization",
+    "The Godfather Part III",
+    "Vatican",
+    "bank",
+    "finance",
+    "corruption",
+    "religious institution"
+  ]
+}

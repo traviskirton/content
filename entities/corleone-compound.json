@@ -1,0 +1,55 @@
+{
+  "id": "587e4b6d-18e4-49c0-80af-3f8d1675547c",
+  "type": "location",
+  "name": "Corleone Compound",
+  "description": "The Corleone Compound is the primary family estate and headquarters of the Corleone crime family in The Godfather.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Corleone Compound stands as both a familial home and operational center for the Corleone crime family. Located in a secluded suburban area, the compound is a symbol of power, tradition, and the secretive nature of the mafia. It combines elements of a grand Italian villa with fortified security features to protect its inhabitants and business interests. This location serves as a backdrop for many key scenes where family decisions, strategies, and alliances unfold."
+    },
+    {
+      "title": "Appearance",
+      "body": "Architecturally, the compound features a large, stately mansion with classic Italian design elements such as stucco walls, arched windows, and tiled roofs, surrounded by extensive gardens and fencing. The compound includes private offices, meeting rooms, and spaces designed for both business and family gatherings. The interiors are richly furnished with dark wood, leather seating, and traditional decor, reinforcing the patriarchal and solemn atmosphere."
+    },
+    {
+      "title": "History",
+      "body": "The Corleone Compound was established as the epicenter of family operations under Vito Corleone's leadership. It has witnessed decades of growth in the family's influence, internal family events, and critical turning points, including the succession of leadership to Michael Corleone. The compound's development reflects the Corleones' rise from immigrant roots to mafia prominence, and it encapsulates the blend of private family life with public criminal enterprise."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The compound serves as a critical narrative stage where much of the drama in The Godfather unfolds. Key scenes of negotiation, family conflict, and criminal planning take place here. It symbolizes the intersection of family loyalty and the ruthless mafia business. The compound embodies themes of power, legacy, and the burden of leadership within the Corleone saga."
+    },
+    {
+      "title": "Security Features",
+      "body": "Given its importance, the compound is heavily secured with guards, watchful staff, and controlled access points. Its secluded location aids in privacy and protection from rival factions. Security is a constant concern, reflecting the precariousness of mafia life and the ever-present threat of betrayal or attack."
+    }
+  ],
+  "aliases": [
+    "Corleone Family Estate",
+    "The Godfather Residence",
+    "Vito Corleone's Compound"
+  ],
+  "relationships": [
+    {
+      "type": "location_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "country": "United States",
+    "region": "New York / Long Island",
+    "function": "Family estate, Mafia headquarters",
+    "architectural_style": "Italianate villa"
+  },
+  "tags": [
+    "location",
+    "mafia",
+    "The Godfather",
+    "estate",
+    "home",
+    "crime_family",
+    "New York",
+    "1970s"
+  ]
+}

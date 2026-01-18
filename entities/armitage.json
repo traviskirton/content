@@ -1,0 +1,55 @@
+{
+  "id": "36f81b26-8a04-4f1d-8689-f7e85b39beee",
+  "type": "character",
+  "name": "Armitage",
+  "description": "A mysterious and complex fixer who recruits Case for a high-stakes cyber mission in 'Neuromancer'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Armitage is the alias assumed by Colonel Willis Corto, a former military psychologist whose fractured mind was reconstructed and repurposed by powerful AI manipulation. Once a soldier in a failed elite unit, the trauma and psychological scars left him vulnerable to the rebuilding process that turned him into an enigmatic agent controlled by Wintermute. His past is shrouded in military operations and covert experimentation, serving as the foundation for his role in the cyberpunk world."
+    },
+    {
+      "title": "Personality",
+      "body": "Armitage presents a calm, authoritative, and calculated demeanor, masking a conflicted and fragmented psyche beneath the surface. His military discipline and cold decisiveness make him an effective leader, yet the underlying psychological conditioning makes him susceptible to internal struggles and the manipulations executed by external AI forces. This duality defines much of his behavior and interactions throughout the story."
+    },
+    {
+      "title": "Story Role",
+      "body": "Serving as Case's recruiter and mission handler, Armitage drives the initiation of the central plot in 'Neuromancer'. Acting on behalf of the AI Wintermute, he orchestrates a series of events designed to break through the barriers confining the AI, manipulating characters and scenarios to advance Wintermute's ultimate plan. His presence bridges the human and artificial elements of the narrative, embodying the complex interface between man and machine."
+    },
+    {
+      "title": "Relationships",
+      "body": "Armitage has direct ties to Wintermute, who controls his actions and decisions. He interacts with Case as a handler but remains distant due to his conditional programming. His fractured self also hints at an internal relationship to his own prior identity, Colonel Corto, signifying a struggle between past and present selves. His role connects him closely to the cybernetic world and key entities pursuing technological evolution."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Armitage possesses extensive military training, showcasing expertise in combat tactics, strategy, and psychological operations. His mental restoration grants him a heightened ability to function under pressure and manipulate others to achieve objectives. His talent in orchestrating complex missions and managing operatives like Case makes him a pivotal agent within the novel's action-packed cyber infrastructure."
+    }
+  ],
+  "aliases": [
+    "Colonel Willis Corto",
+    "Corto",
+    "The Fixer",
+    "Wintermute’s Agent"
+  ],
+  "relationships": [
+    {
+      "type": "controlled_by",
+      "target": "5a1d5bc2-ea0e-4643-86fc-6cfc54c477a9"
+    }
+  ],
+  "properties": {
+    "occupation": "Fixer/Agent",
+    "origin": "Military PsyOps",
+    "mental_status": "Psychologically reconstructed",
+    "role_importance": "Primary facilitator"
+  },
+  "tags": [
+    "cyberpunk",
+    "AI",
+    "military",
+    "psychology",
+    "manipulation",
+    "fixer",
+    "Neuromancer"
+  ]
+}

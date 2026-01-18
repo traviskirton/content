@@ -1,0 +1,47 @@
+{
+  "id": "40df28e8-48a8-48e3-be8d-5b62d1c8a586",
+  "type": "character",
+  "name": "Amerigo Bonasera",
+  "description": "An undertaker who seeks justice from the Corleone family after his daughter is brutally attacked.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Amerigo Bonasera is an Italian-American undertaker portrayed as a man deeply wounded by the failure of the legal system to protect his family. After his daughter is viciously assaulted and the attackers receive lenient sentences, Bonasera turns to Don Vito Corleone for justice. His role highlights the community's complex relationship with law enforcement and the Mafia, where extrajudicial means are sometimes preferred due to distrust of official justice."
+    },
+    {
+      "title": "Personality",
+      "body": "Bonasera is earnest and filled with sorrow, marked by a bitter sense of betrayal from the justice system. His desperate plea for the Don’s help reveals his vulnerability and sense of helplessness. Despite being a law-abiding citizen initially, his respect for the Corleone family’s authority and power underscores his pragmatic acceptance of alternative justice. His demeanor is solemn and respectful, reflecting his outsider status in the criminal underworld, yet bound to the Mafia through necessity."
+    },
+    {
+      "title": "Story Role",
+      "body": "Amerigo Bonasera plays a crucial role in the opening of The Godfather, setting the tone for the movie’s exploration of power, loyalty, and justice. His appeal to Don Corleone exemplifies the Mafia’s influence as a parallel justice system. This scene introduces the audience to the Don’s character as a man of both honor and ruthless authority, and provides a narrative bridge between traditional legal institutions and the Mafia’s code."
+    },
+    {
+      "title": "Relationships",
+      "body": "Bonasera is connected primarily to Vito Corleone, who he reveres as a figure capable of rectifying the failures of official justice. His gratefulness and loyalty towards the Don depict the socioeconomic dynamics in their community. Beyond his family, Bonasera’s relationships are mostly peripheral to the Mafia world, casting him as an affected civilian rather than a criminal associate, highlighting his unique perspective on the Mafia’s role in society."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "As an undertaker, Bonasera possesses knowledge of funeral preparations and the somber rituals surrounding death. While he lacks the skills associated with organized crime, his understanding of social nuances and respect for Mafia codes enable him to engage with powerful family leaders effectively. His grit and determination to seek justice demonstrate emotional resilience in a harsh environment."
+    }
+  ],
+  "aliases": [
+    "Mr. Bonasera",
+    "The Undertaker"
+  ],
+  "relationships": [],
+  "properties": {
+    "profession": "Undertaker",
+    "loyalty": "Grateful to Corleone Family",
+    "ethnicity": "Italian-American",
+    "role_type": "Outsider"
+  },
+  "tags": [
+    "Justice",
+    "Undertaker",
+    "Corleone Family",
+    "Mafia",
+    "Victim",
+    "Legal system"
+  ]
+}

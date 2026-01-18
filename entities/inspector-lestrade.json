@@ -1,0 +1,53 @@
+{
+  "id": "db7f35d3-0a0a-4e69-abf9-9430b8f0e2be",
+  "type": "character",
+  "name": "Inspector Lestrade",
+  "description": "A Scotland Yard detective frequently involved in Sherlock Holmes' investigations, though often portrayed as less astute.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Inspector Greg Lestrade is a member of the London Metropolitan Police Service, commonly known as Scotland Yard. In 'A Study in Scarlet', he is one of the official investigators assigned to the murder case that brings Holmes and Watson into the detective storyline. Lestrade represents the official law enforcement apparatus of Victorian London and is often portrayed as dedicated but conventional in his methods."
+    },
+    {
+      "title": "Personality",
+      "body": "Lestrade's personality is depicted as earnest and determined, but sometimes limited by bureaucratic constraints and conventional thinking. He respects Holmes’ intellect but can be skeptical of his unorthodox methods. Lestrade’s character often displays a mixture of professional diligence and occasional frustration at his inability to solve complex cases without Holmes’ help."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'A Study in Scarlet', Lestrade plays a supporting role, acting as the official police contact and occasionally conflicting with Holmes. He cooperates with Holmes, although his investigative capabilities are contrasted against Holmes’ brilliant deductive skills. Lestrade’s involvement helps ground the story in the reality of law enforcement while also highlighting Holmes as an extraordinary detective."
+    },
+    {
+      "title": "Relationships",
+      "body": "Lestrade interacts professionally with Sherlock Holmes and Dr. Watson, often relying on Holmes to provide insights beyond the police's reach. He also has connections within Scotland Yard and occasionally collaborates with other officers like Inspector Gregson. His relationship with Holmes is marked by a reluctant respect and occasional rivalry."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Inspector Lestrade possesses traditional investigative skills appropriate to a Victorian police detective, including evidence gathering, interviewing witnesses, and coordinating with authorities. While competent, his approach is methodical and sometimes limited by procedure. His recognition of Holmes’ superiority shows his openness to intelligence beyond his own scope."
+    }
+  ],
+  "aliases": [
+    "Greg Lestrade",
+    "Inspector G. Lestrade",
+    "Lestrade"
+  ],
+  "relationships": [
+    {
+      "type": "colleague_of",
+      "target": "a8d2cceb-17f6-4a81-beb2-e8f4a3f733d9"
+    }
+  ],
+  "properties": {
+    "rank": "Inspector",
+    "department": "Scotland Yard",
+    "gender": "Male",
+    "nationality": "British"
+  },
+  "tags": [
+    "Law Enforcement",
+    "Scotland Yard",
+    "Detective",
+    "Victorian Era",
+    "Supporting Character",
+    "A Study in Scarlet"
+  ]
+}

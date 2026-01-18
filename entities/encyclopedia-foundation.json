@@ -1,0 +1,56 @@
+{
+  "id": "c4b8cb14-02a3-4d26-b6b1-4aaf75d93691",
+  "type": "organization",
+  "name": "Encyclopedia Foundation",
+  "description": "A precursor organization focused on compiling the vast Encyclopedia Galactica, intended to preserve all existing knowledge during the fall of the Galactic Empire.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Encyclopedia Foundation represents the initial step in Hari Seldon's plan to safeguard human knowledge. Its primary mission was the compilation and preservation of scientific, historical, and cultural data covering the entire galaxy into the Encyclopedia Galactica, a monumental work intended as a reference for future generations."
+    },
+    {
+      "title": "Structure",
+      "body": "Organized as an academic and archival institution, the Encyclopedia Foundation gathered experts in various disciplines who worked collaboratively on the creation and digitization of the Encyclopedia Galactica. This foundation operated with a heavy emphasis on scholarship and documentation, aiming to serve as the archival nexus of human knowledge."
+    },
+    {
+      "title": "History",
+      "body": "Established on Terminus several decades before the official First Foundation, the Encyclopedia Foundation was conceived as a cultural and intellectual bulwark against the inevitable collapse of the Galactic Empire. Although its efforts were noble, the Foundation gradually shifted focus as the political and survival needs of the galaxy became critical, paving the way for the rise of the First Foundation."
+    },
+    {
+      "title": "Goals",
+      "body": "Its main goal was the completion of the Encyclopedia Galactica, stressing the continuity of human knowledge and enabling the future rebuilding of civilization. It aimed to act as a comprehensive catalog of the galaxy's history, sciences, and social structures, functioning as a beacon of learning."
+    },
+    {
+      "title": "Key Members",
+      "body": "The Encyclopedia Foundation was supported by a diverse group of academics, editors, and scientists. However, no single dominant leadership figure emerges prominently in the narrative, as it functions more as an institutional backdrop to the more politically active First Foundation."
+    }
+  ],
+  "aliases": [
+    "Encyclopedia Galactica Project",
+    "Seldon Encyclopedia Foundation",
+    "Galactic Encyclopedia Foundation"
+  ],
+  "relationships": [
+    {
+      "type": "origin_of",
+      "target": "4e8ca927-012a-4b0e-94ef-59f1e2a9ab2e"
+    }
+  ],
+  "properties": {
+    "primary_activity": "Compilation of the Encyclopedia Galactica",
+    "location": "Terminus",
+    "founding_motivation": "Preservation of knowledge",
+    "status": "Precursor to First Foundation",
+    "role_in_series": "Knowledge archive in early Foundation history"
+  },
+  "tags": [
+    "knowledge_preservation",
+    "Foundation series",
+    "Isaac Asimov",
+    "encyclopedia",
+    "archive",
+    "science",
+    "Terminus",
+    "scholarship"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "d9b7ca7a-01bb-4b05-9218-26f48ce53ae4",
+  "type": "character",
+  "name": "Kay Adams",
+  "description": "Kay Adams is Michael Corleone's girlfriend and later wife, whose moral compass and outsider perspective add depth to the family's story.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Kay Adams is introduced as an American woman outside of the mafia world, representing mainstream society and morality. She becomes romantically involved with Michael Corleone and struggles to reconcile her love for him with the violent and secretive life he leads as head of the Corleone family. Kay embodies the tension between Michael’s dual lives of legitimacy and crime. Throughout the story, she attempts to maintain her integrity and exert influence on Michael's decisions concerning family and business."
+    },
+    {
+      "title": "Personality",
+      "body": "Kay is characterized by her intelligence, independence, and strong moral values. Unlike the Corleone family members who embrace or rationalize violence, Kay is often conflicted and troubled by the corruption and ethical compromises she encounters. She is neither naive nor submissive but instead attempts to hold Michael accountable. Kay's resilience in the face of family secrets and her desire for a normal life highlight the human cost of the Corleone empire’s power struggles."
+    },
+    {
+      "title": "Story Role",
+      "body": "Kay serves as a critical counterpoint to the Corleone family’s world of crime. Her skepticism and disapproval create dramatic tension, especially as Michael becomes more deeply enmeshed in mafia business. Kay's questioning of Michael’s secrecy and violent methods leads to confrontations that illuminate the cost of power and secrecy. In \"The Godfather Part II,\" her role expands as she faces the repercussions of Michael’s decisions on their marriage and family life, embodying the outsider’s perspective on the mafia’s internal turmoil."
+    },
+    {
+      "title": "Relationships",
+      "body": "Kay’s relationship with Michael Corleone is central to her character. It begins with young love and grows complicated as Michael assumes the role of Don. The hardships in their marriage, including Michael’s secrecy and involvement in crime, strain their relationship. Kay is also a mother to Michael’s children and seeks to shield them from the family’s criminal world. Her relationship with the rest of the Corleone family is strained, given her outsider status and moral opposition, representing a challenge to the insular mafia culture."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "While Kay does not possess criminal or tactical skills, her abilities lie in emotional intelligence, moral reasoning, and the capacity to challenge those around her. Her outsider perspective allows her to critically assess the family’s operations and ethics. Kay also demonstrates resilience and protective instincts for her children, seeking to maintain a sense of normalcy amidst chaos. Through her role, she influences Michael’s personal decisions, even though she struggles to alter his path."
+    }
+  ],
+  "aliases": [
+    "Kay",
+    "Kay Adams-Corleone",
+    "Michael Corleone's Wife"
+  ],
+  "relationships": [
+    {
+      "type": "in_law",
+      "target": "8f905c9d-5f7b-4f25-8e05-2390cf4b82f8"
+    },
+    {
+      "type": "in_law",
+      "target": "f6ccff4c-7c1f-4e91-9e94-f588299fcb4c"
+    }
+  ],
+  "properties": {
+    "occupation": "Civilian",
+    "affiliation": "Corleone Family (By Marriage)",
+    "status": "alive",
+    "role": "Moral perspective",
+    "children_count": 2
+  },
+  "tags": [
+    "The Godfather",
+    "mafia",
+    "female character",
+    "outsider",
+    "morality",
+    "family drama",
+    "fictional character",
+    "film character"
+  ]
+}

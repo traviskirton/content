@@ -1,0 +1,66 @@
+{
+  "id": "5b7f9e4c-6e26-4e88-ace0-a8795114adf7",
+  "type": "location",
+  "name": "Apple Campus",
+  "description": "The corporate headquarters of Apple Inc., known for its distinct circular design and focus on sustainability and innovation.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Apple Campus, also known as Apple Park, is located in Cupertino, California, and serves as the central hub for Apple Inc.'s corporate operations. The campus is renowned for its futuristic circular architecture designed by Norman Foster and emphasizes open collaborative spaces that foster innovation and creativity among Apple employees."
+    },
+    {
+      "title": "Appearance",
+      "body": "The campus features a four-story ring-shaped main building spanning approximately 2.8 million square feet, surrounded by extensive green space including walking paths, orchards, and natural landscaping. The extensive use of glass walls and curved structures creates a seamless indoor-outdoor environment, highlighting Apple's design ethos of simplicity and transparency."
+    },
+    {
+      "title": "History",
+      "body": "Construction began in 2013 and the campus officially opened in 2017. It replaced the original Apple headquarters and was intended to symbolize Apple's vision of the future of technology and corporate culture. The campus brought together thousands of employees under one roof, replacing multiple scattered facilities and integrating advanced technologies including renewable energy systems."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'Creative Selection,' Apple Campus represents the physical embodiment of the company's culture and philosophy — innovation, design excellence, and collaboration. It serves as a backdrop to narratives about the creative and iterative processes at the heart of Apple's product development and idea refinement."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Key features include a 100,000-square-foot underground auditorium named after Steve Jobs, state-of-the-art fitness and wellness centers, and research and development labs. The campus operates on 100% renewable energy and boasts one of the largest naturally ventilated buildings in the world."
+    }
+  ],
+  "aliases": [
+    "Apple Park",
+    "Cupertino Headquarters",
+    "Apple HQ",
+    "The Ring",
+    "Steve Jobs Campus"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "near",
+      "target": "0a824e12-7862-4a10-9d62-e5613a7e8f9a"
+    },
+    {
+      "type": "home_to",
+      "target": "3fa4e452-d2e9-41a6-bb54-466580eb6f4c"
+    }
+  ],
+  "properties": {
+    "location": "Cupertino, California",
+    "completion_year": 2017,
+    "area_sqft": 2800000,
+    "architect": "Norman Foster",
+    "sustainability": "100% renewable energy"
+  },
+  "tags": [
+    "technology",
+    "corporate_culture",
+    "architecture",
+    "innovation",
+    "sustainability",
+    "apple_inc",
+    "headquarters",
+    "campus"
+  ]
+}

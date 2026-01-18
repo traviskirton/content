@@ -1,0 +1,41 @@
+{
+  "id": "e5e8a4b9-2137-4f7c-9030-8d2c3e7f3521",
+  "type": "person",
+  "name": "Ian Fleming",
+  "description": "British author and journalist, creator of the James Bond series.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Ian Lancaster Fleming (1908–1964) was a British author, journalist, and naval intelligence officer. Born into a wealthy family, he gained early experience in the world of journalism before serving in the British Naval Intelligence Division during World War II. His intelligence background heavily influenced his writing style and the creation of his most famous character, James Bond."
+    },
+    {
+      "title": "Career",
+      "body": "After World War II, Fleming worked as a financial journalist and began writing spy novels that captured the intrigue of Cold War espionage. His first James Bond novel, 'Casino Royale', was published in 1953, launching a successful literary franchise. Fleming wrote a total of twelve Bond novels and two short story collections before his death in 1964."
+    },
+    {
+      "title": "Notable Works",
+      "body": "'Casino Royale' (1953), 'Live and Let Die' (1954), 'Goldfinger' (1959), and 'Dr. No' (1958) are among Fleming’s most famous James Bond novels. His work established many of the conventions of the spy thriller genre and inspired a multi-billion dollar film franchise."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Fleming’s writing style blended thrilling espionage narratives with distinctive characters, exotic settings, and a mix of realism and fantasy. His work deeply influenced the spy genre in literature and film, creating an enduring icon in James Bond and setting standards for espionage fiction."
+    }
+  ],
+  "aliases": [
+    "Ian Lancaster Fleming"
+  ],
+  "relationships": [],
+  "properties": {
+    "nationality": "British",
+    "born": "1908-05-28",
+    "died": "1964-08-12",
+    "occupation": "Author, Journalist, Naval Intelligence Officer"
+  },
+  "tags": [
+    "author",
+    "spy fiction",
+    "James Bond creator",
+    "British writers",
+    "20th century"
+  ]
+}

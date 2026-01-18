@@ -1,0 +1,54 @@
+{
+  "id": "330f1a07-32ec-470b-9ccd-e2a3b8ef4fdd",
+  "type": "character",
+  "name": "The Librarian",
+  "description": "The Librarian is a magically transformed orangutan who manages the Unseen University library in Discworld.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Originally a human wizard who unknowingly tampered with a powerful spell, the Librarian was transformed into an orangutan several decades ago, a condition that has persisted throughout the Discworld series. Despite this transformation, he has maintained his vast knowledge and profound familiarity with the Unseen University's extensive magical library. He is fiercely protective of the library and its contents, acting as both a guardian and custodian."
+    },
+    {
+      "title": "Personality",
+      "body": "The Librarian exhibits a mostly calm and stoic demeanor, combined with a wry sense of humor and sharp intelligence. Though he no longer speaks human language fluently, he communicates through gestures and occasional grunts but is understood by the wizards due to his expressive intelligence. The Librarian is famously fond of bananas and can be assertive when it comes to his domain, showing a strong sense of duty towards protecting the magical knowledge of the university."
+    },
+    {
+      "title": "Story Role",
+      "body": "Serving as a pivotal supporting character, the Librarian appears in numerous Discworld novels, often providing assistance to the wizards with his encyclopedic knowledge and occasional physical prowess. His unique condition provides both comedic and poignant moments in the series, symbolizing the unexpected consequences of magic and the loyalty existing among the university members. The Librarian’s role often bridges the scholarly and practical worlds within the stories."
+    },
+    {
+      "title": "Relationships",
+      "body": "The Librarian enjoys a close but sometimes exasperated relationship with the wizards of Unseen University, including Archchancellor Ridcully and Rincewind. His friendships often transcend the limitations imposed by his orangutan form. The wizards treat him with respect and fondness, often relying on his counsel and strength when magical challenges arise."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Beyond his vast knowledge of the magical and literary collections at Unseen University, the Librarian possesses significant physical strength and agility unusual for an ape, allowing him to navigate the often-dangerous magical environments. He understands magical lore profoundly and uses his intelligence to assist with research and problem-solving. His unique blend of brawn and brains makes him an indispensable member of the University."
+    }
+  ],
+  "aliases": [
+    "Orangutan Librarian",
+    "Library Orangutan",
+    "The Ape"
+  ],
+  "relationships": [
+    {
+      "type": "works_with",
+      "target": "fe53f4ae-3d0a-4df8-b7a9-23cb68c519e3"
+    }
+  ],
+  "properties": {
+    "species": "Orangutan (Magically Transformed)",
+    "affiliation": "Unseen University",
+    "gender": "Male",
+    "origin": "Discworld"
+  },
+  "tags": [
+    "Discworld",
+    "Fantasy",
+    "Character",
+    "Magic",
+    "Unseen University",
+    "Animal Character",
+    "Comic Relief"
+  ]
+}

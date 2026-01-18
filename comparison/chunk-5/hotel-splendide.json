@@ -1,0 +1,55 @@
+{
+  "id": "11cba6f8-6d26-4d9a-8e57-8d66871c435f",
+  "type": "location",
+  "name": "Hotel Splendide",
+  "description": "Hotel Splendide is a grand hotel in Royale-les-Eaux featured in Ian Fleming's Casino Royale, known for hosting key characters and events.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Hotel Splendide is depicted as one of the most luxurious and prominent hotels in Royale-les-Eaux, attracting elite gamblers, diplomats, and spies. The establishment offers opulent accommodations and sophisticated amenities, serving as a social hub for visitors linked to both recreational and clandestine pursuits. Its prominence in the narrative allows characters to intersect in a setting ripe for tension, intrigue, and negotiation."
+    },
+    {
+      "title": "Appearance",
+      "body": "The hotel features grand architecture with an imposing façade and lavish interiors, including a large lobby, elegant dining rooms, and private suites offering views of the seaside resort. Decoratively, it balances classical French elegance with modern comforts reflecting the 1950s era. The hotel’s public spaces often buzz with whispered conversations and surveillance, reinforcing the novel’s themes of secrecy."
+    },
+    {
+      "title": "History",
+      "body": "Though fictional, Hotel Splendide in Fleming’s work is inspired by real luxury hotels in French spa towns, designed to reflect the opulence of the class that frequents Royale-les-Eaux. It is presented as a longstanding symbol of status and discretion where diplomatic and espionage affairs are conducted incognito. The hotel’s history within the story mirrors a microcosm of post-war European elite society."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Within Casino Royale, Hotel Splendide serves as a critical location for character interactions, including meetings, surveillance activities, and the unfolding of psychological conflict. It is a site where Bond recovers, plans, and encounters various allies and enemies, with the hotel’s ambiance underscoring themes of danger cloaked by glamour. The hotel represents a safe haven that is never truly secure."
+    }
+  ],
+  "aliases": [
+    "Splendide Hotel",
+    "Grand Hotel Splendide",
+    "Hotel Royale"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "c5b8b17c-7f7a-4ed5-b116-25410d351f95"
+    },
+    {
+      "type": "appears_in",
+      "target": "9b1ab6a0-df91-4c86-8a72-8c23b7428298"
+    }
+  ],
+  "properties": {
+    "country": "France",
+    "type": "Luxury hotel",
+    "status": "Operational during story",
+    "role": "Key Setting",
+    "capacity": "Large (multiple suites and rooms)"
+  },
+  "tags": [
+    "Hotel",
+    "Luxury",
+    "Cinema Setting",
+    "Espionage",
+    "Royale-les-Eaux",
+    "James Bond",
+    "1950s"
+  ]
+}

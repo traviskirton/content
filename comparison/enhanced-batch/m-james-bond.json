@@ -1,0 +1,59 @@
+{
+  "id": "4d8ecfab-7db7-4e8c-a2ba-2e0dea54ce91",
+  "type": "character",
+  "name": "M (James Bond)",
+  "description": "Head of MI6 and James Bond’s superior officer.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "M is the codename for the chief executive of MI6, the British Secret Intelligence Service. In Ian Fleming's original novels, M is portrayed as a pragmatic and authoritative figure responsible for overseeing British intelligence operations and managing agents like James Bond."
+    },
+    {
+      "title": "Personality",
+      "body": "M is depicted as stern, demanding, yet fair, with a clear focus on national security and effectiveness. The character is often shown balancing the bureaucracy and politics of intelligence work with the practicalities of espionage, conveying a paternal figure to Bond."
+    },
+    {
+      "title": "Role in Story",
+      "body": "In 'Casino Royale' and subsequent works, M tasks Bond with sensitive and dangerous missions, providing strategic direction and oversight. M’s presence is a reminder of the institutional oversight behind Bond’s sometimes reckless behavior."
+    },
+    {
+      "title": "Relationships",
+      "body": "M maintains a formal but sometimes tense relationship with James Bond, founded on mutual respect and necessity. M also interacts with other MI6 staff, including Miss Moneypenny and Q, to coordinate British intelligence efforts."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "While not a field operative, M possesses extensive experience in intelligence strategy, administration, and global politics. M’s knowledge and authority enable the management of complex clandestine operations."
+    }
+  ],
+  "aliases": [
+    "Sir Miles Messervy",
+    "Head of MI6",
+    "Chief of SIS"
+  ],
+  "relationships": [
+    {
+      "type": "supervises",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    },
+    {
+      "type": "member_of",
+      "target": "50fa1b1e-8679-4b51-9646-e429e7c9da31"
+    },
+    {
+      "type": "colleague_of",
+      "target": "7b3b796d-02f6-4e16-a55c-4b5f0b9db1e2"
+    }
+  ],
+  "properties": {
+    "position": "Director of MI6",
+    "allegiance": "United Kingdom",
+    "rank": "Senior Intelligence Officer"
+  },
+  "tags": [
+    "MI6",
+    "intelligence chief",
+    "mentor",
+    "spy fiction",
+    "James Bond universe"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "9b1ab6a0-df91-4c86-8a72-8c23b7428298",
+  "type": "book",
+  "name": "Casino Royale (Novel)",
+  "description": "The first James Bond novel written by Ian Fleming, introducing the iconic British secret agent 007.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "'Casino Royale,' published in 1953, is the debut novel of British author Ian Fleming’s James Bond series. It introduces Commander James Bond, an agent of MI6 known as 007. The story is set during the early Cold War period and revolves around a high-stakes baccarat game at the Casino Royale in France, which Bond engages in to thwart the Soviet agent Le Chiffre from recovering lost funds. The novel mixes espionage, suspense, and psychological tension, establishing key motifs used throughout the franchise."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "James Bond is tasked with defeating Le Chiffre, a French communist agent who gambles to recover stolen Soviet money. Bond counters Le Chiffre's challenge in a baccarat game, using wit, resourcefulness, and nerve. The novel explores Bond’s interactions with Vesper Lynd, a British Treasury employee, with whom he develops an emotional attachment. The story ends tragically with Vesper's death, which deeply affects Bond’s future relationships and motivations."
+    },
+    {
+      "title": "Themes",
+      "body": "'Casino Royale' explores themes of loyalty, betrayal, and the moral ambiguities faced by spies during the Cold War. It contrasts Bond's professionalism and vulnerability, introducing the tension between duty and personal feelings. Gambling functions as a metaphor for risk-taking in espionage and life. The novel also examines the capacity for human connection amidst a clandestine world driven by deception."
+    },
+    {
+      "title": "Reception",
+      "body": "Upon release, 'Casino Royale' was praised for its fresh approach to the spy genre, with its stark realism and psychological depth. Fleming’s writing style was noted for its clarity and vividness. The book established a cult following that expanded as Bond novels and films gained popularity. It remains a seminal work in espionage fiction, credited with influencing countless spy narratives."
+    },
+    {
+      "title": "Legacy",
+      "body": "As the inaugural James Bond novel, 'Casino Royale' set the tone for Fleming’s future works and the wider franchise. Its characters and plot elements have been adapted into several film and television versions, most notably the 2006 film reboot starring Daniel Craig. The novel's impact endures as a touchstone for spy fiction, representing the genesis of the legendary secret agent."
+    }
+  ],
+  "aliases": [
+    "Casino Royale",
+    "James Bond #1",
+    "007: Casino Royale"
+  ],
+  "relationships": [
+    {
+      "type": "author_of",
+      "target": "e5e8a4b9-2137-4f7c-9030-8d2c3e7f3521"
+    },
+    {
+      "type": "part_of_franchise",
+      "target": "4a2b5438-88f9-4a1f-ad64-b0d79bd73c79"
+    }
+  ],
+  "properties": {
+    "publication_year": 1953,
+    "genre": "spy fiction",
+    "publisher": "Jonathan Cape",
+    "pages": 240
+  },
+  "tags": [
+    "novel",
+    "spy fiction",
+    "James Bond",
+    "Cold War",
+    "espionage",
+    "Ian Fleming",
+    "baccarat"
+  ]
+}

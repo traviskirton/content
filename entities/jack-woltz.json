@@ -1,0 +1,56 @@
+{
+  "id": "5a632fb4-df6d-4e0c-b3f0-1d8d70416829",
+  "type": "character",
+  "name": "Jack Woltz",
+  "description": "A powerful and influential Hollywood movie producer who becomes entangled with the Corleone family.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Jack Woltz is a wealthy and influential Hollywood film producer famous for his strong-willed and demanding personality. His prominence in the film industry allows him to wield considerable power over casting and production decisions. Despite his glamourous profession, Woltz operates within a world susceptible to the pressures of organized crime, especially in the 1940s when mafia interests began to infiltrate Hollywood."
+    },
+    {
+      "title": "Personality",
+      "body": "Woltz is arrogant, stubborn, and accustomed to having absolute control over his projects and social milieu. He exhibits a ruthless streak, making decisive choices without regard to others' feelings. His pride blinds him to potential threats, including the subtle intimidation tactics employed by the Corleone family, making him vulnerable in his dealings with them."
+    },
+    {
+      "title": "Story Role",
+      "body": "Woltz's refusal to cast Johnny Fontane, a Corleone family ally, in a key movie leads to one of the most memorable displays of mafia power: the discovery of a severed horse’s head in his bed. This incident forces Woltz to comply with the family's demands, highlighting the Corleones’ influence extending beyond organized crime into legitimate business sectors like Hollywood."
+    },
+    {
+      "title": "Relationships",
+      "body": "Woltz is connected to the entertainment industry and is a target of the Corleone family's demands, which places him into a complicated relationship balancing fear and respect for the family’s power. He has no personal affinity to the mafia but is compelled into compliance to protect his career and influence."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "As a producer, Woltz demonstrates business acumen, strong managerial skills, and a strategic vision for filmmaking. His ability to command high-profile projects makes him a significant figure whose decisions impact countless careers, although he lacks the streetwise savvy that might protect him from outside coercion."
+    }
+  ],
+  "aliases": [
+    "Jack Woltz",
+    "Movie Producer",
+    "Hollywood Mogul"
+  ],
+  "relationships": [
+    {
+      "type": "subject_of_intimidation",
+      "target": "0b4c2f14-4f1e-4b2d-9d06-986720123eb1"
+    }
+  ],
+  "properties": {
+    "role": "Hollywood Producer",
+    "occupation": "Film Production",
+    "nationality": "American",
+    "status": "Alive during story",
+    "notable_event": "Horse head incident"
+  },
+  "tags": [
+    "hollywood",
+    "mafia",
+    "business",
+    "The Godfather",
+    "film_industry",
+    "fictional_character",
+    "power",
+    "intimidation"
+  ]
+}

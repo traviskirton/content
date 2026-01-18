@@ -1,0 +1,55 @@
+{
+  "id": "4e9eab3b-d986-44e9-bf2a-7bfdad2c3f9f",
+  "type": "organization",
+  "name": "SMERSH",
+  "description": "Soviet counterintelligence organization and antagonist group in 'Casino Royale'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "SMERSH, a Soviet counterintelligence agency during the Cold War, serves as the primary antagonist organization in Ian Fleming’s 'Casino Royale.' The name is an acronym for 'Death to Spies' in Russian, reflecting its ruthless mission to identify and eliminate enemies of the state."
+    },
+    {
+      "title": "Structure",
+      "body": "SMERSH was organized as a military counterintelligence body with extensive reach both within the Soviet Union and abroad. Its operatives include assassins, informants, and financiers like Le Chiffre, tasked with destabilizing Western interests."
+    },
+    {
+      "title": "History",
+      "body": "Historically active during and immediately after World War II, SMERSH was dissolved by the late 1940s but remained a persistent threat in fiction. It embodies Soviet espionage's darker elements in the Cold War context."
+    },
+    {
+      "title": "Goals",
+      "body": "SMERSH aims to enforce loyalty to the Soviet regime by neutralizing defectors, spies, and foreign agents. Its activities include funding terrorist acts and undermining Western intelligence services."
+    },
+    {
+      "title": "Key Members",
+      "body": "The organization’s fictional agents include Le Chiffre and various deadly operatives. Their actions create the central conflict faced by James Bond."
+    }
+  ],
+  "aliases": [
+    "Soviet counterintelligence",
+    "Death to Spies"
+  ],
+  "relationships": [
+    {
+      "type": "employs",
+      "target": "e4f2568b-8c69-4e8a-9cf3-b12584970a29"
+    },
+    {
+      "type": "antagonist_of",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    }
+  ],
+  "properties": {
+    "country": "Soviet Union",
+    "type": "Counterintelligence agency",
+    "status": "Defunct (historical, but fictionalized in Bond universe)"
+  },
+  "tags": [
+    "organization",
+    "antagonist",
+    "espionage",
+    "Soviet",
+    "Cold War",
+    "spy fiction"
+  ]
+}

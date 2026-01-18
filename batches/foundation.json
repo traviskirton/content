@@ -1,0 +1,101 @@
+{
+  "source": "Foundation",
+  "entities": [
+    {
+      "type": "person",
+      "name": "Isaac Asimov"
+    },
+    {
+      "type": "franchise",
+      "name": "Foundation Series"
+    },
+    {
+      "type": "book",
+      "name": "Foundation"
+    },
+    {
+      "type": "character",
+      "name": "Hari Seldon"
+    },
+    {
+      "type": "character",
+      "name": "Gaal Dornick"
+    },
+    {
+      "type": "character",
+      "name": "Salvor Hardin"
+    },
+    {
+      "type": "character",
+      "name": "Lewis Pirenne"
+    },
+    {
+      "type": "character",
+      "name": "Hober Mallow"
+    },
+    {
+      "type": "character",
+      "name": "Sef Sermak"
+    },
+    {
+      "type": "character",
+      "name": "Limmar Ponyets"
+    },
+    {
+      "type": "character",
+      "name": "Ankor Jael"
+    },
+    {
+      "type": "location",
+      "name": "Trantor"
+    },
+    {
+      "type": "location",
+      "name": "Terminus"
+    },
+    {
+      "type": "location",
+      "name": "Anacreon"
+    },
+    {
+      "type": "location",
+      "name": "Smyrno"
+    },
+    {
+      "type": "organization",
+      "name": "First Foundation"
+    },
+    {
+      "type": "organization",
+      "name": "Galactic Empire (Foundation)"
+    },
+    {
+      "type": "organization",
+      "name": "Encyclopedia Foundation"
+    },
+    {
+      "type": "organization",
+      "name": "Commission of Public Safety"
+    },
+    {
+      "type": "item",
+      "name": "Psychohistory"
+    },
+    {
+      "type": "item",
+      "name": "Seldon Plan"
+    },
+    {
+      "type": "item",
+      "name": "Time Vault"
+    },
+    {
+      "type": "item",
+      "name": "Seldon Crisis"
+    },
+    {
+      "type": "item",
+      "name": "Nuclear Power (Foundation)"
+    }
+  ]
+}

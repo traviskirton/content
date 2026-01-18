@@ -1,0 +1,60 @@
+{
+  "id": "4af7f867-6c8a-43c1-a4e1-08db387f6d32",
+  "type": "character",
+  "name": "The Witch-king of Angmar",
+  "description": "The Witch-king of Angmar is the leader of the Nazgûl, Sauron's most feared servant and commander of his armies during the War of the Ring.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "The Witch-king, also known as the Lord of the Nazgûl, was once a mortal king who was corrupted by one of the nine Rings of Power given to Men. Over time, he became a wraith bound to Sauron's will, an immortal servant feared across Middle-earth. He was the leading force behind the kingdom of Angmar in the north during the Third Age, warring against the Dúnedain and the kingdoms of Arnor before ultimately serving as Sauron's chief lieutenant in the War of the Ring."
+    },
+    {
+      "title": "Personality",
+      "body": "As a wraith, the Witch-king is devoid of mercy or compassion. His presence exudes terror and dread, wielding an aura of despair that unnerves even the bravest. Proud and relentless, he is a symbol of evil and domination, fully committed to the destruction of the Free Peoples. His leadership of the Nazgûl demonstrates his strategic cunning and cruel will, operating without hesitation to achieve Sauron's aims."
+    },
+    {
+      "title": "Story Role",
+      "body": "The Witch-king serves as the primary antagonist among Sauron's servants, commanding the armies that siege Minas Tirith and pursuing Frodo and the Fellowship. He plays a central role in battles such as the Battle of Pelennor Fields. His confrontation with Éowyn and Merry is pivotal, as it fulfills the prophecy that no man can kill him, leading to his downfall when confronted by both together."
+    },
+    {
+      "title": "Relationships",
+      "body": "The Witch-king answers directly to Sauron and commands the other eight Ringwraiths. His relationship with the Mouth of Sauron is that of command hierarchy during negotiations at the Black Gate. His enmity is particularly directed at the Free Peoples, including the armies of Gondor and Rohan, and especially toward key protagonists like Aragorn, Gandalf, and Éowyn."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "The Witch-king possesses immense supernatural power, including invisibility except when wearing his cloak, inducing terror, and magical combat prowess. He commands dark sorcery, is undead, and is impervious to conventional weapons. His sword and Morgul blade inflict deadly wounds. His leadership over the Nazgûl and Sauron's forces makes him formidable both on and off the battlefield."
+    }
+  ],
+  "aliases": [
+    "Lord of the Nazgûl",
+    "Lord of the Ringswraiths",
+    "Black Captain",
+    "The Shadow of the Past",
+    "The Black Rider"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "7f7967a6-878a-4cb9-b3b4-5f4465061f6c"
+    },
+    {
+      "type": "leader_of",
+      "target": "59ea23e1-3286-44ae-8358-e8e25a1d8f6d"
+    }
+  ],
+  "properties": {
+    "former_identity": "King of Men",
+    "role": "Leader of the Nazgûl",
+    "allegiance": "Sauron",
+    "status": "Undead Wraith"
+  },
+  "tags": [
+    "middle-earth",
+    "lord of the rings",
+    "antagonist",
+    "nazgûl",
+    "sauron",
+    "fantasy",
+    "undead"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "1fa5b055-3c7f-4dad-9ef4-2a961a9a90ca",
+  "type": "organization",
+  "name": "Galactic Empire (Foundation)",
+  "description": "The Galactic Empire is the vast interstellar monarchy that rules much of the galaxy at the start of the Foundation series, destined to collapse according to Hari Seldon's psychohistory.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Galactic Empire in the Foundation universe is a sprawling regime controlling millions of star systems, representing the zenith of human political centralization. It combines vast bureaucracy, military power, and cultural hegemony but suffers from stagnation, corruption, and decline as depicted in the series."
+    },
+    {
+      "title": "Structure",
+      "body": "The Empire is ruled by an Emperor backed by a complex hierarchy of administrators, military officers, and regional governors. It maintains control through a combination of political authority and technological superiority, but the vastness of its territory often limits effective governance, leading to fragmentation."
+    },
+    {
+      "title": "History",
+      "body": "Founded millennia before the series' events, the Galactic Empire grew from the unification of the human worlds under a single government that provided stability after a dark age. Over time, it became an immense but unwieldy state, crossing the threshold where decay was inevitable. Hari Seldon's psychohistory predicted this fall and sought to mitigate its aftereffects."
+    },
+    {
+      "title": "Goals",
+      "body": "The Empire's stated goal is to maintain order, enforce laws, and ensure the continuity of human civilization across the galaxy. However, in practice, it often aims to preserve its own power and privilege, resisting reforms that threaten bureaucratic inertia."
+    },
+    {
+      "title": "Key Members",
+      "body": "The identification of individual Emperors or central figures is sparse in the series, emphasizing the institutional nature of decline. Key figures include the rulers prior to the Foundation's rise and various regional governors and officials who represent the waning power of the Empire."
+    }
+  ],
+  "aliases": [
+    "Galactic Empire",
+    "Imperial Galactic Government",
+    "Old Galactic Empire",
+    "First Galactic Empire"
+  ],
+  "relationships": [
+    {
+      "type": "precedes",
+      "target": "4e8ca927-012a-4b0e-94ef-59f1e2a9ab2e"
+    },
+    {
+      "type": "opposed_by",
+      "target": "f9d2733c-4ace-46f9-b877-5ad293e85bf7"
+    },
+    {
+      "type": "context_for",
+      "target": "d57efa78-eb1f-4a04-b1ae-598328f5655d"
+    }
+  ],
+  "properties": {
+    "governing_system": "Monarchy with bureaucratic administration",
+    "territory": "Millions of star systems, galaxy-wide",
+    "state_of_decline": true,
+    "time_period": "Prior to and during Foundation series",
+    "role_in_series": "Declining galactic order"
+  },
+  "tags": [
+    "galactic_empire",
+    "science_fiction",
+    "Isaac Asimov",
+    "fall_of_empire",
+    "space_opera",
+    "Foundation series",
+    "politics",
+    "stagnation"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "a1f7f1fa-7c72-4203-8a88-dacbcdf36a09",
+  "type": "location",
+  "name": "Minas Morgul",
+  "description": "A dark fortress in Mordor, formerly a city of Gondor corrupted into a stronghold of the Ringwraiths.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Minas Morgul, originally called Minas Ithil, was once a shining tower of Gondor, known as the Tower of the Moon. Located at the western entrance of Mordor, the fortress fell to evil forces and was overtaken by the Nazgûl, becoming the haunted and malevolent Minas Morgul. It stands as a symbol of corruption and shadow, its presence a dire threat to the free peoples of Middle-earth."
+    },
+    {
+      "title": "Appearance",
+      "body": "Minas Morgul is a grim, eerie fortress illuminated by a sickly green light, emanating from the cursed energies that infest it. Surrounded by mist and shadows, the fortress features cruel, spiked architecture and towers that seem to pierce the sky with their unnatural height and dark aura. The entrance to Minas Morgul is guarded by haunting gates and vile creatures."
+    },
+    {
+      "title": "History",
+      "body": "Founded originally as Minas Ithil by the men of Gondor, the city was built as a watchtower and sentinel against Mordor. It was captured by Sauron's forces near the end of the Second Age, transformed into the seat of the Nazgûl after their fall into darkness. Over time, it decayed into a place of terror and evil, serving as a key strategic point for Sauron’s war against the West."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In The Return of the King, Minas Morgul serves as the staging ground for the Witch-king, the Lord of the Nazgûl, as he leads Sauron's forces in the assault on Gondor. The dark power and evil emanating from Minas Morgul symbolize the dire threat posed by Sauron's armies and shape the course of the War of the Ring."
+    }
+  ],
+  "aliases": [
+    "Tower of the Moon",
+    "The Haunted City",
+    "The Black Tower",
+    "The Witch-king’s Stronghold"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "fa0913cf-7aa6-4b44-8ec0-5d6b9b3bba4e"
+    },
+    {
+      "type": "enemy_location_of",
+      "target": "d7c95ea1-fcdc-4e5e-9fbb-95773b3bd6a7"
+    }
+  ],
+  "properties": {
+    "region": "Mordor",
+    "era": "Third Age",
+    "builders": "Men of Gondor",
+    "current_inhabitants": "Nazgûl and their minions"
+  },
+  "tags": [
+    "Middle-earth",
+    "Fortress",
+    "Darkness",
+    "Nazgûl",
+    "Mordor",
+    "The Lord of the Rings",
+    "Evil",
+    "Fantasy Location"
+  ]
+}

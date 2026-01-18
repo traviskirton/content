@@ -1,0 +1,54 @@
+{
+  "id": "c16f0f79-d8cc-467a-bbda-eb3c903028f1",
+  "type": "character",
+  "name": "Capa Barsavi",
+  "description": "The ruthless and charismatic crime lord ruling the underworld of Camorr and the head of the powerful Barsavi family.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Capa Barsavi is the patriarch of the Barsavi noble family and the most formidable figure in Camorr's criminal underworld. Known for his violent and unyielding leadership, he inherited his position through ruthless consolidation of power. Barsavi rules the city’s underworld with a blend of fear, cunning, and political savvy, commanding respect from his allies and enemies alike. His family’s longstanding history in Camorr’s aristocratic and criminal systems gives him an unassailable base of influence within the city."
+    },
+    {
+      "title": "Personality",
+      "body": "Barsavi is a complex mix of charm, brutality, and cold calculation. His public demeanor belies a deeply violent and often unforgiving temperament, marked by a readiness to employ deadly force. Despite his menace, he possesses a sharp intellect and instinct for political maneuvering. His leadership is characterized by a uncompromising desire to maintain control, leading him to ruthless actions against both enemies and perceived threats within his own ranks."
+    },
+    {
+      "title": "Story Role",
+      "body": "Capa Barsavi serves as a looming antagonist in 'The Lies of Locke Lamora,' embodying the harsh realities of Camorr’s criminal aristocracy. His position in the story underscores the power structures and dangers inherent in the city’s underworld. Throughout the narrative, Barsavi's influence and conflicts with other factions play a crucial role in driving the stakes against Locke Lamora and his associates."
+    },
+    {
+      "title": "Relationships",
+      "body": "Barsavi heads the Barsavi family, maintaining strict control over his relatives and allies. His relationship with Locke Lamora and the Gentleman Bastards is antagonistic, as their schemes threaten his power. He works within a fragile alliance with the Gray King and other crime lords but remains wary and hostile to any rivals. His family's ties to Camorr's nobility bolster his political leverage."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Capa Barsavi is skilled in political strategy, intimidation, and command of criminal enterprises. His physical presence and reputation deter direct confrontations, but he is no stranger to violence when necessary. As a leader, he excels in orchestrating complex operations within the city’s shadowy power networks, ensuring his family's dominance."
+    }
+  ],
+  "aliases": [
+    "The Capo",
+    "Master of Camorr's Underworld",
+    "Lord Barsavi"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "082a0e65-147f-4b15-8e3d-b3459755c1c1"
+    }
+  ],
+  "properties": {
+    "position": "Crime Lord",
+    "family": "Barsavi",
+    "alignment": "Villain",
+    "social_status": "Noble",
+    "primary_location": "@@Camorr@@"
+  },
+  "tags": [
+    "Crime Lord",
+    "Antagonist",
+    "Camorr",
+    "Barsavi Family",
+    "Fantasy",
+    "Novel Character"
+  ]
+}

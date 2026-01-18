@@ -1,0 +1,50 @@
+{
+  "id": "963551c8-29fe-4765-9f69-f7a62887e47f",
+  "type": "item",
+  "name": "The Godfather Theme (Speak Softly Love)",
+  "description": "The Godfather Theme, also known as 'Speak Softly Love,' is an iconic musical composition by Nino Rota, serving as the main theme for The Godfather film.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Composed by Nino Rota, The Godfather Theme is a hauntingly beautiful instrumental piece that captures the film's mood of nobility, sorrow, and melancholy. The melody is emblematic of the Corleone family's dramatic and tragic story and has become one of the most recognizable themes in film music history. The theme is often accompanied by the lyrics titled 'Speak Softly Love,' written later for vocal versions."
+    },
+    {
+      "title": "Appearance",
+      "body": "The theme is primarily a melancholic instrumental featuring orchestral strings and a memorable trumpet solo, evoking a sense of nostalgia and familial bonds. Its melodic line is both simple and emotionally compelling, often associated visually with key scenes in the films, such as the opening wedding scene and moments of reflection for Michael Corleone."
+    },
+    {
+      "title": "Function",
+      "body": "Serving as the leitmotif for The Godfather series, the theme anchors the soundtrack and reinforces narrative themes of loyalty, power, and tragedy. It provides emotional context throughout the film, enhancing scenes of intimacy, tension, and loss. The music is instrumental in building the distinctive ambience that defines the Corleone saga."
+    },
+    {
+      "title": "History",
+      "body": "Nino Rota composed the theme in 1971 for the original film. The music was initially met with critical acclaim, though its originality was debated due to similarities with previous works by Rota. Regardless, the theme gained immense popularity, inspiring various arrangements and lyrical interpretations. 'Speak Softly Love' was released as a song in 1972, further cementing its place in popular culture."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The theme's enduring recognition makes it synonymous with the story of The Godfather, symbolizing the complex emotions of family loyalty, the weight of tradition, and the inevitable tragedy that shadows the Corleone family. It has become an auditory symbol of mafia culture in cinema and is frequently referenced or parodied in other media."
+    }
+  ],
+  "aliases": [
+    "Speak Softly Love",
+    "The Godfather Love Theme",
+    "Nino Rota Theme"
+  ],
+  "relationships": [],
+  "properties": {
+    "composer": "Nino Rota",
+    "year_composed": 1971,
+    "genre": "Film score",
+    "type": "Musical theme"
+  },
+  "tags": [
+    "film music",
+    "soundtrack",
+    "Nino Rota",
+    "The Godfather",
+    "cinematic theme",
+    "orchestral",
+    "classic",
+    "love theme"
+  ]
+}

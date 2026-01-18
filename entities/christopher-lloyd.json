@@ -48,6 +48,18 @@
     {
       "type": "worked_with",
       "target": "ffbc5d71-dd5e-4895-9898-73d7e5e0b0d9"
+    },
+    {
+      "type": "acted_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "acted_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "portrays",
+      "target": "c3d4e5f6-a7b8-9012-cdef-345678901234"
     }
   ],
   "properties": {

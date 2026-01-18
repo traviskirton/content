@@ -1,0 +1,52 @@
+{
+  "id": "99f2bdbf-d397-45cd-9b92-986bbf9f9315",
+  "type": "character",
+  "name": "René Mathis",
+  "description": "French intelligence agent and ally to James Bond in 'Casino Royale'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "René Mathis is a French intelligence operative who operates primarily in Europe and is a trusted contact and ally of James Bond. He provides local assistance and intelligence crucial to Bond’s mission at Casino Royale."
+    },
+    {
+      "title": "Personality",
+      "body": "Mathis is calm, reliable, and discreet, embodying the professional spy ethos. His loyalty to Bond suggests a strong working relationship based on mutual trust and respect."
+    },
+    {
+      "title": "Role in Story",
+      "body": "Mathis acts as a local handler and informant aiding Bond’s operation. He facilitates introductions, secures safe passage, and serves as Bond’s confidante in a foreign and hostile environment."
+    },
+    {
+      "title": "Relationships",
+      "body": "He works closely with MI6 and shares a professional camaraderie with James Bond. His broader networks in European intelligence strengthen Bond’s position during complex espionage tasks."
+    },
+    {
+      "title": "Skills and Abilities",
+      "body": "Mathis is skilled in intelligence gathering, surveillance, and has strong local knowledge. He is adept at navigating the complex political landscape of post-war Europe."
+    }
+  ],
+  "aliases": [
+    "Agent Mathis"
+  ],
+  "relationships": [
+    {
+      "type": "ally_of",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    },
+    {
+      "type": "colleague_of",
+      "target": "50fa1b1e-8679-4b51-9646-e429e7c9da31"
+    }
+  ],
+  "properties": {
+    "nationality": "French",
+    "occupation": "Intelligence Agent"
+  },
+  "tags": [
+    "ally",
+    "intelligence",
+    "French secret service",
+    "supporting character",
+    "Casino Royale"
+  ]
+}

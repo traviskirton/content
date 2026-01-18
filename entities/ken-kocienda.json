@@ -1,0 +1,63 @@
+{
+  "id": "9e40ec6e-f1a6-4f68-9d3a-91e7c723a2f3",
+  "type": "person",
+  "name": "Ken Kocienda",
+  "description": "Ken Kocienda is a software engineer and author known for his pioneering work on the development of the iPhone keyboard and user interface at Apple.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Ken Kocienda graduated from the University of Washington and went on to build a distinguished career as a software engineer, primarily at Apple Inc. Known for his expertise in user interface design and software engineering, Kocienda was instrumental in the early days of the iPhone’s development. In addition to his engineering work, he has contributed to software design principles and has been a passionate advocate for creativity in technology."
+    },
+    {
+      "title": "Career",
+      "body": "Kocienda worked at Apple from 2001 until 2017, playing key roles in several groundbreaking projects. He is best recognized for inventing the autocorrect system and contributing heavily to the design of the touchscreen keyboard for the original iPhone. His roles often merged software programming with design insights, making him a crucial team member in prototyping and refining user-friendly interfaces. His career has been defined by blending technology with human-centered design."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Among Kocienda’s significant contributions are the creation of the iPhone’s breakthrough on-screen keyboard and developing autocorrect technology, which revolutionized mobile texting. His book, Creative Selection, details his insider perspective on Apple’s product development culture and the iterative design process behind the company’s innovations. His work has influenced both the user experience of Apple devices and the broader tech industry’s approach to software interfaces."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Kocienda’s approach to software development exemplifies a harmonious blend of creativity and rigorous engineering discipline. His advocacy for rapid prototyping, iterative improvement, and user-focused design has influenced not only Apple’s internal culture but also the wider software development methodologies that emphasize creative problem-solving and selection. His perspective highlights the importance of small teams empowered to experiment and evolve products effectively."
+    }
+  ],
+  "aliases": [
+    "Ken",
+    "Ken K.",
+    "Apple Engineer Ken Kocienda"
+  ],
+  "relationships": [
+    {
+      "type": "author_of",
+      "target": "e11a7d3f-f018-4a9d-b7a3-68d3bfed9c68"
+    },
+    {
+      "type": "colleague_of",
+      "target": "99283c2e-43a3-479f-9fb9-16abbf1a1084"
+    },
+    {
+      "type": "colleague_of",
+      "target": "3a76246b-22a4-465f-baec-2d9927e7976f"
+    },
+    {
+      "type": "colleague_of",
+      "target": "2f58f7fb-3084-4fa4-8e3c-1779f5beabc1"
+    }
+  ],
+  "properties": {
+    "birthplace": "United States",
+    "occupation": "Software Engineer, Author",
+    "notable_employer": "Apple Inc.",
+    "years_active": "2001-2017"
+  },
+  "tags": [
+    "software engineer",
+    "Apple",
+    "iPhone",
+    "user interface",
+    "author",
+    "autocorrect",
+    "keyboard design",
+    "technology innovation"
+  ]
+}

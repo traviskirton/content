@@ -28,6 +28,14 @@
     {
       "type": "worked_with",
       "target": "ffbc5d71-dd5e-4895-9898-73d7e5e0b0d9"
+    },
+    {
+      "type": "portrays",
+      "target": "ae5189a7-563b-4162-b1ad-7fbbf6d7b3c9"
+    },
+    {
+      "type": "acted_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
     }
   ],
   "properties": {

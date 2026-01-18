@@ -1,0 +1,68 @@
+{
+  "id": "c4da1933-fd4a-4d12-b162-56aa2b8fab63",
+  "type": "movie",
+  "name": "The Godfather Coda: The Death of Michael Corleone",
+  "description": "A re-edited and remastered version of The Godfather Part III, released in 2020 to provide a more focused narrative.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "\"The Godfather Coda: The Death of Michael Corleone\" is a recut and remastered version of \"The Godfather Part III,\" crafted by director Francis Ford Coppola. Released in 2020, the new version features streamlined editing, some restructured scenes, and an alternate beginning and ending. Its aim is to present a clearer and more cohesive narrative that better reflects Coppola’s original vision for the finale of the Corleone saga."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "The film retains the original story focusing on Michael Corleone's struggles to detach from his criminal past and make amends through legitimate business with the Vatican. The reinterpretation shifts emphasis subtly to clarify character motivations and tighten the story's flow. It preserves the dramatic tension between Michael, his family, and the new generation represented by Vincent Mancini, culminating in the film’s tragic resolution."
+    },
+    {
+      "title": "Changes and Style",
+      "body": "Coppola's updates eliminated some scenes considered extraneous in the original release, reduced the runtime, and altered the opening and closing sequences to enhance emotional impact. The recut version improves pacing, removing some convoluted subplots and refining character arcs, particularly focusing on Michael's fatalistic journey. The cinematography and soundtrack were also restored to higher quality, delivering a more polished and immersive experience."
+    },
+    {
+      "title": "Reception",
+      "body": "Critics and fans generally praised \"The Godfather Coda\" for addressing many criticisms associated with the original 1990 film, highlighting its improved narrative clarity and emotional resonance. While it did not dramatically change public opinion on the film’s overall quality, it succeeded in offering a more satisfying conclusion for many viewers and is seen as a more fitting farewell to one of cinema’s iconic characters."
+    },
+    {
+      "title": "Significance",
+      "body": "The release of the Coda version demonstrated Coppola's ongoing engagement with his work and the importance of legacy in cinematic storytelling. It provided an opportunity for reevaluation of a controversial installment in the trilogy and enriched the cultural memory of The Godfather series. The film is now considered the definitive version of the trilogy’s final chapter."
+    }
+  ],
+  "aliases": [
+    "The Godfather Part III (2020 Version)",
+    "Godfather Coda",
+    "Godfather Part 3 Coda"
+  ],
+  "relationships": [
+    {
+      "type": "re_edit_of",
+      "target": "d5f5bf96-6e3b-4d6f-b32b-32b91a67b1c8"
+    },
+    {
+      "type": "part_of_franchise",
+      "target": "37f90f75-1f4c-4d85-8d2e-eafcebb09118"
+    },
+    {
+      "type": "directed_by",
+      "target": "3a0c7f6d-9b31-478c-a716-f3fdbc3b10e7"
+    }
+  ],
+  "properties": {
+    "release_year": 2020,
+    "runtime_minutes": 157,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "language": "English",
+    "country": "United States"
+  },
+  "tags": [
+    "crime",
+    "drama",
+    "mafia",
+    "reedit",
+    "Francis Ford Coppola",
+    "Michael Corleone",
+    "restored",
+    "sequel",
+    "francis-ford-coppola"
+  ]
+}

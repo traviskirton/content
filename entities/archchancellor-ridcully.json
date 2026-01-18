@@ -1,0 +1,62 @@
+{
+  "id": "fe53f4ae-3d0a-4df8-b7a9-23cb68c519e3",
+  "type": "character",
+  "name": "Archchancellor Ridcully",
+  "description": "Archchancellor Ridcully is the head of Unseen University in Discworld, known for his robust personality and pragmatic approach to magic.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Archchancellor Mustrum Ridcully is a towering figure both physically and politically within the Discworld series, having served as the Archchancellor of Unseen University for many years. A former outdoorsman and practical man, Ridcully was thrust into the academic world and has since navigated the complex social and magical politics of the institution with remarkable success. His rise to power marked a shift from more esoteric academic traditions to a hands-on, often no-nonsense style of leadership."
+    },
+    {
+      "title": "Personality",
+      "body": "Ridcully’s personality is a blend of robust common sense, bluntness, and genuine care for the university and its members. Unlike the stereotypical absent-minded or detached wizard, he prefers direct action and practical solutions. He has a boisterous sense of humor and often clashes with staff due to his straightforward manner. Despite this, he is well-respected and often acts as a fatherly figure, securing stability and order in a chaotic magical environment."
+    },
+    {
+      "title": "Story Role",
+      "body": "Appearing in multiple Discworld novels, Archchancellor Ridcully serves as the effective leader of Unseen University, overseeing the education and policies of the wizards. His tenure is marked by various reforms and adventures that shape the university’s place in the Discworld. He often acts as an anchor for the narrative, providing stability amidst the unfolding magical chaos, and participates actively in humorous and dramatic events."
+    },
+    {
+      "title": "Relationships",
+      "body": "Ridcully maintains complex relationships with numerous individuals in the Discworld. He has a professional yet often humorous bond with his assistant Ponder Stibbons and the Librarian. His no-nonsense attitude occasionally puts him at odds with traditionalist wizards but commands respect nonetheless. Ridcully’s practical approach to magic often influences younger generations, making him an important mentor figure."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Aside from being a competent and powerful wizard, Ridcully is notable for his physical prowess and outdoor skills, unusual traits for a magic user. His practical knowledge of hunting, fishing, and general survival enriches his approach to magic, emphasizing functionality over theoretical intricacies. His leadership skills manifest in administrative talent and political savvy, making him one of the most effective Archchancellors in the history of Unseen University."
+    }
+  ],
+  "aliases": [
+    "Mustrum Ridcully",
+    "Archchancellor Ridcully",
+    "The Archchancellor"
+  ],
+  "relationships": [
+    {
+      "type": "staff_of",
+      "target": "330f1a07-32ec-470b-9ccd-e2a3b8ef4fdd"
+    },
+    {
+      "type": "leader_of",
+      "target": "330f1a07-32ec-470b-9ccd-e2a3b8ef4fdd"
+    },
+    {
+      "type": "associated_with",
+      "target": "2965a032-5490-4f0b-8eaa-b22709c2f508"
+    }
+  ],
+  "properties": {
+    "species": "Human",
+    "affiliation": "Unseen University",
+    "gender": "Male",
+    "origin": "Discworld"
+  },
+  "tags": [
+    "Discworld",
+    "Fantasy",
+    "Character",
+    "Wizard",
+    "Academic",
+    "Leadership",
+    "Magic"
+  ]
+}

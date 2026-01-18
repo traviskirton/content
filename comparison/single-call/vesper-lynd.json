@@ -1,0 +1,59 @@
+{
+  "id": "9e0bb743-cfe4-4f32-866a-fad4a4d53715",
+  "type": "character",
+  "name": "Vesper Lynd",
+  "description": "A British intelligence agent working for MI6 and love interest to James Bond in Casino Royale.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Vesper Lynd is a British government agent assigned as a liaison to MI6 during the high-stakes poker game in Casino Royale. Her full background is not deeply detailed, but she is portrayed as highly competent and intelligent, with a mysterious past hinted at, including complex motivations tied to her work and personal loyalties."
+    },
+    {
+      "title": "Personality",
+      "body": "Vesper exhibits traits such as:\n\n- Intelligence and resourcefulness\n- Reserved and emotionally guarded\n- Loyal but conflicted\n- Witty and composed under pressure\n- Haunted by past betrayals, leading to inner turmoil\n\nHer motivations are complex, balancing duty, love, and survival. Her tragic flaw is her entanglement with conflicting loyalties that ultimately lead to her downfall."
+    },
+    {
+      "title": "Story Role",
+      "body": "Vesper serves as the primary female lead and Bond's love interest in Casino Royale. Initially assigned to secure funds for Bond, their relationship becomes a central emotional arc. Vesper's betrayal and subsequent death deeply affect Bond, shaping his character and future relationships. She embodies themes of trust, sacrifice, and the ambiguity of espionage."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **James Bond:** Their romantic relationship develops quickly but is marked by tension and tragedy; Bond's emotional vulnerability is exposed through her.\n- **MI6:** Vesper works for British intelligence, though with her own clandestine connections.\n- **Le Chiffre:** Her coerced dealings indirectly influence the antagonist's plans and outcomes.\n\nThe depth of her relationship with Bond influences the narrative's emotional weight and Bond's evolution as a character."
+    },
+    {
+      "title": "Abilities",
+      "body": "- Skilled intelligence officer with knowledge of finance and espionage\n- Proficient in poker and negotiation\n- Highly observant and capable of acting under pressure\n- Multilingual abilities implied though not explicitly detailed\n- Emotional resilience despite personal conflicts"
+    }
+  ],
+  "aliases": [
+    "Ms. Lynd",
+    "Vesper"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "related_to",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    },
+    {
+      "type": "related_to",
+      "target": "e4f2568b-8c69-4e8a-9cf3-b12584970a29"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "MI6 agent",
+    "portrayed_by": "Eva Green"
+  },
+  "tags": [
+    "supporting",
+    "heroine",
+    "spy",
+    "intelligence_agent",
+    "love_interest",
+    "tragic_character"
+  ]
+}

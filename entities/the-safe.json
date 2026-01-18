@@ -1,0 +1,58 @@
+{
+  "id": "99da8d18-f457-44fb-8628-2a7122a906f2",
+  "type": "item",
+  "name": "The Safe",
+  "description": "A sturdy, iron safe located in Dr. Roylott’s room containing crucial evidence and symbolic of his wealth and control.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Safe in The Adventure of the Speckled Band is a heavy, iron-bound safe situated within Dr. Roylott’s private quarters at Stoke Moran. Serving as a secure container for valuables and important documents, it also symbolizes the doctor's control, secretiveness, and readiness for violent confrontation. Holmes examines it during his investigation to gather clues about Roylott’s character and intentions."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Safe is a large metal box, fortified with thick iron panels and a formidable lock mechanism, equipped to withstand theft and attacks. It bears the typical Victorian style of industrial safes: large hinges, reinforced corners, and an imposing presence in the room. Its cold, utilitarian look contrasts with the aged, rustic appearance of the rest of Stoke Moran’s interiors."
+    },
+    {
+      "title": "Function",
+      "body": "Primarily, the Safe is designed to protect money, jewels, or sensitive papers belonging to Dr. Roylott. In the context of the story, it also reinforces Roylott’s character as a man of means and a manacing figure who values secrecy and preparation. Though not directly involved in the murder scheme, it provides insight into his personality and lifestyle."
+    },
+    {
+      "title": "History",
+      "body": "Installed likely when Dr. Roylott renovated his estate, the safe was meant to secure his financial assets and important items. Its presence in the story emphasizes his background as a wealthy and dangerous individual who uses both brutality and pride to assert dominance. Holmes’s inspection of the safe serves to contrast the evidence of Roylott’s violent tendencies with his wealth and status."
+    },
+    {
+      "title": "Story Significance",
+      "body": "While the safe is not central to the modus operandi of the murder, it serves as a symbolic element illustrating Dr. Roylott's personality—secretive, powerful, and ready for confrontations, both intellectual and violent. Its inclusion adds depth to the setting and provides a physical representation of the dangerous aura Holmes must navigate to solve the case."
+    }
+  ],
+  "aliases": [
+    "Iron Safe",
+    "Money Safe",
+    "Victorian Safe",
+    "Metal Safe"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "7b9b54fe-410e-44c3-b790-9957c11db367"
+    },
+    {
+      "type": "owned_by",
+      "target": "3b5a0728-8cee-4d05-bc8f-cf2ff0915de7"
+    }
+  ],
+  "properties": {
+    "material": "Iron and steel",
+    "location": "Dr. Roylott’s room at Stoke Moran",
+    "lock_type": "Mechanical lock",
+    "function": "Security for valuables"
+  },
+  "tags": [
+    "The Adventure of the Speckled Band",
+    "Victorian Era",
+    "Security",
+    "Mystery",
+    "Sherlock Holmes",
+    "Symbolism"
+  ]
+}

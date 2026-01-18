@@ -1,0 +1,53 @@
+{
+  "id": "a4771e01-eb41-4529-a7e6-c321673d974d",
+  "type": "location",
+  "name": "London (Mona Lisa)",
+  "description": "The London of 'Mona Lisa Overdrive' is a complex, futuristic cityscape mixing historical elements with cybernetic enhancements and corporate power struggles.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "London in 'Mona Lisa Overdrive' represents a global hub of commerce, culture, and espionage, combining the city's rich historical legacy with cutting-edge cyberpunk futurism. The city serves as a pivotal location where major plot developments occur and where local and international powers intersect. Its streets and neighborhoods exhibit a collision of old-world tradition and new-world technology, heavily influenced by cybernetic modification trends and underground digital activism."
+    },
+    {
+      "title": "Appearance",
+      "body": "The cityscape of London features a layered architectural style that juxtaposes iconic landmarks with cyber-enhanced environments and neon-lit, rain-soaked alleys. Modern skyscrapers emblazoned with holographic advertisements tower over cobblestone streets and historic buildings, creating a visually striking fusion. Surveillance drones and automated security patrols are common, emphasizing the heavy presence of corporate and governmental control. London’s aesthetic combines gritty realism with hallucinatory cyberpunk visuals, reflecting its ambiguous moral and political landscape."
+    },
+    {
+      "title": "History",
+      "body": "London’s history in the context of 'Mona Lisa Overdrive' involves its transformation from a traditional European capital to a node in global cybernetic networks and corporate maneuvering. The impact of global economic shifts and technological revolutions has redefined its role, introducing new social orders and challenges. The city has become fragmented legally and socially, hosting enclaves of extreme wealth and oppression. This history shapes the tensions and dynamics faced by the book’s characters as they negotiate survival and power."
+    },
+    {
+      "title": "Story Significance",
+      "body": "London is critical to the narrative as it is the stage for several major encounters and scenarios involving corporate espionage, cyberwarfare, and identity struggles. Key characters, including Sally Shears and those connected to the Sprawl, traverse London’s complex urban fabric, encountering allies and enemies. The city’s dual nature as both a bastion of power and a den of resistance highlights the novel’s examination of technological dominance and human resilience. London’s presence reinforces global stakes within the Sprawl Trilogy’s expansive world."
+    }
+  ],
+  "aliases": [
+    "Neo-London",
+    "Cyber-London",
+    "Future London",
+    "Mona Lisa London"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
+    }
+  ],
+  "properties": {
+    "region": "United Kingdom",
+    "technology_level": "Advanced cybernetics",
+    "cultural_importance": "High",
+    "role_in_story": "Complex urban center",
+    "surveillance_state": "Yes"
+  },
+  "tags": [
+    "location",
+    "cyberpunk",
+    "London",
+    "futuristic",
+    "Mona Lisa Overdrive",
+    "William Gibson",
+    "corporate warfare",
+    "urban dystopia"
+  ]
+}

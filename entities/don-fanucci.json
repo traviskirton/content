@@ -1,0 +1,59 @@
+{
+  "id": "4dc5c099-393f-44f3-b544-95c7f8a78758",
+  "type": "character",
+  "name": "Don Fanucci",
+  "description": "Don Fanucci is a brash and fearful Black Hand extortionist in New York’s Little Italy, serving as an antagonist to Young Vito Corleone in his early criminal rise.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Don Fanucci operates as a local extortionist in early 20th-century New York City, leveraging his connections and imposing presence to intimidate and extract protection money from the immigrant communities, particularly Sicilians. He openly flaunts his power and influence, wearing elaborate costumes and commanding fear through rituals and public displays. Fanucci’s unchecked operations embody the chaotic and lawless conditions of the era’s immigrant neighborhoods."
+    },
+    {
+      "title": "Personality",
+      "body": "Arrogant and aggressive, Don Fanucci is characterized by his blustering, theatrical style and use of fear to maintain control. He craves recognition and exhibits a sense of entitlement, often behaving recklessly without regard for consequences. His bravado masks insecurities and a vulnerability that ultimately leads to his downfall."
+    },
+    {
+      "title": "Story Role",
+      "body": "As an antagonist in the flashback sequences, Don Fanucci represents the oppressive forces that Young Vito must overcome to establish his own authority. His extortion racket creates an environment of fear that Vito challenges, symbolizing the clash between old-world tyranny and the emerging new order Vito aims to create. Fanucci’s assassination by Vito marks a key moment in the protagonist’s ascent."
+    },
+    {
+      "title": "Relationships",
+      "body": "Don Fanucci holds dominion over many local residents through threats and coercion, including families like the Corleones. He is feared but ultimately resented by his victims. His interactions with Vito Corleone are tense and hostile, culminating in a deadly confrontation that shifts the power balance in Little Italy."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Fanucci's power lies primarily in intimidation and manipulation, using fear as his main weapon. While lacking the strategic subtlety of Vito, he commands a network of followers and exerts influence through aggression and spectacle. His flamboyant appearances and reputation amplify his control until he underestimates the cunning of his rivals."
+    }
+  ],
+  "aliases": [
+    "The Black Hand Don",
+    "Black Hand Extortionist",
+    "Fanucci"
+  ],
+  "relationships": [
+    {
+      "type": "antagonist_to",
+      "target": "b7744028-c40f-4104-bd37-30636600eea8"
+    },
+    {
+      "type": "appears_in",
+      "target": "f2318973-a4ee-4b60-8585-397a6f1d4d73"
+    }
+  ],
+  "properties": {
+    "occupation": "Extortionist",
+    "organization": "Black Hand",
+    "time_period": "Early 1900s",
+    "role": "Antagonist (flashback)",
+    "nationality": "Italian-American"
+  },
+  "tags": [
+    "character",
+    "antagonist",
+    "mafia",
+    "extortion",
+    "crime",
+    "Little Italy",
+    "historical"
+  ]
+}

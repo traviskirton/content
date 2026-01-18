@@ -1,0 +1,87 @@
+{
+  "id": "b72a1e33-745b-4a6f-8eea-b4bb365ddb2a",
+  "type": "character",
+  "name": "George Smiley",
+  "description": "A fictional British intelligence officer created by John le Carré, known for his unassuming appearance and brilliant mind.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "George Smiley is a senior officer in the British Secret Intelligence Service, colloquially called 'The Circus.' Introduced in le Carré's 1961 novel 'Call for the Dead,' Smiley's career spans decades, marked by both successes and setbacks. Not physically imposing and often described as mediocre in appearance, Smiley's true strength lies in his intellect, patience, and understanding of human nature. His personal history includes a complicated marriage with Lady Ann Sercomb and an often solitary, melancholic life balanced against his duty."
+    },
+    {
+      "title": "Personality",
+      "body": "Smiley is characterized by his quiet demeanor, moral seriousness, and methodical approach to intelligence work. Unlike stereotypical suave spies, he is introspective, somewhat socially awkward, but deeply empathetic and principled. His humility and subtle irony contrast with the paranoia and ruthlessness around him. Throughout the series, Smiley embodies a weary but resilient idealism, navigating betrayal and espionage with a burdened conscience."
+    },
+    {
+      "title": "Story Role",
+      "body": "George Smiley is the central protagonist in much of le Carré's work, particularly the Karla Trilogy, where he leads the complex investigation to unmask a Soviet mole within the Circus leadership. His role is that of a detective and strategist, working behind the scenes. Smiley's stories offer a lens into Cold War espionage's psychological and ethical complexities, with his investigations exposing both external enemies and internal agency rot."
+    },
+    {
+      "title": "Relationships",
+      "body": "Smiley’s personal and professional relationships are marked by complexity. His estranged wife, Lady Ann, is a poignant element in his personal life, symbolizing emotional sacrifice for his duty. Professionally, he has a mix of loyal allies, such as Peter Guillam, and antagonistic rivals within the Circus. Smiley also maintains a long-standing intellectual rivalry with the Soviet spymaster Karla, making their cat-and-mouse dynamics central to the narrative."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Smiley excels in intelligence analysis, psychological insight, and counterintelligence. He is a master of subtlety, manipulation, and patience, preferring cerebral methods over physical action. His deep understanding of espionage’s human dimension makes him highly effective at unmasking deception. Skilled in multiple languages and espionage tradecraft, Smiley operates as a strategist and mentor within the Circus hierarchy."
+    }
+  ],
+  "aliases": [
+    "Smiley",
+    "George",
+    "The Professor",
+    "Gerald (codename in 'Tinker, Tailor, Soldier, Spy')"
+  ],
+  "relationships": [
+    {
+      "type": "created_by",
+      "target": "f66c22f3-f2ad-4d17-bf5c-f0bde7a79d63"
+    },
+    {
+      "type": "appears_in",
+      "target": "32c5d5e9-2e8f-43f3-982d-9846bc4a1450"
+    },
+    {
+      "type": "appears_in_franchise",
+      "target": "1e271d3c-46e7-44b9-bc95-73e8e97f9333"
+    },
+    {
+      "type": "appears_in_franchise",
+      "target": "d4395616-2c5b-4e2c-a14c-f1c33038f43f"
+    },
+    {
+      "type": "appears_in",
+      "target": "d4395616-2c5b-4e2c-a14c-f1c33038f43f"
+    },
+    {
+      "type": "appears_in",
+      "target": "1e271d3c-46e7-44b9-bc95-73e8e97f9333"
+    }
+  ],
+  "properties": {
+    "occupation": "Intelligence Officer",
+    "affiliation": "British Secret Intelligence Service",
+    "skills": [
+      "Counterintelligence",
+      "Analysis",
+      "Psychological Insight",
+      "Languages"
+    ],
+    "character_traits": [
+      "Methodical",
+      "Intelligent",
+      "Reserved",
+      "Empathetic"
+    ],
+    "nationality": "British"
+  },
+  "tags": [
+    "fictional character",
+    "spy",
+    "espionage",
+    "cold war",
+    "john le carré",
+    "george smiley",
+    "literature",
+    "counterintelligence"
+  ]
+}

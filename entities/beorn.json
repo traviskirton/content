@@ -1,0 +1,60 @@
+{
+  "id": "b81be927-6f88-42e3-bfc1-9834a2c03957",
+  "type": "character",
+  "name": "Beorn",
+  "description": "Beorn is a skin-changer who can take the form of a great bear, providing aid and shelter to the company during their adventure.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Beorn is a unique inhabitant of Middle-earth, living in the borderlands near the Misty Mountains. He is descended from a long line of skin-changers who can assume the form of bears, a power he uses to protect his homestead and nearby lands. A solitary figure, Beorn sustains himself and his household through animal husbandry and keeping various livestock. His deep connection to nature and the wilderness places him somewhat apart from the civilized realms of elves, dwarves, and men."
+    },
+    {
+      "title": "Personality",
+      "body": "Beorn is a strong, taciturn, and somewhat gruff individual, embodying the wildness and power of the natural world. While capable of kindness and hospitality, he is no friend to goblins or orcs and displays fierce territoriality. His aura commands respect and even fear, for he is both protector and warrior. Despite his solitary nature, Beorn forms a respectful and valuable alliance with Gandalf and the company, showing a practical willingness to aid those who oppose darkness."
+    },
+    {
+      "title": "Story Role",
+      "body": "Beorn plays a pivotal role in The Hobbit by providing sanctuary and vital resources to the company during their journey. His home offers shelter and rest after their escape from goblins and wolves, giving the group strength for the trials ahead. Furthermore, Beorn’s participation in the Battle of Five Armies delivers crucial support to the dwarves and their allies. His presence highlights Tolkien’s theme of the natural world’s power and the importance of alliances between different beings in Middle-earth."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Beorn possesses the rare and magical ability to change shape between a man and a great bear, granting him immense strength and resilience. In bear form, he is a formidable combatant, capable of single-handedly turning the tide in battles and protecting others from harm. Additionally, his knowledge of the wilderness, animal husbandry, and survival skills make him an invaluable ally. Beorn’s home is guarded by his kin, including various animals who heed his call."
+    },
+    {
+      "title": "Legacy and Significance",
+      "body": "Beorn represents the ancient and mystical connection between mankind and nature in Tolkien’s world. His character introduces elements of magic in an earthy form, embodying strength and protection rooted in the natural environment. His aid to the company significantly affects the outcome of their quest, and his role in Middle-earth continues to influence events beyond The Hobbit, notably through his descendants and contributions to the realms of men."
+    }
+  ],
+  "aliases": [
+    "Skin-changer",
+    "Beorn the Bear-man"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "f6869cbb-70fc-4d9a-9bc4-c39d6de4d3ee"
+    },
+    {
+      "type": "ally_of",
+      "target": "d47a1191-5287-4312-9a5a-9057ea3e309e"
+    }
+  ],
+  "properties": {
+    "species": "Beast-man (Skin-changer)",
+    "abilities": [
+      "Shape-shifting into bear",
+      "Animal communication",
+      "Combat"
+    ],
+    "role": "Warrior and protector"
+  },
+  "tags": [
+    "skin-changer",
+    "bear",
+    "ally",
+    "fantasy",
+    "middle-earth",
+    "wilderness",
+    "magic"
+  ]
+}

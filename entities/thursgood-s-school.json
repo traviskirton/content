@@ -1,0 +1,46 @@
+{
+  "id": "c9bdc5de-34d3-4d00-a7ca-70d8351a3626",
+  "type": "location",
+  "name": "Thursgood's School",
+  "description": "A fictional preparatory school depicted in John le Carré's works, associated with the background of several characters.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Thursgood's School is a fictional, traditional British preparatory school mentioned in the background of certain characters in le Carré's narratives. It symbolizes the elite educational institutions feeding the upper echelons of British society and subsequently the intelligence community, emphasizing themes of class, upbringing, and the formation of networks and loyalties."
+    },
+    {
+      "title": "Appearance",
+      "body": "Portrayed as a quintessential English boarding school, Thursgood's is typified by sprawling grounds, classic red-brick buildings, and meticulously maintained gardens and sports fields. The school exudes an atmosphere of privilege, discipline, and tradition, reflecting the archetypal setting where future spies and bureaucrats form their early alliances."
+    },
+    {
+      "title": "History",
+      "body": "Though fictitious, Thursgood's represents the archetype of preparatory schools influencing British public life. It stands for the pre-war and post-war educational culture that shapes many protagonists and antagonists within le Carré's espionage universe. This setting also critiques the class system’s role in perpetuating elitism and the recruitment of intelligence operatives from exclusive circles."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Thursgood's School offers insight into character development and social context in the stories where it is mentioned. It is often used to illustrate the privileged yet pressured upbringing that informs the personalities and values of intelligence officers. The school’s representation adds layers of realism to character backgrounds and underlines thematic explorations of trust and betrayal rooted in class and education."
+    }
+  ],
+  "aliases": [
+    "Thursgood's",
+    "Thursgood's Prep",
+    "Thursgood's Boarding School"
+  ],
+  "relationships": [],
+  "properties": {
+    "type": "Preparatory School",
+    "location": "United Kingdom",
+    "education_level": "Primary to lower secondary",
+    "era": "Mid 20th century (implied)"
+  },
+  "tags": [
+    "location",
+    "education",
+    "fictional school",
+    "British elite",
+    "boarding school",
+    "Tinker Tailor Soldier Spy",
+    "John le Carré",
+    "class system"
+  ]
+}

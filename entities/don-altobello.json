@@ -1,0 +1,59 @@
+{
+  "id": "8e0f49e6-05b5-4a2e-b57f-cd4f5f0a298a",
+  "type": "character",
+  "name": "Don Altobello",
+  "description": "An elderly and cunning mobster allied with the Corleone family but entwined in dangerous conspiracies.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Don Altobello is an aging mafioso with deep roots in the organized crime world and longstanding ties to the Corleone family. He is portrayed as a loyal but increasingly treacherous figure, operating behind the scenes to maintain influence and power. His experience affords him a cunning mind for maneuvering family and business affairs, but his loyalties prove ambiguous as the story progresses. Altobello represents the old guard of the mafia world, blending charm with ruthless ambition."
+    },
+    {
+      "title": "Personality",
+      "body": "Altobello exudes a veneer of geniality and old-world charm but conceals a merciless and manipulative core. He often plays the role of a gracious elder statesman while orchestrating betrayals to secure his own survival and advantage. His sly, calm demeanor masks his readiness for violence and treachery, making him a dangerous adversary. His interactions reflect a complex balance of respect, deceit, and cunning that define his approach to both allies and enemies."
+    },
+    {
+      "title": "Story Role",
+      "body": "In The Godfather Part III, Don Altobello acts as both an advisor and an antagonist. He initially appears as a trusted Corleone associate but is revealed to be complicit in conspiracies against Michael Corleone. His role escalates to a pivotal betrayal involving assassination plots, illustrating the theme of declining loyalty and the perilous nature of mafia politics. Altobello’s actions intensify the stakes and culminate in dramatic confrontations that shape the film’s climax."
+    },
+    {
+      "title": "Relationships",
+      "body": "Don Altobello is closely connected with the Corleone family, especially Michael Corleone, whom he advises and assists. However, his alliance with rival factions and desire for power complicate these relationships. He also interacts with other mafia figures, using relationships as leverage for his schemes. His duplicitous nature strains or severs bonds, revealing him as an isolated yet influential figure within mafia circles."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Altobello’s primary skills lie in strategy, manipulation, and negotiation. His deep knowledge of mafia traditions and politics enables him to navigate treacherous waters with subtlety. His calm, composed demeanor belies a ruthless capacity for violence when necessary. Despite his age, he commands respect and fear, leveraging psychological insight and experience to influence outcomes in complex criminal and family affairs."
+    }
+  ],
+  "aliases": [
+    "Don Fanucci (reference)",
+    "Altobello",
+    "Don Altobello"
+  ],
+  "relationships": [
+    {
+      "type": "ally_of",
+      "target": "aa2046b8-1cee-4191-9143-c73dce383d64"
+    },
+    {
+      "type": "enemy_of",
+      "target": "aa2046b8-1cee-4191-9143-c73dce383d64"
+    }
+  ],
+  "properties": {
+    "gender": "male",
+    "nationality": "Italian-American",
+    "occupation": "Mafia Don",
+    "portrayed_by": "Eli Wallach",
+    "appearance_year": 1990
+  },
+  "tags": [
+    "The Godfather Part III",
+    "mafia",
+    "villain",
+    "corruption",
+    "betrayal",
+    "organized crime",
+    "old guard"
+  ]
+}

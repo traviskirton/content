@@ -1,0 +1,52 @@
+{
+  "id": "47374696-f2c8-4053-8bd9-2c7a3e1a9032",
+  "type": "location",
+  "name": "Helen's Bedroom",
+  "description": "The bedroom of Helen Stoner in Stoke Moran Manor, a site central to the mystery in 'The Adventure of the Speckled Band.'",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Helen's Bedroom is the room assigned to Helen Stoner, the stepdaughter of Dr. Roylott, located adjacent to Dr. Roylott's Chamber. It is critical to the story as it became the intended scene of the lethal attack on Helen’s sister Julia, and eventually the focus of Sherlock Holmes's investigation to prevent Helen’s own tragic fate."
+    },
+    {
+      "title": "Appearance",
+      "body": "The bedroom is described as rather plain but functional, with heavy draped windows, an old iron bedstead, and a bell-pull that hangs dangerously close to the ventilator connecting her room to Dr. Roylott’s Chamber. Nighttime shadows and the sealed windows accentuate the room’s foreboding and threatening atmosphere, which intensifies the tension and suspense of the story."
+    },
+    {
+      "title": "History",
+      "body": "Helen's bedroom holds a dark history, as it was the room where her sister Julia met her violent end under mysterious circumstances involving the so-called 'speckled band.' After Julia's death, Helen was moved to this room, where similar unexplained noises and threats began. This prompted her to seek Sherlock Holmes's help, catalyzing the story’s investigation and ultimate reveal."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The bedroom is a locus for Holmes’s critical observations, allowing him to notice crucial details such as the bell-pull and ventilator. It acts almost like a trap set by Dr. Roylott using exotic means to eliminate his stepdaughters and secure his inheritance. The room’s layout and connections are essential to understanding and thwarting the deadly plot."
+    }
+  ],
+  "aliases": [
+    "Helen Stoner's Bedroom",
+    "Stepdaughter's Room",
+    "East Wing Bedroom"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "4db75ca2-f36f-4c73-8a6d-4edbec6f4c25"
+    },
+    {
+      "type": "adjacent_to",
+      "target": "8a4f0ea5-e4d0-49d1-bfa1-d3cb64f4f0f7"
+    }
+  ],
+  "properties": {
+    "floor": "Adjacent to west wing",
+    "purpose": "Stepdaughter's living quarters",
+    "bell_pull": "Fake (connected to ventilator)",
+    "neighboring_room": "Dr. Roylott's Chamber"
+  },
+  "tags": [
+    "fictional room",
+    "mystery location",
+    "Sherlock Holmes",
+    "crime scene",
+    "Victorian"
+  ]
+}

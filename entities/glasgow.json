@@ -28,6 +28,10 @@
     {
       "type": "filming_location_for",
       "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "contains",
+      "target": "336de5f4-8a5a-4ccb-92d4-03b4c1dee24c"
     }
   ],
   "properties": {

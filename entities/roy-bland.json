@@ -1,0 +1,60 @@
+{
+  "id": "bc41ff39-1acd-4f29-ac0e-9a22640b4c5c",
+  "type": "character",
+  "name": "Roy Bland",
+  "description": "A senior intelligence officer in the Circus, known for his loyalty to Percy Alleline and cautious nature, involved in high-level operations during a turbulent Cold War period.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Roy Bland is a career intelligence officer who served in the British Secret Intelligence Service alongside several key figures during the Cold War. His background is distinguished by steady service rather than flamboyant brilliance, representing the loyal, methodical core of the Circus. He rose through the ranks to join the leadership team under Percy Alleline during the period when concerns about Soviet infiltration were peaking."
+    },
+    {
+      "title": "Personality",
+      "body": "Bland is cautious, dependable, and adherent to protocol. He tends to avoid unnecessary risks, maintaining a reserved disposition. Unlike his more politically savvy colleagues, Bland focuses on operational steadiness and protecting institutional interests. His demeanor is professional and slightly conservative, often serving as a stabilizing presence within the leadership."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Tinker, Tailor, Soldier, Spy,' Roy Bland acts as one of the key members of Percy Alleline’s inner circle. Aligned with Alleline’s approach, he is implicated in the Circus's failure to detect the mole. Although not a central character in the mole expose, his involvement illustrates the widespread betrayal affecting even cautious members. His role underscores the themes of trust and deception at high levels of espionage."
+    },
+    {
+      "title": "Relationships",
+      "body": "Bland is closely aligned with Percy Alleline and Toby Esterhase, sharing a professional camaraderie and mutual loyalty. His relationship with Bill Haydon is formal, given the latter’s hidden duplicity. Bland's interactions with George Smiley are characterized by unease and distance, as Smiley probes the mole within their ranks. Bland acts as part of the collective leadership whose trust is shaken by the mole's revelation."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Roy Bland demonstrates strong organizational acumen and steady operational oversight. He is skilled in managing intelligence assets and handling bureaucratic demands with discretion. His conservative approach offers reliability but also limits his ability to detect subtle deceptions, contributing to the Circus’s vulnerabilities."
+    }
+  ],
+  "aliases": [
+    "Roy",
+    "Bland",
+    "The Soldier"
+  ],
+  "relationships": [
+    {
+      "type": "colleague",
+      "target": "9e0b61d4-e799-4b6a-8f03-912f29eca130"
+    },
+    {
+      "type": "colleague",
+      "target": "2fa86052-cb8b-4e1a-9ec5-1e81a1025b62"
+    },
+    {
+      "type": "associate",
+      "target": "3de7ab58-1d6a-4538-9608-8843a87480c9"
+    }
+  ],
+  "properties": {
+    "Rank": "Senior Officer",
+    "Nationality": "British",
+    "Loyalty": "Alleline Faction",
+    "Status": "Compromised"
+  },
+  "tags": [
+    "Espionage",
+    "British Intelligence",
+    "Cold War",
+    "Team Player",
+    "Tinker Tailor Soldier Spy"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "2f58f7fb-3084-4fa4-8e3c-1779f5beabc1",
+  "type": "person",
+  "name": "Bas Ording",
+  "description": "Bas Ording is an industrial designer and user interface expert notable for his work on Apple’s multi-touch gestures and the iPhone user experience.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Bas Ording is a Danish-born designer who joined Apple in the early 2000s and became a key contributor to the design of the iPhone’s touch interface. With a background in industrial and interaction design, Ording brought a focus on intuitive physical interactions combined with digital responsiveness. His work on multi-touch gestures helped invent a new paradigm in mobile device usability, blending software with physical gestures."
+    },
+    {
+      "title": "Career",
+      "body": "At Apple, Ording collaborated with engineers and designers to create the touchscreen gestures that revolutionized how users interact with phones and tablets. He was involved in user interface design, hardware prototyping, and defining the user experience that made the iPhone accessible and engaging. His contributions are widely recognized as foundational to Apple’s product success and the broader adoption of gesture-based computing."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Bas Ording helped originate and implement key multi-touch gestures such as tap, swipe, pinch, and flick, which are now standard in smartphones and tablets worldwide. His designs directly influenced the fluidity of interaction on the iPhone and later Apple products. Through his design innovations, Ording played a critical role in shaping the modern human-computer interface."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Ording’s design approach balances simplicity and functionality, emphasizing natural human movement and minimizing complexity for the user. His work underscores the importance of physicality in digital design, innovating a tactile language that bridges hardware and software. His contributions have set a standard in interface design that persists in current consumer electronics."
+    }
+  ],
+  "aliases": [
+    "Bas",
+    "Bas Ording (Apple Designer)",
+    "Multi-touch Interface Designer"
+  ],
+  "relationships": [
+    {
+      "type": "colleague_of",
+      "target": "9e40ec6e-f1a6-4f68-9d3a-91e7c723a2f3"
+    },
+    {
+      "type": "colleague_of",
+      "target": "99283c2e-43a3-479f-9fb9-16abbf1a1084"
+    },
+    {
+      "type": "colleague_of",
+      "target": "3a76246b-22a4-465f-baec-2d9927e7976f"
+    }
+  ],
+  "properties": {
+    "nationality": "Danish",
+    "occupation": "Industrial Designer, UI Expert",
+    "employer": "Apple Inc.",
+    "specialization": "Multi-touch Gestures"
+  },
+  "tags": [
+    "Apple",
+    "interface design",
+    "multi-touch",
+    "industrial design",
+    "user experience",
+    "human-computer interaction",
+    "gesture controls"
+  ]
+}

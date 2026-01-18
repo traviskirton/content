@@ -1,0 +1,56 @@
+{
+  "id": "75d717b3-5f4a-440f-9f89-6dee9cac4229",
+  "type": "character",
+  "name": "The Four Elephants",
+  "description": "The giant elephants that stand on the back of Great A'Tuin and support the Discworld, serving as fundamental pillars in the Discworld cosmology.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "The Four Elephants are immense, mystical beasts who carry the Discworld on their backs atop the massive shell of Great A'Tuin. Each elephant is named and symbolically represents a direction and a foundational role in the structure of Discworld. While they are largely silent and enigmatic beings, their connection to the Disc and Great A'Tuin is critical, ensuring the stability and continuation of the world’s existence as it journeys through space."
+    },
+    {
+      "title": "Personality",
+      "body": "The elephants are generally portrayed as noble yet inscrutable creatures, embodying strength, patience, and endurance. They do not possess personalities relatable to humans but rather act as tireless guardians of the Disc. Despite their limited explicit characterization, they evoke a sense of ancient power and cosmic duty, resonating with the mythic feeling of the Disc's foundation."
+    },
+    {
+      "title": "Story Role",
+      "body": "The Four Elephants serve as essential structural elements of the Discworld’s cosmology, symbolizing the physical support in the narrative universe. While they rarely participate in stories directly, their presence frames the entire Discworld setting. Occasionally, their movements or behaviors are alluded to in stories concerning cosmic events or magical disturbances, thereby underlining their importance to the world’s balance."
+    },
+    {
+      "title": "Relationships",
+      "body": "The Four Elephants stand on the back of Great A'Tuin and support the Discworld itself on their shoulders. Each elephant bears a portion of the world, balancing it with the collective weight distributed evenly. Their relationship with Great A'Tuin is symbiotic in the cosmic sense, and by extension, they are related to every character, location, and event on the Disc."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Their primary power is their immense strength and endurance, capable of holding a flat world on their backs as Great A'Tuin carries them through space. They are eternal beings, unaffected by time in conventional ways, with an inherent stability that ensures the Discworld remains balanced and continues its cosmic journey."
+    }
+  ],
+  "aliases": [
+    "The Four Giant Elephants",
+    "Great Elephants",
+    "Discworld's Supporters",
+    "The Elephants of Great A'Tuin"
+  ],
+  "relationships": [
+    {
+      "type": "stand_on",
+      "target": "399da7ae-4609-4600-81c5-1e379909a68a"
+    }
+  ],
+  "properties": {
+    "number": 4,
+    "role": "Support the Discworld",
+    "location": "On Great A'Tuin's shell",
+    "species": "Giant Elephants",
+    "significance": "Cosmological pillars"
+  },
+  "tags": [
+    "cosmology",
+    "mythological",
+    "creatures",
+    "Discworld",
+    "fantasy",
+    "foundation",
+    "symbolic"
+  ]
+}

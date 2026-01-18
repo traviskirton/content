@@ -1,0 +1,61 @@
+{
+  "id": "ea3a4f1d-2a87-4451-a1f9-6549a1c7ebf6",
+  "type": "character",
+  "name": "Denethor",
+  "description": "Denethor II, Steward of Gondor, is a proud and tragic ruler whose despair threatens the defense of Minas Tirith during the War of the Ring.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Denethor II is the 26th and last Ruling Steward of Gondor, charged with governing the realm in the absence of a king. Born into a noble lineage, he is the son of Ecthelion II and the father of Boromir and Faramir. Raised in the shadow of Gondor's declining power, Denethor's stewardship is marked by a steadfast commitment to Gondor's survival and his deep anxiety over the kingdom's future. His use of a palantír exposes him to Sauron's influence, exacerbating his fears."
+    },
+    {
+      "title": "Personality",
+      "body": "Denethor is characterized by pride, intelligence, and a commanding presence, but his pride borders on arrogance and stubbornness. His growing despair and mistrust, especially towards his son Faramir, reveal a tragic weakness. Denethor’s mental state deteriorates under the weight of his burdens and the visions shown through the palantír, leading to paranoia and fatalism. His inability to accept hope or counsel contributes to his eventual downfall."
+    },
+    {
+      "title": "Story Role",
+      "body": "Denethor serves as both a leader and obstacle in the defense of Minas Tirith. His despair undermines morale at critical moments, nearly dooming the city before Aragorn's arrival. His tragic suicide attempt symbolizes the collapse of Gondor’s old guard but also highlights the human cost of Sauron's shadow. Denethor’s complex relationship with his sons and his stewardship provides a stark contrast to the hope embodied by the returning king and the Fellowship."
+    },
+    {
+      "title": "Relationships",
+      "body": "Denethor’s key relationships include his sons Boromir and Faramir, albeit strained especially with Faramir whom he distrusts. His interactions with Gandalf are contentious, as he resents the wizard’s counsel and influence. Denethor’s relationship with Aragorn is marked by skepticism and pride, refusing to accept him as the rightful king until the very end. These relationships underscore Denethor's isolation and tragic flaws."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Denethor is a skilled statesman and warrior, capable of leadership under pressure. His use of the palantír, while powerful, subjects him to manipulation by Sauron. Strategically, he understands the threats facing Gondor but often allows fatalism to cloud his judgment rather than rallying resources for hope. His deep knowledge of Gondor’s history and politics defines his stewardship, even as his mental decline becomes a liability."
+    }
+  ],
+  "aliases": [
+    "Denethor II",
+    "Steward of Gondor",
+    "Lord of Minas Tirith"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "7f7967a6-878a-4cb9-b3b4-5f4465061f6c"
+    },
+    {
+      "type": "located_in",
+      "target": "2cd655a7-c4a0-4c43-b62b-f2431fa7f647"
+    }
+  ],
+  "properties": {
+    "role": "Ruling Steward of Gondor",
+    "family": "Boromir (son), Faramir (son)",
+    "personality_traits": [
+      "prideful",
+      "despairing",
+      "authoritative"
+    ]
+  },
+  "tags": [
+    "middle-earth",
+    "lord of the rings",
+    "gondor",
+    "steward",
+    "tragedy",
+    "character",
+    "fantasy"
+  ]
+}

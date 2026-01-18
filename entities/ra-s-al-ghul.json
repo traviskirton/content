@@ -53,6 +53,10 @@
     {
       "type": "portrayed_by",
       "target": "709fafc7-7df4-4a2e-8b8a-e53e9da184f7"
+    },
+    {
+      "type": "appears_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
     }
   ],
   "properties": {

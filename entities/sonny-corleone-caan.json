@@ -1,0 +1,68 @@
+{
+  "id": "2f54a3f3-f041-44b4-8932-9d2b23e7b0e9",
+  "type": "character",
+  "name": "Sonny Corleone (Caan)",
+  "description": "Sonny Corleone, portrayed by James Caan, is the hot-headed eldest son of Vito Corleone and a key enforcer in the Corleone family.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Sonny Corleone is the oldest son of Vito Corleone, born and raised in the hard streets of New York, where he developed a toughness and impatience that marked both his personal and business dealings. Unlike his younger brother Michael, Sonny embraces his mafia heritage and engages actively in the family’s criminal operations from a young age. His aggressive approach positions him as a feared and respected figure within the underworld."
+    },
+    {
+      "title": "Personality",
+      "body": "Sonny is fiery, impulsive, and often ruled by emotion rather than careful calculation. He is fiercely loyal to his family but lacks the subtlety and patience that define his father and younger brother. His aggression and temper frequently lead to rash decisions, yet his courage and willingness to protect his family's honor make him a formidable opponent in conflicts. Sonny's volatile nature is both an asset and a critical weakness."
+    },
+    {
+      "title": "Story Role",
+      "body": "Serving as the heir apparent before Michael's rise, Sonny takes an active role in maintaining the Corleone family's dominance. His defense of family interests escalates tensions with rival families and ultimately contributes to pivotal violent confrontations. Sonny's brutal and defiant leadership culminates in his tragic assassination at a toll booth, a turning point that reshapes the power dynamics within the plot."
+    },
+    {
+      "title": "Relationships",
+      "body": "Sonny is the elder brother to Michael, Fredo, and Connie Corleone, and son to Vito. He is married with children, and his protective nature extends deeply to his family. He has a strained relationship with his more reserved brother Michael due to differing temperaments but shares unbreakable loyalty. His rivalry with enemy mobsters drives much of the film's tension."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Sonny is a fierce fighter, physically imposing and unafraid to confront enemies directly. He displays formidable tactical skills in street-level confrontations and enforcements but lacks the strategic subtlety of his father or Michael. His leadership is marked by charisma and command presence, inspiring loyalty among soldiers and family but undermined by his impatience."
+    }
+  ],
+  "aliases": [
+    "Santino Corleone",
+    "Sonny",
+    "Big Guy",
+    "Eldest Corleone Son"
+  ],
+  "relationships": [
+    {
+      "type": "son_of",
+      "target": "f3055e19-9313-4e9f-8f78-6a6769c4b5c7"
+    },
+    {
+      "type": "brother_of",
+      "target": "aa2046b8-1cee-4191-9143-c73dce383d64"
+    },
+    {
+      "type": "brother_of",
+      "target": "2a8e89d1-e285-4c03-876f-82ece94d0476"
+    },
+    {
+      "type": "brother_of",
+      "target": "8567f7a2-0349-4a4d-9ed8-0173d917a9f5"
+    }
+  ],
+  "properties": {
+    "occupation": "Enforcer, Corleone Family Member",
+    "nationality": "Italian-American",
+    "portrayed_by": "James Caan",
+    "temperament": "Impulsive"
+  },
+  "tags": [
+    "The Godfather",
+    "mafia",
+    "Corleone family",
+    "enforcer",
+    "Caan",
+    "hot-headed",
+    "crime film",
+    "New York"
+  ]
+}

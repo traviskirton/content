@@ -1,0 +1,55 @@
+{
+  "id": "363797be-3d66-4844-b24d-39f1657c5c00",
+  "type": "location",
+  "name": "Casino Royale (Location)",
+  "description": "Casino Royale is a fictional French gambling establishment central to the events of Ian Fleming's novel Casino Royale.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Casino Royale serves as the primary setting for much of Fleming's novel, representing a luxurious and high-stakes gambling environment located near the resort town of Royale-les-Eaux in northern France. This casino is famous for its baccarat tables and attracts wealthy professionals, spies, and criminals alike, providing a glamorous and tense backdrop for espionage and psychological warfare."
+    },
+    {
+      "title": "Appearance",
+      "body": "The casino is characterized by its opulent interiors and sophisticated atmosphere, featuring elegant gaming rooms, private booths, and extensive security measures. Jewel-encrusted chandeliers, plush carpets, and richly decorated walls create an ambience of exclusivity and danger. Visual cues such as the layout of the baccarat tables and the presence of discreet but vigilant staff highlight the intersection of chance and strategy that defines the casino’s mood."
+    },
+    {
+      "title": "History",
+      "body": "While fictional, Casino Royale is depicted as a prestigious establishment with a storied reputation among European upper classes and intelligence communities. Its history is interwoven with the post-World War II milieu, reflecting shifting geopolitical alliances and the pervasive paranoia of the early Cold War. The casino is portrayed as a crossroads where political, criminal, and espionage interests collide under the veneer of leisure and sport."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In the novel, Casino Royale is the arena where James Bond confronts Le Chiffre in a high-stakes baccarat game, representing not only a literal gamble but also a metaphorical battle of wits and nerve. The tension, risk, and stakes within the casino walls embody the greater stakes of global espionage: loyalty, survival, and geopolitical balance. The location’s atmosphere catalyzes character interactions and pivotal narrative developments."
+    }
+  ],
+  "aliases": [
+    "Royale Casino",
+    "The Casino Royale",
+    "French Casino Royale"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "c5b8b17c-7f7a-4ed5-b116-25410d351f95"
+    },
+    {
+      "type": "appears_in",
+      "target": "9b1ab6a0-df91-4c86-8a72-8c23b7428298"
+    }
+  ],
+  "properties": {
+    "country": "France",
+    "type": "Casino",
+    "primary_game": "Baccarat",
+    "role": "Key Setting",
+    "security_level": "High"
+  },
+  "tags": [
+    "Casino",
+    "Gambling",
+    "Espionage",
+    "Baccarat",
+    "Royale-les-Eaux",
+    "James Bond",
+    "Cold War"
+  ]
+}

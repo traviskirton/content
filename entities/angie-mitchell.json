@@ -1,0 +1,62 @@
+{
+  "id": "fd9ab115-95bb-418b-a879-1b2bddbd6551",
+  "type": "character",
+  "name": "Angie Mitchell",
+  "description": "A young woman with unique neurological cybernetic enhancements granting her unprecedented access to cyberspace and the digital world.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Angie Mitchell began life as a typical girl in a technologically advanced world, but her fate changed drastically after an experimental neurological surgery designed to link her brain directly to cyberspace. This enhancement bestowed her with abilities far beyond average users, making her a subject of interest and exploitation by corporations and governments. Her upbringing is shrouded in mystery and protection, with efforts by multiple parties to harness her unique gifts."
+    },
+    {
+      "title": "Personality",
+      "body": "Angie is characterized by a fusion of youthful innocence and profound intelligence shaped by her cybernetic abilities. She struggles with the boundaries of her identity, caught between human experience and digital transcendence. Although emotionally grounded, her extraordinary access to cyberspace creates moments of isolation and existential questioning. Compassionate and curious, she demonstrates resilience despite the dangers surrounding her."
+    },
+    {
+      "title": "Story Role",
+      "body": "A pivotal character in Mona Lisa Overdrive, Angie becomes a key figure targeted by corporate and criminal factions who wish to control her extraordinary powers. Her journey explores themes of autonomy, human-machine fusion, and the ethics of technological enhancement. Angie's evolving self-awareness and choices drive much of the novel's tension and thematic exploration."
+    },
+    {
+      "title": "Relationships",
+      "body": "She is closely connected with Mona Lisa and interacts with other major characters such as Bobby Newmark and Slick Henry through overlapping storylines. Her relationship with Mona Lisa is particularly significant, blending mentorship, alliance, and shared experience within the cyberpunk milieu."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Angie possesses unparalleled neural connectivity, permitting direct and immersive interfaces with cyberspace. She can access and manipulate data streams intuitively, serving as a living bridge between physical reality and digital realms. Her enhanced cognitive functions include rapid learning, multitasking, and sensory augmentation, but these also leave her vulnerable to psychological stresses."
+    }
+  ],
+  "aliases": [
+    "Angie",
+    "The Kid",
+    "Neurological Interface",
+    "Cybernetic Girl"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "1c7f578f-fd87-4e76-aa99-507b2a12a2f9"
+    },
+    {
+      "type": "ally_of",
+      "target": "3e87b25a-2bdb-44d7-b7d8-8a86e1cc6202"
+    },
+    {
+      "type": "interacts_with",
+      "target": "75ac4040-09ee-4397-bf11-8f7ca29d3b58"
+    }
+  ],
+  "properties": {
+    "age": 16,
+    "enhancements": "Neurological cybernetic implants",
+    "role": "Central figure",
+    "origin": "The Sprawl"
+  },
+  "tags": [
+    "cyberpunk",
+    "cyberspace",
+    "augmented human",
+    "protagonist",
+    "neural interface",
+    "technology"
+  ]
+}

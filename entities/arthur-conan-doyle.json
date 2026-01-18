@@ -1,0 +1,49 @@
+{
+  "id": "7f39ba3a-6b6e-4d3e-8f2b-9b66027320b0",
+  "type": "person",
+  "name": "Arthur Conan Doyle",
+  "description": "Arthur Conan Doyle was a British writer and physician best known for creating the detective Sherlock Holmes.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Arthur Ignatius Conan Doyle was born in 1859 in Edinburgh, Scotland. Initially trained as a physician, he practiced medicine before dedicating himself fully to writing. Doyle's literary career spanned various genres, including historical novels, science fiction, and detective fiction. He became world-famous for his creation of Sherlock Holmes, the master detective character that has had a lasting cultural impact. Beyond fiction, Doyle was also involved in spiritualism and engaged in occasional public advocacy."
+    },
+    {
+      "title": "Career",
+      "body": "Doyle began publishing short stories and novels in the late 19th century, with his early career anchored in historical fiction and medical essays. His career breakthrough was the introduction of Sherlock Holmes in 1887's 'A Study in Scarlet.' Doyle went on to write four novels and over fifty short stories featuring Holmes. Though he grew somewhat weary of the character, feeling it overshadowed his other works, his Holmes stories have become foundational texts in the detective fiction genre. Aside from literature, Doyle served as a ship's doctor, war correspondent, and public speaker."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Conan Doyle's most celebrated works are his Sherlock Holmes stories, including classics such as 'The Sign of the Four,' 'The Hound of the Baskervilles,' and 'The Adventures of Sherlock Holmes.' In addition to detective fiction, he authored historical novels like 'The White Company,' and speculative works such as 'The Lost World,' which characterized early science fiction. His diverse output also included plays, poetry, and essays. Despite his prolific writing, he remains primarily remembered for the Holmes canon."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Conan Doyle's writing style is known for clear, concise narration and intricate plotting, emphasizing logical deduction and scientific reasoning. His creation of Sherlock Holmes pioneered the archetype of the 'consulting detective' and popularized forensic science elements in literature. The character has had profound influence on detective fiction and popular culture globally, inspiring countless adaptations and reinterpretations. Doyle's blend of realism with imaginative storytelling set enduring standards for the mystery genre."
+    }
+  ],
+  "aliases": [
+    "Sir Arthur Conan Doyle",
+    "A. Conan Doyle",
+    "Conan Doyle"
+  ],
+  "relationships": [],
+  "properties": {
+    "birth_year": 1859,
+    "death_year": 1930,
+    "nationality": "British",
+    "occupation": [
+      "Writer",
+      "Physician"
+    ]
+  },
+  "tags": [
+    "writer",
+    "author",
+    "Sherlock Holmes",
+    "detective fiction",
+    "British literature",
+    "19th century",
+    "20th century",
+    "physician"
+  ]
+}

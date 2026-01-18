@@ -1,0 +1,60 @@
+{
+  "id": "4d026f19-4aa6-425d-b701-f06861a0d301",
+  "type": "character",
+  "name": "Tom Hagen",
+  "description": "Tom Hagen is the Corleone family’s adopted consigliere, a calm and intelligent lawyer who serves as an advisor and mediator.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Tom Hagen was adopted by Vito Corleone after being found by the family when he was a child. Raised as a member of the Corleone family despite being of German-Irish descent, he grew up immersed in the crime family's culture. An accomplished lawyer with a formal education, Tom is indispensable as the consigliere—chief advisor and counselor—to Don Vito Corleone. His mixed ethnicity makes him an outsider in the Sicilian mafia world, yet his loyalty and competence earn him respect and trust within the family."
+    },
+    {
+      "title": "Personality",
+      "body": "Calm, pragmatic, and highly intelligent, Tom Hagen exemplifies the ideal consigliere’s characteristics. He rarely allows emotions to cloud his judgment and prefers diplomacy over violence. His demeanor is cool and reserved, helping him mediate internal and external conflicts for the family. Despite his stoicism, he has a strong sense of loyalty and devotion to the Corleones, especially Vito and Michael. His likability and tact make him a stabilizing influence in the often volatile mafia environment."
+    },
+    {
+      "title": "Story Role",
+      "body": "Tom serves as a key figure in the Corleone family’s operations, representing them legally and helping manage their criminal enterprises. He often acts as a bridge between the more violent enforcers and the business-minded leadership. In \"The Godfather\" films, Tom’s role as consigliere is critical during the power transitions after Vito’s decline. He endeavours to safeguard the family’s interests while dealing with rival families, government officials, and internal disputes. His influence wanes somewhat in later films due to Michael’s choices, but his role remains integral."
+    },
+    {
+      "title": "Relationships",
+      "body": "Although not a blood relative, Tom is part of the Corleone family through adoption and loyalty. He maintains a professional and personal closeness with Vito Corleone, serving almost as a surrogate son. His relationship with Michael Corleone is complex, balancing cautious respect and occasional friction. Tom is considered a brother figure to the Corleone sons, including Fredo and Sonny, though Sonny’s more impulsive personality sometimes clashes with Tom’s calm approach. He also has a romantic relationship with a character named Theresa, showing a personal side beyond his official duties."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Tom’s primary attributes are his legal expertise, negotiation skills, and strategic mind. He effectively manages both the legitimate and illicit aspects of the family’s business. His calm demeanor allows him to defuse tensions and negotiate alliances. Additionally, Tom is knowledgeable about business law and criminal law, providing invaluable counsel. Though not a physical enforcer, his intelligence and loyalty make him a vital behind-the-scenes power player in the Corleone organization."
+    }
+  ],
+  "aliases": [
+    "Thomas Hagen",
+    "Consigliere Hagen",
+    "Tom"
+  ],
+  "relationships": [
+    {
+      "type": "family_member",
+      "target": "8f905c9d-5f7b-4f25-8e05-2390cf4b82f8"
+    },
+    {
+      "type": "associate",
+      "target": "c2166eba-8439-4f5e-ad54-862f4de15d44"
+    }
+  ],
+  "properties": {
+    "occupation": "Consigliere",
+    "ethnicity": "German-Irish",
+    "affiliation": "Corleone Family",
+    "education": "Law",
+    "status": "alive"
+  },
+  "tags": [
+    "mafia",
+    "consigliere",
+    "lawyer",
+    "advisor",
+    "Corleone Family",
+    "The Godfather",
+    "fictional character",
+    "film character"
+  ]
+}

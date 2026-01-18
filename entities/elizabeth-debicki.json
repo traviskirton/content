@@ -52,6 +52,10 @@
     {
       "type": "worked_with",
       "target": "18fccbcc-2783-4d1c-8f80-e3bb89891a5c"
+    },
+    {
+      "type": "acted_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
     }
   ],
   "properties": {

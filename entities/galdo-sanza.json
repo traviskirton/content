@@ -1,0 +1,61 @@
+{
+  "id": "884f1aaf-f9d8-42e5-9659-9d3ca5ed684b",
+  "type": "character",
+  "name": "Galdo Sanza",
+  "description": "The younger, more nervous member of the Sanza brothers and a skilled, if somewhat anxious, participant in the Gentleman Bastards’ cons.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Galdo Sanza, younger brother of Calo Sanza, was recruited into the Gentleman Bastards by Father Chains and trained alongside his brother and Locke Lamora. Like his brother, he grew up in the harsh streets of Camorr. Galdo's development into a thief was shaped heavily by his protective bond with Calo and the guidance of Locke and Father Chains. His background is marked by a mix of naivety and growing confidence as he faces the dangers of their deceptive and violent world."
+    },
+    {
+      "title": "Personality",
+      "body": "Galdo is generally more anxious and cautious compared to his brother Calo. He tends to fret over plans going awry and often shows a nervous disposition in tense situations. Despite his wariness, Galdo is eager to prove himself and does not shy from participation or risk when the mission calls for it. This blend of fear and determination adds a level of humanity to the group, illustrating the vulnerabilities behind the group's tough facade."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Lies of Locke Lamora', Galdo acts as a supporting member of the Gentleman Bastards, assisting in their complex heists and cons. His role often involves tasks that require precision, stealth, and subtlety rather than brute force. Galdo's cautious nature contrasts with the impulsive actions of other members, thus providing balance in team dynamics. His growth and experiences reflect a broader coming-of-age theme within the novel’s narrative."
+    },
+    {
+      "title": "Relationships",
+      "body": "Galdo shares a close but sometimes exasperated relationship with his elder brother Calo, who both teases and protects him. He is reliant on Locke and the group for guidance and looks up to Father Chains as a mentor. With the rest of the Gentleman Bastards, he maintains a camaraderie built on shared hardship and mutual necessity."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Galdo possesses talent in stealth, lockpicking, and minor sleight-of-hand techniques crucial for the group’s infiltrations and cons. Although not as physically imposing as Calo, Galdo compensates with keen observation and careful planning. His skills, while less glamorous, are essential for the successful execution of their elaborate schemes."
+    }
+  ],
+  "aliases": [
+    "Galdo",
+    "Sanza"
+  ],
+  "relationships": [
+    {
+      "type": "brother_of",
+      "target": "ca7983bb-5f7b-4a04-b462-eedf8020c491"
+    },
+    {
+      "type": "member_of",
+      "target": "c6f6d659-8f3d-4f92-9ec8-54b0f620b382"
+    },
+    {
+      "type": "companion_of",
+      "target": "3f019f16-8ab2-48ce-8fbc-c9ed7ebc622a"
+    }
+  ],
+  "properties": {
+    "role": "Apprentice Thief",
+    "affiliation": "Gentleman Bastards",
+    "skills": "Stealth, lockpicking",
+    "personality_traits": "Nervous, cautious, loyal",
+    "origin": "Camorr"
+  },
+  "tags": [
+    "fictional character",
+    "gentleman bastards",
+    "con artist",
+    "fantasy",
+    "thief",
+    "brother"
+  ]
+}

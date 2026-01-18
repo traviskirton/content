@@ -1,0 +1,55 @@
+{
+  "id": "dce8d8be-c043-4d4d-b65e-4d909ab2a5e3",
+  "type": "character",
+  "name": "Jill Masterton",
+  "description": "A fashion model who becomes entangled in Goldfinger's schemes and meets a tragic fate in the novel 'Goldfinger.'",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Jill Masterton is a successful fashion model introduced in 'Goldfinger' as one of Auric Goldfinger's mistresses. She represents the lavish and glamorous lifestyle surrounding Goldfinger's wealth, frequently appearing in settings of luxury and social high society. Jill's role, though limited in narrative scope, embodies allure and vulnerability within the dangerous world of espionage."
+    },
+    {
+      "title": "Personality",
+      "body": "Jill is depicted as elegant and charming but somewhat naive to the darker undercurrents of Goldfinger's criminal life. She is caught between loyalty and fear, reflecting the precarious position of those close to powerful villains. Her personality is a mix of sophistication and innocence, which is tragically exploited by Goldfinger."
+    },
+    {
+      "title": "Story Role",
+      "body": "Jill Masterton's story is pivotal in revealing Goldfinger's ruthlessness. She is used as a pawn in a sinister plan, leading to her death by being covered in gold paint, which causes her to suffocate. Her demise serves as a catalyst for Bond's growing resolve against Goldfinger and exemplifies the high stakes and dangers for those entangled with the antagonist."
+    },
+    {
+      "title": "Relationships",
+      "body": "Jill is closely associated with Goldfinger as his mistress, though their relationship is marked by control and manipulation. She has no significant personal connections beyond this, highlighting her isolation and vulnerability. Bond encounters her at a critical moment, and her death indirectly spurs him to take decisive action."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Primarily a fashion model, Jill does not exhibit special skills related to espionage or combat. Her role relies on her social status and allure rather than physical or mental abilities. Her tragic fate underscores the collateral damage of Goldfinger’s ambition."
+    }
+  ],
+  "aliases": [
+    "Jill Masterton",
+    "Goldfinger's Mistress",
+    "Model Jill"
+  ],
+  "relationships": [
+    {
+      "type": "connected_to",
+      "target": "4e891f2e-9b11-4a01-b088-591ade729d5f"
+    },
+    {
+      "type": "appears_in",
+      "target": "71b2b558-39dc-4a5a-bb9a-405f6c94e4f2"
+    }
+  ],
+  "properties": {
+    "occupation": "Fashion Model",
+    "role": "Victim and narrative catalyst",
+    "nationality": "British (implied)"
+  },
+  "tags": [
+    "James Bond character",
+    "model",
+    "victim",
+    "Cold War fiction",
+    "espionage"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "399da7ae-4609-4600-81c5-1e379909a68a",
+  "type": "character",
+  "name": "Great A'Tuin",
+  "description": "The colossal cosmic turtle that carries the Discworld through space, serving as a prime cosmological entity in the Discworld universe.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Great A'Tuin is a gigantic turtle of cosmic proportions who swims through the infinite void carrying on its back the Discworld, a flat planet supported by four enormous elephants. The turtle is central to the mythos of Discworld and represents the universe's fundamental mode of existence. Its slow, steady journey through space is a constant, and tales about it often explore themes of cosmic balance, creation, and the nature of existence itself."
+    },
+    {
+      "title": "Personality",
+      "body": "As a non-anthropomorphic cosmic being, Great A'Tuin has no discernible personality or emotions in the traditional sense. However, its movements and presence are sometimes described in mythic or reverential terms by the inhabitants of Discworld. The turtle is seen as a serene, patient entity embodying timelessness and endurance, with its very existence inspiring awe among those who understand its role."
+    },
+    {
+      "title": "Story Role",
+      "body": "Great A'Tuin functions as the foundation for the entire Discworld series' cosmology, a literal and symbolic base for all events and narratives. While it rarely interacts directly with characters, its movements and existential status occasionally influence plot elements, such as in the rare event of changes in the turtle’s course or the generation of particular cosmic disturbances. It also appears as a symbol for the artistry of Terry Pratchett’s world-building."
+    },
+    {
+      "title": "Relationships",
+      "body": "Great A'Tuin’s most direct connections are with the Four Elephants that stand upon its shell, each supporting the Discworld itself. Its course and speed are intrinsic to the existence of the world it carries. While not sentient in human terms, Great A'Tuin’s role connects indirectly to all characters and organizations on the Discworld as their lives unfold on its back."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Great A'Tuin possesses cosmic endurance, able to carry an entire world literally on its back as it swims through space at a steady pace. It emits a faint, mysterious glow and its presence is entwined with the fabric of the Discworld universe. Its shell serves as a platform for the world, implying a strength and resilience unparalleled in any entity within the setting."
+    }
+  ],
+  "aliases": [
+    "The Cosmic Turtle",
+    "The World Turtle",
+    "Great A'Tuin the Astronomical Turtle",
+    "The Turtle that Swims the Void"
+  ],
+  "relationships": [
+    {
+      "type": "supports",
+      "target": "75d717b3-5f4a-440f-9f89-6dee9cac4229"
+    }
+  ],
+  "properties": {
+    "species": "Giant Cosmic Turtle",
+    "size": "Colossal",
+    "role": "Cosmological entity",
+    "movement": "Swimming through space",
+    "associated_world": "Discworld"
+  },
+  "tags": [
+    "cosmology",
+    "mythological",
+    "entity",
+    "Discworld",
+    "turtle",
+    "fantasy",
+    "symbolic"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "ce8943af-4d82-4e8a-86b0-f0fa30b71877",
+  "type": "character",
+  "name": "Gaal Dornick",
+  "description": "Gaal Dornick is a young mathematician and early disciple of Hari Seldon, serving as the narrator and protagonist in parts of the Foundation story.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Gaal Dornick originates from a small planet and arrives on Trantor at the beginning of the series. He quickly becomes involved with Hari Seldon’s psychohistorical project and participates in critical moments relating to the establishment and defense of the Foundation. His role bridges the audience into Asimov's vast universe as a relatable newcomer."
+    },
+    {
+      "title": "Personality",
+      "body": "Dornick is curious, idealistic, and prone to youthful enthusiasm tempered by rapid maturation through exposure to galactic political realities. His analytical mind complements Seldon's, but he also exhibits skepticism and human empathy, traits that enable him to navigate complex scenarios involving both science and politics."
+    },
+    {
+      "title": "Story Role",
+      "body": "As one of the first human perspectives in the series, Dornick functions as a narrative anchor for readers. He witnesses and aids pivotal developments in the psychohistory project and the nascent stages of the Foundation. His adventures and struggles highlight the challenges inherent in wielding predictive power."
+    },
+    {
+      "title": "Relationships",
+      "body": "Dornick is a protégé of Hari Seldon and works closely with other key figures in the Foundation’s early period. His interactions include political leaders, scientists, and traders, illustrating how individuals influence and are influenced by systemic transformations. Dornick’s personal growth is interwoven with the Foundation’s evolution."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Gaal Dornick possesses strong mathematical and scientific aptitude, which serves as the basis for his involvement with psychohistory. His ability to analyze complex data and adapt to rapidly changing socioeconomic landscapes marks him as a valuable asset in the Foundation’s survival and growth."
+    }
+  ],
+  "aliases": [
+    "Dr. Dornick",
+    "Gaal",
+    "Young mathematician",
+    "Seldon disciple"
+  ],
+  "relationships": [
+    {
+      "type": "created_by",
+      "target": "a7d81242-1f49-4f49-bc68-9bb3f929d6e5"
+    },
+    {
+      "type": "appears_in",
+      "target": "7fd2fc7e-9c20-4c82-a5d5-9357db638226"
+    },
+    {
+      "type": "featured_in_franchise",
+      "target": "f0d9fb2a-0f3e-446a-9a1d-2db988b68967"
+    },
+    {
+      "type": "student_of",
+      "target": "cc15c2e4-13b8-4e1b-867e-112f66a93662"
+    },
+    {
+      "type": "appears_in",
+      "target": "f0d9fb2a-0f3e-446a-9a1d-2db988b68967"
+    }
+  ],
+  "properties": {
+    "occupation": "Mathematician",
+    "origin_planet": "Small agricultural world",
+    "role": "Narrator, Protagonist",
+    "affiliation": "Foundation",
+    "traits": [
+      "analytical",
+      "idealistic",
+      "adaptive"
+    ]
+  },
+  "tags": [
+    "fictional character",
+    "science fiction",
+    "mathematician",
+    "narrator",
+    "protégé",
+    "Foundation"
+  ]
+}

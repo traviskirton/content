@@ -1,0 +1,55 @@
+{
+  "id": "2ca0b2db-80a0-4861-8dcb-ecb89f2be3ae",
+  "type": "character",
+  "name": "Mrs. Barrymore",
+  "description": "Mrs. Barrymore is the housekeeper of Baskerville Hall, involved in underlying family secrets and emotional tensions related to her escaped convict brother.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Mrs. Barrymore serves as the housekeeper at Baskerville Hall, dedicated to managing domestic affairs with efficiency and care. She is also marked by personal turmoil, as she secretly shelters her brother, Selden, an escaped convict hiding on the moor. Her familial loyalty clashes with her duties, creating a poignant internal conflict within the story."
+    },
+    {
+      "title": "Personality",
+      "body": "Mrs. Barrymore exhibits a mix of sternness and maternal concern, especially noticeable in her protective attitude toward her brother Selden. Her outward conduct is of a dutiful housekeeper, maintaining order and routine. However, moments of vulnerability reveal her deep anxieties and guilt over harboring a fugitive, demonstrating emotional complexity beneath her composed façade."
+    },
+    {
+      "title": "Story Role",
+      "body": "Her role is vital as she inadvertently contributes to the mystery by concealing her brother and maintaining secret communications on the moor, which adds layers to the investigation. Mrs. Barrymore’s actions, though hidden at times, provide crucial clues that help the protagonists understand the dangers surrounding Baskerville Hall and the bizarre happenings on the moor."
+    },
+    {
+      "title": "Relationships",
+      "body": "She is married to Barrymore, the butler, and together they protect Selden, her brother. Her familial loyalty to Selden complicates her relationship with the Baskerville family and their guests, particularly as the investigation progresses. Her interactions with Dr. Watson and Sherlock Holmes grow cautious and defensive as suspicions arise."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Mrs. Barrymore’s proficiency lies in managing the household and navigating delicate personal and family matters. Her understanding of the moor’s dangers and her discretion in hiding Selden highlight her ability to maintain secrecy under pressure. While not active in the direct investigation, her maintenance of covert actions and emotional endurance are instrumental to the unfolding drama."
+    }
+  ],
+  "aliases": [
+    "Mrs Barrymore",
+    "Housekeeper Barrymore"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "6b525adb-abf4-4c6a-a488-86cb0385e1b6"
+    },
+    {
+      "type": "related_to",
+      "target": "993c3efb-0ba0-4791-9ebb-1e9d581a4e6b"
+    }
+  ],
+  "properties": {
+    "position": "Housekeeper",
+    "family": "Sister to Selden",
+    "employment": "Baskerville Hall"
+  },
+  "tags": [
+    "Supporting character",
+    "The Hound of the Baskervilles",
+    "Housekeeper",
+    "Victorian Era",
+    "Family Loyalty",
+    "Arthur Conan Doyle"
+  ]
+}

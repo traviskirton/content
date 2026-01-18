@@ -1,0 +1,58 @@
+{
+  "id": "3a76246b-22a4-465f-baec-2d9927e7976f",
+  "type": "person",
+  "name": "Scott Forstall",
+  "description": "Scott Forstall is a former Apple executive best known for leading the development of iOS, the operating system powering the iPhone and iPad.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Scott Forstall studied symbolic systems at Stanford University before joining Apple in 1997. He rose to prominence as an influential software executive, leading the team that created iOS. Forstall’s work was foundational in defining the user experience for Apple’s mobile devices, contributing to the company’s success in the smartphone and tablet markets. He departed Apple in 2012 after a long and impactful career."
+    },
+    {
+      "title": "Career",
+      "body": "During his tenure at Apple, Forstall was responsible for pioneering the development of iOS, starting with the software that supported the original iPhone launch. He oversaw software engineering teams that crafted the intuitive touch user interface and app ecosystem. Besides iOS, Forstall was involved in several other software projects integral to Apple’s product lines, including Siri and Maps. His leadership helped Apple transition from desktop-focused to mobile-first computing."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Forstall’s most significant achievement is leading the development and launch of iOS, which reshaped the mobile industry and created one of the most successful platform ecosystems in history. His role also included work in system software and pivotal UI frameworks that enabled third-party app development. These innovations have become core to today’s mobile computing experience."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Known for his deep software knowledge and managerial acumen, Forstall was influential in blending engineering rigor with product design. His insistence on seamless, intuitive user interaction helped define Apple’s mobile user experience. Though his career ended amid controversies surrounding Maps, his influence remains embedded in the architecture and philosophy of iOS."
+    }
+  ],
+  "aliases": [
+    "Scott",
+    "Scott Forstall (Apple)",
+    "Apple Software Executive"
+  ],
+  "relationships": [
+    {
+      "type": "colleague_of",
+      "target": "9e40ec6e-f1a6-4f68-9d3a-91e7c723a2f3"
+    },
+    {
+      "type": "colleague_of",
+      "target": "99283c2e-43a3-479f-9fb9-16abbf1a1084"
+    },
+    {
+      "type": "colleague_of",
+      "target": "2f58f7fb-3084-4fa4-8e3c-1779f5beabc1"
+    }
+  ],
+  "properties": {
+    "birth_year": 1969,
+    "occupation": "Software Executive",
+    "employer": "Apple Inc.",
+    "years_active_at_Apple": "1997-2012"
+  },
+  "tags": [
+    "Apple",
+    "iOS",
+    "mobile operating system",
+    "software engineering",
+    "user interface",
+    "technology executive",
+    "product development"
+  ]
+}

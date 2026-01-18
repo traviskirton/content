@@ -1,0 +1,64 @@
+{
+  "id": "99283c2e-43a3-479f-9fb9-16abbf1a1084",
+  "type": "person",
+  "name": "Steve Jobs",
+  "description": "Steve Jobs was the co-founder and visionary leader of Apple Inc., widely recognized for revolutionizing technology and consumer electronics.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Steve Jobs was born in 1955 in San Francisco, California, and went on to co-found Apple Inc. in 1976. He was a pioneering entrepreneur and business magnate who played a major role in the personal computer revolution and transformed several industries, including computing, music, phones, and digital publishing. Known for his charismatic leadership and relentless perfectionism, Jobs’ vision shaped some of the most iconic products in modern history before his passing in 2011."
+    },
+    {
+      "title": "Career",
+      "body": "Jobs’ career at Apple was marked by breakthrough innovations such as the Apple II, Macintosh, iPod, iPhone, and iPad. After being ousted from Apple in 1985, he founded NeXT and acquired Pixar, growing the latter into a leading animation studio. His return to Apple in 1997 marked a renaissance for the company, leading to unprecedented profitability and creative leaps. Throughout his career, Jobs emphasized simplicity, design elegance, and integration of hardware and software."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Steve Jobs was behind revolutionary products including the Macintosh computer, the iPod digital music player, the iPhone smartphone, and the iPad tablet. He also influenced digital distribution with iTunes and revolutionized mobile app ecosystems with the App Store. His unique ability to anticipate consumer needs and drive teams to deliver exceptional products set a new standard in technology."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Jobs was known for his charismatic and sometimes demanding leadership style, blending visionary ideas with a focus on detail. His insistence on excellence and innovation influenced not just Apple but the entire tech industry, inspiring countless entrepreneurs and designers. His impact extends beyond technology into popular culture and business philosophy."
+    }
+  ],
+  "aliases": [
+    "Steve",
+    "Steven Paul Jobs",
+    "Apple Co-founder",
+    "Apple Visionary"
+  ],
+  "relationships": [
+    {
+      "type": "colleague_of",
+      "target": "9e40ec6e-f1a6-4f68-9d3a-91e7c723a2f3"
+    },
+    {
+      "type": "colleague_of",
+      "target": "3a76246b-22a4-465f-baec-2d9927e7976f"
+    },
+    {
+      "type": "colleague_of",
+      "target": "2f58f7fb-3084-4fa4-8e3c-1779f5beabc1"
+    }
+  ],
+  "properties": {
+    "birth_year": 1955,
+    "death_year": 2011,
+    "occupation": "Entrepreneur, CEO",
+    "notable_organizations": [
+      "Apple Inc.",
+      "NeXT",
+      "Pixar"
+    ]
+  },
+  "tags": [
+    "technology",
+    "Apple",
+    "entrepreneur",
+    "innovator",
+    "business leader",
+    "product design",
+    "personal computing",
+    "digital revolution"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source": "Mona Lisa Overdrive",
+  "entities": [
+    {
+      "type": "book",
+      "name": "Mona Lisa Overdrive"
+    },
+    {
+      "type": "character",
+      "name": "Mona Lisa"
+    },
+    {
+      "type": "character",
+      "name": "Angie Mitchell"
+    },
+    {
+      "type": "character",
+      "name": "Bobby Newmark"
+    },
+    {
+      "type": "character",
+      "name": "Slick Henry"
+    },
+    {
+      "type": "character",
+      "name": "Kumiko Yanaka"
+    },
+    {
+      "type": "character",
+      "name": "Sally Shears"
+    },
+    {
+      "type": "location",
+      "name": "Dog Solitude"
+    },
+    {
+      "type": "location",
+      "name": "The Sprawl (Mona Lisa)"
+    },
+    {
+      "type": "location",
+      "name": "London (Mona Lisa)"
+    },
+    {
+      "type": "organization",
+      "name": "Sense/Net"
+    },
+    {
+      "type": "item",
+      "name": "Aleph"
+    }
+  ]
+}

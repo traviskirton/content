@@ -1,0 +1,54 @@
+{
+  "id": "26e02d7a-9c1a-4384-9fee-89591f0c7261",
+  "type": "item",
+  "name": "Rosa Klebb's Poison Shoe",
+  "description": "A deadly weapon concealed in the shoe of Rosa Klebb, an antagonist in 'From Russia with Love' and an agent of SPECTRE.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Rosa Klebb's Poison Shoe is a signature assassination device used by the cold and ruthless SPECTRE operative Rosa Klebb. Concealed within the toe or sole of her footwear, it contains a hidden blade coated or mechanically injected with a lethal toxin enabling silent, close-quarters attacks. The shoe reflects Klebb's cunning and willingness to use subtle but deadly means to eliminate threats."
+    },
+    {
+      "title": "Appearance",
+      "body": "At first glance, the shoe appears as an ordinary, well-made leather shoe suited for formal occasions, typically a pump or flat. Close inspection reveals a thin, curved blade or needle protruding from the toe area, designed to be discreet and quick to deploy during a struggle or assassination attempt."
+    },
+    {
+      "title": "Function",
+      "body": "The secret weapon is triggered by Klebb through foot movements, puncturing the victim with the poisoned blade. The toxin is highly potent, causing rapid paralysis or death, ensuring that targets do not survive or raise alarms. This mechanism serves as an effective tool for close combat, espionage, and quiet elimination."
+    },
+    {
+      "title": "History",
+      "body": "The poison shoe is introduced in Ian Fleming's novel and the film adaptation of 'From Russia with Love' as part of Klebb's arsenal. It evokes the archetype of concealed weapons in espionage fiction, symbolizing hidden dangers under civilized facades. The ingenuity of the device cemented its place as one of the iconic spy gadgets and villainous tools in the Bond series."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In the narrative, Klebb's poison shoe is instrumental in key confrontations with James Bond, illustrating her lethal effectiveness and the constant peril Bond faces. The device encapsulates the themes of deception, danger, and the deadly intrigue that permeate 'From Russia with Love'."
+    }
+  ],
+  "aliases": [
+    "Klebb's Poisoned Shoe",
+    "Poisoned Stiletto",
+    "Deadly Shoe Weapon"
+  ],
+  "relationships": [
+    {
+      "type": "used_by",
+      "target": "76a02ca0-5c12-42a8-ad97-4ae1666d6a3d"
+    }
+  ],
+  "properties": {
+    "type": "Concealed weapon",
+    "user": "Rosa Klebb",
+    "mechanism": "Poisoned blade concealed in shoe",
+    "origin": "Fictional, James Bond series"
+  },
+  "tags": [
+    "item",
+    "weapon",
+    "conspiracy",
+    "James Bond",
+    "SPECTRE",
+    "espionage gadget",
+    "assassination"
+  ]
+}

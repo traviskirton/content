@@ -1,0 +1,61 @@
+{
+  "id": "08b837a1-cb97-416b-bd69-ef0389b0f4b0",
+  "type": "item",
+  "name": "Nuclear Power (Foundation)",
+  "description": "A pivotal technological resource leveraged by the Foundation to assert influence and maintain dominance in a technologically regressive galaxy.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Nuclear power in the Foundation series is a scarce and highly controlled resource that underpins the Foundation's technological superiority. In a galaxy where advanced technology has largely been lost or suppressed, the Foundation’s monopoly over nuclear energy provides both industrial power and military advantage, crucial in maintaining its autonomy and fulfilling the Seldon Plan."
+    },
+    {
+      "title": "Function",
+      "body": "Primarily, nuclear power is harnessed for propulsion, energy generation, and weaponry. The Foundation uses nuclear reactors for energy self-sufficiency on Terminus and surrounding territories. Militarily, nuclear weapons provide deterrence and leverage during political conflicts, allowing the Foundation to project force despite its relatively small population base and limited conventional armies."
+    },
+    {
+      "title": "History",
+      "body": "After the fall of the Galactic Empire, much technological knowledge was lost. The Foundation deliberately preserved nuclear technology as a guarded secret during the early stages of its development, establishing nuclear dominance over neighboring barbaric kingdoms. This technological edge was a foundation stone for its initial survival and its rise to regional supremacy."
+    },
+    {
+      "title": "Appearance and Description",
+      "body": "Nuclear power plants and weapons in the Foundation universe are described as advanced yet limited compared to the Empire’s heyday. Nuclear reactors are enclosed, shielded complexes designed for safety and efficiency, while nuclear weapons are compact but powerful devices employed strategically rather than as common ordnance."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Nuclear power symbolizes the Foundation’s strategy of controlled technological superiority as a means of influence during the Galactic decline. It also embodies themes of technological stewardship and the ethical considerations of power in the hands of a select few. The monopoly on nuclear power is often a plot device reflecting tension between progress and stagnation in the galaxy."
+    }
+  ],
+  "aliases": [
+    "Foundation Nuclear Technology",
+    "Atomic Energy (Foundation)",
+    "Nuclear Monopoly",
+    "Foundation Atomic Power"
+  ],
+  "relationships": [
+    {
+      "type": "utilized_by",
+      "target": "eb917d41-36a2-41b8-bbbc-28e5be5c80a7"
+    }
+  ],
+  "properties": {
+    "technology_level": "Post-Imperial High",
+    "resource_control": "Monopoly",
+    "uses": [
+      "Energy",
+      "Propulsion",
+      "Weaponry"
+    ],
+    "impact": "Strategic superiority",
+    "location": "Terminus and controlled territories"
+  },
+  "tags": [
+    "nuclear power",
+    "technology",
+    "Foundation",
+    "science fiction",
+    "energy",
+    "weaponry",
+    "Isaac Asimov",
+    "galactic empire"
+  ]
+}

@@ -30,6 +30,10 @@
     {
       "type": "located_in",
       "target": "3b52879a-7129-4f5c-9e15-60d01eb9c0da"
+    },
+    {
+      "type": "contains",
+      "target": "4f39b6e0-1234-4c7a-b545-7c58d2f87acd"
     }
   ],
   "properties": {

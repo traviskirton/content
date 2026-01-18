@@ -1,0 +1,69 @@
+{
+  "source": "Back to the Future Part III",
+  "entities": [
+    {
+      "type": "movie",
+      "name": "Back to the Future Part III"
+    },
+    {
+      "type": "location",
+      "name": "Hill Valley 1885"
+    },
+    {
+      "type": "location",
+      "name": "Palace Saloon"
+    },
+    {
+      "type": "location",
+      "name": "Hill Valley Festival"
+    },
+    {
+      "type": "location",
+      "name": "Shonash Ravine"
+    },
+    {
+      "type": "location",
+      "name": "Hill Valley Train Station"
+    },
+    {
+      "type": "location",
+      "name": "Boot Hill Cemetery"
+    },
+    {
+      "type": "location",
+      "name": "Blacksmith Shop"
+    },
+    {
+      "type": "character",
+      "name": "Clara Clayton"
+    },
+    {
+      "type": "character",
+      "name": "Buford Tannen"
+    },
+    {
+      "type": "character",
+      "name": "Seamus McFly"
+    },
+    {
+      "type": "character",
+      "name": "Maggie McFly"
+    },
+    {
+      "type": "character",
+      "name": "Marshal James Strickland"
+    },
+    {
+      "type": "vehicle",
+      "name": "Jules Verne Train"
+    },
+    {
+      "type": "item",
+      "name": "Tombstone"
+    },
+    {
+      "type": "item",
+      "name": "Frisbee Pie Tin"
+    }
+  ]
+}

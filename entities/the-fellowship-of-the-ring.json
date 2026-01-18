@@ -1,0 +1,62 @@
+{
+  "id": "84e7f1c5-bebb-48e2-a6e2-652ada2e67a4",
+  "type": "book",
+  "name": "The Fellowship of the Ring",
+  "description": "The first volume of J.R.R. Tolkien’s The Lord of the Rings trilogy, introducing the quest to destroy the One Ring.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Published in 1954, The Fellowship of the Ring is the opening installment of The Lord of the Rings. It sets the stage for the epic journey undertaken by Frodo Baggins and his companions as they seek to destroy the One Ring, an evil artifact with the power to enslave Middle-earth. The narrative mixes themes of friendship, sacrifice, and the struggle against dark forces."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "The story follows Frodo Baggins, a Hobbit from the Shire, who inherits the One Ring from his uncle Bilbo. Guided by the wizard Gandalf, Frodo forms a Fellowship with eight others, including Men, Elves, a Dwarf, and fellow Hobbits, to journey toward Mordor to destroy the Ring in the fires of Mount Doom. Their journey is fraught with danger from Sauron’s forces and treachery within."
+    },
+    {
+      "title": "Themes",
+      "body": "The Fellowship of the Ring explores themes of unity amidst diversity, the burden of responsibility, courage in the face of overwhelming darkness, and the loss of innocence. It also embodies the importance of hope and perseverance, as well as the moral dilemmas associated with power and temptation."
+    },
+    {
+      "title": "Reception",
+      "body": "Upon its release, the book was met with critical praise though also some divided opinions due to its dense mythology and language style. Over time, it has been acclaimed as a masterpiece and essential reading in fantasy literature. It has inspired numerous adaptations, including an award-winning film version directed by Peter Jackson."
+    },
+    {
+      "title": "Legacy",
+      "body": "The Fellowship of the Ring set the tone for the entire Lord of the Rings saga. Its rich world-building, character development, and mythic storytelling continue to attract and influence readers, writers, and fans. The book remains a cornerstone in the fantasy genre and a cultural touchstone for heroic adventure storytelling."
+    }
+  ],
+  "aliases": [
+    "The Fellowship",
+    "LOTR: Fellowship",
+    "The Lord of the Rings Book 1"
+  ],
+  "relationships": [
+    {
+      "type": "part_of_franchise",
+      "target": "3f2a8ac1-8265-4be2-b147-af56f003de51"
+    },
+    {
+      "type": "written_by",
+      "target": "6c3edb3b-1c68-4f0f-9ed9-952d3e7acb6e"
+    },
+    {
+      "type": "features_character",
+      "target": "54f1428a-e4ca-4096-9a5e-8d7d3c6a7e2b"
+    }
+  ],
+  "properties": {
+    "publication_year": 1954,
+    "genre": "High Fantasy",
+    "pages": 423,
+    "original_language": "English",
+    "publisher": "Allen & Unwin"
+  },
+  "tags": [
+    "fantasy",
+    "classic",
+    "adventure",
+    "middle-earth",
+    "J.R.R. Tolkien",
+    "novel"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "0b7f24db-3e63-4ceb-9a56-29d3d214b21c",
+  "type": "location",
+  "name": "Osgiliath",
+  "description": "A ruined and contested city on the River Anduin, once the capital of Gondor and a critical battlefield in 'The Two Towers'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Osgiliath is an ancient city located on both banks of the River Anduin, serving as the former capital of the kingdom of Gondor. Once a glorious hub of commerce and governance, by the time of 'The Two Towers,' it has become a battlefield and ruin, fiercely contested between the forces of Gondor and those of Sauron’s allied armies. The city’s strategic position at the river crossing makes it crucial for controlling access between different regions of Gondor."
+    },
+    {
+      "title": "Appearance",
+      "body": "Osgiliath is a sprawling ruin divided by the wide Anduin River. The city is characterized by ruined walls, crumbled towers, and shattered buildings that show signs of heavy siege and battle. Bridges cross the river, with the eastern and western sides under fierce conflict. The city’s atmosphere is one of despair and decay, illustrating the toll that the long war has taken on Gondor’s former glory and highlighting its precarious position under threat."
+    },
+    {
+      "title": "History",
+      "body": "Osgiliath was once the capital city of Gondor, a symbol of its power and culture during the kingdom’s zenith. Over time, the city suffered numerous assaults and devastations, especially during the Third Age as Mordor’s influence grew. By the War of the Ring, Osgiliath had become strategically critical but neglected, frequently changing hands in bloody conflict. The battle for Osgiliath in 'The Two Towers' underscores the desperate struggle of Gondor to hold its lands against Sauron's armies and preserve its legacy."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'The Two Towers,' Osgiliath represents the front line of Gondor’s defense and the growing threat from Mordor.<br>The city’s fall and recapture depict the ongoing and costly war that sets the stage for the later Siege of Minas Tirith. Osgiliath’s contested control highlights the urgency and danger facing the free peoples of Middle-earth, underpinning themes of resilience and sacrifice. Its ruins serve as a stark reminder of the decaying might of Gondor and the rising shadow of evil."
+    }
+  ],
+  "aliases": [
+    "Capital of Gondor (former)",
+    "City on the Anduin",
+    "Ruined City",
+    "Fortress of Gondor"
+  ],
+  "relationships": [],
+  "properties": {
+    "river": "Anduin",
+    "status": "Ruined and contested",
+    "former_capital": true,
+    "strategic_importance": "High"
+  },
+  "tags": [
+    "Middle-earth",
+    "City",
+    "Gondor",
+    "The Two Towers",
+    "Ruins",
+    "Battle",
+    "War of the Ring",
+    "Fantasy"
+  ]
+}

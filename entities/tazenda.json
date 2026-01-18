@@ -1,0 +1,47 @@
+{
+  "id": "e2b7d1f4-8f5f-4bca-8c03-4847b76a9c30",
+  "type": "location",
+  "name": "Tazenda",
+  "description": "Tazenda is a remote and sparsely populated planet known for its natural resources and strategic location within the Foundation universe.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Tazenda is a distant planet featured in the Foundation saga, distinguished by its rugged terrain and abundant raw materials. Despite its sparse population, the planet holds strategic importance due to its position and resource wealth that various factions seek to exploit."
+    },
+    {
+      "title": "Appearance",
+      "body": "The surface of Tazenda is largely untamed wilderness with expansive plains, mountainous regions, and scattered settlements. Unlike more developed centers, its communities tend to be small and primarily focused on extracting and exporting key minerals and resources."
+    },
+    {
+      "title": "History",
+      "body": "Historically, Tazenda has remained marginal in the galactic political arena but was later drawn into broader conflicts as industrial and political powers sought control over its natural wealth. Its isolation delayed major development, but it eventually became a contested asset in the struggle for control between the Foundation and other factions."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Within Asimov's universe, Tazenda plays a role in highlighting the far-reaching influence of the Foundation and its rivals as they expand their control and resource base. It serves as an example of a planetary system whose potential is unlocked through political maneuvering and economic development."
+    }
+  ],
+  "aliases": [
+    "Planet Tazenda",
+    "Tazenda System"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "f0d9fb2a-0f3e-446a-9a1d-2db988b68967"
+    }
+  ],
+  "properties": {
+    "type": "Resource-rich Planet",
+    "population": "Sparse",
+    "government": "Local Council"
+  },
+  "tags": [
+    "Foundation",
+    "Planet",
+    "Resources",
+    "Science Fiction",
+    "Tazenda",
+    "Isaac Asimov"
+  ]
+}

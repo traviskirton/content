@@ -1,0 +1,58 @@
+{
+  "id": "4f0b7e38-bb3c-4d69-b45a-01221d151a7c",
+  "type": "item",
+  "name": "The Bell-Pull",
+  "description": "A fake bell-pull in the Stoner sisters' bedroom used deceptively as part of Dr. Roylott's murder mechanism.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Bell-Pull is a seemingly ordinary cord in the bedroom of Helen Stoner in The Adventure of the Speckled Band. While it appears to be a functional bell used to summon servants, it is in fact a dummy, lacking the usual mechanism to ring a bell. This fake bell-pull plays a vital role in Dr. Roylott’s sinister arrangement, allowing a deadly snake to crawl along it into the victim’s bedchamber."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Bell-Pull hangs near the bed in the lady’s bedroom, fashioned as a simple cord similar in style to a normal bell-pull but lacking any hardware or ringing device. It ends in a frayed or loose cord, plainly visible when closely inspected but easily mistaken for an authentic bell cord by visitors or residents unaware of the deception. Its appearance is deliberately innocuous to avoid scrutiny."
+    },
+    {
+      "title": "Function",
+      "body": "Functionally, the Bell-Pull is non-functional in regard to summoning help; instead, it serves as a climbing pathway or rail for the venomous swamp adder snake to descend from the ventilator directly onto the bed or close proximity to the victim. This setup allowed Dr. Roylott to control the snake’s movements silently at night, enabling his murderous plan to go unnoticed until the fatal attack."
+    },
+    {
+      "title": "History",
+      "body": "Installed as part of Dr. Roylott's calculated murder apparatus, the bell-pull was placed when renovating the Victorian mansion Stoke Moran. It was cleverly designed to mislead guests and residents alike, blending into the room’s décor and daily usage environment. The bell-pull’s history is inseparably linked with the tragic deaths and narrow escapes experienced by the Stoner sisters."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The bell-pull is a critical clue for Sherlock Holmes in unraveling the mystery of the 'speckled band'. Its non-functionality and suspicious position adjacent to the ventilator leads Holmes to deduce the method by which the snake was delivered to attack the victims at night. This false bell-pull is emblematic of the story’s themes of deception and hidden danger, integral to the suspense and ultimate resolution."
+    }
+  ],
+  "aliases": [
+    "Fake Bell Cord",
+    "Dummy Bell-Pull",
+    "False Bell-Pull",
+    "Bell Cord"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "7b9b54fe-410e-44c3-b790-9957c11db367"
+    },
+    {
+      "type": "used_by",
+      "target": "3b5a0728-8cee-4d05-bc8f-cf2ff0915de7"
+    }
+  ],
+  "properties": {
+    "material": "Cord / Rope",
+    "location": "Helen Stoner's bedroom",
+    "function": "Dummy bell for snake traversal",
+    "year_installed": "Late 19th century"
+  },
+  "tags": [
+    "The Adventure of the Speckled Band",
+    "Sherlock Holmes",
+    "Murder Device",
+    "Victorian Era",
+    "Hidden Mechanism",
+    "Mystery"
+  ]
+}

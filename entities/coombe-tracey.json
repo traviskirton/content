@@ -1,0 +1,56 @@
+{
+  "id": "44d8b169-49be-4dfa-9142-e639f3c5e09b",
+  "type": "location",
+  "name": "Coombe Tracey",
+  "description": "A rural village in Devon, England, serving as the atmospheric setting near the Baskerville estate in 'The Hound of the Baskervilles'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Coombe Tracey is a quaint village located in the county of Devon, characterized by its pastoral charm and moorland surroundings. It evokes a quintessential English rural environment, marked by a close-knit community and an air of isolation that contributes to an eerie, suspenseful atmosphere critical to the narrative of 'The Hound of the Baskervilles'. Its proximity to the mysterious and foreboding moors makes it a key geographical feature that shapes the events unfolding in the story."
+    },
+    {
+      "title": "Appearance",
+      "body": "The village is depicted as surrounded by rolling hills, scattered farms, and dense woods, with an old church and modest cottages lining narrow, winding roads. Fog and mist frequently settle over the area, lending a gloomy and mysterious quality that complements the supernatural folklore surrounding the hound. The bleak and wild moorland in close proximity is dominated by heath, bogs, and sporadic rocky outcrops, creating a forbidding and almost otherworldly backdrop."
+    },
+    {
+      "title": "History",
+      "body": "Historically, Coombe Tracey is known for its agricultural roots and longstanding rural heritage. In the context of the story, it serves as a common refuge and hub for local residents and key characters, with its historical ambiance reinforcing the narrative’s linkage to ancient family curses and ancestral secrets. The village's folklore and local superstitions about the Baskerville curse are passed down by its inhabitants, influencing community behavior and attitudes."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Within 'The Hound of the Baskervilles', Coombe Tracey is crucial as the nearest settlement to Baskerville Hall and the moor where the mysterious hound is reputed to roam. Several characters are residents or visitors here, making it a focal point for interactions, investigations, and the unraveling of the plot by Sherlock Holmes and Dr. Watson. The village’s isolating qualities and its moorland setting amplify the suspense, mystery, and Gothic elements of the story."
+    }
+  ],
+  "aliases": [
+    "Coombe",
+    "Coombe Tracey Village",
+    "Coombe Marsh"
+  ],
+  "relationships": [
+    {
+      "type": "located_near",
+      "target": "c0ef8e54-8441-43d5-89cf-cf5d88044e72"
+    },
+    {
+      "type": "located_near",
+      "target": "f78d39a2-0e99-4b88-bd5f-aca093abfd8d"
+    }
+  ],
+  "properties": {
+    "region": "Devon",
+    "country": "England",
+    "type": "village",
+    "terrain": "Moorland",
+    "climate": "Temperate Oceanic"
+  },
+  "tags": [
+    "location",
+    "England",
+    "village",
+    "moorland",
+    "fictional setting",
+    "mystery",
+    "Gothic",
+    "rural"
+  ]
+}

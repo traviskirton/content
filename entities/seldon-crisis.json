@@ -1,0 +1,61 @@
+{
+  "id": "4e6c3f79-072d-4b10-8c87-cc7f5244c7cd",
+  "type": "item",
+  "name": "Seldon Crisis",
+  "description": "Critical turning points in the Seldon Plan where the Foundation faces existential threats that test its survival and the psychohistorical predictions.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "A Seldon Crisis is a pivotal event forecasted within the Seldon Plan wherein the Foundation encounters dire political, military, or economic challenges. These crises are designed to force the Foundation to make crucial decisions that shape its ultimate trajectory. Successfully navigating these crises ensures the overall plan remains on course."
+    },
+    {
+      "title": "Characteristics",
+      "body": "Each Seldon Crisis is characterized by heightened tension, constrained resources, and strategic dilemmas requiring innovative thinking and sacrifice. They tend to unify or fracture societies, propagate new leadership, and precipitate systemic changes. The crises are improbable to resolve by straightforward power or brute force, requiring nuanced tactics aligned with psychohistorical expectations."
+    },
+    {
+      "title": "History",
+      "body": "The recorded Seldon Crises begin shortly after the Foundation's formation on Terminus and reoccur periodically. Each crisis correlates with specific holographic messages from the Time Vault, unveiling solutions or warnings. These crises demonstrate the tension between determinism and randomness within psychohistory, where unforeseen variables can destabilize the prediction."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Seldon Crises function as structured narrative arcs driving political intrigue, social upheaval, and character development across the Foundation series. They highlight the interplay between individual action and collective destiny, and often serve as moments where the Foundation's true nature and the potential deviations from the Plan are explored."
+    },
+    {
+      "title": "Notable Crises",
+      "body": "Some famous Seldon Crises include the first political threat from the Four Kingdoms, the rise of the Foundation's religious influence as a form of control, and external military threats such as those from the Mule. Each crisis challenges the plan's assumptions and forces recalibration, underscoring the fragility and adaptability of psychohistory."
+    }
+  ],
+  "aliases": [
+    "Crisis Points",
+    "Seldon's Turning Points",
+    "Foundation Crises",
+    "Psychohistorical Crises"
+  ],
+  "relationships": [
+    {
+      "type": "manifestation_of",
+      "target": "eb917d41-36a2-41b8-bbbc-28e5be5c80a7"
+    },
+    {
+      "type": "revealed_by",
+      "target": "97ec55e8-e0ac-4e45-bfa7-d2d1795a02a1"
+    }
+  ],
+  "properties": {
+    "occurrence_frequency": "Irregular",
+    "nature": "Political/Military/Economic",
+    "impact": "Existential",
+    "predictability": "High but not absolute",
+    "relation_to_foundation": "Survival test"
+  },
+  "tags": [
+    "psychohistory",
+    "crisis",
+    "Foundation",
+    "galactic empire",
+    "Isaac Asimov",
+    "strategy",
+    "science fiction",
+    "historical turning points"
+  ]
+}

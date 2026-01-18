@@ -1,0 +1,68 @@
+{
+  "id": "8123d0b0-c6c4-4aec-847b-44a52a84d253",
+  "type": "item",
+  "name": "iPhone Keyboard",
+  "description": "The iPhone Keyboard is the virtual on-screen keyboard designed for Apple’s iPhone, pioneering touch-based text input.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The iPhone Keyboard is a software-based virtual keyboard that replaced physical keyboards on smartphones when first introduced with the original iPhone in 2007. It enabled fingertip typing on a capacitive touchscreen, fundamentally changing mobile texting and UI design."
+    },
+    {
+      "title": "Appearance",
+      "body": "Visually, the keyboard mimics a QWERTY layout familiar to users of traditional keyboards, but is optimized for touch interaction. Keys are proportionally sized with subtle spacing and clear typography to maximize accuracy and readability on small displays, and it adapts dynamically for different languages and input modes."
+    },
+    {
+      "title": "Function",
+      "body": "Beyond standard text input, the iPhone Keyboard introduced features such as predictive text input, auto-correction, multi-touch support, and haptic feedback, improving typing speed and accuracy. The virtual keyboard supports numerous languages and alternative layouts, catering to global users."
+    },
+    {
+      "title": "History",
+      "body": "Developed mainly by Greg Christie’s team at Apple, the iPhone Keyboard overcame significant challenges to create a virtual typing experience that was both intuitive and functional. It marked a departure from physical keyboards used in prior devices like the Blackberry. Over iterations, the keyboard evolved with iOS updates adding features like swipe typing and third-party keyboard support."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The iPhone Keyboard is often cited as a major innovation that contributed to the smartphone revolution by enabling a smooth, responsive input method that supported diverse applications from messaging to productivity. Its success cemented Apple’s role as a leader in user-centered design and influenced countless touchscreen devices thereafter."
+    }
+  ],
+  "aliases": [
+    "iOS Keyboard",
+    "Virtual Keyboard",
+    "Apple Touch Keyboard"
+  ],
+  "relationships": [
+    {
+      "type": "developed_by",
+      "target": "c848cc2b-5060-4c37-8a82-f8e9e10f23d9"
+    },
+    {
+      "type": "designed_by",
+      "target": "3f723138-0736-44db-90ab-c94d3f4df925"
+    },
+    {
+      "type": "contributed_to_by",
+      "target": "812a6c69-b6f9-4eaf-9b66-57e69f055c71"
+    }
+  ],
+  "properties": {
+    "introduced": 2007,
+    "platform": "iOS",
+    "input_method": "Virtual QWERTY Keyboard",
+    "languages_supported": "Multiple",
+    "features": [
+      "Auto-correct",
+      "Predictive Text",
+      "Multi-touch",
+      "Haptic Feedback"
+    ]
+  },
+  "tags": [
+    "keyboard",
+    "iPhone",
+    "software",
+    "user interface",
+    "touchscreen",
+    "mobile",
+    "input"
+  ]
+}

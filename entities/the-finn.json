@@ -1,0 +1,54 @@
+{
+  "id": "4e017a2d-5a6e-4a12-b197-50daf2115d89",
+  "type": "character",
+  "name": "The Finn",
+  "description": "A resourceful and enigmatic black-market dealer and ally in 'Neuromancer'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "The Finn is a skilled and elusive black-market technology dealer based in the dystopian urban sprawl of Chiba City. Known for his keen knowledge of cybernetics, hacking tools, and illicit hardware, he operates in the murky underworld of the futuristic city, providing valuable gear and information to mercenaries, hackers, and shadow operatives. His origins are shrouded in mystery, but his reputation as a reliable supplier and fixer is widely recognized among the criminal and technological communities."
+    },
+    {
+      "title": "Personality",
+      "body": "The Finn exhibits a cool, pragmatic demeanor, tempered by sharp wit and cautious calculation. As a survivalist immersed in the treacherous underworld, he tends to be circumspect, observant, and highly adaptive to shifting allegiances and dangers. While not overtly emotional or trusting, The Finn values professional relationships and subtle loyalties that facilitate his trade and influence in the cybernetic black market."
+    },
+    {
+      "title": "Story Role",
+      "body": "Within 'Neuromancer', The Finn serves as a crucial ally to protagonist Case, supplying him with vital equipment and support necessary for the hacker's missions. Acting as a mediator between underground factions, he enables access to technology and contacts inaccessible through legal or corporate channels. His involvement illuminates the extent of the subcultures thriving beneath the corporate-dominated society, underscoring themes of survival in a fragmented technological world."
+    },
+    {
+      "title": "Relationships",
+      "body": "The Finn maintains professional ties with key characters such as Case and Molly, often facilitating their operational needs. His relationships are transactional but founded on mutual benefit and cautious respect. Through his dealings, he connects with various factions within Chiba City's underbelly, including cybernetic augments, hackers, and mercenaries. His links reveal the complex interplay between the criminal, corporate, and cybernetic elements of the narrative's setting."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "The Finn possesses expertise in cybernetic hardware, black-market procurement, and information brokerage. His technical proficiency spans knowledge of neural implants, hacking rig components, and clandestine communications. Additionally, he is adept at navigating dangerous social landscapes, employing strategic negotiation, and leveraging discreet networks to maintain his position as an indispensable supplier in the technological underground."
+    }
+  ],
+  "aliases": [
+    "Finn",
+    "The Black Market Fixer",
+    "Tech Dealer"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "d0051ca1-1a0d-4ea9-9df0-2e9a2f6b19f7"
+    }
+  ],
+  "properties": {
+    "occupation": "Black-market tech dealer",
+    "origin": "Chiba City",
+    "alignment": "Neutral",
+    "gender": "Male"
+  },
+  "tags": [
+    "character",
+    "Neuromancer",
+    "cyberpunk",
+    "black market",
+    "supporting character",
+    "technology",
+    "hacker"
+  ]
+}

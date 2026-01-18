@@ -1,0 +1,57 @@
+{
+  "id": "5bfd8dfa-b597-4407-a8db-8f912a20ae6f",
+  "type": "location",
+  "name": "Ellis Island",
+  "description": "Famous immigrant processing station in New York Harbor that plays a role in Michael Corleone's family history.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Ellis Island was the primary immigration station in the United States from 1892 to 1954, through which millions of immigrants passed. In The Godfather Part II, it symbolizes the Corleone family's immigrant roots and the American immigrant experience."
+    },
+    {
+      "title": "Appearance",
+      "body": "In the film, Ellis Island is shown with its iconic red brick buildings and a vast reception area where immigrants are inspected and processed. The architecture reflects the grandeur and stern bureaucracy of the era, evoking the challenging journey of many newcomers."
+    },
+    {
+      "title": "History",
+      "body": "Historically, Ellis Island served as the gateway for over 12 million immigrants entering the United States. It was known both for hope and hardship, as immigrants faced inspection, quarantine, and possible deportation. This setting establishes the early 20th century context crucial to the Corleone family story."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Ellis Island scenes in the film highlight Vito Corleone's arrival to America, marking the beginning of his immigrant journey. This location frames the immigrant struggle that ultimately leads to the rise of the Corleone crime family, providing essential backstory and emotional grounding."
+    },
+    {
+      "title": "Symbolism",
+      "body": "Ellis Island represents both opportunity and the harsh reality of adaptation and survival in a new country – themes that resonate deeply with the Corleone family’s narrative of assimilation, ambition, and the pursuit of power."
+    }
+  ],
+  "aliases": [
+    "Ellis Island Immigration Station",
+    "Immigration Gateway",
+    "New York Harbor Ellis Island",
+    "Immigrant Processing Center"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a34e10f7-2f77-48bd-803f-efa34f19c87f"
+    }
+  ],
+  "properties": {
+    "location": "New York Harbor",
+    "operation_years": "1892-1954",
+    "symbolism": "Immigrant gateway to America",
+    "structure_style": "Beaux-Arts",
+    "role_in_film": "Vito Corleone’s entry point to America"
+  },
+  "tags": [
+    "immigration",
+    "historical location",
+    "New York",
+    "film setting",
+    "American Dream",
+    "early 1900s",
+    "The Godfather Part II",
+    "family history"
+  ]
+}

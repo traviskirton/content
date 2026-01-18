@@ -1,0 +1,81 @@
+{
+  "source": "The Hound of the Baskervilles",
+  "entities": [
+    {
+      "type": "book",
+      "name": "The Hound of the Baskervilles"
+    },
+    {
+      "type": "character",
+      "name": "Sir Henry Baskerville"
+    },
+    {
+      "type": "character",
+      "name": "Sir Charles Baskerville"
+    },
+    {
+      "type": "character",
+      "name": "Dr. James Mortimer"
+    },
+    {
+      "type": "character",
+      "name": "Jack Stapleton"
+    },
+    {
+      "type": "character",
+      "name": "Beryl Stapleton"
+    },
+    {
+      "type": "character",
+      "name": "Barrymore (Butler)"
+    },
+    {
+      "type": "character",
+      "name": "Mrs. Barrymore"
+    },
+    {
+      "type": "character",
+      "name": "Selden"
+    },
+    {
+      "type": "character",
+      "name": "Sir Hugo Baskerville"
+    },
+    {
+      "type": "location",
+      "name": "Baskerville Hall"
+    },
+    {
+      "type": "location",
+      "name": "Dartmoor"
+    },
+    {
+      "type": "location",
+      "name": "Grimpen Mire"
+    },
+    {
+      "type": "location",
+      "name": "Merripit House"
+    },
+    {
+      "type": "location",
+      "name": "The Neolithic Huts"
+    },
+    {
+      "type": "location",
+      "name": "Coombe Tracey"
+    },
+    {
+      "type": "item",
+      "name": "The Hound"
+    },
+    {
+      "type": "item",
+      "name": "Sir Hugo's Manuscript"
+    },
+    {
+      "type": "item",
+      "name": "The Baskerville Curse"
+    }
+  ]
+}

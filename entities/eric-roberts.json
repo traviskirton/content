@@ -32,6 +32,10 @@
     {
       "type": "worked_with",
       "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "portrays",
+      "target": "4a15ed35-d579-4b34-9dfa-e3d96de5d31b"
     }
   ],
   "properties": {

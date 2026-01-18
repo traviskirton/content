@@ -1,0 +1,121 @@
+{
+  "source": "Discworld",
+  "entities": [
+    {
+      "type": "person",
+      "name": "Terry Pratchett"
+    },
+    {
+      "type": "franchise",
+      "name": "Discworld"
+    },
+    {
+      "type": "book",
+      "name": "The Light Fantastic"
+    },
+    {
+      "type": "book",
+      "name": "Mort"
+    },
+    {
+      "type": "book",
+      "name": "The Last Continent"
+    },
+    {
+      "type": "character",
+      "name": "Rincewind"
+    },
+    {
+      "type": "character",
+      "name": "The Luggage"
+    },
+    {
+      "type": "character",
+      "name": "Death (Discworld)"
+    },
+    {
+      "type": "character",
+      "name": "Twoflower"
+    },
+    {
+      "type": "character",
+      "name": "Mort"
+    },
+    {
+      "type": "character",
+      "name": "Ysabell"
+    },
+    {
+      "type": "character",
+      "name": "Albert (Discworld)"
+    },
+    {
+      "type": "character",
+      "name": "Princess Keli"
+    },
+    {
+      "type": "character",
+      "name": "The Librarian"
+    },
+    {
+      "type": "character",
+      "name": "Archchancellor Ridcully"
+    },
+    {
+      "type": "character",
+      "name": "Ponder Stibbons"
+    },
+    {
+      "type": "location",
+      "name": "Discworld (World)"
+    },
+    {
+      "type": "location",
+      "name": "Ankh-Morpork"
+    },
+    {
+      "type": "location",
+      "name": "Unseen University"
+    },
+    {
+      "type": "location",
+      "name": "Death's Domain"
+    },
+    {
+      "type": "location",
+      "name": "EcksEcksEcksEcks"
+    },
+    {
+      "type": "location",
+      "name": "The Dungeon Dimensions"
+    },
+    {
+      "type": "item",
+      "name": "The Octavo"
+    },
+    {
+      "type": "item",
+      "name": "Death's Scythe"
+    },
+    {
+      "type": "item",
+      "name": "Death's Hourglass"
+    },
+    {
+      "type": "organization",
+      "name": "Unseen University (Organization)"
+    },
+    {
+      "type": "organization",
+      "name": "The Wizards"
+    },
+    {
+      "type": "character",
+      "name": "Great A'Tuin"
+    },
+    {
+      "type": "character",
+      "name": "The Four Elephants"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "source": "The Adventure of the Speckled Band",
+  "entities": [
+    {
+      "type": "book",
+      "name": "The Adventure of the Speckled Band"
+    },
+    {
+      "type": "character",
+      "name": "Dr. Grimesby Roylott"
+    },
+    {
+      "type": "character",
+      "name": "Helen Stoner"
+    },
+    {
+      "type": "character",
+      "name": "Julia Stoner"
+    },
+    {
+      "type": "character",
+      "name": "Percy Armitage"
+    },
+    {
+      "type": "location",
+      "name": "Stoke Moran Manor"
+    },
+    {
+      "type": "location",
+      "name": "Dr. Roylott's Chamber"
+    },
+    {
+      "type": "location",
+      "name": "Helen's Bedroom"
+    },
+    {
+      "type": "location",
+      "name": "Surrey (Speckled Band)"
+    },
+    {
+      "type": "item",
+      "name": "The Swamp Adder"
+    },
+    {
+      "type": "item",
+      "name": "The Ventilator"
+    },
+    {
+      "type": "item",
+      "name": "The Bell-Pull"
+    },
+    {
+      "type": "item",
+      "name": "The Safe"
+    },
+    {
+      "type": "item",
+      "name": "Dr. Roylott's Dog-Lash"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "source": "The Prestige",
+  "entities": [
+    {
+      "type": "person",
+      "name": "Hugh Jackman"
+    },
+    {
+      "type": "person",
+      "name": "Christian Bale"
+    },
+    {
+      "type": "person",
+      "name": "Scarlett Johansson"
+    },
+    {
+      "type": "person",
+      "name": "Michael Caine"
+    },
+    {
+      "type": "person",
+      "name": "Piper Perabo"
+    },
+    {
+      "type": "person",
+      "name": "Rebecca Hall"
+    },
+    {
+      "type": "person",
+      "name": "Andy Serkis"
+    },
+    {
+      "type": "person",
+      "name": "David Bowie"
+    },
+    {
+      "type": "movie",
+      "name": "The Prestige"
+    },
+    {
+      "type": "character",
+      "name": "Robert Angier"
+    },
+    {
+      "type": "character",
+      "name": "Alfred Borden"
+    },
+    {
+      "type": "character",
+      "name": "Olivia Wenscombe"
+    },
+    {
+      "type": "character",
+      "name": "Cutter"
+    },
+    {
+      "type": "character",
+      "name": "Julia McCullough"
+    },
+    {
+      "type": "character",
+      "name": "Sarah Borden"
+    },
+    {
+      "type": "character",
+      "name": "Nikola Tesla"
+    },
+    {
+      "type": "character",
+      "name": "Alley"
+    },
+    {
+      "type": "location",
+      "name": "London (The Prestige)"
+    },
+    {
+      "type": "location",
+      "name": "Colorado Springs"
+    },
+    {
+      "type": "location",
+      "name": "Angier's Theater"
+    },
+    {
+      "type": "item",
+      "name": "Tesla Machine"
+    },
+    {
+      "type": "item",
+      "name": "Borden's Diary"
+    },
+    {
+      "type": "item",
+      "name": "Angier's Journal"
+    }
+  ]
+}

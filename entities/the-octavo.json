@@ -1,0 +1,57 @@
+{
+  "id": "4286d34f-326c-422e-9758-42c96574cab0",
+  "type": "item",
+  "name": "The Octavo",
+  "description": "The Octavo is the Discworld’s most powerful and ancient spellbook, containing eight potent spells vital to the universe’s fabric.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Octavo is an iconic magical tome on the Discworld, revered as the source of foundational magic. It is the oldest and most powerful spellbook, containing eight incredibly potent spells that maintained the universe’s magic and order. Unlike ordinary books, the Octavo’s spells are living and volatile, capable of acting independently, which makes it unpredictable and dangerous for untrained magic-users."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Octavo is depicted as an ancient grimoire, bound in black leather with arcane sigils and metal fastenings enclosing it. The pages are yellowed and worn with age, inscribed with glowing glyphs and shifting texts that hum with latent power. It exudes an aura of mystical energy so strong that even touching it can be overwhelming, and it resists being opened or read by those not worthy or prepared."
+    },
+    {
+      "title": "Function",
+      "body": "The Octavo serves both as a repository of the Disc’s magical laws and a tool for creating and managing spells. Its eight spells contain raw magical energy that sustains the universe’s stability, and any misuse risks catastrophic events. Wizards seek to control or preserve the Octavo, and its spells have occasionally manifested or escaped, causing significant upheaval. It acts both as a source of protection and a potential threat."
+    },
+    {
+      "title": "History",
+      "body": "The Octavo’s origin is lost in the mists of Discworld’s early mythic ages, with tales suggesting it was created by the first wizards or cosmic forces. Over the centuries, it has been safeguarded by scholars at Unseen University and protected by spells and rituals. It has played a critical role in various magical crises and quests throughout the Disc’s history, including several stories where its spells became central plot elements."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Octavo is a central artifact in Discworld lore and literature, representing the very essence of magic in the Disc. It is featured prominently in novels such as 'The Colour of Magic' and others, where characters’ interactions with its spells drive critical plot points. The Octavo symbolizes the uncontrollable nature of magic and the responsibilities imposed on those who wield it, serving as a metaphor for power and knowledge."
+    }
+  ],
+  "aliases": [
+    "Discworld Octavo",
+    "The Eight-Spelled Tome",
+    "Ancient Spellbook",
+    "The Great Grimoire"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "351ccf2a-3bde-41a5-8b5c-9cb98dd35d62"
+    }
+  ],
+  "properties": {
+    "spell_count": 8,
+    "power_level": "immense",
+    "custodian": "Unseen University",
+    "material": "aged leather",
+    "origin": "ancient"
+  },
+  "tags": [
+    "discworld",
+    "item",
+    "magic",
+    "spellbook",
+    "artifact",
+    "ancient",
+    "wizardry",
+    "powerful"
+  ]
+}

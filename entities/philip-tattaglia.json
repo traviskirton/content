@@ -1,0 +1,60 @@
+{
+  "id": "a9f64352-c15d-4efe-af83-d117487c3a89",
+  "type": "character",
+  "name": "Philip Tattaglia",
+  "description": "Head of one of New York's Five Families, involved in traditional mafia activities and allied with Barzini and Sollozzo.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Philip Tattaglia is the boss of the Tattaglia crime family, one of the major organized crime factions in New York. His family is known for its involvement in gambling, prostitution, and other illicit enterprises. As a member of the Mafia Commission, Tattaglia wields significant influence and often collaborates with other families to maintain power and control over the city's underworld."
+    },
+    {
+      "title": "Personality",
+      "body": "Tattaglia is portrayed as a cautious yet pragmatic leader who values stability and traditional forms of crime over risky ventures like narcotics. Though not as aggressive or ambitious as some counterparts, he is willing to align with powerful forces such as Barzini and Sollozzo when his interests are at stake. His personality reflects a blend of old-school mafia respectability and calculated opportunism."
+    },
+    {
+      "title": "Story Role",
+      "body": "Philip Tattaglia participates in the alliance against the Corleone family, providing support to Sollozzo’s narcotics proposal and aiding in the organized efforts to undermine Corleone influence. His role mainly serves to represent the collective opposition to the Corleones, contributing to the escalating mafia conflict central to the plot."
+    },
+    {
+      "title": "Relationships",
+      "body": "Tattaglia is allied with Emilio Barzini and Virgil Sollozzo in plans that threaten the Corleone family. His relationships within the Mafia Commission and with various family heads define his approach to power, marked by cooperation with those sharing mutual interests and antagonism towards the Corleones."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "He is skilled at maintaining alliances across mafia families and managing his criminal enterprises with discretion. While not a front-line enforcer, Tattaglia leverages his influence and political clout to achieve his goals within the mafia power structure."
+    }
+  ],
+  "aliases": [
+    "Tattaglia",
+    "Philip",
+    "Crime Family Head"
+  ],
+  "relationships": [
+    {
+      "type": "ally_of",
+      "target": "0b4c2f14-4f1e-4b2d-9d06-986720123eb1"
+    },
+    {
+      "type": "ally_of",
+      "target": "3a2fcde1-806d-453f-9931-3c5bd508bba7"
+    }
+  ],
+  "properties": {
+    "role": "Crime Boss",
+    "family": "Tattaglia Crime Family",
+    "nationality": "Italian-American",
+    "status": "Deceased",
+    "notable_event": "Alliance against Corleone family"
+  },
+  "tags": [
+    "mafia",
+    "organized_crime",
+    "crime_family",
+    "1950s",
+    "The Godfather",
+    "fictional_character",
+    "antagonist",
+    "alliances"
+  ]
+}

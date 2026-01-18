@@ -1,0 +1,45 @@
+{
+  "id": "07fb4d36-c5e5-4a94-8e0c-e1d91f8b2070",
+  "type": "location",
+  "name": "Temple of Perelandro",
+  "description": "A revered religious site in Camorr dedicated to the god of secrets and shadows, pivotal in local spiritual and political life.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Temple of Perelandro serves as both a sacred site and a political stronghold within Camorr. Dedicated to Perelandro, the patron deity of secrets, shadows, and subtlety, the temple acts as the spiritual center for many influential figures in the city’s nobility and underworld alike. Its influence extends beyond religion into espionage and power dynamics."
+    },
+    {
+      "title": "Appearance",
+      "body": "Architecturally, the temple is imposing yet delicate, constructed from dark stone with intricately carved reliefs depicting veiled figures and symbolic motifs of whispering shadows. The interior is dimly lit, with stained glass windows casting kaleidoscopic patterns onto polished floors; secret compartments and hidden passages are rumored to exist within its walls, aligning with the god it honors."
+    },
+    {
+      "title": "History",
+      "body": "The temple’s exact founding date is lost to history, but it has long been entrenched as a site for both religious worship and discreet political dealings in Camorr. It has witnessed many alliances forged in secret chambers and served as a sanctuary for those involved in the city’s countless conspiracies. Over time, the temple became a symbol of the interconnectedness between faith and intrigue."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'The Lies of Locke Lamora', the Temple of Perelandro appears as a location integral to the unfolding political intrigues and secret dealings among the city’s power brokers. It exemplifies the recurring themes of concealment and revelation, mirroring the deceptive nature of the Gentleman Bastards and their adversaries."
+    }
+  ],
+  "aliases": [
+    "Temple of Shadows",
+    "Perelandro's Sanctuary",
+    "The Veiled Temple"
+  ],
+  "relationships": [],
+  "properties": {
+    "city": "Camorr",
+    "function": "Religious and political center",
+    "architectural_style": "Gothic-like fantasy",
+    "influence_level": "High"
+  },
+  "tags": [
+    "fantasy",
+    "location",
+    "religion",
+    "politics",
+    "Camorr",
+    "temple",
+    "secrets"
+  ]
+}

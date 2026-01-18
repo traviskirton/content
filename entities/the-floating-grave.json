@@ -1,0 +1,54 @@
+{
+  "id": "5e935984-f3d1-42d9-bd6e-8a0e417cbc37",
+  "type": "location",
+  "name": "The Floating Grave",
+  "description": "A notorious district within Camorr known for its labyrinthine waterways and clandestine criminal activities.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Floating Grave is one of the most infamous quarters of Camorr, the city-state setting of 'The Lies of Locke Lamora'. It is a district defined by its decaying docks, illegal shipping ventures, and a winding network of canals resembling a watery maze. This area serves as a haven for smugglers, criminals, and those seeking to evade the law, making it a dangerous but essential part of the city's shadow economy."
+    },
+    {
+      "title": "Appearance",
+      "body": "Physically, the Floating Grave appears as a tangled mess of rotting boats, dilapidated warehouses, and narrow wooden docks barely stable enough to support foot traffic. The buildings crowd tightly, their foundations submerged, giving the entire area a spectral, unsettling atmosphere. At night, lantern light flickers over shimmering black waters filled with the detritus of the city, enhancing the district's eerie reputation."
+    },
+    {
+      "title": "History",
+      "body": "Historically, the Floating Grave evolved as a result of Camorr’s expansion and the natural swampy geography of its harbor areas. Originally bustling with legitimate trade, it gradually became overrun by pirates and ne’er-do-wells as trade routes shifted. Over centuries, it earned its grim moniker due to countless ships lost to treacherous tides, and the high mortality rate of those who lived on or near its waters."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Within 'The Lies of Locke Lamora', the Floating Grave functions not only as a physical setting for several key plot events but also symbolically represents the murky moral waters the protagonists navigate. The district underscores the themes of decay and survival and frequently acts as the backdrop for clandestine meetings and confrontations central to the Gentleman Bastards’ schemes."
+    }
+  ],
+  "aliases": [
+    "Floating Grave",
+    "The Grave",
+    "Camorr's Floating Maze"
+  ],
+  "relationships": [
+    {
+      "type": "contains",
+      "target": "d491a3d3-548e-4eba-a7d9-2fcdd97db2f0"
+    },
+    {
+      "type": "contains",
+      "target": "1d2a7043-1b8c-4e3b-824c-2d66b2e3f1ad"
+    }
+  ],
+  "properties": {
+    "region": "Camorr",
+    "environment": "Urban waterways",
+    "danger_level": "High",
+    "population_type": "Criminal underworld"
+  },
+  "tags": [
+    "fantasy",
+    "location",
+    "city district",
+    "criminal",
+    "Camorr",
+    "waterways",
+    "dangerous"
+  ]
+}

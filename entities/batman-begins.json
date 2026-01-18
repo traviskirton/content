@@ -88,6 +88,22 @@
     {
       "type": "features_character",
       "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "filmed_in",
+      "target": "708e2574-efb1-4626-b6f2-a8e2af2f8227"
+    },
+    {
+      "type": "filmed_in",
+      "target": "976a4e98-6067-41f3-a51c-8b36b2d5df64"
+    },
+    {
+      "type": "filmed_in",
+      "target": "d9a66768-f7e5-413e-b669-9bebc9e09a53"
+    },
+    {
+      "type": "filmed_in",
+      "target": "23cab135-3c56-4ec3-9f0b-a1cfe85993f2"
     }
   ],
   "properties": {
@@ -109,6 +125,8 @@
     "2000s",
     "blockbuster",
     "superhero",
-    "origin story"
+    "origin story",
+    "christopher-nolan",
+    "the-dark-knight-trilogy"
   ]
 }

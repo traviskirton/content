@@ -1,0 +1,53 @@
+{
+  "id": "d39b7f59-7118-4e9f-89f6-8bf5ed58a4c7",
+  "type": "item",
+  "name": "Orcrist",
+  "description": "A gleaming Elven-made sword known as the 'Goblin-cleaver' wielded by Thorin Oakenshield in The Hobbit.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Orcrist is a mythical sword forged by the Elves of Gondolin, famed for its effectiveness against goblins and orcs. Known as the 'Goblin-cleaver,' it is a symbol of Elven craftsmanship and wielded by Thorin Oakenshield as a sign of his nobility and warrior status throughout the quest to reclaim Erebor."
+    },
+    {
+      "title": "Appearance",
+      "body": "The blade of Orcrist shines with a brilliant, pale blue sheen when goblins or orcs are near, a magical property that alerts its wielder to danger. Its hilt is ornately crafted with intricate Elvish designs, often described as elegant and deadly. The sword's balance and cutting edge are praised for their superiority."
+    },
+    {
+      "title": "Function",
+      "body": "Orcrist serves as both a weapon of war and a talisman during the Battle of the Five Armies and other encounters with goblins. Its enchantment allows it to glow blue in the presence of orcs, providing an early warning and setting it apart from ordinary swords. The sword ensures Thorin’s prominence in combat and commands respect."
+    },
+    {
+      "title": "History",
+      "body": "Originally crafted in the ancient Elven city of Gondolin, Orcrist was recovered from the trolls’ hoard alongside similar blades such as Glamdring and Sting. Thorin claimed Orcrist upon the company’s departure from Rivendell, and it remained his trusted weapon until his death. The blade’s legacy is intertwined with Middle-earth’s rich history of Elven smithing."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Orcrist represents the intersection of Elven heritage and Dwarvish resolve, symbolizing unity among different races during a deadly conflict. Thorin’s wielding of the sword underscores his role as a warrior king, and the glowing blade visualizes the lurking threats surrounding the company. Orcrist’s fate is emblematic of the sacrifices made in pursuit of honor and home."
+    }
+  ],
+  "aliases": [
+    "Goblin-cleaver",
+    "Elven sword Orcrist",
+    "Thorin’s Sword"
+  ],
+  "relationships": [
+    {
+      "type": "wielded_by",
+      "target": "02c9e697-04cc-4a42-b777-b83cff3b4576"
+    }
+  ],
+  "properties": {
+    "type": "Sword",
+    "origin": "Elven, Gondolin",
+    "magic_property": "Glows blue near orcs/goblins",
+    "material": "Elven steel"
+  },
+  "tags": [
+    "The Hobbit",
+    "Sword",
+    "Elven",
+    "Magic",
+    "Weapon",
+    "Fantasy"
+  ]
+}

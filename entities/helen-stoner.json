@@ -1,0 +1,65 @@
+{
+  "id": "91d00a09-0b0a-4f4a-9548-f2c50668944d",
+  "type": "character",
+  "name": "Helen Stoner",
+  "description": "The distressed stepdaughter who seeks Sherlock Holmes' help after fearing for her life in the wake of her sister’s mysterious death.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Helen Stoner is the younger of the two Stoner sisters and the stepdaughter of Dr. Grimesby Roylott. At the start of the tale, she is engaged to be married but lives in fear due to unsettling noises in her home and the recent suspicious death of her elder sister, Julia. Helen resides at the dilapidated family estate, Stoke Moran, where she faces the oppressive will of her stepfather."
+    },
+    {
+      "title": "Personality",
+      "body": "Helen is portrayed as vulnerable yet courageous. Despite her evident dread and the traumatic circumstances surrounding her sister’s death, she shows resolve in seeking help from Sherlock Holmes. She speaks with sincerity and candor, expressing both her fear and her hope for salvation. Her character incites empathy, embodying the innocent victim caught in the malevolent schemes of her stepfather."
+    },
+    {
+      "title": "Story Role",
+      "body": "Helen is the client who brings the mystery to Holmes, setting the story’s events in motion. Her narrative recounting of the eerie happenings and the death of Julia forms the basis for the investigation. She ultimately survives due to Holmes’s timely intervention. Helen’s testimony and observations provide critical clues necessary for Holmes’ deduction, positioning her as central to both the emotional core and the plot."
+    },
+    {
+      "title": "Relationships",
+      "body": "Helen is the stepdaughter of Dr. Grimesby Roylott and sister to Julia Stoner. Her relationship with Roylott is fraught with fear and distrust. She shares a close bond with her sister Julia, whose untimely death haunts her. Helen also establishes a trusting relationship with Holmes and Watson, relying on their help to save her life. She interacts cautiously with the household butler and local servants as part of the household dynamics."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Helen possesses no specialized skills but demonstrates practical intelligence and awareness. Her quick action in seeking outside help and providing detailed descriptions of strange occurrences shows a natural observational capacity. Her courage in the face of imminent danger reflects emotional strength essential for her survival."
+    }
+  ],
+  "aliases": [
+    "Miss Helen Stoner",
+    "Helen Roylott"
+  ],
+  "relationships": [
+    {
+      "type": "client_of",
+      "target": "35d0df0f-2cce-408e-8a3c-7e285e2bee16"
+    },
+    {
+      "type": "stepdaughter_of",
+      "target": "ee1d3001-d3d9-49de-b463-03c1de2d3db3"
+    },
+    {
+      "type": "sister_of",
+      "target": "f06ae0e3-2d91-40fa-8bc6-ec62d8b9a65e"
+    },
+    {
+      "type": "appears_in",
+      "target": "35d0df0f-2cce-408e-8a3c-7e285e2bee16"
+    }
+  ],
+  "properties": {
+    "relation": "Stepdaughter",
+    "status": "Survivor",
+    "engagement_status": "Fiancée",
+    "residence": "Stoke Moran"
+  },
+  "tags": [
+    "client",
+    "victim",
+    "female character",
+    "Sherlock Holmes",
+    "Victorian era",
+    "family",
+    "mystery"
+  ]
+}

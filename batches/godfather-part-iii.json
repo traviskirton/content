@@ -1,0 +1,109 @@
+{
+  "source": "The Godfather Part III",
+  "entities": [
+    {
+      "type": "person",
+      "name": "Andy Garcia"
+    },
+    {
+      "type": "person",
+      "name": "Sofia Coppola"
+    },
+    {
+      "type": "person",
+      "name": "Joe Mantegna"
+    },
+    {
+      "type": "person",
+      "name": "Eli Wallach"
+    },
+    {
+      "type": "person",
+      "name": "Bridget Fonda"
+    },
+    {
+      "type": "person",
+      "name": "George Hamilton"
+    },
+    {
+      "type": "person",
+      "name": "Raf Vallone"
+    },
+    {
+      "type": "movie",
+      "name": "The Godfather Part III"
+    },
+    {
+      "type": "movie",
+      "name": "The Godfather Coda: The Death of Michael Corleone"
+    },
+    {
+      "type": "character",
+      "name": "Vincent Mancini-Corleone"
+    },
+    {
+      "type": "character",
+      "name": "Mary Corleone"
+    },
+    {
+      "type": "character",
+      "name": "Don Altobello"
+    },
+    {
+      "type": "character",
+      "name": "Joey Zasa"
+    },
+    {
+      "type": "character",
+      "name": "Archbishop Gilday"
+    },
+    {
+      "type": "character",
+      "name": "Cardinal Lamberto"
+    },
+    {
+      "type": "character",
+      "name": "Grace Hamilton"
+    },
+    {
+      "type": "character",
+      "name": "B.J. Harrison"
+    },
+    {
+      "type": "character",
+      "name": "Mosca"
+    },
+    {
+      "type": "location",
+      "name": "Vatican (Godfather)"
+    },
+    {
+      "type": "location",
+      "name": "Teatro Massimo"
+    },
+    {
+      "type": "location",
+      "name": "Atlantic City (Godfather)"
+    },
+    {
+      "type": "location",
+      "name": "Michael's Sicily Estate"
+    },
+    {
+      "type": "organization",
+      "name": "Immobiliare"
+    },
+    {
+      "type": "organization",
+      "name": "Vatican Bank"
+    },
+    {
+      "type": "item",
+      "name": "Cavalleria Rusticana Opera"
+    },
+    {
+      "type": "item",
+      "name": "Papal Assassination Plot"
+    }
+  ]
+}

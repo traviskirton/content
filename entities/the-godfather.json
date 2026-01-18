@@ -1,0 +1,65 @@
+{
+  "id": "f2906db8-5e3f-45a9-85db-8a1a451c7d1c",
+  "type": "book",
+  "name": "The Godfather",
+  "description": "A seminal crime novel by Mario Puzo that explores the intricate dynamics of an Italian-American Mafia family, later adapted into a landmark film series.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "'The Godfather' (1969) is a novel that delves into the world of organized crime, focusing on the Corleone family. The story intricately combines family drama with criminal enterprise, revealing the inherent codes of loyalty, respect, and power that govern Mafia society. As one of the best-selling books of all time, it laid the narrative blueprint for Mafia fiction."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "Set in post-World War II New York, the novel chronicles the life of Vito Corleone, the patriarch of the Corleone crime family. Following an assassination attempt on Vito, his youngest son Michael reluctantly assumes leadership. The plot follows Michael’s transformation from a war hero to ruthless Mafia don, as he consolidates power while navigating internal betrayals and external threats from rival families."
+    },
+    {
+      "title": "Themes",
+      "body": "Major themes include the complexities of family loyalty, the corrupting influence of power, the American immigrant experience, and the conflict between personal morality and criminal obligation. The novel examines the blurred ethical boundaries within crime and family honor, posing questions about justice, vengeance, and legacy."
+    },
+    {
+      "title": "Reception",
+      "body": "Critically acclaimed upon release, 'The Godfather' was praised for its compelling characters and vivid, authentic depiction of Mafia life. It achieved both commercial success and lasting cultural impact, inspiring not only the celebrated film adaptations but also a vast genre of crime storytelling in literature and cinema."
+    }
+  ],
+  "aliases": [
+    "The Godfather Novel",
+    "Il Padrino (Italian Title)"
+  ],
+  "relationships": [
+    {
+      "type": "written_by",
+      "target": "1c7b8b0e-5414-43c4-8d72-8cf1d4d29cc4"
+    },
+    {
+      "type": "features_character",
+      "target": "49963d4f-8613-406d-8c82-6a50c1d6e9af"
+    },
+    {
+      "type": "features_character",
+      "target": "1ec0d5ef-4a7f-460e-aefa-fb0fa6876bb2"
+    },
+    {
+      "type": "features_character",
+      "target": "d6b102b3-0c4b-4c33-97f2-c0d36df8ec84"
+    }
+  ],
+  "properties": {
+    "publication_year": 1969,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Fiction"
+    ],
+    "language": "English",
+    "pages": 448
+  },
+  "tags": [
+    "crime fiction",
+    "mafia",
+    "organized crime",
+    "family saga",
+    "classic novel",
+    "20th century",
+    "Mario Puzo"
+  ]
+}

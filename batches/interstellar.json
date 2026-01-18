@@ -1,0 +1,137 @@
+{
+  "source": "Interstellar",
+  "entities": [
+    {
+      "type": "person",
+      "name": "Matthew McConaughey"
+    },
+    {
+      "type": "person",
+      "name": "Jessica Chastain"
+    },
+    {
+      "type": "person",
+      "name": "Anne Hathaway"
+    },
+    {
+      "type": "person",
+      "name": "Michael Caine"
+    },
+    {
+      "type": "person",
+      "name": "Casey Affleck"
+    },
+    {
+      "type": "person",
+      "name": "Matt Damon"
+    },
+    {
+      "type": "person",
+      "name": "Mackenzie Foy"
+    },
+    {
+      "type": "person",
+      "name": "Timothée Chalamet"
+    },
+    {
+      "type": "person",
+      "name": "John Lithgow"
+    },
+    {
+      "type": "person",
+      "name": "Ellen Burstyn"
+    },
+    {
+      "type": "person",
+      "name": "Hoyte van Hoytema"
+    },
+    {
+      "type": "movie",
+      "name": "Interstellar"
+    },
+    {
+      "type": "character",
+      "name": "Cooper"
+    },
+    {
+      "type": "character",
+      "name": "Murph"
+    },
+    {
+      "type": "character",
+      "name": "Amelia Brand"
+    },
+    {
+      "type": "character",
+      "name": "Professor Brand"
+    },
+    {
+      "type": "character",
+      "name": "Tom Cooper"
+    },
+    {
+      "type": "character",
+      "name": "Dr. Mann"
+    },
+    {
+      "type": "character",
+      "name": "TARS"
+    },
+    {
+      "type": "character",
+      "name": "CASE"
+    },
+    {
+      "type": "character",
+      "name": "Donald"
+    },
+    {
+      "type": "location",
+      "name": "Cooper's Farm"
+    },
+    {
+      "type": "location",
+      "name": "NASA Facility"
+    },
+    {
+      "type": "location",
+      "name": "Miller's Planet"
+    },
+    {
+      "type": "location",
+      "name": "Mann's Planet"
+    },
+    {
+      "type": "location",
+      "name": "Edmund's Planet"
+    },
+    {
+      "type": "location",
+      "name": "Gargantua"
+    },
+    {
+      "type": "location",
+      "name": "The Tesseract"
+    },
+    {
+      "type": "location",
+      "name": "Cooper Station"
+    },
+    {
+      "type": "vehicle",
+      "name": "Endurance"
+    },
+    {
+      "type": "vehicle",
+      "name": "Ranger"
+    },
+    {
+      "type": "vehicle",
+      "name": "Lander"
+    },
+    {
+      "type": "organization",
+      "name": "NASA (Interstellar)"
+    }
+  ]
+}

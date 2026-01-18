@@ -1,0 +1,57 @@
+{
+  "id": "bcf5d7a8-2e3a-4b1a-91f0-1236fa9deb72",
+  "type": "item",
+  "name": "Arkenstone",
+  "description": "A wondrously beautiful gem known as the \"Heart of the Mountain\", treasured by Thorin Oakenshield in The Hobbit.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Arkenstone is a large, exceptional gem discovered beneath the roots of the Lonely Mountain during its height as a dwarvish kingdom. It symbolizes the rightful kingship of Erebor and holds great sentimental and political value to Thorin Oakenshield and his company. Its radiance and unique appearance make it an unrivalled treasure in the mountain’s vast hoard."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Arkenstone is described as a multifaceted, glowing gem whose light shifts and sparkles like a 'glimmering star.' It possesses a milky white translucency combined with prismatic flashes, drawing the eye irresistibly. The dwarves revere it as a sacred heirloom and King Thorin’s most prized possession."
+    },
+    {
+      "title": "Function",
+      "body": "Beyond being a magnificent jewel, the Arkenstone serves as a symbol of leadership and legitimacy for the dwarves of Erebor. Thorin uses it as a token to assert his right to the throne and as a bargaining chip during tense negotiations. Its allure also acts as a catalyst for conflict, inspiring greed and disputes among various factions."
+    },
+    {
+      "title": "History",
+      "body": "The gem was formed naturally in the mountain’s depths and treasured by the Dwarves for generations. Lost when Smaug seized Erebor, it was secretly found and taken by Bilbo Baggins during the quest. Unbeknownst to Thorin, Bilbo kept the stone, intending to use it to prevent bloodshed, but this led to further tensions before the Battle of Five Armies."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Arkenstone's significance lies in its symbolic power and its impact on the plot's climax. It embodies dwarvish pride, heritage, and the costs of greed and honor. Its possession influences character decisions dramatically, especially Thorin’s, and it acts as the fulcrum between friendship and conflict in the story's resolution."
+    }
+  ],
+  "aliases": [
+    "Heart of the Mountain",
+    "King’s Jewel",
+    "The White Gem"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "8e688776-ff78-4c90-bbdb-d0298e548c73"
+    },
+    {
+      "type": "possessed_by",
+      "target": "02c9e697-04cc-4a42-b777-b83cff3b4576"
+    }
+  ],
+  "properties": {
+    "type": "Gemstone",
+    "color": "Milky white with prismatic sparkles",
+    "size": "Large",
+    "symbolism": "Royalty and right to rule"
+  },
+  "tags": [
+    "The Hobbit",
+    "Dwarves",
+    "Treasure",
+    "Gem",
+    "Symbolism",
+    "Fantasy"
+  ]
+}

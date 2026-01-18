@@ -1,0 +1,57 @@
+{
+  "id": "e341ca8d-ad25-4d26-b28c-9b23eae9f3f7",
+  "type": "character",
+  "name": "Ann Smiley",
+  "description": "George Smiley's devoted wife, who plays a quiet but significant role within the emotional and professional spheres of the story.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Ann Smiley is the supportive spouse of George Smiley, entrenched in the British intelligence community's periphery. Though not a spy herself, Ann’s life is deeply entwined with the consequences and stresses of her husband's espionage work. She provides a domestic anchor and emotional grounding during the tense and secretive events surrounding the mole hunt. Her background suggests a life accustomed to discretion and the sacrifices demanded by intelligence service families."
+    },
+    {
+      "title": "Personality",
+      "body": "Ann embodies quiet strength, loyalty, and warmth. She is a comforting presence amidst the professional turmoil and mistrust within her husband's world. Ann is perceptive and understanding, often sensing the emotional toll espionage takes on George Smiley. Her demeanor is patient and empathetic, counterbalancing the cold intrigue with personal connection. Her sense of duty is reflected in her unwavering support during all challenges."
+    },
+    {
+      "title": "Story Role",
+      "body": "Although limited in screen and page time, Ann Smiley serves as an emotional touchstone for George Smiley, highlighting the personal costs of espionage. The story occasionally explores their relationship, revealing the human side of a man immersed in a world of deception. Ann also has a professional association due to her own past intelligence work, giving her insights that assist subtly in investigations. Her connection with Ricki Tarr adds complexity to the narrative."
+    },
+    {
+      "title": "Relationships",
+      "body": "Ann is married to George Smiley, sharing a lifelong bond of trust and mutual respect. She also has a significant albeit fraught relationship with Ricki Tarr, as their past liaison impacts the dynamics of the intelligence community and Smiley's personal life. Her discreet interactions with other Circus members underscore her quiet but influential presence within the spy network's extended family."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Ann possesses a sharp intellect and understanding of intelligence matters, informed by her own experience in British secret operations. Her skills are not in fieldwork but in judgment, discretion, and emotional intelligence, enabling her to navigate the complex personal relationships entwined with espionage. Ann’s ability to maintain composure and provide counsel contributes to the stability of George Smiley’s character."
+    }
+  ],
+  "aliases": [
+    "Ann",
+    "Mrs. Smiley",
+    "Mrs. George Smiley"
+  ],
+  "relationships": [
+    {
+      "type": "acquaintance_of",
+      "target": "3dae8efa-4c89-42cc-811d-9dd9fa4a67b7"
+    },
+    {
+      "type": "colleague_of",
+      "target": "b32e3b8b-54c2-4a1e-9e35-bccd3de890d2"
+    }
+  ],
+  "properties": {
+    "nationality": "British",
+    "role": "Spy's Spouse",
+    "intelligence_background": "Former Circus Operative",
+    "support_level": "High"
+  },
+  "tags": [
+    "Espionage",
+    "Supporting Character",
+    "Emotional Anchor",
+    "Cold War",
+    "British Intelligence",
+    "Spy Family"
+  ]
+}

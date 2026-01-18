@@ -89,6 +89,22 @@
     {
       "type": "part_of",
       "target": "74e2f215-232d-475e-bfa4-15f73e237d89"
+    },
+    {
+      "type": "filmed_in",
+      "target": "92a44d3f-7152-4c2a-9e5d-57d8b0c7e8a2"
+    },
+    {
+      "type": "filmed_in",
+      "target": "2f4b5c6d-7e8f-9a0b-1c2d-3e4f5g6h7i8j"
+    },
+    {
+      "type": "filmed_in",
+      "target": "a9c2b0f1-3e45-476f-989b-d3e1f7e93b13"
+    },
+    {
+      "type": "filmed_in",
+      "target": "23cab135-3c56-4ec3-9f0b-a1cfe85993f2"
     }
   ],
   "properties": {
@@ -110,6 +126,8 @@
     "1980s",
     "superhero",
     "gothic",
-    "crime"
+    "crime",
+    "tim-burton",
+    "burton-schumacher-batman-films"
   ]
 }

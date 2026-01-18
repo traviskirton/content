@@ -1,0 +1,49 @@
+{
+  "id": "2af8d8b1-c4f3-4a02-8eef-4b246ca7fe28",
+  "type": "person",
+  "name": "George Hamilton",
+  "description": "American actor known for his suave image and long career in film and television.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "George Hamilton was born on August 12, 1939, in Memphis, Tennessee, USA. He grew up in an affluent family and began his acting career at a young age, steadily building a reputation for his charm and style. Hamilton’s distinctive tan and sophisticated demeanor made him a recognizable figure in Hollywood. His career spans several decades, including work in both films and television, with an emphasis on romantic and comedic roles."
+    },
+    {
+      "title": "Career",
+      "body": "Hamilton’s career began in the late 1950s and has included notable performances in period dramas, thrillers, and comedies. He gained early recognition with roles in films such as \"Home from the Hill\" and \"Love at First Bite\". Known for his distinctive suave and debonair persona, Hamilton successfully navigated the ups and downs of Hollywood with a mix of classic leading roles and self-parody, maintaining relevance through diverse projects including television guest appearances and hosting."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Some of George Hamilton’s most famous works include \"Love at First Bite,\" where he played a comedic version of Count Dracula, and his guest roles in TV series such as \"Dynasty\" and \"Seinfeld\". He also appeared in \"The Godfather Part III\" as an actor within the story, reflecting his broad range of parts across genres. Hamilton is often remembered for roles that blend sophistication with a self-aware humor, making him a cult figure in popular culture."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Hamilton's style is marked by his signature suntan and polished, urbane charm, which helped define his screen image as a smooth, charismatic leading man. He influenced the portrayal of suave characters in popular media, often balancing acting with his real-life persona of elegance and wit. Despite periods of lesser visibility in mainstream films, he remains a recognizable and respected figure for his contributions to Hollywood's classic and contemporary eras."
+    },
+    {
+      "title": "Trivia",
+      "body": "George Hamilton was known for his impeccable tan, once joking that his skin color could be trademarked. His laid-back and witty approach to acting led him to embrace roles that allowed a playful mocking of his own public image. Beyond acting, Hamilton has engaged in various ventures and continues to make appearances at film festivals and retrospectives honoring his extensive career."
+    }
+  ],
+  "aliases": [
+    "George S. Hamilton",
+    "G. Hamilton",
+    "The Tan Actor"
+  ],
+  "relationships": [],
+  "properties": {
+    "birth_date": "1939-08-12",
+    "nationality": "American",
+    "occupation": "Actor",
+    "active_years": "1957–present"
+  },
+  "tags": [
+    "actor",
+    "American",
+    "classic Hollywood",
+    "film",
+    "television",
+    "comedy",
+    "drama"
+  ]
+}

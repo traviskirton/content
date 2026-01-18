@@ -1,0 +1,57 @@
+{
+  "id": "3e87b25a-2bdb-44d7-b7d8-8a86e1cc6202",
+  "type": "character",
+  "name": "Mona Lisa",
+  "description": "A high-class, expertly trained smuggler and prostitute whose life is intricately tied to the cybernetic and corporate underworld.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Mona Lisa is a sophisticated and skilled individual operating in the upper echelons of the Sprawl's underworld. She was trained from a young age to endure and manipulate social situations, heavily relying on her intelligence and adaptability. She navigates the dangerous intersections of sex work, corporate espionage, and cybernetic augmentation, making her both a valuable asset and a dangerous player in the world William Gibson portrays."
+    },
+    {
+      "title": "Personality",
+      "body": "Mona Lisa embodies resilience, cunning, and emotional control. Despite the harsh environment she inhabits, she balances vulnerability with an unyielding will to survive and succeed. Her demeanor is often inscrutable, bemused yet calculated, allowing her to maintain a firm grasp on situations as they evolve. She is pragmatic, occasionally showing flashes of compassion but always aware of the potential cost of emotional involvement."
+    },
+    {
+      "title": "Story Role",
+      "body": "As one of the central characters, Mona Lisa's story intersects with major players in the cybernetic and corporate worlds. She becomes deeply involved in a plot involving kidnapping, data trafficking, and high-stakes negotiation. Her arc reflects themes of control, identity, and survival, serving as a focal point for the novel’s exploration of corporeal and digital agency."
+    },
+    {
+      "title": "Relationships",
+      "body": "Mona Lisa is connected to several powerful individuals, including corporate clients and underground contacts. She shares complex relationships with Angie Mitchell and other characters, often marked by a blend of alliance and manipulation. These relationships underscore the precarious balance she maintains between independence and exploitation."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Mona Lisa is adept in social engineering, negotiation, and disguise. Her cybernetic enhancements augment her physical and sensory capabilities, allowing her heightened perception and resilience. Her extensive training in espionage and survival tactics enables her to infiltrate guarded environments and outwit adversaries."
+    }
+  ],
+  "aliases": [
+    "Lisa",
+    "Mona",
+    "Mona Lisa Overdrive"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "1c7f578f-fd87-4e76-aa99-507b2a12a2f9"
+    },
+    {
+      "type": "ally_of",
+      "target": "fd9ab115-95bb-418b-a879-1b2bddbd6551"
+    }
+  ],
+  "properties": {
+    "occupation": "Smuggler, Prostitute",
+    "enhancements": "Cybernetic augmentations",
+    "origin": "The Sprawl",
+    "role": "Central character"
+  },
+  "tags": [
+    "cyberpunk",
+    "protagonist",
+    "cyberspace",
+    "augmentation",
+    "spy",
+    "hacker-related"
+  ]
+}

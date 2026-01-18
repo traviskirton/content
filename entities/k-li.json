@@ -1,0 +1,50 @@
+{
+  "id": "e3ec530a-1eec-4f22-bac9-d00f8e0a3b6a",
+  "type": "character",
+  "name": "Kíli",
+  "description": "Kíli is one of the youngest dwarves in Thorin Oakenshield's company, known for his valor and skill in battle during the quest to reclaim Erebor.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Kíli is a dwarf of the royal line, the younger brother of Fíli and nephew to Thorin Oakenshield. As a member of the Company of Thorin, he joins the perilous quest to reclaim the Lonely Mountain and restore the Kingdom under the Mountain. Despite his youth, he is brave, loyal, and determined, growing significantly through the journey. He is one of the few dwarves skilled with bows and is also noted for his close relationship with the Elf Tauriel in adaptations, though this aspect is expanded outside the original book."
+    },
+    {
+      "title": "Personality",
+      "body": "Kíli exhibits a blend of youthful enthusiasm and courageous determination. He balances eagerness for adventure with a deep sense of duty to his kin and their quest. His personality is marked by loyalty, compassion, and a measure of charm. Kíli is also portrayed as compassionate toward other races, notably elves, setting him apart within the often insular dwarf society."
+    },
+    {
+      "title": "Story Role",
+      "body": "Serving as the youngest warrior among the dwarves, Kíli provides a vital role in the group’s combat engagements and morale. His skill in archery and swordplay proves crucial during encounters with goblins and spiders in Mirkwood and in the battles near Erebor. Kíli’s mortal wounding in the Battle of Five Armies profoundly affects the outcome of the quest and the fate of the other characters, including his brother Fíli."
+    },
+    {
+      "title": "Relationships",
+      "body": "Kíli shares a close familial bond with his brother Fíli, both of whom maintain unwavering loyalty to their uncle Thorin Oakenshield. Their camaraderie and mutual protection define their interactions. In cinematic adaptations, Kíli develops a poignant romantic connection with Tauriel, an elf, highlighting themes of love bridging ancient cultural divides. His relationships encapsulate both kinship ties and wider alliances forged during their journey."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Kíli is distinguished among the dwarves for his proficiency with a bow and arrow—a rarity in dwarf culture, which favors axes and swords. He is also a skilled swordsman and mountaineer, demonstrating agility and courage in battle. His combat expertise is balanced with physical endurance, allowing him to face formidable monsters such as giant spiders and goblins. Kíli’s youthful vigor complements his tactical acumen during the company's travels."
+    }
+  ],
+  "aliases": [
+    "Kili",
+    "Prince Kíli",
+    "The Youngest Dwarf",
+    "Son of Dis"
+  ],
+  "relationships": [],
+  "properties": {
+    "race": "Dwarf",
+    "gender": "Male",
+    "weapon_specialty": "Archery and swordsmanship",
+    "age": "Young adult",
+    "family_lineage": "Royal"
+  },
+  "tags": [
+    "The Hobbit",
+    "Dwarf",
+    "Middle-earth",
+    "Adventurer",
+    "Warrior",
+    "Royalty"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "668d4c66-92e8-4b6e-b695-bd9fd6283f22",
+  "type": "character",
+  "name": "Gandalf",
+  "description": "Gandalf is a wise and powerful wizard, a guiding figure who leads the Fellowship and counsels the peoples of Middle-earth against the shadow of Sauron.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Gandalf the Grey is one of the Maiar, immortal beings sent by the Valar to assist the peoples of Middle-earth in their struggle against evil. For centuries, he has wandered Middle-earth, gaining wisdom and knowledge, advocating for the fight against Sauron's growing power. Known for his distinctive grey robes and pointed hat, Gandalf is a respected leader and mentor."
+    },
+    {
+      "title": "Personality",
+      "body": "Gandalf embodies wisdom, kindness, and a sense of humor, combined with a resolute determination to protect Middle-earth. He is compassionate toward the small and humble but unwavering when confronting evil. Gandalf's guidance is often cryptic yet profound, displaying deep insight into the flows of fate and power. His role as a catalyst for events is balanced by his humility and desire to empower others."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Fellowship of the Ring,' Gandalf is instrumental in discovering the true nature of the Ring and organizing the Fellowship to destroy it. He acts as the group’s spiritual leader and protector, proposing strategies and often intervening in critical moments. His battle with the Balrog in Moria results in his temporary disappearance, a pivotal moment that tests the Fellowship's resolve. Gandalf's eventual transformation to Gandalf the White marks his greater role in the war to come."
+    },
+    {
+      "title": "Relationships",
+      "body": "Gandalf has close ties with many key figures in Middle-earth: he is a mentor and friend to Frodo and the other Hobbits, a trusted ally of Aragorn, and a respected warrior alongside Legolas and Gimli. His interactions with other races—Elves, Men, Dwarves, and Hobbits—demonstrate his impartiality and commitment to unity. Gandalf also answers directly to higher powers in Middle-earth, including the Valar."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Gandalf possesses formidable magical powers, including manipulation of fire, light, and shadow, as well as exceptional combat skills, wielding his staff and Glamdring, his elven sword. He has a prophetic understanding, deep knowledge of ancient lore, and great strategic acumen. Though powerful, Gandalf often refrains from direct domination, valuing free will and inspiring others to act. His wisdom and charisma inspire loyalty and hope."
+    }
+  ],
+  "aliases": [
+    "Mithrandir",
+    "Olórin",
+    "Gandalf the Grey",
+    "Gandalf the White",
+    "Incánus"
+  ],
+  "relationships": [
+    {
+      "type": "mentor_to",
+      "target": "ef8c90fa-e1e8-4c1a-9707-c626f1b6e7bd"
+    },
+    {
+      "type": "mentor_to",
+      "target": "0e4a7328-6d97-40a1-8769-bb8c4f91e64d"
+    },
+    {
+      "type": "mentor_to",
+      "target": "9a12e591-8131-4a38-b2f1-64e345fe5c50"
+    },
+    {
+      "type": "mentor_to",
+      "target": "d4c6f2a9-45b3-427e-abd4-5241a7ca92b8"
+    }
+  ],
+  "properties": {
+    "species": "Maia",
+    "occupation": "Wizard, leader of the Fellowship",
+    "weapon": "Staff, Glamdring",
+    "affiliation": "Istari"
+  },
+  "tags": [
+    "Wizard",
+    "Fellowship of the Ring",
+    "Maia",
+    "Middle-earth",
+    "Mentor",
+    "Magic",
+    "Leader"
+  ]
+}

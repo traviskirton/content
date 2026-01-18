@@ -40,6 +40,18 @@
     {
       "type": "worked_with",
       "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "composed_for",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "composed_for",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "composed_for",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
     }
   ],
   "properties": {

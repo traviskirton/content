@@ -1,0 +1,50 @@
+{
+  "id": "a9d1b4f7-44a1-45e3-9c0c-a62d1a386796",
+  "type": "location",
+  "name": "Terminus",
+  "description": "Terminus is the remote and isolated planet at the edge of the galaxy, home to the Foundation, established to preserve knowledge and civilization.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Terminus is a small, resource-poor planet located at the galaxy's outer fringe. Its primary importance lies not in natural wealth or strategic military significance but as the chosen site for the Foundation’s base of operations. Established by Hari Seldon and his psychohistorical vision, Terminus serves as a seed from which a new galactic civilization is expected to grow, preserving scientific knowledge during the fall of the Galactic Empire."
+    },
+    {
+      "title": "Appearance",
+      "body": "Visually, Terminus is marked by a sparsely populated and somewhat barren landscape with rocky terrain and modest settlements. The human-made settlements are utilitarian, focused on research, storage, and administration rather than aesthetic appeal. Facilities are constructed from durable materials to withstand the harsh environment, with domed research centers and government buildings scattered amid the planet’s natural features."
+    },
+    {
+      "title": "History",
+      "body": "Chosen specifically for its isolation and safety from imperial interference, Terminus was colonized by the First Foundation established as part of Hari Seldon’s plan. Over time, the planet became the intellectual and political kernel of the new civilization, growing in influence despite its initial insignificance. Its history is marked by political intrigue, external threats from neighboring star systems, and the continuous drive to fulfill Seldon’s roadmap for galaxy-wide resurgence."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Terminus is central to the Foundation series, embodying the birth of an alternative power to the waning Galactic Empire. It represents hope, resilience, and the strategic use of knowledge as power. The planet and its inhabitants navigate challenges that shape the galaxy’s future, making Terminus a focal point of Asimov’s exploration of societal evolution."
+    }
+  ],
+  "aliases": [
+    "Foundation Planet",
+    "Edgeworld",
+    "Seldon's Base"
+  ],
+  "relationships": [
+    {
+      "type": "contains",
+      "target": "a0e4d12e-d9e4-4da7-916f-497f7e85bb09"
+    }
+  ],
+  "properties": {
+    "planet_type": "Resource-Poor",
+    "population": "Thousands",
+    "status": "Capital of the Foundation",
+    "location": "Galactic Fringe"
+  },
+  "tags": [
+    "Foundation",
+    "Science Fiction",
+    "Planet",
+    "Psychohistory",
+    "Isaac Asimov",
+    "Outer Rim",
+    "Galactic Fringe"
+  ]
+}

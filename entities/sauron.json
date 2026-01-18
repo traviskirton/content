@@ -1,0 +1,61 @@
+{
+  "id": "5fcd7a2e-6397-45dd-82dd-936dbeb0f251",
+  "type": "character",
+  "name": "Sauron",
+  "description": "Sauron is the primary antagonist of the Lord of the Rings, a dark lord who seeks to dominate Middle-earth through the One Ring.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Sauron was originally a Maia, a divine spirit in the service of the god-like Valar, who became corrupted by the first Dark Lord, Morgoth. After Morgoth's defeat, Sauron rose as a new darkness in Middle-earth, forging the One Ring to control all other Rings of Power. His essence became tied to that Ring, granting him immense power but also anchoring his fate to it. Over millennia, he sought to reclaim the Ring and subjugate the free peoples of Middle-earth under his shadowy dominion, leading to vast wars and ruin."
+    },
+    {
+      "title": "Personality",
+      "body": "Sauron's personality, while not fully explored in a traditional sense, is marked by malevolent ambition, cunning, and an insatiable lust for power. He embodies corruption, domination, and fear. His will to control and bend others to his design is absolute, yet he is capable of calculated manipulation and deception, often operating through intermediaries like Saruman or the Ringwraiths. Sauron's presence evokes dread and his influence corrupts all things it touches."
+    },
+    {
+      "title": "Story Role",
+      "body": "Throughout 'The Fellowship of the Ring' and the wider narrative, Sauron stands as the looming threat whose desire to obtain the One Ring shapes the entire plot. While he rarely appears in physical form, his power and influence drive the actions of the Fellowship and the inhabitants of Middle-earth. The search for and destruction of the Ring is the central conflict that defines the story, with Sauron representing the ultimate evil that must be overcome."
+    },
+    {
+      "title": "Relationships",
+      "body": "Sauron's closest associates include the Ringwraiths, formerly kings of men who fell under his sway, and the corrupted wizard Saruman, who allies with him before his own downfall. Sauron's antagonistic relationships extend to all Free Peoples of Middle-earth, notably the Fellowship members, Elrond, Gandalf, and Galadriel. His pursuit pits him against a coalition striving to restore peace and prevent his dominion."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Sauron possesses immense supernatural power, including shape-shifting (prior to his loss of a physical form), dark sorcery, and the ability to dominate wills through the One Ring. He commands armies of Orcs, Trolls, and Men, as well as the Nazgûl, his terrifying Ringwraith servants. His essence is bound to the Ring, enabling him to exert far-reaching influence and corrupt the hearts and minds of mortals. Though diminished physically at the time of 'The Fellowship of the Ring,' his spiritual presence casts a shadow over all of Middle-earth."
+    }
+  ],
+  "aliases": [
+    "The Dark Lord",
+    "The Necromancer",
+    "Lord of the Rings",
+    "Gorthaur the Cruel",
+    "Annatar"
+  ],
+  "relationships": [
+    {
+      "type": "enemy_of",
+      "target": "28a92e48-bc40-4e1a-865f-1e2a6e0226e2"
+    },
+    {
+      "type": "master_of",
+      "target": "65a1271b-9a4f-4e6f-8dc7-8ed652b2c2a7"
+    }
+  ],
+  "properties": {
+    "race": "Maia (Corrupted)",
+    "gender": "Male (spirit form)",
+    "weapon": "One Ring",
+    "allegiance": "Morgoth (former), Self",
+    "goal": "Conquer Middle-earth"
+  },
+  "tags": [
+    "Dark Lord",
+    "Middle-earth",
+    "Evil",
+    "Power",
+    "Corruption",
+    "Rings of Power",
+    "Antagonist"
+  ]
+}

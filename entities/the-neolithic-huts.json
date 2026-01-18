@@ -1,0 +1,49 @@
+{
+  "id": "d4e6f31c-2d27-42b3-95f5-b56c842f6e12",
+  "type": "location",
+  "name": "The Neolithic Huts",
+  "description": "Ancient stone huts located on Dartmoor, serving as archaeological remnants that add historical depth to the moor setting.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Neolithic Huts are the remains of prehistoric stone dwellings found scattered across Dartmoor, representing some of the earliest human habitation in the moorland. They are simple, circular stone constructions that provide a tangible connection to the ancient past amid Dartmoor's vast and timeless landscape."
+    },
+    {
+      "title": "Appearance",
+      "body": "These huts are roughly circular stone structures built from local granite, often roofless in the present day but originally constructed with stone corbelled roofs or thatched covers. Typically small in size, they are marked by low, thick stone walls with small entrances, blending naturally into the rugged moor environment."
+    },
+    {
+      "title": "History",
+      "body": "Dating back thousands of years to the Neolithic period, these huts illustrate early settlement patterns and human adaptation to harsh environments. Their presence on Dartmoor has intrigued historians and archaeologists, representing a continuity of human story from prehistory to the Victorian era in which Doyle’s narrative is set."
+    },
+    {
+      "title": "Story Significance",
+      "body": "While not directly involved in the plot, the Neolithic Huts situate the story within a landscape rich with ancient history and mystery. Their ominous and enduring presence lends atmospheric depth to the moor, reinforcing themes of timelessness, superstition, and the unknown that permeate \"The Hound of the Baskervilles.\""
+    }
+  ],
+  "aliases": [
+    "Neolithic Stone Huts",
+    "Ancient Moor Huts"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "6e7a59f5-1f96-4ffe-a2d4-5433b5eae72e"
+    }
+  ],
+  "properties": {
+    "period": "Neolithic",
+    "material": "Granite",
+    "structure_type": "Stone hut",
+    "condition": "Ruined but identifiable"
+  },
+  "tags": [
+    "archaeology",
+    "ancient",
+    "prehistoric",
+    "ruins",
+    "Dartmoor",
+    "landmark",
+    "historical"
+  ]
+}

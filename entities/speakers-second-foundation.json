@@ -1,0 +1,61 @@
+{
+  "id": "e7b40bfc-4703-452e-8bb6-4399fb276f9a",
+  "type": "organization",
+  "name": "Speakers (Second Foundation)",
+  "description": "The Speakers are the secretive ruling elite of the Second Foundation, possessing immense mentalic powers and guiding the course of the galaxy behind the scenes.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Speakers are an enigmatic organization represented by the Second Foundation, dedicated to preserving psychohistorical order established by Hari Seldon. They are gifted mentalics, individuals capable of controlling and influencing minds to steer humanity's development. Unlike the First Foundation focused on physical science and technology, the Speakers work covertly, shaping events with subtle mental influence to protect the Seldon Plan and prevent galactic chaos."
+    },
+    {
+      "title": "Structure",
+      "body": "The Speakers operate in secrecy, forming an elite inner circle within the Second Foundation. They are hierarchically organized with senior mentalics known as Masters or Regents who oversee operations and mentorship of younger mentalics. Their organizational structure emphasizes confidentiality and mental discipline, with agents embedded discreetly throughout the galaxy to monitor and correct deviations from the Seldon Plan."
+    },
+    {
+      "title": "History",
+      "body": "Established by Hari Seldon as a counterpart to the First Foundation, the Speakers were created as custodians of psychohistory's mentalic component. Through centuries, they remained hidden, ensuring the survival and proper unfolding of Seldon's vision. Their existence remained a secret to the First Foundation and the broader galaxy until crises emerged threatening the Plan, when their interventions became pivotal."
+    },
+    {
+      "title": "Goals",
+      "body": "The primary goal of the Speakers is to safeguard the Seldon Plan, accelerating the recovery from the Galactic Empire's decline into a new stable civilization. They aim to act as subtle guides, intervening only when necessary to nudge individuals or collectives away from disruptive paths. Maintaining psychohistorical trajectories that minimize human suffering and disorder is foundational to their philosophy."
+    },
+    {
+      "title": "Key Members",
+      "body": "Key figures in the Speakers include its most powerful mentalics such as the First Speaker, who acts as the principal leader of the Second Foundation, and various Regents who mentor and deploy operatives across the galaxy. Although individual names are rarely revealed, notable members historically exemplify supreme mentalic abilities and rigorous philosophical commitment to the Seldon Plan."
+    }
+  ],
+  "aliases": [
+    "Second Foundation Speakers",
+    "The Speakers",
+    "Second Foundation Elite",
+    "Mentalic Controllers",
+    "Psychohistorical Regents"
+  ],
+  "relationships": [
+    {
+      "type": "uses",
+      "target": "f9d1b8a2-9093-40ed-bb6a-4d3e0a7cfe9f"
+    },
+    {
+      "type": "employs",
+      "target": "1056c6d1-f0de-49b3-b84f-36a735f3e1f7"
+    }
+  ],
+  "properties": {
+    "secretive": true,
+    "psychic_members": true,
+    "founder": "Hari Seldon",
+    "primary_goal": "Safeguard Seldon Plan",
+    "location": "Hidden on Kalgan and elsewhere"
+  },
+  "tags": [
+    "science fiction",
+    "Foundation series",
+    "psychohistory",
+    "mentalics",
+    "secret society",
+    "galactic empire",
+    "Isaac Asimov"
+  ]
+}

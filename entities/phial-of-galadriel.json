@@ -1,0 +1,61 @@
+{
+  "id": "ac4d6e8e-7f4a-4b9a-a6f0-31c3cbc6f3de",
+  "type": "item",
+  "name": "Phial of Galadriel",
+  "description": "A magical crystal vessel gifted by Galadriel containing the light of Eärendil’s star.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Phial of Galadriel is a small crystal bottle given by the Elf-queen Galadriel to Frodo Baggins during his quest. It contains the light of Eärendil’s star, captured within it to provide protection and hope against darkness in the shadowy and perilous lands of Middle-earth."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Phial is a small, clear crystal vial, shaped elegantly and delicate enough to be held in one hand. It glows faintly with an inner light, bright and pure like starlight, which shines stronger in the presence of evil or darkness, casting an ethereal glow that can pierce shadows and gloom."
+    },
+    {
+      "title": "Function",
+      "body": "The primary function of the Phial is to provide light and hope in times of darkness. It acts as a ward against evil and despair, shining brightly to repel creatures of shadow such as the monstrous Shelob. This light is not merely illumination but symbolizes courage, purity, and the enduring power of goodness."
+    },
+    {
+      "title": "History",
+      "body": "Crafted by the Elves and empowered with the light of Eärendil’s star, the Phial was entrusted to Galadriel, who later bestowed it upon Frodo as a token of friendship and aid for his perilous journey. It represents a connection to the ancient powers of the world and serves as a beacon of Elven grace and resilience."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Phial plays a crucial role in The Return of the King, particularly in the struggle against Shelob in the tunnels of Cirith Ungol. Its light allows Frodo to resist fear and darkness, highlighting the theme of light overcoming shadow. The Phial is a symbol of the hope that sustains the free peoples in their darkest hours during the War of the Ring."
+    }
+  ],
+  "aliases": [
+    "Galadriel’s Phial",
+    "Light of Eärendil",
+    "Phial of Light",
+    "Crystal of the Lady"
+  ],
+  "relationships": [
+    {
+      "type": "owned_by",
+      "target": "54f1428a-e4ca-4096-9a5e-8d7d3c6a7e2b"
+    },
+    {
+      "type": "gifted_by",
+      "target": "28a92e48-bc40-4e1a-865f-1e2a6e0226e2"
+    }
+  ],
+  "properties": {
+    "type": "Magical artifact",
+    "origin": "Lothlórien",
+    "power": "Protective light",
+    "material": "Crystal",
+    "era": "Third Age"
+  },
+  "tags": [
+    "Middle-earth",
+    "Magical Item",
+    "Elven Artifact",
+    "Light",
+    "The Lord of the Rings",
+    "Phial",
+    "Hope",
+    "Protection"
+  ]
+}

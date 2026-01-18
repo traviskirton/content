@@ -1,0 +1,61 @@
+{
+  "id": "2b93636b-d7ae-4b74-9f9a-71c5b091b42a",
+  "type": "character",
+  "name": "Slick Henry",
+  "description": "An innovative artist and craftsman who builds intricate mechanical creations from scrap, representing the fusion of technology and creativity.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Slick Henry is a former soldier turned avant-garde artist living on the fringes of the Sprawl. He specializes in assembling complex, lifelike mechanical constructs out of discarded materials, blending technology with personal vision. His workshop serves as both creative sanctuary and strategic base. His background is marked by loss and resilience, which shapes his artistic mission and his relationships with more conventional characters."
+    },
+    {
+      "title": "Personality",
+      "body": "Slick Henry is quirky, idealistic, and somewhat detached from the harsh realities of the corporate-controlled world. He blends cynicism with a genuine passion for artistic expression and mechanical invention. Despite being somewhat socially awkward, he possesses deep empathy and a willingness to aid others, often providing moral and practical support to his friends."
+    },
+    {
+      "title": "Story Role",
+      "body": "In Mona Lisa Overdrive, Slick Henry functions as a grounding force amidst the novel’s high-tech chaos. His creativity and technical prowess offer alternative perspectives to the dominant corporate narrative. Through his interactions with Bobby and Angie, he represents themes of resistance through art and the humanizing potential of technology."
+    },
+    {
+      "title": "Relationships",
+      "body": "Slick Henry maintains friendships with Bobby Newmark and Angie Mitchell, often assisting them with his mechanical innovations and pragmatic advice. His relationship with Mona Lisa is more tangential but built on mutual respect. These connections demonstrate the importance of community and individuality in an otherwise fragmented future."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Slick Henry is an expert mechanic and inventor, capable of repurposing scrap into functioning, intricate machines. His technical knowledge is complemented by an artistic sensibility that transcends mere engineering. Though not a hacker, his mechanical creations sometimes play critical roles in accessing or influencing physical and virtual spaces."
+    }
+  ],
+  "aliases": [
+    "Henry",
+    "Slick",
+    "Mechanic Artist"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "1c7f578f-fd87-4e76-aa99-507b2a12a2f9"
+    },
+    {
+      "type": "ally_of",
+      "target": "75ac4040-09ee-4397-bf11-8f7ca29d3b58"
+    },
+    {
+      "type": "ally_of",
+      "target": "fd9ab115-95bb-418b-a879-1b2bddbd6551"
+    }
+  ],
+  "properties": {
+    "occupation": "Artist, Mechanic",
+    "origin": "The Sprawl",
+    "role": "Supporting character",
+    "skills": "Mechanical engineering, Artistic creation"
+  },
+  "tags": [
+    "cyberpunk",
+    "artist",
+    "mechanical",
+    "resistance",
+    "technology",
+    "creative"
+  ]
+}

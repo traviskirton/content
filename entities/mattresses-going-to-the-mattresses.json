@@ -1,0 +1,56 @@
+{
+  "id": "6a249cde-cae6-482e-a9c8-4fccc610a53a",
+  "type": "item",
+  "name": "Mattresses (Going to the Mattresses)",
+  "description": "A term and tactic from The Godfather referring to preparation for open gang warfare, involving sleeping on mattresses for battle readiness.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "'Going to the Mattresses' is a euphemism used in The Godfather to describe families preparing for violent conflict or war against rivals. It literally refers to the act of sleeping elsewhere, often in safehouses or with bodyguards, as a precaution against assassination attempts or immediate danger during a Mafia turf war."
+    },
+    {
+      "title": "Appearance",
+      "body": "Though not a physical item, 'Mattresses' as depicted in the film are mattresses laid out in fortified locations where Mafia soldiers and family members stay to protect themselves and the family interests during escalated gang violence. The phrase conjures images of intense readiness and siege-like living conditions away from normal homes."
+    },
+    {
+      "title": "Function",
+      "body": "The term functions as a coded way of signaling escalation in gang conflicts. It serves both a literal and figurative purpose: literally, members stay on mattresses in secure locations to guard against attacks; figuratively, it marks a state of war, emphasizing the high stakes and readiness for violent confrontation within Mafia rivalries."
+    },
+    {
+      "title": "History",
+      "body": "In The Godfather, the phrase is prominently used during a critical period of conflict between the Corleone family and rival factions like the Tattaglias and Barzini family. It reflects the necessary precautions and the harsh realities of mob life, where trust is limited and family survival often depends on constant vigilance and readiness for conflict."
+    },
+    {
+      "title": "Story Significance",
+      "body": "'Going to the Mattresses' marks a turning point in the Mafia power struggle within The Godfather storyline, symbolizing the intensification of violence and the breakdown of peaceful negotiation. It contextualizes the sacrifices and tensions experienced by characters as they navigate deadly conflicts, underscoring themes of loyalty, survival, and the cost of power."
+    }
+  ],
+  "aliases": [
+    "Mattresses",
+    "Going to the Mattresses",
+    "Mattress War",
+    "Sleeping on Mattresses"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "92c8e41e-8570-4084-bb57-43f6db08737e"
+    }
+  ],
+  "properties": {
+    "type": "Mafia tactic",
+    "context": "Gang warfare",
+    "urgency_level": "High",
+    "material_form": "Mattresses",
+    "cultural_reference": true
+  },
+  "tags": [
+    "mafia",
+    "tactic",
+    "gang_warfare",
+    "The Godfather",
+    "organized_crime",
+    "survival",
+    "film_term"
+  ]
+}

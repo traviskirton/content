@@ -1,0 +1,51 @@
+{
+  "id": "f6a7d271-963f-4f3e-afa8-26457a1aebd4",
+  "type": "organization",
+  "name": "Scotland Yard",
+  "description": "The headquarters of the Metropolitan Police Service in London, renowned for its criminal investigations and law enforcement.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Scotland Yard is the headquarters of London's Metropolitan Police Service, established in the 19th century to oversee policing in the city. Known for its role in investigating serious crimes, it became synonymous with criminal investigation expertise, particularly through its detective branch. The name 'Scotland Yard' derives from the location of its original headquarters on Great Scotland Yard street in London."
+    },
+    {
+      "title": "Structure",
+      "body": "The organization is structured into several specialized units including uniformed policing, detective branches, counter-terrorism, and forensics departments. Commanded by the Commissioner of the Metropolitan Police, Scotland Yard coordinates law enforcement activities across Greater London. Key units like the Criminal Investigation Department (CID) have historically played pivotal roles in solving complex cases."
+    },
+    {
+      "title": "History",
+      "body": "Founded in 1829 by then-Home Secretary Sir Robert Peel, the Metropolitan Police Service introduced a formal and professional approach to policing in London. Over the decades, Scotland Yard grew in prestige, famously handling cases like the Jack the Ripper murders in the late 19th century. Its detective work set the foundation for modern criminal investigation techniques, contributing heavily to public trust in law enforcement."
+    },
+    {
+      "title": "Goals",
+      "body": "Scotland Yard aims to maintain law and order in London, prevent and investigate criminal activity, protect citizens, and uphold justice. It focuses on community engagement, crime prevention, and leveraging forensic science to secure convictions. Upholding public safety while respecting human rights remains central to its mission."
+    },
+    {
+      "title": "Key Members",
+      "body": "Notable figures associated with Scotland Yard include Sir Charles Warren, an early commissioner involved in Ripper investigations, and fictional detectives inspired by the Yard such as Inspector Lestrade. The organization’s team of detectives, forensic experts, and uniformed officers have often been portrayed as emblematic of British policing excellence."
+    }
+  ],
+  "aliases": [
+    "Metropolitan Police Service Headquarters",
+    "The Yard",
+    "London Police Headquarters",
+    "Met Police HQ"
+  ],
+  "relationships": [],
+  "properties": {
+    "founded": "1829",
+    "location": "London, England",
+    "jurisdiction": "Greater London",
+    "headquarters": "Victoria Embankment",
+    "type": "Police Force"
+  },
+  "tags": [
+    "police",
+    "law enforcement",
+    "London",
+    "criminal investigation",
+    "detective agency",
+    "British history",
+    "public safety"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "21f7b34d-5e26-4665-8abe-26d5fe710b59",
+  "type": "character",
+  "name": "Sef Sermak",
+  "description": "Sef Sermak is a military leader and influential figure in the Foundation series, known for his tactical command during the conflicts confronting the young Foundation.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Sef Sermak is portrayed as a capable and resourceful general during the era when the Foundation faces growth pains and external threats from regional powers and warlords. Emerging from a military background, Sermak takes part in various skirmishes and battles that determine the survival and expansion of the Foundation's influence. His expertise lies mainly in ground operations and defense strategies, supporting the Foundation's strategic ambitions during its formative decades."
+    },
+    {
+      "title": "Personality",
+      "body": "Sermak’s personality reflects the traits expected of a seasoned military commander: disciplined, resolute, and tactical. However, he also possesses a diplomatic side, aware that brute military force alone is insufficient for lasting success and that political maneuvering must accompany martial strength. His leadership style is firm but pragmatic, gaining respect from subordinates and peers alike in the volatile political landscape of the Foundation era."
+    },
+    {
+      "title": "Story Role",
+      "body": "Sef Sermak plays a critical supporting role in the military defense and occasional offensive maneuvers that keep the Foundation secure against hostile neighbors and rebellious factions. His contributions help solidify the Foundation’s power projection capabilities, especially when the Foundation begins to transition from reliance primarily on science and trade to also including military strength as an instrument of influence. He is often instrumental in bridging the gap between civilian leadership and military necessity."
+    },
+    {
+      "title": "Relationships",
+      "body": "Sermak interacts with Foundation mayors and leaders such as Lewis Pirenne and Hober Mallow, providing military insight into the Foundation’s broader strategy. He sometimes faces tension with political figures favoring non-violent solutions but earns their reluctant trust through his successful campaigns. His alliances with logistic and intelligence officers ensure his campaigns are well supported and integrated with the Foundation’s overall goals."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Sef Sermak is notable for his tactical acumen in military engagements, command of infantry forces, and logistics management. He demonstrates an ability to adapt to changing battlefield conditions and make swift decisions under pressure. His understanding of both defensive and guerrilla tactics enables the Foundation to face larger adversaries. Additionally, Sermak is skilled in negotiation and cooperation with allies, balancing military actions with political objectives."
+    }
+  ],
+  "aliases": [
+    "General Sermak",
+    "Military Commander",
+    "Foundation General"
+  ],
+  "relationships": [
+    {
+      "type": "works_with",
+      "target": "87a4b6cc-5632-4f79-8c3e-1dab75e818e1"
+    },
+    {
+      "type": "works_with",
+      "target": "9a57e2c7-9e3a-4a08-9a43-7f4f8d304ab3"
+    }
+  ],
+  "properties": {
+    "role": "Military Leader",
+    "affiliation": "Foundation",
+    "rank": "General",
+    "expertise": "Tactical Command"
+  },
+  "tags": [
+    "Foundation",
+    "Sci-Fi",
+    "Military",
+    "Commander",
+    "Isaac Asimov",
+    "Tactical Leader",
+    "Political-Military"
+  ]
+}

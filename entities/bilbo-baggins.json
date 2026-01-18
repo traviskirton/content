@@ -1,0 +1,63 @@
+{
+  "id": "02c9e697-04cc-4a42-b777-b83cff3b4576",
+  "type": "character",
+  "name": "Bilbo Baggins",
+  "description": "Bilbo Baggins is a renowned Hobbit adventurer and the original Ring-bearer who sets the stage for the quest of the Fellowship of the Ring.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Bilbo Baggins is a gentle and well-to-do Hobbit of the Shire, originally living a quiet and comfortable life at Bag End. His unexpected transformation began with his adventures in 'The Hobbit,' where he discovered the One Ring and risked his life against dragons, trolls, and goblins. He belongs to a long line of respectable hobbits but stands apart for his courage and curiosity. His acquisition of the One Ring marked the beginning of the events that would lead to the War of the Ring."
+    },
+    {
+      "title": "Personality",
+      "body": "Bilbo is initially a home-loving and somewhat cautious Hobbit but reveals a capacity for boldness and ingenuity throughout his adventures. He exhibits kindness, wisdom, and an occasional mischievous streak. His possession of the Ring brings both a mysterious influence and a deep internal conflict as he develops an attachment to it. Despite this, he remains a fundamentally good-hearted and gracious character, beloved by many, embodying Hobbit virtues balanced with adventurous spirit."
+    },
+    {
+      "title": "Story Role",
+      "body": "Bilbo's obtaining of the One Ring sets the entire saga of the Fellowship into motion. Though he retires from the Shire to Rivendell at the start of 'The Fellowship of the Ring,' his presence and the legacy of the Ring influence the quest greatly. He passes the Ring to his nephew Frodo, becoming a catalyst for the main events. In Rivendell, Bilbo participates in the Council of Elrond where the Fellowship is formed, providing wisdom and historical context that shape the group’s mission."
+    },
+    {
+      "title": "Relationships",
+      "body": "Bilbo is the uncle and adoptive guardian of Frodo Baggins, profoundly influencing the younger Hobbit's life. He shares a close friendship with Gandalf the Grey, who first enlisted him for the adventure that discovered the Ring. Bilbo is respected by the Elves of Rivendell, especially Lord Elrond, who hosts him during his later years. His ties to Hobbit families, the wider Middle-earth peoples, and the Fellowship bridge various alliances and histories important to the quest."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Bilbo is known for his cunning, stealth, and skill in riddling and sharp wit. His adventures have honed his swordsmanship and survival skills, particularly aided by his acquisition of the magical ring that grants invisibility. He is resourceful in dire situations and possesses a deep knowledge of Middle-earth's lore. Although not a traditional warrior, Bilbo's bravery and cleverness allow him to face dangers far beyond the typical Hobbit experience."
+    }
+  ],
+  "aliases": [
+    "Mr. Baggins",
+    "The Burglar",
+    "Ring-bearer",
+    "Bilbo"
+  ],
+  "relationships": [
+    {
+      "type": "family",
+      "target": "2459c6a5-4ac3-4faa-939e-0f925885a969"
+    },
+    {
+      "type": "family",
+      "target": "7e3bf281-3158-45a9-b649-e0eb7a5a35ef"
+    },
+    {
+      "type": "mentor",
+      "target": "b427e61f-c8e3-4ca8-9bf2-2c17a0f50816"
+    }
+  ],
+  "properties": {
+    "origin": "Shire",
+    "race": "Hobbit",
+    "affiliation": "None (retired adventurer)",
+    "occupation": "Adventurer, Writer",
+    "age": "111 (at start of Fellowship)"
+  },
+  "tags": [
+    "Middle-earth",
+    "Hobbit",
+    "Ring-bearer",
+    "Adventurer",
+    "Author",
+    "Fellowship"
+  ]
+}

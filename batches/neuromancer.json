@@ -1,0 +1,89 @@
+{
+  "source": "Neuromancer",
+  "entities": [
+    {
+      "type": "person",
+      "name": "William Gibson"
+    },
+    {
+      "type": "franchise",
+      "name": "Sprawl Trilogy"
+    },
+    {
+      "type": "book",
+      "name": "Neuromancer"
+    },
+    {
+      "type": "character",
+      "name": "Henry Case"
+    },
+    {
+      "type": "character",
+      "name": "Molly Millions"
+    },
+    {
+      "type": "character",
+      "name": "Armitage"
+    },
+    {
+      "type": "character",
+      "name": "Wintermute"
+    },
+    {
+      "type": "character",
+      "name": "Neuromancer (AI)"
+    },
+    {
+      "type": "character",
+      "name": "Peter Riviera"
+    },
+    {
+      "type": "character",
+      "name": "Lady 3Jane"
+    },
+    {
+      "type": "character",
+      "name": "The Finn"
+    },
+    {
+      "type": "location",
+      "name": "Chiba City"
+    },
+    {
+      "type": "location",
+      "name": "The Sprawl"
+    },
+    {
+      "type": "location",
+      "name": "Freeside"
+    },
+    {
+      "type": "location",
+      "name": "Straylight"
+    },
+    {
+      "type": "location",
+      "name": "Cyberspace (Neuromancer)"
+    },
+    {
+      "type": "organization",
+      "name": "Tessier-Ashpool S.A."
+    },
+    {
+      "type": "item",
+      "name": "Cyberspace Deck"
+    },
+    {
+      "type": "item",
+      "name": "Microsofts (Neuromancer)"
+    },
+    {
+      "type": "item",
+      "name": "Simstim"
+    },
+    {
+      "type": "item",
+      "name": "ICE (Intrusion Countermeasures Electronics)"
+    }
+  ]
+}

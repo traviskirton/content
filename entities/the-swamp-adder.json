@@ -1,0 +1,54 @@
+{
+  "id": "a1cdd2ef-e08f-4f58-a88c-e6ff8cd4c9ea",
+  "type": "item",
+  "name": "The Swamp Adder",
+  "description": "A deadly venomous snake used by Dr. Roylott as a weapon in the mystery of 'The Adventure of the Speckled Band.'",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Swamp Adder is described as the deadliest snake in India, possessing a deadly bite and venom capable of causing rapid death. It is central to the murder scheme devised by Dr. Roylott in the story, where it is trained to travel through the ventilator between rooms to attack the intended victim. The snake symbolizes exotic and lethal danger, enhancing the story's gothic and suspenseful tone."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Swamp Adder in the story is characterized by its distinctive 'speckled band,' which gives the narrative its title. It is reputed to have a greenish, speckled pattern along its body that camouflages it in swampy environments. Although the actual snake is fictional or a composite, the depiction fits the image of a venomous, slender, and agile reptile capable of swift and silent attack."
+    },
+    {
+      "title": "Function in the Story",
+      "body": "The snake acts as a living but concealed murder weapon, used by Dr. Roylott to kill Julia Stoner and attempt to kill Helen Stoner. The animal's presence inside the manor, especially its ability to slither through a ventilator and descend a fake bell-pull onto the sleeping victim, makes it a unique and sinister method of homicide, challenging Holmes’s deductive skills."
+    },
+    {
+      "title": "History and Origin",
+      "body": "The Swamp Adder is said to be brought from India by Dr. Roylott after his medical career there. It is trained and restrained carefully to obey his commands, and kept in his chamber. This exotic origin contributes to the character of Dr. Roylott as a man with dangerous knowledge and resources drawn from British colonial expansion and the Victorian fascination with the exotic east."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Beyond its direct lethal function, the Swamp Adder is a symbol of hidden dangers lurking beneath civilized surfaces and the use of knowledge for malicious acts. Its unveiling resolves the central mystery, providing not only a physical threat but also metaphorical resonance about fear, inheritance, and family secrets."
+    }
+  ],
+  "aliases": [
+    "Swamp Adder",
+    "Speckled Band",
+    "Deadly Indian Snake"
+  ],
+  "relationships": [
+    {
+      "type": "contained_in",
+      "target": "8a4f0ea5-e4d0-49d1-bfa1-d3cb64f4f0f7"
+    }
+  ],
+  "properties": {
+    "classification": "Venomous snake",
+    "origin": "India",
+    "lethality": "Extreme",
+    "method_of_use": "Murder weapon by Dr. Roylott",
+    "attached_to": "Bell-pull rope"
+  },
+  "tags": [
+    "fictional animal",
+    "murder weapon",
+    "venomous snake",
+    "Sherlock Holmes",
+    "exotic",
+    "Indian wildlife"
+  ]
+}

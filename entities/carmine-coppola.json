@@ -1,0 +1,53 @@
+{
+  "id": "c857a03d-7ebb-4c40-b28c-b2300a053505",
+  "type": "person",
+  "name": "Carmine Coppola",
+  "description": "American composer and flutist who created the evocative musical score for The Godfather Part II, enhancing the film’s emotional depth.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Carmine Coppola was born on April 11, 1910, in New York City and was an accomplished composer and flutist. He is notably recognized for his musical contributions to films directed by his son, Francis Ford Coppola. Carmine’s work is marked by its integration of traditional Italian motifs with contemporary orchestration."
+    },
+    {
+      "title": "Career",
+      "body": "Coppola's career as a composer included both concert works and film scores, frequently collaborating with his son on major projects. His score for The Godfather Part II expanded on the themes introduced in the original film and significantly contributed to the trilogy’s iconic status. His musical stylings blend classical elements with a cinematic emotional resonance."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Among Carmine Coppola’s most celebrated works are the scores for The Godfather Trilogy, Apocalypse Now, and The Outsiders. His thematic compositions for The Godfather Part II complement the film’s narrative intricacy and period settings, using instruments evocative of the Corleone family’s heritage."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Coppola’s music combines lush orchestration with subtle cultural influences, especially Italian folk and classical elements, which lend authenticity and poignancy to the films he scored. His work on The Godfather Part II helped to define the mood and atmosphere, making the soundtrack an integral part of the filmmaking experience."
+    }
+  ],
+  "aliases": [
+    "Carminie Coppola",
+    "C. Coppola",
+    "Composer Coppola"
+  ],
+  "relationships": [
+    {
+      "type": "composed_for",
+      "target": "a34e10f7-2f77-48bd-803f-efa34f19c87f"
+    },
+    {
+      "type": "family_of",
+      "target": "3a0c7f6d-9b31-478c-a716-f3fdbc3b10e7"
+    }
+  ],
+  "properties": {
+    "birthdate": "1910-04-11",
+    "deathdate": "1991-05-26",
+    "occupation": "Composer, Musician",
+    "nationality": "American"
+  },
+  "tags": [
+    "composer",
+    "film score",
+    "The Godfather Part II",
+    "Italian-American",
+    "orchestration",
+    "cinematic music"
+  ]
+}

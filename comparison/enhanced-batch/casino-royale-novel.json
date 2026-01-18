@@ -1,0 +1,86 @@
+{
+  "id": "9b1ab6a0-df91-4c86-8a72-8c23b7428298",
+  "type": "book",
+  "name": "Casino Royale (Novel)",
+  "description": "The first James Bond novel by Ian Fleming, introducing 007.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "'Casino Royale' is a spy novel first published in 1953 by Ian Fleming, marking the introduction of the British secret agent James Bond, code number 007. The novel combines high-stakes gambling with Cold War espionage, setting the template for many future Bond stories."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "The story follows James Bond as he attempts to bankrupt Le Chiffre, a treasurer for a Soviet organization, SMERSH, by defeating him in a high-stakes baccarat game at the Casino Royale in the French seaside resort town of Royale-les-Eaux. Bond faces various threats including assassination attempts and a complicated romantic entanglement with Vesper Lynd, the treasury agent assigned to assist him."
+    },
+    {
+      "title": "Themes",
+      "body": "The novel explores themes of loyalty, betrayal, the moral cost of espionage, and the complex nature of love and duty. The tension between personal feelings and professional obligations is central to Bond's character, foregrounding the cold realities of spy work beneath the glamour."
+    },
+    {
+      "title": "Reception",
+      "body": "'Casino Royale' was met with positive reviews, praised for its suspenseful plot and charismatic protagonist. It successfully launched the James Bond series, spawning a prolific literary and film franchise. Over the years, it has remained a favorite among fans and critics alike."
+    }
+  ],
+  "aliases": [
+    "Casino Royale",
+    "James Bond: Casino Royale"
+  ],
+  "relationships": [
+    {
+      "type": "author",
+      "target": "e5e8a4b9-2137-4f7c-9030-8d2c3e7f3521"
+    },
+    {
+      "type": "features_character",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    },
+    {
+      "type": "features_character",
+      "target": "e4f2568b-8c69-4e8a-9cf3-b12584970a29"
+    },
+    {
+      "type": "features_character",
+      "target": "9e0bb743-cfe4-4f32-866a-fad4a4d53715"
+    },
+    {
+      "type": "features_character",
+      "target": "2d0a0ec6-6fdb-4cb8-b3af-9314e8f6a0ba"
+    },
+    {
+      "type": "features_location",
+      "target": "363797be-3d66-4844-b24d-39f1657c5c00"
+    },
+    {
+      "type": "features_location",
+      "target": "c3f0383d-af85-4de1-b691-667d0a3d9a10"
+    },
+    {
+      "type": "features_organization",
+      "target": "50fa1b1e-8679-4b51-9646-e429e7c9da31"
+    },
+    {
+      "type": "features_organization",
+      "target": "4e9eab3b-d986-44e9-bf2a-7bfdad2c3f9f"
+    },
+    {
+      "type": "franchise",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    }
+  ],
+  "properties": {
+    "author": "Ian Fleming",
+    "publication_year": 1953,
+    "genre": "Spy fiction",
+    "language": "English",
+    "pages": 240
+  },
+  "tags": [
+    "novel",
+    "spy",
+    "James Bond",
+    "1940s",
+    "casino",
+    "baccarat",
+    "espionage"
+  ]
+}

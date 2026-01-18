@@ -30,16 +30,16 @@
       "target": "e2a7890e-ac3e-4a58-a5d9-7f33cc9c5867"
     },
     {
-      "type": "acted_in",
-      "target": "b9ecb7c5-7d9b-4d73-8297-43a2b9c4431a"
-    },
-    {
       "type": "worked_with",
       "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     },
     {
       "type": "worked_with",
       "target": "f38c8570-bf94-458e-b8b8-4a5fdc5efaa1"
+    },
+    {
+      "type": "acted_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
     }
   ],
   "properties": {

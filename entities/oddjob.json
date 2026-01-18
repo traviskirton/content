@@ -1,0 +1,57 @@
+{
+  "id": "c3a2ed9e-7bfa-4517-a6d8-05e6263a9a48",
+  "type": "character",
+  "name": "Oddjob",
+  "description": "Loyal and deadly Korean henchman of Auric Goldfinger, known for his lethal hat-throwing weapon and silent brutality.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Oddjob is introduced as the fiercely loyal personal bodyguard and henchman of Auric Goldfinger. Originating from Korea, he is an imposing figure known for his unmatched physical strength and martial prowess. His discipline and unwavering dedication to Goldfinger make him an effective protector and assassin. While his past is not deeply explored, his reputation as a silent but lethal enforcer precedes him."
+    },
+    {
+      "title": "Personality",
+      "body": "Oddjob is silent and stoic, rarely showing emotion or engaging in dialogue. This cold demeanor amplifies his menacing presence. He operates with precision and professionalism, displaying no hesitation in carrying out orders, including murder. Despite his apparent lack of personality, his loyalty to Goldfinger is profound, bordering on fanaticism. Oddjob's presence often intimidates both allies and enemies alike."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Goldfinger,' Oddjob acts as the primary physical threat to James Bond. He is involved in several intense confrontations with Bond, including scenes that demonstrate his dangerous fighting skills and use of a razor-edged steel-rimmed bowler hat as a deadly weapon. Oddjob's role underlines the peril Bond faces, as he works to eliminate the British agent and protect Goldfinger's criminal plans."
+    },
+    {
+      "title": "Relationships",
+      "body": "Oddjob's primary allegiance is to Auric Goldfinger, to whom he shows absolute loyalty. His interactions with other characters are primarily antagonistic, especially toward Bond. Outside of his service to Goldfinger, he maintains little discernible personal connections, instead operating as a tool of his employer's will."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Oddjob is characterized by exceptional physical strength, agility, and combat skills, including martial arts expertise. His signature weapon is a lethal steel-rimmed bowler hat, which he can throw with deadly accuracy and force, capable of decapitating or severely injuring opponents. Oddjob also displays stealth and tactical acumen, making him a dangerous assassin and bodyguard."
+    }
+  ],
+  "aliases": [
+    "Oddjob",
+    "Goldfinger's Henchman",
+    "Odd Job"
+  ],
+  "relationships": [
+    {
+      "type": "serves",
+      "target": "4e891f2e-9b11-4a01-b088-591ade729d5f"
+    },
+    {
+      "type": "appears_in",
+      "target": "71b2b558-39dc-4a5a-bb9a-405f6c94e4f2"
+    }
+  ],
+  "properties": {
+    "nationality": "Korean",
+    "occupation": "Bodyguard and assassin",
+    "role": "Henchman",
+    "signature_weapon": "Steel-rimmed bowler hat"
+  },
+  "tags": [
+    "henchman",
+    "assassin",
+    "martial artist",
+    "James Bond villain",
+    "Cold War fiction",
+    "silent killer"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "6a930372-1e04-4532-bbb5-e3a100c6c5ef",
+  "type": "item",
+  "name": "Safari Browser",
+  "description": "Safari Browser is Apple's proprietary web browser, optimized for performance and energy efficiency on Apple devices.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Safari is a web browser developed by Apple Inc., first launched in 2003 for Mac OS X and later adapted to iOS devices. It emphasizes speed, energy efficiency, privacy, and minimalistic design to provide a seamless browsing experience within the Apple ecosystem."
+    },
+    {
+      "title": "Appearance",
+      "body": "Safari features a clean user interface with a unified search and address bar, a tabbed browsing system, and a customizable start page with frequently visited sites and suggestions. Its minimal chrome design focuses on maximizing the content viewing area with intuitive navigation controls."
+    },
+    {
+      "title": "Function",
+      "body": "The browser offers fast rendering with Apple’s WebKit engine, advanced privacy protections like Intelligent Tracking Prevention, and supports modern web standards. It includes features like Reader Mode, built-in translation, and seamless integration with iCloud for syncing bookmarks and tabs across Apple devices."
+    },
+    {
+      "title": "History",
+      "body": "Developed by Apple to reduce reliance on third-party browsers, Safari debuted on Mac OS X Panther and quickly became the default browser. It notably powered the browsing experience on the iPhone upon its release in 2007, setting a new standard for mobile browsers with touch optimization and streamlined user experience."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Safari symbolizes Apple’s commitment to creating end-to-end integrated software and hardware experiences. Its development paralleled the rise of mobile internet usage and helped cement iOS’s appeal. By focusing on privacy and performance, Safari continues to differentiate Apple’s products in a competitive browser market."
+    }
+  ],
+  "aliases": [
+    "Apple Safari",
+    "Safari Web Browser",
+    "Safari Internet Browser"
+  ],
+  "relationships": [
+    {
+      "type": "developed_by",
+      "target": "c848cc2b-5060-4c37-8a82-f8e9e10f23d9"
+    },
+    {
+      "type": "contributed_to_by",
+      "target": "812a6c69-b6f9-4eaf-9b66-57e69f055c71"
+    }
+  ],
+  "properties": {
+    "initial_release": 2003,
+    "engine": "WebKit",
+    "supported_platforms": [
+      "macOS",
+      "iOS",
+      "iPadOS"
+    ],
+    "features": [
+      "Privacy Protection",
+      "iCloud Sync",
+      "Reader Mode",
+      "Translation"
+    ],
+    "developer": "Apple Inc."
+  },
+  "tags": [
+    "browser",
+    "internet",
+    "software",
+    "Apple",
+    "webkit",
+    "mobile",
+    "privacy"
+  ]
+}

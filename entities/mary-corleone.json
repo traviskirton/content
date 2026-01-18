@@ -1,0 +1,66 @@
+{
+  "id": "58d6c297-9a28-46a7-8f37-0b287f754964",
+  "type": "character",
+  "name": "Mary Corleone",
+  "description": "The daughter of Michael Corleone, whose involvement in the family business has tragic consequences.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Mary Corleone is the youngest daughter of Michael Corleone and Kay Adams-Corleone. Raised in a world shadowed by organized crime, she represents both the innocence and vulnerability within the Corleone family. Introduced prominently in The Godfather Part III, Mary struggles with the weight of her family’s legacy and the dangers that accompany it. Despite her sheltered upbringing, she becomes increasingly entwined in the volatile world her father inhabits, eventually suffering tragic consequences."
+    },
+    {
+      "title": "Personality",
+      "body": "Mary is portrayed as gentle, loving, and somewhat naïve, especially regarding the true nature of her family’s criminal dealings. She exhibits a fierce loyalty and love towards her father, Michael, and feels a protective instinct toward her family. However, her naïveté and emotional vulnerability make her susceptible to manipulation and danger, highlighting her as a tragic figure in the narrative. She also demonstrates moments of strength and courage in difficult situations."
+    },
+    {
+      "title": "Story Role",
+      "body": "Mary’s role in The Godfather Part III is both pivotal and symbolic. She becomes romantically involved with Vincent Mancini, her cousin’s illegitimate son, which marks her deeper involvement in the family’s affairs. Her tragic death during an assassination attempt on Michael Corleone is a climactic moment, reinforcing the film's theme of the cost of power and the inescapability of family legacy. Her loss profoundly affects Michael and marks a turning point in the story."
+    },
+    {
+      "title": "Relationships",
+      "body": "Mary maintains a complex relationship network within the Corleone family. She is the daughter of Michael Corleone and Kay Adams, sister to Anthony and other siblings. Her romantic relationship with Vincent Mancini is central to the plot, blending personal love with family politics. She is loved and protected by her father Michael but is seen as a liability by some antagonists. Her relationships reflect the intersection of family loyalty, love, and tragedy."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Mary is not depicted as involved in the operational side of the Corleone crime family; instead, her skills are more personal and emotional. She shows empathy, compassion, and emotional intelligence in her interactions. Her musical talent is touched upon, as she is often shown playing piano, indicating a cultured and refined upbringing despite the violent backdrop. Her ability to inspire loyalty and affection in the family underscores her role as an emotional centerpiece."
+    }
+  ],
+  "aliases": [
+    "Mary",
+    "Mary Corleone Mancini"
+  ],
+  "relationships": [
+    {
+      "type": "family_of",
+      "target": "aa2046b8-1cee-4191-9143-c73dce383d64"
+    },
+    {
+      "type": "child_of",
+      "target": "aa2046b8-1cee-4191-9143-c73dce383d64"
+    },
+    {
+      "type": "child_of",
+      "target": "f6ccff4c-7c1f-4e91-9e94-f588299fcb4c"
+    },
+    {
+      "type": "romantic_partner_of",
+      "target": "c4f5ee34-8cc8-4742-8a32-a027aead1ab0"
+    }
+  ],
+  "properties": {
+    "gender": "female",
+    "nationality": "Italian-American",
+    "occupation": "Student/Family Member",
+    "portrayed_by": "Sofia Coppola",
+    "appearance_year": 1990
+  },
+  "tags": [
+    "The Godfather Part III",
+    "Corleone Family",
+    "female character",
+    "family drama",
+    "mafia",
+    "tragedy",
+    "romance"
+  ]
+}

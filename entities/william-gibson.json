@@ -1,0 +1,52 @@
+{
+  "id": "c7d4a5e1-2b16-4d15-bf08-f1b3ec69fa2e",
+  "type": "person",
+  "name": "William Gibson",
+  "description": "William Gibson is an American-Canadian speculative fiction writer widely credited with pioneering the cyberpunk genre.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Born in 1948 in Conway, South Carolina, William Gibson emerged as a groundbreaking figure in speculative fiction with his unique vision of near-future societies shaped by rapid technological change. Relocating to Canada in the late 1960s, Gibson became immersed in countercultural and literary circles that fueled his imagination. His formative years witnessed the rise of computer technology, which would become central themes in his work. Over decades, Gibson's writing has explored themes of artificial intelligence, cyberspace, and sociopolitical dynamics in post-industrial landscapes, earning him critical acclaim and a lasting legacy within science fiction."
+    },
+    {
+      "title": "Career",
+      "body": "Gibson's career took off primarily with the publication of the short story 'Burning Chrome' in 1982, but it was his debut novel, 'Neuromancer' (1984), that revolutionized science fiction. The novel, which introduced the concept of cyberspace to a wide audience, was instrumental in shaping the cyberpunk movement. Gibson continued to explore complex technological and cultural themes in subsequent works, including the rest of the Sprawl Trilogy and later series such as the Blue Ant trilogy. His writing style blends noir sensibilities, speculative technology, and social commentary, often foreseeing developments years before they became mainstream."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Among Gibson's most notable contributions are the Sprawl Trilogy—'Neuromancer,' 'Count Zero,' and 'Mona Lisa Overdrive'—which weave interconnected stories set in a shared cyberpunk future. 'Neuromancer' won the Hugo, Nebula, and Philip K. Dick Awards, a rare trifecta that cemented his prominence. Later works like 'Pattern Recognition' and its sequels venture into contemporary settings, examining themes of globalization and culture in the digital age. Gibson's influence extends beyond literature into film, music, and technology, inspiring creators worldwide."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Gibson's prose is characterized by terse, vivid descriptions, dense yet accessible storytelling, and an emphasis on atmosphere over exposition. He merges high technology with gritty urban environments, often featuring marginalized, antiheroic protagonists navigating complex power structures. His work has profoundly influenced cyberpunk aesthetics in cinema, gaming, and popular culture, and helped introduce the concept of cyberspace as a virtual realm. Authors and creators credit him with shaping the discourse around the relationship between human identity and technology."
+    }
+  ],
+  "aliases": [
+    "Bill Gibson",
+    "William Ford Gibson",
+    "Father of Cyberpunk"
+  ],
+  "relationships": [],
+  "properties": {
+    "born": "1948-03-17",
+    "nationality": [
+      "American",
+      "Canadian"
+    ],
+    "occupation": "Author",
+    "genres": [
+      "Cyberpunk",
+      "Science Fiction",
+      "Speculative Fiction"
+    ]
+  },
+  "tags": [
+    "author",
+    "science fiction",
+    "cyberpunk",
+    "literature",
+    "speculative fiction",
+    "novelist",
+    "20th century"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "11cba6f8-6d26-4d9a-8e57-8d66871c435f",
+  "type": "location",
+  "name": "Hotel Splendide",
+  "description": "Upscale hotel in Royale-les-Eaux, featured in 'Casino Royale'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Hotel Splendide is a fictional luxury hotel situated in the resort town of Royale-les-Eaux where much of the social interaction and intrigue occur in the novel. It caters to wealthy guests, including spies, gamblers, and diplomats."
+    },
+    {
+      "title": "Appearance",
+      "body": "The hotel is characterized by its elegant architecture, plush interiors, and well-appointed rooms suitable for the elite clientele. It features grand lounges, private suites, and is often a meeting place for covert dealings."
+    },
+    {
+      "title": "History",
+      "body": "Fleming places the hotel as a fixture of post-war European luxury leisure, reflecting the era's tourism resurgence. Within the narrative, its reputation is that of exclusivity and discretion, suited to the espionage activities it shelters."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Hotel Splendide acts as a crucial setting for key plot points, including Bond’s interactions with other characters such as Vesper Lynd and René Mathis. It provides a location where tensions simmer beneath surface civility."
+    }
+  ],
+  "aliases": [
+    "Splendide Hotel"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "c3f0383d-af85-4de1-b691-667d0a3d9a10"
+    },
+    {
+      "type": "featured_in",
+      "target": "1365a1a6-3bcc-4a06-8ff3-51e24d1a9a64"
+    }
+  ],
+  "properties": {
+    "type": "Luxury hotel",
+    "location": "Royale-les-Eaux",
+    "clientele": "Wealthy, spies, diplomats"
+  },
+  "tags": [
+    "location",
+    "hotel",
+    "luxury",
+    "Royale-les-Eaux",
+    "spy fiction"
+  ]
+}

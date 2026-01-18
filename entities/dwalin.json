@@ -1,0 +1,62 @@
+{
+  "id": "9ca26488-6bad-4f30-9e6b-9f39a603d004",
+  "type": "character",
+  "name": "Dwalin",
+  "description": "A fierce and loyal dwarf warrior, the elder brother of Balin and a stalwart member of Thorin's company.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Dwalin is one of the twelve dwarves assembling under Thorin Oakenshield’s leadership to reclaim their ancestral home, the Lonely Mountain. Known for his strength and battle experience, he is a respected member of the royal line of Durin and the elder brother of Balin. His long history is marked by a life devoted to the defense and restoration of dwarven honor and heritage. Dwalin’s presence on the quest underscores the martial nature and courage of Thorin’s company."
+    },
+    {
+      "title": "Personality",
+      "body": "Dwalin's personality is direct, bold, and often gruff — a reflection of his warrior spirit. He is fiercely loyal to Thorin and his companions, undeterred by danger or hardship. While sometimes brusque, he has a strong sense of honor and camaraderie, often putting the welfare of his fellow dwarves before his own. Dwalin’s determination and unshakeable resolve make him a dependable figure in the company, embodying the resilience and steadfastness typical of dwarven kind."
+    },
+    {
+      "title": "Story Role",
+      "body": "In The Hobbit, Dwalin acts as one of Thorin’s chief warriors, fighting through countless battles and protecting the company during their journey. He participates in key confrontations such as the goblin attacks and the Battle of the Five Armies. Dwalin’s role is primarily as a protector and frontline fighter, showcasing dwarven valor and martial skill. His actions contribute significantly to the defense and ultimate success of the quest, even if he often remains somewhat overshadowed by Thorin’s commanding presence."
+    },
+    {
+      "title": "Relationships",
+      "body": "Dwalin is the elder brother of Balin, sharing a close familial bond and mutual respect. He demonstrates strong loyalty toward Thorin Oakenshield as his king and leader and stands as a fierce ally to the other dwarves and Bilbo. His interactions are marked by unflinching dedication to the quest and trust in his comrades. Dwalin often acts as an enforcer, protecting weaker members of the party and ensuring cohesion among the company."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Dwalin stands out as a formidable warrior skilled in melee combat, favoring heavy axes and exceptional physical strength. His battle acumen is complemented by endurance and fearlessness in facing monstrous foes, such as goblins, spiders, and orcs. Dwalin’s tactical prowess is less about strategic planning and more about raw fighting ability and toughness. His durability and combat skills make him one of the greatest defenders of his company."
+    }
+  ],
+  "aliases": [
+    "Dwalin the Warrior",
+    "Brother of Balin",
+    "Dwarf Fighter"
+  ],
+  "relationships": [
+    {
+      "type": "brother_of",
+      "target": "635b6ad8-43c7-48be-b27a-f25b7812b3cc"
+    },
+    {
+      "type": "ally_of",
+      "target": "01c69b85-3eec-4bc7-9964-ebccc0a311e0"
+    },
+    {
+      "type": "member_of",
+      "target": "8346b987-d7da-4e02-80df-40184ff2a7b7"
+    }
+  ],
+  "properties": {
+    "race": "Dwarf",
+    "weapon": "Axes",
+    "role": "Warrior",
+    "allegiance": "Thorin's Company"
+  },
+  "tags": [
+    "Dwarf",
+    "Warrior",
+    "Loyal",
+    "Middle-earth",
+    "Fantasy",
+    "The Hobbit",
+    "Thorin's Company"
+  ]
+}

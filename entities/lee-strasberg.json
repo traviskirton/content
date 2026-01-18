@@ -1,0 +1,53 @@
+{
+  "id": "8a8a4f4a-73a4-4486-8224-0e1ba19f690c",
+  "type": "person",
+  "name": "Lee Strasberg",
+  "description": "Influential American acting teacher and director, famous for developing method acting techniques and coaching actors including those in The Godfather Part II.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Born in 1901 in what is now Ukraine, Lee Strasberg emigrated to the United States and became a pioneering acting teacher and director. He co-founded the Group Theatre and later headed the Actors Studio in New York, profoundly shaping American acting by promoting method acting based on Stanislavski's system."
+    },
+    {
+      "title": "Career",
+      "body": "Strasberg's career spanned several decades, as he trained actors in immersive emotional techniques emphasizing psychological realism. Many actors who starred in The Godfather Part II, including Al Pacino and Robert De Niro, studied under or were influenced by Strasberg’s teachings, making his legacy deeply connected to the film’s performances."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Strasberg’s influence extended across theater and film. He appeared in films himself, including a role as Hyman Roth in The Godfather Part II. Additionally, his greatest contribution was mentoring generations of actors, including Marlon Brando, James Dean, and Al Pacino, shaping performance styles in Hollywood."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Lee Strasberg championed method acting, encouraging actors to draw upon personal emotional experiences to bring authenticity to their roles. His approach deeply influenced the realism and depth of acting in American cinema, especially in crime dramas like The Godfather saga where psychological complexity is crucial."
+    }
+  ],
+  "aliases": [
+    "Mr. Strasberg",
+    "Lee J. Strasberg",
+    "Father of Method Acting"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "a34e10f7-2f77-48bd-803f-efa34f19c87f"
+    },
+    {
+      "type": "mentor_to",
+      "target": "3b9a4e9d-8605-4a10-8a28-f3c0efb68399"
+    }
+  ],
+  "properties": {
+    "birthyear": 1901,
+    "deathyear": 1982,
+    "occupation": "Acting Teacher, Director, Actor",
+    "nationality": "American"
+  },
+  "tags": [
+    "acting teacher",
+    "method acting",
+    "theater",
+    "film",
+    "mentor",
+    "Hollywood"
+  ]
+}

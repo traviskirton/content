@@ -1,0 +1,50 @@
+{
+  "id": "7b9b04d7-5a01-4ec7-988e-c145c7103f2f",
+  "type": "location",
+  "name": "Haven",
+  "description": "Haven is a strategically significant planet with a complex political structure, frequently contested during the Foundation era.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Haven stands as a vital nexus of commerce, military, and political power in the galaxy. Its position makes it a coveted asset for various factions vying for dominance, including remnants of the Galactic Empire, the Foundation, and other regional powers. The planet embodies the turbulent and competitive nature of galactic politics as the old order fades and new powers arise."
+    },
+    {
+      "title": "Appearance",
+      "body": "Haven is depicted as a planet with a diverse geography including sprawling urban centers interspersed with natural landscapes such as forests, mountains, and waterways. Its cities are fortified and elaborate, combining ancient imperial relics with modern developments designed to support its strategic military and governance functions."
+    },
+    {
+      "title": "History",
+      "body": "Historically, Haven has been under the control of various ruling bodies, reflecting the shifting political landscape of the galaxy. Its role as a battleground and political prize is recurrent, especially during the rise of the Foundation and the decline of the Empire. Throughout 'Foundation and Empire', Haven is central to several power plays and military confrontations."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Haven's significance in the narrative lies in its role as a contested power base, influencing the outcomes of larger galactic conflicts. Control over Haven is depicted as instrumental in shaping the balance of forces between the declining Empire, the ambitious Foundation, and emerging threats like the Mule. Its complex political environment illustrates the interplay of strategy, ambition, and survival in a fragmented galaxy."
+    }
+  ],
+  "aliases": [
+    "Haven Planet",
+    "Strategic Planet Haven",
+    "Political Hub Haven"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "c3f3e1a2-5a33-4b5d-98b5-4c165ef1b6b7"
+    }
+  ],
+  "properties": {
+    "type": "Planet",
+    "significance": "Strategic and Political",
+    "political_system": "Complex Federation",
+    "status": "Contested Territory"
+  },
+  "tags": [
+    "location",
+    "planet",
+    "Foundation series",
+    "science fiction",
+    "Isaac Asimov",
+    "politics",
+    "Galactic conflicts"
+  ]
+}

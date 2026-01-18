@@ -63,6 +63,38 @@
     {
       "type": "located_in",
       "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "featured_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "contains",
+      "target": "e4f7a36c-4b2f-4de3-826a-c02f7ae47d56"
+    },
+    {
+      "type": "contains",
+      "target": "78e5a8d3-4b7a-49e1-bc6f-2b6d1c9a4e54"
+    },
+    {
+      "type": "contains",
+      "target": "d023cd5d-72ee-4f4e-b926-8f9b5ff9871d"
+    },
+    {
+      "type": "contains",
+      "target": "83d19c66-1fd2-413b-bcfa-2854c1e1c6ad"
+    },
+    {
+      "type": "contains",
+      "target": "380e0a6b-1e6d-4f90-8069-0f73e2df8b61"
+    },
+    {
+      "type": "contains",
+      "target": "295a0b1a-ed45-4dff-a401-99b121032f26"
+    },
+    {
+      "type": "contains",
+      "target": "43d147b9-dbd0-45de-a989-16a9f9f4a3a2"
     }
   ],
   "tags": [

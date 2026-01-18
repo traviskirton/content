@@ -1,0 +1,54 @@
+{
+  "id": "f9c61db1-6c30-4745-8dff-7c1f096a8c70",
+  "type": "location",
+  "name": "Genco Olive Oil Company",
+  "description": "Genco Olive Oil Company is the front business used by the Corleone family to mask their gangster activities in The Godfather.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Genco Olive Oil Company operates as a legitimate enterprise specializing in the production and distribution of olive oil. However, it functions primarily as a front for the Corleone family's criminal activities, including money laundering and coordinating illicit operations. This dual nature allows the Corleones to maintain an air of legitimacy and respectable business dealings in the public eye while managing their underground empire."
+    },
+    {
+      "title": "Appearance",
+      "body": "The company facilities appear modest, with offices that present the look of a standard mid-20th-century food production business. The offices are functional rather than ostentatious, featuring simple decor, desks, filing cabinets, and an environment that emphasizes business practicality. The company's signage and branding emphasize its role in food production, distancing itself from any hint of criminal association."
+    },
+    {
+      "title": "History",
+      "body": "Originally founded by Vito Corleone, Genco was named after his father and served as the family's initial clean business before their expansion into organized crime. Over time, it evolved from a genuine olive oil enterprise into a complex front used to legitimize profits and conceal illegal dealings. Its long history within the family maintains a sentimental value and symbolizes Vito’s roots and the balance between old-world values and new-world crime."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Genco Olive Oil Company represents the Corleone family's efforts to maintain legitimate business operations and a veneer of respectability. It serves as a strategic asset in the family's power structure by providing plausible deniability for illicit transactions and a base for money flow management. Genco's presence underscores the theme of duality central to The Godfather — the intersection of family loyalty and criminal ambition."
+    },
+    {
+      "title": "Operational Role",
+      "body": "The company is utilized to manage financial matters, sanitize money earned from racketeering, gambling, and other Mafia enterprises, and host meetings disguised as business discussions. It functions as an administrative hub, with trusted family associates employed to run day-to-day office work, blending legal and illegal activities seamlessly."
+    }
+  ],
+  "aliases": [
+    "Genco Olive Oil",
+    "Genco Company",
+    "Corleone Front Business"
+  ],
+  "relationships": [
+    {
+      "type": "owned_by",
+      "target": "587e4b6d-18e4-49c0-80af-3f8d1675547c"
+    }
+  ],
+  "properties": {
+    "industry": "Food production / Olive oil",
+    "owner": "Corleone Family",
+    "function": "Money laundering, Legitimate business front",
+    "founded_by": "Vito Corleone"
+  },
+  "tags": [
+    "organization",
+    "mafia_front",
+    "business",
+    "legitimacy",
+    "The Godfather",
+    "family_enterprise",
+    "olive_oil"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "82190b16-008d-4b79-90f8-5e9decf1a9c1",
+  "type": "item",
+  "name": "The White Tree of Gondor",
+  "description": "A sacred symbol of Gondor, representing the line of kings and the enduring spirit of the realm.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The White Tree of Gondor is a legendary emblem deeply rooted in the history and culture of Gondor. It symbolizes the continuity of the royal line and the resilience of the kingdom despite the darkness overshadowing Middle-earth. Its presence in Minas Tirith, the capital of Gondor, serves as a beacon of hope and legitimacy for the ruling monarch."
+    },
+    {
+      "title": "Appearance",
+      "body": "The tree is described as a tall, slender white tree with delicate leaves and blossoms, gleaming with a radiant purity. Its bark and branches are pale, giving it a spectral and majestic appearance, set atop the citadel of Minas Tirith where it stands prominently visible to all."
+    },
+    {
+      "title": "Function",
+      "body": "Beyond its aesthetic and symbolic value, the White Tree serves as a living monument to the sovereignty and rightful kingship of Gondor. It marks the ancestral lineage from the ancient Númenóreans and stands as a silent witness to the kingdom’s trials and triumphs, inspiring Gondorians in times of despair."
+    },
+    {
+      "title": "History",
+      "body": "The White Tree traces its origins to the original Two Trees of Valinor, making it a mystical descendant imbued with ancient divine significance. Several iterations of the White Tree have existed, often dying out and being replanted as new saplings taken from the last surviving tree in the times of old. The version present in Minas Tirith was planted anew by King Aragorn after the War of the Ring."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'The Return of the King,' the blossoming of the White Tree after the restoration of Aragorn to the throne symbolizes the rebirth and renewal of Gondor and Middle-earth at large. It is a narrative motif signifying hope, restoration, and the legitimization of the new king, heralding an era of peace after prolonged darkness and conflict."
+    }
+  ],
+  "aliases": [
+    "White Tree",
+    "Tree of Gondor",
+    "Nimloth (in earlier lore)",
+    "Symbolic Tree of Kings"
+  ],
+  "relationships": [
+    {
+      "type": "belongs_to",
+      "target": "e44c1405-f8cf-4b44-b7d8-3c9b1e72a8d5"
+    }
+  ],
+  "properties": {
+    "material": "Living tree",
+    "location": "Minas Tirith, Citadel",
+    "symbolism": "Kingship, Hope, Renewal",
+    "origin": "Descendant of the Two Trees of Valinor",
+    "size": "Approximately 15 feet tall"
+  },
+  "tags": [
+    "Middle-earth",
+    "Symbol",
+    "Gondor",
+    "Noble Lineage",
+    "Mythical Plant",
+    "The Lord of the Rings"
+  ]
+}

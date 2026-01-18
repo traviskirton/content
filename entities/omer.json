@@ -1,0 +1,59 @@
+{
+  "id": "543bafe5-7915-40d0-bbcd-2718a7e65347",
+  "type": "character",
+  "name": "Éomer",
+  "description": "A noble warrior and marshal of Rohan, nephew to King Théoden, who plays a key role in the battles that protect his people.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Éomer is the son of Éomund and Théodwyn, making him the nephew of King Théoden of Rohan. Raised as a skilled horseman and warrior, he holds the title of Third Marshal of the Riddermark, commanding the armies of Rohan. Éomer’s lineage and upbringing instill in him a fierce loyalty to his kingdom and a deep sense of duty to his people’s defense against the encroaching forces of Saruman and Sauron."
+    },
+    {
+      "title": "Personality",
+      "body": "Éomer is valorous, proud, and sometimes rash, embodying the heroic ideals of the Rohirrim. His loyalty to his sovereign and people is unwavering, alongside a strong sense of honor and courage. Although fierce in battle, he is also capable of empathy and respect, particularly shown in his interactions with Aragorn and other allies. His straightforward demeanor reflects the culture of Rohan’s horse-lords."
+    },
+    {
+      "title": "Story Role",
+      "body": "Éomer’s role in The Two Towers is pivotal as he leads Rohan’s forces during the kingdom’s darkest hours. He initially encounters Aragorn, Legolas, and Gimli as outlaws, forcing a complex interaction before joining forces. Éomer’s leadership helps organize Rohan's army to resist Saruman’s armies, culminating in his instrumental participation during the Battle of Helm’s Deep. His arc contributes to the restoration and resilience of Rohan amidst the war."
+    },
+    {
+      "title": "Relationships",
+      "body": "As nephew to King Théoden, Éomer shares a close familial bond and loyalty with the king. He respects Gandalf and Aragorn, eventually recognizing Aragorn’s claim to the throne. His relationships with riders of Rohan are marked by camaraderie and mutual respect. Later, he develops a romantic attachment with Éowyn, adding depth to his personal narrative amidst the turmoil of war."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Éomer is an expert horseman and skilled swordsman, known for his fierce leadership in battle. His strategic acumen as a marshal allows him to organize troops effectively. He possesses the endurance and agility expected of the Rohirrim cavalry, and his commanding presence inspires his men. Éomer’s military prowess and commitment to the defense of Rohan are central to his character."
+    }
+  ],
+  "aliases": [
+    "Marshal Éomer",
+    "Third Marshal of the Riddermark"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "851e34d9-5dfc-4e4d-b3b7-78613af03cb2"
+    },
+    {
+      "type": "related_to",
+      "target": "3e041def-f5cd-4d8c-9a34-f9f77f9bbdf3"
+    }
+  ],
+  "properties": {
+    "title": "Marshal of the Riddermark",
+    "kingdom": "Rohan",
+    "species": "Human",
+    "affiliation": "Rohirrim",
+    "weapon": "Sword and spear"
+  },
+  "tags": [
+    "human",
+    "warrior",
+    "rohirrim",
+    "noble",
+    "middle-earth",
+    "fantasy",
+    "leader",
+    "horse-lord"
+  ]
+}

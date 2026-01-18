@@ -1,0 +1,48 @@
+{
+  "id": "689aea73-1937-4ecb-a318-bb7bb799d783",
+  "type": "location",
+  "name": "Surrey (Speckled Band)",
+  "description": "The county in England where Stoke Moran Manor is situated and the setting for the mystery of 'The Adventure of the Speckled Band.'",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Surrey is a historic county in South East England, providing the rural and atmospheric setting for the mystery of 'The Adventure of the Speckled Band.' The region's mixture of country estates, woods, and proximity to London offers a backdrop that blends the tranquility of the English countryside with the suspenseful air needed for a classic Holmes detective story."
+    },
+    {
+      "title": "Geographical Context",
+      "body": "Situated south of London, Surrey contains a variety of landscapes including rolling hills, dense forested areas, and scattered villages. Stoke Moran Manor lies within this region, capitalizing on the isolated nature of its countryside location to evoke a sense of seclusion crucial to the unfolding of the sinister plot. The county's historic and pastoral character contrasts sharply with the violent events taking place."
+    },
+    {
+      "title": "Historical Significance",
+      "body": "Surrey has been known historically for its pastoral beauty and wealthier country residences owned by the British elite. In the Victorian era, many such estates were located here, making it an appropriate and believable setting for Dr. Roylott's manor. The use of Surrey highlights the intersection of rural and upper-class settings where intricate social and familial dramas could unfold away from the public eye."
+    },
+    {
+      "title": "Role in the Story",
+      "body": "The setting in Surrey is crucial for the atmospheric tension of 'The Adventure of the Speckled Band.' The moorland isolation and old manor houses allow the plot devices of locked rooms, secret passages, and exotic animal imports to be plausible. Surrey's environment enhances the gothic horror elements within the Sherlock Holmes universe."
+    }
+  ],
+  "aliases": [
+    "County of Surrey",
+    "Surrey County",
+    "The Speckled Band Area"
+  ],
+  "relationships": [
+    {
+      "type": "contains",
+      "target": "4db75ca2-f36f-4c73-8a6d-4edbec6f4c25"
+    }
+  ],
+  "properties": {
+    "country": "England, United Kingdom",
+    "character": "Rural, historic, affluent",
+    "importance": "Primary story setting",
+    "climate": "Temperate maritime"
+  },
+  "tags": [
+    "geography",
+    "fictional story setting",
+    "English countryside",
+    "Sherlock Holmes",
+    "Victorian England"
+  ]
+}

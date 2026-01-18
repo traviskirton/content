@@ -1,0 +1,45 @@
+{
+  "id": "231f3d12-26d9-4b98-8b99-15f3eb5346eb",
+  "type": "location",
+  "name": "Smyrno",
+  "description": "Smyrno is a lesser-known planet within the Foundation universe, noted for its strategic location and involvement in local interstellar politics.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Smyrno is a mid-tier inhabited planet located in a contested area near several critical trade routes. While not a major power hub like Trantor or Terminus, it serves as a critical node for smaller alliances and factions navigating the slowly shifting power structures in the galaxy. Its economic activities are primarily centered on trade and resource extraction, making it a valued asset in regional politics."
+    },
+    {
+      "title": "Appearance",
+      "body": "The planet features varied terrain with a mixture of rocky uplands and fertile valleys that support agriculture and mining. Urban centers on Smyrno blend industrial facilities with residential zones, often fortified given the planet’s vulnerability to pirate raids and military incursions. The climate is temperate but can be harsh in outer regions, demanding careful settlement planning."
+    },
+    {
+      "title": "History",
+      "body": "Smyrno’s history is marked by periods of occupation and political realignment, as various powers vie for influence over the planet. It has often been a pawn in larger galactic strategies, changing hands between competing governments and mercenary groups. Despite this instability, local governance strives to maintain a degree of autonomy and prosperity."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Although not a primary setting in the Foundation saga, Smyrno provides context to the broader political chessboard on which the Foundation and surrounding systems operate. The planet’s role exemplifies the complexities of peripheral systems caught between rising powers and collapsing empires."
+    }
+  ],
+  "aliases": [
+    "Smyrno Planet",
+    "Smyrno System",
+    "Smyrno Colony"
+  ],
+  "relationships": [],
+  "properties": {
+    "population": "Medium",
+    "economic_focus": "Trade and Mining",
+    "climate": "Temperate",
+    "strategic_value": "Moderate"
+  },
+  "tags": [
+    "Foundation",
+    "Science Fiction",
+    "Planet",
+    "Trade Hub",
+    "Peripheral System",
+    "Interstellar Politics",
+    "Isaac Asimov"
+  ]
+}

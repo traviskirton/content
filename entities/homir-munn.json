@@ -1,0 +1,60 @@
+{
+  "id": "a55f90c0-2c95-4c14-9bea-4f84b4c75891",
+  "type": "character",
+  "name": "Homir Munn",
+  "description": "A crucial supporting character acting as a historian and librarian with extensive knowledge about the Foundation and its secrets.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Homir Munn is introduced as a learned archivist serving in the academic and historical departments of the Foundation’s institutions. Although he is not a member of either Foundation’s secretive core, his work in preserving records, histories, and manuscripts gives him unparalleled insight into the unfolding galactic saga. Munn’s dedication to knowledge preservation makes him an invaluable figure for understanding political and social dynamics."
+    },
+    {
+      "title": "Personality",
+      "body": "Munn is thoughtful, cautious, and committed to intellectual integrity. He values empirical evidence and is often skeptical of conspiracy theories or rumors but remains open-minded to possibilities beyond standard understanding. His calm demeanor and scholarly approach allow him to serve as a rational voice amid the political intrigues and crises that surround the Foundations."
+    },
+    {
+      "title": "Story Role",
+      "body": "Within 'Second Foundation,' Homir Munn functions as a key source of information and occasionally an unwitting pawn in the larger schemes. His investigations into Foundation history and archives assist protagonists and antagonists alike in their quests to uncover the hidden Second Foundation or manipulate historical narratives. His role highlights the importance of knowledge and record-keeping in the galaxy's fate."
+    },
+    {
+      "title": "Relationships",
+      "body": "Munn’s relationships are primarily collegial with other scholars and administrators within the Foundation, though he has contact with political figures such as @@Preem Palver@@. He is generally unaware of direct Second Foundation interventions but respected by those who seek to understand deeper secrets. His impartial stance situates him somewhat outside factional conflicts."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Munn is a skilled historian and librarian, possessing an encyclopedic knowledge of Foundation lore, political developments, and galactic history. His analytical skills enable him to piece together fragmentary information to form coherent narratives and predictions, albeit without mentalic powers or psychohistorical insight."
+    }
+  ],
+  "aliases": [
+    "Munn",
+    "Historian Homir Munn",
+    "Archivist Munn"
+  ],
+  "relationships": [
+    {
+      "type": "associate_of",
+      "target": "471a8aae-0feb-4e52-bdc6-58f59da2bc2e"
+    }
+  ],
+  "properties": {
+    "affiliation": "First Foundation (academic)",
+    "role": "Historian and archivist",
+    "skills": [
+      "historical research",
+      "archiving",
+      "analysis"
+    ],
+    "species": "Human",
+    "gender": "Male"
+  },
+  "tags": [
+    "First Foundation",
+    "historian",
+    "librarian",
+    "science fiction",
+    "Foundation Series",
+    "knowledge keeper",
+    "character",
+    "Isaac Asimov"
+  ]
+}

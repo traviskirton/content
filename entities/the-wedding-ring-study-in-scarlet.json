@@ -1,0 +1,48 @@
+{
+  "id": "5103da31-0af6-4a57-b15e-924a1e72562d",
+  "type": "item",
+  "name": "The Wedding Ring (Study in Scarlet)",
+  "description": "A significant wedding ring appearing in 'A Study in Scarlet', symbolizing key plot elements and relationships within the story.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The wedding ring in 'A Study in Scarlet' plays a crucial role as a physical clue and represents the personal relationships and motivations tied to the narrative’s mystery. Its presence links characters' pasts and emotional connections to the unfolding crime."
+    },
+    {
+      "title": "Appearance",
+      "body": "The ring is described as a modest band of plain gold, unadorned but reflective of sentimental value rather than material extravagance. It embodies the era’s common matrimonial jewelry and emphasizes the intimate and human elements within the complex plot."
+    },
+    {
+      "title": "Function",
+      "body": "Within the story, the wedding ring functions both as an emblem of marital commitment and as an instrumental piece of evidence. It aids Holmes and Dr. Watson in connecting identities and uncovering motives rooted in personal vengeance and betrayal."
+    },
+    {
+      "title": "History",
+      "body": "The ring's backstory is intertwined with the narrative’s examination of the Mormon community and the tragic circumstances surrounding certain characters. It symbolizes the consequences of forced marriages and vows within a strict societal framework, shedding light on deeper emotional and ethical layers in the plot."
+    },
+    {
+      "title": "Story Significance",
+      "body": "This wedding ring is pivotal in emphasizing the human drama beneath the crime investigation, illustrating how personal relationships and history drive the storyline. It also aids Holmes's deductive process, highlighting the connection between personal artifacts and criminal motives."
+    }
+  ],
+  "aliases": [
+    "Marriage Ring (Study in Scarlet)",
+    "Victorian Wedding Band",
+    "Holmes's Case Wedding Ring"
+  ],
+  "relationships": [],
+  "properties": {
+    "material": "Gold",
+    "type": "Wedding band",
+    "period": "Victorian Era",
+    "function": "Plot device and symbol"
+  },
+  "tags": [
+    "item",
+    "wedding ring",
+    "A Study in Scarlet",
+    "symbolism",
+    "clue",
+    "mystery"
+  ]
+}

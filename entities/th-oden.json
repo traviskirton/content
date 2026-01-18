@@ -1,0 +1,60 @@
+{
+  "id": "a4b81453-4051-4a07-83b9-3fef6b9a1b3a",
+  "type": "character",
+  "name": "Théoden",
+  "description": "King of Rohan who overcomes despair to lead his people against Saruman's forces.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Théoden is the King of Rohan, a proud and noble rider-king descended from a line of great leaders. At the beginning of 'The Two Towers,' he is under the spell of Gríma Wormtongue and Saruman, leaving him weakened and despondent. His regency is marked by illness and incapacity, but after Gandalf's intervention, Théoden regains his strength and resolves to fight for his kingdom. His lineage ties him deeply to Rohan’s traditions and values, reflecting the old ways of the Rohirrim horse-lords."
+    },
+    {
+      "title": "Personality",
+      "body": "Théoden evolves from a weary, manipulated monarch into a valiant and inspiring leader. He embodies courage, honor, and the deep love he has for his people and land. His speech and demeanor recall the epic tradition of heroic kingship. Despite early weakness, he shows wisdom and generosity, rallying his allies with determined optimism in the face of overwhelming darkness."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Two Towers,' Théoden plays a pivotal role in resisting Saruman’s destructive ambitions. After being freed from Wormtongue’s influence, he leads the Rohirrim to battle at Helm's Deep, where his courage galvanizes his people to hold the fortress against fierce assault. His leadership is instrumental in preventing Saruman’s forces from overrunning Rohan and in turning the tide of the war in the larger conflict against Sauron."
+    },
+    {
+      "title": "Relationships",
+      "body": "Théoden’s foremost relationships are with his niece Éowyn and nephew Éomer, both fiercely loyal and tied to the royal house of Rohan. His bond with Gandalf marks a turning point, as the wizard restores the king's vigor and purpose. His distrust and eventual expulsion of Wormtongue, his manipulative advisor, showcases the betrayal that weakened him. Théoden also cooperates closely with Aragorn and other leaders of the Free Peoples in the war effort."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Théoden is a skilled warrior and horseman, embodying the Rohirrim tradition of cavalry excellence. His command in battle and tactical acumen are notable, especially at the defense of Helm's Deep. Beyond martial skills, his ability to inspire and lead a demoralized people is one of his greatest strengths, reaffirming his role as a king in the classical heroic mold."
+    }
+  ],
+  "aliases": [
+    "Théoden King",
+    "The King of Rohan",
+    "Lord of the Mark",
+    "The Rider King"
+  ],
+  "relationships": [
+    {
+      "type": "related_character",
+      "target": "f0d1ea75-98d6-4d37-9c63-86fe3a72185f"
+    },
+    {
+      "type": "related_character",
+      "target": "dd4f841f-6984-42af-87e9-8eb248ed596e"
+    }
+  ],
+  "properties": {
+    "affiliation": "Kingdom of Rohan",
+    "role": "King",
+    "weapon": "Sword",
+    "title": "King",
+    "notable_battle": "Battle of Helm's Deep"
+  },
+  "tags": [
+    "character",
+    "lord",
+    "king",
+    "Rohan",
+    "fantasy",
+    "hero",
+    "Middle-earth"
+  ]
+}

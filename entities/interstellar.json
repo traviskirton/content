@@ -77,6 +77,18 @@
     {
       "type": "distributed_by",
       "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "filmed_in",
+      "target": "0a4d2e36-598a-4da2-9d48-54b708bd28d5"
+    },
+    {
+      "type": "contains",
+      "target": "07d1f9bb-24a2-4f2a-8895-abb2bb8fa876"
+    },
+    {
+      "type": "filmed_in",
+      "target": "4c6b6d52-7b63-4f29-b77b-3573bd66d892"
     }
   ],
   "properties": {
@@ -98,6 +110,7 @@
     "drama",
     "space-exploration",
     "wormholes",
-    "physics"
+    "physics",
+    "christopher-nolan"
   ]
 }

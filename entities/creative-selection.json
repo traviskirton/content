@@ -1,0 +1,66 @@
+{
+  "id": "e11a7d3f-f018-4a9d-b7a3-68d3bfed9c68",
+  "type": "book",
+  "name": "Creative Selection",
+  "description": "Creative Selection is a memoir and insider account by Ken Kocienda chronicling the product development processes behind Apple’s most innovative products.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Creative Selection offers a detailed, personal narrative about Apple’s development culture, focusing on the principles and processes that led to products like the original iPhone. Through anecdotes and technical descriptions, author Ken Kocienda reveals how experimentation, prototyping, and iterative design were central to Apple's success. The book provides a rare glimpse into team dynamics, creativity under pressure, and the high standards set by Apple leadership."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "Structured as a memoir, Creative Selection recounts Kocienda's journey from joining Apple to contributing pivotal technology for the iPhone. It covers the challenges of designing the touchscreen keyboard, the arc of the autocorrect system, and the intense culture shaped by Steve Jobs. The narrative emphasizes the process of creative selection—building prototypes rapidly, evaluating their merits critically, and continually refining ideas until they meet Apple’s exacting standards."
+    },
+    {
+      "title": "Themes",
+      "body": "The book explores themes such as creativity in engineering, the value of rapid prototyping, the intersection of technology and design, and the cultural factors that drive innovation. It also illustrates leadership styles within high-tech companies, the importance of team collaboration, and the resilience required to meet the demands of groundbreaking product development."
+    },
+    {
+      "title": "Reception",
+      "body": "Creative Selection was well received by critics and readers alike for its candid insights and balanced perspective. It has been praised for demystifying the myths around Apple’s innovation and for highlighting the human element behind technological breakthroughs. Tech professionals and enthusiasts appreciate the book as both an inspirational story and a practical guide to fostering creativity in technical environments."
+    }
+  ],
+  "aliases": [
+    "Creative Selection: Inside Apple's Design Process",
+    "Creative Selection by Ken Kocienda"
+  ],
+  "relationships": [
+    {
+      "type": "author",
+      "target": "9e40ec6e-f1a6-4f68-9d3a-91e7c723a2f3"
+    },
+    {
+      "type": "features_person",
+      "target": "9e40ec6e-f1a6-4f68-9d3a-91e7c723a2f3"
+    },
+    {
+      "type": "features_person",
+      "target": "99283c2e-43a3-479f-9fb9-16abbf1a1084"
+    },
+    {
+      "type": "features_person",
+      "target": "3a76246b-22a4-465f-baec-2d9927e7976f"
+    },
+    {
+      "type": "features_person",
+      "target": "2f58f7fb-3084-4fa4-8e3c-1779f5beabc1"
+    }
+  ],
+  "properties": {
+    "publication_year": 2018,
+    "publisher": "Little, Brown and Company",
+    "pages": 256,
+    "genre": "Memoir, Technology, Business"
+  },
+  "tags": [
+    "memoir",
+    "Apple",
+    "product development",
+    "innovation",
+    "technology",
+    "software engineering",
+    "user interface design",
+    "Ken Kocienda"
+  ]
+}

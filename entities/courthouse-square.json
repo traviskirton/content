@@ -37,6 +37,14 @@
     {
       "type": "located_in",
       "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    },
+    {
+      "type": "contains",
+      "target": "9a127d6d-bc71-4bcb-91d3-7bacb8e3b77a"
+    },
+    {
+      "type": "featured_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
     }
   ],
   "properties": {

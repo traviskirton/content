@@ -1,0 +1,51 @@
+{
+  "id": "57f89a3b-44ae-4d25-aa48-8a2aeebc602d",
+  "type": "location",
+  "name": "Corleone, Sicily",
+  "description": "A small village in Sicily, the birthplace and namesake of the Corleone crime family, featured prominently in 'The Godfather'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Corleone is a historic Sicilian town situated inland with a rich history of rural life and a reputation for its ties to traditional Mafia families. In 'The Godfather', it symbolizes the roots of the Corleone family, evoking themes of loyalty, honor, and blood ties. Its rural setting contrasts sharply with the urban environments of New York and other American cities central to the story."
+    },
+    {
+      "title": "Appearance",
+      "body": "The village of Corleone is depicted as a tightly-knit, rustic town surrounded by arid hills and olive groves. The stone buildings, narrow winding streets, and central piazza are typical of old Sicilian villages. The setting encapsulates a sense of timelessness and cultural depth, with traditional festivities and religious processions playing a vital part in village life."
+    },
+    {
+      "title": "History",
+      "body": "Corleone’s history has long been intertwined with feuding families and Mafia clans, making it notorious as a cradle of organized crime in Sicily. For the Corleone family, the village represents honor, tradition, and the formative years of Vito Corleone. The backstory of Vito’s early experiences with Sicilian vendettas and community loyalty is firmly rooted here, which shapes much of his future leadership and values."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'The Godfather', Corleone serves as a narrative anchor linking the American Mafia back to its Sicilian origins. Michael Corleone’s exile to this village represents a return to the family origins and provides a reflective moment on tradition and legacy. It is also the site where key decisions are made regarding family honor, revenge, and power, underscoring the dramatic tension between old world values and new world realities."
+    }
+  ],
+  "aliases": [
+    "Corleone",
+    "Corleone Village",
+    "Village of Corleone"
+  ],
+  "relationships": [
+    {
+      "type": "part_of",
+      "target": "0b8f3c27-9edb-4b52-a4b6-1c9b0e3e6683"
+    }
+  ],
+  "properties": {
+    "region": "Sicily",
+    "country": "Italy",
+    "population": "small",
+    "historical_crime_link": true,
+    "symbolic_importance": true
+  },
+  "tags": [
+    "location",
+    "Corleone",
+    "Sicily",
+    "Mafia",
+    "Italian Villages",
+    "The Godfather",
+    "sicily-godfather"
+  ]
+}

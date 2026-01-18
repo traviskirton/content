@@ -1,0 +1,65 @@
+{
+  "id": "47dcd2e1-e95a-4b43-8a4e-74bc0a283c95",
+  "type": "item",
+  "name": "Aston Martin DB Mark III",
+  "description": "An iconic British luxury car featured in the James Bond film Goldfinger, driven by agent 007.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Aston Martin DB Mark III is a quintessential British grand tourer manufactured by Aston Martin between 1957 and 1959. In the film Goldfinger, it is James Bond’s car of choice, exemplifying a combination of elegant design and advanced technology. Its inclusion in the movie cemented its status as a legendary vehicle in cinematic history."
+    },
+    {
+      "title": "Appearance",
+      "body": "The DB Mark III features a sleek, low-slung silhouette with smooth curves and polished chrome detailing. Painted in a distinctive silver grey, it embodies post-war British sophistication. It sits on wire-spoke wheels and exhibits classic styling cues like prominent front grille and streamlined headlights, projecting both luxury and athleticism."
+    },
+    {
+      "title": "Function",
+      "body": "In Goldfinger, the DB Mark III is equipped with specialized gadgets supplied by Q Branch, including an ejector seat, front-mounted machine guns, and tire shredders. These features allow Bond to escape dangerous situations and pursue enemies effectively. The car blends standard high-performance mechanics — a 3.0 L straight-6 engine capable of reaching high speeds — with espionage equipment that was groundbreaking in fiction at the time."
+    },
+    {
+      "title": "History",
+      "body": "The Aston Martin DB Mark III succeeded the DB2 and introduced technological improvements such as a redesigned gearbox and improved suspension. The car was originally marketed as a luxurious yet sporty vehicle. Goldfinger significantly boosted its popularity, associating it forever with the spy genre. The film’s DB Mark III was custom-fitted with gadgets designed by special effects teams, some of which inspired real-life automotive innovations decades later."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The DB Mark III plays a critical role in several set pieces during Goldfinger. It symbolizes Bond’s suave persona and resourcefulness. Its iconic ejector seat scene remains one of the most memorable moments in the franchise, showcasing the blend of British engineering finesse and fictional gadgetry. The car strengthens the identity of 007 as a sophisticated spy equipped with cutting-edge technology."
+    }
+  ],
+  "aliases": [
+    "Aston Martin DB3",
+    "DBIII",
+    "Bond’s Aston Martin",
+    "Silver Aston Martin"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "a7ade420-29d0-4889-90b3-acd91203d1f4"
+    },
+    {
+      "type": "used_by",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    }
+  ],
+  "properties": {
+    "manufacturer": "Aston Martin",
+    "production_year_start": 1957,
+    "engine_type": "3.0L Inline-6",
+    "top_speed_mph": 150,
+    "notable_features": [
+      "Ejector Seat",
+      "Machine Guns",
+      "Tire Shredders"
+    ]
+  },
+  "tags": [
+    "Car",
+    "James Bond Vehicle",
+    "Aston Martin",
+    "Gadgets",
+    "Classic",
+    "Goldfinger",
+    "Luxury",
+    "British Automobiles"
+  ]
+}

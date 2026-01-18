@@ -1,0 +1,49 @@
+{
+  "id": "bcf8d19a-1e16-4f68-8b27-fd204535927d",
+  "type": "character",
+  "name": "Shelob",
+  "description": "A giant and malevolent spider dwelling in the pass of Cirith Ungol, embodying the ancient evil of Middle-earth.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Shelob is a primordial, monstrous spider descended from the ancient evil spirit Ungoliant. Dwelling in the dark tunnel of Cirith Ungol near Mordor, she represents a lurking horror predating even Sauron's dominance. Shelob has no allegiance to Sauron, operating independently as a predatory force of shadow and desolation, thriving in darkness and terror. Her existence adds a layer of ancient menace to the already perilous lands surrounding Mordor."
+    },
+    {
+      "title": "Appearance",
+      "body": "Shelob is described as a vast spider, enormous in size, with a horrifying and grotesque form that evokes dread. Her body is clothed in shadows and venom, dripping with dark ichor that poisons and paralyzes her victims. Her many eyes glitter malevolently, and her legs move with uncanny swiftness and menace through her lair. The horror of her appearance is enhanced by the gloom and silence of her lair, making her a symbol of primal fear."
+    },
+    {
+      "title": "Story Role",
+      "body": "Shelob serves as a formidable obstacle in Frodo’s quest to destroy the One Ring, attacking him near the end of 'The Two Towers.' She exemplifies the deadly dangers that await in Mordor's borderlands, embodying the threat of ancient darkness. The encounter with Shelob results in Frodo's capture, a critical moment that tests courage and loyalty among the Fellowship's members. Her presence deepens the peril and highlights the heroism needed to confront evil."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Shelob possesses immense physical strength and venomous capabilities, capable of paralyzing victims with her bite. She spins near-indestructible webs to trap prey and exhibits cunning predatory intelligence despite her monstrous nature. Her venom is lethally toxic, and her stealth allows her to ambush unsuspecting travelers. Shelob’s lair is fortified by traps and darkness, making her an almost insurmountable hazard without assistance."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Shelob symbolizes the residual, deep-rooted evil still festering in Middle-earth outside the dominion of Sauron, emphasizing that darkness has many faces. Her attack serves as a catalyst for subsequent events leading toward the climax of the saga, underscoring themes of sacrifice, perseverance, and the struggle against despair. While not a major character, her impact on the narrative as an embodiment of primal menace is lasting and chilling."
+    }
+  ],
+  "aliases": [
+    "Spider of Cirith Ungol",
+    "The Great Spider",
+    "Daughter of Ungoliant"
+  ],
+  "relationships": [],
+  "properties": {
+    "species": "Giant Spider",
+    "location": "Cirith Ungol",
+    "alignment": "Evil",
+    "notable_encounter": "Frodo Baggins"
+  },
+  "tags": [
+    "creature",
+    "monster",
+    "antagonist",
+    "Middle-earth",
+    "mythical",
+    "spider",
+    "evil"
+  ]
+}

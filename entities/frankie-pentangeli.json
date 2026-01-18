@@ -1,0 +1,59 @@
+{
+  "id": "dc16b2c7-fd10-40de-883a-d217a62a8f04",
+  "type": "character",
+  "name": "Frankie Pentangeli",
+  "description": "Frankie Pentangeli is a loyal but ultimately conflicted capo within the Corleone family, whose testimony becomes a pivotal element during Michael Corleone’s Senate hearings.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Frankie Pentangeli is an Italian-American mobster and a trusted marine within the Corleone family’s New York operations. He rose through the ranks through loyalty and service, overseeing local rackets and ensuring the family’s interests are protected. His backstory includes a strong sense of family honor and the cultural pride of his immigrant roots, all framed within the brutal reality of mafia life."
+    },
+    {
+      "title": "Personality",
+      "body": "Pentangeli displays a blunt, straightforward nature with fierce loyalty to the Corleone family. He is volatile and passionate but also vulnerable to pressure and betrayal. His internal conflict emerges through feelings of isolation and regret when confronted with government investigations and perceived abandonment, reflecting the tragic human cost of the Mafia’s violent world."
+    },
+    {
+      "title": "Story Role",
+      "body": "Pentangeli is central to a contentious plotline involving government investigations into Michael Corleone’s operations. He initially agrees to testify against Michael but later recants under the threat and intervention of Michael’s forces. His character highlights the themes of loyalty, sacrifice, and the dangerous intersection of organized crime with government power. Pentangeli’s public hearing and subsequent fate dramatically affect the Corleone family’s political standing."
+    },
+    {
+      "title": "Relationships",
+      "body": "Frankie has a complicated relationship with Michael Corleone, initially characterized by allegiance but complicated by a sense of distrust and paranoia amidst the Senates hearings. He respects Michael yet feels betrayed when his protection wanes. Pentangeli also interacts with other family members and intermediaries, reflecting his ambivalent place within the organization during crises."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Pentangeli is skilled in managing criminal operations, street-level enforcement, and navigating the mafia’s rules and rituals. He is courageous, capable of intimidation, and understands the dangers of his world. However, his emotional vulnerabilities and occasional impulsiveness reveal the cracks in his otherwise tough exterior."
+    }
+  ],
+  "aliases": [
+    "Francis Pentangeli",
+    "Frank Pentangeli",
+    "The Captive Capo"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "f2318973-a4ee-4b60-8585-397a6f1d4d73"
+    },
+    {
+      "type": "associate_of",
+      "target": "eb4d2398-f8bb-4187-94c8-ea6eabd7759a"
+    }
+  ],
+  "properties": {
+    "occupation": "Capo",
+    "loyal_to": "Corleone Family",
+    "role": "Supporting Character",
+    "nationality": "Italian-American",
+    "time_period": "1950s"
+  },
+  "tags": [
+    "character",
+    "mafia",
+    "capo",
+    "loyalty",
+    "crime",
+    "organized_crime",
+    "tragedy"
+  ]
+}

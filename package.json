@@ -5,6 +5,7 @@
   "scripts": {
     "build": "node scripts/build-index.js",
     "generate": "node scripts/generate-entity.js",
+    "generate-batch": "node scripts/generate-batch.js",
     "reconcile": "node scripts/reconcile.js"
   },
   "dependencies": {

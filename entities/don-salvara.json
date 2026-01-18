@@ -1,0 +1,54 @@
+{
+  "id": "4ed45f32-bd1b-4d4f-b126-b1af691034ad",
+  "type": "character",
+  "name": "Don Salvara",
+  "description": "A high-ranking noble and influential crime lord in Camorr, known for his strategic mind and complex alliances.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Don Salvara is a prominent noble within Camorr's intricate social and criminal hierarchy, controlling a significant faction within the city's underworld. He is famed for his intelligence and careful planning, preferring manipulation and long-term strategy over brute force. Salvara commands respect both from the city's elite and its criminal classes, balancing his dual roles with a deft political and social touch."
+    },
+    {
+      "title": "Personality",
+      "body": "Don Salvara is characterized by his calculating, cold, and pragmatic nature. Unlike the more overtly violent crime lords, he often uses diplomacy, negotiation, and subtle coercion to achieve his objectives. He is cynical but charismatic, possessing a calm demeanor that rarely gives away his full thoughts or plans. This measured approach enables him to maintain his power in the volatile environment of Camorr."
+    },
+    {
+      "title": "Story Role",
+      "body": "Within 'The Lies of Locke Lamora,' Don Salvara serves as an important secondary antagonist and a critical power broker in Camorr's criminal world. His machinations and alliances often complicate the efforts of Locke Lamora and the Gentleman Bastards. Salvara’s role highlights the political complexity of the city, illustrating how power is maintained through manipulation and strategic alliances rather than sheer force."
+    },
+    {
+      "title": "Relationships",
+      "body": "Don Salvara maintains a network of alliances and rivalries with other noble families and crime lords such as Capa Barsavi and the Gray King. He carefully navigates these relationships to strengthen his own position. His interactions often involve mutual distrust and cautious cooperation, underscoring the fragile balance of power that governs Camorr’s underworld."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Salvara’s skills are primarily political and strategic rather than physical. He excels in negotiation, information gathering, and manipulation. His understanding of the social dynamics and power structures within Camorr is profound, enabling him to anticipate and counter threats effectively. While not known as a warrior or magician, his influence and control come from his savvy and network of loyal operatives."
+    }
+  ],
+  "aliases": [
+    "Don Salvara of the Salvara House",
+    "Noble Crime Lord",
+    "Strategist of Camorr"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "082a0e65-147f-4b15-8e3d-b3459755c1c1"
+    }
+  ],
+  "properties": {
+    "status": "Noble",
+    "role": "Crime Lord",
+    "alignment": "Villain",
+    "skills": "Political Strategy",
+    "primary_location": "@@Camorr@@"
+  },
+  "tags": [
+    "Crime Lord",
+    "Noble",
+    "Camorr",
+    "Antagonist",
+    "Fantasy",
+    "Political Intrigue"
+  ]
+}

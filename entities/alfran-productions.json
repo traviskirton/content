@@ -1,0 +1,49 @@
+{
+  "id": "3a7cb9f9-5f0f-4451-b84d-95d4f415c2b5",
+  "type": "company",
+  "name": "Alfran Productions",
+  "description": "Alfran Productions was a production company co-founded by Francis Ford Coppola and associated with the making of The Godfather film series.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Alfran Productions served as a vehicle for creative control and production management for Francis Ford Coppola during the making of The Godfather films. The company enabled Coppola to maintain artistic authority over the projects, facilitating a close working relationship between the director, producers, and key collaborators involved in the films' production."
+    },
+    {
+      "title": "Structure",
+      "body": "The company operated on a lean organizational structure, primarily serving as a project-specific production entity rather than a standalone studio empire. It was led by founders closely aligned with Coppola’s vision and functioned to oversee various aspects of the production, including financing coordination, hiring decisions, and on-location management."
+    },
+    {
+      "title": "History",
+      "body": "Alfran Productions was established in the early 1970s in parallel with the development of Mario Puzo’s novel adaptation, The Godfather. Named as a combination of Coppola's and Francis Ford's family related names, the company was instrumental in shepherding the trilogy through initial development, shooting, editing, and post-production, contributing to the films’ iconic status."
+    },
+    {
+      "title": "Goals",
+      "body": "The primary goal of Alfran Productions was to ensure that Coppola could produce films that adhered closely to his directorial intentions and preserve the integrity of the story. It sought to navigate the challenges of studio demands and budget constraints while supporting innovative filmmaking practices."
+    },
+    {
+      "title": "Key Members",
+      "body": "The company’s key members included Francis Ford Coppola as the driving force, along with executive producers Albert S. Ruddy and Mario Puzo. Their cooperative dynamic was central to the company's role in successfully producing The Godfather series, blending creative ingenuity with pragmatic production execution."
+    }
+  ],
+  "aliases": [
+    "Alfran",
+    "Alfran Production Company",
+    "Alfran Prod."
+  ],
+  "relationships": [],
+  "properties": {
+    "industry": "Film production",
+    "active_years": "1970s",
+    "notable_works": "The Godfather trilogy",
+    "founders": "Francis Ford Coppola"
+  },
+  "tags": [
+    "film production",
+    "The Godfather",
+    "Francis Ford Coppola",
+    "1970s cinema",
+    "production company",
+    "Hollywood",
+    "movie making"
+  ]
+}

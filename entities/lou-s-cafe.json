@@ -32,6 +32,10 @@
     {
       "type": "located_in",
       "target": "b12f1176-e8f4-4c8d-9abb-e294b08e1787"
+    },
+    {
+      "type": "filmed_in",
+      "target": "a789b123-4c56-7d89-ef01-23456789abcd"
     }
   ],
   "properties": {

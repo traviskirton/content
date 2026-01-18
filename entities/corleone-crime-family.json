@@ -1,0 +1,68 @@
+{
+  "id": "483e3a15-3dba-4c05-8a56-c17606f07db4",
+  "type": "organization",
+  "name": "Corleone Crime Family",
+  "description": "A powerful Mafia family central to 'The Godfather' saga, led initially by Vito Corleone and later by Michael Corleone.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Corleone Crime Family is a fictional Mafia syndicate that operates primarily in New York City with historical ties to Sicily. It is portrayed as one of the most influential and respected organized crime families in the United States, known for its code of loyalty, secrecy, and strategic power plays. The family business extends to protection rackets, gambling, union manipulations, and various illegal enterprises."
+    },
+    {
+      "title": "Structure",
+      "body": "The family follows a traditional hierarchical Mafia structure with a Don (boss) at its head, followed by an underboss, consigliere, caporegimes (captains), and soldiers. This chain of command ensures tight control and compartmentalization of operations. Key roles include enforcers and associates who handle various criminal activities while maintaining outward appearances of legitimate business."
+    },
+    {
+      "title": "History",
+      "body": "Founded by Vito Corleone, the family rose from humble Sicilian roots to become a dominant force in American organized crime. Through a combination of respect, ruthlessness, and negotiation, they navigate conflicts with rival families and law enforcement. The transition of leadership to Michael Corleone marks a shift towards a more modern and strategic organization, expanding influence beyond traditional crime to legitimate businesses while maintaining a ruthless core."
+    },
+    {
+      "title": "Goals",
+      "body": "The primary goal of the Corleone family is to maintain and expand power, protect family interests, and ensure the welfare of its members. They seek to control lucrative business sectors through both violent and political means, often leveraging influence within government and law enforcement. Preservation of family honor and retribution against enemies is a fundamental principle guiding their decisions."
+    },
+    {
+      "title": "Key Members",
+      "body": "Important members include Vito Corleone, the founding Don renowned for his wisdom and diplomacy; Michael Corleone, his successor who modernized the family’s operations; Tom Hagen, the trusted consigliere and adopted son; Sonny Corleone, the hot-headed eldest son; and other capos and relatives who play critical roles in family affairs and conflicts."
+    }
+  ],
+  "aliases": [
+    "Corleone Family",
+    "The Godfather Family",
+    "Casa Corleone",
+    "La Famiglia"
+  ],
+  "relationships": [
+    {
+      "type": "originates_from",
+      "target": "57f89a3b-44ae-4d25-aa48-8a2aeebc602d"
+    },
+    {
+      "type": "part_of",
+      "target": "feac8d45-6cec-4c0a-b781-41dafaba2f33"
+    }
+  ],
+  "properties": {
+    "type": "Mafia family",
+    "base_of_operations": "New York City",
+    "founder": "Vito Corleone",
+    "notable_bosses": [
+      "Vito Corleone",
+      "Michael Corleone"
+    ],
+    "operations": [
+      "illegal gambling",
+      "protection rackets",
+      "labor union influence"
+    ]
+  },
+  "tags": [
+    "organization",
+    "Mafia",
+    "crime family",
+    "The Godfather",
+    "New York",
+    "organized crime",
+    "Italian-American",
+    "the-five-families"
+  ]
+}

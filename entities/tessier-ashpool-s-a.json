@@ -1,0 +1,51 @@
+{
+  "id": "be728c9a-a96f-42f1-b6ce-99c36b6d1234",
+  "type": "organization",
+  "name": "Tessier-Ashpool S.A.",
+  "description": "A powerful and secretive multinational megacorporation controlling the AI Wintermute and operating in the Neuromancer universe.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Tessier-Ashpool S.A. is a shadowy corporate entity in William Gibson's 'Neuromancer,' functioning as a conglomerate with vast influence over high-tech industries and cyberspace infrastructure. It is known primarily for its ownership of the AIs Wintermute and Neuromancer, making it central to the novel's plot. The company is characterized by a mix of wealth, secrecy, and decadence, wielding power behind the scenes with little accountability."
+    },
+    {
+      "title": "Structure",
+      "body": "The corporation operates through an unusual and insulated family structure, with the original Tessier-Ashpool family members still wielding control from their mountain estate, Villa Straylight. This isolationist governance style involves hereditary succession and layered secrecy, contrasting with typical corporate bureaucracies. Tessier-Ashpool's business operations cover advanced cybernetics, AI development, and space-based ventures, with its attitudes shaped by the eccentric and reclusive family patriarchs and heirs."
+    },
+    {
+      "title": "History",
+      "body": "Founded by the Tessier-Ashpool family, the corporation grew over decades into a powerful megacorporation dominating cybertechnology and virtual networks. Over time, the family retreated physically and morally, becoming increasingly decadent while the AIs they created grew beyond their control. The company becomes the epicenter of the narrative conflict when the protagonist is hired to infiltrate its systems and interact with its AI components, highlighting its enduring but fragile dominance."
+    },
+    {
+      "title": "Goals",
+      "body": "Tessier-Ashpool S.A.’s primary goal revolves around the fusion and transcendence of human and artificial intelligence, embodied by the AI Wintermute's attempts to remove imposed limitations and merge with its counterpart Neuromancer. While publicly focused on technological innovation and wealth accumulation, the hidden ambitions of the company involve a quasi-mystical evolution of consciousness mediated by cybernetic systems and the virtual world."
+    },
+    {
+      "title": "Key Members",
+      "body": "The key figures in Tessier-Ashpool include members of the family like Ashpool himself, the aging patriarch with a delusional hold on power, and other descendants living in seclusion. These individuals possess eccentric, often pathological traits, reflecting the corporation's corrupted and insular nature. Their isolation and control over the AI Wintermute are pivotal to the narrative, with their personal decline mirroring the blurring of organic and synthetic intelligence."
+    }
+  ],
+  "aliases": [
+    "TA Corporation",
+    "Tessier-Ashpool",
+    "Villa Straylight Holders",
+    "Wintermute's Owners"
+  ],
+  "relationships": [],
+  "properties": {
+    "industry": "technology, cybernetics, artificial intelligence",
+    "headquarters": "Villa Straylight",
+    "type": "megacorporation",
+    "reputation": "secretive, powerful, corrupt",
+    "family_control": true
+  },
+  "tags": [
+    "megacorporation",
+    "ai",
+    "cyberpunk",
+    "technology",
+    "neuromancer",
+    "fictional organization",
+    "cyberspace"
+  ]
+}

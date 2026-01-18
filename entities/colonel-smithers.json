@@ -1,0 +1,53 @@
+{
+  "id": "eaa4713b-8a6d-4a93-89ca-2e4513be4af8",
+  "type": "character",
+  "name": "Colonel Smithers",
+  "description": "Colonel Smithers is James Bond's trusted assistant and MI6 operative, providing critical support and technical intelligence in Goldfinger.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Colonel Smithers is introduced as a reliable MI6 agent and the right-hand man to James Bond. Known for his professionalism and competence, Smithers frequently assists Bond by providing essential information, technical advice, and mission support. His military rank and intelligence career signify his expertise and dedication to national security."
+    },
+    {
+      "title": "Personality",
+      "body": "Smithers is depicted as loyal, pragmatic, and knowledgeable, playing a behind-the-scenes role with understated presence. He maintains a calm and methodical demeanor, often contrasting with Bond’s more daring and impulsive nature. Though mostly supportive, he demonstrates a strong sense of duty and efficiency in aiding Bond’s mission."
+    },
+    {
+      "title": "Story Role",
+      "body": "In Goldfinger, Colonel Smithers acts as an operational support figure, facilitating Bond’s missions with critical insights and connecting Bond to MI6 resources. His role is essential in ensuring Bond receives timely information and logistic support needed to confront the threat posed by Auric Goldfinger."
+    },
+    {
+      "title": "Relationships",
+      "body": "Smithers’ primary relationship is with James Bond, serving as his assistant and collaborator. He also interacts with M and other MI6 operatives, acting as a trusted liaison within the intelligence community. His military background further strengthens his professionalism and network within British intelligence."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Colonel Smithers possesses extensive military and intelligence experience, with strong analytical and advisory skills. He is well-versed in espionage tactics, communications, and strategic planning. Although not typically involved in direct action, his knowledge and support are crucial for mission success."
+    }
+  ],
+  "aliases": [
+    "Col. Smithers",
+    "Smithers"
+  ],
+  "relationships": [
+    {
+      "type": "employee_of",
+      "target": "50fa1b1e-8679-4b51-9646-e429e7c9da31"
+    }
+  ],
+  "properties": {
+    "rank": "Colonel",
+    "nationality": "British",
+    "affiliation": "MI6",
+    "film": "Goldfinger",
+    "role": "supporting_character"
+  },
+  "tags": [
+    "James Bond",
+    "MI6",
+    "supporting_character",
+    "military",
+    "espionage",
+    "technical_support"
+  ]
+}

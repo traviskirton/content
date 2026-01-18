@@ -1,0 +1,50 @@
+{
+  "id": "559f2a97-f9f4-454f-a538-4ad08c028365",
+  "type": "location",
+  "name": "Neotrantor",
+  "description": "Neotrantor is the reconstructed capital city on the planet Trantor, symbolizing the legacy and decline of the Galactic Empire.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Neotrantor represents the attempt to restore Trantor to its former glory as the Galactic Empire's capital. After suffering extensive ruin during the Empire's collapse, this new city is a blend of the planet's imperial past and the pragmatic rebuilding efforts by surviving forces. It serves as a political and cultural hub, albeit one shadowed by the memories of decline and fragmentation."
+    },
+    {
+      "title": "Appearance",
+      "body": "Unlike the original Trantor, which was a vast, city-covered planet, Neotrantor is a more modest metropolis characterized by sprawling complexes of administrative buildings, military installations, and residential districts. Its architecture blends imperial grandeur with utilitarian designs dictated by the need for security and functionality amidst ongoing conflicts."
+    },
+    {
+      "title": "History",
+      "body": "Following the fall of the old Galactic Empire, the capital of Trantor was devastated both physically and politically. Neotrantor is the product of the Empire's efforts to rebuild and maintain a semblance of centralized governance. However, its history is marked by continuous power struggles, challenges from the rising Foundation, and the destabilizing influence of the Mule. It epitomizes both the perseverance and fragility of the imperial legacy."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Neotrantor serves as a symbolic and tactical center of Imperial resistance against the growing influence of the Foundation and mutants like the Mule. It is a stage for political intrigue, military confrontations, and the waning days of a once-dominant galactic force. Its presence in the narrative highlights themes of decay, renewal, and the shifting tides of power in a collapsing empire."
+    }
+  ],
+  "aliases": [
+    "New Trantor",
+    "Imperial Capital",
+    "Trantor Rebuilt"
+  ],
+  "relationships": [
+    {
+      "type": "located_on",
+      "target": "c3f3e1a2-5a33-4b5d-98b5-4c165ef1b6b7"
+    }
+  ],
+  "properties": {
+    "planet": "Trantor",
+    "type": "City",
+    "status": "Imperial Capital",
+    "era": "Post-Empire Reconstruction"
+  },
+  "tags": [
+    "location",
+    "science fiction",
+    "Foundation series",
+    "Isaac Asimov",
+    "city",
+    "Galactic Empire",
+    "Trantor"
+  ]
+}

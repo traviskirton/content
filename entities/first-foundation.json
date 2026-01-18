@@ -1,0 +1,73 @@
+{
+  "id": "4e8ca927-012a-4b0e-94ef-59f1e2a9ab2e",
+  "type": "organization",
+  "name": "First Foundation",
+  "description": "The First Foundation is a scientific organization established to preserve knowledge and guide humanity through the decline of the Galactic Empire.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The First Foundation was created as the initial branch of the Foundation project, initiated by Hari Seldon to safeguard humanity's knowledge and shorten the interregnum between the collapse of the Galactic Empire and the rise of the Second Galactic Empire. Primarily based on the planet Terminus, it focused on compiling scientific knowledge and fostering advancements to keep civilization from descending into barbarism."
+    },
+    {
+      "title": "Structure",
+      "body": "The First Foundation is predominantly composed of scientists, engineers, and scholars assigned to various research and educational posts on Terminus. It operates under a technocratic governance system where leading scientists and administrators coordinate efforts. Over time, the Foundation's leadership evolved, incorporating political and military figures as outside threats and political complexity increased."
+    },
+    {
+      "title": "History",
+      "body": "Founded approximately 12,000 years before the events of the Galactic Empire's fall, the First Foundation was established by psychohistorian Hari Seldon as part of his plan to mitigate the forthcoming dark age. It started as a repository of the Encyclopedia Galactica and expanded its influence through scientific innovation, diplomacy, and strategic manipulation of surrounding regions during the Empire's decline."
+    },
+    {
+      "title": "Goals",
+      "body": "The primary objectives of the First Foundation are to preserve and expand human knowledge, maintain technological superiority over surrounding regions, and ultimately ensure the creation of a stable, new Galactic Empire. It aims to use science and technology to advance civilization deliberately, avoiding chaotic regressions into barbarism."
+    },
+    {
+      "title": "Key Members",
+      "body": "Key figures in the First Foundation include Hari Seldon, its visionary founder; Salvor Hardin, the first mayor who strategically defended the Foundation; and Hober Mallow, a trader and military leader who expanded the Foundation's reach and influence. Subsequent leaders often emerged from both scientific and political backgrounds to address evolving challenges."
+    }
+  ],
+  "aliases": [
+    "Foundation",
+    "The First Foundation",
+    "Seldon's Foundation",
+    "Terminus Foundation"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "1fa5b055-3c7f-4dad-9ef4-2a961a9a90ca"
+    },
+    {
+      "type": "related_to",
+      "target": "c4b8cb14-02a3-4d26-b6b1-4aaf75d93691"
+    },
+    {
+      "type": "related_to",
+      "target": "d57efa78-eb1f-4a04-b1ae-598328f5655d"
+    },
+    {
+      "type": "includes",
+      "target": "f77e9aaa-59c3-4fec-9a15-5a4051cc37ba"
+    },
+    {
+      "type": "includes",
+      "target": "471a8aae-0feb-4e52-bdc6-58f59da2bc2e"
+    }
+  ],
+  "properties": {
+    "founded": "12,000 years before the fall of the Galactic Empire",
+    "headquarters": "Terminus",
+    "primary_focus": "Science and technology preservation",
+    "governance": "Technocratic",
+    "role_in_series": "Central organization preserving civilization"
+  },
+  "tags": [
+    "science_fiction",
+    "organization",
+    "galactic_empire",
+    "technology",
+    "psychohistory",
+    "Terminus",
+    "Isaac Asimov",
+    "Foundation series"
+  ]
+}

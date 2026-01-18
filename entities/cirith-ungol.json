@@ -1,0 +1,48 @@
+{
+  "id": "8a23e8ac-98a2-4a44-bea1-4a0510de7f23",
+  "type": "location",
+  "name": "Cirith Ungol",
+  "description": "A perilous mountain pass and location of the Tower of Cirith Ungol guarding the pass into Mordor.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Cirith Ungol is a steep, treacherous mountain pass located on the western border of Mordor. It serves as a critical gateway into the dark land, heavily guarded by the forces of Sauron. The pass includes the Tower of Cirith Ungol, an ancient fortress staffed by orcs, strategically placed to prevent entrance by enemies of Mordor. Its name translates roughly to \"Pass of the Spider,\" referencing the giant spider Shelob who dwells in its caves."
+    },
+    {
+      "title": "Appearance",
+      "body": "The pass is characterized by towering, jagged mountains and craggy cliffs blanketed with shadows and sparse vegetation. The air is filled with an oppressive darkness, and the landscape is foreboding and almost inhospitable. The Tower of Cirith Ungol itself is a bleak, stone structure with narrow windows and battlements overlooking the steep approach, ominously positioned to survey the terrifying terrain below where Shelob's lair is hidden. The caves are dark, dense with webs and filled with the ever-present threat of the monstrous spider."
+    },
+    {
+      "title": "History",
+      "body": "Constructed in the Second Age or early Third Age of Middle-earth, the Tower of Cirith Ungol was a vital sentinel for the defense of Mordor's western border. It was originally built to guard the pass so that no unauthorized entry could be made into Sauron's realm. During the War of the Ring, it was controlled by orcs and used as a launching point for attacks against Gondor and its allies. The tower and pass witnessed important events, including Frodo and Sam's perilous journey into Mordor and their encounter with Shelob."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Cirith Ungol plays a crucial role in Tolkien's 'The Two Towers' and 'The Return of the King' as the dark passage through which Frodo and Sam enter Mordor to destroy the One Ring. The pass is a site of intense danger, symbolizing the threshold between the outer world’s relative safety and the heart of evil within Mordor. It provides a backdrop for key events including Frodo's capture and rescue, and the confrontation with Shelob that nearly ends their quest. The fortress emphasizes Sauron's vigilance and the dark challenges the heroes must overcome."
+    }
+  ],
+  "aliases": [
+    "Pass of the Spider",
+    "Gate of Cirith Ungol",
+    "Cirith Ungol Pass",
+    "Tower Pass"
+  ],
+  "relationships": [],
+  "properties": {
+    "region": "Mordor",
+    "type": "Mountain pass and fortress",
+    "dominant_inhabitants": "Orcs, Shelob (giant spider)",
+    "era_active": "Second to Third Age",
+    "danger_level": "Extreme"
+  },
+  "tags": [
+    "Middle-earth",
+    "Lord of the Rings",
+    "Mordor",
+    "Mountain pass",
+    "Fantasy location",
+    "Dark fortress",
+    "Shelob",
+    "Orcs"
+  ]
+}

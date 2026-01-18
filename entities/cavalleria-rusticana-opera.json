@@ -1,0 +1,59 @@
+{
+  "id": "96fe0faa-1995-4c36-b0cc-c24a3878db28",
+  "type": "item",
+  "name": "Cavalleria Rusticana Opera",
+  "description": "An Italian opera featured prominently in The Godfather Part III, symbolizing tragedy and cultural heritage.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Cavalleria Rusticana is a one-act opera by Pietro Mascagni, representing Sicilian village life and themes of passion, honor, betrayal, and vengeance. In The Godfather Part III, the opera is emblematic of the deep-rooted Sicilian culture that permeates Michael Corleone’s world, and it mirrors the film’s dramatic tension and tragic narrative."
+    },
+    {
+      "title": "Appearance",
+      "body": "The opera is traditionally performed in grand historic theaters with elaborate sets evoking Sicilian rustic settings and rural village life. Its music is characterized by passionate arias and choruses that intensify the story’s emotional impact. The Godfather Part III features scenes of this opera performed in an opulent theater, enhancing the film’s atmosphere."
+    },
+    {
+      "title": "Function",
+      "body": "Within the film, Cavalleria Rusticana serves as both a narrative and symbolic device, paralleling the internal and external conflicts faced by Michael Corleone. The opera’s themes of love, betrayal, and death echo the storyline’s climax and underline the tragic consequences of the characters’ choices."
+    },
+    {
+      "title": "History",
+      "body": "First premiered in 1890, Cavalleria Rusticana quickly became one of Mascagni’s most popular works, gaining a reputation for its stirring melodies and intense drama. Its place in The Godfather Part III connects the modern crime saga with classical culture, reinforcing themes of legacy and tradition."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The inclusion of Cavalleria Rusticana underscores the intertwining of culture and crime in the Godfather saga. The opera scenes heighten the emotional stakes and provide a backdrop for key narrative developments, symbolizing the inescapable cycle of violence and retribution that defines Michael's fate."
+    }
+  ],
+  "aliases": [
+    "Cavalleria Rusticana",
+    "Rustic Chivalry",
+    "Mascagni Opera"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "37f90f75-1f4c-4d85-8d2e-eafcebb09118"
+    },
+    {
+      "type": "related_to",
+      "target": "da1c9b88-d559-4dc5-8b77-69a7305a2bb2"
+    }
+  ],
+  "properties": {
+    "composer": "Pietro Mascagni",
+    "premiere_year": 1890,
+    "genre": "Opera",
+    "language": "Italian",
+    "duration": "Approximately 1 hour"
+  },
+  "tags": [
+    "item",
+    "opera",
+    "The Godfather Part III",
+    "Italian culture",
+    "music",
+    "Mascagni",
+    "tragic opera"
+  ]
+}

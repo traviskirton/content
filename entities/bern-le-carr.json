@@ -1,0 +1,47 @@
+{
+  "id": "62aa0a32-5b1d-4180-b07b-f64d7ef40b15",
+  "type": "location",
+  "name": "Bern (le Carré)",
+  "description": "The Swiss capital city acting as a neutral ground and a discreet operational setting in 'Smiley’s People'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Bern holds a special place in 'Smiley’s People' as a neutral territory amidst the Cold War’s ideological battlefields. Its reputation for neutrality and discretion makes it an ideal location for secret meetings and subtle intelligence work."
+    },
+    {
+      "title": "Appearance",
+      "body": "The city is depicted with its historic medieval center, narrow streets lined with sandstone facades, and the Aare River winding nearby. This blend of old-world charm and modern administrative facilities reflects the dual nature of transparency and secrecy essential to espionage settings."
+    },
+    {
+      "title": "History",
+      "body": "Bern historically served as Switzerland’s political heart, known for its diplomatic neutrality, especially during the Cold War. In the novel, it represents a vital crossroads where East and West agents maneuver carefully to avoid public attention."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Within 'Smiley’s People', Bern is crucial for clandestine exchanges between operatives and acts as a symbolic crossroads for characters seeking resolution or betrayal, highlighting the complexities of neutrality during geopolitical tension."
+    }
+  ],
+  "aliases": [
+    "Bern, Switzerland",
+    "Swiss Capital",
+    "Neutral Bern"
+  ],
+  "relationships": [],
+  "properties": {
+    "country": "Switzerland",
+    "capital_city": true,
+    "status": "Neutral during Cold War",
+    "historical_significance": "Diplomatic center",
+    "population": "Approx. 120,000 (1970s)"
+  },
+  "tags": [
+    "location",
+    "city",
+    "Switzerland",
+    "neutrality",
+    "Cold War",
+    "espionage",
+    "le Carré",
+    "Smiley's People"
+  ]
+}

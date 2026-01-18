@@ -1,0 +1,63 @@
+{
+  "id": "c6f6d659-8f3d-4f92-9ec8-54b0f620b382",
+  "type": "character",
+  "name": "Father Chains",
+  "description": "The gruff and secretive mentor to the Gentleman Bastards, guiding them through their early years in the city of Camorr.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Father Chains is a former thief turned mentor and father figure to the Gentleman Bastards, a guild of con artists led by Locke Lamora. His origins are shrouded in mystery, but it is known that he was once deeply involved in the criminal underworld of Camorr. He assumes the role of guardian and strategist, shaping the young thieves under his care with rules and teachings meant to prepare them for the dangerous life ahead. His past experiences give him a commanding presence and deep understanding of both the streets and the mechanisms of power within Camorr."
+    },
+    {
+      "title": "Personality",
+      "body": "Father Chains is pragmatic, stern, and pragmatic, often using tough love to teach his protégés valuable survival skills. He is deeply protective and devoted to his charges, though his affection is expressed through hard lessons rather than tenderness. His seriousness is mixed with a dry wit and an unyielding moral code unique to his context, emphasizing loyalty, cleverness, and discretion. Despite his rough exterior, he embodies a sense of honor among thieves."
+    },
+    {
+      "title": "Story Role",
+      "body": "As the mentor to Locke Lamora and his band, Father Chains serves as the foundational moral and operational compass for the Gentleman Bastards. His teachings and rules pervade their schemes and help define their collective identity. Throughout 'The Lies of Locke Lamora', his influence is a constant presence, shaping the group's approach to thievery and survival amid political intrigue and violent enemies. He represents the old guard of cunning criminality, contrasting with newer, more brutal forces they encounter."
+    },
+    {
+      "title": "Relationships",
+      "body": "Father Chains is the principal figure in the lives of Locke Lamora, Calo Sanza, Galdo Sanza, and the other members of the Gentleman Bastards. His relationships are complex; he is both a teacher and, in some ways, a surrogate father. He is wary of others outside this circle, reflecting deep distrust born from his experiences in Camorr's treacherous underworld. His guidance is pivotal in bringing cohesion and discipline to the group, and he remains a respected authority figure."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "An expert in various forms of thievery and con artistry, Father Chains excels in planning, hand-to-hand combat, and survival tactics. His experience as a thief master equips him with keen strategic insight, enabling him to anticipate threats and opportunities. He is skilled in urban stealth and manipulation, teaching the Gentleman Bastards to blend into Camorr's diverse society and avoid detection. His knowledge of poisons, poisons, and defensive fighting rounds out his capabilities as a mentor."
+    }
+  ],
+  "aliases": [
+    "Chains",
+    "The Old Man",
+    "Mentor to the Bastards"
+  ],
+  "relationships": [
+    {
+      "type": "mentor_to",
+      "target": "ca7983bb-5f7b-4a04-b462-eedf8020c491"
+    },
+    {
+      "type": "mentor_to",
+      "target": "884f1aaf-f9d8-42e5-9659-9d3ca5ed684b"
+    },
+    {
+      "type": "mentor_to",
+      "target": "3f019f16-8ab2-48ce-8fbc-c9ed7ebc622a"
+    }
+  ],
+  "properties": {
+    "role": "Mentor",
+    "affiliation": "Gentleman Bastards",
+    "origin": "Camorr",
+    "morality": "Code of honor among thieves",
+    "age": "Middle-aged to elderly"
+  },
+  "tags": [
+    "fictional character",
+    "mentor",
+    "gentleman bastards",
+    "thief",
+    "fantasy",
+    "Camorr",
+    "con artist"
+  ]
+}

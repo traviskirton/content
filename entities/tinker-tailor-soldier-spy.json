@@ -1,0 +1,68 @@
+{
+  "id": "32c5d5e9-2e8f-43f3-982d-9846bc4a1450",
+  "type": "book",
+  "name": "Tinker, Tailor, Soldier, Spy",
+  "description": "A 1974 espionage novel by John le Carré featuring George Smiley's pursuit of a Soviet mole in the British Secret Service.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "'Tinker, Tailor, Soldier, Spy' is a seminal espionage novel by John le Carré, published in 1974. It is the first book in the Karla Trilogy and follows George Smiley as he comes out of retirement to uncover a Soviet mole leaking secrets within the highest ranks of the British intelligence community. Praised for its cerebral narrative and sophisticated characterization, the novel departs from action-heavy spy fiction, offering a meticulous and realistic portrayal of intelligence work during the Cold War."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "The novel begins with George Smiley's forced retirement after a failed intelligence operation. Soon, he is asked to investigate a potential mole in 'The Circus' — the British secret service. Through painstaking intelligence gathering, interrogation, and psychological analysis, Smiley uncovers a traitor among the top leadership code-named 'Gerald.' The story intricately weaves multiple perspectives and backstories as Smiley identifies the mole and confronts the devastating personal and professional consequences within the agency."
+    },
+    {
+      "title": "Themes",
+      "body": "Major themes include betrayal and loyalty, the moral ambiguity of espionage, and the personal cost of a life lived in shadows. The book explores the tension between trust and suspicion inherent in intelligence work, alongside the decline of British imperial influence. It also delves into the psychological burdens carried by agents living double lives, highlighting the emotional toll and ethical quandaries."
+    },
+    {
+      "title": "Reception",
+      "body": "Upon release, the novel received widespread critical acclaim for its intelligent plotting and nuanced character development. It was hailed as a masterpiece of spy fiction, revitalizing the genre with its complex narrative and realistic portrayal of Cold War intelligence. The book has been adapted numerous times, most notably in a highly regarded 1979 BBC miniseries and a 2011 feature film, further cementing its legacy in popular culture."
+    },
+    {
+      "title": "Influence and Legacy",
+      "body": "'Tinker, Tailor, Soldier, Spy' set a new standard for espionage literature, influencing writers and filmmakers alike. Its impact extends beyond literature, shaping public perception of spy craft and Cold War politics. The character of George Smiley became an iconic figure representing the cerebral and melancholic spy, distinguishing le Carré's work from more sensationalized portrayals."
+    }
+  ],
+  "aliases": [
+    "TTSS",
+    "Tinker Tailor",
+    "Tinker, Tailor",
+    "Gerald Trilogy Book One"
+  ],
+  "relationships": [
+    {
+      "type": "written_by",
+      "target": "f66c22f3-f2ad-4d17-bf5c-f0bde7a79d63"
+    },
+    {
+      "type": "part_of_franchise",
+      "target": "1e271d3c-46e7-44b9-bc95-73e8e97f9333"
+    },
+    {
+      "type": "features_character",
+      "target": "b72a1e33-745b-4a6f-8eea-b4bb365ddb2a"
+    },
+    {
+      "type": "part_of_franchise",
+      "target": "d4395616-2c5b-4e2c-a14c-f1c33038f43f"
+    }
+  ],
+  "properties": {
+    "publication_year": 1974,
+    "genre": "Espionage Fiction",
+    "pages": 320,
+    "publisher": "Hodder & Stoughton"
+  },
+  "tags": [
+    "spy fiction",
+    "cold war",
+    "john le carré",
+    "espionage",
+    "literature",
+    "thriller",
+    "george smiley",
+    "karla trilogy"
+  ]
+}

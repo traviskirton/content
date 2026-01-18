@@ -1,0 +1,55 @@
+{
+  "id": "c09f24c7-1c3e-4037-9296-4a9fa60d2e58",
+  "type": "location",
+  "name": "The Black Gate",
+  "description": "The massive, fortified main entrance to Mordor, symbolizing the threshold to Sauron's realm.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Also known as the Morannon, the Black Gate is the great iron gate guarding the main chokepoint into the land of Mordor. Serving as a critical defensive structure, it blocks passage along the road from the west and was constructed to prevent enemy incursions into Sauron’s domain. The gate is a foreboding barrier, emblematic of Sauron’s oppressive dominion."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Black Gate is enormous, made of black iron with spikes and grim metalwork, embedded into massive stone walls that stretch on both sides to the surrounding mountains. The gate's twin blades are intricately designed with threatening motifs and carvings associated with Sauron's power. It is often depicted shrouded in smoke or shadow, radiating menace to approaching forces."
+    },
+    {
+      "title": "History",
+      "body": "Constructed during the Second Age, the Black Gate was designed after the fall of Barad-dûr to secure Mordor’s western entrance. It has withstood many sieges and served as the final barrier to Sauron’s lands. During the War of the Ring in the Third Age, it was the site of the climactic confrontation where Aragorn and the allied forces staged a diversion to draw Sauron's attention away from Frodo’s quest."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In The Return of the King, the Black Gate is the location of the last stand against Sauron’s armies. Aragorn leads the forces of the West here in a desperate attempt to distract Sauron and allow Frodo safe passage to Mount Doom. The gate represents the literal and symbolic crossing into the heart of darkness from which hope seems to have fled."
+    }
+  ],
+  "aliases": [
+    "Morannon",
+    "The Great Gate of Mordor",
+    "Sauron's Gate",
+    "Gate of Mordor"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "fa0913cf-7aa6-4b44-8ec0-5d6b9b3bba4e"
+    },
+    {
+      "type": "battle_site_of",
+      "target": "d7c95ea1-fcdc-4e5e-9fbb-95773b3bd6a7"
+    }
+  ],
+  "properties": {
+    "region": "Mordor",
+    "function": "Fortified gateway",
+    "era": "Second and Third Age",
+    "builder": "Sauron's forces"
+  },
+  "tags": [
+    "Middle-earth",
+    "Fortress",
+    "Mordor",
+    "The Lord of the Rings",
+    "Gate",
+    "War",
+    "Sauron"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "057c3f11-c3b7-4e4b-9972-547a2debc3c3",
+  "type": "character",
+  "name": "Tatiana Romanova",
+  "description": "A Soviet cipher clerk who becomes a pawn in a deadly espionage plot involving James Bond.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Tatiana Romanova is introduced as a beautiful and somewhat naive cipher clerk working for Soviet intelligence. Her role involves handling sensitive cryptographic material, like the Lektor decoding machine, making her a valuable asset within the espionage apparatus. Her personal motivations are complicated by her familial relationships and the political environment of the Soviet Union during the Cold War."
+    },
+    {
+      "title": "Personality",
+      "body": "Tatiana exhibits an innocent charm, blended with a deep sense of duty and patriotism toward her country. However, she is initially unaware of the full implications of the plot in which she is involved. Her character develops to reveal vulnerability, courage, and a growing awareness of the dangers surrounding her, especially as she becomes entangled with James Bond and SMERSH’s deadly schemes."
+    },
+    {
+      "title": "Story Role",
+      "body": "Tatiana plays the role of a decoy and bait in the novel, her planned defection being a ruse to lure James Bond into a trap. Despite this, her interactions with Bond create a genuine emotional connection, complicating the mission. Throughout the story, Tatiana transitions from a tool of espionage to a potential defector, embodying the human element amidst the political machinations."
+    },
+    {
+      "title": "Relationships",
+      "body": "Tatiana's most significant relationship is with James Bond, as their interactions serve both as a plot device and a romantic subplot. She is manipulated by Rosa Klebb and SMERSH, highlighting her vulnerability to external forces. Additionally, her familial connections to the Soviet intelligence community add to her internal conflict. Her relationship with Bond ultimately influences her decisions and survival."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Tatiana is skilled in cryptography and intelligence gathering, essential for her role as a cipher clerk. While not a combatant, she demonstrates resourcefulness and resilience in perilous situations. Her ability to remain composed under pressure aids her survival and contributes to her role in espionage, highlighting the varied skills required even of non-combatant agents in Cold War intelligence operations."
+    }
+  ],
+  "aliases": [
+    "Tatiana",
+    "Tatiana Romanova (Bond novel)",
+    "Soviet cipher clerk"
+  ],
+  "relationships": [
+    {
+      "type": "pawn_of",
+      "target": "73d8d327-a5d3-4d8a-8c0c-f3afbf513194"
+    },
+    {
+      "type": "love_interest_of",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    },
+    {
+      "type": "target_of",
+      "target": "7e2b8123-4ec0-4bcf-919f-b0f586e4bcaf"
+    },
+    {
+      "type": "appears_in",
+      "target": "1d9a0b4b-91c3-4b11-9f82-1f4380fe4c80"
+    }
+  ],
+  "properties": {
+    "occupation": "Cipher Clerk",
+    "nationality": "Soviet",
+    "gender": "Female",
+    "affiliation": "Soviet Intelligence"
+  },
+  "tags": [
+    "Spy Fiction",
+    "James Bond",
+    "Soviet Agent",
+    "Cold War",
+    "Love Interest",
+    "Cryptography"
+  ]
+}

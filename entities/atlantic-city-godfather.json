@@ -1,0 +1,48 @@
+{
+  "id": "0fe7808b-cb66-4f47-9adc-5170ee62a47c",
+  "type": "location",
+  "name": "Atlantic City (Godfather)",
+  "description": "A key setting in The Godfather universe representing the East Coast operations and influence of the Corleone crime family, portrayed in the trilogy.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Atlantic City in The Godfather series is depicted as a hub for organized crime activities, particularly connected to the Corleone family and its associates. It embodies the glamorous yet dangerous atmosphere of the East Coast underworld during the mid-to-late 20th century. The city serves as a backdrop for several pivotal meetings and confrontations involving mob figures and political entities."
+    },
+    {
+      "title": "Appearance",
+      "body": "The portrayal of Atlantic City in the Godfather saga showcases its contrast between bright neon lights of casinos and boardwalks and the dark, shadowy dealings in its back alleys and private clubs. It’s a city where wealth and corruption intertwine, shown as both vibrant and menacing, reflecting the duality of the mafia lifestyle."
+    },
+    {
+      "title": "History",
+      "body": "Historically, Atlantic City was known as a major gambling and resort destination, but in Godfather lore, it is often portrayed as a key strategic location for organized crime families to extend their influence beyond New York. The city's criminal scene serves to support the narrative of expanding mafia power and complicated alliances."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Atlantic City is significant for its role in hosting meetings and power plays that propel the storylines involving the Corleone family’s dealings outside their traditional bases. It is associated with the rise and conflicts of various characters, symbolizing the reach of mob power into legitimate business and vice."
+    }
+  ],
+  "aliases": [
+    "Atlantic City",
+    "Atlantic City Boardwalk",
+    "The East Coast Hub"
+  ],
+  "relationships": [],
+  "properties": {
+    "region": "East Coast, United States",
+    "primary_era": "1970s-1990s",
+    "notable_events": [
+      "Corleone meetings",
+      "Gambling operations"
+    ],
+    "climate": "Coastal temperate"
+  },
+  "tags": [
+    "location",
+    "The Godfather",
+    "crime",
+    "Atlantic City",
+    "mafia",
+    "East Coast",
+    "organized crime"
+  ]
+}

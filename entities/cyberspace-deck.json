@@ -1,0 +1,51 @@
+{
+  "id": "e2471bd6-c399-44f9-8d76-df97814e2914",
+  "type": "item",
+  "name": "Cyberspace Deck",
+  "description": "A portable neural interface device used in Neuromancer for accessing and navigating the Cyberspace network.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Cyberspace Deck, also known as a 'deck,' is a specialized piece of hardware integral to the experience and mechanics of Cyberspace in the Neuromancer universe. It serves as the interface between the user's nervous system and the digital realm, enabling direct brain-computer interaction. These devices come equipped with advanced processors and custom software designed to facilitate immersive hacking, data manipulation, and virtual navigation."
+    },
+    {
+      "title": "Appearance",
+      "body": "Typically compact and portable, the Cyberspace Deck resembles a streamlined console with an integrated neural jack and interface modules. Depending on the model and era, decks may feature an array of tactile controls, display interfaces, and wiring connecting to the user’s neural ports. Often rugged and customized by individual hackers to optimize performance, the decks strike a balance between technological complexity and user accessibility."
+    },
+    {
+      "title": "Function",
+      "body": "Functionally, the deck translates neural impulses into commands within the Cyberspace environment, allowing users to 'jack in' and project their consciousness into virtual constructs. It manages data streams, signal encryption, and firewall bypassing, enabling high-stakes hacking and cyber espionage. In addition to offensive capabilities, decks can provide defensive countermeasures, aids to navigation, and enhanced sensory feedback, making the user an effective agent within the virtual network."
+    },
+    {
+      "title": "History",
+      "body": "The Cyberspace Deck emerged as a critical technology during the corporate wars and data conflicts central to the Neuromancer setting. Originally developed to facilitate secure corporate networking and information exchange, the deck quickly evolved into a tool for both sanctioned operations and underground hacking. Throughout the novel, the protagonist Case uses a deck to enter Cyberspace and execute the novel's key missions, illustrating the device's indispensability and technical sophistication."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The deck is more than a tool—it is the user’s gateway to the virtual frontier and a symbol of human-machine fusion. Through it, Neuromancer explores themes of identity, consciousness, and control, as characters betray or embrace their physical and digital selves. Case’s reliance on his deck underscores the allure and dangers of technological immersion, framing much of the novel’s tension and cyberpunk aesthetic."
+    }
+  ],
+  "aliases": [
+    "Deck",
+    "Datajack Console",
+    "Neural Interface Deck",
+    "Hacker's Deck"
+  ],
+  "relationships": [],
+  "properties": {
+    "type": "hardware",
+    "interface": "neural jack",
+    "uses": "cyberspace access, hacking",
+    "portability": true,
+    "technology_level": "advanced cybernetics"
+  },
+  "tags": [
+    "cyberspace",
+    "hardware",
+    "cyberpunk",
+    "neuromancer",
+    "technology",
+    "neural interface",
+    "hacking"
+  ]
+}

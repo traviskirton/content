@@ -1,0 +1,66 @@
+{
+  "id": "1ec0d5ef-4a7f-460e-aefa-fb0fa6876bb2",
+  "type": "character",
+  "name": "Michael Corleone",
+  "description": "Michael Corleone is the youngest son of Vito Corleone who transforms from a reluctant outsider to the ruthless head of the Corleone Mafia family.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Michael is initially a decorated World War II Marine and the most detached of Vito Corleone’s children from the family's criminal affairs. He strives to live a legitimate life, separate from his father's empire. However, after an attempt on his father's life, Michael becomes deeply involved, ultimately succeeding Vito as the Don of the family."
+    },
+    {
+      "title": "Personality",
+      "body": "Michael starts as idealistic and disciplined, embodying intelligence and composure. Over time, he becomes cold, calculating, and morally ambiguous, willing to commit ruthless acts to protect and expand his family's power. His transformation is marked by a detachment from his earlier values and a growing capacity for strategic cruelty."
+    },
+    {
+      "title": "Story Role",
+      "body": "Michael’s journey is central to both the novel and subsequent films, representing the complex evolution of power and corruption. His leadership style reshapes the Corleone family, making it more covert and businesslike but also more feared and isolated. His arc is a tragic tale of losing humanity in pursuit of family loyalty and survival."
+    },
+    {
+      "title": "Relationships",
+      "body": "Michael is the son of Vito Corleone and the brother of Sonny, Fredo, and Connie. His relationships are fraught with tension and tragedy, including his marriage to Kay Adams and conflicts with rival families and even some within his own circle. Michael’s loyalty is fierce, but his prioritization of power often results in personal alienation."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Michael is a strategic thinker with aptitude in leadership, diplomacy, and manipulation. His military background adds tactical thinking and resilience, while his cold decisiveness allows him to navigate violent Mafia politics effectively. His skill lies in consolidating family power while maintaining a front of legitimacy."
+    }
+  ],
+  "aliases": [
+    "Don Michael",
+    "Michael Francis Rizzi",
+    "Mikey",
+    "Il Padrino Nuovo"
+  ],
+  "relationships": [
+    {
+      "type": "son_of",
+      "target": "49963d4f-8613-406d-8c82-6a50c1d6e9af"
+    },
+    {
+      "type": "brother_of",
+      "target": "d6b102b3-0c4b-4c33-97f2-c0d36df8ec84"
+    },
+    {
+      "type": "appears_in",
+      "target": "f2906db8-5e3f-45a9-85db-8a1a451c7d1c"
+    }
+  ],
+  "properties": {
+    "military_service": "World War II Marine",
+    "role": "Mafia Don",
+    "family": "Corleone",
+    "notable_traits": [
+      "Strategic",
+      "Ruthless",
+      "Detached"
+    ]
+  },
+  "tags": [
+    "mafia",
+    "corleone family",
+    "critic character",
+    "mafia don",
+    "fictional character",
+    "organized crime"
+  ]
+}

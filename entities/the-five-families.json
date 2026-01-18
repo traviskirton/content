@@ -1,0 +1,58 @@
+{
+  "id": "feac8d45-6cec-4c0a-b781-41dafaba2f33",
+  "type": "organization",
+  "name": "The Five Families",
+  "description": "The collective name for the five major Mafia families that dominate organized crime in New York City, featuring prominently in 'The Godfather'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Five Families are the five principal Italian-American Mafia organizations operating in New York City, whose influence extends nationally and internationally. They form a powerful consortium governing organized crime, maintaining a careful balance of power through agreements, negotiations, and violent enforcement when necessary. Their activities include racketeering, extortion, drug trafficking, and political corruption."
+    },
+    {
+      "title": "Structure",
+      "body": "Each family operates independently but follows similar hierarchical arrangements modeled on Sicilian Mafia traditions. Leadership is centralized under a boss, supported by underbosses and advisers. The families often convene to discuss shared interests, resolve disputes, and coordinate large-scale operations, typically under a governing body known as The Commission."
+    },
+    {
+      "title": "History",
+      "body": "The Five Families emerged from the consolidation of various crime groups in the early 20th century during the Prohibition era and thereafter. Their formation enabled coordinated control over criminal enterprises, aiming to reduce infighting and optimize profits. Throughout 'The Godfather' series, the Five Families play a crucial role in shaping the dynamics of power, alliances, and rivalries within the Mafia world."
+    },
+    {
+      "title": "Goals",
+      "body": "The Five Families seek to dominate the illicit markets and maintain territorial control within New York City and beyond. Their long-term objectives include protecting members, influencing political bodies, avoiding law enforcement interference, and maximizing financial returns. They also strive to uphold mafia traditions of honor and secrecy, ensuring internal cohesion and external respect."
+    },
+    {
+      "title": "Key Members",
+      "body": "These families are each headed by powerful Dons, including the Corleone, Tattaglia, Barzini, Cuneo, and Stracci families. Key figures include Vito and Michael Corleone (Corleone family) and Emilio Barzini (Barzini family). Inter-family relationships are complex, involving alliances, betrayals, and violent power struggles instrumental to plot developments."
+    }
+  ],
+  "aliases": [
+    "Five Mafia Families",
+    "NYC Mafia Families",
+    "The Commission Families",
+    "La Cosa Nostra"
+  ],
+  "relationships": [
+    {
+      "type": "includes",
+      "target": "483e3a15-3dba-4c05-8a56-c17606f07db4"
+    },
+    {
+      "type": "includes",
+      "target": "a188ee02-9da4-4b27-a3b6-1c5284ac1c74"
+    }
+  ],
+  "properties": {
+    "type": "Mafia umbrella organization",
+    "location": "New York City",
+    "number_of_families": 5,
+    "established": "1920s-1930s"
+  },
+  "tags": [
+    "organization",
+    "Mafia",
+    "The Godfather",
+    "organized crime",
+    "New York",
+    "Five Families"
+  ]
+}

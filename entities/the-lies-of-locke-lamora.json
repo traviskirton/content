@@ -1,0 +1,63 @@
+{
+  "id": "379ade9b-9c45-4d0c-8219-0a1a6b03a5a5",
+  "type": "book",
+  "name": "The Lies of Locke Lamora",
+  "description": "The first novel in the Gentleman Bastard series, featuring the exploits of Locke Lamora and his band of thieves in the city of Camorr.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "'The Lies of Locke Lamora' is a fantasy novel published in 2006 by Scott Lynch. It introduces readers to Locke Lamora, a master con artist, and his group of skilled thieves known as the Gentleman Bastards. Set in the richly envisioned city of Camorr, the novel blends fantasy elements with the intricacies of crime, deception, and political intrigue. It is celebrated for its witty prose, multilayered plot, and dynamic characters."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "The novel follows Locke Lamora and his crew as they pull off elaborate heists targeting the wealthy noble houses of Camorr. When a mysterious and ruthless figure known as the Grey King threatens to destabilize the city's underworld, Locke must employ all his cunning to survive. The story intertwines Locke's past training with the unfolding present dangers, revealing betrayals, shifting alliances, and unexpected traps that test the bonds of friendship and loyalty."
+    },
+    {
+      "title": "Themes",
+      "body": "'The Lies of Locke Lamora' explores themes of friendship, loyalty, deception, and survival in a corrupt society. It challenges notions of heroism by blurring lines between good and evil. The novel also comments on social stratification and power dynamics, using the city of Camorr as a microcosm for political corruption and underworld law. The blend of humor with dark and violent events adds layers of complexity to the narrative."
+    },
+    {
+      "title": "Reception",
+      "body": "Upon release, the novel received widespread critical acclaim for its originality and craftsmanship. It was praised for its richly detailed setting and compelling characters, particularly the charismatic Locke Lamora. Critics lauded Scott Lynch's ability to blend genres, creating a fresh take on fantasy by incorporating elements of mystery and crime capers. It sold strongly and established Lynch as a prominent voice in fantasy literature."
+    }
+  ],
+  "aliases": [
+    "The Lies of Locke Lamora",
+    "Locke Lamora",
+    "Gentleman Bastards Book 1"
+  ],
+  "relationships": [
+    {
+      "type": "author",
+      "target": "faa6c2d0-1db1-4a71-9a0f-d051afc8a9b9"
+    },
+    {
+      "type": "part_of_franchise",
+      "target": "5a7efcd8-1e55-4d39-b265-9f136e63f9a1"
+    },
+    {
+      "type": "features_character",
+      "target": "2ccf6837-0518-4a67-9c49-2154a85fca68"
+    },
+    {
+      "type": "features_character",
+      "target": "40b1487e-eca5-4529-bd7b-ca5a9a60213c"
+    }
+  ],
+  "properties": {
+    "publication_year": 2006,
+    "genre": "Fantasy",
+    "publisher": "Gollancz",
+    "pages": 544,
+    "language": "English"
+  },
+  "tags": [
+    "fantasy",
+    "novel",
+    "Scott Lynch",
+    "Gentleman Bastard",
+    "heist",
+    "crime",
+    "Camorr"
+  ]
+}

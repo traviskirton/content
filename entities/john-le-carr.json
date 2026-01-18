@@ -1,0 +1,61 @@
+{
+  "id": "f66c22f3-f2ad-4d17-bf5c-f0bde7a79d63",
+  "type": "person",
+  "name": "John le Carré",
+  "description": "British author renowned for his espionage novels, notably the Karla Trilogy featuring George Smiley.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "John le Carré was born David John Moore Cornwell in 1931 in Poole, England. Before becoming a full-time writer, he worked for both British intelligence services, MI5 and MI6, experiences which profoundly influenced his literary career. His deep understanding of espionage informed his novels, setting them apart from typical spy thrillers through moral complexity and psychological depth. Le Carré became one of the 20th century's most celebrated writers before passing away in 2020."
+    },
+    {
+      "title": "Career",
+      "body": "Le Carré's career spanned over five decades, during which he authored numerous critically acclaimed novels exploring Cold War espionage and international intrigue. His breakthrough came with 'The Spy Who Came in from the Cold' (1963), earning literary acclaim. He continued to write gripping stories emphasizing the ambiguities of intelligence work, including the seminal Karla Trilogy. His work often condemned political cynicism and the human cost of spycraft."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Among le Carré's many notable works are 'The Spy Who Came in from the Cold,' 'Tinker, Tailor, Soldier, Spy,' 'The Honourable Schoolboy,' and 'Smiley's People.' The last three constitute the Karla Trilogy, widely regarded as masterpieces of espionage literature. Subsequent works include 'The Night Manager,' 'The Constant Gardener,' and more, many of which have been successfully adapted to film and television."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Le Carré's writing style is marked by intricate plots, nuanced character development, and a stark portrayal of the Cold War’s murky morality. His influence reshaped the spy genre, moving beyond glamorized espionage to explore ethical dilemmas and the toll of deception. His impact extends to cinema and television, inspiring filmmakers and writers worldwide and setting a standard for intelligence fiction realism."
+    },
+    {
+      "title": "Legacy",
+      "body": "John le Carré is recognized as one of the greatest espionage authors, cementing a literary legacy that continues to influence modern spy fiction. His blend of authenticity, narrative tension, and human insight has set a benchmark for subsequent generations. His characters, particularly George Smiley, remain iconic, symbolizing the conflicted intelligence officer navigating a complex world."
+    }
+  ],
+  "aliases": [
+    "David Cornwell",
+    "David John Moore Cornwell"
+  ],
+  "relationships": [
+    {
+      "type": "wrote",
+      "target": "32c5d5e9-2e8f-43f3-982d-9846bc4a1450"
+    }
+  ],
+  "properties": {
+    "birth_year": 1931,
+    "death_year": 2020,
+    "nationality": "British",
+    "genres": [
+      "Spy Fiction",
+      "Thriller"
+    ],
+    "occupation": [
+      "Author",
+      "Intelligence Officer"
+    ]
+  },
+  "tags": [
+    "author",
+    "spy fiction",
+    "cold war",
+    "literature",
+    "British",
+    "espionage",
+    "Karla Trilogy",
+    "George Smiley"
+  ]
+}

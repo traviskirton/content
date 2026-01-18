@@ -33,6 +33,26 @@
     {
       "type": "located_in",
       "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "contains",
+      "target": "54d8f2bc-ea90-44cb-a8c8-d984b5e673a3"
+    },
+    {
+      "type": "contains",
+      "target": "f18ac8fd-6b74-4e9d-9abc-dbd5c4747e5b"
+    },
+    {
+      "type": "contains",
+      "target": "56d73f8e-8f44-4f5a-92c2-d407c6b37f4c"
+    },
+    {
+      "type": "contains",
+      "target": "9ea831c8-8d94-4312-9954-6159a1c7e065"
+    },
+    {
+      "type": "contains",
+      "target": "739f8c2e-4af7-449d-a02e-fbff2766d9e3"
     }
   ],
   "properties": {

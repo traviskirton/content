@@ -1,0 +1,66 @@
+{
+  "id": "d6b102b3-0c4b-4c33-97f2-c0d36df8ec84",
+  "type": "character",
+  "name": "Sonny Corleone",
+  "description": "Sonny Corleone is the hot-headed eldest son of Vito Corleone, known for his impulsive nature and fierce loyalty to his family.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Sonny is the eldest son of Vito Corleone and is deeply involved in the family's criminal enterprises from an early age. Unlike his more calculating brothers, he relies on his physical strength and emotional intensity to enforce the family’s will. His brash actions occasionally jeopardize the family’s stability."
+    },
+    {
+      "title": "Personality",
+      "body": "Sonny is fiery, impulsive, and quick to anger. His aggressive nature makes him an effective enforcer but also contributes to rash decisions and conflicts. Despite this, he is characterized by a deep love and loyalty to his family and an innate protectiveness, especially toward his siblings and father."
+    },
+    {
+      "title": "Story Role",
+      "body": "As the heir apparent before Michael’s rise, Sonny plays a critical role in the power dynamics of the Corleone family. His violent death marks a turning point in the story, emphasizing the brutal realities of Mafia life and setting the stage for Michael's ascension and the subsequent transformation of the family."
+    },
+    {
+      "title": "Relationships",
+      "body": "Sonny has complex relationships with his father Vito and brothers Michael and Fredo. He is protective of his sister Connie and shows a passionate devotion to family interests. His aggressive style contrasts with Michael's calculated approach, often causing friction, but his loyalty is never in question."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Sonny’s strengths are his physicality, combat skills, and intimidation tactics. He commands respect through fear and force, thriving in direct confrontations. Unlike his brothers, his leadership is less strategic and more confrontational, making him both a valuable ally and a liability."
+    }
+  ],
+  "aliases": [
+    "Santino Corleone",
+    "Sonny",
+    "Big Boy",
+    "The Hothead"
+  ],
+  "relationships": [
+    {
+      "type": "son_of",
+      "target": "49963d4f-8613-406d-8c82-6a50c1d6e9af"
+    },
+    {
+      "type": "brother_of",
+      "target": "1ec0d5ef-4a7f-460e-aefa-fb0fa6876bb2"
+    },
+    {
+      "type": "appears_in",
+      "target": "f2906db8-5e3f-45a9-85db-8a1a451c7d1c"
+    }
+  ],
+  "properties": {
+    "role": "Enforcer",
+    "family": "Corleone",
+    "notable_traits": [
+      "Impulsive",
+      "Fiery",
+      "Loyal"
+    ],
+    "fate": "Killed in ambush"
+  },
+  "tags": [
+    "mafia",
+    "corleone family",
+    "enforcer",
+    "fictional character",
+    "organized crime",
+    "impulsive character"
+  ]
+}

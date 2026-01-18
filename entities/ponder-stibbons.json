@@ -1,0 +1,63 @@
+{
+  "id": "e89d9a3c-5d70-4e76-aa54-57e3b8a9cde1",
+  "type": "character",
+  "name": "Ponder Stibbons",
+  "description": "A young and highly skilled wizard and researcher at Unseen University, known for his intellect and involvement with magical experimentation.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Ponder Stibbons is a wizard from Terry Pratchett's Discworld series, primarily serving as a prominent member of the Unseen University staff. Introduced as a young and ambitious wizard, Stibbons represents the new generation of magic users blending traditional wizardry with scientific inquiry. His full name, Ponder Stibbons, reflects his deep contemplative nature. Originally a student, he eventually becomes a faculty member, involved heavily in magical innovations and theories. Throughout the series, his character develops from being a side figure to a crucial player in many magical and organizational machinations at the University."
+    },
+    {
+      "title": "Personality",
+      "body": "Ponder is characterized by his curious mind, serious demeanor, and unrelenting dedication to research and the pursuit of knowledge. Unlike many of his more eccentric and traditional wizard colleagues, he embodies a more rational and scientific approach to magic, often clashing with the archaic methods of some of his peers. Despite this, he maintains a dry sense of humor and a subtle wit, often understanding the absurdities around him more keenly than others. His focus and persistence sometimes cause him to seem socially awkward or overly intense."
+    },
+    {
+      "title": "Story Role",
+      "body": "Ponder features prominently in several Discworld novels where he acts as a bridge between the magical world and the advancing frontiers of knowledge. He often takes on the role of an innovator, spearheading magical experiments such as the development of Hex, a proto-computer powered by magic. Ponder also becomes involved in the internal politics of Unseen University and the wider magical community, functioning as a behind-the-scenes fixer and organizer. His role expands to encompass crucial tasks involving the detection and handling of magical anomalies and threats, making him indispensable despite his lowly status compared to senior wizards."
+    },
+    {
+      "title": "Relationships",
+      "body": "Ponder's relationships are largely defined by his interactions with the other wizards of Unseen University, including the Archchancellor and characters like the Dean and the Bursar. He often has a somewhat strained relationship with Rincewind and other more traditional or chaotic wizards due to his serious and studious nature. Nonetheless, he is respected, if sometimes underestimated, by his peers. His closest relationships are with the University's staff who share his interest in research, including the Librarian and other academic figures who value his organizational skills."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Ponder is highly skilled in magical theory and practical applications of magic, but his true talent lies in his analytical and scientific approach to wizardry. He is versed in arcane knowledge, experimental magic, and the management of magical technology. His pioneering work on Hex, the magical computer, highlights his unique blend of magical and technical expertise. Furthermore, he possesses a keen intellect and problem-solving abilities that enable him to unravel complex magical puzzles and threats."
+    }
+  ],
+  "aliases": [
+    "Wizard Ponder",
+    "Master Stibbons",
+    "The Archchancellor’s Assistant",
+    "Ponder"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "ea9b2b82-71cc-417d-9f3d-b7b0c202367a"
+    },
+    {
+      "type": "located_in",
+      "target": "c280701d-cc72-4e97-9367-ef8b120ff1a3"
+    },
+    {
+      "type": "exists_in",
+      "target": "57bca9b6-ab08-4c4a-976e-6f3ffdf5b6e7"
+    }
+  ],
+  "properties": {
+    "occupation": "Wizard, Researcher",
+    "affiliation": "Unseen University",
+    "magical_focus": "Magical technology and theory",
+    "status": "Prominent faculty member",
+    "gender": "Male"
+  },
+  "tags": [
+    "Discworld",
+    "Character",
+    "Wizard",
+    "Magic",
+    "Unseen University",
+    "Literature"
+  ]
+}

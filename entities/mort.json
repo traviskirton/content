@@ -1,0 +1,54 @@
+{
+  "id": "71f9d9da-f498-4f1a-a7ba-7051650cfedb",
+  "type": "character",
+  "name": "Mort",
+  "description": "A young man who becomes Death's apprentice, learning the consequences and responsibilities of guiding souls in the Discworld.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Mort is introduced in the novel 'Mort' as a shy and somewhat awkward teenager who is apprenticed by Death, the anthropomorphic entity in the Discworld universe. His story follows his transition from an unremarkable youth to someone who must grapple with the responsibilities of a cosmic role. Mort's journey explores themes of destiny, life, death, and the nature of humanity."
+    },
+    {
+      "title": "Personality",
+      "body": "Mort is initially timid and unsure of himself, often overwhelmed by the magnitude of his apprenticeship. However, as he grows, he becomes determined, empathetic, and thoughtful, often questioning the rigid rules governing death and the universe. His youthful idealism contrasts with Death’s stoicism, adding depth and heart to his character development."
+    },
+    {
+      "title": "Story Role",
+      "body": "Mort's role is central in exploring the concept of death and the cosmic order in the Discworld series. His narrative examines the tension between fate and free will, responsibility and error. 'Mort' is considered one of the pivotal novels in the franchise, serving as a coming-of-age story layered with humor and philosophy. Mort’s apprenticeship allows the series to delve into existential questions through a character-driven plot."
+    },
+    {
+      "title": "Relationships",
+      "body": "Mort develops a mentor-mentee relationship with Death, learning the trade and moral dilemmas of guiding souls. He forms deep bonds with characters like Ysabell, Death's adopted daughter, and others affected by his unique journey. Mort’s relationships often highlight his growth as well as the humanization of Death as a concept."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "As Death's apprentice, Mort gains the supernatural ability to sense and guide souls to the afterlife, wield a powerful scythe, and temporarily influence cosmic events. He learns to navigate the rules of life and death and develops an understanding of the balance required to maintain order. Mort’s unique perspective helps challenge and sometimes bend the natural laws under Death’s watch."
+    }
+  ],
+  "aliases": [
+    "Mortimer",
+    "Death's Apprentice",
+    "The Young Apprentice"
+  ],
+  "relationships": [
+    {
+      "type": "apprentice_of",
+      "target": "a17f6632-3a47-4dfd-a2e3-a7ad4c6f3e3a"
+    }
+  ],
+  "properties": {
+    "role": "Apprentice to Death",
+    "origin": "Discworld",
+    "abilities": "Soul guidance, scythe wielding",
+    "personality": "Timid, empathetic, thoughtful"
+  },
+  "tags": [
+    "Discworld",
+    "character",
+    "apprentice",
+    "fantasy",
+    "death",
+    "coming_of_age",
+    "philosophical"
+  ]
+}

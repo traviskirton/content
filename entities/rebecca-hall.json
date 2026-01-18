@@ -25,10 +25,6 @@
   "relationships": [
     {
       "type": "acted_in",
-      "target": "575d2e4e-e610-4fbb-879d-3c1d688c945e"
-    },
-    {
-      "type": "acted_in",
       "target": "e2a7890e-ac3e-4a58-a5d9-7f33cc9c5867"
     },
     {

@@ -1,0 +1,56 @@
+{
+  "id": "993c3efb-0ba0-4791-9ebb-1e9d581a4e6b",
+  "type": "character",
+  "name": "Selden",
+  "description": "Selden is an escaped convict hiding on the moor near Baskerville Hall, whose presence influences the events and heightens the atmosphere of danger and suspense in the story.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Selden, known as the 'Notting Hill murderer,' escaped from prison where he was incarcerated for homicide. He has since been hiding in the wild expanses of the Devonshire moors near Baskerville Hall, under the covert protection of his sister, Mrs. Barrymore. His fugitive status and uncertain motives add a human element of threat and mystery to the legend of the spectral hound."
+    },
+    {
+      "title": "Personality",
+      "body": "Selden is portrayed as desperate and dangerous, yet also pitiable, evoking sympathy due to his harsh circumstances. His wild and erratic behavior is tempered by moments that suggest remorse or fear, underscoring the complexity of a man on the run. His presence embodies the peril lurking in the natural, untamed surroundings of the moor."
+    },
+    {
+      "title": "Story Role",
+      "body": "Selden’s role is both symbolic and practical, embodying the danger of the moor outside the supernatural myth. He is a red herring to the suspicions around the legendary hound and Stapleton’s schemes, ultimately tied to the climax’s revelations. His interactions with Barrymore and Mrs. Barrymore deepen the intrigue and suspense until his fate intersects with the resolution of the mystery."
+    },
+    {
+      "title": "Relationships",
+      "body": "Selden is the brother of Mrs. Barrymore and indirectly connected to the Baskerville household through their relationship. Though a loner, his presence affects Barrymore, the butler, and the household’s atmosphere, exerting subtle influence on the events orchestrated by Stapleton. He is viewed with suspicion and fear by the other characters, especially given his fugitive status."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Selden’s survival skills allow him to evade capture in the harsh moorland environment, utilizing wilderness knowledge and the cover of night. While not professionally skilled in any specific field, his ability to remain hidden and evade the law showcases resilience and cunning. However, his lack of control and desperation make him an unpredictable factor in the unfolding events."
+    }
+  ],
+  "aliases": [
+    "The Notting Hill Murderer",
+    "Selden the Convict"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "2ca0b2db-80a0-4861-8dcb-ecb89f2be3ae"
+    },
+    {
+      "type": "related_to",
+      "target": "6b525adb-abf4-4c6a-a488-86cb0385e1b6"
+    }
+  ],
+  "properties": {
+    "status": "Fugitive",
+    "relation": "Brother to Mrs. Barrymore",
+    "danger_level": "High"
+  },
+  "tags": [
+    "Fugitive",
+    "The Hound of the Baskervilles",
+    "Convict",
+    "Moor",
+    "Suspense",
+    "Arthur Conan Doyle",
+    "Supporting character"
+  ]
+}

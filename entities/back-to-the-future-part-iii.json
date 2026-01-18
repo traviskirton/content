@@ -81,6 +81,26 @@
     {
       "type": "part_of",
       "target": "f7e6d5c4-b3a2-1098-7654-321fedcba987"
+    },
+    {
+      "type": "filmed_in",
+      "target": "5b7c8d1e-9f0a-403e-a7c3-6e8f4b5d0e1f"
+    },
+    {
+      "type": "filmed_in",
+      "target": "a789b123-4c56-7d89-ef01-23456789abcd"
+    },
+    {
+      "type": "filmed_in",
+      "target": "e1e3f6a9-809f-42d4-8738-5d0cfab9f351"
+    },
+    {
+      "type": "filmed_in",
+      "target": "9180225d-1af2-4db3-b6b4-a8f3bd05de5b"
+    },
+    {
+      "type": "filmed_in",
+      "target": "4f39b6e0-1234-4c7a-b545-7c58d2f87acd"
     }
   ],
   "properties": {
@@ -102,6 +122,8 @@
     "1990s",
     "time-travel",
     "western",
-    "classic"
+    "classic",
+    "robert-zemeckis",
+    "back-to-the-future"
   ]
 }

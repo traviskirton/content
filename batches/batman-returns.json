@@ -1,0 +1,29 @@
+{
+  "source": "Batman Returns",
+  "entities": [
+    {
+      "type": "location",
+      "name": "Gotham Plaza"
+    },
+    {
+      "type": "location",
+      "name": "Old Zoo"
+    },
+    {
+      "type": "location",
+      "name": "Shreck's Department Store"
+    },
+    {
+      "type": "location",
+      "name": "Gotham City (Burton)"
+    },
+    {
+      "type": "vehicle",
+      "name": "Batskiboat"
+    },
+    {
+      "type": "vehicle",
+      "name": "Duck Vehicle"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "9e0bb743-cfe4-4f32-866a-fad4a4d53715",
+  "type": "character",
+  "name": "Vesper Lynd",
+  "description": "British treasury agent and Bond's love interest in 'Casino Royale'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Vesper Lynd is introduced as a treasury agent assigned to assist James Bond during the baccarat game at Casino Royale. She is highly professional, intelligent, and tasked with managing the funds Bond uses to defeat Le Chiffre."
+    },
+    {
+      "title": "Personality",
+      "body": "Vesper exhibits a complex personality – professional and composed externally, but internally conflicted due to her circumstances. Her mysterious past and emotional depth add a tragic dimension to her character."
+    },
+    {
+      "title": "Role in Story",
+      "body": "She acts as both an ally and romantic interest to Bond, their relationship intertwining affection with distrust. Her narrative arc culminates in a poignant betrayal and tragic demise, profoundly affecting Bond's future."
+    },
+    {
+      "title": "Relationships",
+      "body": "Vesper forms a deep romantic bond with James Bond, which is tested by secrets and survival challenges. Her relationship with MI6 and other entities is ambiguous and central to the plot’s twist."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Trained in finance and intelligence operational support, Vesper is resourceful and able to navigate the intricate world of espionage and finance. Her intelligence and emotional intelligence make her a pivotal player in the narrative."
+    }
+  ],
+  "aliases": [
+    "Ms. Lynd",
+    "Vesper"
+  ],
+  "relationships": [
+    {
+      "type": "romantic_interest_of",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    },
+    {
+      "type": "colleague_of",
+      "target": "50fa1b1e-8679-4b51-9646-e429e7c9da31"
+    },
+    {
+      "type": "antagonist_to",
+      "target": "e4f2568b-8c69-4e8a-9cf3-b12584970a29"
+    }
+  ],
+  "properties": {
+    "occupation": "Treasury Agent",
+    "alliance": "British Government",
+    "role": "Financial overseer during Casino Royale mission"
+  },
+  "tags": [
+    "love interest",
+    "spy fiction",
+    "tragic character",
+    "female protagonist",
+    "Casino Royale"
+  ]
+}

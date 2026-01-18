@@ -1,0 +1,60 @@
+{
+  "id": "f9d2733c-4ace-46f9-b877-5ad293e85bf7",
+  "type": "organization",
+  "name": "Commission of Public Safety",
+  "description": "The Commission of Public Safety is a political and military governing body that emerges within the First Foundation to enforce centralized control during times of crisis.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Commission of Public Safety acts as an authoritative regime within the First Foundation, taking control during periods of heightened threat or instability to maintain order and security. It wields military and political power to suppress dissent, defend territorial interests, and regulate social governance tightly."
+    },
+    {
+      "title": "Structure",
+      "body": "Led by a Chairman or similar head, the Commission consolidates both governmental and military functions into a single organization. It consists of enforcement officers, military leaders, advisors, and administrative officials tasked with implementing strict policies and maintaining control over the populace and external conflicts."
+    },
+    {
+      "title": "History",
+      "body": "The Commission was formed during a phase of escalating external threats and internal factionalism within the First Foundation. Its creation marked a shift towards authoritarian governance aimed at ensuring survival and stability at the cost of some political freedoms. Over time, the Commission played a pivotal role in navigating crises and conflicts during the Foundation's expansion."
+    },
+    {
+      "title": "Goals",
+      "body": "Its principal goals include safeguarding the Foundation’s sovereignty, quashing insurgencies or rebellions, and directing diplomatic and military strategy to preserve the integrity of the Foundation states. It prioritizes security and public order, often justifying strong measures as necessary for survival."
+    },
+    {
+      "title": "Key Members",
+      "body": "Notable leaders of the Commission include influential chairmen and military commanders who shaped its strategies and policies. Figures who wielded both political acumen and tactical skill generally rose to prominence, though individual characters vary depending on the narrative period."
+    }
+  ],
+  "aliases": [
+    "Public Safety Commission",
+    "Commission",
+    "First Foundation's Security Authority"
+  ],
+  "relationships": [
+    {
+      "type": "governs",
+      "target": "4e8ca927-012a-4b0e-94ef-59f1e2a9ab2e"
+    },
+    {
+      "type": "opposes",
+      "target": "1fa5b055-3c7f-4dad-9ef4-2a961a9a90ca"
+    }
+  ],
+  "properties": {
+    "governance_type": "Authoritarian, combined military-political",
+    "formation_period": "During First Foundation crises",
+    "role": "Enforcement and security",
+    "effectiveness": "Maintains order at cost of freedoms",
+    "role_in_series": "Represents centralization of power within Foundation"
+  },
+  "tags": [
+    "government",
+    "military",
+    "authority",
+    "First Foundation",
+    "political",
+    "security",
+    "Science Fiction",
+    "Isaac Asimov"
+  ]
+}

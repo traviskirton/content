@@ -1,0 +1,64 @@
+{
+  "id": "fa0913cf-7aa6-4b44-8ec0-5d6b9b3bba4e",
+  "type": "location",
+  "name": "Mordor",
+  "description": "A dark and forbidding land of fire and ash, Mordor is the realm of the dark lord Sauron and the primary setting of evil in Middle-earth's Third Age.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Mordor is a vast, volcanic plain encircled by mountains, serving as the domain and stronghold of Sauron. Its inhospitable terrain includes barren wastelands, ash-covered plains, and fiery pits, used for forging weapons and instruments of war. Mordor’s environment is hostile to most life and is sustained by the dark power and will of Sauron."
+    },
+    {
+      "title": "Appearance",
+      "body": "The land of Mordor stretches over an uneven, bleak landscape dominated by the smokestacks of Mount Doom. Its borders are defended by the Ephel Dúath and the Ered Lithui mountain ranges. The skies are often darkened by ash clouds and the glow of the volcanic fires, imparting an oppressive atmosphere well-suited to its sinister ruler."
+    },
+    {
+      "title": "History",
+      "body": "Since the Second Age, Mordor has been the seat of Sauron’s power, established after his forging of the One Ring. Throughout the Third Age, it served as the military and political center for his attempts to dominate Middle-earth, orchestrating wars through armies of orcs, men, and other dark creatures. Its hold waned only after the destruction of the One Ring."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Mordor represents the ultimate threat in ‘The Lord of the Rings,’ the place to which the One Ring must be taken to be destroyed. Its treacherous landscapes and fortresses symbolize the weight of evil that the Fellowship strives to overcome. The invading armies of Mordor also provide the main antagonist force during the War of the Ring."
+    }
+  ],
+  "aliases": [
+    "Land of Shadow",
+    "The Black Land",
+    "Gorgoroth (central plateau)",
+    "The Place of Doom"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "f1b2c3d4-e5f6-7890-abcdefghijk1"
+    },
+    {
+      "type": "contains",
+      "target": "31f323de-5b04-4d76-91f4-6e21c4a41cb8"
+    },
+    {
+      "type": "contains",
+      "target": "a1f7f1fa-7c72-4203-8a88-dacbcdf36a09"
+    },
+    {
+      "type": "contains",
+      "target": "c09f24c7-1c3e-4037-9296-4a9fa60d2e58"
+    }
+  ],
+  "properties": {
+    "region": "Southeastern Middle-earth",
+    "ruler": "Sauron",
+    "environment": "Volcanic, barren, hostile",
+    "notable_features": "Mount Doom, Barad-dûr fortress"
+  },
+  "tags": [
+    "dark",
+    "evil",
+    "volcanic",
+    "Middle-earth",
+    "Sauron",
+    "wasteland",
+    "fortress",
+    "Third Age"
+  ]
+}

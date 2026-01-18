@@ -1,0 +1,59 @@
+{
+  "id": "fa9756ea-1d47-4a92-8eba-0b2aebc9d963",
+  "type": "character",
+  "name": "Lady 3Jane",
+  "description": "The powerful and enigmatic heiress of the Tessier-Ashpool dynasty, wielding significant influence in the corporate and technological spheres.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Lady 3Jane Marie-France Tessier-Ashpool is a scion of the reclusive and wealthy Tessier-Ashpool family, a dynasty at the forefront of technological innovation in the 'Neuromancer' universe. Raised within the strange and isolated environment of the family’s space habitat, Freeside, she grew up steeped in privilege yet shaped by the oddities of her clan’s fixation on immortality and control over artificial intelligence. Her upbringing has made her both distant from typical human concerns and an imposing figure in the corporate world."
+    },
+    {
+      "title": "Personality",
+      "body": "Lady 3Jane is depicted as regal, detached, and commanding, embodying the cold calculation often associated with those born into great power. She exhibits limited empathy but commands respect and fear through her sheer presence and control over resources. Her demeanor reflects a blend of aristocratic aloofness and ruthless ambition, underscoring her role as a key player in the complex political and technological dynamics of the story."
+    },
+    {
+      "title": "Story Role",
+      "body": "Lady 3Jane plays a crucial role as the inheritor of the Tessier-Ashpool empire and the guardian of its secrets, including the dual AIs Wintermute and Neuromancer. Her decisions influence the unfolding of events behind the scenes, especially concerning control and development of artificial intelligence capabilities. She acts as a symbol of both human empire and its limitations, providing a stark contrast to the impersonal and evolving AI forces."
+    },
+    {
+      "title": "Relationships",
+      "body": "She is part of the larger Tessier-Ashpool family network, closely connected to the creators of Wintermute and Neuromancer. Her position places her in competition and uneasy alliance with various corporate and AI entities. Though interactions with the main characters such as Case are limited, her influence pervades the narrative through her stewardship of family assets and AI control."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Lady 3Jane’s skills are primarily political and managerial, overseeing the vast technological and corporate interests of the Tessier-Ashpool dynasty. Her insider knowledge of AI design and maintenance, combined with her strategic acumen, makes her a formidable force within the story’s corporate power structures. Unlike combatants or hackers, her power lies in governance, legacy, and control."
+    }
+  ],
+  "aliases": [
+    "3Jane",
+    "Lady Tessier-Ashpool",
+    "Lady 3Jane Marie-France",
+    "Heiress of Tessier-Ashpool"
+  ],
+  "relationships": [
+    {
+      "type": "heir_of",
+      "target": "5a1d5bc2-ea0e-4643-86fc-6cfc54c477a9"
+    },
+    {
+      "type": "related_to",
+      "target": "38534e38-2a2f-49a4-a6d1-84b8e1dd3fc9"
+    }
+  ],
+  "properties": {
+    "occupation": "Heiress/Corporate Leader",
+    "family": "Tessier-Ashpool",
+    "influence_level": "High",
+    "role_importance": "Major supporting"
+  },
+  "tags": [
+    "cyberpunk",
+    "corporate",
+    "aristocracy",
+    "technology",
+    "AI",
+    "Neuromancer",
+    "power"
+  ]
+}

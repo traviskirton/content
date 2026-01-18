@@ -1,0 +1,54 @@
+{
+  "id": "d7c95ea1-fcdc-4e5e-9fbb-95773b3bd6a7",
+  "type": "location",
+  "name": "Pelennor Fields",
+  "description": "The vast plains outside Minas Tirith where the pivotal battle for Gondor was fought.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Pelennor Fields is a wide expanse of open land that lies just outside the great city of Minas Tirith in Gondor. Known for its fertile soil and strategic importance, the plains serve as the setting for the massive Battle of the Pelennor Fields, the largest confrontation between the forces of Sauron and the allied armies of Gondor and Rohan during the War of the Ring."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Pelennor Fields are characterized by rolling grasslands that stretch to the horizon, punctuated with low hills and farmlands. During the battle, the fields become scarred with the upheaval of war, trampled earth, broken siege engines, and scattered bodies, transforming the once-peaceful land into a grim battleground marked by carnage and heroism."
+    },
+    {
+      "title": "History",
+      "body": "Historically, the Pelennor Fields were agricultural lands that supported the city of Minas Tirith. In the Final War of the Third Age, they became the primary battleground where vast armies clashed. The arrival of the Rohirrim, led by King Théoden, turned the tide against the forces of Mordor. This battle was decisive, leading to the eventual downfall of Sauron's power."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Battle of Pelennor Fields stands as one of the most critical moments in The Return of the King. The victory here allowed Gondor to hold its capital and set the stage for the final assault on Mordor. The courage shown by characters such as Éowyn, who defeated the Witch-king, and Aragorn's arrival with the Army of the Dead, underscore the battle's epic and symbolic importance."
+    }
+  ],
+  "aliases": [
+    "Fields of Pelennor",
+    "The Great Battlefields",
+    "Plains outside Minas Tirith"
+  ],
+  "relationships": [
+    {
+      "type": "located_near",
+      "target": "e495ac26-3f0a-4ea4-9a83-39b85871f45b"
+    },
+    {
+      "type": "battle_site_of",
+      "target": "c09f24c7-1c3e-4037-9296-4a9fa60d2e58"
+    }
+  ],
+  "properties": {
+    "region": "Gondor",
+    "terrain": "Plains",
+    "notable_battle": "Battle of Pelennor Fields",
+    "era": "Third Age"
+  },
+  "tags": [
+    "Middle-earth",
+    "Battlefield",
+    "Gondor",
+    "The Lord of the Rings",
+    "War",
+    "Epic",
+    "Historic Location"
+  ]
+}

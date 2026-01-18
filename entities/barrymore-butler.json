@@ -1,0 +1,57 @@
+{
+  "id": "6b525adb-abf4-4c6a-a488-86cb0385e1b6",
+  "type": "character",
+  "name": "Barrymore (Butler)",
+  "description": "Barrymore is the loyal butler of Baskerville Hall who plays a subtle but significant role in 'The Hound of the Baskervilles' by guarding family secrets and participating unwittingly in Stapleton's plot.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Barrymore has served the Baskerville family for many years, upholding the duties of a traditional English butler. His background is steeped in dedication and service, often perceived as a steadfast servant who is privy to family affairs. Living in the remote Baskerville Hall, his long-standing loyalty provides the household with stability amid the ominous events surrounding the moor."
+    },
+    {
+      "title": "Personality",
+      "body": "Barrymore appears as a dutiful and discreet servant, embodying the reserved demeanor expected of a butler during the period. Despite this professionalism, he is portrayed as slightly conflicted and nervous, especially when the mysterious events escalate, revealing his concern for the family's welfare and his own entanglement in the unfolding mystery."
+    },
+    {
+      "title": "Story Role",
+      "body": "The butler’s involvement becomes critical when he is discovered signaling his escaped convict brother-in-law Selden, indirectly enabling the moor’s dangers. Barrymore’s actions both obscure and reveal essential plot details, and his loyalty is tested as the investigation reveals duplicity beyond his initial knowledge. He serves as a link between the upper-class residents and the hidden threats on the moor."
+    },
+    {
+      "title": "Relationships",
+      "body": "Barrymore is married to Mrs. Barrymore, and both share the secret of harboring Selden, the escaped convict, within the estate grounds. His relationship with the Baskerville family is formal but grounded in long-term service, and he interacts cautiously with Dr. Watson and Sherlock Holmes during their investigations."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Barrymore’s skills lie in his knowledge of the estate and understanding of its secretive inhabitants. His ability to observe discreetly and maintain family confidentiality is notable, though he lacks the investigative acumen of Holmes or Watson. His role requires tact, discretion, and loyalty, although his conviction on justice is challenged by his personal connections."
+    }
+  ],
+  "aliases": [
+    "Barrymore",
+    "Baskerville Butler",
+    "The Butler"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "2ca0b2db-80a0-4861-8dcb-ecb89f2be3ae"
+    },
+    {
+      "type": "related_to",
+      "target": "993c3efb-0ba0-4791-9ebb-1e9d581a4e6b"
+    }
+  ],
+  "properties": {
+    "position": "Butler",
+    "employment": "Baskerville Hall",
+    "loyalty": "Family service"
+  },
+  "tags": [
+    "Fictional Butler",
+    "The Hound of the Baskervilles",
+    "Supporting character",
+    "Mystery",
+    "Arthur Conan Doyle",
+    "Loyal Servant",
+    "Victorian England"
+  ]
+}

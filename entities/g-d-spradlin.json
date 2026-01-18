@@ -1,0 +1,48 @@
+{
+  "id": "06f600b7-487f-478d-9513-cdfdbde2548a",
+  "type": "person",
+  "name": "G.D. Spradlin",
+  "description": "American actor recognized for his commanding presence as Senator Pat Geary in The Godfather Part II.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "G.D. Spradlin was born on August 31, 1920, in Pauls Valley, Oklahoma. Before becoming a prominent character actor, he served in the Army during World War II and later pursued a career in acting that highlighted his stature and commanding voice, often cast in roles of authority."
+    },
+    {
+      "title": "Career",
+      "body": "Spradlin’s distinguished career included theater, film, and television. He gained wide recognition for his role as the corrupt and politically ambitious Senator Pat Geary in The Godfather Part II, where his portrayal of power and intimidation added critical tension to the narrative. He appeared in other notable films including Apocalypse Now and Gattaca."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Spradlin’s portrayal of Senator Geary in The Godfather Part II remains one of his defining roles, marked by a blend of charm, menace, and vulnerability. His other notable appearances include Apocalypse Now as the deceased plantation owner and roles in various westerns and political dramas."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Spradlin’s style is marked by his authoritative presence and deep, resonant voice lending gravitas to his characters. His ability to convey complexity in political and antagonistic roles enriched the dynamics in crime and political films. His Senator Geary remains an example of nuanced villainy in cinema."
+    }
+  ],
+  "aliases": [
+    "G.D. Spradlin",
+    "George Spradlin"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "a34e10f7-2f77-48bd-803f-efa34f19c87f"
+    }
+  ],
+  "properties": {
+    "birthdate": "1920-08-31",
+    "deathdate": "2011-07-24",
+    "occupation": "Actor",
+    "nationality": "American"
+  },
+  "tags": [
+    "actor",
+    "The Godfather Part II",
+    "political thriller",
+    "character actor",
+    "American cinema",
+    "crime drama"
+  ]
+}

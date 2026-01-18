@@ -1,0 +1,49 @@
+{
+  "id": "aa20b3e5-ee13-4468-b311-72c90c07610f",
+  "type": "character",
+  "name": "Mr. Midnight",
+  "description": "Mr. Midnight is a minor but memorable henchman working for Auric Goldfinger, often involved in executing Goldfinger's covert operations in the film Goldfinger.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Mr. Midnight is one of Auric Goldfinger’s operatives tasked with carrying out clandestine and aggressive actions within Goldfinger’s elaborate scheme. Although a minor character, his presence is emblematic of the dangerous and secretive nature of the villain’s network. Mr. Midnight’s activities predominantly support Goldfinger’s plans to undermine global economics."
+    },
+    {
+      "title": "Personality",
+      "body": "Mr. Midnight is cold, precise, and ruthless, embodying the archetypal henchman persona. He exhibits complete dedication to his employer’s criminal undertakings without personal ambition. His demeanor is marked by professionalism and lack of empathy, highlighting the coldness of Goldfinger’s organization."
+    },
+    {
+      "title": "Story Role",
+      "body": "Although small in screen time, Mr. Midnight aids in crucial moments that advance the plot of Goldfinger, particularly those involving security enforcement and disruptive actions against Bond or others interfering with the villain’s plan. His role enhances the tension and danger surrounding Goldfinger’s operations."
+    },
+    {
+      "title": "Relationships",
+      "body": "As a loyal henchman, Mr. Midnight’s main association is with Auric Goldfinger and fellow operatives in the criminal organization. His interactions with Bond are antagonistic and adversarial, contributing to the overarching conflict."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Mr. Midnight demonstrates competence in combat and covert activities. His skills include surveillance, physical intimidation, and execution of tactical orders. These abilities make him a useful asset for Goldfinger’s secretive and violent agenda."
+    }
+  ],
+  "aliases": [
+    "Midnight",
+    "Goldfinger Operative",
+    "Henchman"
+  ],
+  "relationships": [],
+  "properties": {
+    "occupation": "Henchman",
+    "nationality": "Unspecified",
+    "affiliation": "Goldfinger's Organization",
+    "film": "Goldfinger",
+    "role": "minor_antagonist"
+  },
+  "tags": [
+    "James Bond",
+    "Goldfinger",
+    "henchman",
+    "villain_support",
+    "espionage",
+    "1960s"
+  ]
+}

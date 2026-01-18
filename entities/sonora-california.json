@@ -37,6 +37,10 @@
     {
       "type": "doubled_for",
       "target": "048f308b-450f-4f86-9a04-6c411d1d746d"
+    },
+    {
+      "type": "featured_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
     }
   ],
   "properties": {

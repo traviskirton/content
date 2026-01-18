@@ -1,0 +1,48 @@
+{
+  "id": "f7e77d59-5a56-4a1a-b94e-b1c8a32eb064",
+  "type": "character",
+  "name": "Mrs. Hudson",
+  "description": "The landlady of 221B Baker Street, providing lodging to Sherlock Holmes and Dr. Watson.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Mrs. Hudson is introduced as the kindly, patient landlady of the famous residence at 221B Baker Street. Although her past history is not deeply elaborated upon in 'A Study in Scarlet', she is portrayed as a middle-aged woman dedicated to maintaining the household. Her role reflects the Victorian London lodging-house system, where middle-class tenants rented rooms from proprietors like Mrs. Hudson."
+    },
+    {
+      "title": "Personality",
+      "body": "Mrs. Hudson is characterized by her calm, maternal demeanor and a quiet strength. She patiently tolerates the eccentricities of Sherlock Holmes, including his irregular hours and experimental antics. Though not deeply involved in the investigative aspects of the story, her steady presence provides a homely and reassuring backdrop. She often subtly acts as a caretaker for Holmes and Watson, embodying a mix of warmth and pragmatic firmness."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'A Study in Scarlet', Mrs. Hudson’s role is primarily functional, providing accommodation and supporting the main characters' domestic needs. She is the stabilizing element in Holmes’ chaotic world. While she does not engage directly in the mystery-solving, her presence helps shape the setting of Baker Street, which becomes iconic in the Sherlock Holmes universe."
+    },
+    {
+      "title": "Relationships",
+      "body": "Mrs. Hudson maintains a professional yet affectionate relationship with both Sherlock Holmes and Dr. John Watson. Her interactions suggest a long-standing familiarity and loyalty toward them. Though seldom directly involved in the plot, she occasionally shows concern for their well-being, acting as a maternal figure. Her relation to other characters like Inspector Lestrade or the clients remains limited or unmentioned in the narrative."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "While Mrs. Hudson is not portrayed with investigative skills, her abilities lie in household management and discretion. She accommodates Holmes’ unique lifestyle and experimental scientific methods with grace, suggesting patience and problem-solving aptitude at a domestic level. Her understanding of Victorian social norms allows her to manage visitors and maintain order in the residence effectively."
+    }
+  ],
+  "aliases": [
+    "Landlady Hudson",
+    "Mrs Hudson",
+    "Madam Hudson"
+  ],
+  "relationships": [],
+  "properties": {
+    "role": "Landlady",
+    "residence": "221B Baker Street",
+    "gender": "Female",
+    "nationality": "British"
+  },
+  "tags": [
+    "Sherlock Holmes",
+    "Victorian London",
+    "Landlady",
+    "Supporting Character",
+    "Domestic",
+    "A Study in Scarlet"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "cc15c2e4-13b8-4e1b-867e-112f66a93662",
+  "type": "character",
+  "name": "Hari Seldon",
+  "description": "Hari Seldon is the creator of psychohistory and founder of the Foundation in Isaac Asimov's Foundation Series, pioneering the science to predict and shape the future of civilization.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Hari Seldon is a brilliant mathematician and psychohistorian who lived during the final centuries of the Galactic Empire. Raised in the capital city of Trantor, Seldon developed psychohistory, a mathematical discipline that combines history, sociology, and statistical mathematics to predict the future behavior of large populations. Foreseeing the fall of the Empire, he initiated the Foundation project to mitigate ensuing chaos."
+    },
+    {
+      "title": "Personality",
+      "body": "Seldon is characterized by his unwavering logic, visionary thinking, and deep dedication to the preservation of human knowledge. Though emotionally reserved, he shows a profound sense of responsibility toward humanity. His confidence in science and rational planning underscores a pragmatic approach, often making difficult decisions for the greater good, even if unpopular."
+    },
+    {
+      "title": "Story Role",
+      "body": "Though largely an off-stage figure during much of the series, Seldon's presence is felt throughout via holographic recordings and Seldon Crises — pivotal moments in the future he predicted requiring intervention to keep the Foundation’s plan on track. He effectively serves as the architect of the series’ socio-political landscape, guiding protagonists posthumously through his designs."
+    },
+    {
+      "title": "Relationships",
+      "body": "Seldon’s chief relationship is with his scientific and political disciples who perpetuate his vision within the Foundation. He also shares a mentor-protege relationship with early characters like Gaal Dornick, to whom he imparts crucial knowledge. His intellectual influence shapes entire generations, though his physical presence is limited after initial founding."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Hari Seldon’s greatest ability is his formulation and application of psychohistory, allowing statistical predictions of sociopolitical trends on a galactic scale. His aptitude for mathematics, sociology, and future-planning is unparalleled, driving the narrative's tension between determinism and human agency."
+    }
+  ],
+  "aliases": [
+    "Dr. Seldon",
+    "Professor Hari Seldon",
+    "Founder of the Foundation",
+    "Psychohistorian"
+  ],
+  "relationships": [
+    {
+      "type": "created_by",
+      "target": "a7d81242-1f49-4f49-bc68-9bb3f929d6e5"
+    },
+    {
+      "type": "appears_in",
+      "target": "7fd2fc7e-9c20-4c82-a5d5-9357db638226"
+    },
+    {
+      "type": "featured_in_franchise",
+      "target": "f0d9fb2a-0f3e-446a-9a1d-2db988b68967"
+    },
+    {
+      "type": "mentor_of",
+      "target": "ce8943af-4d82-4e8a-86b0-f0fa30b71877"
+    },
+    {
+      "type": "appears_in",
+      "target": "f0d9fb2a-0f3e-446a-9a1d-2db988b68967"
+    }
+  ],
+  "properties": {
+    "occupation": "Mathematician, Psychohistorian",
+    "notable_invention": "Psychohistory",
+    "birthplace": "Trantor",
+    "role": "Founder of Foundation",
+    "lifecycle": "Predicted fall of Galactic Empire"
+  },
+  "tags": [
+    "fictional character",
+    "science fiction",
+    "psychohistory",
+    "visionary",
+    "founder",
+    "mentor"
+  ]
+}

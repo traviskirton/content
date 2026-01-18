@@ -1,0 +1,63 @@
+{
+  "id": "71b2b558-39dc-4a5a-bb9a-405f6c94e4f2",
+  "type": "book",
+  "name": "Goldfinger (Novel)",
+  "description": "A 1959 James Bond novel by Ian Fleming, featuring the villain Auric Goldfinger and the MI6 agent James Bond.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Goldfinger is the seventh novel in the James Bond series written by Ian Fleming. Published in 1959, it follows MI6 agent James Bond as he investigates the eponymous villain, Auric Goldfinger, who is suspected of smuggling gold and plotting to contaminate the U.S. gold reserve at Fort Knox. The novel combines espionage, action, and Fleming's intricate attention to detail about gadgets, cars, and luxury, cementing its place as one of the classics in spy fiction."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "The story begins with Bond sent to investigate Goldfinger’s suspicious activities, particularly his obsession with gold and his alleged illegal smuggling operations. Bond uncovers Goldfinger's audacious plan to detonate a nuclear device inside Fort Knox, thereby irradiating the United States' gold reserves to increase the value of his own gold holdings. The narrative weaves Bond's confrontations with Goldfinger and his henchmen, including a deadly assassin, Oddjob, leading to suspenseful escapes and clever tactics. Along the way, Bond encounters key characters such as Pussy Galore, who initially opposes him but ultimately aids his mission."
+    },
+    {
+      "title": "Themes",
+      "body": "Goldfinger explores themes of greed, power, and Western economic security, reflecting Cold War-era anxieties about wealth and weaponry. The novel contrasts Bond's patriotism and moral code with Goldfinger’s ruthless ambition and disregard for human life. Themes of seduction and manipulation are also present, embodied in the complex relationships Bond has with female characters like Pussy Galore and Jill Masterton. The book illustrates the pervasive influence of money and the personal costs of obsession and corruption."
+    },
+    {
+      "title": "Reception",
+      "body": "Goldfinger was critically acclaimed upon release, praised for its thrilling plot and detailed portrayal of espionage. It significantly boosted Ian Fleming’s reputation, contributing to the enduring popularity of the James Bond series. The novel’s depiction of Bond’s suave, resourceful nature and introduction of iconic characters and gadgets established many tropes still associated with spy fiction today. It was later adapted into a successful 1964 film, further cementing the story’s place in popular culture."
+    }
+  ],
+  "aliases": [
+    "Goldfinger",
+    "James Bond: Goldfinger",
+    "Ian Fleming's Goldfinger"
+  ],
+  "relationships": [
+    {
+      "type": "features_character",
+      "target": "4e891f2e-9b11-4a01-b088-591ade729d5f"
+    },
+    {
+      "type": "features_character",
+      "target": "c3a2ed9e-7bfa-4517-a6d8-05e6263a9a48"
+    },
+    {
+      "type": "features_character",
+      "target": "f42b7ba5-1c81-4183-8346-7b94febe2dab"
+    },
+    {
+      "type": "features_character",
+      "target": "dce8d8be-c043-4d4d-b65e-4d909ab2a5e3"
+    }
+  ],
+  "properties": {
+    "author": "Ian Fleming",
+    "publication_year": 1959,
+    "genre": "Spy fiction",
+    "series": "James Bond",
+    "pages": 312
+  },
+  "tags": [
+    "James Bond",
+    "spy novel",
+    "1950s literature",
+    "espionage",
+    "Ian Fleming",
+    "classic thriller",
+    "political intrigue"
+  ]
+}

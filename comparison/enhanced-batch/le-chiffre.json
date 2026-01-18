@@ -1,0 +1,56 @@
+{
+  "id": "e4f2568b-8c69-4e8a-9cf3-b12584970a29",
+  "type": "character",
+  "name": "Le Chiffre",
+  "description": "Primary antagonist in 'Casino Royale', a Soviet-backed financier of terrorism.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Le Chiffre is a fictional villain introduced as the main antagonist in Ian Fleming's 'Casino Royale.' He is a mathematically gifted but desperate gambler who manages funds for Soviet counterintelligence, SMERSH, and other nefarious organizations."
+    },
+    {
+      "title": "Personality",
+      "body": "He is cold, calculating, and ruthless, willing to risk everything in high-stakes gambling to recover lost money. His arrogance is matched by a ruthless nature, making him a dangerous adversary for Bond."
+    },
+    {
+      "title": "Role in Story",
+      "body": "Le Chiffre serves as the financial backbone for terrorist activities, and Bond’s mission is to bankrupt him through a high-stakes baccarat game at Casino Royale. His failure and desperation lead to violent confrontations that propel the novel's suspense."
+    },
+    {
+      "title": "Relationships",
+      "body": "Le Chiffre is closely linked with the Soviet organization SMERSH and interacts with multiple henchmen. His antagonism is primarily directed toward Bond, who threatens his criminal empire."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Noted for his analytical mind and gambling skill, Le Chiffre is also skilled in finance and clandestine operations. Despite his strength, he is portrayed as physically vulnerable due to a medical condition affecting his hand."
+    }
+  ],
+  "aliases": [
+    "Le Chiffre (The Cipher)",
+    "Mr. Big"
+  ],
+  "relationships": [
+    {
+      "type": "antagonist_of",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    },
+    {
+      "type": "member_of",
+      "target": "4e9eab3b-d986-44e9-bf2a-7bfdad2c3f9f"
+    }
+  ],
+  "properties": {
+    "affiliation": "SMERSH / Soviet special forces",
+    "occupation": "Terrorism financier",
+    "notable_trait": "Left hand injury",
+    "gambler": true
+  },
+  "tags": [
+    "antagonist",
+    "villain",
+    "gambling",
+    "spy fiction",
+    "Soviet agent",
+    "Casino Royale"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "8ec8a9e9-3b3b-4b3d-8c9a-225ea62a117c",
+  "type": "character",
+  "name": "Henry Case",
+  "description": "Henry Case is the protagonist of 'Neuromancer,' a skilled hacker and cybercriminal navigating a dystopian, high-tech world after losing his ability to connect to cyberspace.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Henry Dorsett Case began as a talented computer hacker specializing in cyberspace. His career ended abruptly when his nervous system was damaged by former employers as punishment for double-crossing them, rendering him unable to jack into cyberspace. Living in the underworld of Chiba City, Japan, Case survives through illicit activities and substance abuse until he is recruited by the enigmatic Armitage for a high-stakes mission. His past experiences and skills make him uniquely suited for the perilous journey through the fractured cybernetic landscape."
+    },
+    {
+      "title": "Personality",
+      "body": "Case is complex, marked by cynical pragmatism but also flashes of idealism and nostalgia for a lost connection to cyberspace. He is resourceful, streetwise, and quick-witted, though often emotionally guarded and vulnerable to impulses. His identity is bound up with his hacker identity, making his inability to connect a source of deep frustration and existential malaise. Throughout the novel, Case evolves from a passive, damaged figure into a more purposeful agent, grappling with questions of autonomy and freedom."
+    },
+    {
+      "title": "Story Role",
+      "body": "As the central protagonist of 'Neuromancer,' Case drives much of the plot by accepting the challenge to infiltrate multiple levels of cyberspace for mysterious clients. He functions as the lens through which readers explore the novel’s dystopian world, navigating physical danger and virtual landscapes. His journey exposes hidden machinations by powerful AI entities, corporate intrigue, and the moral ambiguity of technology’s promises. Case’s personal redemption and reclamation of his abilities serve as a key narrative arc."
+    },
+    {
+      "title": "Relationships",
+      "body": "Case’s chief ally and companion is Molly Millions, a highly augmented mercenary whose street-smart toughness complements his technical expertise. Their relationship is marked by professional necessity and a complex emotional undercurrent, blending trust and guardedness. Case also interacts with Armitage, who orchestrates his mission, and navigates rivalry and cooperation with various criminal and corporate actors. The evolving dynamics with the artificial intelligences Wintermute and Neuromancer further complicate his journey."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Case is an expert console cowboy, a proficient hacker able to 'jack in' and navigate cyberspace with remarkable skill. His knowledge includes infiltration, counter-surveillance, and manipulation of virtual systems. Despite his damaged nervous system, these abilities define his identity and are crucial to the plot. Additionally, his adaptability and street-level survival skills help him in navigating dangers beyond cyberspace, including physical threats and psychological warfare."
+    }
+  ],
+  "aliases": [
+    "Case",
+    "Henry Dorsett Case",
+    "Console Cowboy"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d8b0039a-8bb0-4f52-9053-f303e3e6d398"
+    }
+  ],
+  "properties": {
+    "role": "Protagonist",
+    "occupation": "Hacker",
+    "nationality": "American",
+    "skills": [
+      "hacking",
+      "cyberspace navigation",
+      "survival"
+    ]
+  },
+  "tags": [
+    "character",
+    "protagonist",
+    "cyberpunk",
+    "hacker",
+    "fictional character",
+    "William Gibson"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "8e688776-ff78-4c90-bbdb-d0298e548c73",
+  "type": "location",
+  "name": "The Lonely Mountain",
+  "description": "A majestic mountain and the homeland of the Dwarves in J.R.R. Tolkien's The Hobbit, the site of the dragon Smaug's hoard.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Lonely Mountain, also known as Erebor, is a great solitary peak located in the northeastern region of Middle-earth. It serves as the ancestral home of the Dwarves of Durin's folk, particularly under King Thror and later Thorin Oakenshield's lineage. The mountain is famed for its vast underground halls and vast treasure hoard guarded by the dragon Smaug, making it a focal point of adventure and conflict in The Hobbit."
+    },
+    {
+      "title": "Appearance",
+      "body": "The mountain is distinguished by its towering, rocky summit rising starkly above the surrounding landscape. During the story, it is depicted as imposing and largely desolate, with a large hidden entrance leading into a series of immense man-made caverns within. The interior is vast, shaped by dwarvish architecture filled with vaulted halls and treasure chambers illuminated by the riches within."
+    },
+    {
+      "title": "History",
+      "body": "Originally the kingdom of the Dwarves, Erebor was a prosperous realm before the arrival of Smaug, who besieged the mountain after sacking the nearby town of Dale and claimed the treasure hoard for himself. The mountain remained under dragon domination for many years until Thorin and his company, aided by Bilbo Baggins and others, mounted a quest to reclaim it. This led to the climactic Battle of the Five Armies, after which the mountain was restored to Dwarvish rule."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Lonely Mountain is central to the narrative of The Hobbit, symbolizing both lost heritage and the quest for rightful restoration. It acts as the ultimate destination for Bilbo and the company of dwarves, where much of the story's action unfolds, including the encounter with Smaug, Bilbo's acquisition of the Arkenstone, and the ensuing battles. The mountain embodies themes of greed, courage, and the reclaiming of one’s identity."
+    }
+  ],
+  "aliases": [
+    "Erebor",
+    "Lonely Mountain",
+    "The Mountain"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "dbd93414-7d92-4a6c-9370-7a316e89d9ae"
+    },
+    {
+      "type": "contains",
+      "target": "bcf5d7a8-2e3a-4b1a-91f0-1236fa9deb72"
+    }
+  ],
+  "properties": {
+    "region": "Lonely Mountain Range",
+    "type": "Mountain",
+    "inhabitants": "Dwarves, Dragons (historical)",
+    "importance": "High"
+  },
+  "tags": [
+    "Middle-earth",
+    "Dwarves",
+    "The Hobbit",
+    "Fantasy",
+    "Location",
+    "Mountain",
+    "Erebor"
+  ]
+}

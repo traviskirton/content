@@ -1,0 +1,47 @@
+{
+  "id": "3f38ae7d-d7b3-4e6e-9fd6-90f7611e8665",
+  "type": "location",
+  "name": "Paris (le Carré)",
+  "description": "The French capital city portrayed in 'Smiley’s People' as a sophisticated but shadowed setting pivotal to intelligence gathering.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Paris is presented as both a cosmopolitan metropolis and a subtle battleground for international espionage in 'Smiley’s People'. The city's elegance contrasts with the political machinations below its surface, making it a complex stage for the story’s intricate spy game."
+    },
+    {
+      "title": "Appearance",
+      "body": "Le Carré’s Paris features iconic landmarks such as the Seine, narrow cobbled streets, cafes, and the discreet offices where spies operate under the cover of the city’s vibrant cultural life, blending espionage with everyday elegance."
+    },
+    {
+      "title": "History",
+      "body": "During the Cold War period depicted in the novel, Paris was a hotbed of diplomatic activity and intelligence operations, balancing its Western alliances against the omnipresent threat of Soviet espionage, creating a charged environment rich with tension and secrets."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Paris is the location for critical intelligence exchanges and character interactions in 'Smiley’s People'. It exemplifies the dual nature of spy work: the allure of sophistication contrasted by deception and duplicity."
+    }
+  ],
+  "aliases": [
+    "City of Light",
+    "Paris, France",
+    "Espionage Paris"
+  ],
+  "relationships": [],
+  "properties": {
+    "country": "France",
+    "capital_city": true,
+    "era": "Cold War",
+    "cultural_center": true,
+    "importance": "Diplomatic and espionage hub"
+  },
+  "tags": [
+    "location",
+    "city",
+    "Paris",
+    "France",
+    "Cold War",
+    "espionage",
+    "le Carré",
+    "Smiley's People"
+  ]
+}

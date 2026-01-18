@@ -1,0 +1,66 @@
+{
+  "id": "3fa4e452-d2e9-41a6-bb54-466580eb6f4c",
+  "type": "item",
+  "name": "Demo Culture",
+  "description": "A creative and collaborative programming and artistic movement focused on generating audiovisual demos to push computer hardware to its limits.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Demo Culture is a subculture of computer programming and digital art enthusiasts who create real-time audiovisual presentations known as demos. These demos showcase advanced coding techniques, visual effects, and music, often created to run on constrained hardware. The culture values technical innovation, artistic expression, and community sharing, with events and competitions where creators display their work."
+    },
+    {
+      "title": "Appearance",
+      "body": "Demos often feature impressive, real-time rendered graphics synchronized with original soundtracks, combining effects such as fractals, particle systems, 3D animations, and vector graphics. Typically delivered as executable files, demos are made to impress audiences with their efficiency, design, and creativity within hardware limits."
+    },
+    {
+      "title": "Function",
+      "body": "Demo Culture functions as both an artistic expression and a competitive platform. It promotes pushing hardware capabilities through clever algorithms and coding. Demos are used as technical proofs-of-concept, portfolio pieces for programmers and artists, or simply as entertainment demonstrations of computer know-how."
+    },
+    {
+      "title": "History",
+      "body": "Originating in the 1980s with early home computers like the Commodore 64 and Amiga, Demo Culture grew from software crackers who inserted graphical signatures into pirated software. Over time, it evolved into a legitimate art and coding movement with worldwide competitions called demoparties. The culture has extended into modern-day PC and console scenes, preserving a legacy of technical artistry."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Within 'Creative Selection,' Demo Culture symbolizes the essence of innovation through creative problem-solving and designing elegant solutions. It represents a mindset of blending art and technology, reflecting Apple’s own culture of seamless integration between design, software, and hardware."
+    }
+  ],
+  "aliases": [
+    "Demoscene",
+    "Demo Scene",
+    "Demos",
+    "Creative Coding Culture",
+    "Realtime Graphics Art"
+  ],
+  "relationships": [
+    {
+      "type": "inspired_by",
+      "target": "5b7f9e4c-6e26-4e88-ace0-a8795114adf7"
+    }
+  ],
+  "properties": {
+    "origin_period": "1980s",
+    "medium": "Digital/Software",
+    "primary_platforms": [
+      "Commodore 64",
+      "Amiga",
+      "PC"
+    ],
+    "core_elements": [
+      "Programming",
+      "Graphics",
+      "Music"
+    ],
+    "community_events": "Demoparties"
+  },
+  "tags": [
+    "digital_art",
+    "computer_programming",
+    "technology",
+    "software",
+    "innovation",
+    "creativity",
+    "subculture",
+    "audiovisual"
+  ]
+}

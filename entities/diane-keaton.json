@@ -1,0 +1,58 @@
+{
+  "id": "ca59bff7-659a-43ee-89e0-7c95553eb7ec",
+  "type": "person",
+  "name": "Diane Keaton",
+  "description": "Acclaimed American actress and filmmaker famous for her role as Kay Adams in The Godfather series.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Diane Keaton, born Diane Hall on January 5, 1946, in Los Angeles, California, is a respected American actress, director, and producer. She began her artistic career on the stage before transitioning to film, where her distinctive style and charismatic presence made her a standout performer. Keaton's bold fashion sense and intense character portrayals have made her an enduring figure in Hollywood."
+    },
+    {
+      "title": "Career",
+      "body": "Keaton's film career took off in the early 1970s with roles in seminal works like The Godfather. Her role as Kay Adams, Michael Corleone's devoted wife, showcased her ability to depict emotional complexity and moral conflict. She won the Academy Award for Best Actress for her performance in Annie Hall (1977), a role that cemented her status as a leading actress. Throughout her career, she has taken on a diverse range of roles spanning drama, comedy, and independent films."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Diane Keaton’s most iconic role is Kay Adams in The Godfather trilogy, where she portrays the tumultuous spouse of the Corleone heir. Her turn in Annie Hall, with Woody Allen, earned critical acclaim and an Academy Award. Other significant films include Reds, Marvin’s Room, and Something’s Gotta Give, demonstrating her versatility across genres and decades."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Keaton is renowned for her quirky and intellectual persona, both on-screen and off. Her fashion influence, characterized by menswear-inspired outfits, has had a lasting impact on popular culture. Acting-wise, she is known for her nuanced, often understated performances that reveal the internal conflicts of her characters with great empathy and expressiveness."
+    },
+    {
+      "title": "Awards and Honors",
+      "body": "Diane Keaton has received numerous accolades, including an Academy Award, Golden Globe Awards, and BAFTA nominations. Her performances, especially in the 1970s and 1980s, are often cited as some of the most defining of her generation. She has also contributed to cinema as a director and producer, further broadening her influence within the film industry."
+    }
+  ],
+  "aliases": [
+    "Diane Hall",
+    "Kay Adams (character portrayal)",
+    "Diane Keaton Hall"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    }
+  ],
+  "properties": {
+    "birth_year": 1946,
+    "nationality": "American",
+    "occupations": [
+      "Actress",
+      "Director",
+      "Producer"
+    ],
+    "notable_role": "Kay Adams"
+  },
+  "tags": [
+    "actor",
+    "film",
+    "The Godfather",
+    "Academy Award Winner",
+    "female lead",
+    "American Cinema",
+    "iconic actress"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "a4e18068-628c-4d5e-9bdb-990ee2a03fbe",
+  "type": "character",
+  "name": "Alexandra (Tatiana)",
+  "description": "A vulnerable woman with direct ties to the Soviet spy network, whose personal tragedy becomes central to George Smiley’s mission.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Alexandra, often referred to as Tatiana, is introduced as a former Soviet émigré or exile living in Western Europe, struggling to escape her past entanglements with Soviet intelligence. Her personal history is marked by loss and sacrifice linked to the espionage world, making her a figure of pathos and complexity. Her background intertwines with that of Karla’s network, providing critical insights through her lived experience."
+    },
+    {
+      "title": "Personality",
+      "body": "Tatiana is portrayed as fragile yet resilient, carrying the emotional weight of betrayal and loss with a quiet dignity. She is introspective and haunted by her past, often vulnerable yet capable of moments of clarity and strength. Her character reflects the human cost of Cold War espionage, serving as a reminder of the individuals behind the ideological battles."
+    },
+    {
+      "title": "Story Role",
+      "body": "In Smiley's People, Alexandra's history and her tragic fate act as catalysts for the unfolding investigation led by George Smiley. Her connections to key Soviet figures and her knowledge about the internal workings of the network are vital for Smiley’s ultimate success. She embodies the personal dimension of espionage, giving emotional depth to the narrative’s political and strategic layers."
+    },
+    {
+      "title": "Relationships",
+      "body": "Alexandra has direct and indirect relationships with several principal characters, including General Vladimir and Madame Ostrakova, as well as George Smiley himself, who approaches her with both professional interest and personal empathy. Her ties to the Soviet spy apparatus and her experiences fleeing or being trapped by it form a nexus of trust, suspicion, and human connection."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Though not an intelligence operative herself, Alexandra's survival skills, emotional intelligence, and ability to navigate the dangerous waters of espionage make her a key figure. Her firsthand knowledge of Soviet spy tradecraft and her capacity to recall critical information provide Smiley with the leverage needed to dismantle Karla's spy ring, making her an indispensable asset."
+    }
+  ],
+  "aliases": [
+    "Tatiana",
+    "Alexandra Ostrakova",
+    "Soviet Emigre Alexandra"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "2e02ff66-1399-475d-9720-8659e0e0fc3e"
+    },
+    {
+      "type": "connected_to",
+      "target": "3281e560-22b2-497a-84ce-c1c1bb7f9d58"
+    },
+    {
+      "type": "connected_to",
+      "target": "5bc9d84a-4952-4761-8a53-d306e9dcdca3"
+    }
+  ],
+  "properties": {
+    "nationality": "Soviet Union",
+    "role": "Former Soviet Emigre",
+    "importance": "Emotional and informational linchpin",
+    "connection": "Soviet espionage network"
+  },
+  "tags": [
+    "Soviet Union",
+    "Female Character",
+    "Cold War",
+    "Espionage",
+    "Emigre",
+    "Supporting Character"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "8f905c9d-5f7b-4f25-8e05-2390cf4b82f8",
+  "type": "character",
+  "name": "Carmela Corleone",
+  "description": "Carmela Corleone is the matriarch of the Corleone family, embodying traditional values, family loyalty, and quiet strength.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Carmela Corleone is married to Vito Corleone and is the mother of his children, including Sonny, Michael, Fredo, and Connie. She is portrayed as a deeply traditional Italian mother and wife, who maintains the household and oversees family matters from a cultural and emotional vantage point. Carmela’s background is rooted in Sicilian heritage, and her character symbolizes the old-world values that the Corleone family both embraces and struggles with as they navigate American society and organized crime."
+    },
+    {
+      "title": "Personality",
+      "body": "Carmela's character reflects dignity, stoicism, and unwavering loyalty. She supports her husband’s leadership and the family’s honor while managing the emotional fallout from their dangerous lifestyle. Carmela is nurturing yet firm, balancing compassion for her children with an acceptance of the harsh realities surrounding them. Her strong moral compass is intertwined with familial allegiance, illustrating the complexities of loyalty within a crime family. She represents stability amidst the turbulent events unfolding around the Corleones."
+    },
+    {
+      "title": "Story Role",
+      "body": "As matriarch, Carmela functions as the emotional center of the Corleone family. Though her public role is limited, her influence on her children, especially Michael, is substantial. She embodies the cultural traditions upheld by the family and provides counsel to Vito and others in private moments. Carmela's moments in the films emphasize the weight of family loyalty and the sacrifices required to preserve the Corleone legacy. Her presence humanizes the family’s criminal activities by contextualizing them within the bonds of blood and heritage."
+    },
+    {
+      "title": "Relationships",
+      "body": "Carmela is married to Vito Corleone and mother to his children, including Sonny, Michael, Fredo, and Connie. She shares a particularly close relationship with her husband, characterized by mutual respect and cultural tradition. Her interactions with her children reveal both warmth and the high expectations she has for their conduct. Carmela plays a moderating role in family tensions, and while not directly involved in the family’s criminal enterprises, she offers personal support and emotional resilience."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Carmela’s strengths lie in her emotional intelligence, resilience, and traditional wisdom. She adeptly manages the complex dynamics of a powerful crime family’s domestic sphere with grace and tact. Despite the dangers faced by her family, she preserves a sense of normalcy and cultural identity for her children. Carmela’s role as a moral and cultural anchor allows her to influence family decisions indirectly, especially by reinforcing their collective identity and unity."
+    }
+  ],
+  "aliases": [
+    "Mama Corleone",
+    "Carmela",
+    "Mrs. Corleone"
+  ],
+  "relationships": [
+    {
+      "type": "parent",
+      "target": "c2166eba-8439-4f5e-ad54-862f4de15d44"
+    },
+    {
+      "type": "parent",
+      "target": "f6ccff4c-7c1f-4e91-9e94-f588299fcb4c"
+    }
+  ],
+  "properties": {
+    "gender": "female",
+    "role": "Matriarch",
+    "affiliation": "Corleone Family",
+    "status": "deceased",
+    "cultural_background": "Sicilian"
+  },
+  "tags": [
+    "mafia",
+    "female character",
+    "matriarch",
+    "family loyalty",
+    "The Godfather",
+    "fictional character",
+    "family drama",
+    "film character"
+  ]
+}

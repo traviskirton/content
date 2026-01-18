@@ -73,6 +73,30 @@
     {
       "type": "features_location",
       "target": "b623e742-3a65-4ea9-a559-787f3d096a8e"
+    },
+    {
+      "type": "filmed_in",
+      "target": "e87458ca-19f1-4e2c-9f75-4d9eb6c87478"
+    },
+    {
+      "type": "filmed_in",
+      "target": "5c8b7e90-7d23-4d42-94f9-fddeb9ad7162"
+    },
+    {
+      "type": "filmed_in",
+      "target": "54f3e302-d610-4d5d-b588-38db06f93a1d"
+    },
+    {
+      "type": "filmed_in",
+      "target": "e6ac1f30-0d01-4c84-9c18-9ae8f13f4ef2"
+    },
+    {
+      "type": "filmed_in",
+      "target": "b1a0418d-0459-4bbf-a28e-10cc88d9f4db"
+    },
+    {
+      "type": "filmed_in",
+      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
     }
   ],
   "properties": {
@@ -93,6 +117,7 @@
     "thriller",
     "2020s",
     "time-travel",
-    "blockbuster"
+    "blockbuster",
+    "christopher-nolan"
   ]
 }

@@ -1,0 +1,53 @@
+{
+  "id": "dd4f841f-6984-42af-87e9-8eb248ed596e",
+  "type": "character",
+  "name": "Faramir",
+  "description": "Captain of Gondor who exhibits wisdom and nobility in resisting the power of the One Ring.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Faramir is the younger brother of Boromir and a captain of Gondor, a noble kingdom resisting the shadow of Sauron. He is a member of the ruling house, son of Denethor II, the Steward of Gondor. Unlike his brother, Faramir is contemplative and morally steadfast, known for his wisdom and integrity. His family struggles with the burden of legacy and leadership amid the war-torn lands of Middle-earth."
+    },
+    {
+      "title": "Personality",
+      "body": "Faramir is characterized by his intelligence, humility, and strong moral compass. He is courteous and respectful, earnest in his duties but also thoughtful and philosophical. Unlike many warriors driven by aggression, Faramir's approach is measured and compassionate, showing deep honor both in battle and in personal conviction. His resistance to temptation, particularly regarding the One Ring, reveals his inner strength."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Two Towers,' Faramir plays a crucial role as leader of a Gondorian company seeking to defend his city and understand the growing threat of the Ring. When he captures Frodo and Sam, he demonstrates skepticism and temptation but ultimately chooses mercy and wisdom, allowing the hobbits to continue their quest. His actions emphasize themes of courage, sacrifice, and the importance of choice."
+    },
+    {
+      "title": "Relationships",
+      "body": "Faramir has a close and complex relationship with his father Denethor II, whose favor he struggles to gain compared to Boromir. He is deeply loyal to his brother’s memory and to Gondor’s people. His interactions with Frodo and Sam reveal his open mind and respect for those outside his social station. Faramir also shares bonds with the Rangers of Ithilien, and later, his love interest Éowyn from Rohan develops."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Faramir is an accomplished warrior and captain, adept in strategy, swordsmanship, and archery. He leads small-scale guerrilla-style warfare against enemy forces around Osgiliath and Ithilien. His leadership is marked by keen tactical insight and moral steadiness, making him an effective and respected commander amidst the turmoil of war."
+    }
+  ],
+  "aliases": [
+    "Captain Faramir",
+    "Son of Denethor",
+    "Captain of Gondor"
+  ],
+  "relationships": [
+    {
+      "type": "related_character",
+      "target": "a4b81453-4051-4a07-83b9-3fef6b9a1b3a"
+    }
+  ],
+  "properties": {
+    "affiliation": "Gondor",
+    "role": "Captain",
+    "family": "Denethor II (father), Boromir (brother)",
+    "notable_traits": "Wisdom, restraint"
+  },
+  "tags": [
+    "character",
+    "Gondor",
+    "captain",
+    "warrior",
+    "noble",
+    "Middle-earth"
+  ]
+}

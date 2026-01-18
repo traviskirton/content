@@ -44,6 +44,14 @@
     {
       "type": "worked_for",
       "target": "217d1e4e-b4f3-4c6f-a1e7-ed74e29c8e67"
+    },
+    {
+      "type": "acted_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "acted_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
     }
   ],
   "properties": {

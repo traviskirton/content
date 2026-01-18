@@ -1,0 +1,54 @@
+{
+  "id": "f0d1ea75-98d6-4d37-9c63-86fe3a72185f",
+  "type": "character",
+  "name": "Wormtongue",
+  "description": "Saruman's deceitful advisor who manipulates King Théoden for his master's plans.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Gríma Wormtongue is a treacherous adviser to King Théoden of Rohan, secretly in the employ of the corrupted wizard Saruman. Though officially a counselor, Wormtongue sows discord and weakness within the court, undermining the king’s health and morale while feeding Saruman information. His background remains shadowy, but his vile disposition and sycophantic behavior reveal a man corrupted by ambition and malice."
+    },
+    {
+      "title": "Personality",
+      "body": "Wormtongue is characterized by cunning, deceit, and a manipulative charm laced with cruelty. He operates through whispered lies and poison-words, cultivating mistrust and despair. His sycophancy toward Saruman contrasts with his contemptuous attitude toward the Rohirrim he serves. His cowardice and moral weakness make him a contemptible figure, living in the shadows rather than facing direct confrontation."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Two Towers,' Wormtongue serves as the hidden agent of Saruman’s influence within Rohan, weakening Théoden in body and spirit to prevent effective resistance. His manipulation is broken when Gandalf exposes him, leading to his banishment. After his expulsion, Wormtongue flees to the East, denouncing Saruman in bitterness but remaining a sinister force ultimately overshadowed by greater evils."
+    },
+    {
+      "title": "Relationships",
+      "body": "Wormtongue’s primary relationship is with King Théoden, whom he betrays under Saruman's command. He serves Saruman with slimy devotion, acting as a spy and secondary agent. His interactions with Gandalf culminate in his downfall, as the wizard’s intervention restores Théoden’s strength and breaks Wormtongue’s hold. His alienation from the people of Rohan and contempt from others mark his social isolation."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Wormtongue is skilled in manipulation and intrigue, using psychological tactics to control and weaken others. Although not a warrior, his influence lies in subtlety, poison-words, and intelligence gathering. His understanding of court politics allows him to prey on Théoden’s fears and weaknesses, though he lacks any true strength or honor in combat."
+    }
+  ],
+  "aliases": [
+    "Gríma",
+    "Wormtongue",
+    "Worm",
+    "Advisor to Théoden"
+  ],
+  "relationships": [
+    {
+      "type": "associated_character",
+      "target": "a4b81453-4051-4a07-83b9-3fef6b9a1b3a"
+    }
+  ],
+  "properties": {
+    "affiliation": "Saruman",
+    "role": "Advisor / Spy",
+    "status": "Banished",
+    "method": "Manipulation"
+  },
+  "tags": [
+    "character",
+    "villain",
+    "spy",
+    "advisor",
+    "traitor",
+    "Middle-earth"
+  ]
+}

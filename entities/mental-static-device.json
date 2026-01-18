@@ -1,0 +1,61 @@
+{
+  "id": "1056c6d1-f0de-49b3-b84f-36a735f3e1f7",
+  "type": "item",
+  "name": "Mental Static Device",
+  "description": "A technological apparatus designed to mask or block the psychic emanations of mentalics, used to protect against mentalic detection or interference.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Mental Static Device is a secretive invention created by the Second Foundation to shield minds from the influence or detection of mentalics. By generating a mental interference field or static, it disrupts psychic waves and renders affected individuals or areas immune or invisible to mentalic abilities. This technology allows the Second Foundation to operate covertly and protects key political, scientific, or military targets."
+    },
+    {
+      "title": "Appearance",
+      "body": "The device is typically compact and portable, often resembling a small console or pad with controls for activation. It emits a low hum or faint distortion field around its user or the designated area. When active, some witnesses report a subtle delay or fuzziness in their perceptions, indicating its cloaking effect on psychic activity."
+    },
+    {
+      "title": "Function",
+      "body": "Its primary function is to block telepathic intrusion, mind reading, or mental suggestion by scrambling psychic signals. This is vital in detecting and countering rogue mentalics or preventing espionage by Second Foundation operatives. The device can also shield groups or infrastructures, creating areas of mental privacy in an otherwise transparent universe."
+    },
+    {
+      "title": "History",
+      "body": "Developed after mentalic phenomena became more widely understood, the Mental Static Device arose from the need for defensive countermeasures against mentalic abilities. It became a critical tool during political conflicts involving the First and Second Foundations and was tightly controlled by the mentalics to maintain secrecy and operational security."
+    },
+    {
+      "title": "Story Significance",
+      "body": "This device symbolizes the tension between mentalic authority and the need for privacy or resistance within the Foundation universe. It introduces the technological arms race against psychic powers and embodies the themes of surveillance and control. Its use often marks turning points where mentalic influence is challenged or concealed."
+    }
+  ],
+  "aliases": [
+    "Psychic Jammer",
+    "Mental Blocker",
+    "Second Foundation Static Device",
+    "Psychic Interference Apparatus",
+    "Mind Static Generator"
+  ],
+  "relationships": [
+    {
+      "type": "used_by",
+      "target": "e7b40bfc-4703-452e-8bb6-4399fb276f9a"
+    },
+    {
+      "type": "defense_against",
+      "target": "f9d1b8a2-9093-40ed-bb6a-4d3e0a7cfe9f"
+    }
+  ],
+  "properties": {
+    "function": "Block mentalic detection",
+    "size": "Portable",
+    "affiliation": "Second Foundation",
+    "technology_level": "Advanced",
+    "importance": "Critical for mentalic security"
+  },
+  "tags": [
+    "technology",
+    "psychic defense",
+    "science fiction",
+    "Foundation series",
+    "Isaac Asimov",
+    "mentalics",
+    "secret devices"
+  ]
+}

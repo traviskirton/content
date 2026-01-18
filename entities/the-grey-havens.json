@@ -1,0 +1,46 @@
+{
+  "id": "781ea3b7-d8f8-4b79-90fc-5c712f891b89",
+  "type": "location",
+  "name": "The Grey Havens",
+  "description": "A serene harbor in Middle-earth from which the Elves depart to the Undying Lands.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Grey Havens, or Mithlond, is a peaceful port city located on the western shores of Middle-earth. It serves as the primary departure point for the Elves as they journey across the sea to the Undying Lands, a mystical realm beyond mortal reach. The haven is a symbol of farewell, hope, and the end of the Elves’ time in Middle-earth."
+    },
+    {
+      "title": "Appearance",
+      "body": "Nestled on the shores, the Grey Havens is characterized by beautiful stone quays and gentle waves lapping the shores under wide skies. It is imbued with an ethereal, almost otherworldly light, featuring elegant ships with white sails prepared for the long voyage west. The surroundings are tranquil, with tall trees and softly rolling hills, offering a stark contrast to the darkness of Mordor."
+    },
+    {
+      "title": "History",
+      "body": "Founded by the Elves long before the Third Age, the Grey Havens have been the sacred point of departure for many of the immortal Elves beginning their final journey. Throughout the ages, it served as a bastion of hope and renewal, a place where the fading powers of the Elves move toward a promise of peace and rest. It remains a place of spiritual significance."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In The Return of the King, the Grey Havens play a poignant role as the place where Frodo, Gandalf, and the remaining Elves set sail from Middle-earth. It marks the end of their journey and the passing of the age of heroes. The Gray Havens symbolize transition and the bittersweet nature of farewells, underlining the theme of ending and renewal."
+    }
+  ],
+  "aliases": [
+    "Mithlond",
+    "The Havens",
+    "Elven Harbor",
+    "The Western Shores"
+  ],
+  "relationships": [],
+  "properties": {
+    "region": "Middle-earth west coast",
+    "function": "Elven port",
+    "culture": "Elven",
+    "era_relevant": "Third Age"
+  },
+  "tags": [
+    "Middle-earth",
+    "Elves",
+    "Port",
+    "The Lord of the Rings",
+    "Mystical",
+    "Farewell",
+    "Undying Lands"
+  ]
+}

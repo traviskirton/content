@@ -1,0 +1,52 @@
+{
+  "id": "90ce3fcd-2b4a-4b3f-8e5b-745d81cbc033",
+  "type": "organization",
+  "name": "Rohirrim",
+  "description": "The horse-lords of Rohan, famed for their cavalry and fierce loyalty.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Rohirrim are the horse-lords of the kingdom of Rohan in Middle-earth, characterized by their strong equestrian culture and prowess in mounted warfare. They are known for their skills as riders and warriors, their loyalty to their king, and their deep traditions centered around the horse. Their society is tribal and martial, embedded with ancient customs and a strong sense of honor and kinship."
+    },
+    {
+      "title": "Structure",
+      "body": "Rohan is a kingdom ruled by a king, supported by a hierarchical society consisting of nobles called the Heahburh and warrior lords responsible for leading the rohirrim cavalry. Below them are the freemen, the common riders who form the bulk of the cavalry forces. The social structure is closely tied to horse-keeping and martial skill, with leadership based partly on lineage and military ability. The Rohirrim gather under their banner in times of war, showcasing remarkable unity."
+    },
+    {
+      "title": "History",
+      "body": "The Rohirrim are descendants of the Northmen who migrated into Rohan during the Third Age, granted the land by Gondor as an ally and frontier buffer against Mordor. Throughout history, they have played pivotal roles in defending the western lands from invasion, notably during the War of the Ring. Their alliance with Gondor and their fierce defense of their realm helped turn the tide against Sauron’s forces, highlighted by the Battle of the Pelennor Fields where their cavalry charge was decisive."
+    },
+    {
+      "title": "Goals",
+      "body": "The primary goals of the Rohirrim are the protection and preservation of their homeland, Rohan, and the maintenance of their traditions and way of life centered around the horse and warfare. They seek to uphold their honor through loyalty to their king and comrades and by defending the lands of Men against dark powers. The Rohirrim also aim to maintain the strength of their horse culture, breeding and caring for some of the finest horses in Middle-earth."
+    },
+    {
+      "title": "Key Members",
+      "body": "King Théoden is the ruler during the events of 'The Two Towers,' who leads the Rohirrim with renewed vigor after Gandalf’s intervention. Éomer, Théoden's nephew and a valiant warrior, commands the cavalry with great skill and loyalty. Éowyn, Théoden’s niece, also plays a significant role in Rohan's defense. These figures exemplify the valor, resilience, and spirit of the Rohirrim."
+    }
+  ],
+  "aliases": [
+    "Horse-lords of Rohan",
+    "The Riders of Rohan",
+    "Rohirrimmen",
+    "People of the Horse"
+  ],
+  "relationships": [],
+  "properties": {
+    "kingdom": "Rohan",
+    "culture": "Equestrian, martial",
+    "primary_weapon": "Spears and swords",
+    "notable_horse": "Mearas",
+    "allies": "Gondor"
+  },
+  "tags": [
+    "Middle-earth",
+    "Horse-lords",
+    "Rohan",
+    "Fantasy warriors",
+    "Mounted cavalry",
+    "Warriors",
+    "War of the Ring",
+    "Kingdom"
+  ]
+}

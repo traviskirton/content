@@ -108,6 +108,46 @@
     {
       "type": "part_of",
       "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    },
+    {
+      "type": "filmed_in",
+      "target": "e87458ca-19f1-4e2c-9f75-4d9eb6c87478"
+    },
+    {
+      "type": "filmed_in",
+      "target": "708e2574-efb1-4626-b6f2-a8e2af2f8227"
+    },
+    {
+      "type": "filmed_in",
+      "target": "2f4b5c6d-7e8f-9a0b-1c2d-3e4f5g6h7i8j"
+    },
+    {
+      "type": "filmed_in",
+      "target": "f872408b-3f39-4aaa-8e8b-ee4e2a7a8592"
+    },
+    {
+      "type": "filmed_in",
+      "target": "7f2e64b4-d234-468a-bad5-398f1e34e2a9"
+    },
+    {
+      "type": "filmed_in",
+      "target": "a2f3b6c9-7654-4b8d-9ec3-fa7c4f8a670d"
+    },
+    {
+      "type": "filmed_in",
+      "target": "5de86068-a215-4f6d-a874-3d9ddb2b83b7"
+    },
+    {
+      "type": "filmed_in",
+      "target": "cf8a2c91-2d47-4f59-b041-59bcbc0fcb86"
+    },
+    {
+      "type": "filmed_in",
+      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
+    },
+    {
+      "type": "filmed_in",
+      "target": "43d147b9-dbd0-45de-a989-16a9f9f4a3a2"
     }
   ],
   "properties": {
@@ -128,6 +168,9 @@
     "drama",
     "2010s",
     "blockbuster",
-    "superhero"
+    "superhero",
+    "christopher-nolan",
+    "the-dark-knight-trilogy",
+    "batman"
   ]
 }

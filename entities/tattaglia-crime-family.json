@@ -1,0 +1,56 @@
+{
+  "id": "92c8e41e-8570-4084-bb57-43f6db08737e",
+  "type": "organization",
+  "name": "Tattaglia Crime Family",
+  "description": "A powerful New York Mafia family featured in The Godfather, often at odds with the Corleone family.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Tattaglia Crime Family is one of the Five Families dominating organized crime in New York City. Known for its involvement in gambling, racketeering, and various illicit activities, the family plays a significant antagonistic role in The Godfather universe. They are depicted as rivals to the Corleone Crime Family, participating in the bloody power struggles seen throughout the series."
+    },
+    {
+      "title": "Structure",
+      "body": "The Tattaglia family operates with a typical Mafia hierarchical structure comprising a Don at the top, followed by underbosses, caporegimes (captains), soldiers, and associates. Their operations rely heavily on political connections and alliances with unions and corrupt officials to maintain their power and influence in the city’s underworld. Their control over neighborhoods and illegal enterprises is maintained through both intimidation and strategic partnerships."
+    },
+    {
+      "title": "History",
+      "body": "In The Godfather saga, the Tattaglia family is introduced as one of the younger but ambitious factions challenging the established dominance of the Corleones. Throughout the narrative, they engage in violent disputes, notably in the events leading to the infamous 'Five Families' war. Their history is marked by alliances and betrayals, often involving other rival organizations as they seek to expand their criminal empire."
+    },
+    {
+      "title": "Goals",
+      "body": "The primary goal of the Tattaglia family is to increase and consolidate their power within New York’s criminal world. They aim to expand their influence through control of illegal gambling, extortion, and political corruption. Their desire for supremacy often brings them into conflict with rival families, leading to strategic assassinations and territorial disputes."
+    },
+    {
+      "title": "Key Members",
+      "body": "While the family’s Don is the central figure in leadership, notable members include Don Philip Tattaglia, known for his ruthless methods and political maneuvering. Other key characters include his capos and lieutenants who enforce the family’s will, executing orders related to both protection rackets and more violent measures against rivals like the Corleones."
+    }
+  ],
+  "aliases": [
+    "Tattaglia Family",
+    "Tattaglia Mafia",
+    "Tattaglia Crime Syndicate",
+    "Don Tattaglia's Family"
+  ],
+  "relationships": [],
+  "properties": {
+    "criminal_activities": [
+      "Gambling",
+      "Racketeering",
+      "Extortion",
+      "Political Corruption"
+    ],
+    "location": "New York City",
+    "notable_members_count": 15,
+    "public_visibility": "Low",
+    "power_level": "High"
+  },
+  "tags": [
+    "organized_crime",
+    "mafia",
+    "crime_family",
+    "The Godfather",
+    "fictional_organization",
+    "film",
+    "gangster"
+  ]
+}

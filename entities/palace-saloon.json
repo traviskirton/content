@@ -32,6 +32,14 @@
     {
       "type": "located_in",
       "target": "048f308b-450f-4f86-9a04-6c411d1d746d"
+    },
+    {
+      "type": "filmed_in",
+      "target": "c6b6351e-9147-4f0b-a56f-ce388c7ab4ce"
+    },
+    {
+      "type": "contains",
+      "target": "57c2a5fc-41a2-4493-9329-4d5cce6c87b6"
     }
   ],
   "properties": {

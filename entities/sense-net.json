@@ -1,0 +1,58 @@
+{
+  "id": "c7028a7e-ba04-4bcd-b07f-15ca46366071",
+  "type": "organization",
+  "name": "Sense/Net",
+  "description": "A powerful and enigmatic corporation operating in the cyberpunk world of 'Mona Lisa Overdrive', known for its advanced technology and influence over cyberspace.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Sense/Net is a dominant corporate entity within the cyberpunk universe of 'Mona Lisa Overdrive'. It specializes in cutting-edge neurotechnology and cyberspace engineering, blending artificial intelligence with human consciousness. The organization maintains a significant footprint in both the physical world and virtual networks, driving many of the cybernetic and data-driven narratives of the story."
+    },
+    {
+      "title": "Structure",
+      "body": "Sense/Net operates through a hierarchical corporate structure with a board of directors at the top, including visionary technologists and shadowy business magnates. Its divisions include research and development, cybernetic augmentation, security enforcement, and data acquisition departments. The secrecy of its upper echelons allows the organization to act with near impunity in its pursuit of control over digital and human interfaces."
+    },
+    {
+      "title": "History",
+      "body": "Founded during the early explosion of cyberspace technologies, Sense/Net quickly rose to power by pioneering neural interface devices and data extraction methods. Throughout its history, it has been implicated in various covert projects that blur ethical boundaries, including the development of AIs with human-like consciousness and clandestine manipulation of market economies via cyber espionage."
+    },
+    {
+      "title": "Goals",
+      "body": "Sense/Net aims to dominate the evolving cyberspace frontier, seeking complete symbiosis between humans and machines. It pursues extensive control over information, aiming to influence geopolitical power balances while enhancing human potential through technological means. Ultimately, the organization strives to lead the next stage of human evolution by merging consciousness with digital architectures."
+    },
+    {
+      "title": "Key Members",
+      "body": "The corporation's leadership includes enigmatic figures such as its CEO, a brilliant but secretive cyberneticist, and several high-ranking scientists responsible for groundbreaking neural advancements. Their identities are often kept confidential, suggesting a blend of corporate executives and shadowy figures working behind the scenes to maintain Sense/Net's dominance."
+    }
+  ],
+  "aliases": [
+    "SenseNet",
+    "Sense/Net Corporation",
+    "SenseNet Cybertech",
+    "The Network",
+    "S/Net"
+  ],
+  "relationships": [
+    {
+      "type": "owns",
+      "target": "7d8e9712-57ad-4c81-a2fd-ae530768d63e"
+    }
+  ],
+  "properties": {
+    "industry": "Cybernetics and Artificial Intelligence",
+    "location": "Fictional urban cyberpunk megacity",
+    "founded": "Late 21st century",
+    "headquarters": "Unknown high-security tower",
+    "notable_technology": "Neural interfaces, AI integration"
+  },
+  "tags": [
+    "cyberpunk",
+    "corporation",
+    "artificial intelligence",
+    "neural technology",
+    "cyberspace",
+    "technology",
+    "fictional organization",
+    "neurointerface"
+  ]
+}

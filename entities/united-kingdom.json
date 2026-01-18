@@ -38,6 +38,46 @@
     {
       "type": "filming_location_for",
       "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "contains",
+      "target": "e87458ca-19f1-4e2c-9f75-4d9eb6c87478"
+    },
+    {
+      "type": "contains",
+      "target": "5c8b7e90-7d23-4d42-94f9-fddeb9ad7162"
+    },
+    {
+      "type": "featured_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "contains",
+      "target": "c6b6351e-9147-4f0b-a56f-ce388c7ab4ce"
+    },
+    {
+      "type": "contains",
+      "target": "12a34567-89ab-4cde-b012-3f456789abcd"
+    },
+    {
+      "type": "contains",
+      "target": "5de86068-a215-4f6d-a874-3d9ddb2b83b7"
+    },
+    {
+      "type": "contains",
+      "target": "e6ac1f30-0d01-4c84-9c18-9ae8f13f4ef2"
+    },
+    {
+      "type": "contains",
+      "target": "d29c3776-bfec-4fde-a6de-a191d5a60f9d"
+    },
+    {
+      "type": "contains",
+      "target": "a4771e01-eb41-4529-a7e6-c321673d974d"
+    },
+    {
+      "type": "contains",
+      "target": "4db75ca2-f36f-4c73-8a6d-4edbec6f4c25"
     }
   ],
   "properties": {

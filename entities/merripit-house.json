@@ -1,0 +1,53 @@
+{
+  "id": "c543a7b3-fb33-4b4f-9aeb-df2b9fc19a48",
+  "type": "location",
+  "name": "Merripit House",
+  "description": "A farmer's residence near Baskerville Hall, belonging to the Stapletons, pivotal in the novel as a neighboring estate with dark secrets.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Merripit House is a modest, rustic dwelling occupied by the Stapletons, neighbors to the Baskerville estate. It is situated on the edge of the moor and is central to the story’s intrigue, especially as it harbors key characters whose motives and actions are critical to the unfolding mystery. The house and its occupants embody the tension between ordinary rural life and the supernatural fears that dominate the narrative."
+    },
+    {
+      "title": "Appearance",
+      "body": "The house is depicted as a small, humble cottage with simple stone walls and a thatched or tiled roof, surrounded by rough farmland and scrub. Its isolated position on the outskirts of the moor underscores the seclusion of life in this part of Devon. The property is surrounded by natural moorland vegetation but has some cultivated gardens and farmland that sustain the inhabitants."
+    },
+    {
+      "title": "History",
+      "body": "Merripit House is owned by the Stapletons, a brother and sister living a seemingly quiet rural existence. Unknown to many, Merripit House is the base from which the story’s antagonist orchestrates much of the novel’s sinister events. Its unassuming exterior contrasts sharply with its significance as a place of deception and danger."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In the narrative, Merripit House is a focal point for the mysterious happenings on the moor. It houses the Stapletons, whose interactions with Sir Henry Baskerville and Dr. Watson drive much of the plot. The house serves as both a home and a trap, symbolizing the hidden menace behind the moor's supernatural veneer."
+    }
+  ],
+  "aliases": [
+    "Stapletons' Home",
+    "Stapleton Residence"
+  ],
+  "relationships": [
+    {
+      "type": "located_near",
+      "target": "b7d9110d-26a1-47b5-94d2-193b6c4e93b4"
+    },
+    {
+      "type": "located_in",
+      "target": "6e7a59f5-1f96-4ffe-a2d4-5433b5eae72e"
+    }
+  ],
+  "properties": {
+    "building_type": "Cottage",
+    "occupants": "Stapleton siblings",
+    "location": "Edge of Dartmoor",
+    "condition": "Modest and weathered"
+  },
+  "tags": [
+    "farmhouse",
+    "residence",
+    "neighbor",
+    "rural",
+    "mystery",
+    "fictional",
+    "literature"
+  ]
+}

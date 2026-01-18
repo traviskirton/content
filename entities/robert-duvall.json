@@ -1,0 +1,54 @@
+{
+  "id": "8e4c5d90-fde9-405f-b387-108f4bf79eda",
+  "type": "person",
+  "name": "Robert Duvall",
+  "description": "Renowned American actor known for his powerful performances, notably as Tom Hagen in The Godfather series.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Robert Duvall, born on January 5, 1931, in San Diego, California, is an American actor and filmmaker whose career spans over seven decades. Raised in Virginia, he trained at the Neighborhood Playhouse School of the Theatre in New York City and gained early theatre experience before crossing over to film and television. Duvall's versatility and depth have earned him critical acclaim and a respected place in acting history."
+    },
+    {
+      "title": "Career",
+      "body": "Duvall's career blossomed in the 1960s and 1970s with a mix of theatre, television, and film roles. He came to critical prominence with The Godfather (1972), playing the role of Tom Hagen, the trusted consigliere of the Corleone family. His performances often display a quiet intensity, and he is known for his ability to infuse characters with nuanced realism. Beyond The Godfather, Duvall has appeared in classics like Apocalypse Now, Tender Mercies — for which he won an Academy Award — and The Apostle."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Robert Duvall's portrayal of Tom Hagen in The Godfather trilogy remains among his most iconic roles. This character, the adopted third son and loyal consigliere, showcased Duvall's ability to convey control, intelligence, and loyalty with subtlety. Other notable works include his Academy Award-winning performance in Tender Mercies (1983), and his role as Lieutenant Colonel Kilgore in Apocalypse Now (1979), demonstrating his range from quiet, measured characters to brash, memorable personalities."
+    },
+    {
+      "title": "Style and Influence",
+      "body": "Duvall is often praised for his understated and naturalistic acting style, avoiding over-dramatization in favor of authentic character portrayal. His work has influenced generations of actors, emphasizing the power of subtlety and emotional restraint. Duvall's commitment to character research and preparation is legendary, contributing to the depth and believability of his roles."
+    },
+    {
+      "title": "Awards and Honors",
+      "body": "Throughout his distinguished career, Robert Duvall has received numerous awards including an Academy Award for Best Actor, multiple Golden Globes, and Emmy Awards. His role in The Godfather earned him an Oscar nomination, establishing him as a major talent in Hollywood and cementing his status within the pantheon of great American actors."
+    }
+  ],
+  "aliases": [
+    "Bob Duvall",
+    "Robert Selden Duvall",
+    "Tom Hagen (character portrayal)"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    }
+  ],
+  "properties": {
+    "birth_year": 1931,
+    "nationality": "American",
+    "active_years": "1952-present",
+    "notable_role": "Tom Hagen"
+  },
+  "tags": [
+    "actor",
+    "film",
+    "The Godfather",
+    "Academy Award Winner",
+    "American Cinema",
+    "veteran actor",
+    "character actor"
+  ]
+}

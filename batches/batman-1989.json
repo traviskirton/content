@@ -1,0 +1,113 @@
+{
+  "source": "Batman (1989)",
+  "entities": [
+    {
+      "type": "person",
+      "name": "Tim Burton"
+    },
+    {
+      "type": "person",
+      "name": "Michael Keaton"
+    },
+    {
+      "type": "person",
+      "name": "Jack Nicholson"
+    },
+    {
+      "type": "person",
+      "name": "Kim Basinger"
+    },
+    {
+      "type": "person",
+      "name": "Jack Palance"
+    },
+    {
+      "type": "person",
+      "name": "Michael Gough"
+    },
+    {
+      "type": "person",
+      "name": "Pat Hingle"
+    },
+    {
+      "type": "person",
+      "name": "Billy Dee Williams"
+    },
+    {
+      "type": "person",
+      "name": "Danny Elfman"
+    },
+    {
+      "type": "person",
+      "name": "Sam Hamm"
+    },
+    {
+      "type": "franchise",
+      "name": "Burton/Schumacher Batman Films"
+    },
+    {
+      "type": "movie",
+      "name": "Batman (1989)"
+    },
+    {
+      "type": "character",
+      "name": "Bruce Wayne (Burton)"
+    },
+    {
+      "type": "character",
+      "name": "The Joker (Nicholson)"
+    },
+    {
+      "type": "character",
+      "name": "Vicki Vale"
+    },
+    {
+      "type": "character",
+      "name": "Alfred Pennyworth (Gough)"
+    },
+    {
+      "type": "character",
+      "name": "Commissioner Gordon (Hingle)"
+    },
+    {
+      "type": "character",
+      "name": "Harvey Dent (Williams)"
+    },
+    {
+      "type": "character",
+      "name": "Carl Grissom"
+    },
+    {
+      "type": "character",
+      "name": "Alexander Knox"
+    },
+    {
+      "type": "location",
+      "name": "Gotham City (Burton)"
+    },
+    {
+      "type": "location",
+      "name": "Axis Chemicals"
+    },
+    {
+      "type": "location",
+      "name": "Gotham Cathedral"
+    },
+    {
+      "type": "location",
+      "name": "Flugelheim Museum"
+    },
+    {
+      "type": "vehicle",
+      "name": "Batmobile (1989)"
+    },
+    {
+      "type": "vehicle",
+      "name": "Batwing"
+    },
+    {
+      "type": "item",
+      "name": "Smylex"
+    }
+  ]
+}

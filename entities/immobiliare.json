@@ -1,0 +1,58 @@
+{
+  "id": "5bc20469-a1d5-4fd3-ae10-d2bfe9de811d",
+  "type": "organization",
+  "name": "Immobiliare",
+  "description": "A powerful international real estate holding company central to the financial and criminal intrigue in The Godfather Part III.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Immobiliare serves as a pivotal organization involved in high-stakes real estate development and investments. Presented as a legitimate front for less lawful money laundering and political manipulation, it operates globally with vast financial resources. In The Godfather Part III, Immobiliare symbolizes the intersection of legitimate business and organized crime."
+    },
+    {
+      "title": "Structure",
+      "body": "The company is structured with a complex hierarchy that includes corrupt financiers, politicians, and mafia operatives. Its leadership often operates behind veils of secrecy, using numerous subsidiaries and offshore accounts to conceal illicit dealings. The board of directors and top executives include shadowy figures who wield considerable influence over international markets and governments."
+    },
+    {
+      "title": "History",
+      "body": "Immobiliare rose to power during the late 20th century, leveraging real estate boom opportunities while intertwining with criminal enterprises. The Corleone family's involvement illustrates the organization's entanglement with mafia networks, making it a focal point of power struggles, betrayals, and legal battles depicted in the film."
+    },
+    {
+      "title": "Goals",
+      "body": "Its primary aim is to dominate prime real estate markets and expand wealth through both legal and illicit methods. The company also seeks to manipulate political influence to protect its interests and hinder regulators. Its endeavors embody the theme of corruption within legitimate economic frameworks."
+    },
+    {
+      "title": "Key Members",
+      "body": "Prominent figures linked with Immobiliare include corrupt Vatican officials, high-ranking financiers, and organized crime leaders. Michael Corleone's dealings highlight his attempts to navigate and control the company to legitimize his family's empire and escape the violent world of crime."
+    }
+  ],
+  "aliases": [
+    "Immobiliare Holdings",
+    "Immobiliare Company",
+    "International Real Estate Consortium"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "37f90f75-1f4c-4d85-8d2e-eafcebb09118"
+    },
+    {
+      "type": "linked_with",
+      "target": "c848cc2b-5060-4c37-8a82-f8e9e10f23d9"
+    }
+  ],
+  "properties": {
+    "industry": "Real Estate, Finance, Money Laundering",
+    "scope": "International",
+    "reputation": "Corrupt but influential",
+    "founded": "Mid 20th century"
+  },
+  "tags": [
+    "organization",
+    "The Godfather Part III",
+    "real estate",
+    "mafia",
+    "finance",
+    "corruption",
+    "money laundering"
+  ]
+}

@@ -29,6 +29,10 @@
     {
       "type": "located_in",
       "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
+    },
+    {
+      "type": "contains",
+      "target": "87f73de7-8f05-4c8b-8f8a-a4cfe7115273"
     }
   ],
   "properties": {

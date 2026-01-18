@@ -1,0 +1,62 @@
+{
+  "id": "3be1ba69-3c1c-4b44-bde8-e13db2e69a54",
+  "type": "character",
+  "name": "Toran Darell",
+  "description": "Bayta Darell’s husband, a determined and brave trader involved in the efforts to resist the Mule’s expanding empire.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Toran Darell is a prominent trader and member of the Darell family, a significant lineage in the Foundation. He shares a background steeped in commerce, strategy, and political influence. Like his wife Bayta, Toran is deeply invested in preserving the ideals and survival of the Foundation, putting him at the forefront of resistance movements during crises."
+    },
+    {
+      "title": "Personality",
+      "body": "Toran is characterized by his strong sense of duty, courage, and practical mindset. Loyal and supportive, he complements Bayta’s more intuitional qualities with a grounded and methodical approach. Toran exhibits steadfastness in the face of adversity and a readiness to face danger head-on for the sake of the future."
+    },
+    {
+      "title": "Story Role",
+      "body": "In the tale of 'Foundation and Empire,' Toran plays a key supporting role in opposing the Mule’s conquest. His trading connections and knowledge become instrumental in gathering intelligence and organizing opposition. Alongside Bayta and Devers, Toran actively participates in the complex interplay of strategy and bravery necessary to confront the mutant menace."
+    },
+    {
+      "title": "Relationships",
+      "body": "Toran is married to Bayta Darell, forging a strong partnership based on mutual trust and shared objectives. He is a trusted ally of Lathan Devers, with whom he collaborates in the struggle against the Mule’s influence. His family ties and social standing further root him as a committed defender of Foundation values."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Toran is adept in trade, negotiation, and tactical planning. His experience as a trader provides him with a vast network and understanding of galactic economics, which he leverages in support of Foundation endeavors. He is brave and capable in tense situations, relying on both physical courage and mental acuity to survive and succeed."
+    }
+  ],
+  "aliases": [
+    "Mr. Darell",
+    "Trader Darell",
+    "Toran"
+  ],
+  "relationships": [
+    {
+      "type": "spouse_of",
+      "target": "b346f270-fb23-4090-9e6c-c4b6d7bbbf95"
+    },
+    {
+      "type": "ally_of",
+      "target": "65c334b1-03e0-4d97-bc87-7d06bbf68f44"
+    },
+    {
+      "type": "enemy_of",
+      "target": "b51fdbe5-3b66-4b84-9b83-298df591d245"
+    }
+  ],
+  "properties": {
+    "origin": "Foundation",
+    "role": "Supporting protagonist",
+    "occupation": "Trader",
+    "alignment": "Foundation loyalist"
+  },
+  "tags": [
+    "Foundation",
+    "Trader",
+    "Hero",
+    "Darell Family",
+    "Science Fiction",
+    "Resistance",
+    "Psychohistory"
+  ]
+}

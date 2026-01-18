@@ -1,0 +1,65 @@
+{
+  "id": "a7ade420-29d0-4889-90b3-acd91203d1f4",
+  "type": "item",
+  "name": "Operation Grand Slam",
+  "description": "A high-stakes plan orchestrated by Auric Goldfinger aiming to infiltrate Fort Knox and contaminate the United States gold reserve.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Operation Grand Slam is a meticulously crafted heist plan featured in the James Bond film Goldfinger. It involves an audacious scheme to break into Fort Knox, the United States Bullion Depository, and sabotage the gold stored there by radiologically contaminating it. This would artificially inflate the value of Goldfinger’s own gold holdings, effectively controlling global markets and crippling the U.S. economy."
+    },
+    {
+      "title": "Plan Details",
+      "body": "The operation centers on disabling or bypassing Fort Knox’s formidable security measures through espionage, sabotage, and brute force. Goldfinger’s team plans to use a nuclear device to irradiate the gold, effectively rendering it unusable for decades. Key elements involve infiltrated personnel, advanced technology, and diversionary tactics to mislead government agencies and military forces while the contamination is executed."
+    },
+    {
+      "title": "History",
+      "body": "Conceived by Auric Goldfinger as both an act of financial manipulation and political power play, Operation Grand Slam reflects his obsession with gold and dominance. The plan leverages Cold War era tensions and fears about nuclear weapons. It is the central conflict in the film, bringing James Bond into direct confrontation with Goldfinger’s criminal empire."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Operation Grand Slam propels the narrative forward, framing Goldfinger as a threat not only to international security but also to economic stability. Bond’s mission to thwart the operation drives much of the film’s suspense and action sequences. The plan's complexity and scale highlight the stakes involved and underscore the genius and megalomania of the antagonist."
+    },
+    {
+      "title": "Outcome",
+      "body": "Thanks to Bond’s intervention, Operation Grand Slam ultimately fails. The plan’s exposure and prevention reaffirm the themes of justice prevailing over greed and underline the spy’s critical role in protecting national and global security."
+    }
+  ],
+  "aliases": [
+    "Grand Slam Heist",
+    "Goldfinger’s Scheme",
+    "Fort Knox Operation",
+    "The Gold Heist"
+  ],
+  "relationships": [
+    {
+      "type": "orchestrated_by",
+      "target": "e91b6591-828c-4f44-8961-9830dc031b96"
+    },
+    {
+      "type": "obstructed_by",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    },
+    {
+      "type": "involves",
+      "target": "47dcd2e1-e95a-4b43-8a4e-74bc0a283c95"
+    }
+  ],
+  "properties": {
+    "type": "Heist/Operation",
+    "location": "Fort Knox",
+    "goal": "Contaminate US Gold Reserve",
+    "year": 1964,
+    "status": "Foiled"
+  },
+  "tags": [
+    "Heist",
+    "Goldfinger",
+    "Fort Knox",
+    "James Bond",
+    "Cold War",
+    "Gold",
+    "Espionage",
+    "Operation"
+  ]
+}

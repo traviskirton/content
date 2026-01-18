@@ -1,0 +1,61 @@
+{
+  "id": "0ab0b6f8-c602-4097-9267-38d8e1f2d493",
+  "type": "organization",
+  "name": "Army of the Dead",
+  "description": "A spectral host bound to an ancient oath, summoned by Aragorn to aid in the War of the Ring.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Army of the Dead, also known as the Oathbreakers or Dead Men of Dunharrow, are spirits cursed to linger in Middle-earth until they fulfill their ancient oath of allegiance. Rejected by their king for desertion during a past war, they remain bound until called upon by the rightful king, Aragorn, who summons them to fight against Sauron's forces."
+    },
+    {
+      "title": "Structure",
+      "body": "The army is a formless spectral host commanded by Aragorn during the War of the Ring. Though lacking traditional military hierarchy, its power lies in its supernatural nature and overwhelming presence, capable of scaring enemies and causing disarray. Their numbers are vast, once being a formidable mortal host before their curse."
+    },
+    {
+      "title": "History",
+      "body": "Centuries before the War of the Ring, these men broke their oath to aid Gondor in a critical war against invaders and were cursed by the King of Gondor to unrestful wandering. Their betrayal and curse condemned them to an existence trapped between life and death, unable to find peace until their oath is honored and fulfilled."
+    },
+    {
+      "title": "Goals",
+      "body": "Their sole purpose is to fulfill their oath and be released from their curse. Summoned by Aragorn, they pledge their allegiance to the true King of Gondor and help defeat the forces of Sauron as a path to their redemption and rest."
+    },
+    {
+      "title": "Key Members",
+      "body": "While individual names are lost to time, their collective leader is the King of the Dead, who answers to Aragorn’s command. Aragorn himself plays a pivotal role in their redemption by invoking their oath and leading them in battle."
+    }
+  ],
+  "aliases": [
+    "Oathbreakers",
+    "Dead Men of Dunharrow",
+    "The Ghosts",
+    "Shadow Host",
+    "The Cursed Dead"
+  ],
+  "relationships": [
+    {
+      "type": "ally_of",
+      "target": "e44c1405-f8cf-4b44-b7d8-3c9b1e72a8d5"
+    },
+    {
+      "type": "commanded_by",
+      "target": "0e4a7328-6d97-40a1-8769-bb8c4f91e64d"
+    }
+  ],
+  "properties": {
+    "type": "Spectral Army",
+    "curse_origin": "Broke ancient oath to Gondor",
+    "redeemed_by": "Aragorn",
+    "role_in_War": "Turn the tide at the Battle of Pelennor Fields",
+    "location_associated": "Paths of the Dead"
+  },
+  "tags": [
+    "Middle-earth",
+    "Specters",
+    "Curse",
+    "War of the Ring",
+    "Supernatural",
+    "Gondor",
+    "The Lord of the Rings"
+  ]
+}

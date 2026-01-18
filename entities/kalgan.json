@@ -1,0 +1,50 @@
+{
+  "id": "c2187d20-5268-4c77-b581-d45fdd3d5a2c",
+  "type": "location",
+  "name": "Kalgan",
+  "description": "Kalgan is a strategically important planet and fortress city known for its decadent rule under the Mule during the Foundation era.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Kalgan serves as a vital bastion within the Galactic Empire's territory and later as the Mule's stronghold. Renowned for its militarized population and political intrigue, it is a hub of power and influence. The planet is noted for its lush environments contrasted with its militarized urban centers and is a focal point of conflict and control in the series."
+    },
+    {
+      "title": "Appearance",
+      "body": "Kalgan is depicted vividly as a planet with sprawling cities built around fortress-like architecture, imposing military installations, and opulent palaces reflecting the excesses of its rulers. The environment balances natural beauty with harsh, fortified urban centers, underscoring the tension between luxury and control that defines the planet's atmosphere during the Mule's reign."
+    },
+    {
+      "title": "History",
+      "body": "Originally a minor planet within the Imperial sphere, Kalgan rises to prominence during the tumultuous period of the Galactic Empire's decline. Under the Mule's conquest, it becomes the center of his empire, serving as a launching point for his military campaigns against the Foundation. Kalgan's history is intertwined with rebellion, power struggles, and its ultimate fate is a key turning point in the saga of the Foundation."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'Foundation and Empire', Kalgan is central to the Mule's expansionist ambitions and a symbol of the shifting power balances in the galaxy. Control of Kalgan signifies both military strength and political legitimacy, making it a critical target for the Foundation and the remnants of the old Empire. Its depiction illustrates themes of decadence, corruption, and the costs of power."
+    }
+  ],
+  "aliases": [
+    "Kalgan Planet",
+    "Kalgan Fortress",
+    "The Mule's Stronghold"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "c3f3e1a2-5a33-4b5d-98b5-4c165ef1b6b7"
+    }
+  ],
+  "properties": {
+    "type": "Planet",
+    "affiliation": "Mule's Empire",
+    "importance": "Military Stronghold",
+    "status": "Key Conflict Location"
+  },
+  "tags": [
+    "location",
+    "science fiction",
+    "Foundation series",
+    "Isaac Asimov",
+    "planet",
+    "imperial",
+    "military"
+  ]
+}

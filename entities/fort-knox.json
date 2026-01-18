@@ -1,0 +1,56 @@
+{
+  "id": "927c31a9-bf5f-4a9a-b3c8-5c6f0f4622f7",
+  "type": "location",
+  "name": "Fort Knox",
+  "description": "Fort Knox is a fortified United States Army installation housing the country's gold bullion reserve, serving as a critical location in the James Bond film Goldfinger.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Fort Knox, officially known as the United States Bullion Depository, is a fortified military base located in Kentucky. It is famed worldwide as the repository of a significant portion of the United States' gold reserves. In the context of the James Bond film Goldfinger, Fort Knox serves as the central setting for the villain's audacious plan to contaminate the U.S. gold supply."
+    },
+    {
+      "title": "Appearance",
+      "body": "In Goldfinger, Fort Knox is depicted with an imposing and heavily fortified exterior, emphasizing its invulnerability. The film shows high-security barriers, thick concrete walls, and armed guards stationed around the depository. Inside, the vault is vast and filled with gleaming gold bars stacked methodically, creating an iconic image of immense wealth and security."
+    },
+    {
+      "title": "History",
+      "body": "Constructed in the 1930s, Fort Knox has served as a secure vault for the U.S. government's gold reserves. Its reputation for impregnable security made it a logical target for a high-stakes heist plot in fiction. Historically, the base has also served various military purposes beyond its gold storage role. Its notoriety in popular culture increased significantly following the release of Goldfinger."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In the film Goldfinger, Fort Knox is the centerpiece of Auric Goldfinger's grand scheme to increase the value of his personal gold holdings by irradiating the gold bullion at the depository, thereby contaminating the national gold supply. This plan poses a catastrophic threat to the global economy, motivating James Bond's mission to infiltrate and foil the operation within the vault's confines."
+    }
+  ],
+  "aliases": [
+    "United States Bullion Depository",
+    "The Depository",
+    "Kentucky Gold Vault"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "location": "Kentucky, United States",
+    "function": "Gold Bullion Storage",
+    "constructed": "1936",
+    "security_level": "Top Secret",
+    "film_appearance": "Goldfinger"
+  },
+  "tags": [
+    "location",
+    "United States",
+    "gold",
+    "security",
+    "military installation",
+    "James Bond",
+    "Goldfinger",
+    "vault"
+  ]
+}

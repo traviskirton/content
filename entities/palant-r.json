@@ -1,0 +1,52 @@
+{
+  "id": "59f89f3b-d876-4c23-aa30-226e06af2d9b",
+  "type": "item",
+  "name": "Palantír",
+  "description": "A magical seeing-stone that allows communication and vision across vast distances.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Palantíri are ancient, crystalline spheres used for communication and seeing across Middle-earth. Crafted by the Elves of Eressëa during the First Age, these stones serve as powerful tools for sending and receiving images, words, and visions between distant locations. They were distributed among the kingdoms of Men, and later come under the control of various leaders and factions, including Sauron and Saruman, who use them to extend their influence and gather intelligence."
+    },
+    {
+      "title": "Appearance",
+      "body": "Each Palantír is a smooth, flawless sphere of indeterminate size but roughly the size of a large apple or orange. The surface is polished to reflect light in a way that seems almost liquid, and the stone emits a faint blue glow when in use. The stones vary in size, with some being larger and others smaller, but all share the same crystalline clarity and inner radiance. They appear deceptively solid but are imbued with great magical power."
+    },
+    {
+      "title": "Function",
+      "body": "Palantíri enable users to communicate instantaneously over great distances, see faraway places, and sometimes even glimpse possible futures or hidden events. Skilled users can control what they see or send images to other stones. However, the stones are dangerous, prone to deception and manipulation, especially by powerful dark forces like Sauron. The stones can be used to spy on enemies but also expose the user’s mind to influence or domination."
+    },
+    {
+      "title": "History",
+      "body": "Created in the First Age by the Noldorin Elves, the Palantíri were originally gifted to the leaders of Númenor and later distributed among the kingdoms of Arnor and Gondor. Over time, many were lost or captured. The Palantír of Orthanc came under Saruman's possession, corrupted by Sauron's influence. Another Palantír, held by Denethor, the Steward of Gondor, induced despair. The stones influenced key events during the War of the Ring, guiding strategies and causing psychological turmoil."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'The Two Towers,' the Palantír serves as a pivotal object that reveals the extent of Sauron’s influence through Saruman’s use of the stone in Orthanc. It symbolizes the dangers of seeking power and knowledge beyond one's capacity and illustrates the ways evil can corrupt. The Palantír’s use drives significant plot developments, including Saruman's downfall and Denethor’s despair, underscoring themes of power, temptation, and the struggle between light and shadow."
+    }
+  ],
+  "aliases": [
+    "Seeing-stone",
+    "Stone of Seeing",
+    "Palantir",
+    "Elven Seeing-stone"
+  ],
+  "relationships": [],
+  "properties": {
+    "origin": "Elven craftsmanship (First Age)",
+    "material": "Crystalline stone",
+    "size_range": "Small to medium sphere",
+    "powers": "Telecommunication, distant sight, mind influence",
+    "dangerous_to": "Untrained or weak-willed users"
+  },
+  "tags": [
+    "Middle-earth",
+    "Magical item",
+    "Communication",
+    "Seeing-stone",
+    "Fantasy artifact",
+    "Elven",
+    "War of the Ring",
+    "Sauron"
+  ]
+}

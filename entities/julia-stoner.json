@@ -1,0 +1,63 @@
+{
+  "id": "f06ae0e3-2d91-40fa-8bc6-ec62d8b9a65e",
+  "type": "character",
+  "name": "Julia Stoner",
+  "description": "Helen Stoner’s elder sister whose mysterious and tragic death prompts the investigation by Sherlock Holmes.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Julia Stoner was the elder daughter of Mrs. Stoner and the stepdaughter of Dr. Grimesby Roylott. Before her untimely death, she lived with her sister Helen at the family estate Stoke Moran. Julia was recently engaged, but her life was cut short under mysterious and seemingly inexplicable circumstances, leading to fear and suspicion of foul play."
+    },
+    {
+      "title": "Personality",
+      "body": "Julia is depicted posthumously as vibrant and lively, a stark contrast to the foreboding gloom of Stoke Moran. Her tragic fate lends a shadow of mystery and urgency to the story. Through the investigation, it is revealed she had noticed the same strange phenomena that frightened Helen, underscoring her perceptiveness. Though deceased, her presence haunts the narrative, symbolizing innocence victimized."
+    },
+    {
+      "title": "Story Role",
+      "body": "Julia’s mysterious death is the catalyst for the entire plot of The Adventure of the Speckled Band. Her final moments — including her cryptic last words about the 'speckled band' — serve as essential clues that Holmes uses to solve the case. Julia’s death triggers Helen’s plea to Holmes, setting the detective’s investigation into motion and revealing Dr. Roylott’s deadly plot."
+    },
+    {
+      "title": "Relationships",
+      "body": "Julia was Helen Stoner’s elder sister and Dr. Grimesby Roylott’s stepdaughter. Her relationship with Roylott is marked by fear and victimization. Though not directly interacting in the story (being deceased), Julia’s memory and fate play a pivotal emotional and plot-driving role in the story's dynamics."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "While Julia does not actively participate in the story, her observations and quickness to sense danger demonstrate keen awareness. Her dying message plays a crucial intellectual role in the unraveling of the story’s mystery."
+    }
+  ],
+  "aliases": [
+    "Miss Julia Stoner"
+  ],
+  "relationships": [
+    {
+      "type": "deceased_sister_of",
+      "target": "91d00a09-0b0a-4f4a-9548-f2c50668944d"
+    },
+    {
+      "type": "stepdaughter_of",
+      "target": "ee1d3001-d3d9-49de-b463-03c1de2d3db3"
+    },
+    {
+      "type": "victim_in",
+      "target": "35d0df0f-2cce-408e-8a3c-7e285e2bee16"
+    },
+    {
+      "type": "appears_in",
+      "target": "35d0df0f-2cce-408e-8a3c-7e285e2bee16"
+    }
+  ],
+  "properties": {
+    "relation": "Stepdaughter",
+    "status": "Deceased",
+    "residence": "Stoke Moran",
+    "time_of_death": "Shortly before story events"
+  },
+  "tags": [
+    "victim",
+    "female character",
+    "Sherlock Holmes",
+    "mystery",
+    "family",
+    "Victorian literature"
+  ]
+}

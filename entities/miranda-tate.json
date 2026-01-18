@@ -40,6 +40,10 @@
     {
       "type": "related_to",
       "target": "23f5a5c3-29ad-4ef8-bf65-daab2d4794b8"
+    },
+    {
+      "type": "appears_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
     }
   ],
   "properties": {

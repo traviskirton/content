@@ -1,0 +1,50 @@
+{
+  "id": "61a40f1d-9b4c-42ea-81eb-1a4b602e34d7",
+  "type": "item",
+  "name": "Simstim",
+  "description": "A simulated sensory stimulation technology allowing one person to experience another’s perceptions in real time in the Neuromancer universe.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Simstim, short for simulated stimulation, is a technology featured prominently in 'Neuromancer' that enables the transmission and reception of sensory experiences wirelessly or via a neural interface. Typically used for entertainment, espionage, or communication, Simstim lets a user experience the sights, sounds, and even tactile sensations recorded or transmitted by another individual. It creates an intense, immersive connection between sender and receiver, blurring boundaries of self and other."
+    },
+    {
+      "title": "Appearance",
+      "body": "The device itself involves a headset or integrated neural implant equipped to capture neurological sensory data from a source individual and replicate it into the user's sensory cortex. In practical usage, receivers might wear VR-style goggles and audio equipment linked to Simstim hardware. To observers, the equipment appears futuristic but grounded in plausible cybernetic design, incorporating elements like data jacks, signal processors, and interface controls."
+    },
+    {
+      "title": "Function",
+      "body": "Simstim captures real-time or prerecorded sensory input from an individual, encoding it into neurological signals that can be transmitted over networks or physically transferred via devices. The receiver experiences these inputs as if they were their own, often generating a vivid, virtual presence of the sender. This technology is used for various purposes ranging from entertainment—watching live adventures as if firsthand—to intelligence gathering and psychological manipulation."
+    },
+    {
+      "title": "History",
+      "body": "Emerging in the cyberpunk world of 'Neuromancer,' Simstim was developed as an evolution of virtual reality and telepresence technologies. Its creation reflects deeper themes of connectivity and identity, giving rise to new forms of social interaction and existential dilemmas. Within the narrative, Simstim enables characters like Molly Millions to act as street samurai proxies and lets Case immerse himself in unfamiliar environments, driving plot and character development."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Simstim serves as a narrative device that highlights the intimacy and risks of technology-mediated experience. Its use in the story underscores the novel’s exploration of human-machine fusion, identity dissociation, and the commodification of perception. The technology's ability to transmit consciousness-like experiences presages many of today’s discussions around VR, streaming, and empathy mediation, illustrating Gibson's prescience and the technology’s central role in Neuromancer's cybernetic world."
+    }
+  ],
+  "aliases": [
+    "Simulated Stimulation",
+    "Sensory Transfer Device",
+    "Neural Stimulator",
+    "Sim-Stim"
+  ],
+  "relationships": [],
+  "properties": {
+    "type": "sensory interface",
+    "usage": "entertainment, espionage",
+    "interface": "neural",
+    "real_time": true,
+    "technology_level": "advanced cybernetics"
+  },
+  "tags": [
+    "neuromancer",
+    "technology",
+    "virtual reality",
+    "cyberpunk",
+    "sensory transfer",
+    "neural interface"
+  ]
+}

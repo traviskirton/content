@@ -1,0 +1,64 @@
+{
+  "id": "5a7efcd8-1e55-4d39-b265-9f136e63f9a1",
+  "type": "franchise",
+  "name": "Gentleman Bastard Series",
+  "description": "A fantasy book series by Scott Lynch centered on a group of elite con artists in the city of Camorr.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Gentleman Bastard series is a fantasy saga authored by Scott Lynch. The narrative follows the adventures of a band of skilled thieves and con artists led by Locke Lamora, set in the fictional city of Camorr, a place reminiscent of a fantastic Renaissance Venice full of intrigue, crime, and political machinations. The series combines intricate heists, complex characters, and a richly detailed world full of magic and mystery."
+    },
+    {
+      "title": "Structure",
+      "body": "The series primarily consists of novels that blend crime, fantasy, and adventure in episodic but interconnected stories. Each book builds on the previous one, expanding on the protagonists' personal growth, their enemies, and the city's multifaceted power structures. The narrative is known for nonlinear storytelling, with flashbacks enriching the main plot and developing the characters' backstories."
+    },
+    {
+      "title": "History",
+      "body": "Beginning with 'The Lies of Locke Lamora' published in 2006, the series quickly gained popularity for its innovative mix of genres. Scott Lynch planned a long-running saga detailing the exploits and growth of the Gentleman Bastard crew. Despite periods of delayed publication, the series remains highly anticipated and has significantly impacted modern fantasy literature."
+    },
+    {
+      "title": "Goals",
+      "body": "The series aims to subvert traditional fantasy tropes by focusing not just on epic battles or quests, but on cunning, wit, and criminal mastery. It explores themes of loyalty, survival, and the blurred lines between heroes and villains. It also delves into social commentary through the depiction of Camorr's layered society."
+    },
+    {
+      "title": "Key Members",
+      "body": "Central to the series is Locke Lamora, the charismatic and clever leader of the Gentleman Bastards. Alongside him are trusted companions like Jean Tannen, Sabetha, Calo and Galdo Sanza, each contributing unique talents to the crew. Together, they form a tight-knit group navigating the dangerous political and criminal world of Camorr."
+    }
+  ],
+  "aliases": [
+    "Gentleman Bastard Series",
+    "Gentleman Bastards",
+    "Locke Lamora Series"
+  ],
+  "relationships": [
+    {
+      "type": "created_by",
+      "target": "faa6c2d0-1db1-4a71-9a0f-d051afc8a9b9"
+    },
+    {
+      "type": "includes_book",
+      "target": "379ade9b-9c45-4d0c-8219-0a1a6b03a5a5"
+    }
+  ],
+  "properties": {
+    "genre": "Fantasy",
+    "setting": "City of Camorr",
+    "medium": "Books",
+    "status": "Ongoing",
+    "themes": [
+      "crime",
+      "fantasy",
+      "heist",
+      "friendship"
+    ]
+  },
+  "tags": [
+    "fantasy",
+    "book series",
+    "heist",
+    "crime",
+    "Scott Lynch",
+    "Camorr",
+    "adventure"
+  ]
+}

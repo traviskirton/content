@@ -32,6 +32,10 @@
     {
       "type": "acted_in",
       "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "acted_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
     }
   ],
   "properties": {

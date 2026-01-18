@@ -1,0 +1,55 @@
+{
+  "id": "8d5d52b3-7d18-4d84-b735-b7bcf19cb3b3",
+  "type": "character",
+  "name": "Peter Riviera",
+  "description": "A psychopathic and flamboyant television artist who uses his ability to create illusions to manipulate and deceive in 'Neuromancer'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Peter Riviera is a charismatic yet deeply disturbed individual who thrives in the underworld of drugs, crime, and fame. His past is marred by violent impulses and an abusive upbringing, which shaped his nihilistic worldview. Gaining notoriety on the television circuits, Riviera capitalizes on his unique ability to project convincing, immersive illusions directly into the minds of others, making him both sought after and feared in the shadowy world of corporate espionage."
+    },
+    {
+      "title": "Personality",
+      "body": "Riviera is flamboyant, erratic, and dangerously unpredictable, marked by a lack of empathy and a penchant for cruelty. His self-obsessed nature drives him to seek admiration and power through manipulation. He oscillates between charm and menace, masking his violent tendencies behind a theatrical, almost performative personality that fascinates and unnerves those around him."
+    },
+    {
+      "title": "Story Role",
+      "body": "Within 'Neuromancer', Riviera serves primarily as an antagonist and tool for those in power who seek to use his illusionary skills for covert operations. His unruly behavior and willingness to betray make him a volatile figure among the core group, complicating missions and adding tension. His manipulation of reality and perception plays a key role in unsettling both protagonists and the surrounding environment, illustrating the dangers of unchecked power."
+    },
+    {
+      "title": "Relationships",
+      "body": "Riviera works under Armitage's command but remains largely self-interested, often causing friction with other team members, especially Case and Molly. His relationships are superficial and exploitative, showing no genuine loyalty beyond his personal ambitions. His connection to the AI forces is indirect but significant, as his actions impact their plans and objectives."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "Riviera's primary skill is his ability to create vivid, believable illusions that can manipulate the perceptions of those around him, granting him a unique form of psychological control. This talent makes him a formidable adversary in both physical and mental confrontations. Additionally, his knowledge of media and spectacle allows him to influence public and private spheres with ease."
+    }
+  ],
+  "aliases": [
+    "Riviera",
+    "Illusionist",
+    "Television Artist",
+    "Peter"
+  ],
+  "relationships": [
+    {
+      "type": "serves",
+      "target": "36f81b26-8a04-4f1d-8689-f7e85b39beee"
+    }
+  ],
+  "properties": {
+    "occupation": "Television Artist/Spy",
+    "skills": "Illusion creation, manipulation",
+    "psychological_profile": "Psychopathic",
+    "role_importance": "Secondary antagonist"
+  },
+  "tags": [
+    "illusionist",
+    "psychopath",
+    "cyberpunk",
+    "manipulation",
+    "media",
+    "espionage",
+    "Neuromancer"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "40b1487e-eca5-4529-bd7b-ca5a9a60213c",
+  "type": "character",
+  "name": "Jean Tannen",
+  "description": "The loyal and formidable right-hand man to Locke Lamora, known for his silence and exceptional combat skills.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Jean Tannen was introduced as Locke Lamora’s closest friend and trusted companion within the Gentleman Bastard crew. Unlike Locke, Jean's past is often shrouded in silence, but it is understood that he shares a similarly harsh upbringing. He was taken under the wing of Father Chains alongside Locke and trained in both thievery and combat, becoming an integral part of the crew's operations."
+    },
+    {
+      "title": "Personality",
+      "body": "Jean is a man of few words, expressing himself more through actions than speech. He is profoundly loyal, immensely patient, and serves as the emotional anchor and protector for Locke and the crew. Beneath his stoic exterior lies deep empathy and steadfast bravery, taking on dangers others would avoid, and providing unwavering support to his friends."
+    },
+    {
+      "title": "Story Role",
+      "body": "Jean acts as Locke’s right-hand man throughout the Gentleman Bastard series and is critical in executing the crew’s plans, especially those requiring brute strength or silent efficiency. His combat prowess and disciplined demeanor balance Locke’s impulsive and talkative nature, forming a partnership that is essential to their survival and success in Camorr’s perilous criminal world."
+    },
+    {
+      "title": "Relationships",
+      "body": "Jean’s closest relationship is with Locke Lamora, sharing a deep, unspoken bond that has sustained them through numerous trials. He is also deeply respected among the Gentleman Bastards and serves as a mentor and protector to younger members. His loyalty extends to the group as a whole, reflecting a family-like loyalty forged through hardship and shared secrets."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Jean is an exceptional fighter, skilled in multiple forms of combat and notably strong and durable. His ability to fight silently and efficiently makes him a deadly presence. Unlike Locke, Jean is less focused on deception and more on straightforward action, but his intuition and judgment complement Locke’s strategies. Together, they are a formidable team blending brains and brawn."
+    }
+  ],
+  "aliases": [
+    "Jean Tannen",
+    "The Silent Blade",
+    "Locke's Right Hand"
+  ],
+  "relationships": [
+    {
+      "type": "member_of",
+      "target": "5a7efcd8-1e55-4d39-b265-9f136e63f9a1"
+    },
+    {
+      "type": "appears_in",
+      "target": "379ade9b-9c45-4d0c-8219-0a1a6b03a5a5"
+    },
+    {
+      "type": "close_friend",
+      "target": "2ccf6837-0518-4a67-9c49-2154a85fca68"
+    },
+    {
+      "type": "created_by",
+      "target": "faa6c2d0-1db1-4a71-9a0f-d051afc8a9b9"
+    }
+  ],
+  "properties": {
+    "role": "Deuteragonist",
+    "occupation": "Thief, fighter",
+    "origin": "Camorr",
+    "skills": [
+      "combat",
+      "strength",
+      "loyalty",
+      "strategy support"
+    ],
+    "alignment": "Neutral Good"
+  },
+  "tags": [
+    "character",
+    "fighter",
+    "thief",
+    "loyalty",
+    "silent",
+    "fantasy",
+    "Gentleman Bastard"
+  ]
+}

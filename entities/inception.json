@@ -92,6 +92,18 @@
     {
       "type": "distributed_by",
       "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "filmed_in",
+      "target": "d29c3776-bfec-4fde-a6de-a191d5a60f9d"
+    },
+    {
+      "type": "filmed_in",
+      "target": "a7f5b313-55b9-4f5d-9b74-7d2f2ddcbd0d"
+    },
+    {
+      "type": "filmed_in",
+      "target": "b1a0418d-0459-4bbf-a28e-10cc88d9f4db"
     }
   ],
   "properties": {
@@ -111,6 +123,7 @@
     "blockbuster",
     "2010s",
     "dreams",
-    "mind-bending"
+    "mind-bending",
+    "christopher-nolan"
   ]
 }

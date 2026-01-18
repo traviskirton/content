@@ -1,0 +1,58 @@
+{
+  "id": "d491a3d3-548e-4eba-a7d9-2fcdd97db2f0",
+  "type": "organization",
+  "name": "The Gentleman Bastards",
+  "description": "A secretive and highly skilled group of con artists and thieves led by Locke Lamora, specializing in elaborate heists in Camorr.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Gentleman Bastards are a notorious band of con men operating primarily within the city of Camorr. Renowned for their intelligence, creativity, and ruthlessness, they execute complex schemes that often involve impersonation, deception, and manipulation of Camorr’s elite. Unlike common thieves, their operations are meticulously planned and often serve broader narrative and thematic purposes within the novel."
+    },
+    {
+      "title": "Structure",
+      "body": "The organization is relatively small and tight-knit, comprised of an inner circle of lieutenants under Locke Lamora’s leadership. Members are trained from youth in various skills such as legerdemain, disguise, combat, and finance. The group functions with a strong sense of loyalty and shared purpose, operating both as a family and a criminal syndicate, with Locke himself acting as the mastermind and charismatic figurehead."
+    },
+    {
+      "title": "History",
+      "body": "Originating from impoverished backgrounds, the members of the Gentleman Bastards were brought together as orphans and street urchins by the enigmatic Chains, who trained them in the arts of thievery and subterfuge. Their legacy is a blend of ruthless survival and sophisticated criminality, evolving into a formidable force that both challenges and manipulates Camorr’s social hierarchy. Over time, they earned a reputation both revered and feared across the city."
+    },
+    {
+      "title": "Goals",
+      "body": "Their primary goal centers around survival and wealth acquisition through cons that subvert the established social order. However, their schemes often carry layers of complexity, including undermining corrupt nobles, advancing personal vendettas, or disrupting the city’s delicate balance of power. The Gentleman Bastards operate under a philosophy of wit over brute force, prioritizing cunning plans and precise execution."
+    },
+    {
+      "title": "Key Members",
+      "body": "Key figures include Locke Lamora, the group's leader and mastermind, known for his sharp intellect and charisma; Jean Tannen, Locke’s loyal enforcer and fighter; Calo and Galdo Sanza, quick-witted brothers skilled in streetwise antics; and Chains, the mentor who instilled foundational skills and philosophies. Together, they embody a diverse skill set critical to their success."
+    }
+  ],
+  "aliases": [
+    "Gentleman Bastards",
+    "Lamora's Crew",
+    "The Conmen of Camorr"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "5e935984-f3d1-42d9-bd6e-8a0e417cbc37"
+    },
+    {
+      "type": "associated_with",
+      "target": "07fb4d36-c5e5-4a94-8e0c-e1d91f8b2070"
+    }
+  ],
+  "properties": {
+    "founder": "Chains",
+    "members_count": "Small group (5+ core)",
+    "primary_activity": "Con artistry and theft",
+    "base_of_operations": "Camorr"
+  },
+  "tags": [
+    "fantasy",
+    "organization",
+    "criminal",
+    "thieves",
+    "con artists",
+    "Camorr",
+    "protagonists"
+  ]
+}

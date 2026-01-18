@@ -1,0 +1,68 @@
+{
+  "id": "71b6fdea-7640-4829-8e50-2a2a5f09a204",
+  "type": "location",
+  "name": "The Sprawl",
+  "description": "A massive, continuous urban corridor along the U.S. East Coast, serving as a central dystopian setting in 'Neuromancer'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Referred to as the Boston-Atlanta Metropolitan Axis (BAMA), The Sprawl is a colossal urban agglomeration stretching from Boston to Atlanta along the U.S. East Coast. This interconnected conglomerate of cities symbolizes the stagnation and overdevelopment of American urban life in the future, dominated by sprawling megacities blending residential, industrial, and corporate zones. It is a chaotic landscape of towering skyscrapers, sprawling slums, and labyrinthine infrastructure, where megacorporations wield immense power and the underworld thrives amid decay."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Sprawl is depicted as an endless, gritty expanse of concrete, steel, and neon lights, permeated by perpetual haze and pollution. Its skyline is crowded with towering corporate headquarters overshadowing crumbling neighborhoods and industrial zones. The streets pulse with a mix of cybernetically enhanced individuals, street gangs, and corporate security forces. Elevated highways intersect dense pedestrian zones, while signs of technological advancements contrast starkly with urban decay — reflecting a city both advanced and broken."
+    },
+    {
+      "title": "History",
+      "body": "The Sprawl emerged from centuries of urban expansion along the East Coast, as smaller cities fused into one massive metropolitan area. This evolution was driven by population growth, technological industry consolidation, and corporate urban development. Over time, regulatory oversight diminished, and mega-corporations increasingly took control of civic infrastructure, creating zones of immense wealth coexisting with sprawling poverty. The Sprawl embodies the dystopian future of unchecked urbanization and corporate oligarchy within Gibson’s vision."
+    },
+    {
+      "title": "Story Significance",
+      "body": "'Neuromancer' is largely set within The Sprawl, which acts as the atmospheric cradle for the novel's cyberpunk exploits. It showcases the tension between the high-tech aspirations of humanity and the erosion of social structures. Numerous characters, including Case, operate within its tangled network of streets and neon-lit alleyways, underscoring the sprawling chaos of the cybernetic underworld. The city underscores the broader themes of alienation, corporate dominance, and the interaction of human consciousness with technology."
+    }
+  ],
+  "aliases": [
+    "Boston-Atlanta Metropolitan Axis",
+    "BAMA",
+    "The Urban Sprawl",
+    "Sprawl"
+  ],
+  "relationships": [
+    {
+      "type": "contains",
+      "target": "d0051ca1-1a0d-4ea9-9df0-2e9a2f6b19f7"
+    },
+    {
+      "type": "contains",
+      "target": "57e4f965-dc7c-4f70-b3da-9bab2d395f4c"
+    },
+    {
+      "type": "contains",
+      "target": "1f0a8220-48da-43e2-90b6-52507e8690ac"
+    },
+    {
+      "type": "includes",
+      "target": "d0051ca1-1a0d-4ea9-9df0-2e9a2f6b19f7"
+    },
+    {
+      "type": "includes",
+      "target": "57e4f965-dc7c-4f70-b3da-9bab2d395f4c"
+    }
+  ],
+  "properties": {
+    "type": "Megacity corridor",
+    "location": "U.S. East Coast",
+    "population": "Tens of millions",
+    "governance": "Corporate oligarchy",
+    "climate": "Temperate urban"
+  },
+  "tags": [
+    "location",
+    "megacity",
+    "cyberpunk",
+    "setting",
+    "urban sprawl",
+    "dystopia",
+    "United States"
+  ]
+}

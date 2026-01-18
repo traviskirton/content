@@ -1,0 +1,49 @@
+{
+  "id": "2b0637aa-9f0a-4f06-8b87-08bde4f15318",
+  "type": "character",
+  "name": "Moe Greene",
+  "description": "Moe Greene is a Las Vegas casino operator and associate of the Corleone family known for his brash personality and influence in the casino business.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Moe Greene is a powerful and influential casino mogul in Las Vegas, originally a real-estate entrepreneur and gambler who made his fortune by aggressively building and controlling casinos. He represents the emerging influence of organized crime in the Nevada gambling scene during the 1940s and '50s. Moe's connection to the Corleone family is both professional and often contentious, as the mafia looks to expand its reach into Las Vegas operations."
+    },
+    {
+      "title": "Personality",
+      "body": "Known for his flamboyant and brash demeanor, Moe Greene is often arrogant, outspoken, and unafraid to challenge others, including the Corleone family. His bluntness and charisma make him a central figure in the Vegas underworld. Despite his cocky attitude, he commands respect and holds significant sway in casino operations. He is also fiercely protective of his turf in Las Vegas, displaying a no-nonsense approach to business and personal dealings."
+    },
+    {
+      "title": "Story Role",
+      "body": "In The Godfather, Moe Greene serves a critical role as the Corleone family's contact and partner in the Las Vegas casino enterprise. His unwillingness to fully cooperate with Michael Corleone's plans to consolidate power leads to a critical turning point. Moe's assassination marks the shift of power in the casino business from the old guards to the younger Corleone leadership and symbolizes Michael's ruthless consolidation of influence and control."
+    },
+    {
+      "title": "Relationships",
+      "body": "Moe Greene has professional ties with the Corleone family, particularly with Michael Corleone as a business partner and rival. His relationships with other mafia figures are colored by his assertiveness and occasional defiance. Despite his bravado, he is vulnerable in the larger game of mafia politics, which ultimately leads to his downfall."
+    },
+    {
+      "title": "Abilities and Skills",
+      "body": "Moe Greene's skills lie in his savvy business acumen, knowledge of Las Vegas real estate, and ability to manage and operate casinos with a heavy hand. His negotiation and intimidation tactics make him a formidable figure in the underworld; he also possesses charismatic leadership that commands loyalty and respect among his associates."
+    }
+  ],
+  "aliases": [
+    "Morris Greene",
+    "Las Vegas Casino King",
+    "The Vegas Boss"
+  ],
+  "relationships": [],
+  "properties": {
+    "profession": "Casino Operator",
+    "location": "Las Vegas",
+    "status": "Deceased"
+  },
+  "tags": [
+    "Las Vegas",
+    "casino",
+    "The Godfather",
+    "mafia",
+    "organized crime",
+    "film character",
+    "power struggle",
+    "1950s"
+  ]
+}

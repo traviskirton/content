@@ -1,0 +1,55 @@
+{
+  "id": "0c6a6d4a-4a9e-480b-9433-8b0d6e4e5d97",
+  "type": "item",
+  "name": "Goldfinger's Gold",
+  "description": "The vast quantity of gold amassed and central to the plot of the James Bond story 'Goldfinger'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Goldfinger's Gold refers to the enormous stockpile of gold bars that plays a critical role in the James Bond novel and film 'Goldfinger'. This vast hoard is stored in the United States Bullion Depository at Fort Knox, and serves as the key target of the antagonist Auric Goldfinger's audacious heist plan. The gold represents not only immense wealth but also strategic economic power, making it a pivotal object of desire throughout the story."
+    },
+    {
+      "title": "Appearance",
+      "body": "The gold in question is depicted as standard bullion gold bars, typically rectangular and engraved with markings indicating their purity and weight. In the film adaptation, the gold is visually striking with its bright yellow hue, reflecting its value and symbolizing luxury and greed. The Fort Knox vault where the gold is stored is portrayed as an impregnable fortress, emphasizing the guarded nature of this treasure."
+    },
+    {
+      "title": "Function",
+      "body": "Within the narrative of 'Goldfinger', the gold functions as both a physical asset and a symbolic prize. The antagonist's plan, known as 'Operation Grand Slam', involves contaminating the gold at Fort Knox with radiation, thereby increasing the market value of his own gold holdings by rendering the Fort Knox bars unusable. The gold stockpile thus drives the main conflict and motivates the protagonist, James Bond, to thwart the heist."
+    },
+    {
+      "title": "History",
+      "body": "Goldfinger's Gold is a fictional representation within Ian Fleming's novel published in 1959 and its 1964 film adaptation. The story plays on Cold War-era anxieties about economics, security, and nuclear threats. While Fort Knox holds a real gold reserve, the heist plot is entirely imagined, blending espionage thriller elements with the fascination surrounding gold as a stable reserve asset during uncertain times."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The gold hoard is the centerpiece of the story's tension, symbolizing the stakes of the villain's scheme and the broader implications for global financial stability. Goldfinger's desire to monopolize and control gold underlines themes of greed and power, while the protection and potential loss of the gold underscore James Bond's role as a defender of national interest and morality. The gold ultimately represents the clash between criminal ambition and state security."
+    }
+  ],
+  "aliases": [
+    "Fort Knox Gold",
+    "Gold Bullion",
+    "Auric Goldfinger's Treasure",
+    "Gold Bar Reserve"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
+    }
+  ],
+  "properties": {
+    "material": "Gold",
+    "location": "Fort Knox",
+    "weight_estimate": "Thousands of tons",
+    "value": "Multi-billion USD"
+  },
+  "tags": [
+    "James Bond",
+    "Gold",
+    "Fort Knox",
+    "Heist",
+    "Espionage",
+    "1960s",
+    "Auric Goldfinger"
+  ]
+}

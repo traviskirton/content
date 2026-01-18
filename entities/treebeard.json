@@ -1,0 +1,55 @@
+{
+  "id": "a2cb0d5e-7bab-40a2-b949-af40beaab9e9",
+  "type": "character",
+  "name": "Treebeard",
+  "description": "An ancient Ent, shepherd of the forest, who leads the Ents in an assault against Saruman's forces to protect the natural world.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Treebeard is one of the oldest living beings in Middle-earth, an Ent created by the Vala Yavanna to protect the forests from destruction. He dwells in Fangorn Forest and acts as its guardian and shepherd of the Ents—ancient tree-like creatures. His origin lies deeply intertwined with the natural world’s ancient magic, embodying the slow wisdom and power of nature. Unlike other beings, he moves and thinks at a leisurely pace reflective of his ageless existence."
+    },
+    {
+      "title": "Personality",
+      "body": "Treebeard’s character signifies profound wisdom, patience, and a protective nature. He speaks in a slow, deliberate manner and is deeply connected to the forests he guards. Despite his slow and methodical demeanor, he exhibits great strength and decisiveness when roused, particularly when the fate of the forest is threatened. Treebeard embodies a deep disdain for industrial destruction, symbolizing ecological preservation and the living spirit of nature."
+    },
+    {
+      "title": "Story Role",
+      "body": "In The Two Towers, Treebeard is instrumental to the plot as he encounters Merry and Pippin, hobbits who have escaped from Orc captivity. Through their actions and persuasion, Treebeard awakens the Ents to the threat posed by Saruman, who is destroying the forests for war. This leads to the Ents attacking Isengard, Saruman’s stronghold, dramatically shifting the power balance in the war. Treebeard’s leadership emphasizes themes of environmentalism and ancient power."
+    },
+    {
+      "title": "Relationships",
+      "body": "Treebeard quickly forms a bond with Merry and Pippin, recognizing their significance and sharing their concern for Middle-earth’s fate. He is wary and hostile toward Saruman and his Orcs, reflecting the Ents’ historical antagonism toward forces that threaten nature. Treebeard also respects Gandalf and shows reverence for the forces of good opposing evil in Middle-earth."
+    },
+    {
+      "title": "Abilities/Skills",
+      "body": "As an Ent, Treebeard possesses immense physical strength, size, and durability. He can uproot trees, hurl large objects with great force, and endure battle damage. His natural abilities include deep communication with the forest and other Ents, and in some respects, earth-based magic. Treebeard is also known for his wisdom and foresight, guiding his people through difficult decisions."
+    }
+  ],
+  "aliases": [
+    "Fangorn",
+    "Shepherd of the Trees"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "851e34d9-5dfc-4e4d-b3b7-78613af03cb2"
+    }
+  ],
+  "properties": {
+    "species": "Ent",
+    "role": "Forest Guardian",
+    "location": "Fangorn Forest",
+    "alignment": "Neutral Good",
+    "age": "Ancient"
+  },
+  "tags": [
+    "ent",
+    "nature",
+    "environment",
+    "guardian",
+    "middle-earth",
+    "fantasy",
+    "elder",
+    "forest"
+  ]
+}
