@@ -1,0 +1,50 @@
+{
+  "id": "0a4d2e36-598a-4da2-9d48-54b708bd28d5",
+  "type": "location",
+  "name": "Alberta, Canada",
+  "description": "A province in Canada known for its stunning landscapes and diverse filming locations.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Alberta is a province in Western Canada, characterized by its Rocky Mountains, vast prairies, and dense forests. It is a popular destination for film productions due to its wide array of natural landscapes and picturesque settings."
+    },
+    {
+      "title": "Film History",
+      "body": "Alberta has been a popular filming location for many notable productions:\n\n- **'The Revenant' (2015)**: Many of the film's brutal winter survival scenes were shot in Kananaskis Country and the Bow Valley near Canmore.\n- **'Brokeback Mountain' (2005)**: Shot in various Alberta locations including the Rocky Mountains and around Calgary.\n- **'Interstellar' (2014)**: Some scenes depicting alien landscapes were filmed in the foothills of the Rockies.\n\nThese productions utilized Alberta's diverse environments to represent both historical and imaginative settings."
+    },
+    {
+      "title": "Visiting",
+      "body": "Alberta is open to public access and offers tourism opportunities for visitors interested in experiencing its natural beauty. Visitors can explore national parks such as Banff and Jasper, and some filming sites offer tours, particularly in areas used frequently for productions. Due to the province's large size, self-guided tours might require a significant amount of travel time."
+    }
+  ],
+  "aliases": [
+    "AB",
+    "Wild Rose Country"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "province",
+    "country": "Canada",
+    "coordinates": {
+      "lat": "52.9399",
+      "long": "-113.2610"
+    }
+  },
+  "tags": [
+    "province",
+    "filming location",
+    "public",
+    "tours-available",
+    "active"
+  ]
+}

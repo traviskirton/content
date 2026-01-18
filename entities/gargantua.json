@@ -1,0 +1,41 @@
+{
+  "id": "e7ad8f76-2e9f-4c9d-8059-9f3a60b7eacb",
+  "type": "location",
+  "name": "Gargantua",
+  "description": "A supermassive black hole, serving as a significant location in the film 'Interstellar'.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Gargantua was formed naturally in the universe and discovered by humans as a potential gateway for exploring neighboring galaxies. Its discovery is pivotal for the missions depicted in 'Interstellar', as it offers potential solutions to Earth's ecological crisis."
+    },
+    {
+      "title": "Geography",
+      "body": "Gargantua is a visually striking supermassive black hole with an accretion disk of superheated matter orbiting it. It is situated in a distant galaxy, with its surrounding planets and singular gravitational pull making it a hub for scientific exploration."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **Accretion Disk**: The disk emits intense radiation and energy, creating a unique visual effect around Gargantua.\n- **Event Horizon**: The boundary marking the point of no return, beyond which even light cannot escape.\n- **Time Dilation**: The immense gravitational pull of Gargantua causes significant time dilation, affecting the aging process for those close to it."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Gargantua is central to the plot of 'Interstellar'. It acts as a gateway for the Endurance crew's mission to find habitable planets. The black hole's gravitational properties, particularly time dilation, play a crucial role in the narrative, affecting the characters' relationships and decisions."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "black hole"
+  },
+  "tags": [
+    "space",
+    "sci-fi",
+    "futuristic",
+    "astronomy"
+  ]
+}

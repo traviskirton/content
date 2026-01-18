@@ -1,0 +1,55 @@
+{
+  "id": "a28b62e3-098c-4d5b-b47e-5c4e29e1c314",
+  "type": "character",
+  "name": "Amelia Brand",
+  "description": "A scientist and astronaut on the Endurance mission in 'Interstellar'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Dr. Amelia Brand is the daughter of Professor John Brand, the head of NASA's operations. Raised in an age where Earth's resources were depleting, Amelia pursued scientific endeavors to solve humanity's crisis. She became a key figure in exploring space for new habitable worlds as part of NASA's Endurance mission."
+    },
+    {
+      "title": "Personality",
+      "body": "Amelia is portrayed as intelligent, determined, and compassionate. Despite her rigorous scientific approach, she often expresses hope in concepts like love and connection, believing they transcend time and space, which sometimes puts her at odds with more pragmatic characters."
+    },
+    {
+      "title": "Story Role",
+      "body": "As a central character in 'Interstellar', Amelia Brand represents the union of science and hope. She plays a critical role in navigating and surviving the mission to find a new habitable planet, ultimately serving as one of the pivotal characters who reaches Edmonds Planet."
+    },
+    {
+      "title": "Relationships",
+      "body": "Amelia had a complex relationship with her father, Professor Brand, being both his daughter and a valued colleague. She harbored unspoken feelings for fellow scientist Dr. Edmunds, impacting her decisions during the mission. Her alliance with Joseph Cooper, the mission's pilot, evolves from professional respect to a deeper connection as they both strive to save humanity."
+    },
+    {
+      "title": "Abilities",
+      "body": "Amelia is a skilled scientist with expertise in astrobiology and space exploration. Her training as an astronaut equips her with the necessary skills to pilot spacecraft, conduct research experiments, and survive in unknown extraterrestrial environments."
+    }
+  ],
+  "aliases": [
+    "Dr. Brand"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "related_to",
+      "target": "c1e2d3f4-5678-9abc-def0-123456789abc"
+    },
+    {
+      "type": "related_to",
+      "target": "c5d8e1f3-8c6f-47aa-bb98-23f0c8e8c5d1"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "scientist, astronaut",
+    "portrayed_by": "Anne Hathaway"
+  },
+  "tags": [
+    "protagonist",
+    "scientist",
+    "explorer"
+  ]
+}

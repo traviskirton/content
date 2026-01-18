@@ -1,0 +1,54 @@
+{
+  "id": "1c8df9d8-7c51-4c31-94d7-7a8e596cb4ad",
+  "type": "character",
+  "name": "CASE",
+  "description": "CASE is a robot characterized by its loyalty and supportive role in the mission to save humanity in the film 'Interstellar'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "CASE is one of the humanoid robots created to assist astronauts and researchers in deep space missions. Like its counterpart TARS, CASE is a highly advanced machine with versatile operational capabilities, programmed for space exploration tasks."
+    },
+    {
+      "title": "Personality",
+      "body": "**CASE** is depicted as _loyal_, _helpful_, and possesses a dry sense of humor similar to TARS. Though inherently mechanical, CASE demonstrates adaptability and supports its human companions with problem-solving skills."
+    },
+    {
+      "title": "Story Role",
+      "body": "In the movie **'Interstellar'**, CASE plays a critical role in supporting the mission team, particularly Cooper and Amelia Brand, on their quest to find a habitable planet. It assists with technical operations, navigation, and serves as a source of comic relief through humor routines."
+    },
+    {
+      "title": "Relationships",
+      "body": "**Key Relationships:**\n- **Cooper**: As part of the team, CASE is responsible for aiding Cooper with mission objectives and tasks, establishing a professional relationship with trust.\n- **Amelia Brand**: It also works closely with Brand, assisting with logistics and morale during the mission.\n- **TARS**: Another robot from the same series, shares a camaraderie and similarities in humor."
+    },
+    {
+      "title": "Abilities",
+      "body": "CASE is capable of **multifunctional operations**, including but not limited to:\n- Navigating spacecraft and alien environments.\n- Performing rescue operations.\n- Mathematical computation and data analysis.\n- Providing diagnostics of spacecraft systems."
+    }
+  ],
+  "aliases": [
+    "K-2"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "friends_with",
+      "target": "c5f8d103-826e-410b-bb7b-30d8bbf3b5ba"
+    },
+    {
+      "type": "related_to",
+      "target": "c5637766-14da-4d3d-9ff3-c4973a3d5c50"
+    }
+  ],
+  "properties": {
+    "species": "robot",
+    "portrayed_by": "Josh Stewart"
+  },
+  "tags": [
+    "supporting",
+    "robot",
+    "comic-relief"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "a9e6c5b2-e2ff-4b65-a469-7d5b6f9cd372",
+  "type": "organization",
+  "name": "NASA (Interstellar)",
+  "description": "A secretive organization in the film 'Interstellar' focused on finding a new habitable planet for humanity.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "NASA (Interstellar) is a governmental organization that operates covertly to address the planetary crisis facing Earth. Its primary goal is to explore space for a new home for humanity amid ecological collapse on Earth."
+    },
+    {
+      "title": "History",
+      "body": "NASA operates in hiding after public information about space travel is suppressed due to budget cuts and a focus on Earth's immediate crises. Led by Professor Brand, NASA secretly works on the Endurance mission to find a habitable planet outside of Earth's solar system."
+    },
+    {
+      "title": "Structure",
+      "body": "The organization is led by **Professor Brand**, who coordinates missions from their secret facility. Key members include astronauts such as **Cooper** and **Amelia Brand**. The organization has a hierarchical structure with dedicated divisions for mission planning and execution."
+    },
+    {
+      "title": "Operations",
+      "body": "NASA (Interstellar) focuses on the execution of the Endurance mission, which includes the use of spacecraft such as the **Endurance**, **Ranger**, and **Lander** to explore potential planets near a wormhole located close to Saturn. Their operations involve advanced science and exploration of space-time mechanics to find a viable planet for colonization."
+    },
+    {
+      "title": "Story Significance",
+      "body": "NASA plays a crucial role in 'Interstellar', as it is the driving force behind the mission to save humanity. It is central to the film's narrative, plotting a course through a wormhole to evaluate potentially habitable planets and tackle existential threats posed by environmental degradation on Earth."
+    }
+  ],
+  "aliases": [
+    "National Aeronautics and Space Administration"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "led_by",
+      "target": "dee30356-293b-4b92-b489-7c13cbdb2308"
+    },
+    {
+      "type": "members",
+      "target": "c5637766-14da-4d3d-9ff3-c4973a3d5c50"
+    },
+    {
+      "type": "members",
+      "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
+    },
+    {
+      "type": "headquartered_in",
+      "target": "82f4eef8-b309-4b98-8c86-1338da56a582"
+    }
+  ],
+  "properties": {
+    "founded": "future",
+    "founder": "Professor Brand",
+    "type": "government",
+    "headquarters": "NASA Facility",
+    "fictional": true
+  },
+  "tags": [
+    "government",
+    "heroic",
+    "sci-fi"
+  ]
+}

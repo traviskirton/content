@@ -1,0 +1,60 @@
+{
+  "id": "dee30356-293b-4b92-b489-7c13cbdb2308",
+  "type": "character",
+  "name": "Professor Brand",
+  "description": "A brilliant scientist leading NASA's efforts to find a new habitable planet for humanity in \"Interstellar.\"",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Professor John Brand is a highly esteemed scientist and director of NASA, tasked with spearheading humanity's efforts to find a new habitable planet amidst Earth's impending ecological collapse. He is instrumental in developing the \"Lazarus missions,\" where scientists are sent to explore potentially habitable planets beyond our solar system."
+    },
+    {
+      "title": "Personality",
+      "body": "Professor Brand is a visionary and determined individual, deeply committed to securing the future of mankind. He is portrayed as a leader who is willing to make difficult decisions for the greater good. Despite his noble intentions, he is not without flaws, as his motivations are sometimes driven by personal relationships, particularly with his daughter, Amelia Brand."
+    },
+    {
+      "title": "Story Role",
+      "body": "In the narrative of *Interstellar*, Professor Brand serves as both a mentor and catalyst for protagonist Cooper's journey. His role is pivotal in setting Cooper on the mission to explore potential planets for humanity's survival. Brand's own unresolved equations and Plan B form a central plot point, revealing the ethical complexity and sacrifices required in the fight for human survival."
+    },
+    {
+      "title": "Relationships",
+      "body": "**Cooper**: Brand recruits former NASA pilot Cooper to lead the mission beyond Earth. Despite a shared mission, there is tension due to differing priorities.\n\n**Amelia Brand**: His daughter, an astronaut and scientist, who is deeply involved in the mission. Their relationship strives between professional and personal motivations.\n\n**Murph**: Brand becomes a mentor and father figure to Cooper's daughter, Murph, as she works to solve the gravitational equation left unfinished by him."
+    },
+    {
+      "title": "Abilities",
+      "body": "Professor Brand possesses an exceptional intellect, particularly in the fields of theoretical physics and aerospace engineering. He is a master strategist, able to orchestrate complex space missions and solve intricate scientific problems."
+    }
+  ],
+  "aliases": [
+    "John Brand",
+    "Professor John Brand"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "related_to",
+      "target": "a28b62e3-098c-4d5b-b47e-5c4e29e1c314"
+    },
+    {
+      "type": "related_to",
+      "target": "c5d8e1f3-8c6f-47aa-bb98-23f0c8e8c5d1"
+    },
+    {
+      "type": "related_to",
+      "target": "9d71539f-9a11-4259-825b-b7b6363a3469"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "scientist, NASA director",
+    "portrayed_by": "Michael Caine"
+  },
+  "tags": [
+    "supporting",
+    "mentor",
+    "scientist"
+  ]
+}

@@ -2,19 +2,19 @@
   "id": "4c6b6d52-7b63-4f29-b77b-3573bd66d892",
   "type": "location",
   "name": "Iceland",
-  "description": "A Nordic island country known for its stunning landscapes, frequently used as a filming location.",
+  "description": "A Nordic island nation known for its dramatic landscapes and frequent use as a filming location.",
   "content": [
     {
       "title": "Overview",
-      "body": "Iceland is a Nordic island country located in the North Atlantic Ocean. Known for its stunning natural landscapes, including glaciers, volcanoes, geysers, and hot springs, Iceland has become a popular filming location for many international productions."
+      "body": "**Iceland** is a Nordic island nation renowned for its stunning natural landscapes including volcanoes, geysers, hot springs, and lava fields. Reykjavik, the capital, runs on geothermal power and is home to the National and Saga museums, tracing Iceland’s Viking history. The unique terrain and untamed natural wonders make Iceland a popular location for filming."
     },
     {
       "title": "Film History",
-      "body": "Iceland's dramatic landscapes have made it a favorite for filmmakers seeking exotic and visually striking settings. Notable productions include **'Game of Thrones'**, where locations such as Thingvellir National Park doubled for the land beyond the Wall. The film **'Interstellar'** used Iceland to depict icy and water-dominated planets. The country has also been featured in **'Prometheus'** and **'The Secret Life of Walter Mitty'**."
+      "body": "Iceland's diverse landscapes have been featured in numerous films and TV series. Notably, it was used for filming parts of *Game of Thrones*, portraying the icy lands beyond the Wall. Movies like *Interstellar*, directed by Christopher Nolan, utilized Iceland's rugged terrain to depict otherworldly locations, such as Mann’s Planet. The film *Batman Begins* also shot scenes here, showcasing the island's dramatic environments."
     },
     {
       "title": "Visiting",
-      "body": "Iceland is highly accessible to tourists, with many film locations part of popular tourist routes such as the Golden Circle and South Coast tours. Visitors can explore the natural wonders where famous scenes were filmed, often with guided tours that offer insights into the filming process and the locations' cinematic significance."
+      "body": "Iceland is accessible to tourists year-round, with many locations offering guided tours that highlight the natural beauty as well as sites used for filming. Visitors can explore the Vatnajökull and Snæfellsjökull National Parks, attend Reykjavik's cultural events, or relax in the Blue Lagoon, an iconic geothermal spa."
     }
   ],
   "aliases": [
@@ -22,16 +22,16 @@
   ],
   "relationships": [
     {
+      "type": "filming_location_for",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
       "type": "located_in",
       "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
-    },
-    {
-      "type": "filming_location_for",
-      "target": "9ea831c8-8d94-4312-9954-6159a1c7e065"
-    },
-    {
-      "type": "filming_location_for",
-      "target": "8bde9c76-4d86-4d85-a945-82f7e7a4497c"
     }
   ],
   "properties": {
@@ -39,12 +39,12 @@
     "type": "country",
     "country": "Iceland",
     "coordinates": {
-      "lat": 64.9631,
-      "long": -19.0208
+      "latitude": 64.9631,
+      "longitude": -19.0208
     }
   },
   "tags": [
-    "country",
+    "natural-formation",
     "active",
     "public",
     "tours-available"

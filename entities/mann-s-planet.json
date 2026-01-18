@@ -1,0 +1,46 @@
+{
+  "id": "7b053441-48e1-4d56-96c7-498a1d3f832d",
+  "type": "location",
+  "name": "Mann's Planet",
+  "description": "A perilous, icy world featured in the film 'Interstellar', known for its false beacon of hope.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Mann's Planet was one of the twelve planets surveyed by the Lazarus missions. It was named after Dr. Mann, the leader of the expedition who wrongly reported it as a habitable planet in a desperate attempt to be rescued."
+    },
+    {
+      "title": "Geography",
+      "body": "The planet is characterized by vast icy landscapes and frigid temperatures. It exhibits unstable ice formations, large chasms, and a barren surface with a thin atmosphere."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **Dr. Mann's Base**: The outpost where Dr. Mann spent years in hyper-sleep awaiting rescue.\n- **Cracked Ice Fields**: Treacherous terrain that Cooper and his team travel across."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Mann's Planet serves as a significant plot point in 'Interstellar'. It is where Cooper and his crew confront Dr. Mann, leading to a sequence of dramatic events that highlight themes of survival and sacrifice."
+    }
+  ],
+  "aliases": [
+    "Dr. Mann's Planet",
+    "The Ice Planet"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "planet",
+    "population": 1,
+    "discovered": "Unknown"
+  },
+  "tags": [
+    "planet",
+    "sci-fi",
+    "futuristic",
+    "Interstellar"
+  ]
+}

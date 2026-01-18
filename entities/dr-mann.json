@@ -1,0 +1,56 @@
+{
+  "id": "1229c5e0-8cd2-46fa-8b0c-55c6822f1f86",
+  "type": "character",
+  "name": "Dr. Mann",
+  "description": "Dr. Mann is a renowned scientist and astronaut in the movie 'Interstellar'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Dr. Mann was one of the twelve scientists who went on the Lazarus missions to find habitable worlds beyond our solar system. He was considered 'the best of us' by his peers and was a key figure due to his optimistic reports about his planet's viability as a new home for humanity."
+    },
+    {
+      "title": "Personality",
+      "body": "Dr. Mann is portrayed as intelligent and charismatic. However, his desperation and fear of dying alone make him succumb to unethical actions, showcasing his flaws and ultimately leading to his downfall."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Interstellar', Dr. Mann represents a core theme of the movie: the vast risks of relying on hope over hard data. His character serves as both a cautionary tale and a catalyst for the film's climax, highlighting the complexities of human survival instincts."
+    },
+    {
+      "title": "Relationships",
+      "body": "Dr. Mann initially had a strong professional relationship with Dr. Amelia Brand and Professor Brand, who respected and trusted his judgment. However, his later actions strained the trust between him and the rest of the crew."
+    },
+    {
+      "title": "Abilities",
+      "body": "Dr. Mann is highly skilled in astrophysics and survival strategies. His knowledge and expertise were crucial during the initial assessments of potential worlds in the Lazarus missions."
+    }
+  ],
+  "aliases": [
+    "Professor Mann"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "related_to",
+      "target": "a28b62e3-098c-4d5b-b47e-5c4e29e1c314"
+    },
+    {
+      "type": "related_to",
+      "target": "dee30356-293b-4b92-b489-7c13cbdb2308"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "astronaut, scientist",
+    "portrayed_by": "Matt Damon"
+  },
+  "tags": [
+    "antagonist",
+    "villain",
+    "scientist",
+    "astronaut"
+  ]
+}

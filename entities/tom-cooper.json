@@ -1,0 +1,52 @@
+{
+  "id": "1f02e131-f680-4aeb-991b-85ce3b0e0b17",
+  "type": "character",
+  "name": "Tom Cooper",
+  "description": "A farmer and former NASA pilot who becomes humanity's hope for survival.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Tom Cooper is the son of Joseph Cooper, also known as 'Cooper' or 'Coop', a former NASA pilot and engineer. Growing up in a dystopian future where Earth is plagued by blight and dust storms, Tom adapts to a life of farming. He takes on the responsibility of maintaining the family farm and caring for his family after Joseph leaves on a mission to find a new habitable planet for humanity."
+    },
+    {
+      "title": "Personality",
+      "body": "Tom Cooper exhibits a strong sense of duty and resilience, characteristics necessary for survival in the harsh climate of the future Earth. He is pragmatic and sometimes struggles with the emotional detachment required to make hard decisions for his family's welfare. Despite the challenges, he remains grounded in his family's legacy and the importance of their farm."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Interstellar', Tom represents the part of humanity that stays on Earth and continues the fight to survive amidst dwindling resources. His story arc intertwines with his father's journey through space, highlighting the struggle and tenacity of those left behind."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Joseph Cooper (Cooper)**: Tom's father, whose absence creates a significant emotional and physical void in Tom's life. Despite his father's departure to save humanity, Tom remains connected to Cooper's legacy through the farm.\n- **Murph**: Tom's sister, with whom he shares a complex relationship. Murph follows in their father's footsteps, becoming a scientist dedicated to solving Earth's crisis."
+    }
+  ],
+  "aliases": [
+    "Tom"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "related_to",
+      "target": "9d71539f-9a11-4259-825b-b7b6363a3469"
+    },
+    {
+      "type": "related_to",
+      "target": "c5f8d103-826e-410b-bb7b-30d8bbf3b5ba"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "farmer",
+    "born": 2035,
+    "portrayed_by": "Casey Affleck"
+  },
+  "tags": [
+    "protagonist",
+    "farmer",
+    "family-man"
+  ]
+}

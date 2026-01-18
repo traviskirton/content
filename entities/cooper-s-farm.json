@@ -1,0 +1,53 @@
+{
+  "id": "f5b8e5a1-62c3-4ad1-8dce-2b1a1ec58d62",
+  "type": "location",
+  "name": "Cooper's Farm",
+  "description": "A rural farm that is the home of the protagonist Cooper and his family in 'Interstellar'.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Cooper's Farm is a significant location in the movie 'Interstellar'. It is initially seen as a prospering farm owned by Cooper (Matthew McConaughey), his children Murph and Tom, and their grandfather Donald. The farm is part of the last remaining agricultural efforts as Earth struggles with a global food crisis due to environmental degradation."
+    },
+    {
+      "title": "Geography",
+      "body": "Located in a rural part of the United States, Cooper's Farm is characterized by vast fields of corn, which is one of the few remaining crops that can still be grown in the deteriorating climate. The landscape around the farm is flat and expansive, providing panoramic views of the sky, a crucial element in the film's aesthetic."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The farmhouse itself is a classic American farmstead, featuring a large house, a barn, a silo, and various farming equipment. The interiors of the farmhouse serve as key settings for family interactions and plot development throughout the film."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Cooper's Farm is central to both the personal and global stakes of the story. It represents Cooper's connection to his family and his past as a pilot. Key scenes that take place on the farm include Cooper's struggle with whether to leave for space exploration and the mysterious gravitational anomalies that hint at a larger cosmic mystery, eventually leading him to NASA. The farm is a metaphor for Earth's struggles and humanity's reliance on agriculture."
+    }
+  ],
+  "aliases": [
+    "The Farm"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "contains",
+      "target": "1f02e131-f680-4aeb-991b-85ce3b0e0b17"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "farm",
+    "founded": "unknown",
+    "population": 4
+  },
+  "tags": [
+    "farm",
+    "rural",
+    "sci-fi",
+    "futuristic"
+  ]
+}

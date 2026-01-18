@@ -1,0 +1,44 @@
+{
+  "id": "e8b08e64-1f5b-4cee-aabe-b802d5a09512",
+  "type": "location",
+  "name": "Miller's Planet",
+  "description": "A water-covered planet that experiences severe time dilation due to its proximity to a supermassive black hole.",
+  "content": [
+    {
+      "title": "History",
+      "body": "**Miller's Planet** was discovered during the Lazarus missions as part of an exploratory effort to find habitable planets for humanity's survival. It was named after Dr. Laura Miller, one of the astronauts who led the mission to the planet."
+    },
+    {
+      "title": "Geography",
+      "body": "Miller's Planet is mostly covered in shallow water with massive tidal waves caused by its close orbit to the supermassive black hole Gargantua, which influences the planet's gravitational dynamics."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The planet is known for its enormous tidal waves, which reach up to several kilometers in height. These waves are regularly observed due to the planet's rotation and gravitational influences from Gargantua."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Miller's Planet is a critical setting in *Interstellar*. The exploration team led by Cooper lands on the planet to retrieve data from Dr. Miller but encounter a perilous situation due to the time dilation effect, leading to the loss of precious time and resources."
+    }
+  ],
+  "aliases": [
+    "Waterworld"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "planet",
+    "founded": "unknown"
+  },
+  "tags": [
+    "planet",
+    "sci-fi",
+    "futuristic",
+    "appearance in Interstellar"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "5e7d1be7-9085-4c3c-b89f-3c3b162727c3",
+  "type": "vehicle",
+  "name": "Ranger",
+  "description": "The Ranger is a multipurpose spacecraft used in the film Interstellar.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The **Ranger** is a spacecraft featured in the movie *Interstellar*. It is designed for atmospheric entry and space travel, serving as a shuttle between Earth, space stations, and various planetary bodies. Its primary purpose is to facilitate exploration and transportation in the mission to find a new home for humanity."
+    },
+    {
+      "title": "Design",
+      "body": "The Ranger has a sleek, aerodynamic design optimized for atmospheric entry and exit. It is equipped with powerful thrusters and advanced avionics, allowing it to maneuver in both atmospheric and space environments. The interior is functional yet minimalistic, designed to accommodate a small crew and essential equipment."
+    },
+    {
+      "title": "Capabilities",
+      "body": "The Ranger is capable of high-speed space travel and can withstand the harsh conditions of different planetary atmospheres. It is equipped with advanced navigation systems, making it suitable for both short and long-range missions. Its design allows it to dock with larger spacecraft like the Endurance."
+    },
+    {
+      "title": "History",
+      "body": "The Rangers were built by NASA as part of the Lazarus missions as well as the later expedition led by Cooper. They were crucial for the exploration of planets beyond the wormhole near Saturn, enabling the crew to land and take off from surfaces with varying gravitational conditions."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In *Interstellar*, the Ranger plays a pivotal role in transporting the crew of the Endurance to the surface of planets explored as potential new homes for humanity. The Rangers are vital in key scenes, such as the docking sequence with the Endurance and various planetary landings, contributing significantly to the film's intense and dramatic moments."
+    }
+  ],
+  "aliases": [
+    "Interstellar Ranger"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "owned_by",
+      "target": "dee30356-293b-4b92-b489-7c13cbdb2308"
+    },
+    {
+      "type": "piloted_by",
+      "target": "c5f8d103-826e-410b-bb7b-30d8bbf3b5ba"
+    }
+  ],
+  "properties": {
+    "vehicle_type": "spacecraft",
+    "manufacturer": "NASA",
+    "model": "Ranger",
+    "fictional": true
+  },
+  "tags": [
+    "spacecraft",
+    "sci-fi",
+    "exploration",
+    "Interstellar"
+  ]
+}

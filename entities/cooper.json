@@ -1,0 +1,52 @@
+{
+  "id": "c5f8d103-826e-410b-bb7b-30d8bbf3b5ba",
+  "type": "character",
+  "name": "Cooper",
+  "description": "A former NASA pilot and engineer who becomes the leader of a mission to find a new habitable planet for humanity.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Cooper is a former NASA pilot and engineer who has become a farmer after the collapse of NASA due to a global food crisis and environmental degradation on Earth. He lives with his father-in-law Donald, his daughter Murph, and his son Tom. Despite being passionate about his life as an engineer, his current lifestyle is dictated by the needs of his family and the failing planet."
+    },
+    {
+      "title": "Personality",
+      "body": "Cooper is intelligent, resourceful, and deeply caring for his family. He is driven by a strong sense of duty and responsibility for the future of his children and humanity. His determination often leads him to take significant risks, but his empathy and ability to see the bigger picture guide his decisions. He is also characterized by a sense of wonder and curiosity about space and exploration."
+    },
+    {
+      "title": "Story Role",
+      "body": "As the protagonist of \"Interstellar,\" Cooper is the primary driver of the plot. He is chosen to lead the mission through a wormhole to find a new habitable planet for humanity. Throughout the film, Cooper's character arc follows his journey from Earth to distant galaxies and eventually into a timeless realm, where he communicates with his daughter Murph to help save humanity. His story emphasizes themes of love, sacrifice, and the enduring human spirit."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Murph (Daughter)**: Cooper shares a deep bond with his daughter Murph, which drives many of his actions and decisions throughout the film. Despite the vast distances that separate them, their connection remains a pivotal element of the narrative.\n- **Brand (Colleague)**: Amelia Brand is a fellow scientist and astronaut on the mission. Their professional relationship develops into mutual respect as they face the challenges of the journey together.\n- **Donald (Father-in-law)**: Although having a respectful relationship, Donald serves as a grounding force for Cooper's family, especially in Coop's absence.\n- **Tom (Son)**: Cooper's relationship with Tom is also significant, symbolizing his connection to what he leaves behind on Earth."
+    },
+    {
+      "title": "Abilities",
+      "body": "Cooper is highly skilled as a pilot and engineer, capable of maneuvering spacecraft and solving complex technical problems. His training allows him to make crucial decisions under pressure, and his knowledge of space exploration is vital to the mission's success."
+    }
+  ],
+  "aliases": [
+    "Joseph Cooper"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "ae2541d3-fd8b-4839-a91b-f8c8bdf5ef87"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Pilot, Engineer, Farmer",
+    "born": "Unknown (21st century)"
+  },
+  "tags": [
+    "protagonist",
+    "hero",
+    "time-traveler",
+    "scientist"
+  ]
+}

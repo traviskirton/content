@@ -1,0 +1,52 @@
+{
+  "id": "9d71539f-9a11-4259-825b-b7b6363a3469",
+  "type": "character",
+  "name": "Murph",
+  "description": "Murph is a brilliant scientist and the daughter of Cooper, playing a crucial role in saving humanity in the film 'Interstellar'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Murph, short for Murphy Cooper, is the daughter of Joseph Cooper (Cooper), the protagonist of 'Interstellar'. Growing up on a farm, she exhibits a keen interest in science from an early age, encouraged by her father. Her upbringing is marked by a profound bond with Cooper and a fascination with the mysteries of the universe, which drive her later achievements in the field of quantum physics."
+    },
+    {
+      "title": "Personality",
+      "body": "Murph is highly intelligent, driven, and determined. She has a deep sense of empathy and is motivated by a strong desire to solve the mysteries of the universe to save humanity. Her resilience and passion for science are coupled with an emotional strength rooted in her relationship with her father."
+    },
+    {
+      "title": "Story Role",
+      "body": "Murph serves as one of the central characters in 'Interstellar'. Her scientific discoveries are pivotal to humanity's survival, as she develops the gravitational theory that allows humans to leave Earth. Her narrative arc spans from childhood curiosity to scientific leadership, reflecting themes of family, sacrifice, and hope."
+    },
+    {
+      "title": "Relationships",
+      "body": "Murph's primary relationship is with her father, Cooper. Their bond is a driving force in the film, encapsulated in Murph's dedication to solving the gravitational problem and her father's journey through the wormhole. She also has a complex relationship with Professor Brand, who mentors her in her scientific career."
+    },
+    {
+      "title": "Abilities",
+      "body": "Murph is a highly skilled physicist with expertise in quantum mechanics and gravitational science. Her intellectual prowess and problem-solving abilities are critical in resolving the film's central scientific dilemma."
+    }
+  ],
+  "aliases": [
+    "Murphy Cooper"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "related_to",
+      "target": "c996eace-3e79-4b50-bb5c-5f6f8783f77d"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "physicist",
+    "portrayed_by": "Jessica Chastain"
+  },
+  "tags": [
+    "protagonist",
+    "scientist",
+    "time-traveler",
+    "hero"
+  ]
+}

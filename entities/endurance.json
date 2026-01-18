@@ -1,0 +1,61 @@
+{
+  "id": "f1d2f3a4-567b-4c41-a7cd-12e3a456789f",
+  "type": "vehicle",
+  "name": "Endurance",
+  "description": "A massive spacecraft used for interstellar travel in the movie 'Interstellar'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Endurance** is a spaceship featured in the film *Interstellar*. Its primary purpose is to facilitate interstellar travel to find a new habitable planet for humanity."
+    },
+    {
+      "title": "Design",
+      "body": "The **Endurance** has a distinctive ring design with 12 modules, including four primary living quarters, and functions as a space station. Its appearance is inspired by the simplicity of a wheel with a central axle, giving it a rotational gravity system."
+    },
+    {
+      "title": "Capabilities",
+      "body": "The **Endurance** is capable of both atmospheric entry and long-duration space travel. It can maintain artificial gravity through rotation, carry a large crew, and is equipped with advanced scientific laboratories, a hydroponics bay, and multiple docking ports for on-board shuttles such as the [Ranger](#) and [Lander](#)."
+    },
+    {
+      "title": "History",
+      "body": "Manufactured by NASA, the **Endurance** becomes critical in the mission to explore new worlds beyond our solar system via the wormhole near Saturn. It is pivotal in executing the Lazarus missions and later hosting the crew led by Joseph Cooper."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Throughout *Interstellar*, the **Endurance** serves multiple roles: as a home in space for the crew, a laboratory for their experiments, and a means to reach various planets. Key scenes involve its arrival at and departure from planets, the docking sequences, and its survival through a black hole maneuver."
+    }
+  ],
+  "aliases": [
+    "Interstellar Spaceship",
+    "NASA Space Station"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "owned_by",
+      "target": "82f4eef8-b309-4b98-8c86-1338da56a582"
+    },
+    {
+      "type": "piloted_by",
+      "target": "c5f8d103-826e-410b-bb7b-30d8bbf3b5ba"
+    },
+    {
+      "type": "created_by",
+      "target": "dee30356-293b-4b92-b489-7c13cbdb2308"
+    }
+  ],
+  "properties": {
+    "vehicle_type": "spaceship",
+    "manufacturer": "NASA",
+    "fictional": true
+  },
+  "tags": [
+    "spaceship",
+    "sci-fi",
+    "space-travel",
+    "interstellar"
+  ]
+}

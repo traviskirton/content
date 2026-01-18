@@ -2,19 +2,19 @@
   "id": "ecf87b10-d3f5-4832-9c1a-3e1bfaea6abc",
   "type": "location",
   "name": "Los Angeles",
-  "description": "A major city in California known for its role as a hub of the film industry.",
+  "description": "A major city known for its role in the film and entertainment industry.",
   "content": [
     {
       "title": "Overview",
-      "body": "Los Angeles is a sprawling Southern California city and the center of the nation’s film and television industry. It's known for its Mediterranean climate, ethnic diversity, and bustling metropolitan area."
+      "body": "**Los Angeles** is a city in California, USA, and is widely recognized as the entertainment capital of the world. It is home to Hollywood, numerous film studios, and entertainment companies, making it a central hub for the film and television industry."
     },
     {
       "title": "Film History",
-      "body": "Los Angeles has been the backdrop for numerous iconic films and television series owing to its rich array of unique locations and industry infrastructure.\n\n- **Hollywood Sign**: Symbol of the entertainment industry, featured in numerous movies such as \"The Day After Tomorrow\" and \"Mulholland Drive\".\n- **Griffith Observatory**: Seen in films such as \"Rebel Without a Cause\" and \"La La Land\".\n- **Union Station**: This location doubled for many types of scenes, from period settings to futuristic environments, appearing in \"Blade Runner\", \"Catch Me If You Can\", and \"The Dark Knight Rises\".\n- **Santa Monica Pier**: Featured in \"Forrest Gump\" and countless other films and TV shows.\n\nLos Angeles is also home to major film studios like Universal Studios Hollywood, Warner Bros., and Paramount Pictures, which have produced thousands of films and TV shows."
+      "body": "Los Angeles has been the backdrop for countless films and television shows. Some iconic movies filmed here include `Chinatown`, `Pulp Fiction`, and films within the `Batman` franchise. Notable scenes include downtown Los Angeles for futuristic cityscapes and various neighborhoods for diverse cultural settings."
     },
     {
       "title": "Visiting",
-      "body": "As a vibrant city with a deep connection to the film industry, Los Angeles offers public access to several iconic sites:\n\n- **Hollywood Walk of Fame**: Open to the public and ideal for walking tours.\n- **Universal Studios Hollywood**: Theme park and studio offering tours of film sets.\n- **Griffith Observatory**: Offers public telescopes, a planetarium, exhibitions, and programs free to visitors.\n\nMany studios in Los Angeles offer tours, providing insights into the making of movies and TV shows."
+      "body": "Los Angeles is highly accessible to the public with many studios offering tours, such as Warner Bros. Studios Burbank and Universal Studios Hollywood. Visitors can also explore iconic locations like the Walk of Fame, the TCL Chinese Theatre, and the Hollywood Sign."
     }
   ],
   "aliases": [
@@ -47,6 +47,7 @@
     "city",
     "active",
     "public",
+    "tours-available",
     "entertainment"
   ]
 }

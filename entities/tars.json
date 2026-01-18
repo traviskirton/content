@@ -1,0 +1,53 @@
+{
+  "id": "c5637766-14da-4d3d-9ff3-c4973a3d5c50",
+  "type": "character",
+  "name": "TARS",
+  "description": "TARS is a witty and versatile robot assisting the crew in the film 'Interstellar'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "TARS is a former Marine Corps robot that has been repurposed for space missions. Built for military purposes, TARS and another similar robot, CASE, were part of their respective crews during the mission to find a habitable planet outside Earth's solar system."
+    },
+    {
+      "title": "Personality",
+      "body": "TARS is known for its humor and wit, often engaging in banter with the human crew members. With a built-in sarcasm setting, TARS can adjust its humor level on request. Despite being a machine, TARS displays a level of camaraderie and emotional understanding, making it a valued companion to its human counterparts."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Interstellar,' TARS plays a crucial role in assisting the crew of the Endurance spacecraft by helping solve complex calculations, piloting duties, and operational support during critical mission phases. TARS' loyalty and selflessness are evident when it risks itself for the safety and success of the mission, especially during the climactic docking scene with the spinning Endurance."
+    },
+    {
+      "title": "Abilities",
+      "body": "TARS is equipped with various abilities: \n- **Multi-Functionality:** Capable of performing numerous functions, from piloting to calculating complex data.\n- **Physical Strength:** Can morph into different modes for movement or strength tasks.\n- **Humor and Sarcasm Settings:** Provides emotional support through customizable communication.\n- **Advanced AI:** Capable of independent thought, decision-making, and learning."
+    }
+  ],
+  "aliases": [
+    "Tactical Aerial Reconnaissance Satellite"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "friends_with",
+      "target": "c5d8e1f3-8c6f-47aa-bb98-23f0c8e8c5d1"
+    },
+    {
+      "type": "friends_with",
+      "target": "a28b62e3-098c-4d5b-b47e-5c4e29e1c314"
+    }
+  ],
+  "properties": {
+    "species": "robot",
+    "occupation": "mission support robot",
+    "portrayed_by": "Bill Irwin (voice and puppeteering)"
+  },
+  "tags": [
+    "supporting",
+    "comic-relief",
+    "robot",
+    "loyal",
+    "witty"
+  ]
+}

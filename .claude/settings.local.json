@@ -3,7 +3,9 @@
     "allow": [
       "Bash(source ~/.zshrc)",
       "Bash(./generate-bttf.sh:*)",
-      "Bash(./generate-bttf2.sh)"
+      "Bash(./generate-bttf2.sh)",
+      "Bash(git remote set-url:*)",
+      "Bash(git push:*)"
     ]
   }
 }

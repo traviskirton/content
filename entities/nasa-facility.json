@@ -1,0 +1,49 @@
+{
+  "id": "82f4eef8-b309-4b98-8c86-1338da56a582",
+  "type": "location",
+  "name": "NASA Facility",
+  "description": "The hidden NASA base where crucial operations for humanity's survival in 'Interstellar' are held.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The NASA Facility, also known as the underground NASA base, was secretly re-established to find a new habitable planet for humanity as Earth becomes increasingly uninhabitable. Despite being officially disbanded, NASA continued its operations in secrecy to prevent widespread panic and to focus on Plan A and Plan B of saving humanity."
+    },
+    {
+      "title": "Geography",
+      "body": "The facility is located underground and camouflaged as a mundane building to avoid detection. It exists in a remote region with no specific name mentioned, somewhere in the United States."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **Mission Control Room**: The heart of operations where missions are monitored and controlled.\n- **Research and Development Areas**: Facilities dedicated to scientific research critical for the success of the Lazarus missions.\n- **Launch Pads**: Areas for spacecraft launch preparations.\n- **Living Quarters**: Accommodations for personnel working continuously on the project."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The NASA Facility plays a vital role in 'Interstellar' as it is where Cooper (Matthew McConaughey) is recruited into the Endurance mission to find a new world for humanity. It serves as the starting point of the space journey, highlighting the desperation and hopes pinned on space exploration for survival."
+    }
+  ],
+  "aliases": [
+    "NASA base",
+    "NASA headquarters"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "population": "Classified",
+    "founded": "Mid-21st century",
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "sci-fi",
+    "futuristic"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "483776d3-066e-4f0b-b360-33507a5c8a55",
+  "type": "location",
+  "name": "Edmund's Planet",
+  "description": "A fictional planet appearing in the movie 'Interstellar'.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Edmund's Planet was one of the potential new home worlds explored by the crew of the Endurance spacecraft in 'Interstellar'. It was named after Dr. Wolf Edmunds, a scientist who was part of the original team sent to inhabit potential habitable planets."
+    },
+    {
+      "title": "Geography",
+      "body": "The planet features rugged terrain with mountains and rock formations. It is bathed in natural daylight, suggesting a stable star system. It is mentioned to be similar to Earth in its capacity to support human life."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Edmund's Planet is known for its harsh landscape, making it a challenging environment for human habitation. It does not have any structures when first visited, as the initial mission was presumed lost."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'Interstellar', Edmund's Planet is significant as it becomes the final destination for humanity's colonization efforts. Dr. Brand chooses this planet to begin a new human colony, continuing the work that Edmunds started and fulfilling the mission's primary goal."
+    }
+  ],
+  "aliases": [
+    "Planet Edmunds"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "planet"
+  },
+  "tags": [
+    "planet",
+    "sci-fi",
+    "futuristic"
+  ]
+}

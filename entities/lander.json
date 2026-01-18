@@ -1,0 +1,53 @@
+{
+  "id": "bfe7bff2-d5d9-4b8a-a972-477b0a20e038",
+  "type": "vehicle",
+  "name": "Lander",
+  "description": "The Lander is a versatile spacecraft used for planetary landings in the movie 'Interstellar'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Lander** is a spacecraft designed for the primary purpose of planetary landings, utilized during interstellar missions to explore extraterrestrial planets and establish bases."
+    },
+    {
+      "title": "Design",
+      "body": "The Lander is squat and robust, with a utilitarian design focused on functionality over aesthetics. It has a blocky shape to maximize interior space and is equipped with landing gear capable of stabilizing the craft on uneven terrain."
+    },
+    {
+      "title": "Capabilities",
+      "body": "The Lander is equipped with thrusters and a propulsion system designed to facilitate planetary takeoff and landing. It can hold several crew members and cargo, ensuring that it can support extended missions on a planet's surface."
+    },
+    {
+      "title": "History",
+      "body": "In the narrative of 'Interstellar', the Lander was built by NASA as part of the Endurance mission, developed to navigate and study potentially habitable planets identified through the wormhole near Saturn."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Lander plays a critical role during key moments of 'Interstellar', particularly during the exploration of Miller's and Mann's planets. It is crucial for deploying crew members and materials necessary for planetary exploration and rescue operations."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "piloted_by",
+      "target": "c5f8d103-826e-410b-bb7b-30d8bbf3b5ba"
+    },
+    {
+      "type": "piloted_by",
+      "target": "a28b62e3-098c-4d5b-b47e-5c4e29e1c314"
+    }
+  ],
+  "properties": {
+    "vehicle_type": "spacecraft",
+    "manufacturer": "NASA",
+    "fictional": true
+  },
+  "tags": [
+    "spacecraft",
+    "sci-fi",
+    "flying"
+  ]
+}

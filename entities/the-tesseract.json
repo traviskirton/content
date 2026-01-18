@@ -1,0 +1,48 @@
+{
+  "id": "7d47ad65-f689-4e0a-8ac1-f6e4be29f642",
+  "type": "location",
+  "name": "The Tesseract",
+  "description": "A five-dimensional space created by advanced beings where time is a physical dimension.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Tesseract is a construct created by advanced beings referred to as \"they,\" who have mastered the fifth dimension and the understanding of time as a physical dimension. It is specifically tailored for Cooper, the protagonist, to interact with the timeline of his daughter, Murph."
+    },
+    {
+      "title": "Geography",
+      "body": "The Tesseract exists within the supermassive black hole Gargantua, in the outer reaches of the universe. It defies typical spatial geography, allowing individuals to move through time as if it were a spatial dimension."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The Tesseract is characterized by an endless array of bookshelves, each representing different points in time in Murph's bedroom on Earth. This construct allows manipulation of gravity and light to send messages across different points in time."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Tesseract plays a crucial role in the climax of 'Interstellar.' It allows Cooper to communicate with Murph across time, providing her with the critical data needed to save humanity by manipulating the gravitational anomaly in her room. Cooper’s interaction with The Tesseract reveals that human understanding and love transcend time and dimensions."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "located_in",
+      "target": "e7ad8f76-2e9f-4c9d-8059-9f3a60b7eacb"
+    },
+    {
+      "type": "contains",
+      "target": "9d71539f-9a11-4259-825b-b7b6363a3469"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "dimension"
+  },
+  "tags": [
+    "dimension",
+    "sci-fi",
+    "futuristic"
+  ]
+}

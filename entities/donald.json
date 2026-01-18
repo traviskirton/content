@@ -1,0 +1,60 @@
+{
+  "id": "6143f888-086b-49dc-bf9e-eb039c5b1e66",
+  "type": "character",
+  "name": "Donald",
+  "description": "A supportive character in 'Interstellar', providing familial stability.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Donald is the father-in-law of Cooper, one of the central characters in *Interstellar*. He helps raise Cooper's two children, Murph and Tom, during a time when Earth is suffering from ecological collapse."
+    },
+    {
+      "title": "Personality",
+      "body": "Donald is portrayed as a wise and practical man, grounded in reality. He often provides perspective and guidance to Cooper and his grandchildren. Despite facing tough times, he maintains his sense of humor and an optimistic outlook on life."
+    },
+    {
+      "title": "Story Role",
+      "body": "Donald serves as a stabilizing force for the family when Cooper is occupied with his astronautical pursuits. He takes care of Murph and Tom, demonstrating resilience and dedication in the face of adversity."
+    },
+    {
+      "title": "Relationships",
+      "body": "Donald has a close relationship with Cooper, acting as a paternal figure and confidant. He shares a warm bond with his grandchildren, Murph and Tom, often filling a crucial role in their upbringing."
+    },
+    {
+      "title": "Portrayed By",
+      "body": "John Lithgow"
+    }
+  ],
+  "aliases": [
+    "Grandpa Donald"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "related_to",
+      "target": "9d71539f-9a11-4259-825b-b7b6363a3469"
+    },
+    {
+      "type": "related_to",
+      "target": "1f02e131-f680-4aeb-991b-85ce3b0e0b17"
+    },
+    {
+      "type": "related_to",
+      "target": "c5f8d103-826e-410b-bb7b-30d8bbf3b5ba"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "farmer",
+    "portrayed_by": "John Lithgow"
+  },
+  "tags": [
+    "supporting",
+    "mentor",
+    "family",
+    "farmer"
+  ]
+}

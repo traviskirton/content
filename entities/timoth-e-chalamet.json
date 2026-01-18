@@ -28,23 +28,11 @@
   "relationships": [
     {
       "type": "worked_with",
-      "target": "2d4f-43b7-ae9b-2f8e2c926d9e"
-    },
-    {
-      "type": "worked_with",
       "target": "e6dd9f4d-04b5-4f36-aad6-60d3ba7e1c8b"
     },
     {
       "type": "acted_in",
-      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
-    },
-    {
-      "type": "acted_in",
       "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
-    },
-    {
-      "type": "acted_in",
-      "target": "a7c4-4b8f-9b34-8c9f9a883642"
     }
   ],
   "properties": {

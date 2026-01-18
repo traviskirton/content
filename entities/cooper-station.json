@@ -1,0 +1,41 @@
+{
+  "id": "4d2f4489-8b97-4d16-8d2b-5ad7a1e0f2ad",
+  "type": "location",
+  "name": "Cooper Station",
+  "description": "A massive cylindrical space station orbiting Saturn, designed to simulate Earth's gravitational and living conditions.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Cooper Station was named after Joseph Cooper, the protagonist of 'Interstellar,' as a tribute to his contributions in finding a new home for humanity. It represents a new beginning for the human race after Earth was rendered inhospitable. This space station marked a significant achievement in humanity's struggle to survive beyond Earth."
+    },
+    {
+      "title": "Geography",
+      "body": "Cooper Station is a massive cylindrical space station situated in orbit around Saturn. It is structured to replicate Earth-like living conditions, complete with land, water, and an artificially created sky."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The station is notable for its rotating cylindrical design, which creates artificial gravity through centripetal force. Interior sections resemble terrestrial environments, including farmlands and small towns. The station offers a visually seamless blend of natural and technological elements, enhancing its livability."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'Interstellar,' Cooper Station symbolizes hope and survival for humanity. It is where Cooper reunites with his daughter, Murph, as an old woman, marking a personal closure to his journey. The station also represents the successful outcome of the missions initiated by Professor Brand and NASA to find a sustainable habitat for humans."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "space station",
+    "population": "Tens of thousands"
+  },
+  "tags": [
+    "space station",
+    "sci-fi",
+    "futuristic"
+  ]
+}
