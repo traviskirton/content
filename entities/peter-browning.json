@@ -1,0 +1,45 @@
+{
+  "id": "f0f7d9c8-60e2-48e0-bc6b-8f1d69a7e094",
+  "type": "character",
+  "name": "Peter Browning",
+  "description": "A key executive within Fischer Morrow, tasked with influencing Robert Fischer's decisions.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "**Peter Browning** is the godfather of Robert Fischer and a senior executive at Fischer Morrow, the multi-billion dollar corporation founded by Maurice Fischer. Browning is deeply involved in the business operations and has a vested interest in its continuation."
+    },
+    {
+      "title": "Personality",
+      "body": "Peter Browning is depicted as a loyal and strategic individual, prioritizing the interests of Fischer Morrow. He possesses a strong sense of duty towards the company's legacy, doing whatever it takes to protect and guide Robert Fischer in order to sustain the business."
+    },
+    {
+      "title": "Story Role",
+      "body": "In the film \"Inception,\" Peter Browning is a crucial character whose influence over Robert Fischer must be altered. The team led by Dom Cobb impersonates him during the inception to plant the idea that Robert should dissolve his father's empire."
+    },
+    {
+      "title": "Relationships",
+      "body": "Peter Browning is the godfather to Robert Fischer, signifying a close personal and business relationship. He is seen as a protective figure, attempting to guide Robert in his professional journey. Browning’s loyalty to Fischer Morrow’s success is evident through his actions and counsel."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "related_to",
+      "target": "313ac328-39d7-41fd-8c99-873c56ba6883"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Executive at Fischer Morrow",
+    "portrayed_by": "Tom Berenger"
+  },
+  "tags": [
+    "supporting",
+    "executive",
+    "loyal",
+    "strategic"
+  ]
+}

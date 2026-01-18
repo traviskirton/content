@@ -2,57 +2,54 @@
   "id": "bffa1c16-ee57-490e-8704-bf801c3b7f33",
   "type": "person",
   "name": "Marion Cotillard",
-  "description": "Acclaimed French actress known for her versatile performances and international recognition.",
+  "description": "French actress known for her versatile roles and critically acclaimed performances.",
   "content": [
     {
       "title": "Biography",
-      "body": "Marion Cotillard was born in 1975 in Paris, France. She began her acting career in the 1990s, appearing in French cinema and television. Over the years, she has gained a reputation for her ability to embody complex and diverse characters."
+      "body": "Marion Cotillard was born on September 30, 1975, in Paris, France. She grew up in an artistic household, which fostered her interest in the performing arts from a young age. Cotillard began her acting career in the mid-1990s with minor roles in French television and film, gaining recognition for her talent and versatility."
     },
     {
       "title": "Career",
-      "body": "Cotillard achieved international fame with her Oscar-winning performance as Édith Piaf in *La Vie en Rose* (2007). Her career spans both French and American cinema, with notable films including *Inception*, *The Dark Knight Rises*, and *Two Days, One Night*. She is renowned for her intense preparation and commitment to her roles."
+      "body": "Marion Cotillard achieved international acclaim with her role as Édith Piaf in the 2007 film *La Vie en Rose*, for which she won the Academy Award for Best Actress. Known for her transformative performances, Cotillard has starred in a variety of genres, from blockbuster films like *Inception* to intense dramas like *Rust and Bone*. Her approach is described as deeply immersive, often involving significant research and method acting techniques."
     },
     {
       "title": "Notable Collaborations",
-      "body": "Marion Cotillard has collaborated frequently with director Christopher Nolan, starring in films like *Inception* and *The Dark Knight Rises*. She has also worked with esteemed directors such as the Dardenne brothers and Jacques Audiard."
+      "body": "Marion Cotillard has frequently collaborated with esteemed director Christopher Nolan, appearing in films such as *Inception* and *The Dark Knight Rises*. Her other notable collaborations include working with directors like Tim Burton and the Dardenne brothers."
     },
     {
       "title": "Legacy",
-      "body": "Marion Cotillard is considered one of the finest actresses of her generation, winning numerous awards, including an Academy Award, a Golden Globe, and a BAFTA. Her work is celebrated for its emotional depth and range, and she continues to be a significant influence in both European and Hollywood cinema."
+      "body": "Cotillard's impact on the film industry is marked by her ability to cross over from French cinema to Hollywood while maintaining critical acclaim in both arenas. She has received numerous awards, including a BAFTA, a Golden Globe, and multiple César Awards. Her portrayal of Édith Piaf remains one of the most celebrated performances in modern cinema."
     }
   ],
-  "properties": {
-    "born": 1975,
-    "nationality": "French",
-    "occupation": [
-      "actor",
-      "musician"
-    ],
-    "active_years": "1993-present"
-  },
+  "aliases": [
+    "Marion Cotillard"
+  ],
   "relationships": [
     {
       "type": "acted_in",
-      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+      "target": "2b6f3c50-41cf-4bd4-b5a4-981fbf250bdf"
     },
     {
       "type": "acted_in",
-      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
-    },
-    {
-      "type": "act_in",
-      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
     },
     {
       "type": "worked_with",
       "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     }
   ],
+  "properties": {
+    "born": "1975",
+    "nationality": "French",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1993-present"
+  },
   "tags": [
     "actor",
     "drama",
     "thriller",
-    "modern",
-    "french-cinema"
+    "modern"
   ]
 }

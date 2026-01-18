@@ -1,0 +1,57 @@
+{
+  "id": "223f44e1-6a1e-4026-891c-e560f5657eb4",
+  "type": "person",
+  "name": "Lukas Haas",
+  "description": "American actor and musician known for his roles in major films like 'Witness' and 'Inception'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "**Lukas Daniel Haas** was born on April 16, 1976, in West Hollywood, California, USA. He began his acting career at a young age, with one of his earliest roles being in the 1985 film 'Witness', where he played an Amish boy opposite Harrison Ford. This role helped to establish him as a talented child actor with a promising future."
+    },
+    {
+      "title": "Career",
+      "body": "Lukas Haas has had a diverse career in both film and television. He gained fame as a child actor and smoothly transitioned into adult roles. Some of his major works include:\n\n- **'Witness' (1985)**: His breakout role as the young Amish boy, Samuel.\n- **'Mars Attacks!' (1996)**: A satirical science fiction film directed by Tim Burton.\n- **'Inception' (2010)**: A science fiction film directed by Christopher Nolan, where he played the character Nash.\n\nBeyond acting, Haas is also a musician and has performed with various bands."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Throughout his career, Lukas Haas has worked with many acclaimed directors and actors. Some notable collaborations include:\n\n- **Harrison Ford** in 'Witness'.\n- **Tim Burton** in 'Mars Attacks!'.\n- **Christopher Nolan** in 'Inception' alongside actors such as Leonardo DiCaprio and Joseph Gordon-Levitt."
+    },
+    {
+      "title": "Legacy",
+      "body": "Lukas Haas is recognized for his ability to transition from child actor to adult roles successfully. He continues to contribute to the film industry with his versatile performances. Although he has not won major awards, his work, particularly in films like 'Witness' and 'Inception', remains influential."
+    }
+  ],
+  "aliases": [
+    "Lukas Daniel Haas"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "worked_with",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    }
+  ],
+  "properties": {
+    "born": 1976,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "musician"
+    ],
+    "active_years": "1983-present"
+  },
+  "tags": [
+    "actor",
+    "musician",
+    "drama",
+    "sci-fi",
+    "modern"
+  ]
+}

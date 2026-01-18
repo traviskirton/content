@@ -1,0 +1,69 @@
+{
+  "id": "48c1a68f-d1b9-471f-9c92-23c5ae8d321c",
+  "type": "item",
+  "name": "PASIV Device",
+  "description": "A portable device used to share dreams in the film \"Inception.\"",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The **PASIV Device**, short for Portable Automated Somnacin IntraVenous, is a device used to facilitate shared dreaming in the film \"Inception.\" Its primary purpose is to enable multiple users to enter and interact within a common dream space."
+    },
+    {
+      "title": "Appearance",
+      "body": "The PASIV Device is a metallic briefcase containing several tubes and a single button panel. It houses complex mechanics that dispense a sedative known as Somnacin."
+    },
+    {
+      "title": "Function",
+      "body": "The device works by intravenously administering the Somnacin sedative to all connected users. By activating the device, the users' consciousnesses are linked, allowing them to collectively experience the same dream environment."
+    },
+    {
+      "title": "History",
+      "body": "The PASIV Device is a fictional creation within the \"Inception\" universe. It was developed for military purposes to train soldiers using shared dream states."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The PASIV Device is central to the narrative of \"Inception,\" allowing characters to perform \"extractions\" and the titular \"inception.\" Key scenes involve the team using this device to penetrate the subconscious layers of their target, Robert Fischer."
+    }
+  ],
+  "aliases": [
+    "Portable Automated Somnacin IntraVenous Device"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "used_by",
+      "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
+    },
+    {
+      "type": "used_by",
+      "target": "cc738e81-1850-4c8a-a04e-75216c6f8968"
+    },
+    {
+      "type": "used_by",
+      "target": "83957e7c-4ff2-4e2f-b2f3-1b3a9b4e3c2a"
+    },
+    {
+      "type": "used_by",
+      "target": "c9e5f16a-d3cb-42cd-aaf5-3742bbd62cd9"
+    },
+    {
+      "type": "created_by",
+      "target": "c5f8d103-826e-410b-bb7b-30d8bbf3b5ba"
+    }
+  ],
+  "properties": {
+    "item_type": "device",
+    "created_by": "Yusuf",
+    "fictional": true
+  },
+  "tags": [
+    "device",
+    "technology",
+    "sci-fi",
+    "dream-sharing",
+    "inception"
+  ]
+}

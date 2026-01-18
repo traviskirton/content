@@ -1,0 +1,45 @@
+{
+  "id": "a7f5b313-55b9-4f5d-9b74-7d2f2ddcbd0d",
+  "type": "location",
+  "name": "Tangier",
+  "description": "A vibrant, historical city in Morocco that has been a popular filming location for numerous films.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Tangier** is a port city in **Morocco**, known for its rich history, diverse culture, and beautiful landscapes. Located on the Moroccan coast at the western entrance to the Strait of Gibraltar, where the Mediterranean Sea meets the Atlantic Ocean, it has served as a strategic gateway between Europe and Africa for centuries."
+    },
+    {
+      "title": "Film History",
+      "body": "Tangier has been a popular filming location due to its unique scenery and exotic atmosphere. Notably, Tangier served as a filming location for movies such as **'Inception'** where scenes depicting chase sequences and bustling markets were captured, providing an esoteric background that complemented the film's narrative."
+    },
+    {
+      "title": "Visiting",
+      "body": "Tangier is open to the public and is accessible year-round. Visitors can enjoy tours of its historic sites, including the Kasbah Museum and the American Legation. The city is well-connected by international flights and ferries from Spain, making it a convenient destination for travelers."
+    }
+  ],
+  "aliases": [
+    "Tanger"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "country": "Morocco",
+    "coordinates": {
+      "latitude": 35.7595,
+      "longitude": -5.834
+    }
+  },
+  "tags": [
+    "city",
+    "active",
+    "public",
+    "tours-available",
+    "filming-location"
+  ]
+}

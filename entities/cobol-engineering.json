@@ -1,0 +1,49 @@
+{
+  "id": "b674c306-a2d7-4c8d-9391-cf3a06796c4d",
+  "type": "organization",
+  "name": "Cobol Engineering",
+  "description": "A fictional corporation involved in advanced corporate espionage and extraction.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Cobol Engineering** is a powerful and secretive corporation known for employing extraction experts to perform corporate espionage. They are notorious for using shared dream worlds to steal valuable information from the subconscious of their targets."
+    },
+    {
+      "title": "History",
+      "body": "The origins and full extent of **Cobol Engineering**'s foundation and operations are not well-documented within the narrative of 'Inception.' However, the organization is presented as an influential entity capable of hiring skilled extraction teams through intermediaries."
+    },
+    {
+      "title": "Structure",
+      "body": "The leadership and internal hierarchy of **Cobol Engineering** is not explicitly detailed in the movie. The organization operates discreetly, typically hiring specialized external teams to undertake extraction missions."
+    },
+    {
+      "title": "Operations",
+      "body": "**Cobol Engineering**'s main operations involve high-stakes corporate espionage, primarily through the illicit means of dream infiltration to extract critical information. They are known for using PASIV Devices to facilitate shared dreaming as part of their extraction processes."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'Inception,' **Cobol Engineering** plays a pivotal role as the organization that first hires Dom Cobb and his team for extraction work. Their influence underlines the high stakes of the espionage-for-hire industry within the dream world."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "led_by",
+      "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
+    }
+  ],
+  "properties": {
+    "type": "corporation",
+    "fictional": true
+  },
+  "tags": [
+    "corporation",
+    "villainous",
+    "sci-fi",
+    "espionage"
+  ]
+}

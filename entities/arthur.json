@@ -1,0 +1,55 @@
+{
+  "id": "83957e7c-4ff2-4e2f-b2f3-1b3a9b4e3c2a",
+  "type": "character",
+  "name": "Arthur",
+  "description": "Arthur is a skilled point man in Cobb's team, responsible for research and details.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Arthur is a highly skilled point man within Dom Cobb's team of dream extractors, tasked with researching and coordinating the intricate details of their heist operations."
+    },
+    {
+      "title": "Personality",
+      "body": "Arthur is meticulous, detail-oriented, and extremely professional. He is known for his calm and composed demeanor, even in high-pressure situations. His logical approach often complements Cobb's more intuitive methods."
+    },
+    {
+      "title": "Story Role",
+      "body": "In \"Inception,\" Arthur plays a crucial role as the point man. He is responsible for ensuring that the team's plans are executed smoothly and that all contingencies are accounted for. Arthur's character arc involves demonstrating his loyalty and capabilities, particularly during high-stakes moments, such as the zero-gravity fight scene in the hotel."
+    },
+    {
+      "title": "Relationships",
+      "body": "Arthur works closely with Dom Cobb, sharing a strong professional relationship built on trust and mutual respect. His interactions with other team members, such as Ariadne and Eames, reflect his professional nature, although he often finds himself at odds with Eames due to their differing approaches."
+    },
+    {
+      "title": "Abilities",
+      "body": "- **Combat Skills**: Arthur is adept in hand-to-hand combat, showcased in the zero-gravity fight scene.\n- **Strategic Planning**: He meticulously plans and coordinates the details of each mission.\n- **Research and Analysis**: Arthur excels at gathering and analyzing information necessary for the team's objectives."
+    }
+  ],
+  "aliases": [
+    "Point Man"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "rivals_with",
+      "target": "c8f65c7b-82c3-41db-a2f1-6a7f8e6f843e"
+    },
+    {
+      "type": "friends_with",
+      "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "point man",
+    "portrayed_by": "Joseph Gordon-Levitt"
+  },
+  "tags": [
+    "supporting",
+    "professional",
+    "meticulous"
+  ]
+}

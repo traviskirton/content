@@ -1,0 +1,45 @@
+{
+  "id": "39b3f5e0-8b8a-4c3a-a12f-dbd4f5e1b9e9",
+  "type": "location",
+  "name": "Snow Fortress",
+  "description": "A heavily fortified complex in the mind of Robert Fischer during a dream.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Snow Fortress is a mental projection found within the subconscious of Robert Fischer, a target in the movie 'Inception'. It was designed to represent a secure location within his mind to protect a crucial secret that the team plans to extract. The architecture and concept are reinforced by his subconscious security projections."
+    },
+    {
+      "title": "Geography",
+      "body": "The Snow Fortress is located in a desolate, mountainous region characterized by heavy snowfall and treacherous terrain. The fortress itself is an expansive complex with a labyrinthine structure built into the side of a mountain, featuring numerous chambers, corridors, and reinforced doors."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **Main Entrance**: A well-guarded snow-covered path leads to the fortress entrance. \n- **Maze-like Corridors**: The interiors are maze-like, designed to confuse intruders.\n- **Vault**: A secure chamber deep within the fortress intended to hide Fischer's most protected secret."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Snow Fortress plays a pivotal role in 'Inception' as it is the setting of the climactic third level of the shared dream. It is where the team led by Dom Cobb aims to implant the idea of dissolving his father's empire into Robert Fischer's subconscious. The operation inside the fortress involves elaborate planning and action, with dramatic sequences of infiltration against Fischer's mental defenses."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "located_in",
+      "target": "4c6b6d52-7b63-4f29-b77b-3573bd66d892"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building",
+    "population": 0
+  },
+  "tags": [
+    "building",
+    "sci-fi",
+    "futuristic",
+    "dreamscape"
+  ]
+}

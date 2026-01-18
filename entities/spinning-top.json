@@ -1,0 +1,62 @@
+{
+  "id": "b96dc48d-68a2-446f-a0e0-7fbf8741eb3a",
+  "type": "item",
+  "name": "Spinning Top",
+  "description": "A totem used by Dominick 'Dom' Cobb in 'Inception' to distinguish between dream and reality.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The spinning top is a small metallic totem used by **Dom Cobb** in the film *Inception*. Its primary purpose is to help Cobb determine whether he is in a dream or in reality. The totem is used to test the physics of the world around him — in reality, it will eventually topple over, while in a dream, it can spin indefinitely."
+    },
+    {
+      "title": "Appearance",
+      "body": "The spinning top is a small, elegant, and metallic object with a smooth, polished surface. It is beautifully balanced and designed to spin effortlessly on its pointed end."
+    },
+    {
+      "title": "Function",
+      "body": "Dom Cobb uses the spinning top as his personal **totem**. In *Inception*, characters use personalized items to help verify the reality of their environment. The unique behavior of each totem is known only to its owner, preventing others from influencing the verification process. Cobb's top will spin continuously in a dream but will fall in the real world."
+    },
+    {
+      "title": "History",
+      "body": "Although the film does not explicitly state the creation or origin of the spinning top, it once belonged to **Mal Cobb**, Dom's deceased wife. Cobb inherited the totem after Mal's death and continued using it as a connection to reality in his own dreams."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The spinning top plays a crucial role throughout *Inception*, symbolizing Cobb's quest for the truth. It appears in several key scenes, most notably in the film's ambiguous ending, where the fate of the spinning top leaves viewers questioning whether Cobb has returned to reality or still resides within a dream."
+    }
+  ],
+  "aliases": [
+    "Spinning Top Totem",
+    "Cobb's Top"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "owned_by",
+      "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
+    },
+    {
+      "type": "used_by",
+      "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
+    },
+    {
+      "type": "previously_owned_by",
+      "target": "070c7e8b-254b-48d2-bc66-df03b6b3f043"
+    }
+  ],
+  "properties": {
+    "item_type": "artifact",
+    "created_by": "Mal Cobb",
+    "fictional": true
+  },
+  "tags": [
+    "artifact",
+    "sci-fi",
+    "macguffin",
+    "totem",
+    "Inception"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "e87458ca-19f1-4e2c-9f75-4d9eb6c87478",
+  "type": "location",
+  "name": "Bedfordshire",
+  "description": "A picturesque county in the East of England, often used for film and television production.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Bedfordshire is a county located in the East of England, known for its scenic countryside, historic landmarks, and charming towns. It serves as a residential and cultural region with a variety of attractions and activities for both residents and visitors.\n"
+    },
+    {
+      "title": "Film History",
+      "body": "Bedfordshire has a rich history in film and television production. The county has hosted several notable productions, with movies such as 'Batman Begins', 'The Dark Knight', and 'Inception' partially filmed in its locations. The Cardington Airship Sheds, specifically, have been prominently featured in the filming of these blockbuster movies, where they served as interior sets for large-scale production scenes.\n"
+    },
+    {
+      "title": "Visiting",
+      "body": "Bedfordshire offers a range of tourist attractions, from the stunning natural landscapes of the Chiltern Hills to the historic sites such as Woburn Abbey. The county is accessible to the public, with certain areas like the Cardington Airship Sheds occasionally open for special tours and events. Visitors can explore the region's towns, historic sites, and participate in various outdoor activities available throughout the county.\n"
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "county",
+    "country": "United Kingdom",
+    "state": "Bedfordshire",
+    "coordinates": {
+      "lat": 52.0606,
+      "long": -0.4649
+    }
+  },
+  "tags": [
+    "location",
+    "active",
+    "public",
+    "county",
+    "tours-available"
+  ]
+}

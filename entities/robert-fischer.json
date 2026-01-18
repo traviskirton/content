@@ -1,0 +1,47 @@
+{
+  "id": "313ac328-39d7-41fd-8c99-873c56ba6883",
+  "type": "character",
+  "name": "Robert Fischer",
+  "description": "Son of Maurice Fischer, targeted for an inception operation",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Robert Fischer is the heir to a vast business empire and the son of Maurice Fischer. His relationship with his father was strained, largely because Maurice perceived Robert as lacking the ambition and creativity needed to lead the corporation effectively."
+    },
+    {
+      "title": "Personality",
+      "body": "Robert appears as a somewhat insecure individual, struggling to step out of his father’s shadow. He is driven by a desire to prove himself, but he also harbors deep-seated emotional conflicts surrounding his family. His motivations are complicated; while he wishes to honor his father's legacy, he also yearns to establish his own identity and path."
+    },
+    {
+      "title": "Story Role",
+      "body": "Robert Fischer is the target of Dom Cobb and his team’s inception mission, wherein they plan to implant an idea into his subconscious mind to dissolve his father’s business empire. The narrative focuses on his internal journey as he grapples with his emotions and the suggestion planted by Cobb and his team."
+    },
+    {
+      "title": "Relationships",
+      "body": "Robert's most significant relationship is with his father, Maurice Fischer. Despite their strained interactions, Robert's perceptions and emotions toward his father form the crux of the inception mission's success. He interacts with Dom Cobb and his team, albeit unaware of their true intentions, during a pivotal flight where inception occurs."
+    }
+  ],
+  "aliases": [
+    "Bobby Fischer"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "related_to",
+      "target": "8437f585-b73f-45f4-a839-74f3fcc8f269"
+    },
+    {
+      "type": "related_to",
+      "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
+    }
+  ],
+  "portrayed_by": "Cillian Murphy",
+  "tags": [
+    "supporting",
+    "heir",
+    "target"
+  ]
+}

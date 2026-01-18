@@ -1,0 +1,66 @@
+{
+  "id": "ac3b1234-abf5-40d2-8bef-c8b789d8e123",
+  "type": "person",
+  "name": "Leonardo DiCaprio",
+  "description": "American actor and producer known for his versatile roles and collaborations with renowned directors.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "**Leonardo Wilhelm DiCaprio** was born on November 11, 1974, in Los Angeles, California, USA. He began his career in the late 1980s by appearing in television commercials and quickly transitioned to television series."
+    },
+    {
+      "title": "Career",
+      "body": "DiCaprio gained recognition for his roles in movies such as *What's Eating Gilbert Grape* (1993), *Romeo + Juliet* (1996), and *Titanic* (1997). His collaboration with director Martin Scorsese resulted in several critically acclaimed films, including *Gangs of New York* (2002), *The Aviator* (2004), *Shutter Island* (2010), *The Departed* (2006), and *The Wolf of Wall Street* (2013). DiCaprio won his first Academy Award for Best Actor for his performance in *The Revenant* (2015)."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Leonardo DiCaprio has frequently collaborated with notable directors such as Martin Scorsese and Christopher Nolan. He has also worked with actors such as Kate Winslet and Matt Damon, among others."
+    },
+    {
+      "title": "Legacy",
+      "body": "DiCaprio is celebrated for his contributions to film and environmental activism. He has been nominated for numerous awards and has won several, including an Academy Award, a BAFTA, and a Golden Globe."
+    }
+  ],
+  "aliases": [
+    "Leo DiCaprio",
+    "Leonardo Wilhelm DiCaprio"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "acted_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "acted_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "ae2541d3-fd8b-4839-a91b-f8c8bdf5ef87"
+    }
+  ],
+  "properties": {
+    "born": 1974,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "producer"
+    ],
+    "active_years": "1989-present"
+  },
+  "tags": [
+    "actor",
+    "producer",
+    "drama",
+    "modern",
+    "oscar-winner"
+  ]
+}

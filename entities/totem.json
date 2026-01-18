@@ -1,0 +1,55 @@
+{
+  "id": "418117ac-6001-4412-bcc1-bdf77b3d2b80",
+  "type": "item",
+  "name": "Totem",
+  "description": "A personal and unique item used to test reality and self-awareness within dreams.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "A **totem** is a personal, unique item that characters in **Inception** use to test their own sense of reality within dreams. Its primary purpose is to help the owner determine whether they are in a dream or the real world."
+    },
+    {
+      "title": "Appearance",
+      "body": "Each totem is unique to its owner and has a specific weight, balance, and feel that only the owner knows. This distinctness prevents others from using it accurately when trying to manipulate the dream world."
+    },
+    {
+      "title": "Function",
+      "body": "The totem functions as a reality test. In the film, Dom Cobb's (Leonardo DiCaprio) totem is a spinning top that, if it continues to spin indefinitely, indicates that Cobb is in a dream. Conversely, if it topples, it signals he is in reality. The unique properties of a totem ensure that only the owner can accurately interpret its state."
+    },
+    {
+      "title": "History",
+      "body": "The concept of the totem is introduced to the team by **Dom Cobb** and is used by each member to maintain their grip on reality. Cobb’s totem, the spinning top, originally belonged to his wife, **Mal Cobb** (Marion Cotillard), and becomes a symbol of his ongoing struggle with distinguishing dreams from reality."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The totem is crucial to the narrative of **Inception** as it represents the characters' constant battle to determine what is real. It becomes a pivotal plot point in the climax of the film, where its final spin leaves the audience questioning the nature of Cobb's reality."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "owned_by",
+      "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
+    },
+    {
+      "type": "owned_by",
+      "target": "070c7e8b-254b-48d2-bc66-df03b6b3f043"
+    }
+  ],
+  "properties": {
+    "item_type": "artifact",
+    "created_by": "character",
+    "fictional": true
+  },
+  "tags": [
+    "artifact",
+    "sci-fi",
+    "reality",
+    "personal",
+    "dream"
+  ]
+}

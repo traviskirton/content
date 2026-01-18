@@ -1,0 +1,47 @@
+{
+  "id": "21e16d08-8c5a-462c-9730-73ff2c3cba00",
+  "type": "location",
+  "name": "Calgary",
+  "description": "A vibrant city in Alberta, Canada, known for its role in film and TV productions.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Calgary is a major urban center in Alberta, Canada, and serves as a cultural, economic, and transportation hub. Known for its proximity to the Canadian Rockies, the city boasts a diverse economy with industries ranging from energy and finance to film and television production."
+    },
+    {
+      "title": "Film History",
+      "body": "Calgary has been a popular location for film and television productions, often providing settings for Westerns and other genres. Notably, the city and its surroundings have been used for productions such as *The Revenant* and *Game of Thrones*. Calgary's landscapes have often doubled for various fictional or historic locations, particularly Western frontiers or mountainous regions."
+    },
+    {
+      "title": "Visiting",
+      "body": "Calgary is a publicly accessible city welcoming visitors year-round. It offers many tourist attractions, including historic sites, museums, parks, and the famous Calgary Stampede. While there are no formal movie tours specifically tied to its film history, visitors can explore many film sites independently."
+    }
+  ],
+  "aliases": [
+    "Calgary, Alberta",
+    "Cowtown"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "0a4d2e36-598a-4da2-9d48-54b708bd28d5"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "address": "Calgary, Alberta, Canada",
+    "city": "Calgary",
+    "state": "Alberta",
+    "country": "Canada",
+    "coordinates": {
+      "lat": 51.0447,
+      "long": -114.0719
+    }
+  },
+  "tags": [
+    "city",
+    "active",
+    "public"
+  ]
+}

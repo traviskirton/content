@@ -1,0 +1,59 @@
+{
+  "id": "0d16f31f-9c20-4f85-8bff-648a774c421c",
+  "type": "person",
+  "name": "Ken Watanabe",
+  "description": "Renowned Japanese actor known for his dynamic roles in both Hollywood and Japanese cinema.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Ken Watanabe was born in 1959 in Koide, Niigata, Japan. He began his acting career in the late 1970s and achieved fame in Japan for his performances in television dramas. His transition to international cinema was marked by his role in 'The Last Samurai' (2003), which earned him an Academy Award nomination."
+    },
+    {
+      "title": "Career",
+      "body": "Ken Watanabe's career is marked by versatile performances across various genres, including drama, action, and historical films. His notable works include 'Letters from Iwo Jima' (2006), 'Inception' (2010), and 'Godzilla' (2014). Watanabe is acclaimed for his charismatic screen presence and ability to convey deep emotion."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Ken Watanabe has frequently collaborated with director Christopher Nolan, appearing in films such as 'Inception' alongside actors like Leonardo DiCaprio and Joseph Gordon-Levitt."
+    },
+    {
+      "title": "Legacy",
+      "body": "Ken Watanabe is credited with bridging Japanese and Western cinema, bringing greater visibility to Japanese talent in Hollywood. His performances have earned him critical acclaim, multiple award nominations, and a BAFTA Award. Watanabe's impact extends beyond acting, as he continues to be a significant cultural ambassador between the East and the West."
+    }
+  ],
+  "aliases": [
+    "Watanabe Ken"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "ac3b1234-abf5-40d2-8bef-c8b789d8e123"
+    },
+    {
+      "type": "acted_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    }
+  ],
+  "properties": {
+    "born": 1959,
+    "nationality": "Japanese",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1979-present"
+  },
+  "tags": [
+    "actor",
+    "modern",
+    "drama",
+    "action"
+  ]
+}

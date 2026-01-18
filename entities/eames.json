@@ -1,0 +1,62 @@
+{
+  "id": "c9e5f16a-d3cb-42cd-aaf5-3742bbd62cd9",
+  "type": "character",
+  "name": "Eames",
+  "description": "A skilled forger and member of Dom Cobb's team in \"Inception\"",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Eames is a talented professional forger specializing in the art of impersonating others within dreams. His background prior to joining Dom Cobb's team is not extensively covered in the film, but it is evident that he possesses significant experience and skill in dream operations."
+    },
+    {
+      "title": "Personality",
+      "body": "Eames is characterized by his charming and witty demeanor. He has a penchant for sarcasm and humor, often lightening the mood during tense situations. Despite his playful nature, Eames is highly competent and takes his responsibilities seriously. He is resourceful and quick-thinking, often coming up with clever solutions to problems."
+    },
+    {
+      "title": "Story Role",
+      "body": "In \"Inception,\" Eames plays the role of the 'forger' on Dom Cobb's team. His primary function is to assume the identities of others within the dream world to manipulate and deceive targets. Eames is integral to the team's mission to perform inception on Robert Fischer. His character arc involves showcasing his abilities and contributing to the success of the mission through his unique skills."
+    },
+    {
+      "title": "Relationships",
+      "body": "Eames has a professional relationship with Dom Cobb, the team leader, with whom he shares a mutual respect. He often engages in playful banter with Arthur, another team member, and demonstrates a friendly rivalry. Eames' interactions with the other team members, such as Ariadne and Yusuf, are mostly professional, yet he maintains a sense of camaraderie."
+    },
+    {
+      "title": "Abilities",
+      "body": "Eames is an expert in forgery, possessing the ability to adopt any person's appearance and personality within the dream world. This skill allows him to manipulate the dreams of others by impersonating key figures. He is also skilled in combat within the dream, showcasing his capability in handling high-pressure situations."
+    }
+  ],
+  "aliases": [
+    "The Forger"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "e5d3f69c-ce24-4a97-a133-6a74f0b5f6be"
+    },
+    {
+      "type": "friends_with",
+      "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
+    },
+    {
+      "type": "friends_with",
+      "target": "83957e7c-4ff2-4e2f-b2f3-1b3a9b4e3c2a"
+    },
+    {
+      "type": "friends_with",
+      "target": "cc738e81-1850-4c8a-a04e-75216c6f8968"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Forger"
+  },
+  "tags": [
+    "supporting",
+    "comic-relief",
+    "forger"
+  ]
+}

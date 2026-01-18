@@ -1,0 +1,55 @@
+{
+  "id": "cc738e81-1850-4c8a-a04e-75216c6f8968",
+  "type": "character",
+  "name": "Ariadne",
+  "description": "A young, talented architect who is recruited to design dreamscapes in 'Inception'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Ariadne is a graduate student studying architecture, demonstrating exceptional skills in designing complex structures and environments. Her talents catch the attention of Dom Cobb, who recruits her to join his team to construct labyrinthine dreamscapes for extraction and inception missions."
+    },
+    {
+      "title": "Personality",
+      "body": "Ariadne is curious, intelligent, and highly perceptive. She quickly learns the mechanics of shared dreaming and the nuances of constructing dream worlds. She is also compassionate, demonstrating concern for Cobb's well-being and understanding the ethical implications of their work."
+    },
+    {
+      "title": "Story Role",
+      "body": "Ariadne serves as the 'Architect' in Cobbs's team, responsible for designing the dream layers' environments. Throughout the narrative, she becomes a key confidante to Cobb, learning about his emotional struggles and helping him confront his past."
+    },
+    {
+      "title": "Relationships",
+      "body": "Ariadne develops a professional relationship with Dom Cobb, serving as his student and later as a confidante. She also interacts with other team members, such as Arthur and Eames, showcasing strong teamwork skills."
+    },
+    {
+      "title": "Abilities",
+      "body": "Ariadne is an expert architect with an innate talent for creating detailed and complex structures within dream environments. She adapts quickly to the concept of shared dreaming, becoming proficient at manipulating and navigating dreamscapes."
+    }
+  ],
+  "aliases": [
+    "The Architect"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "related_to",
+      "target": "83957e7c-4ff2-4e2f-b2f3-1b3a9b4e3c2a"
+    },
+    {
+      "type": "related_to",
+      "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "architect",
+    "portrayed_by": "Elliot Page"
+  },
+  "tags": [
+    "protagonist",
+    "intelligent",
+    "architect"
+  ]
+}

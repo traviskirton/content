@@ -1,0 +1,47 @@
+{
+  "id": "070c7e8b-254b-48d2-bc66-df03b6b3f043",
+  "type": "character",
+  "name": "Mal Cobb",
+  "description": "Mal Cobb is the deceased wife of Dom Cobb and haunts his subconscious as a projection while he performs inception missions.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Mal Cobb was born in the mid-20th century and was known for her deep intellectual curiosity and adventurous spirit. She met Dom Cobb at a young age, bonded over their shared interest in dreams, and together, they became experts in shared dreaming technology."
+    },
+    {
+      "title": "Personality",
+      "body": "Mal was intelligent and fiercely independent, often challenging Dom with her sharp insights. Her tragic death led to her becoming a darker, aggressive projection in Dom's dreams, reflecting his guilt and unresolved grief."
+    },
+    {
+      "title": "Story Role",
+      "body": "Mal's role is pivotal as she represents Cobb's primary obstacle within the subconscious realm. Her presence manifests Dom's unresolved guilt and has a significant influence on the narrative as a constant threat during his missions."
+    },
+    {
+      "title": "Relationships",
+      "body": "Mal was deeply in love with her husband, Dom Cobb. Their relationship was passionate but strained by the psychological consequences of their dream-sharing experiments. Her death, ruled a suicide, profoundly impacted Dom, leading him to project a haunting version of Mal in his subconscious."
+    }
+  ],
+  "aliases": [
+    "Mal"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "related_to",
+      "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Dream Architect",
+    "portrayed_by": "Marion Cotillard"
+  },
+  "tags": [
+    "antagonist",
+    "haunting",
+    "illusion"
+  ]
+}

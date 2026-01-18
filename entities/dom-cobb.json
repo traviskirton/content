@@ -1,0 +1,52 @@
+{
+  "id": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3",
+  "type": "character",
+  "name": "Dom Cobb",
+  "description": "A skilled thief who enters the dreams of others to steal secrets and implant ideas.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "**Dom Cobb** is a highly skilled thief known as an \"extractor\". He is specialized in the art of extracting valuable secrets from deep within the subconscious during the dream state. Cobb was once a happy family man but became a fugitive after being suspected of killing his wife, Mal."
+    },
+    {
+      "title": "Personality",
+      "body": "Cobb is intelligent and resourceful, yet haunted by the guilt and memories of his wife's death. His motivations are deeply tied to returning to his children and clearing his name. His flaw is his inability to let go of his past, particularly his projections of Mal in dreams."
+    },
+    {
+      "title": "Story Role",
+      "body": "Cobb serves as the protagonist in *Inception*. His arc involves overcoming his guilt about Mal's death and learning to let go, allowing him to differentiate reality from dreams and eventually reunite with his children."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Mal Cobb**: Cobb's deceased wife whom he accidentally led into becoming trapped in dreams, which ultimately led to her death.\n- **Ariadne**: A talented architect recruited by Cobb to construct dream worlds. She becomes a confidante and learns about Cobb's inner turmoil.\n- **Arthur**: Cobb's close friend and right-hand man. They have worked together on many extraction missions."
+    },
+    {
+      "title": "Abilities",
+      "body": "- Expert in dream psychology and subconscious navigation.\n- Skilled in building and manipulating dream environments.\n- Capable of performing \"inception\", the process of implanting an idea into a target's subconscious."
+    }
+  ],
+  "aliases": [
+    "Mr. Cobb"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "ac3b1234-abf5-40d2-8bef-c8b789d8e123"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "extractor",
+    "portrayed_by": "Leonardo DiCaprio"
+  },
+  "tags": [
+    "protagonist",
+    "thief",
+    "dream-infiltrator",
+    "complex"
+  ]
+}

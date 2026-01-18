@@ -1,0 +1,55 @@
+{
+  "id": "77e4f6ca-db76-4562-8b44-663f8fa2b1b3",
+  "type": "person",
+  "name": "Tom Berenger",
+  "description": "American actor known for roles in 'Platoon' and 'Inception'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Tom Berenger, born as Thomas Michael Moore on May 31, 1949, in Chicago, Illinois, is an American actor known for his rugged looks and versatile performances. He attended the University of Missouri, initially studying journalism before shifting to a career in acting."
+    },
+    {
+      "title": "Career",
+      "body": "Berenger began his acting career in television, appearing in soap operas like 'One Life to Live'. He gained widespread recognition for his role as Sgt. Barnes in 'Platoon' (1986), for which he received an Academy Award nomination for Best Supporting Actor. His notable performances include roles in 'The Big Chill' (1983), 'Born on the Fourth of July' (1989), and 'Inception' (2010). Berenger is known for his intense portrayals of characters, often in military or authoritative roles."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Tom Berenger has worked with several prominent directors, including Oliver Stone in 'Platoon' and Christopher Nolan in 'Inception'."
+    },
+    {
+      "title": "Legacy",
+      "body": "Berenger's portrayal of Sgt. Barnes in 'Platoon' remains one of the most iconic performances in war films, contributing significantly to the movie's critical success. His contributions to the film industry have earned him a place as a respected and enduring figure in Hollywood."
+    }
+  ],
+  "aliases": [
+    "Thomas Michael Moore"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "worked_with",
+      "target": "f3d9b29e-9b6f-42e2-bf7b-5200c58f5e10"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    }
+  ],
+  "properties": {
+    "born": "1949",
+    "nationality": "American",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1970-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "action",
+    "modern"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "b4acdbb7-21f9-4c19-8149-221c0a4f745f",
+  "type": "person",
+  "name": "Elliot Page",
+  "description": "Canadian actor known for roles in 'Juno' and 'Inception'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Elliot Page was born on February 21, 1987, in Halifax, Nova Scotia, Canada. They began acting at the age of 10, appearing in the television series 'Pit Pony'."
+    },
+    {
+      "title": "Career",
+      "body": "Elliot Page gained international fame with their role as the titular character in the 2007 film **'Juno'**, for which they received an Academy Award nomination. Other notable works include 'Inception', 'The Umbrella Academy', and 'Hard Candy'. Page is known for choosing diverse roles and has been an advocate for LGBTQ rights in Hollywood and beyond."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Page has frequently collaborated with directors like Christopher Nolan, notably in **'Inception'**, and has shared the screen with actors such as **Leonardo DiCaprio** and **Joseph Gordon-Levitt**."
+    },
+    {
+      "title": "Legacy",
+      "body": "Elliot Page is widely recognized for their contributions to films and television that challenge societal norms. They have been honored with multiple accolades for their performances, including a BAFTA Award and a Critics' Choice Award. Their presence and advocacy for transgender and non-binary issues have had significant influence in the entertainment industry."
+    }
+  ],
+  "aliases": [
+    "Ellen Page"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "ac3b1234-abf5-40d2-8bef-c8b789d8e123"
+    },
+    {
+      "type": "acted_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "acted_in",
+      "target": "e6149baf-563e-4dc9-8eec-a7a33e3e95ac"
+    }
+  ],
+  "properties": {
+    "born": 1987,
+    "nationality": "Canadian",
+    "occupation": [
+      "actor",
+      "producer"
+    ],
+    "active_years": "1997-present"
+  },
+  "tags": [
+    "actor",
+    "producer",
+    "drama",
+    "sci-fi",
+    "modern"
+  ]
+}

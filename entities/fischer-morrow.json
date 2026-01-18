@@ -1,0 +1,54 @@
+{
+  "id": "f46e6c9e-3198-4ea6-805f-7e3b3f286b3c",
+  "type": "organization",
+  "name": "Fischer Morrow",
+  "description": "A powerful energy corporation inherited by Robert Fischer in the movie 'Inception'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Fischer Morrow is a major energy corporation in the movie 'Inception'. The company is significantly influential and is at the center of the film's main plot due to its impending takeover."
+    },
+    {
+      "title": "History",
+      "body": "Founded by Maurice Fischer, Fischer Morrow grew into a dominant player in the global energy industry. The storyline of 'Inception' is set around the time of Maurice's death and the transition of leadership to his son, Robert Fischer."
+    },
+    {
+      "title": "Structure",
+      "body": "The organization was led by Maurice Fischer until his passing. His son, Robert Fischer, is set to inherit the company amidst internal doubts about his capability to successfully manage and evolve the business."
+    },
+    {
+      "title": "Operations",
+      "body": "Fischer Morrow operates mainly in the energy sector, with significant investments and influence across the industry. The company is known for its global reach and innovation in energy technologies."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Fischer Morrow's fate and Robert Fischer's decision about the company's future are central to the main plot of 'Inception'. The protagonists' mission involves planting an idea in Robert's subconscious to dissolve his father's empire."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "members",
+      "target": "313ac328-39d7-41fd-8c99-873c56ba6883"
+    },
+    {
+      "type": "led_by",
+      "target": "313ac328-39d7-41fd-8c99-873c56ba6883"
+    }
+  ],
+  "properties": {
+    "founded": "unknown",
+    "founder": "Maurice Fischer",
+    "type": "corporation",
+    "fictional": true
+  },
+  "tags": [
+    "corporation",
+    "sci-fi",
+    "neutral"
+  ]
+}

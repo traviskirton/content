@@ -1,0 +1,60 @@
+{
+  "id": "8437f585-b73f-45f4-a839-74f3fcc8f269",
+  "type": "character",
+  "name": "Saito",
+  "description": "Saito is a powerful Japanese businessman who hires Dom Cobb for the inception task.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "**Saito** is a wealthy and influential businessman from Japan. He became involved in corporate espionage, where he sought to protect his interests by influencing the competition through the sophisticated use of dream-sharing technology."
+    },
+    {
+      "title": "Personality",
+      "body": "Saito is a pragmatic and determined individual, driven by his ambition and desire for control. He is resourceful and willing to take significant risks to achieve his goals. His loyalty and commitment are evident in his willingness to join Cobb in the inception mission."
+    },
+    {
+      "title": "Story Role",
+      "body": "In the film *Inception*, Saito is the client who hires Dom Cobb to plant an idea in the mind of Robert Fischer, his business rival. Throughout the story, Saito's character evolves from being a mere bidder to an active team member, ultimately sharing in the group's challenges and successes."
+    },
+    {
+      "title": "Relationships",
+      "body": "Saito has a complex relationship with **Dom Cobb**, seeing him both as an asset and a liability due to Cobb's past and expertise in dream invasion. He also interacts closely with **Arthur** and **Ariadne** as part of the team assembled to carry out the inception mission."
+    },
+    {
+      "title": "Abilities",
+      "body": "Saito is a skilled negotiator and strategist, capable of mobilizing resources and personnel efficiently. He also demonstrates an understanding of dream-sharing technology and, despite initially being an outsider, quickly adapts to the team's operations."
+    }
+  ],
+  "aliases": [
+    "Mr. Saito"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "friends_with",
+      "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
+    },
+    {
+      "type": "friends_with",
+      "target": "83957e7c-4ff2-4e2f-b2f3-1b3a9b4e3c2a"
+    },
+    {
+      "type": "related_to",
+      "target": "cc738e81-1850-4c8a-a04e-75216c6f8968"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "businessman",
+    "portrayed_by": "Ken Watanabe"
+  },
+  "tags": [
+    "supporting",
+    "businessman",
+    "wealthy",
+    "strategist"
+  ]
+}

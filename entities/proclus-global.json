@@ -1,0 +1,54 @@
+{
+  "id": "5d4c9872-bc8b-4931-ae7d-7e3ac73246e8",
+  "type": "organization",
+  "name": "Proclus Global",
+  "description": "A powerful corporate conglomerate involved in extraction and security operations in the film 'Inception'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Proclus Global** is a multinational corporation specializing in extraction and corporate espionage. They are known for hiring experts to infiltrate the subconscious of targets to extract valuable information."
+    },
+    {
+      "title": "History",
+      "body": "Founded as a leading global corporate entity, **Proclus Global** gained notoriety for its involvement in high-stakes extraction operations. Over time, it developed a reputation for employing skilled extractors and providing top-tier security services."
+    },
+    {
+      "title": "Structure",
+      "body": "**Proclus Global**'s leadership and membership are shrouded in secrecy. It operates with a strict hierarchy where only a select few are privy to the organization's highest secrets. Their operations are led by highly skilled professionals."
+    },
+    {
+      "title": "Operations",
+      "body": "**Proclus Global** employs a team of extractors and security personnel to perform corporate espionage. Their primary method involves using dream-sharing technology to extract or implant information into the subconscious of their targets."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In the film 'Inception', **Proclus Global** plays a key antagonistic role. The corporation hires Cobb and his team for an inception operation, intending to plant an idea in the mind of a competitor's heir. They are responsible for much of the tension and conflict experienced by the protagonists."
+    }
+  ],
+  "properties": {
+    "founded": "unknown",
+    "founder": "unknown",
+    "type": "corporation",
+    "headquarters": "unknown",
+    "fictional": true
+  },
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "led_by",
+      "target": "8437f585-b73f-45f4-a839-74f3fcc8f269"
+    },
+    {
+      "type": "rivals_with",
+      "target": "b674c306-a2d7-4c8d-9391-cf3a06796c4d"
+    }
+  ],
+  "tags": [
+    "corporation",
+    "villainous",
+    "sci-fi"
+  ]
+}

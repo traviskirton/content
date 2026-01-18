@@ -1,0 +1,44 @@
+{
+  "id": "d2c8efb6-1a2b-428d-b5f5-087cb434dcae",
+  "type": "location",
+  "name": "Hotel Dream Level",
+  "description": "A meticulously crafted dream workspace used for inception.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Hotel Dream Level was conceived by Dom Cobb's team as part of a complex multi-layered dream architecture. Its creation is central to the execution of the inception while being cobbled together from various contributors' subconscious minds."
+    },
+    {
+      "title": "Geography",
+      "body": "The Hotel Dream Level exists within the minds of dreamers, specifically designed to appear as a classic, elegant hotel with long corridors, a luxurious lobby, and opulent suites. It's a self-contained dream space with features that resemble those of a high-end 20th-century hotel."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Notable features include the zero-gravity environments utilized during the dream's progression. As the dream progresses into a deeper layer and external influences affect dream physics, these unique environments are leveraged strategically by the team."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Hotel Dream Level plays a critical role in the film 'Inception' as it is one of the dream layers used to implant an idea in the target's mind. Key action sequences occur here, including the memorable zero-gravity hallway fight, orchestrated by the character Arthur."
+    }
+  ],
+  "aliases": [
+    "Hotel in a dream",
+    "Dream hotel"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "sci-fi",
+    "futuristic",
+    "dream"
+  ]
+}

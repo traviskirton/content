@@ -2,23 +2,23 @@
   "id": "f4b45718-977d-4185-b97c-8a0f312f5f84",
   "type": "person",
   "name": "Joseph Gordon-Levitt",
-  "description": "American actor, filmmaker, and entrepreneur known for roles in 'Inception' and '500 Days of Summer'.",
+  "description": "American actor, filmmaker, and entrepreneur known for his versatile roles in film and television.",
   "content": [
     {
       "title": "Biography",
-      "body": "Joseph Gordon-Levitt was born on February 17, 1981, in Los Angeles, California, USA. He began his career as a child actor, appearing in commercials and television shows like _3rd Rock from the Sun_."
+      "body": "**Joseph Gordon-Levitt** was born on February 17, 1981, in Los Angeles, California. He began his career as a child actor, appearing in several television shows and commercials in the late 1980s and early 1990s. Gordon-Levitt gained initial fame for his role as Tommy Solomon in the television series *3rd Rock from the Sun*."
     },
     {
       "title": "Career",
-      "body": "**Joseph Gordon-Levitt** made a successful transition from child actor to leading man with roles in films such as _Inception_, _500 Days of Summer_, and _Looper_. He is known for his diverse range and ability to play complex characters. In addition to acting, Gordon-Levitt has ventured into directing, producing, and writing, demonstrating a wide array of skills in the film industry."
+      "body": "Gordon-Levitt transitioned into adult roles with films like *10 Things I Hate About You* and achieved critical acclaim with *Brick* and *500 Days of Summer*. He is known for his collaborations with director Christopher Nolan, appearing in *Inception* and *The Dark Knight Rises*. Gordon-Levitt's approach is often characterized by his diverse choice of roles and his commitment to independent cinema."
     },
     {
       "title": "Notable Collaborations",
-      "body": "Gordon-Levitt has frequently collaborated with director Christopher Nolan, appearing in movies like _Inception_ and _The Dark Knight Rises_. He has also worked with actors such as Leonardo DiCaprio, Bruce Willis, and Scarlett Johansson."
+      "body": "He frequently collaborates with director Christopher Nolan and has worked alongside actors such as Leonardo DiCaprio in *Inception* and Bruce Willis in *Looper*. Gordon-Levitt also directed and starred in the film *Don Jon*."
     },
     {
       "title": "Legacy",
-      "body": "Joseph Gordon-Levitt is recognized for his impact on both independent and mainstream cinema, having received numerous awards and nominations for his performances. He is also the founder of hitRECord, an online collaborative media platform which empowers artists to create together."
+      "body": "Joseph Gordon-Levitt is respected for his versatility and dedication to his craft. He co-founded the online media company HitRecord, which has won several Emmy Awards. His work in both commercial blockbusters and independent films has established him as a prominent figure in contemporary cinema."
     }
   ],
   "aliases": [
@@ -27,15 +27,15 @@
   "relationships": [
     {
       "type": "acted_in",
-      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
     },
     {
       "type": "acted_in",
-      "target": "f3a317d5-5b56-4d8f-bd7e-065ecf7886a1"
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
     },
     {
       "type": "acted_in",
-      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+      "target": "be5e5139-073b-4a36-8062-f692f67337f0"
     },
     {
       "type": "worked_with",
@@ -43,11 +43,15 @@
     },
     {
       "type": "worked_with",
-      "target": "4cf6d8b9-71f4-4eff-9c9e-bb3b3f7b2e8e"
+      "target": "ac3b1234-abf5-40d2-8bef-c8b789d8e123"
+    },
+    {
+      "type": "founded",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
     }
   ],
   "properties": {
-    "born": "1981",
+    "born": 1981,
     "nationality": "American",
     "occupation": [
       "actor",
@@ -62,9 +66,8 @@
     "director",
     "producer",
     "writer",
-    "modern",
     "sci-fi",
     "drama",
-    "comedy"
+    "modern"
   ]
 }

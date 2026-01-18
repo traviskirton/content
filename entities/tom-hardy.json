@@ -2,23 +2,23 @@
   "id": "e5d3f69c-ce24-4a97-a133-6a74f0b5f6be",
   "type": "person",
   "name": "Tom Hardy",
-  "description": "Renowned British actor known for his versatile roles in film and television.",
+  "description": "Prominent British actor known for his versatile roles in major films.",
   "content": [
     {
       "title": "Biography",
-      "body": "Tom Hardy, born in 1977, is a talented British actor who has gained acclaim for his exceptional range and intense performances. He began his career in the early 2000s, quickly establishing himself with roles in films such as *Black Hawk Down* and *Inception*."
+      "body": "**Tom Hardy** was born in 1977 in Hammersmith, London, England. He studied acting at the Drama Centre London and began his career in feature films in the early 2000s. His breakthrough role came with the movie _Bronson_, where his transformation into the title character showcased his commitment and talent."
     },
     {
       "title": "Career",
-      "body": "Tom Hardy has delivered notable performances in a wide range of genres, from drama to action. He is best known for roles in *Mad Max: Fury Road*, *The Dark Knight Rises*, and *Venom*. His approach often involves deep character immersion and physical transformations, earning him critical acclaim and a dedicated fan following."
+      "body": "Tom Hardy's career has been marked by a series of varied and intense roles. He gained international recognition for his role as Eames in _Inception_ (2010) and further established himself as a leading actor with his portrayals of Bane in _The Dark Knight Rises_ (2012) and the title character in _Mad Max: Fury Road_ (2015). Hardy is known for his immersive acting style and his ability to transform physically and vocally for his roles."
     },
     {
       "title": "Notable Collaborations",
-      "body": "Tom Hardy frequently collaborates with director Christopher Nolan, having worked together on films like *Inception*, *The Dark Knight Rises*, and *Dunkirk*. He has also worked alongside actors such as Christian Bale and Gary Oldman."
+      "body": "Hardy has frequently collaborated with director Christopher Nolan on films such as _Inception_ and _The Dark Knight Rises_. He has also worked multiple times with director Steven Knight, notably in the film _Locke_ and the TV series _Peaky Blinders_."
     },
     {
       "title": "Legacy",
-      "body": "Tom Hardy is celebrated for his dedication to his craft and his ability to bring a unique intensity to each role. He has received numerous awards and nominations, solidifying his status as one of the most respected actors of his generation."
+      "body": "Tom Hardy's impact on the film industry is marked by his dynamic range and his deep dedication to his craft. He has been nominated for several awards, including an Academy Award for Best Supporting Actor for his role in _The Revenant_ (2015)."
     }
   ],
   "aliases": [
@@ -27,23 +27,27 @@
   "relationships": [
     {
       "type": "acted_in",
-      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "acted_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "acted_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "acted_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
     },
     {
       "type": "worked_with",
       "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
-    },
-    {
-      "type": "worked_with",
-      "target": "4cf6d8b9-71f4-4eff-9c9e-bb3b3f7b2e8e"
-    },
-    {
-      "type": "worked_with",
-      "target": "83e9fafd-1d4c-4b54-a1cc-1b389fee6762"
     }
   ],
   "properties": {
-    "born": "1977",
+    "born": 1977,
     "nationality": "British",
     "occupation": [
       "actor",
@@ -54,8 +58,9 @@
   "tags": [
     "actor",
     "producer",
-    "drama",
     "action",
+    "drama",
+    "thriller",
     "modern"
   ]
 }

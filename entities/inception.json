@@ -1,0 +1,116 @@
+{
+  "id": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97",
+  "type": "movie",
+  "name": "Inception",
+  "description": "A science fiction thriller exploring the concept of dream invasion and extraction.",
+  "content": [
+    {
+      "title": "Synopsis",
+      "body": "**Inception** is a science fiction heist thriller that explores the concept of dream infiltration. The story follows Dom Cobb, a skilled thief who specializes in the art of extracting valuable secrets from deep within the subconscious during the dream state. Cobb is offered a chance to have his criminal past erased if he can successfully plant an idea in a target's mind, a process known as inception."
+    },
+    {
+      "title": "Production",
+      "body": "The film was conceived and directed by Christopher Nolan, who spent nearly a decade developing the script. **Inception** was produced by Syncopy and Legendary Pictures, with filming taking place across multiple countries, including Japan, Canada, and the UK. The intricate visual effects and complex narrative structure were key focuses during production."
+    },
+    {
+      "title": "Reception",
+      "body": "**Inception** was a critical and commercial success, grossing over $836 million worldwide. It received praise for its innovative storyline, impressive visual effects, and Hans Zimmer's mesmerizing score. The film won four Academy Awards, including Best Cinematography and Best Visual Effects, and was nominated for Best Picture."
+    },
+    {
+      "title": "Legacy",
+      "body": "The movie's unique exploration of dreams and its complex narrative have left a lasting impact on modern cinema, influencing numerous films and spawning discussions and analyses regarding its ending and themes. It is widely regarded as one of Christopher Nolan's most significant works."
+    }
+  ],
+  "aliases": [
+    "Inception: The IMAX Experience"
+  ],
+  "relationships": [
+    {
+      "type": "directed_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "produced_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "written_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "composed_by",
+      "target": "a3c5de67-f1d3-42b6-a6b3-123f0d65c1a4"
+    },
+    {
+      "type": "stars",
+      "target": "ac3b1234-abf5-40d2-8bef-c8b789d8e123"
+    },
+    {
+      "type": "stars",
+      "target": "f4b45718-977d-4185-b97c-8a0f312f5f84"
+    },
+    {
+      "type": "stars",
+      "target": "b4acdbb7-21f9-4c19-8149-221c0a4f745f"
+    },
+    {
+      "type": "stars",
+      "target": "e5d3f69c-ce24-4a97-a133-6a74f0b5f6be"
+    },
+    {
+      "type": "stars",
+      "target": "15f5a123-d9e8-4397-b782-67814dc0b9b6"
+    },
+    {
+      "type": "stars",
+      "target": "223f44e1-6a1e-4026-891c-e560f5657eb4"
+    },
+    {
+      "type": "features_character",
+      "target": "c45406b4-9c8f-4f0d-8f0d-df8562b1e735"
+    },
+    {
+      "type": "features_character",
+      "target": "ed4f8534-1cc4-4c5e-b8f8-c54c9f0d3eff"
+    },
+    {
+      "type": "features_location",
+      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
+    },
+    {
+      "type": "features_location",
+      "target": "5de86068-a215-4f6d-a874-3d9ddb2b83b7"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
+    },
+    {
+      "type": "distributed_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    }
+  ],
+  "properties": {
+    "year": 2010,
+    "runtime": 148,
+    "genre": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "budget": 160000000,
+    "box_office": 836800000,
+    "rating": "PG-13"
+  },
+  "tags": [
+    "sci-fi",
+    "thriller",
+    "blockbuster",
+    "2010s",
+    "dreams",
+    "mind-bending"
+  ]
+}

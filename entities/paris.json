@@ -1,0 +1,48 @@
+{
+  "id": "d29c3776-bfec-4fde-a6de-a191d5a60f9d",
+  "type": "location",
+  "name": "Paris",
+  "description": "The capital city of France, known for its rich culture, history, and a popular filming location.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Paris** is the capital city of France, renowned for its art, fashion, gastronomy, and culture. The city is home to many iconic landmarks such as the Eiffel Tower, Notre-Dame Cathedral, and the Louvre Museum. In addition to being a major European city, Paris is considered a global center for art and film."
+    },
+    {
+      "title": "Film History",
+      "body": "Paris has hosted numerous film productions over the years. Notable films include:\n\n- **Inception**: Several key scenes were filmed in Paris, including the memorable sequence in the Café Debussy where the dream world starts to literally explode.\n- **Midnight in Paris**: Woody Allen's film showcases many idyllic Parisian locations such as the Musée Rodin and Île de la Cité.\n- **Amélie**: The film was shot in various places in Montmartre, a district known for its artistic history.\n- **The Bourne Identity**: The car chase scene was memorably filmed through the streets of Paris."
+    },
+    {
+      "title": "Visiting",
+      "body": "Paris is a publicly accessible city with numerous tourist attractions. Visitors can explore the locations featured in films by participating in guided tours or using the city's extensive public transport network. The city remains an active and vibrant filming location."
+    }
+  ],
+  "aliases": [
+    "City of Light",
+    "La Ville Lumière"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "located_in",
+      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "country": "France",
+    "coordinates": {
+      "lat": 48.8566,
+      "long": 2.3522
+    }
+  },
+  "tags": [
+    "city",
+    "active",
+    "public"
+  ]
+}

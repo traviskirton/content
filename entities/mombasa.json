@@ -1,0 +1,41 @@
+{
+  "id": "5d47e06c-5a46-4ae3-9b63-ecb787e19172",
+  "type": "location",
+  "name": "Mombasa",
+  "description": "A bustling city in 'Inception' where Dom Cobb finds Yusuf and is pursued by Cobol Engineering's agents.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Mombasa is depicted as a crucial location within the film 'Inception'. It is shown as a bustling, chaotic city acting as both a haven and a trap for Dom Cobb and his team."
+    },
+    {
+      "title": "Geography",
+      "body": "Mombasa is portrayed as a dense city filled with narrow alleyways and crowded streets, adding to the film's tension. In the film, it seems to be a hub for illicit activity and clandestine deals."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The city features tight alleyways, bustling markets, and is notable for a high-speed chase sequence involving Dom Cobb escaping from Cobol Engineering's agents. It also houses Yusuf's pharmacy, a key location for the team to procure sedatives."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Mombasa plays a pivotal role in 'Inception', as it is where Cobb recruits Yusuf, the chemist, who provides the strong sedative necessary for their mission. The city is also the scene for a tense chase sequence where Cobb's skills and mental state are highlighted."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city"
+  },
+  "tags": [
+    "city",
+    "sci-fi",
+    "thriller",
+    "futuristic"
+  ]
+}

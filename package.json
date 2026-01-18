@@ -4,7 +4,8 @@
   "description": "Entity dataset for search interface",
   "scripts": {
     "build": "node scripts/build-index.js",
-    "generate": "node scripts/generate-entity.js"
+    "generate": "node scripts/generate-entity.js",
+    "reconcile": "node scripts/reconcile.js"
   },
   "dependencies": {
     "openai": "^4.0.0"

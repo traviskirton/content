@@ -1,0 +1,50 @@
+{
+  "id": "5faa766d-2e48-4b7d-b8c4-0b4fa6e58219",
+  "type": "character",
+  "name": "Maurice Fischer",
+  "description": "Maurice Fischer is a powerful businessman and father to Robert Fischer, whose death sets off the central plot in 'Inception'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Maurice Fischer is a prominent and wealthy businessman who has built a powerful corporate empire. His health deteriorates over time, leading to his eventual death, which is a pivotal event in the narrative of 'Inception'."
+    },
+    {
+      "title": "Personality",
+      "body": "Maurice is portrayed as a strong-willed and influential figure. He is perceived as distant and demanding, which affects his relationship with his son, Robert Fischer."
+    },
+    {
+      "title": "Story Role",
+      "body": "Maurice Fischer's death is the catalyst for the main plot of 'Inception'. His passing leads to the mission to plant an idea in the mind of his son, Robert, in order to break up the corporate empire Maurice built."
+    },
+    {
+      "title": "Relationships",
+      "body": "Maurice Fischer is the father of Robert Fischer. Their relationship is strained, with Robert feeling neglected by his father. Maurice's trusted advisor is Peter Browning, who acts as a mentor to Robert after Maurice's death."
+    }
+  ],
+  "aliases": [
+    "Mr. Fischer"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "related_to",
+      "target": "313ac328-39d7-41fd-8c99-873c56ba6883"
+    },
+    {
+      "type": "related_to",
+      "target": "f0f7d9c8-60e2-48e0-bc6b-8f1d69a7e094"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "portrayed_by": "Pete Postlethwaite"
+  },
+  "tags": [
+    "supporting",
+    "businessman",
+    "father figure"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "b1a0418d-0459-4bbf-a28e-10cc88d9f4db",
+  "type": "location",
+  "name": "Tokyo",
+  "description": "The bustling capital of Japan, known for its blend of traditional and modern culture.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Tokyo is the capital city of Japan and one of the most populous metropolitan areas in the world. It serves as a major economic, cultural, and political hub. Tokyo is renowned for its towering skyscrapers, historic temples, bustling shopping districts, and unique cultural attractions. It is a city that seamlessly blends the traditional with the ultra-modern."
+    },
+    {
+      "title": "Film History",
+      "body": "Tokyo has been featured in numerous films and television shows due to its iconic cityscape and vibrant culture. Notable films include:\n\n- **Lost in Translation**: Several scenes, including the famous karaoke scene, were filmed in Tokyo, capturing its dynamic nightlife.\n- **The Fast and the Furious: Tokyo Drift**: This installment prominently features Tokyo's street racing scene.\n- **Inception**: The opening scene of the film is set in Tokyo.\n\nThese productions highlight Tokyo's unique scenery and contribute to its global cinematic appeal."
+    },
+    {
+      "title": "Visiting",
+      "body": "Tokyo is a city open for exploration, with plenty of attractions for visitors. Popular areas include Shinjuku, Shibuya, and the historic district of Asakusa. The city's public transportation is efficient and extensive, making it easy for tourists to navigate and visit various landmarks. Tokyo also offers various guided tours that provide insights into its cultural and historical sites."
+    }
+  ],
+  "aliases": [
+    "Tokyo Metropolis"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "country": "Japan",
+    "coordinates": {
+      "lat": 35.682839,
+      "long": 139.759455
+    }
+  },
+  "tags": [
+    "city",
+    "active",
+    "public",
+    "tours-available"
+  ]
+}

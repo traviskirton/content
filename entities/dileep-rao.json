@@ -1,0 +1,63 @@
+{
+  "id": "f4c3d2b2-ae12-4f1e-b3cc-a3d9a9f5c123",
+  "type": "person",
+  "name": "Dileep Rao",
+  "description": "American actor known for his roles in sci-fi and thriller films.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Dileep Rao was born in 1973 in Los Angeles, California. He graduated from the University of California, San Diego, and pursued a career in acting, performing in theater productions before transitioning to film."
+    },
+    {
+      "title": "Career",
+      "body": "Rao's career took off with significant roles in major films such as *Avatar*, *Inception*, and *Drag Me to Hell*. Known for his aptitude in science fiction and thriller genres, he has portrayed characters that often provide critical plot developments. With a career spanning over a decade, Rao has become a recognizable face in high-profile cinematic projects."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Rao has worked alongside well-known directors like James Cameron and Christopher Nolan. His role in *Inception* saw him collaborate with stars such as Leonardo DiCaprio and Ellen Page."
+    },
+    {
+      "title": "Legacy",
+      "body": "Dileep Rao has made a mark in Hollywood with his selective and impactful roles, especially known for contributing to some of the highest-grossing films of the early 21st century. Despite a relatively small number of screen appearances, his ability to choose successful projects has made him a noteworthy figure in the industry."
+    }
+  ],
+  "aliases": [
+    "Dileep A. Rao"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "acted_in",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "acted_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "worked_with",
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    }
+  ],
+  "properties": {
+    "born": 1973,
+    "nationality": "American",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "2009-present"
+  },
+  "tags": [
+    "actor",
+    "sci-fi",
+    "thriller",
+    "modern"
+  ]
+}

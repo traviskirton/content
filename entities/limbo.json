@@ -1,0 +1,48 @@
+{
+  "id": "8d2c9f17-25f4-4c4e-b569-45f76f2656de",
+  "type": "location",
+  "name": "Limbo",
+  "description": "A chaotic, infinitely vast and unpredictable dream space shared by all dreamers if they do not return from a deep dream level in 'Inception'.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Within the universe of *Inception*, Limbo is a shared dream space that results from entering too deeply into the dream layers and being disconnected from the real world. Dreamers risk being trapped here if they are killed in a dream state but cannot wake up because of strong sedatives. Dom Cobb and Mal Cobb previously spent a prolonged, subjective period here which impacted Mal's grasp on reality."
+    },
+    {
+      "title": "Geography",
+      "body": "Limbo is depicted as a vast, chaotic environment filled with ever-changing landscapes created from the subconscious of dreamers who find themselves there. It is surreal and unstructured, often resembling ruined cityscapes and distorted architecture."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The most notable feature of Limbo includes the forgotten cityscapes created by Cobb and Mal in their extended time there. These creations are worn and fractured, symbolizing Mal's eventual detachment from reality."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Limbo is a crucial plot element in *Inception*. It represents the psychological and emotional consequences of living in dreams for too long. Key scenes here include Cobb's realization of the damage from living in a dream and the final confrontation with Robert Fischer. It serves as a backdrop for the film's themes of reality vs. illusion."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "contains",
+      "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
+    },
+    {
+      "type": "contains",
+      "target": "070c7e8b-254b-48d2-bc66-df03b6b3f043"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "region"
+  },
+  "tags": [
+    "dream",
+    "sci-fi",
+    "futuristic"
+  ]
+}

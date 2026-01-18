@@ -1,0 +1,55 @@
+{
+  "id": "1875df29-9d41-4a58-8fd4-d5e42cd8cd94",
+  "type": "character",
+  "name": "Yusuf",
+  "description": "A skilled chemist and a key member of Cobb's team in the film 'Inception'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Yusuf is a chemist with expertise in compound constructions used for dream infiltration. He operates a pharmacy where he develops highly specialized sedatives capable of supporting stable shared dreaming across multiple dream layers."
+    },
+    {
+      "title": "Personality",
+      "body": "**Key Traits**: Intelligent, resourceful, and reliable. Yusuf often provides comic relief with his witty remarks. Despite the high stakes, he remains calm and focused. \n**Motivations**: Driven by his interest in pushing the boundaries of shared dreaming technology.\n**Flaws**: His tendency to focus on the scientific aspect may lead to underestimating risks."
+    },
+    {
+      "title": "Story Role",
+      "body": "Yusuf is a supporting character in 'Inception'. He is responsible for developing the sedative that allows the team to go deeper into the dream layers and plays an active role in the dream infiltration mission, particularly during the car chase in the first dream layer."
+    },
+    {
+      "title": "Relationships",
+      "body": "- Works with **Dom Cobb** (played by Leonardo DiCaprio) as part of the dream team.\n- Collaborates with **Arthur** (played by Joseph Gordon-Levitt) and **Ariadne** (played by Elliot Page) during the inception mission.\n- His sedative work is crucial for Saito's (played by Ken Watanabe) objectives."
+    },
+    {
+      "title": "Abilities",
+      "body": "**Chemistry Expertise**: Possesses advanced knowledge in pharmacology and chemistry, specifically in creating compounds for dream sharing.\n**Driving Skills**: Demonstrates adept driving under pressure during action sequences in the dreams."
+    }
+  ],
+  "aliases": [
+    "The Chemist"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "friends_with",
+      "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
+    },
+    {
+      "type": "works_at",
+      "target": "b418b4d6-d755-4f48-a615-9a1d5b5f3c5d"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Chemist",
+    "portrayed_by": "Dileep Rao"
+  },
+  "tags": [
+    "supporting",
+    "comic-relief",
+    "scientist"
+  ]
+}

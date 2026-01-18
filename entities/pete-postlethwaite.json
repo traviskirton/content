@@ -1,0 +1,55 @@
+{
+  "id": "81460f47-2769-46b3-be7b-733fdd27748c",
+  "type": "person",
+  "name": "Pete Postlethwaite",
+  "description": "Renowned English actor known for his roles in 'In the Name of the Father' and 'The Usual Suspects'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Peter William Postlethwaite, OBE, was born on February 7, 1946, in Warrington, England. Initially trained as a teacher, Postlethwaite pursued acting and began his career in theater. His unique look and powerful performances aided his transition into film, making him one of Britain's most respected character actors."
+    },
+    {
+      "title": "Career",
+      "body": "Postlethwaite's breakout role came in 1988 with 'Distant Voices, Still Lives', but it was his role in 'In the Name of the Father' (1993), alongside Daniel Day-Lewis, that earned him an Academy Award nomination for Best Supporting Actor. He also gained acclaim for roles in 'The Usual Suspects' (1995), 'The Lost World: Jurassic Park' (1997), and 'Inception' (2010). Known for his versatility, Postlethwaite brought depth to each of his characters."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Pete Postlethwaite worked with several notable directors, including Steven Spielberg and Christopher Nolan. Notably, he collaborated with Nolan in 'Inception' (2010) alongside actors like Leonardo DiCaprio and Michael Caine."
+    },
+    {
+      "title": "Legacy",
+      "body": "Postlethwaite was celebrated for his engaging screen presence, even in supporting roles. Film director Steven Spielberg described him as 'the best actor in the world.' He was appointed Officer of the Order of the British Empire (OBE) for his contributions to drama in 2004."
+    }
+  ],
+  "aliases": [
+    "Peter Postlethwaite"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "acted_in",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    }
+  ],
+  "properties": {
+    "born": 1946,
+    "died": 2011,
+    "nationality": "British",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1975-2011"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "modern"
+  ]
+}
