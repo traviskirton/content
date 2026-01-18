@@ -1,0 +1,52 @@
+{
+  "id": "6279796f-e7d5-4ba7-b8c8-acc759454f87",
+  "type": "person",
+  "name": "Billy Dee Williams",
+  "description": "An acclaimed American actor best known for his role as Lando Calrissian in the Star Wars franchise.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Billy Dee Williams was born on April 6, 1937, in New York City, USA. He began his career in the entertainment industry in the late 1940s, initially as a stage actor, before transitioning to television and film. Williams became widely recognized for his charming persona and smooth, charismatic performances."
+    },
+    {
+      "title": "Career",
+      "body": "Billy Dee Williams' career took off with his role in the television film **'Brian's Song'** (1971), for which he received an Emmy nomination. His portrayal of Gale Sayers, alongside James Caan, earned critical acclaim. He is perhaps best known for his role as Lando Calrissian in the **Star Wars** franchise, appearing in **'The Empire Strikes Back'** (1980) and **'Return of the Jedi'** (1983). Williams also appeared in **'Batman'** (1989) as Harvey Dent. His acting style is noted for its warmth, elegance, and a touch of suave sophistication."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Williams frequently collaborated with director **George Lucas** and co-starred with actors such as **Harrison Ford** and **Mark Hamill** in the Star Wars series."
+    },
+    {
+      "title": "Legacy",
+      "body": "Billy Dee Williams has left a lasting impact on the film industry, particularly for his representation of African American actors in genres like sci-fi and action. He has been recognized with numerous awards and honors throughout his career, and his role as Lando Calrissian remains iconic, influencing popular culture and new generations of fans."
+    }
+  ],
+  "aliases": [
+    "William December Williams Jr."
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    },
+    {
+      "type": "acted_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    }
+  ],
+  "properties": {
+    "born": "1937",
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "voice actor"
+    ],
+    "active_years": "1948-present"
+  },
+  "tags": [
+    "actor",
+    "sci-fi",
+    "classic-hollywood",
+    "new-hollywood"
+  ]
+}

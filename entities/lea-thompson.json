@@ -1,0 +1,72 @@
+{
+  "id": "da3f7c8b-9bb0-4d3b-9d6c-78f984762abc",
+  "type": "person",
+  "name": "Lea Thompson",
+  "description": "American actress and director known for her role in 'Back to the Future'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Lea Thompson was born on May 31, 1961, in Rochester, Minnesota, USA. She began her career in the entertainment industry as a dancer, but turned to acting after moving to New York City. Thompson gained early recognition for her work on both television and film during the 1980s."
+    },
+    {
+      "title": "Career",
+      "body": "Lea Thompson is best known for her role as Lorraine Baines McFly in the *Back to the Future* trilogy. Her performance in the franchise cemented her status as a household name. Thompson has appeared in numerous films throughout the 1980s and 1990s, including *All the Right Moves* (1983), *Some Kind of Wonderful* (1987), and *Howard the Duck* (1986). Beyond acting, Thompson has directed several television episodes and films, showcasing her versatility in the industry."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Lea Thompson frequently collaborated with director Robert Zemeckis and producer Steven Spielberg. Her role in *Back to the Future* connected her with a stellar cast, including Michael J. Fox and Christopher Lloyd."
+    },
+    {
+      "title": "Legacy",
+      "body": "Lea Thompson's impact on the film industry is significant, particularly due to her iconic role in the *Back to the Future* series. She has been recognized for her ability to bring warmth and depth to her characters. Thompson continues to influence new generations both in front of and behind the camera."
+    }
+  ],
+  "aliases": [
+    "Lea Kathleen Thompson"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "acted_in",
+      "target": "f7e6d5c4-b3a2-1098-7654-321fedcba987"
+    },
+    {
+      "type": "worked_with",
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+    },
+    {
+      "type": "worked_with",
+      "target": "ffbc5d71-dd5e-4895-9898-73d7e5e0b0d9"
+    },
+    {
+      "type": "worked_with",
+      "target": "fa1b4c26-3f75-4a88-8e6d-351c8c7e8df8"
+    },
+    {
+      "type": "worked_with",
+      "target": "c1a7a1c9-2d4f-43b7-ae9b-2f8e2c926d9e"
+    }
+  ],
+  "properties": {
+    "born": "1961",
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "director",
+      "producer"
+    ],
+    "active_years": "1980-present"
+  },
+  "tags": [
+    "actor",
+    "director",
+    "producer",
+    "sci-fi",
+    "comedy",
+    "drama",
+    "modern"
+  ]
+}

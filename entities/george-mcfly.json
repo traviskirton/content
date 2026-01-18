@@ -1,0 +1,69 @@
+{
+  "id": "b5a41d6b-4f3e-4dc1-8268-c4aeda84b8b4",
+  "type": "character",
+  "name": "George McFly",
+  "description": "George McFly is a character in the Back to the Future trilogy, known as the father of Marty McFly.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "**George McFly** was born in Hill Valley, California. He grew up in a modest household during the 1950s and developed a passion for science fiction, writing unpublished stories in his spare time. George attended Hill Valley High School, where he was frequently bullied by Biff Tannen. A pivotal moment in his life occurred during the Enchantment Under the Sea dance in 1955, where a series of events (partly orchestrated by his son Marty McFly, who traveled back in time) led to him standing up to Biff and earning the affections of Lorraine Baines, his future wife."
+    },
+    {
+      "title": "Personality",
+      "body": "George is initially portrayed as timid and introverted, often lacking self-confidence. He is portrayed as a bit of a dreamer, indulgent in science fiction and fantasy. However, after his encounter with Marty and the subsequent events at the Enchantment Under the Sea dance, he becomes more assertive and self-assured, leading to a more successful and happier life."
+    },
+    {
+      "title": "Story Role",
+      "body": "George plays a crucial role as both a source of motivation and a pivotal character in Marty’s time-traveling adventures. His transformation from a submissive character to a confident, assertive individual showcases the impact of Marty's actions in the past and is central to the narrative of **Back to the Future**. The character arc of George McFly exemplifies themes of personal growth and the cascading effect of small changes in the timeline."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Marty McFly**: George's son, who he unknowingly receives guidance from in 1955\r\n- **Lorraine Baines McFly**: His wife, whom he marries after the events of 1955\r\n- **Biff Tannen**: His high school bully; their dynamic drastically changes due to his actions in 1955\r\n- **Doc Brown**: An acquaintance through Marty's adventures."
+    }
+  ],
+  "aliases": [
+    "George Douglas McFly"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "appears_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "related_to",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "related_to",
+      "target": "9a65f6e3-4d98-4f7a-b5ad-1e0cf9c7d330"
+    },
+    {
+      "type": "rivals_with",
+      "target": "b3fbd1f3-8215-4a6a-9417-5f4c1d308eef"
+    },
+    {
+      "type": "related_to",
+      "target": "b3fbd1f3-8215-4a6a-9417-5f4c1d308eef"
+    },
+    {
+      "type": "lives_in",
+      "target": "2f3766f4-4cfe-4de3-a479-5d1fa96c3398"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "author",
+    "born": 1938,
+    "portrayed_by": "Crispin Glover"
+  },
+  "tags": [
+    "supporting",
+    "transformative",
+    "comic-relief",
+    "time-traveler"
+  ]
+}

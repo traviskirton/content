@@ -1,0 +1,71 @@
+{
+  "id": "3b52879a-7129-4f5c-9e15-60d01eb9c0da",
+  "type": "location",
+  "name": "Gotham City (Burton)",
+  "description": "The dark, gothic city depicted in Tim Burton's Batman films.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Gotham City, as portrayed in Tim Burton's Batman films, is a densely populated urban area with a rich, albeit troubled history. It is characterized by its gothic architecture and is plagued by crime and corruption. Many significant events unfold within its limits, making it a central location in the Batman narrative."
+    },
+    {
+      "title": "Geography",
+      "body": "The city's geography is marked by towering skyscrapers, narrow alleyways, and imposing gothic structures. The city is a sprawling metropolis, depicted with a dark and moody atmosphere, reflecting the grimness of its social environment."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Key landmarks within Gotham City include the **Gotham Cathedral**, an iconic gothic structure often shown in crucial scenes, and **Wayne Manor**, the residence of Bruce Wayne, located on the outskirts of the city. The **Flugelheim Museum** and **Axis Chemicals** are also prominent locations, associated with pivotal plot points in the films."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Gotham City is the primary setting for the action in Tim Burton's Batman films. It serves as both the battleground and backdrop for Bruce Wayne's crusade against crime. Many key scenes, including confrontations with The Joker and Catwoman, take place in its ominous alleys and towering structures. The city's dark representation reflects its central role in emphasizing the noir theme of the films."
+    }
+  ],
+  "aliases": [
+    "Gotham City",
+    "Burton's Gotham"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "featured_in",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "contains",
+      "target": "ec71f9f9-6e92-4a1d-9b3f-7b51c5d0d3b7"
+    },
+    {
+      "type": "contains",
+      "target": "380e0a6b-1e6d-4f90-8069-0f73e2df8b61"
+    },
+    {
+      "type": "contains",
+      "target": "9a576aa6-f416-4213-a5b1-6da45aaa6c14"
+    },
+    {
+      "type": "contains",
+      "target": "f3d9b29e-9b6f-42e2-bf7b-5200c58f5e10"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city"
+  },
+  "tags": [
+    "city",
+    "gothic",
+    "crime",
+    "Burton",
+    "1989",
+    "1992",
+    "Batman"
+  ]
+}

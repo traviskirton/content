@@ -1,0 +1,50 @@
+{
+  "id": "b2f5e4b5-d7a7-4b3b-80aa-abf9b1e4f344",
+  "type": "location",
+  "name": "The Pit",
+  "description": "A seemingly inescapable, ancient underground prison where Bruce Wayne is held.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Pit is a notorious underground prison that has been in existence for centuries. It is known for being a place with little hope of escape, where criminals and outcasts are sent to be forgotten by society. Within the universe of 'The Dark Knight Rises', it is known as a place from which only one person is rumored to have ever escaped."
+    },
+    {
+      "title": "Geography",
+      "body": "The Pit is situated in an undisclosed desert location. The prison itself is structured like a deep, cylindrical well with stone walls. It has a large open ceiling at the top, allowing sunlight to bathe the upper portions, while the deepest areas remain shadowy and oppressive."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The main feature of The Pit is its vast, vertical shaft, which prisoners attempt to climb to gain freedom. The interior walls are lined with ledges and footholds, but the climb is perilous, and many attempts have ended in failure due to a daunting leap required near the top. A mechanical rig, operated by prisoners, hauls up supplies and the occasional rope harness for escape attempts."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Pit serves as a critical location in 'The Dark Knight Rises'. It is where Bruce Wayne is imprisoned after Bane breaks his back. During his time in The Pit, Bruce is subjected to physical and psychological challenges that push him to his limits. It is here that he regains his strength, develops the resolve to return to Gotham, and triumphantly escapes the prison against all odds. The Pit symbolizes Bruce Wayne's rebirth and determination to overcome his greatest adversities."
+    }
+  ],
+  "aliases": [
+    "the underground pit",
+    "the prison"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "prison",
+    "population": "uncertain, varying number of prisoners"
+  },
+  "tags": [
+    "prison",
+    "action",
+    "superhero",
+    "The Dark Knight Trilogy",
+    "desert"
+  ]
+}

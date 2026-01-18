@@ -1,0 +1,49 @@
+{
+  "id": "af3888e4-4708-4c87-b5d7-090a61aa36c5",
+  "type": "person",
+  "name": "Paul Dano",
+  "description": "American actor known for his nuanced performances in both indie films and mainstream Hollywood movies.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Paul Dano was born on June 19, 1984, in New York City, United States. He began his career as a child actor on Broadway before transitioning to film and television in the early 2000s."
+    },
+    {
+      "title": "Career",
+      "body": "Dano's big break came with his role in 'Little Miss Sunshine' (2006), where he played the silent teenager Dwayne. He is known for his versatile performances in movies such as 'There Will Be Blood' (2007), 'Prisoners' (2013), and 'Love & Mercy' (2014). Dano's acting style is often described as intense and methodical, allowing him to deeply inhabit characters."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "- **Director Paul Thomas Anderson**: Worked together on 'There Will Be Blood'\n- **Actor Daniel Day-Lewis**: Co-starred with Dano in 'There Will Be Blood'"
+    },
+    {
+      "title": "Legacy",
+      "body": "Paul Dano has received critical acclaim for his ability to choose complex characters and deliver compelling performances. He was nominated for several awards and won numerous accolades, establishing himself as a prominent figure in both independent and mainstream cinema."
+    }
+  ],
+  "aliases": [
+    "Paul Franklin Dano"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    }
+  ],
+  "properties": {
+    "born": "1984",
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active_years": "2000-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "modern"
+  ]
+}

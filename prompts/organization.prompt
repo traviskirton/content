@@ -1,0 +1,51 @@
+Create a detailed entity for the fictional organization "[NAME]" from "[SOURCE]".
+
+Output valid JSON matching the entity schema in schemas/entity.schema.json.
+
+## Required Fields
+
+- **id**: Generate a new UUID
+- **type**: "organization"
+- **name**: The organization's official name
+
+## Content Sections
+
+Include these sections as appropriate:
+
+- **Overview**: What the organization is, its purpose
+- **History**: Origin, founding, major events
+- **Structure**: Leadership, hierarchy, membership
+- **Operations**: What they do, methods, goals
+- **Story Significance**: Role in the narrative, key moments
+
+## Properties to Consider
+
+- founded: in-universe year if known
+- founder: who started it
+- type: corporation, government, criminal, secret society, etc.
+- headquarters: primary location
+- fictional: true
+- Any other relevant in-universe attributes
+
+## Relationships
+
+Link to other entities using UUIDs:
+- featured_in: Media where this organization appears
+- led_by: Leader characters
+- members: Key member characters
+- headquartered_in: Location
+- allied_with, rivals_with: Other organizations
+
+## Tags
+
+Add relevant tags for filtering:
+- Organization type (corporation, police, criminal, secret-society)
+- Alignment (heroic, villainous, neutral)
+- Genre (superhero, sci-fi)
+
+## Guidelines
+
+- Keep descriptions based on what is shown or stated in the source material
+- Use markdown formatting in body text (bold, lists, etc.)
+- Link to existing entities by UUID when possible
+- Focus on in-universe information only

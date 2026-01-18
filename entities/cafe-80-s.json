@@ -1,0 +1,54 @@
+{
+  "id": "8a6f6c26-5d7e-4c3a-b63f-78d7a92e6d57",
+  "type": "location",
+  "name": "Cafe 80's",
+  "description": "A retro-themed diner reflecting the 1980s, located in Hill Valley in 2015.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Cafe 80's was founded prior to 2015 in Hill Valley as a nostalgic homage to the 1980s. It capitalizes on the retro appeal associated with the decade, evident with decor featuring memorabilia and technology from the time, such as video games and a robotic waitstaff resembling iconic figures from the era."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated in the futuristic 2015 version of Hill Valley, Cafe 80's is located in or near Courthouse Square, a central hub in the town. Its proximity to the town square makes it a popular hangout for both locals and time travelers alike."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Key features of Cafe 80's include its authentic 1980s decor with neon lights and vintage arcade machines. The cafe also features automated holographic attendants and a video display menu, underscoring the fusion of retro nostalgia with futuristic technology."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Cafe 80's plays a pivotal role in 'Back to the Future Part II' when Marty McFly arrives in 2015. Here, he encounters Griff Tannen, leading to a hoverboard chase, a major plot event. The cafe serves as a cultural reference point, highlighting the film's exploration of past and future."
+    }
+  ],
+  "aliases": [
+    "1980s Cafe",
+    "Retro Cafe"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "located_in",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    },
+    {
+      "type": "contains",
+      "target": "b12f1176-e8f4-4c8d-9abb-e294b08e1787"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building",
+    "founded": "prior to 2015"
+  },
+  "tags": [
+    "building",
+    "sci-fi",
+    "2015",
+    "futuristic",
+    "retro"
+  ]
+}

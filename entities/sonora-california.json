@@ -1,0 +1,61 @@
+{
+  "id": "9180225d-1af2-4db3-b6b4-a8f3bd05de5b",
+  "type": "location",
+  "name": "Sonora, California",
+  "description": "A historic city in California known for its rich gold rush history and as a popular filming location.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Sonora, California is a city located in the Sierra Nevada foothills. Founded during the California Gold Rush, it has retained much of its historic charm with a number of preserved 19th-century structures. Today, Sonora serves as the county seat of Tuolumne County and acts as a regional service center. Its authentic historic ambiance, combined with scenic landscapes, makes it a favored spot for filmmakers."
+    },
+    {
+      "title": "Film History",
+      "body": "Sonora has been the backdrop for numerous film and television productions, especially Westerns and period pieces. Notable films shot in Sonora include **\"Back to the Future Part III\"**, where the city's historic aesthetic was ideally suited for the film's 1885 Hill Valley setting."
+    },
+    {
+      "title": "Visiting",
+      "body": "Visitors to Sonora can enjoy a vibrant downtown area filled with antique shops, eateries, and the historic Sonora Opera Hall. It is publicly accessible and offers a variety of walking tours that showcase its rich history and connection to the film industry. Nestled near natural attractions like Yosemite National Park, it also serves as a great base for outdoor adventurers."
+    }
+  ],
+  "aliases": [
+    "Sonora",
+    "Queen of the Southern Mines"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "doubled_for",
+      "target": "048f308b-450f-4f86-9a04-6c411d1d746d"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "address": "Sonora, California, USA",
+    "city": "Sonora",
+    "state": "California",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 37.9846,
+      "longitude": -120.3823
+    }
+  },
+  "tags": [
+    "city",
+    "historical",
+    "public",
+    "active",
+    "tours-available"
+  ]
+}

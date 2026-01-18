@@ -1,0 +1,59 @@
+{
+  "id": "6a4b0f74-b7b5-4874-bfed-c8068f3e0c3b",
+  "type": "location",
+  "name": "Alternate 1985 Hill Valley",
+  "description": "A dystopian version of Hill Valley in 1985 where Biff Tannen is wealthy and powerful.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The alternate 1985 Hill Valley was created when Biff Tannen used the time machine to give his younger self a sports almanac. This allowed young Biff to become extraordinarily rich and powerful through betting on sporting events. As a result, Hill Valley became a dystopian version of itself."
+    },
+    {
+      "title": "Geography",
+      "body": "Located in California, this alternate version of Hill Valley appears more run-down and crime-ridden compared to its original timeline."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **Biff Tannen's Pleasure Paradise**: Originally the Courthouse, this building is now a casino and hotel owned by Biff Tannen.\n- **Hill Valley High School**: Now underfunded and in poor condition.\n- **Courthouse Square**: Has undergone significant changes to accommodate Biff's establishment."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Alternate 1985 Hill Valley plays a crucial role in 'Back to the Future Part II' as Marty McFly and Dr. Emmett Brown must navigate this chaotic version of their hometown to understand the changes made by Biff and find a way to restore the original timeline."
+    }
+  ],
+  "aliases": [
+    "Dystopian Hill Valley",
+    "Biff's 1985"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "contains",
+      "target": "fa3b9f8b-54f2-45a1-b242-d1a924b11efd"
+    },
+    {
+      "type": "contains",
+      "target": "b12f1176-e8f4-4c8d-9abb-e294b08e1787"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city",
+    "population": "Decreased significantly",
+    "founded": "1850"
+  },
+  "tags": [
+    "city",
+    "sci-fi",
+    "1985",
+    "dystopian",
+    "alternate timeline"
+  ]
+}

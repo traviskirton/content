@@ -1,0 +1,60 @@
+{
+  "id": "7818daf4-b097-4973-bace-3be5c9bde910",
+  "type": "character",
+  "name": "Selina Kyle (Pfeiffer)",
+  "description": "Selina Kyle transforms into the unpredictable Catwoman after a life-altering experience in Gotham City.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Selina Kyle begins as a meek and mousy secretary working for the nefarious businessman Max Shreck. Initially portrayed as submissive and intimidated, her life takes a drastic turn after she uncovers Shreck's scandalous secrets. After being pushed out of a window by Shreck, she survives a traumatic fall and is 'revived' by a group of alley cats, marking the beginning of her transformation into Catwoman."
+    },
+    {
+      "title": "Personality",
+      "body": "Post-transformation, Selina embodies a fiercely independent and confident persona. Her motivations shift towards seeking revenge against those who wronged her. However, her deeper internal conflict is characterized by a struggle between her dual identities as Selina and Catwoman, showcasing vulnerability amidst her outwardly bold demeanor."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Batman Returns', Selina Kyle/Catwoman serves as both an antagonist and a tragic anti-heroine. Her alliance with the Penguin against Batman adds complexity to the film's plot, while her own vendetta against Max Shreck drives much of her personal narrative arc. Her interactions with Bruce Wayne/Batman introduce romantic tension and conflict of interest, culminating in a deeply personal and tumultuous arc."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Max Shreck**: Initially her boss, Shreck becomes her enemy after attempting to murder her.\n- **Bruce Wayne/Batman**: An intriguingly complex relationship oscillating between romance and rivalry.\n- **The Penguin**: An uneasy alliance forms as they conspire against Batman, albeit with separate agendas."
+    },
+    {
+      "title": "Abilities",
+      "body": "Catwoman showcases agility, hand-to-hand combat skills, and acrobatics. Her newly acquired feline intuition seemingly grants her nine lives, evident from her survival from fatal situations. She also employs a whip with precision and flair."
+    }
+  ],
+  "aliases": [
+    "Catwoman"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+    },
+    {
+      "type": "rivals_with",
+      "target": "0fab5f73-6ee5-411b-a004-8b928dbf70cf"
+    },
+    {
+      "type": "rivals_with",
+      "target": "a5f4e3b2-0d7d-4fbb-bfaa-c2b0629ab6de"
+    },
+    {
+      "type": "related_to",
+      "target": "d5f4ea19-bb07-4635-9b41-63f8b93d0a54"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "secretary, vigilante",
+    "portrayed_by": "Michelle Pfeiffer"
+  },
+  "tags": [
+    "antagonist",
+    "anti-heroine",
+    "comic-relief",
+    "vigilante"
+  ]
+}

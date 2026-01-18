@@ -1,0 +1,62 @@
+{
+  "id": "123e4567-e89b-12d3-a456-426614174000",
+  "type": "person",
+  "name": "Michael Gough",
+  "description": "British actor known for his role as Alfred Pennyworth in the Batman films.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Michael Gough was a distinguished British actor born in 1916. He began his acting career in the 1940s, utilizing his classical theater training. Over the decades, he built a reputation for his work in both film and television."
+    },
+    {
+      "title": "Career",
+      "body": "Gough's career spanned over six decades, during which he appeared in more than 150 films. He was best known for his portrayal of Alfred Pennyworth, the loyal butler to Bruce Wayne in Tim Burton-directed Batman films such as **Batman** (1989) and **Batman Returns** (1992). His performances often displayed a versatility and depth that made him a favorite for character and supporting roles."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Throughout his career, Michael Gough frequently collaborated with esteemed director Tim Burton, appearing in films like **Sleepy Hollow** (1999) and **Corpse Bride** (2005). He was also a frequent collaborator with Hammer Film Productions, working on numerous horror films during the 1960s and 70s."
+    },
+    {
+      "title": "Legacy",
+      "body": "Gough left a lasting legacy in the film industry, particularly for his portrayal of Alfred, helping shape the character's cinematic identity. He won a BAFTA TV Award for Best Actor in 1957 and was nominated for a Tony Award in 1979. His contributions to film and television continue to be celebrated by fans and actors."
+    }
+  ],
+  "aliases": [
+    "Mike Gough"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "acted_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "acted_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "worked_with",
+      "target": "d2e9f21d-ae29-4f4a-9b12-0e5f5d1b9e79"
+    }
+  ],
+  "properties": {
+    "born": 1916,
+    "died": 2011,
+    "nationality": "British",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1946-2010"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "classic-hollywood",
+    "new-hollywood",
+    "modern",
+    "Batman"
+  ]
+}

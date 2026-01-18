@@ -1,0 +1,48 @@
+{
+  "id": "78e5a8d3-4b7a-49e1-bc6f-2b6d1c9a4e54",
+  "type": "location",
+  "name": "Gotham Stock Exchange",
+  "description": "A major financial trading hub in Gotham City featured in The Dark Knight Rises.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Gotham Stock Exchange is one of the most prominent financial institutions in Gotham City. Established to serve as the city's central hub for trading and finance, it has been a symbol of economic power and influence in the region."
+    },
+    {
+      "title": "Geography",
+      "body": "The Gotham Stock Exchange is located in the financial district of Gotham City, surrounded by skyscrapers and bustling with activity. The building itself stands as a towering, modern structure symbolizing the city's economic prowess."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The building features a grand trading floor, multiple electronic trading stations, and advanced security systems that monitor the continuous financial activities. Its architecture includes large glass facades and a prominent main entrance that reflects its importance."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'The Dark Knight Rises,' the Gotham Stock Exchange is the location of a significant heist led by Bane. The scene exemplifies the villain's strategic efforts to cripple Gotham's economy and highlights Bruce Wayne's financial struggles as part of the overarching narrative."
+    }
+  ],
+  "aliases": [
+    "GSE",
+    "Gotham Exchange"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "located_in",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "fictional",
+    "Gotham City",
+    "The Dark Knight Trilogy"
+  ]
+}

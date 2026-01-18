@@ -1,0 +1,50 @@
+{
+  "id": "f9b7c8a2-5693-4b4a-b4d5-a307c6f6b8d4",
+  "type": "person",
+  "name": "Eric Roberts",
+  "description": "An American actor known for his prolific career in film and television.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "**Eric Roberts** was born on April 18, 1956, in Biloxi, Mississippi, USA. He was raised in a family with a strong connection to the arts, which ultimately influenced his career path. Eric's journey into acting began at a young age, and he quickly made a name for himself with his performances in both stage productions and independent films."
+    },
+    {
+      "title": "Career",
+      "body": "Eric Roberts's career skyrocketed with his performance in **'King of the Gypsies'** (1978), earning him a Golden Globe nomination. He continued to gain critical acclaim with films like **'Star 80'** (1983) and **'Runaway Train'** (1985), the latter of which earned him an Academy Award nomination for Best Supporting Actor. Known for his intense and often gritty portrayals, Roberts's style has been characterized by his ability to bring depth and complexity to a diverse array of characters."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Throughout his career, Eric Roberts has worked with many distinguished directors and actors. Notably, he has collaborated with director **Christopher Nolan** in **'The Dark Knight'** (2008), where he played the role of mobster Sal Maroni."
+    },
+    {
+      "title": "Legacy",
+      "body": "Eric Roberts is recognized for his extensive body of work that spans over four decades. His contributions to the film industry have earned him respect as a versatile character actor. His performances, often in supporting roles, have been crucial in the success of many films. Eric's ability to consistently deliver compelling performances has solidified his reputation in Hollywood. He has also been nominated for numerous awards throughout his career, including an Academy Award and multiple Golden Globe nominations."
+    }
+  ],
+  "aliases": [
+    "Eric Anthony Roberts"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    }
+  ],
+  "properties": {
+    "born": 1956,
+    "nationality": "American",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1977-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "modern"
+  ]
+}

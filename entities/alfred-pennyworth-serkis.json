@@ -1,0 +1,60 @@
+{
+  "id": "1ea15c82-2e51-4f0d-bfce-98fc45a6ac50",
+  "type": "character",
+  "name": "Alfred Pennyworth (Serkis)",
+  "description": "Alfred Pennyworth is the loyal and trusted butler and father figure to Bruce Wayne, portrayed by Andy Serkis in 'The Batman (2022)'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Alfred Pennyworth, as portrayed in 'The Batman (2022)', is a former British Army veteran who now serves as the loyal butler and auxillary guardian of Bruce Wayne. He took on the role of a father figure after the tragic death of Bruce's parents, Thomas and Martha Wayne, ensuring Bruce's safety and assisting him in his endeavors in Gotham City."
+    },
+    {
+      "title": "Personality",
+      "body": "Alfred is depicted as a deeply caring and protective figure for Bruce Wayne. He shows a tough-love approach, reminding Bruce of his responsibilities and the risks of his actions as Batman. Loyal and resourceful, Alfred is committed to supporting Bruce's mission against crime in Gotham."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Batman', Alfred serves as a key supporting character. He assists Bruce with investigations and provides emotional support during tense moments. Alfred's dynamic with Bruce is central to the film's exploration of Bruce's dual identity and his mission as Batman."
+    },
+    {
+      "title": "Relationships",
+      "body": "Alfred Pennyworth has a close relationship with Bruce Wayne (Pattinson), serving as his mentor, confidant, and father figure. The bond between Bruce and Alfred is complicated by Bruce's often reckless behavior and desire to push boundaries in his fight against crime."
+    }
+  ],
+  "aliases": [
+    "Alfred"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "01eddf5d-be9b-488f-9398-650d6d00e0b9"
+    },
+    {
+      "type": "related_to",
+      "target": "b87b3c9d-4e25-41d3-b635-3ab2c66a63b4"
+    },
+    {
+      "type": "related_to",
+      "target": "b128e18b-0a9c-44bd-9a4e-25beafaf1b94"
+    },
+    {
+      "type": "related_to",
+      "target": "d2d9f803-43f7-46d1-97db-b23e5b62ad84"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "butler",
+    "portrayed_by": "Andy Serkis"
+  },
+  "tags": [
+    "supporting",
+    "mentor",
+    "loyal",
+    "father-figure"
+  ]
+}

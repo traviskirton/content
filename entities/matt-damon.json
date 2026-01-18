@@ -1,0 +1,58 @@
+{
+  "id": "18fccbcc-2783-4d1c-8f80-e3bb89891a5c",
+  "type": "person",
+  "name": "Matt Damon",
+  "description": "American actor and filmmaker known for his role in Good Will Hunting.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Matt Damon was born on October 8, 1970, in Cambridge, Massachusetts, USA. His interest in acting began at a young age, ultimately leading him to Harvard University, where he studied English before dropping out to pursue acting full time. Damon first gained notice with his role in the film _Good Will Hunting_, which he co-wrote with his friend Ben Affleck."
+    },
+    {
+      "title": "Career",
+      "body": "Matt Damon's career took off with his role in _Good Will Hunting_ (1997), for which he won an Academy Award for Best Original Screenplay along with Ben Affleck. He is also known for his roles in _The Talented Mr. Ripley_, the _Bourne_ series, and _The Martian_. Over the years, Damon has established himself as a versatile actor capable of handling varied and challenging roles."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Damon has frequently collaborated with director Steven Soderbergh in films such as _Ocean's Eleven_, _Ocean's Twelve_, and _Ocean's Thirteen_. He has also worked extensively with actor Ben Affleck in various capacities, both onscreen and as a co-writer."
+    },
+    {
+      "title": "Legacy",
+      "body": "Matt Damon is regarded as one of the most bankable stars in the industry, known for both his box office hits and critically acclaimed performances. He has received several accolades, including an Academy Award and two Golden Globe Awards. Damon's influence extends beyond acting; he has also been involved in various charitable efforts and is co-founder of the production company LivePlanet."
+    }
+  ],
+  "aliases": [
+    "Matthew Paige Damon"
+  ],
+  "relationships": [
+    {
+      "type": "worked_with",
+      "target": "5de86068-a215-4f6d-a874-3d9ddb2b83b7"
+    },
+    {
+      "type": "worked_with",
+      "target": "ffbc5d71-dd5e-4895-9898-73d7e5e0b0d9"
+    },
+    {
+      "type": "worked_with",
+      "target": "a3c5de67-f1d3-42b6-a6b3-123f0d65c1a4"
+    }
+  ],
+  "properties": {
+    "born": 1970,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "screenwriter",
+      "producer"
+    ],
+    "active_years": "1988-present"
+  },
+  "tags": [
+    "actor",
+    "producer",
+    "screenwriter",
+    "drama",
+    "modern"
+  ]
+}

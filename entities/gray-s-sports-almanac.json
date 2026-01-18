@@ -1,0 +1,61 @@
+{
+  "id": "1f4e6103-1fbb-4ce2-b248-f5c1b5a5de5b",
+  "type": "item",
+  "name": "Gray's Sports Almanac",
+  "description": "A sports almanac containing statistics from 1950 to 2000, pivotal in the plot of 'Back to the Future Part II'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Gray's Sports Almanac is a sports statistics book that covers the results of sporting events from the years 1950 to 2000. It is a key plot element in 'Back to the Future Part II', used by Biff Tannen for personal gain."
+    },
+    {
+      "title": "Appearance",
+      "body": "The book has a red and yellow cover, with the title 'Gray's Sports Almanac' boldly printed on it, alongside the years '1950-2000'. It has a relatively slim appearance typical of a magazine or paperback from the 1980s."
+    },
+    {
+      "title": "Function",
+      "body": "The almanac provides detailed information on sports events, including scores, betting odds, and statistics from baseball, football, horse racing, and more. It serves as a source of historical data that can be exploited to predict future sporting event outcomes."
+    },
+    {
+      "title": "History",
+      "body": "Initially purchased by Marty McFly in 2015 as a memento, the almanac becomes a crucial element when Old Biff Tannen steals it to bring back to 1955. With the almanac, Biff amasses wealth by betting on sports events with guaranteed outcomes, creating an alternate timeline."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'Back to the Future Part II', the almanac is the centerpiece of the movie's plot twist. Biff Tannen uses it to alter his future and become wealthy and powerful, which Marty and Doc must correct to restore the original timeline. This sets off a series of events that drive the narrative forward."
+    }
+  ],
+  "aliases": [
+    "Sports Almanac"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "owned_by",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "used_by",
+      "target": "91c5a0e5-be13-4ac9-808c-8e4df7d82334"
+    },
+    {
+      "type": "located_at",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    }
+  ],
+  "properties": {
+    "item_type": "book",
+    "created_by": "Robert Zemeckis and Bob Gale",
+    "fictional": true
+  },
+  "tags": [
+    "book",
+    "sci-fi",
+    "macguffin",
+    "time-travel",
+    "powerful"
+  ]
+}

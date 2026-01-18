@@ -1,0 +1,55 @@
+{
+  "id": "43d147b9-dbd0-45de-a989-16a9f9f4a3a2",
+  "type": "location",
+  "name": "Wollaton Hall",
+  "description": "A grand Tudor-style historical manor located in Nottingham, England, serving as a public museum and park.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Wollaton Hall is an Elizabethan country house standing on a small but prominent hill in Wollaton Park, Nottingham, England. Built in the 1580s, it is a stunning example of Tudor architecture. Today, it serves as a natural history museum and is part of a public city park."
+    },
+    {
+      "title": "Film History",
+      "body": "Wollaton Hall famously served as Wayne Manor, the home of Bruce Wayne, in the 2012 film _The Dark Knight Rises_. Key scenes featuring Christian Bale's character were filmed in and around the hall."
+    },
+    {
+      "title": "Visiting",
+      "body": "Wollaton Hall is open to the public, boasting a museum and park grounds that offer tours, exhibitions, and events throughout the year. Visitors can explore the vast park lands, the deer park, gardens, and the hall itself."
+    }
+  ],
+  "aliases": [
+    "Wayne Manor"
+  ],
+  "relationships": [
+    {
+      "type": "doupled_for",
+      "target": "380e0a6b-1e6d-4f90-8069-0f73e2df8b61"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "located_in",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "manor house",
+    "address": "Wollaton Hall, Nottingham NG8 2AE, United Kingdom",
+    "city": "Nottingham",
+    "country": "United Kingdom",
+    "coordinates": {
+      "lat": 52.947,
+      "long": -1.2074
+    }
+  },
+  "tags": [
+    "manor house",
+    "museum",
+    "public",
+    "tours-available",
+    "active"
+  ]
+}

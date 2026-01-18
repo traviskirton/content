@@ -1,0 +1,60 @@
+{
+  "id": "01eddf5d-be9b-488f-9398-650d6d00e0b9",
+  "type": "person",
+  "name": "Andy Serkis",
+  "description": "English actor, director, and producer known for his pioneering work in performance capture roles.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Andy Serkis was born in 1964 in Ruislip Manor, West London. He studied visual arts and began his career in theatre, quickly becoming known for his versatile talent and unique performances."
+    },
+    {
+      "title": "Career",
+      "body": "Andy Serkis is renowned for revolutionizing performance capture with his roles as Gollum in 'The Lord of the Rings' and Caesar in 'Planet of the Apes'. He has worked extensively in both acting and directing, with major contributions to the development of digital acting through motion capture."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Serkis has frequently collaborated with directors like Peter Jackson and Matt Reeves, showcasing his dynamic range and expertise in both live-action and digitally-enhanced roles."
+    },
+    {
+      "title": "Legacy",
+      "body": "Serkis is regarded as a pioneer in the art of performance capture. His groundbreaking work has earned him numerous accolades and set new standards in the film industry."
+    }
+  ],
+  "aliases": [
+    "Andrew Clement Serkis"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "worked_with",
+      "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    }
+  ],
+  "properties": {
+    "born": 1964,
+    "nationality": "British",
+    "occupation": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active_years": "1989-present"
+  },
+  "tags": [
+    "actor",
+    "director",
+    "producer",
+    "sci-fi",
+    "fantasy",
+    "modern"
+  ]
+}

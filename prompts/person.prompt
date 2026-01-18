@@ -1,0 +1,49 @@
+Create a detailed entity for the real person "[NAME]" ([SOURCE]).
+
+Output valid JSON matching the entity schema in schemas/entity.schema.json.
+
+## Required Fields
+
+- **id**: Generate a new UUID
+- **type**: "person"
+- **name**: The person's professional name
+
+## Content Sections
+
+Include these sections as appropriate:
+
+- **Biography**: Brief background, career beginnings
+- **Career**: Major works, achievements, style or approach
+- **Notable Collaborations**: Frequent creative partners
+- **Legacy**: Impact on the industry, awards, recognition
+
+## Properties to Consider
+
+- born: birth year
+- died: death year (if applicable)
+- nationality: country of origin
+- occupation: actor, director, producer, writer, etc. (can be array)
+- active_years: range of career (e.g., "1975-present")
+- Any other relevant attributes
+
+## Relationships
+
+Link to other entities using UUIDs:
+- directed, produced, wrote, acted_in: Media they worked on
+- worked_with: Other people (frequent collaborators)
+- founded: Companies they started
+- worked_for: Companies or studios
+
+## Tags
+
+Add relevant tags for filtering:
+- Role (actor, director, producer, writer, composer)
+- Genre associations (sci-fi, comedy, drama)
+- Era (classic-hollywood, new-hollywood, modern)
+
+## Guidelines
+
+- Keep descriptions factual and based on publicly available information
+- Focus on professional career, not personal life
+- Use markdown formatting in body text (bold, lists, etc.)
+- Link to existing entities by UUID when possible

@@ -1,0 +1,59 @@
+{
+  "id": "89d7e8f5-4e96-4e69-bfd2-8c1e8a9f7c41",
+  "type": "person",
+  "name": "Danny Elfman",
+  "description": "American composer and musician known for his work with director Tim Burton and scores for numerous films.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "**Danny Elfman** was born on May 29, 1953, in Los Angeles, California. He showed interest in music at an early age and started his career by joining the avant-garde musical group 'Oingo Boingo' in the early 1970s. Elfman's unique blend of styles and eclectic influences quickly drew attention in the music world."
+    },
+    {
+      "title": "Career",
+      "body": "Elfman is renowned for his collaborations with director Tim Burton, scoring films such as *Batman*, *Edward Scissorhands*, *The Nightmare Before Christmas*, and *Alice in Wonderland*. His work is characterized by a distinctive, whimsical sound that blends classical elements with popular music. Elfman has also composed for television, including the iconic theme for *The Simpsons*."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Elfman has frequently collaborated with director **Tim Burton**, lending his musical style to Burton's unique visual storytelling. Additionally, he has worked with other directors like **Sam Raimi** and **Gus Van Sant**."
+    },
+    {
+      "title": "Legacy",
+      "body": "Elfman's scores have become integral to the films they've accompanied, often enhancing the narratives with their atmospheric tone. He has received several awards and nominations, including Grammy and Emmy awards, and an Academy Award nomination for best original score."
+    }
+  ],
+  "aliases": [
+    "Daniel Robert Elfman"
+  ],
+  "relationships": [
+    {
+      "type": "worked_with",
+      "target": "d2e9f21d-ae29-4f4a-9b12-0e5f5d1b9e79"
+    },
+    {
+      "type": "wrote",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "wrote",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    }
+  ],
+  "properties": {
+    "born": 1953,
+    "nationality": "American",
+    "occupation": [
+      "composer",
+      "musician",
+      "singer"
+    ],
+    "active_years": "1970-present"
+  },
+  "tags": [
+    "composer",
+    "musician",
+    "film",
+    "batman",
+    "tim-burton",
+    "modern"
+  ]
+}

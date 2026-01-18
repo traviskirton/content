@@ -1,0 +1,65 @@
+{
+  "id": "ffbc5d71-dd5e-4895-9898-73d7e5e0b0d9",
+  "type": "person",
+  "name": "Steven Spielberg",
+  "description": "An iconic American film director, producer, and screenwriter known for creating some of the most popular and critically acclaimed movies in history.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "**Steven Allan Spielberg** was born on December 18, 1946, in Cincinnati, Ohio. He grew up in a Jewish family and developed an early interest in film-making by creating short films at a young age. Steven attended California State University, Long Beach, but dropped out to pursue his film career."
+    },
+    {
+      "title": "Career",
+      "body": "Spielberg's professional career took off in the 1970s with the success of 'Jaws' (1975), a film that essentially created the summer blockbuster genre. His repertoire includes classics such as 'E.T. the Extra-Terrestrial,' 'Indiana Jones' series, 'Jurassic Park,' 'Schindler's List,' **and many more**. Known for his wide-ranging genres and innovative storytelling, Spielberg has significant influence over film direction, production quality, and narrative styles in Hollywood."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Spielberg frequently collaborated with composer John Williams on film scores and worked closely with producer Kathleen Kennedy and filmmaker George Lucas on several projects. He also had significant collaborations with actor Tom Hanks on multiple films."
+    },
+    {
+      "title": "Legacy",
+      "body": "Spielberg is considered one of the founding pioneers of the New Hollywood era and one of the most influential directors and producers in film history. He has won several Academy Awards, including Best Director. His impact on the film industry is profound, with numerous critically acclaimed films and a continued influence through his company, Amblin Entertainment."
+    }
+  ],
+  "aliases": [
+    "Steve Spielberg"
+  ],
+  "relationships": [
+    {
+      "type": "founded",
+      "target": "bf84ed68-aa8b-40d9-87b0-5a7f2e275b5a"
+    },
+    {
+      "type": "produced",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "worked_with",
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+    },
+    {
+      "type": "worked_for",
+      "target": "217d1e4e-b4f3-4c6f-a1e7-ed74e29c8e67"
+    }
+  ],
+  "properties": {
+    "born": "1946",
+    "nationality": "United States",
+    "occupation": [
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active_years": "1971-present"
+  },
+  "tags": [
+    "director",
+    "producer",
+    "writer",
+    "sci-fi",
+    "adventure",
+    "drama",
+    "new-hollywood",
+    "modern"
+  ]
+}

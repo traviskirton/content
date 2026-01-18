@@ -1,0 +1,68 @@
+{
+  "id": "163f25f5-8a97-40f9-bb36-d9edb5cb43cf",
+  "type": "location",
+  "name": "Puente Hills Mall",
+  "description": "A suburban shopping mall in California that served as a key filming location for 'Back to the Future'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Puente Hills Mall is a regional shopping mall located in the City of Industry, California. It serves as a retail hub for the surrounding communities, offering a variety of stores, dining options, and entertainment facilities."
+    },
+    {
+      "title": "Film History",
+      "body": "Puente Hills Mall is famously known for its role as the filming location of the 'Twin Pines Mall' and later 'Lone Pine Mall' in the film 'Back to the Future'. It was featured prominently in the opening scenes where Marty McFly witnesses the DeLorean Time Machine in action for the first time."
+    },
+    {
+      "title": "Visiting",
+      "body": "The Puente Hills Mall is open to the public and functions as a regular shopping mall with numerous retail outlets, food courts, and a cinema. While visiting, fans of 'Back to the Future' can identify the locations seen in the movie. The mall is accessible with plenty of parking space, and public transport options are also available to reach the site."
+    }
+  ],
+  "aliases": [
+    "Twin Pines Mall",
+    "Lone Pine Mall"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "doubled_for",
+      "target": "e3f7e898-87fc-4f84-83fc-5e0f72c8217c"
+    },
+    {
+      "type": "doubled_for",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    },
+    {
+      "type": "located_in",
+      "target": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
+    },
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "mall",
+    "address": "1600 S Azusa Ave, City of Industry, CA 91748, USA",
+    "city": "City of Industry",
+    "state": "California",
+    "country": "United States",
+    "coordinates": {
+      "lat": 33.9926,
+      "long": -117.9279
+    }
+  },
+  "tags": [
+    "location",
+    "mall",
+    "active",
+    "public"
+  ]
+}

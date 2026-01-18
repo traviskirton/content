@@ -1,0 +1,48 @@
+{
+  "id": "9ea831c8-8d94-4312-9954-6159a1c7e065",
+  "type": "location",
+  "name": "Palace Saloon",
+  "description": "A central gathering spot and saloon in Hill Valley during the year 1885.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Palace Saloon is a well-known establishment in Hill Valley during the year 1885. It serves as a central hub for the townspeople to gather, drink, and socialize. The Saloon plays a significant role in the local culture and economy of Hill Valley's Wild West era."
+    },
+    {
+      "title": "Geography",
+      "body": "Located in the town center of Hill Valley in 1885, the Palace Saloon is easily accessible to the residents and visitors of this small frontier town. The Saloon stands among other essential businesses and structures typical of a 19th-century American town."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The interiors of the Palace Saloon reflect the classic architecture and design elements of an 1885 saloon, complete with a bar counter, tables for card games, and a small stage for entertainment. It serves a variety of beverages typical of the time and often hosts lively social gatherings."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Palace Saloon is significant in 'Back to the Future Part III' as it is the location where Marty McFly (known as 'Clint Eastwood') confronts 'Mad Dog' Tannen and his gang. It is a pivotal setting for key scenes in the film, showcasing the classic Western standoff between Marty and the antagonists."
+    }
+  ],
+  "aliases": [
+    "Hill Valley Saloon"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "located_in",
+      "target": "048f308b-450f-4f86-9a04-6c411d1d746d"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building",
+    "founded": "1885"
+  },
+  "tags": [
+    "building",
+    "western",
+    "1885",
+    "saloon"
+  ]
+}

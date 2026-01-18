@@ -1,0 +1,56 @@
+{
+  "id": "08111703-bc9b-4c57-b329-2eb6529f7712",
+  "type": "person",
+  "name": "John Lithgow",
+  "description": "An accomplished American actor known for his work in film, television, and theater.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "John Lithgow, born October 19, 1945, is an American actor known for his versatility and wide-ranging career across film, television, and stage performances. Raised in a theatrical family, Lithgow attended Harvard College and later the London Academy of Music and Dramatic Art, laying the groundwork for a distinguished acting career."
+    },
+    {
+      "title": "Career",
+      "body": "John Lithgow's career began in the theatre with critical acclaim for his Broadway performances, earning him multiple Tony Awards. He rose to prominence in film with roles in 'The World According to Garp' and 'Terms of Endearment', receiving Academy Award nominations for both. Lithgow gained widespread recognition for his role as Dr. Dick Solomon in the television series '3rd Rock from the Sun', winning multiple Emmy Awards. His work spans various genres, showcasing his ability to perform both comedic and dramatic roles with equal aplomb."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Throughout his career, Lithgow has worked with several renowned directors and actors, including Brian De Palma, Steven Spielberg, and Edward Norton. His collaborations in television include working alongside co-stars like Kristen Johnston and Joseph Gordon-Levitt in '3rd Rock from the Sun'."
+    },
+    {
+      "title": "Legacy",
+      "body": "With a career spanning over five decades, John Lithgow has become a respected figure in the entertainment industry. His performances have earned him numerous accolades, including Emmy Awards, Tony Awards, a Golden Globe Award, and nominations for Academy Awards. Lithgow's ability to imbue his roles with depth and authenticity ensures his continued influence in the world of acting."
+    }
+  ],
+  "aliases": [
+    "John Arthur Lithgow"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "worked_with",
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+    },
+    {
+      "type": "worked_with",
+      "target": "ffbc5d71-dd5e-4895-9898-73d7e5e0b0d9"
+    }
+  ],
+  "properties": {
+    "born": "1945",
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "author"
+    ],
+    "active_years": "1972-present"
+  },
+  "tags": [
+    "actor",
+    "comedy",
+    "drama",
+    "modern"
+  ]
+}

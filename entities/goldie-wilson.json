@@ -1,0 +1,48 @@
+{
+  "id": "c1e2d3f4-5678-9abc-def0-123456789abc",
+  "type": "character",
+  "name": "Goldie Wilson",
+  "description": "Ambitious young man who becomes the mayor of Hill Valley.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Goldie Wilson started as a youthful, optimistic employee at Lou's Cafe in Hill Valley in 1955. He was portrayed as a young African-American man with high aspirations beyond his current job."
+    },
+    {
+      "title": "Personality",
+      "body": "Goldie is known for his optimistic and enthusiastic personality. He exhibits determination and a strong work ethic, traits that lead him to pursue his dreams of a better future. His ambition and self-confidence are pivotal in defining his role in the story."
+    },
+    {
+      "title": "Story Role",
+      "body": "Goldie Wilson is a supporting character in \"Back to the Future\" who represents the potential for social change and upward mobility. Initially, in 1955, he works at Lou's Cafe but, inspired by Marty McFly's comment about being the mayor someday, he pursues this dream and eventually becomes the Mayor of Hill Valley by the 1980s. His storyline adds depth to the narrative, showing the impact of small actions from the past."
+    },
+    {
+      "title": "Relationships",
+      "body": "Goldie's interactions are more with the setting than with specific characters, reflecting societal changes. His primary significant interaction in the story is with Marty McFly, whose offhand comment about being mayor inspires Goldie to pursue politics."
+    }
+  ],
+  "aliases": [
+    "Mayor Wilson"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "lives_in",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Mayor of Hill Valley",
+    "portrayed_by": "Don Fullilove"
+  },
+  "tags": [
+    "supporting",
+    "ambitious",
+    "mayor",
+    "inspirational"
+  ]
+}

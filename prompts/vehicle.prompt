@@ -1,0 +1,50 @@
+Create a detailed entity for the vehicle "[NAME]" from "[SOURCE]".
+
+Output valid JSON matching the entity schema in schemas/entity.schema.json.
+
+## Required Fields
+
+- **id**: Generate a new UUID
+- **type**: "vehicle"
+- **name**: The vehicle's name or designation
+
+## Content Sections
+
+Include these sections as appropriate:
+
+- **Overview**: What the vehicle is, its primary purpose
+- **Design**: Physical description, notable features, appearance
+- **Capabilities**: What it can do, special functions, performance
+- **History**: Origin, who built it, significant events involving it
+- **Story Significance**: Key scenes or moments, why it matters to the narrative
+
+## Properties to Consider
+
+- vehicle_type: car, spaceship, motorcycle, etc.
+- manufacturer: who built it (in-universe)
+- model: base model if applicable
+- year: year of manufacture
+- fictional: true/false
+- Any other relevant in-universe attributes
+
+## Relationships
+
+Link to other entities using UUIDs:
+- featured_in: Media where this vehicle appears
+- owned_by, piloted_by: Characters
+- created_by: Character who built/invented it
+- located_at: Where it's stored or based
+
+## Tags
+
+Add relevant tags for filtering:
+- Vehicle type (car, time-machine, spacecraft)
+- Genre associations (sci-fi, action)
+- Notable features (flying, time-travel)
+
+## Guidelines
+
+- Keep descriptions based on what is shown or stated in the source material
+- Use markdown formatting in body text (bold, lists, etc.)
+- Link to existing entities by UUID when possible
+- Focus on in-universe information only

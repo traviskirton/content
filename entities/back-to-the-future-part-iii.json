@@ -1,0 +1,107 @@
+{
+  "id": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a",
+  "type": "movie",
+  "name": "Back to the Future Part III",
+  "description": "The final installment of the time-travel trilogy, set in the Old West.",
+  "content": [
+    {
+      "title": "Synopsis",
+      "body": "In 'Back to the Future Part III,' Marty McFly travels back to 1885 to rescue his friend Doc Brown. Upon arriving in the Old West, Marty faces challenges like outlaws and ensuring his friend doesn't alter the course of history. Together, they must find a way to return to the present while dealing with unexpected obstacles."
+    },
+    {
+      "title": "Production",
+      "body": "Directed by Robert Zemeckis and written by Bob Gale, 'Back to the Future Part III' was filmed back-to-back with 'Part II.' The movie was produced by Amblin Entertainment and Universal Pictures. The film marked a change in setting from the previous films by moving to the American Old West, which required extensive location shooting and period-specific set design."
+    },
+    {
+      "title": "Reception",
+      "body": "The film was well-received upon release, praised for its humor, nostalgia, and successful closure of the series' narrative arcs. 'Back to the Future Part III' grossed over $244 million worldwide and maintains a positive reception from critics and audiences alike, noted for its shift in tone and setting."
+    },
+    {
+      "title": "Legacy",
+      "body": "'Back to the Future Part III' contributed to the enduring legacy of the trilogy, imprinting itself in popular culture for its imaginative story and nostalgic value. The film has been referenced in various other media and remains a favorite among fans of the series."
+    }
+  ],
+  "aliases": [
+    "BTTF Part III",
+    "Back to the Future 3"
+  ],
+  "relationships": [
+    {
+      "type": "directed_by",
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+    },
+    {
+      "type": "written_by",
+      "target": "9058322f-b99a-4b8f-9356-3e165b8dbb4e"
+    },
+    {
+      "type": "produced_by",
+      "target": "ffbc5d71-dd5e-4895-9898-73d7e5e0b0d9"
+    },
+    {
+      "type": "composed_by",
+      "target": "7e34d755-1a4c-44c8-b953-64d5287d3aad"
+    },
+    {
+      "type": "stars",
+      "target": "c1a7a1c9-2d4f-43b7-ae9b-2f8e2c926d9e"
+    },
+    {
+      "type": "stars",
+      "target": "fa1b4c26-3f75-4a88-8e6d-351c8c7e8df8"
+    },
+    {
+      "type": "stars",
+      "target": "da3f7c8b-9bb0-4d3b-9d6c-78f984762abc"
+    },
+    {
+      "type": "features_character",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "features_character",
+      "target": "c3d4e5f6-a7b8-9012-cdef-345678901234"
+    },
+    {
+      "type": "features_character",
+      "target": "b3fbd1f3-8215-4a6a-9417-5f4c1d308eef"
+    },
+    {
+      "type": "features_location",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "bf84ed68-aa8b-40d9-87b0-5a7f2e275b5a"
+    },
+    {
+      "type": "distributed_by",
+      "target": "217d1e4e-b4f3-4c6f-a1e7-ed74e29c8e67"
+    },
+    {
+      "type": "part_of",
+      "target": "f7e6d5c4-b3a2-1098-7654-321fedcba987"
+    }
+  ],
+  "properties": {
+    "year": 1990,
+    "runtime": 118,
+    "genre": [
+      "Science Fiction",
+      "Adventure",
+      "Comedy"
+    ],
+    "budget": 40000000,
+    "box_office": 244527583,
+    "rating": "PG"
+  },
+  "tags": [
+    "sci-fi",
+    "adventure",
+    "comedy",
+    "1990s",
+    "time-travel",
+    "western",
+    "classic"
+  ]
+}

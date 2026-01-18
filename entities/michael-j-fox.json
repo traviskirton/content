@@ -1,0 +1,65 @@
+{
+  "id": "c1a7a1c9-2d4f-43b7-ae9b-2f8e2c926d9e",
+  "type": "person",
+  "name": "Michael J. Fox",
+  "description": "Canadian-American actor, author, and advocate best known for his role as Marty McFly in 'Back to the Future'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Michael J. Fox was born on June 9, 1961, in Edmonton, Alberta, Canada. He began acting at the age of 15 and moved to Los Angeles at 18 to pursue a career in film and television."
+    },
+    {
+      "title": "Career",
+      "body": "Fox gained fame as Alex P. Keaton on the TV sitcom 'Family Ties', which aired from 1982 to 1989. He is best known for his role as Marty McFly in the 'Back to the Future' trilogy, a performance that cemented his status as a leading actor. Fox has received various accolades, including multiple Emmy and Golden Globe awards. In addition to film and television, he has written several books and has become an advocate for research into Parkinson's disease since his diagnosis in 1991."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Michael J. Fox frequently collaborated with directors Robert Zemeckis and Bob Gale during the production of the 'Back to the Future' series."
+    },
+    {
+      "title": "Legacy",
+      "body": "Fox's work on 'Back to the Future' has left a lasting impact on pop culture, and his advocacy for Parkinson's research has inspired many. He founded the Michael J. Fox Foundation for Parkinson's Research, which has become a leading organization in the field."
+    }
+  ],
+  "aliases": [
+    "Michael Andrew Fox"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "acted_in",
+      "target": "f7e6d5c4-b3a2-1098-7654-321fedcba987"
+    },
+    {
+      "type": "worked_with",
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+    },
+    {
+      "type": "worked_with",
+      "target": "9058322f-b99a-4b8f-9356-3e165b8dbb4e"
+    },
+    {
+      "type": "worked_for",
+      "target": "217d1e4e-b4f3-4c6f-a1e7-ed74e29c8e67"
+    }
+  ],
+  "properties": {
+    "born": "1961",
+    "nationality": "Canadian-American",
+    "occupation": [
+      "actor",
+      "author",
+      "advocate"
+    ],
+    "active_years": "1976-present"
+  },
+  "tags": [
+    "actor",
+    "comedy",
+    "sci-fi",
+    "modern"
+  ]
+}

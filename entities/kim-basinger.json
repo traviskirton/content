@@ -1,0 +1,60 @@
+{
+  "id": "d73b2e74-6b3b-4dda-9c02-5a5340a03738",
+  "type": "person",
+  "name": "Kim Basinger",
+  "description": "Award-winning actress known for her roles in 'L.A. Confidential' and 'Batman'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Kim Basinger was born on December 8, 1953, in Athens, Georgia, USA. She started her career as a model before transitioning to acting in the late 1970s. Her breakthrough role came with the film _Never Say Never Again_ in 1983, where she starred opposite Sean Connery."
+    },
+    {
+      "title": "Career",
+      "body": "Basinger's career took off with her performance in _9½ Weeks_ (1986) and she gained further acclaim for her role as Vicki Vale in Tim Burton's _Batman_ (1989). Her portrayal of Lynn Bracken in _L.A. Confidential_ (1997) won her the Academy Award for Best Supporting Actress. Known for her versatility, Basinger excelled in both drama and comedy genres."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Throughout her career, Kim Basinger has collaborated with prominent directors such as Tim Burton and Curtis Hanson. She worked alongside actors like Michael Keaton in _Batman_ and Russell Crowe in _L.A. Confidential_."
+    },
+    {
+      "title": "Legacy",
+      "body": "Kim Basinger is recognized as one of the significant actresses of her generation, influencing both film and fashion. Her work in _L.A. Confidential_ remains iconic, gaining her critical and commercial success. She continues to be celebrated for her contributions to cinema and acting."
+    }
+  ],
+  "aliases": [
+    "Kimila Ann Basinger"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "e5d3f69c-ce24-4a97-a133-6a74f0b5f6be"
+    },
+    {
+      "type": "acted_in",
+      "target": "d2e9f21d-ae29-4f4a-9b12-0e5f5d1b9e79"
+    },
+    {
+      "type": "worked_with",
+      "target": "4ac67e49-8f92-4993-be4d-f6c0329ac472"
+    },
+    {
+      "type": "worked_with",
+      "target": "b2267f4d-1f07-43b5-a89e-9efb012f9d48"
+    }
+  ],
+  "properties": {
+    "born": 1953,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "producer"
+    ],
+    "active_years": "1976-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "modern",
+    "classic-hollywood"
+  ]
+}

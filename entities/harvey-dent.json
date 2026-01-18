@@ -1,0 +1,61 @@
+{
+  "id": "3ad870f7-eae2-4d1f-9518-3ad34e54301f",
+  "type": "character",
+  "name": "Harvey Dent",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Harvey Dent is a dedicated and idealistic district attorney serving Gotham City. He initially upholds the law with a strong moral code and a fierce determination to rid the city of crime and corruption. His efforts see him as the 'White Knight' of Gotham, fighting to bring justice to a city long plagued by villainy."
+    },
+    {
+      "title": "Personality",
+      "body": "Dent is characterized by his determination, ambition, and strong sense of justice, which initially drive him in his career as a district attorney. However, these traits also conceal his darker side; as Two-Face, he displays a split personality driven by chaos and a fixation on the concept of chance, making decisions based on the flip of a coin."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Dark Knight', Harvey Dent begins as an ally to Batman and Commissioner Gordon in their efforts to dismantle organized crime. However, after a tragic encounter that leaves him physically and mentally scarred, Dent transforms into 'Two-Face', a villain obsessed with duality and chance. This transformation represents the key thematic conflict in the film between order and chaos."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Bruce Wayne/Batman**: Harvey initially sees Batman as a necessary figure in the fight against crime, although his view changes post-transformation.\n- **Jim Gordon**: Dent works closely with Gordon, sharing a mutual respect and goal to bring down crime.\n- **Rachel Dawes**: Dent's romantic interest, Rachel's fate deeply affects him and catalyzes his transformation into Two-Face.\n- **The Joker**: Key antagonist who manipulates events leading to Dent's transformation."
+    }
+  ],
+  "aliases": [
+    "Two-Face"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "b418b4d6-d755-4f48-a615-9a1d5b5f3c5d"
+    },
+    {
+      "type": "rivals_with",
+      "target": "82d8cba6-2bde-47da-bf1e-1897f5b8b9fa"
+    },
+    {
+      "type": "related_to",
+      "target": "1e1d3e8d-c5f3-4d30-b4f3-45f6128ce7ed"
+    },
+    {
+      "type": "friends_with",
+      "target": "9c39d7e0-1f12-4590-8b53-9ddb5f765cb5"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "District Attorney of Gotham City",
+    "portrayed_by": "Aaron Eckhart",
+    "born": "1976",
+    "died": "2008"
+  },
+  "tags": [
+    "antagonist",
+    "villain",
+    "tragic hero",
+    "lawyer"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "e6dd9f4d-04b5-4f36-aad6-60d3ba7e1c8b",
+  "type": "person",
+  "name": "Zoë Kravitz",
+  "description": "American actress known for her unique roles in film and television",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "**Zoë Kravitz** was born on December 1, 1988, in Los Angeles, California, to actress Lisa Bonet and musician Lenny Kravitz, both of whom are well-known figures in the entertainment industry. With a rich cultural heritage of African-American and Ashkenazi Jewish descent, Kravitz grew up surrounded by influential artists, shaping her future in the creative field. She began acting in 2007, making her debut in the film *No Reservations*."
+    },
+    {
+      "title": "Career",
+      "body": "Zoë Kravitz's versatility as an actress has allowed her to take on a diverse range of characters across various genres, from indie films like *Dope* to major blockbusters such as *Mad Max: Fury Road* and the *Fantastic Beasts* series. She is also renowned for her role as Selina Kyle/Catwoman in Matt Reeves' *The Batman*. Her performance style often combines a strong sense of presence with emotional depth, making her one of the standout actresses of her generation."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Throughout her career, Zoë Kravitz has worked with prominent directors and actors. She collaborated with George Miller in *Mad Max: Fury Road*, and more recently with Robert Pattinson in *The Batman*. Her role in *Big Little Lies* brought her into collaboration with Reese Witherspoon and Nicole Kidman, further establishing her presence in both film and television."
+    },
+    {
+      "title": "Legacy",
+      "body": "As a rising star in Hollywood, Zoë Kravitz's work has already left a significant impact on the industry. Her roles often challenge traditional female archetypes, offering a fresh perspective that resonates with modern audiences. Kravitz has been recognized for her contributions to film and television with various award nominations, and continues to be an influential figure in entertainment, known for her advocacy of diversity and representation in the arts."
+    }
+  ],
+  "aliases": [
+    "Zoë Isabella Kravitz"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "dbf564e7-1a57-4ed3-a2b0-ec5d646bdb24"
+    },
+    {
+      "type": "acted_in",
+      "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
+    }
+  ],
+  "properties": {
+    "born": 1988,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "model",
+      "singer"
+    ],
+    "active_years": "2007-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "sci-fi",
+    "modern"
+  ]
+}

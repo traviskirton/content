@@ -1,0 +1,64 @@
+{
+  "id": "bc9fa1d2-4f56-4abc-a4ac-74f4e65c8e28",
+  "type": "vehicle",
+  "name": "Batwing",
+  "description": "The Batwing is Batman's advanced, bat-shaped aerial vehicle featured in the 1989 film 'Batman'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The **Batwing** is an advanced aerial combat vehicle designed and utilized by Batman in the 1989 film 'Batman'. Its primary purpose is to offer Batman superior air mobility and combat capabilities in the skies above Gotham City."
+    },
+    {
+      "title": "Design",
+      "body": "The Batwing is distinctively designed to resemble the shape of a bat, complete with wings that extend outward. The front of the vehicle features a sharp nose, and the cockpit is enclosed with room for a single pilot. The dark color scheme aids in its stealth capabilities, making it a formidable presence in the night sky."
+    },
+    {
+      "title": "Capabilities",
+      "body": "The Batwing is equipped with advanced weaponry, including machine guns and missiles, providing it formidable offensive capabilities. It also features a grappling device for precise aerial maneuvers and a spotlight shaped like the bat symbol, used to project the Bat-Signal."
+    },
+    {
+      "title": "History",
+      "body": "Built by Bruce Wayne, the Batwing makes its cinematic appearance during a high-stakes encounter with The Joker in 'Batman' (1989). It was instrumental in attempting to stop The Joker's terror over Gotham City."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Batwing plays a critical role in one of the film's key scenes, when Batman uses it to thwart The Joker's plans of distributing his deadly Smilex gas over Gotham City. It serves as a symbol of Batman's technological prowess and readiness to confront crime through any means necessary."
+    }
+  ],
+  "aliases": [
+    "Batman’s plane",
+    "Bat Jet"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "piloted_by",
+      "target": "a5f4e3b2-0d7d-4fbb-bfaa-c2b0629ab6de"
+    },
+    {
+      "type": "created_by",
+      "target": "a5f4e3b2-0d7d-4fbb-bfaa-c2b0629ab6de"
+    },
+    {
+      "type": "located_at",
+      "target": "94768b45-89e7-4a8f-99a4-4d038b1357be"
+    }
+  ],
+  "properties": {
+    "vehicle_type": "aircraft",
+    "manufacturer": "Wayne Enterprises",
+    "year": "1989",
+    "fictional": true
+  },
+  "tags": [
+    "aircraft",
+    "batman",
+    "1989",
+    "action",
+    "flying",
+    "Gotham City"
+  ]
+}

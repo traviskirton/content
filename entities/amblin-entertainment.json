@@ -1,0 +1,63 @@
+{
+  "id": "bf84ed68-aa8b-40d9-87b0-5a7f2e275b5a",
+  "type": "company",
+  "name": "Amblin Entertainment",
+  "description": "A renowned film and television production company founded by Steven Spielberg.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Amblin Entertainment** is a distinguished film and television production company known for producing some of the most iconic films in American cinema. It is involved in the production and development of a wide range of films and television projects."
+    },
+    {
+      "title": "History",
+      "body": "Amblin Entertainment was founded in 1981 by acclaimed director and producer **Steven Spielberg**, along with producers **Kathleen Kennedy** and **Frank Marshall**. The name 'Amblin' was inspired by Spielberg's early short film of the same name, created in 1968. The company quickly became known for producing high-quality films and has since played a significant role in Hollywood's film landscape. Major milestones include the release of *E.T. the Extra-Terrestrial* and forming partnerships with major studios like Universal Pictures."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Key films produced by Amblin Entertainment include:\n\n- **E.T. the Extra-Terrestrial** (1982)\n- **Back to the Future** (1985) - [uuid: e0c661c3-9b71-4ef4-9ee7-cd23343f5b88]\n- **Jurassic Park** (1993)\n- **Saving Private Ryan** (1998)\nAmblin has also been involved in various television projects, further solidifying its role in entertainment."
+    },
+    {
+      "title": "Legacy",
+      "body": "Amblin Entertainment has made a lasting impact on the film industry by producing critically acclaimed and commercially successful films that have become cultural landmarks. Its collaboration with major studios and filmmakers has allowed it to maintain a strong reputation as a leading production company. The company's legacy is marked by its significant contribution to the film industry during the golden age of blockbuster cinema."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "produced",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "parent_company",
+      "target": "217d1e4e-b4f3-4c6f-a1e7-ed74e29c8e67"
+    }
+  ],
+  "properties": {
+    "founded": 1981,
+    "founder": [
+      "Steven Spielberg",
+      "Kathleen Kennedy",
+      "Frank Marshall"
+    ],
+    "headquarters": "Universal City, California, United States",
+    "type": [
+      "studio",
+      "production company"
+    ]
+  },
+  "tags": [
+    "studio",
+    "production-company",
+    "film",
+    "television",
+    "golden-age"
+  ]
+}

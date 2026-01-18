@@ -1,0 +1,48 @@
+{
+  "id": "790bfd61-634f-4b25-a9ac-4f2798aa30d7",
+  "type": "location",
+  "name": "Coalhouse Fort",
+  "description": "A historic fort in East Tilbury, Essex, used as a filming location for various film productions.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Coalhouse Fort** is a historic artillery fort constructed in the 19th century located in East Tilbury, Essex, England. The fort's primary purpose was to defend the Thames Estuary against naval attacks. Today, it is preserved as a heritage site and is managed by the Coalhouse Fort Project, offering visitors insights into its military history."
+    },
+    {
+      "title": "Film History",
+      "body": "Coalhouse Fort has been utilized as a filming location for various film and television productions due to its distinctive military architecture. Notably, it has been used as a backdrop in movies portraying historical wartime settings, although specific notable productions are not frequently highlighted."
+    },
+    {
+      "title": "Visiting",
+      "body": "Coalhouse Fort is open to the public with regular tours available, especially during the warm months, allowing visitors to explore both the interior and exterior of the fort. Special event days and reenactments are also organized on-site. It is currently preserved and actively maintained for educational and heritage tourism purposes."
+    }
+  ],
+  "aliases": [
+    "East Tilbury Fort"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "historic fort",
+    "address": "Coalhouse Fort, Princess Margaret Road, East Tilbury, RM18 8PB",
+    "city": "East Tilbury",
+    "state": "Essex",
+    "country": "United Kingdom",
+    "coordinates": {
+      "latitude": 51.4741,
+      "longitude": 0.4293
+    }
+  },
+  "tags": [
+    "historic",
+    "fort",
+    "preserved",
+    "public",
+    "tours-available"
+  ]
+}

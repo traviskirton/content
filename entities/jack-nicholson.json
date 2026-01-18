@@ -1,0 +1,62 @@
+{
+  "id": "4ac67e49-8f92-4993-be4d-f6c0329ac472",
+  "type": "person",
+  "name": "Jack Nicholson",
+  "description": "American actor and filmmaker known for his versatile roles in iconic films.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Jack Nicholson was born on April 22, 1937, in Neptune City, New Jersey, USA. He grew up believing that his grandmother was his mother, and his mother was his sister; a fact he discovered only much later in life. He moved to Los Angeles in 1954 to visit his sister and pursue acting. Nicholson's early career included roles in low-budget crime films and westerns, which laid the groundwork for his later success."
+    },
+    {
+      "title": "Career",
+      "body": "Jack Nicholson is renowned for his performances in a number of critically acclaimed films over a career spanning more than six decades. His breakthrough role came with the film 'Easy Rider' (1969). He has received acclaim for his roles in films like 'Chinatown' (1974), 'One Flew Over the Cuckoo's Nest' (1975), 'The Shining' (1980), 'Batman' (1989), and 'A Few Good Men' (1992). Nicholson is known for his intense and dynamic acting style, often portraying anti-heroes or volatile characters. He has won three Academy Awards, showcasing his prowess as one of the most talented actors of his generation."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Nicholson has worked with numerous prominent directors, including Martin Scorsese, Stanley Kubrick, and Tim Burton. His collaboration with director Milos Forman on 'One Flew Over the Cuckoo's Nest' remains particularly noteworthy. He also frequently collaborated with actors like Michael Caine and Tom Cruise."
+    },
+    {
+      "title": "Legacy",
+      "body": "Jack Nicholson's legacy in the film industry is extensive, marked by a diverse and accomplished body of work. He is often hailed as one of the greatest actors in the history of American cinema. With numerous awards, including multiple Academy Awards and Golden Globes, Nicholson's impact on the industry is undeniable. His performances have left an indelible mark on Hollywood, influencing countless actors and filmmakers."
+    }
+  ],
+  "aliases": [
+    "John Joseph Nicholson"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "worked_with",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "worked_with",
+      "target": "d2e9f21d-ae29-4f4a-9b12-0e5f5d1b9e79"
+    }
+  ],
+  "properties": {
+    "born": "1937",
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active_years": "1954-2010"
+  },
+  "tags": [
+    "actor",
+    "director",
+    "producer",
+    "writer",
+    "classic-hollywood",
+    "new-hollywood",
+    "drama",
+    "thriller"
+  ]
+}

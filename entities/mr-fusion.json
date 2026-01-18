@@ -1,0 +1,58 @@
+{
+  "id": "2e9f1c66-8e4c-4d5d-9ed3-20f47a47124f",
+  "type": "item",
+  "name": "Mr. Fusion",
+  "description": "A futuristic power unit capable of converting household waste into energy for time travel.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The **Mr. Fusion Home Energy Reactor**, commonly referred to as Mr. Fusion, is a compact energy device used to power the DeLorean Time Machine. Its primary purpose is to convert household waste and other refuse into electric power, which is then used to fuel the DeLorean's time-traveling capabilities."
+    },
+    {
+      "title": "Appearance",
+      "body": "Mr. Fusion resembles a small, white coffee maker with a distinctive dome on top, labeled with the 'Mr. Fusion' logo. It is designed to be mounted on the exterior of the DeLorean Time Machine, replacing the original plutonium reactor."
+    },
+    {
+      "title": "Function",
+      "body": "Mr. Fusion works by converting organic waste into electrical energy. This process is based on a fictional advancement in 21st-century technology that allows it to power the flux capacitor, the core component required for time travel in the DeLorean."
+    },
+    {
+      "title": "History",
+      "body": "The Mr. Fusion device originates from the future—specifically, the year 2015. Doc Brown acquires Mr. Fusion during his travels to the future, intending to use it to replace the dangerous plutonium-based power source originally used in the DeLorean Time Machine."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Mr. Fusion plays a critical role in 'Back to the Future Part II' as it replaces the need for plutonium, making the Time Machine much more versatile and environmentally friendly. It highlights the advanced technology of the future that is capable of harnessing everyday waste as a clean energy source. Its introduction allows Marty and Doc to continue their time-traveling adventures without relying on difficult-to-obtain materials."
+    }
+  ],
+  "aliases": [
+    "Mr. Fusion Home Energy Reactor"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "part_of",
+      "target": "a7e5d3c2-b1f8-42a3-9c8e-4f0f0172f0a3"
+    },
+    {
+      "type": "created_by",
+      "target": "c3d4e5f6-a7b8-9012-cdef-345678901234"
+    }
+  ],
+  "properties": {
+    "item_type": "device",
+    "created_by": "Dr. Emmett Brown",
+    "fictional": true
+  },
+  "tags": [
+    "device",
+    "technology",
+    "sci-fi",
+    "time-travel",
+    "fusion power",
+    "clean energy"
+  ]
+}

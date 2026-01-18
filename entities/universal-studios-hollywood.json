@@ -1,0 +1,64 @@
+{
+  "id": "4f39b6e0-1234-4c7a-b545-7c58d2f87acd",
+  "type": "location",
+  "name": "Universal Studios Hollywood",
+  "description": "A world-renowned film studio and theme park located in Los Angeles, California.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Universal Studios Hollywood** is both a film studio and a theme park located in the San Fernando Valley area of Los Angeles, California. It is one of the oldest and most famous Hollywood film studios still in use and is often referred to as the \"Entertainment Capital of LA.\" The studio is a popular tourist destination and includes a theme park that draws millions of visitors annually. The lot has been used for producing numerous TV shows and feature films, serving as a key player in the entertainment industry."
+    },
+    {
+      "title": "Film History",
+      "body": "Universal Studios Hollywood has been the filming location for countless iconic movies and TV shows. The backlot features sets such as the famous Courthouse Square, depicted as Hill Valley's town square in the 'Back to the Future' trilogy. Other notable films shot here include 'Jurassic Park,' 'Psycho,' and 'War of the Worlds.' The studio has a rich history as a filming destination, providing everything from sound stages to city streets, to entire period villages."
+    },
+    {
+      "title": "Visiting",
+      "body": "Universal Studios Hollywood is open to the public as both a working studio and a theme park. Visitors can take studio tours that offer a behind-the-scenes look at real movie sets and sound stages where Hollywood movies and TV shows are filmed. Attractions and rides based on popular films produced by Universal Pictures are available, including experiences based on 'Jurassic Park,' 'Harry Potter,' and 'Fast & Furious.' Advance booking is recommended, especially during peak season."
+    }
+  ],
+  "aliases": [
+    "Universal Studios",
+    "Universal Studios Los Angeles"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "ec71f9f9-6e92-4a1d-9b3f-7b51c5d0d3b7"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "doubled_for",
+      "target": "b12f1176-e8f4-4c8d-9abb-e294b08e1787"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "studio",
+    "address": "100 Universal City Plaza, Universal City, CA 91608, USA",
+    "city": "Los Angeles",
+    "state": "California",
+    "country": "United States",
+    "coordinates": {
+      "lat": 34.1381,
+      "long": -118.3534
+    }
+  },
+  "tags": [
+    "studio",
+    "active",
+    "tours-available",
+    "public"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "d1e7b5a8-3c4e-4933-b872-62dbb5275c79",
+  "type": "item",
+  "name": "Frisbee Pie Tin",
+  "description": "A tin pie plate used as a makeshift weapon by Marty McFly in 1885.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Frisbee Pie Tin is a humble kitchen item used as a pie plate, which played a significant role as an impromptu weapon in *Back to the Future Part III*."
+    },
+    {
+      "title": "Appearance",
+      "body": "It is a round, metallic tin with the word 'Frisbie' engraved on it, used originally for holding pies."
+    },
+    {
+      "title": "Function",
+      "body": "While primarily designed for baking pies, it was used by Marty McFly to deflect a thrown plate in a saloon, demonstrating its dual use as a defensive tool."
+    },
+    {
+      "title": "History",
+      "body": "The Frisbie Pie Tin originated in the late 19th century, produced by the Frisbie Pie Company. In the film, it becomes a centerpiece in linking to the future invention of the frisbee toy."
+    },
+    {
+      "title": "Story Significance",
+      "body": "During a confrontation in the Palace Saloon, Marty McFly uses the pie tin to fend off an attack, showcasing his resourcefulness. This moment cleverly ties into the real-world invention of the frisbee, connecting past and future."
+    }
+  ],
+  "aliases": [
+    "Frisbee",
+    "Pie Tin"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "used_by",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "located_at",
+      "target": "9ea831c8-8d94-4312-9954-6159a1c7e065"
+    }
+  ],
+  "properties": {
+    "item_type": "artifact",
+    "fictional": true
+  },
+  "tags": [
+    "artifact",
+    "sci-fi",
+    "19th century",
+    "macguffin"
+  ]
+}

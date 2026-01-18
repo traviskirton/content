@@ -1,0 +1,65 @@
+{
+  "id": "d47d2ba3-4fca-4ed5-b0d1-ecf81b896b8f",
+  "type": "character",
+  "name": "Seamus McFly",
+  "description": "Seamus McFly is a 19th-century ancestor of the protagonist Marty McFly in 'Back to the Future Part III.'",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Seamus McFly is an Irish immigrant who settled in Hill Valley during the 1880s. Along with his wife Maggie, Seamus is one of the early ancestors of the McFly family in the United States."
+    },
+    {
+      "title": "Personality",
+      "body": "Seamus is portrayed as modest, kind-hearted, and supportive. He is wise and provides valuable advice to his descendant Marty McFly when they meet during Marty’s time-traveling adventures in 1885. Seamus embodies the spirit of perseverance and family values."
+    },
+    {
+      "title": "Story Role",
+      "body": "Seamus McFly serves as a mentor and guiding figure for Marty McFly during his stay in 1885. Seamus’s wisdom and experiences offer Marty crucial insights into dealing with life in the Old West and understanding his own family heritage, providing depth to the time-travel narrative."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Maggie McFly**: Seamus's wife, with whom he shares a devoted and loving relationship.\n- **William McFly**: Their son, who is Marty's great-grandfather.\n- **Marty McFly**: His descendant from the future; Seamus offers Marty important life lessons.\n- **Buford Tannen**: While not directly related, Buford serves as the antagonist during Marty’s visit to 1885, impacting Seamus indirectly."
+    }
+  ],
+  "aliases": [
+    "Seamus"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "related_to",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "related_to",
+      "target": "943327b5-f3a3-4a6b-a2df-3b6d72ec4486"
+    },
+    {
+      "type": "related_to",
+      "target": "b5a41d6b-4f3e-4dc1-8268-c4aeda84b8b4"
+    },
+    {
+      "type": "related_to",
+      "target": "9a65f6e3-4d98-4f7a-b5ad-1e0cf9c7d330"
+    },
+    {
+      "type": "related_to",
+      "target": "28e933d7-2659-4413-b2f2-4a126c7c1957"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "farmer",
+    "born": "circa 1850s",
+    "portrayed_by": "Michael J. Fox"
+  },
+  "tags": [
+    "supporting",
+    "mentor",
+    "family",
+    "19th-century"
+  ]
+}

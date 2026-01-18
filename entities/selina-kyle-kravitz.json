@@ -1,0 +1,65 @@
+{
+  "id": "d89e052c-4577-4753-a15c-3b890c6576df",
+  "type": "character",
+  "name": "Selina Kyle (Kravitz)",
+  "description": "Selina Kyle, also known as Catwoman, is a nimble and cunning thief in 'The Batman (2022)' played by Zoë Kravitz.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Selina Kyle is a skilled thief living in Gotham City. Her early life and the circumstances that led her to a life of crime are largely shrouded in mystery. In 'The Batman', she is introduced as someone deeply connected to the criminal underworld of Gotham, motivated by both personal gain and a sense of justice for those marginalized by society."
+    },
+    {
+      "title": "Personality",
+      "body": "Selina Kyle is fiercely independent, resourceful, and driven by personal motives that sometimes align with greater causes. While she initially appears to serve her own interests, she demonstrates a complex moral code, revealing empathy and willingness to assist others, particularly when confronting the corruption that plagues Gotham. Her enigmatic and dual nature makes her both a potential ally and adversary."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Batman (2022)', Selina Kyle plays a crucial role as a supporting character whose own investigation intertwines with Batman's mission to uncover Gotham's deep-seated corruption. Her alliances shift throughout the film as her true motives are gradually revealed, and her relationship with Batman develops into a complicated partnership."
+    },
+    {
+      "title": "Relationships",
+      "body": "Selina Kyle has a complicated relationship with Bruce Wayne (Batman), portrayed by Robert Pattinson. Their dynamic evolves from wary adversaries to allies with a deep understanding of each other's motives and abilities. She is also connected to Gotham's criminal elements, including Carmine Falcone, a notable crime lord in the city."
+    },
+    {
+      "title": "Abilities",
+      "body": "Selina Kyle is highly skilled in stealth, hand-to-hand combat, and burglary, making her one of the most adept thieves in Gotham. Her agility and expertise in self-defense are matched by her sharp intellect and ability to navigate complex social environments to extract information and influence outcomes."
+    }
+  ],
+  "aliases": [
+    "Catwoman"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "e6dd9f4d-04b5-4f36-aad6-60d3ba7e1c8b"
+    },
+    {
+      "type": "friends_with",
+      "target": "b87b3c9d-4e25-41d3-b635-3ab2c66a63b4"
+    },
+    {
+      "type": "rivals_with",
+      "target": "fe4f2182-4056-4713-8491-8d53ad5c434b"
+    },
+    {
+      "type": "lives_in",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "thief",
+    "portrayed_by": "Zoë Kravitz"
+  },
+  "tags": [
+    "protagonist",
+    "anti-hero",
+    "thief",
+    "fighter",
+    "complex"
+  ]
+}

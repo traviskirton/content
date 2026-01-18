@@ -1,0 +1,64 @@
+{
+  "id": "ae5189a7-563b-4162-b1ad-7fbbf6d7b3c9",
+  "type": "character",
+  "name": "Carmine Falcone (Turturro)",
+  "description": "Carmine Falcone is a powerful Gotham City crime lord in 'The Batman (2022)'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Carmine Falcone is a notorious crime lord in Gotham City, wielding significant influence over the city's criminal underworld. He is involved in various illegal activities, including drug trafficking, and has strong ties to corrupt elements within the city's law enforcement and political spheres."
+    },
+    {
+      "title": "Personality",
+      "body": "Falcone is ruthless and cunning, using his power and influence to control and manipulate those around him. Despite his brutal methods, he maintains a calm and collected demeanor, often seen as a suave and sophisticated figure in the Gotham underworld."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Batman (2022)', Carmine Falcone serves as a central antagonist, entangling the film's protagonists in his web of criminal activity. His operations and illicit dealings are crucial plot points that drive the narrative and reveal Gotham's deep-rooted corruption."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Bruce Wayne (Pattinson)**: Falcone has a complex relationship with Bruce Wayne, as his criminal activities often oppose Batman's vigilantism.\n- **Selina Kyle (Kravitz)**: Falcone shares a personal connection with Selina Kyle, which becomes a pivotal aspect of both characters' story arcs.\n- **The Riddler**: Although primarily an antagonist, Falcone's actions indirectly fuel The Riddler's vendetta against Gotham's elite."
+    },
+    {
+      "title": "Abilities",
+      "body": "Falcone's greatest ability is his strategic mind and mastery of manipulation. He is adept at controlling and exploiting Gotham's criminal networks and influential figures for his benefit."
+    }
+  ],
+  "aliases": [
+    "The Roman"
+  ],
+  "relationships": [
+    {
+      "type": "portrayed_by",
+      "target": "89b7e1d7-563c-4b49-b789-416bacf84652"
+    },
+    {
+      "type": "appears_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "related_to",
+      "target": "b87b3c9d-4e25-41d3-b635-3ab2c66a63b4"
+    },
+    {
+      "type": "related_to",
+      "target": "d89e052c-4577-4753-a15c-3b890c6576df"
+    },
+    {
+      "type": "related_to",
+      "target": "c8f65c7b-82c3-41db-a2f1-6a7f8e6f843e"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Crime Lord",
+    "works_at": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+  },
+  "tags": [
+    "antagonist",
+    "villain",
+    "crime lord",
+    "influential"
+  ]
+}

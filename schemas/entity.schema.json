@@ -1,0 +1,81 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "entity.schema.json",
+  "title": "Entity",
+  "description": "Base schema for all entities in the content dataset",
+  "type": "object",
+  "required": ["id", "type", "name"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "format": "uuid",
+      "description": "Unique identifier for the entity"
+    },
+    "type": {
+      "type": "string",
+      "description": "The kind of entity (e.g., movie, character, location)",
+      "examples": ["movie", "book", "tv_show", "video_game", "character", "person", "location", "organization", "item", "vehicle", "franchise", "universe"]
+    },
+    "name": {
+      "type": "string",
+      "description": "Primary display name for the entity"
+    },
+    "description": {
+      "type": "string",
+      "description": "A brief one-line summary of the entity"
+    },
+    "content": {
+      "type": "array",
+      "description": "Long-form content organized into sections",
+      "items": {
+        "type": "object",
+        "required": ["title", "body"],
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "Section heading"
+          },
+          "body": {
+            "type": "string",
+            "description": "Section content (can include markdown)"
+          }
+        }
+      }
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Alternative names or titles for search purposes"
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type", "target"],
+        "properties": {
+          "type": {
+            "type": "string",
+            "description": "The kind of relationship (e.g., appears_in, directed_by, located_in)"
+          },
+          "target": {
+            "type": "string",
+            "format": "uuid",
+            "description": "The UUID of the related entity"
+          }
+        }
+      },
+      "description": "Connections to other entities"
+    },
+    "properties": {
+      "type": "object",
+      "additionalProperties": true,
+      "description": "Type-specific properties (e.g., year, runtime for movies)"
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Freeform tags for categorization and filtering"
+    }
+  },
+  "additionalProperties": false
+}

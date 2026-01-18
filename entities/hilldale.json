@@ -1,0 +1,52 @@
+{
+  "id": "a8f4c2d3-e5b6-4c3a-9f7e-0d1c85a7b612",
+  "type": "location",
+  "name": "Hilldale",
+  "description": "A residential neighborhood in Hill Valley known for being upscale but having deteriorated by 2015.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Hilldale was once considered an upscale residential neighborhood in Hill Valley. However, by 2015, it had become a less desirable area with increased crime rates and lower property values."
+    },
+    {
+      "title": "Geography",
+      "body": "Hilldale is located within Hill Valley, California. It is depicted as a suburban area with notable housing developments that have seen better days."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **McFly Residence**: Home of Marty McFly and his family in the future timeline.\n- **Residential Development**: Characterized by single-family homes and suburban streets."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In *Back to the Future Part II*, Hilldale is significant as the future home of Marty McFly. The location highlights the pitfalls that befall Marty and his family, providing insight into the narrative's exploration of potential, regret, and the consequences of choices."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "located_in",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    },
+    {
+      "type": "contains",
+      "target": "2f3766f4-4cfe-4de3-a479-5d1fa96c3398"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "neighborhood",
+    "population": "unknown",
+    "founded": "unknown"
+  },
+  "tags": [
+    "neighborhood",
+    "sci-fi",
+    "futuristic",
+    "Back to the Future",
+    "2015"
+  ]
+}

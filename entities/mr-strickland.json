@@ -1,0 +1,57 @@
+{
+  "id": "6a6a1c6a-b5c4-454a-af1f-3d8f2b5c7e8e",
+  "type": "character",
+  "name": "Mr. Strickland",
+  "description": "A strict disciplinarian and high school principal in Hill Valley.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Mr. Strickland is a disciplinarian who serves as the principal of Hill Valley High School. He is portrayed as a man who values order and discipline above all else, having spent years dealing with unruly students in his career at the school. His origin and early life are not detailed in the film, but his character is clearly established as a fixture at Hill Valley High."
+    },
+    {
+      "title": "Personality",
+      "body": "Mr. Strickland is known for his no-nonsense, stern attitude. He has little tolerance for misbehavior and often refers to students who do not meet his standards as \"slackers.\" His motivations are driven by a desire to maintain order and discipline within the school, reflecting his belief in the importance of education and proper behavior."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Back to the Future,' Mr. Strickland serves as a minor antagonist to Marty McFly, often calling him out for perceived laziness or misconduct. He represents authority and the societal pressures on young people to conform to expected behaviors. He remains consistent in his role as the enforcer of rules throughout the series."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Rivals with Marty McFly**: Frequently reprimands Marty for his perceived laziness.\n- **Interacts with Biff Tannen**: Strickland's disciplinary actions extend to other students, including Biff."
+    }
+  ],
+  "aliases": [
+    "Gerald Strickland",
+    "Principal Strickland"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "rivals_with",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "rivals_with",
+      "target": "b3fbd1f3-8215-4a6a-9417-5f4c1d308eef"
+    },
+    {
+      "type": "works_at",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "high school principal",
+    "portrayed_by": "James Tolkan"
+  },
+  "tags": [
+    "supporting",
+    "antagonist",
+    "strict",
+    "authoritative"
+  ]
+}

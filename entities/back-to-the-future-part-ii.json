@@ -1,0 +1,108 @@
+{
+  "id": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d",
+  "type": "movie",
+  "name": "Back to the Future Part II",
+  "description": "A science fiction adventure film where Marty McFly travels to the future to prevent future problems for his family.",
+  "content": [
+    {
+      "title": "Synopsis",
+      "body": "In *Back to the Future Part II*, Marty McFly and Doc Brown travel to the year 2015 to prevent Marty's future children from ending up in prison. The story unfolds into a complex and thrilling adventure as they navigate different timelines, including a dystopian alternate 1985 and a return to 1955 to fix the future."
+    },
+    {
+      "title": "Production",
+      "body": "Directed by Robert Zemeckis, *Back to the Future Part II* was produced by Bob Gale and Neil Canton, with Steven Spielberg as the executive producer. It was written by Bob Gale and Robert Zemeckis and filmed back-to-back with its sequel, *Back to the Future Part III*. The film utilized groundbreaking special effects for its time, with innovative techniques for scenes with multiple versions of the same character."
+    },
+    {
+      "title": "Reception",
+      "body": "The film was a commercial success, grossing over $332 million worldwide against a $40 million budget. It received generally positive reviews for its inventive storyline, special effects, and performances. It was nominated for an Academy Award for Best Visual Effects and won a Saturn Award for Best Special Effects."
+    },
+    {
+      "title": "Legacy",
+      "body": "*Back to the Future Part II* has had a lasting cultural impact, particularly for its imaginative depiction of the future and its predictions, such as hoverboards and advanced technology. It has influenced numerous other works in the science fiction genre and remains a beloved film over three decades after its release."
+    }
+  ],
+  "aliases": [
+    "Back to the Future 2"
+  ],
+  "relationships": [
+    {
+      "type": "directed_by",
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+    },
+    {
+      "type": "produced_by",
+      "target": "9058322f-b99a-4b8f-9356-3e165b8dbb4e"
+    },
+    {
+      "type": "written_by",
+      "target": "9058322f-b99a-4b8f-9356-3e165b8dbb4e"
+    },
+    {
+      "type": "composed_by",
+      "target": "7e34d755-1a4c-44c8-b953-64d5287d3aad"
+    },
+    {
+      "type": "stars",
+      "target": "c1a7a1c9-2d4f-43b7-ae9b-2f8e2c926d9e"
+    },
+    {
+      "type": "stars",
+      "target": "fa1b4c26-3f75-4a88-8e6d-351c8c7e8df8"
+    },
+    {
+      "type": "stars",
+      "target": "da3f7c8b-9bb0-4d3b-9d6c-78f984762abc"
+    },
+    {
+      "type": "stars",
+      "target": "f0737a6e-5aef-4b39-b3a6-3e0a8455f1da"
+    },
+    {
+      "type": "features_character",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "features_character",
+      "target": "c3d4e5f6-a7b8-9012-cdef-345678901234"
+    },
+    {
+      "type": "features_location",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    },
+    {
+      "type": "features_location",
+      "target": "b12f1176-e8f4-4c8d-9abb-e294b08e1787"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "bf84ed68-aa8b-40d9-87b0-5a7f2e275b5a"
+    },
+    {
+      "type": "distributed_by",
+      "target": "217d1e4e-b4f3-4c6f-a1e7-ed74e29c8e67"
+    },
+    {
+      "type": "part_of",
+      "target": "f7e6d5c4-b3a2-1098-7654-321fedcba987"
+    }
+  ],
+  "properties": {
+    "year": 1989,
+    "runtime": 108,
+    "genre": [
+      "Science Fiction",
+      "Adventure",
+      "Comedy"
+    ],
+    "budget": 40000000,
+    "box_office": 332000000,
+    "rating": "PG"
+  },
+  "tags": [
+    "sci-fi",
+    "1980s",
+    "adventure",
+    "time-travel",
+    "blockbuster"
+  ]
+}

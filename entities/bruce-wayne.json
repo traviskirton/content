@@ -1,0 +1,91 @@
+{
+  "id": "d1637915-9c46-4f38-af8b-6932a49e3746",
+  "type": "character",
+  "name": "Bruce Wayne",
+  "description": "A wealthy philanthropist and the vigilante protector of Gotham City, known as Batman.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Bruce Wayne was born to Thomas and Martha Wayne, two of Gotham City's wealthiest citizens. After witnessing the murder of his parents as a child, Bruce vowed to rid Gotham City of crime. He spent years traveling the world, training in various forms of combat and acquiring the skills necessary to become Batman."
+    },
+    {
+      "title": "Personality",
+      "body": "Bruce Wayne is defined by his unwavering determination and sense of justice. He is highly intelligent, resourceful, and strategic in combat. However, he often struggles with his dual identity as both Bruce Wayne and Batman, and his commitment to his mission often isolates him from personal relationships."
+    },
+    {
+      "title": "Story Role",
+      "body": "Bruce Wayne is the protagonist in \"The Dark Knight Trilogy.\" He evolves from a troubled young man seeking vengeance to a seasoned hero who inspires hope in Gotham City. His journey involves overcoming personal and external challenges, including facing his nemesis, The Joker, and eventually passing on his legacy to a worthy successor."
+    },
+    {
+      "title": "Relationships",
+      "body": "Bruce Wayne's key relationships include:\n- **Alfred Pennyworth** (9e5b44bd-fd41-45f7-adf1-378509fbee3a): His loyal butler and confidant.\n- **Rachel Dawes** (1e1d3e8d-c5f3-4d30-b4f3-45f6128ce7ed): His childhood friend and love interest.\n- **Lucius Fox** (d03a2ebc-4fbd-4bc1-9bc3-c2659c9123b1): His ally in managing Wayne Enterprises and developing his technology.\n- **James Gordon** (9c39d7e0-1f12-4590-8b53-9ddb5f765cb5): A trusted ally in the Gotham City Police Department."
+    },
+    {
+      "title": "Abilities",
+      "body": "Bruce Wayne, as Batman, possesses exceptional martial arts skills, detective skills, and a vast array of high-tech equipment and vehicles. He is also a master strategist and tactician, often using his intellect to outwit opponents."
+    }
+  ],
+  "aliases": [
+    "Batman"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "appears_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "appears_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "friend_of",
+      "target": "9c39d7e0-1f12-4590-8b53-9ddb5f765cb5"
+    },
+    {
+      "type": "related_to",
+      "target": "d2d9f803-43f7-46d1-97db-b23e5b62ad84"
+    },
+    {
+      "type": "related_to",
+      "target": "b128e18b-0a9c-44bd-9a4e-25beafaf1b94"
+    },
+    {
+      "type": "works_at",
+      "target": "741acbc5-8a2f-4247-9585-267f61020389"
+    },
+    {
+      "type": "lives_in",
+      "target": "380e0a6b-1e6d-4f90-8069-0f73e2df8b61"
+    },
+    {
+      "type": "uses",
+      "target": "97263c84-6522-4fa2-9737-3c2c93b8d2ae"
+    },
+    {
+      "type": "uses",
+      "target": "8bde9c76-4d86-4d85-a945-82f7e7a4497c"
+    },
+    {
+      "type": "uses",
+      "target": "f3a317d5-5b56-4d8f-bd7e-065ecf7886a1"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Industrialist, vigilante",
+    "born": "1972",
+    "portrayed_by": "Christian Bale"
+  },
+  "tags": [
+    "protagonist",
+    "hero",
+    "vigilante",
+    "detective",
+    "martial artist",
+    "strategist"
+  ]
+}

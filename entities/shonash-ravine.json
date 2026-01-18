@@ -1,0 +1,48 @@
+{
+  "id": "739f8c2e-4af7-449d-a02e-fbff2766d9e3",
+  "type": "location",
+  "name": "Shonash Ravine",
+  "description": "A deep ravine located in the outskirts of Hill Valley, central to key events in 'Back to the Future Part III'.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Originally known as Shonash Ravine, this location was later renamed to Clayton Ravine.\nIn the movie 'Back to the Future Part III', it forms a significant part of the plot when Doc Brown intends to transport the DeLorean across this ravine using a steam locomotive. Due to Marty’s intervention, the ravine is renamed to Eastwood Ravine in honor of Marty’s alias, Clint Eastwood."
+    },
+    {
+      "title": "Geography",
+      "body": "Shonash Ravine is a steep and narrow valley with rocky cliffs located on the outskirts of Hill Valley. It serves as a natural boundary and obstacle in the area."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The ravine is notable for its treacherous depths and the unstable bridge built to cross it. This bridge is pivotal to the storyline, where a train is used to push the DeLorean across in an attempt to return to the future."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'Back to the Future Part III', the ravine is central to the climax where Marty and Doc's plans hinge on using the train track bridge to create enough speed for the DeLorean to engage the time circuits and return to 1985. This event leads to the renaming of Shonash Ravine to Eastwood Ravine after Marty’s actions change its future."
+    }
+  ],
+  "aliases": [
+    "Clayton Ravine",
+    "Eastwood Ravine"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "located_in",
+      "target": "048f308b-450f-4f86-9a04-6c411d1d746d"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "region"
+  },
+  "tags": [
+    "region",
+    "western",
+    "sci-fi",
+    "1885"
+  ]
+}

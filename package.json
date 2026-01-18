@@ -1,0 +1,12 @@
+{
+  "name": "content",
+  "version": "1.0.0",
+  "description": "Entity dataset for search interface",
+  "scripts": {
+    "build": "node scripts/build-index.js",
+    "generate": "node scripts/generate-entity.js"
+  },
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}

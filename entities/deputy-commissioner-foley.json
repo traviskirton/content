@@ -1,0 +1,53 @@
+{
+  "id": "f5e431b9-a227-4a3d-bb03-7cbb0ef345b6",
+  "type": "character",
+  "name": "Deputy Commissioner Foley",
+  "description": "A high-ranking officer in the Gotham City Police Department who plays a crucial role during Bane's takeover of Gotham.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "**Deputy Commissioner Foley** is a career police officer who rose through the ranks of the Gotham City Police Department. His position and responsibilities place him in charge of major operations, especially when Commissioner James Gordon is unavailable."
+    },
+    {
+      "title": "Personality",
+      "body": "Foley is ambitious and dedicated to his career in law enforcement. He struggles with balancing his ambition with his responsibilities, occasionally appearing hesitant when faced with high-risk situations. His motivations include a desire for recognition and validation in his professional role."
+    },
+    {
+      "title": "Story Role",
+      "body": "Foley is a supporting character in *The Dark Knight Rises*. He initially doubts Commissioner Gordon's warnings about Bane but becomes pivotal in the fight against Bane's forces in Gotham City. His character undergoes a significant arc as he transitions from skepticism to action, ultimately sacrificing himself for the city's liberation."
+    },
+    {
+      "title": "Relationships",
+      "body": "Foley works closely with **Commissioner James Gordon** (UUID: 9c39d7e0-1f12-4590-8b53-9ddb5f765cb5) within the Gotham City Police Department. His interactions with Gordon highlight his initial skepticism and eventual conviction in following Gordon's lead against Bane's takeover."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "member_of",
+      "target": "bdc84a78-a3b8-4a62-b612-09ba4601c63c"
+    },
+    {
+      "type": "works_at",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "related_to",
+      "target": "9c39d7e0-1f12-4590-8b53-9ddb5f765cb5"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Deputy Commissioner",
+    "portrayed_by": "Matthew Modine"
+  },
+  "tags": [
+    "supporting",
+    "police officer",
+    "ambitious"
+  ]
+}

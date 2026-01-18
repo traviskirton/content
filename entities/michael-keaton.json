@@ -1,0 +1,63 @@
+{
+  "id": "b2267f4d-1f07-43b5-a89e-9efb012f9d48",
+  "type": "person",
+  "name": "Michael Keaton",
+  "description": "American actor known for his roles in 'Beetlejuice', 'Batman' and 'Birdman'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Michael Keaton was born on September 5, 1951, in Coraopolis, Pennsylvania, USA. He began his career in the entertainment industry in the mid-1970s, initially working in television, where he gained recognition for his comedic roles."
+    },
+    {
+      "title": "Career",
+      "body": "Keaton's breakthrough role came in 1982 with the film **'Night Shift'**, directed by Ron Howard. He became a household name after starring in Tim Burton's 1989 **'Batman'** and its sequel **'Batman Returns'** in 1992. Known for his versatility, Keaton has received critical acclaim for his performances in **'Beetlejuice'**, **'Birdman'**, and **'Spotlight'**. His performance in 'Birdman' earned him a Golden Globe Award and an Academy Award nomination."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Michael Keaton frequently collaborated with director Tim Burton, notably on **'Beetlejuice'** and the **'Batman'** films. He has also worked with directors such as Ron Howard, Alejandro González Iñárritu, and Tom McCarthy."
+    },
+    {
+      "title": "Legacy",
+      "body": "Michael Keaton's portrayal of Batman is often credited with helping to redefine superhero films. His comeback in **'Birdman'** was celebrated as a career renaissance, and he continues to be a respected actor in Hollywood, with a significant impact on diverse genres including comedy, drama, and action."
+    }
+  ],
+  "aliases": [
+    "Michael Douglas (birth name)"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "e5d3f69c-ce24-4a97-a133-6a74f0b5f6be"
+    },
+    {
+      "type": "acted_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "acted_in",
+      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    },
+    {
+      "type": "worked_with",
+      "target": "d2e9f21d-ae29-4f4a-9b12-0e5f5d1b9e79"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    }
+  ],
+  "properties": {
+    "born": 1951,
+    "nationality": "American",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1975-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "comedy",
+    "modern"
+  ]
+}

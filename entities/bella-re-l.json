@@ -1,0 +1,44 @@
+{
+  "id": "5cd417c8-1175-4197-9e38-93bbcd9de3c8",
+  "type": "character",
+  "name": "Bella Reál",
+  "description": "A determined mayoral candidate in Gotham City.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Bella Reál is introduced as a mayoral candidate in Gotham City during the events of 'The Batman' (2022). Her campaign promises to tackle the corruption endemic within the city and bring about positive change."
+    },
+    {
+      "title": "Personality",
+      "body": "Bella Reál is characterized by her unwavering dedication to reform. She is courageous and outspoken, determined to stand against the entrenched corruption in Gotham. Her integrity and resolve make her a standout figure in the political landscape of the city."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Batman' (2022), Bella Reál plays a key supporting role as the political voice advocating for change in Gotham City. Her campaign and criticism of the current administration create a backdrop against which the narrative unfolds, emphasizing themes of corruption and the struggle for justice."
+    },
+    {
+      "title": "Relationships",
+      "body": "Bella Reál interacts with several key characters, notably Bruce Wayne, whom she challenges to use his influence and resources for the betterment of Gotham. Her presence underscores the city's desperate need for heroes, both masked and unmasked."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "related_to",
+      "target": "b87b3c9d-4e25-41d3-b635-3ab2c66a63b4"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "mayoral candidate",
+    "portrayed_by": "actor name unknown"
+  },
+  "tags": [
+    "supporting",
+    "political",
+    "reformer"
+  ]
+}

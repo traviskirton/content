@@ -1,0 +1,68 @@
+{
+  "id": "d4e5f6a7-b8c9-0123-def0-456789012345",
+  "type": "location",
+  "name": "Hill Valley",
+  "description": "A fictional town in California, known for being the setting of the Back to the Future trilogy.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Hill Valley was founded in 1850. It has seen significant events, including the establishment of the Hill Valley Courthouse in 1885, and the twin events of the Hill Valley hoverboard chase and the lighting strike on the courthouse clock tower, vital in the story's time-traveling saga."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated in the fictional United States state of California, Hill Valley is a picturesque town showcasing a blend of 20th-century architecture, suburban expansion, and advanced future designs."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **Hill Valley Courthouse Square**: Known for the clock tower that was struck by lightning.\n- **Lyon Estates**: The residential area where the McFly family lives.\n- **Twin Pines Mall**: Location of Dr. Emmett Brown's time travel experiment.\n- **Hill Valley High School**: The site of the Enchantment Under the Sea Dance."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Hill Valley plays a central role in the Back to the Future trilogy. Key events include Marty McFly's time-traveling adventures across various decades, crucial moments like the 1955 Enchantment Under the Sea Dance, and its portrayal of both dystopian and utopian futures."
+    }
+  ],
+  "aliases": [
+    "Hill Valley, California"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "featured_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "contains",
+      "target": "b12f1176-e8f4-4c8d-9abb-e294b08e1787"
+    },
+    {
+      "type": "contains",
+      "target": "e3f7e898-87fc-4f84-83fc-5e0f72c8217c"
+    },
+    {
+      "type": "contains",
+      "target": "9a127d6d-bc71-4bcb-91d3-7bacb8e3b77a"
+    },
+    {
+      "type": "contains",
+      "target": "c984104c-3b64-4acc-9e3f-8e9cc76dee4f"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city",
+    "population": 50000,
+    "founded": 1850
+  },
+  "tags": [
+    "city",
+    "sci-fi",
+    "historical"
+  ]
+}

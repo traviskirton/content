@@ -1,0 +1,61 @@
+{
+  "id": "d12a7f68-726f-4b15-a9c6-8a8a241f16c8",
+  "type": "person",
+  "name": "Jessica Chastain",
+  "description": "American actress and producer known for her versatile performances in a range of genres.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Jessica Chastain was born on March 24, 1977, in Sacramento, California, USA. She studied acting at the Juilliard School in New York City and began her professional acting career on the stage and in television before transitioning to film."
+    },
+    {
+      "title": "Career",
+      "body": "Jessica Chastain made her feature film debut in 'Jolene' (2008) but gained widespread recognition for her performance in 'The Help' (2011), which earned her an Academy Award nomination. She has since starred in a variety of critically acclaimed films, including 'Zero Dark Thirty' (2012), 'Interstellar' (2014), 'The Martian' (2015), and 'Molly's Game' (2017). Chastain is known for her ability to portray strong-willed and complex characters across a range of genres."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Chastain has worked alongside renowned directors such as Christopher Nolan in 'Interstellar' and Ridley Scott in 'The Martian'. She frequently collaborates with filmmakers and actors who share her commitment to telling compelling stories with strong character development."
+    },
+    {
+      "title": "Legacy",
+      "body": "Jessica Chastain is considered one of the leading actresses of her generation, known for her dedication to her craft and her advocacy for gender equality in the film industry. She has received numerous awards and nominations, including two Academy Award nominations for Best Actress. Chastain is also the founder of the production company Freckle Films, which focuses on promoting diversity in storytelling."
+    }
+  ],
+  "aliases": [
+    "Jessica Michelle Chastain"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "acted_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "ae2541d3-fd8b-4839-a91b-f8c8bdf5ef87"
+    }
+  ],
+  "properties": {
+    "born": 1977,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "producer"
+    ],
+    "active_years": "2004-present"
+  },
+  "tags": [
+    "actor",
+    "producer",
+    "drama",
+    "modern",
+    "sci-fi"
+  ]
+}

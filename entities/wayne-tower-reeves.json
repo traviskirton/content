@@ -1,0 +1,52 @@
+{
+  "id": "6a90f4f8-d2f0-41b5-8334-c8c8e9a0de69",
+  "type": "location",
+  "name": "Wayne Tower (Reeves)",
+  "description": "The central headquarters of Wayne Enterprises in Gotham City as depicted in 'The Batman' (2022).",
+  "content": [
+    {
+      "title": "History",
+      "body": "Wayne Tower serves as the headquarters for Wayne Enterprises, a multinational conglomerate founded by the Wayne family. Over the years, it has stood as a symbol of Gotham City's architectural splendor and a testament to the Wayne family's enduring influence in the city. Despite Gotham's troubled history, Wayne Tower has remained a beacon of innovation and progress amid the city's chaos."
+    },
+    {
+      "title": "Geography",
+      "body": "Located in the heart of Gotham City, Wayne Tower is prominently situated amid the city's bustling metropolitan area. Its iconic structure is a recognizable feature of Gotham's skyline, towering above many of the surrounding buildings. The tower's design incorporates elements of Neo-Gothic architecture, reflecting the city's dark and brooding atmosphere."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The most notable feature of Wayne Tower is its eye-catching spire, an architectural marvel that can be seen from various points in Gotham City. The interior of Wayne Tower includes state-of-the-art facilities for Wayne Enterprises' various business ventures and research projects. The tower also houses the private offices of Bruce Wayne, providing him a strategic base of operations for his endeavors as Batman."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Wayne Tower plays a critical role in 'The Batman' (2022), serving not only as a place of business for Bruce Wayne but also as a symbol of hope and continuity for Gotham. Key scenes take place within and around the tower, underscoring its importance as both a setting and a narrative device in the film."
+    }
+  ],
+  "aliases": [
+    "Wayne Enterprises HQ"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "located_in",
+      "target": "b5d2c7e4-9f2b-4a0f-bc9f-7f0e8b2511d7"
+    },
+    {
+      "type": "contains",
+      "target": "741acbc5-8a2f-4247-9585-267f61020389"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "Gotham City",
+    "The Batman (Reeves)",
+    "2022",
+    "superhero"
+  ]
+}

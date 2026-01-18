@@ -1,0 +1,125 @@
+{
+  "id": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88",
+  "type": "movie",
+  "name": "Back to the Future",
+  "description": "A time-traveling adventure film where teenager Marty McFly is accidentally sent back in time.",
+  "content": [
+    {
+      "title": "Synopsis",
+      "body": "Teenager Marty McFly is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown."
+    },
+    {
+      "title": "Production",
+      "body": "The film was directed by Robert Zemeckis and written by Zemeckis and Bob Gale. It was produced by Steven Spielberg's Amblin Entertainment and distributed by Universal Pictures. Initial drafts were rejected until Spielberg came on board as executive producer, helping to secure additional interest and financing."
+    },
+    {
+      "title": "Reception",
+      "body": "Upon release in 1985, 'Back to the Future' was a critical and commercial success, grossing over $388 million worldwide. It became the highest-grossing film of 1985 and won numerous awards, including an Academy Award for Best Sound Editing."
+    },
+    {
+      "title": "Legacy",
+      "body": "The film profoundly impacted pop culture and spawned a successful franchise, including two sequels, an animated series, comic books, and a video game. It remains a beloved classic, frequently appearing on lists of great films."
+    }
+  ],
+  "aliases": [
+    "BTTF"
+  ],
+  "relationships": [
+    {
+      "type": "directed_by",
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+    },
+    {
+      "type": "produced_by",
+      "target": "ffbc5d71-dd5e-4895-9898-73d7e5e0b0d9"
+    },
+    {
+      "type": "written_by",
+      "target": "9058322f-b99a-4b8f-9356-3e165b8dbb4e"
+    },
+    {
+      "type": "written_by",
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+    },
+    {
+      "type": "composed_by",
+      "target": "7e34d755-1a4c-44c8-b953-64d5287d3aad"
+    },
+    {
+      "type": "stars",
+      "target": "c1a7a1c9-2d4f-43b7-ae9b-2f8e2c926d9e"
+    },
+    {
+      "type": "stars",
+      "target": "fa1b4c26-3f75-4a88-8e6d-351c8c7e8df8"
+    },
+    {
+      "type": "stars",
+      "target": "cd795c27-61c9-45b9-a8b0-2ed1f533a9fc"
+    },
+    {
+      "type": "stars",
+      "target": "da3f7c8b-9bb0-4d3b-9d6c-78f984762abc"
+    },
+    {
+      "type": "stars",
+      "target": "f0737a6e-5aef-4b39-b3a6-3e0a8455f1da"
+    },
+    {
+      "type": "features_character",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "features_character",
+      "target": "c3d4e5f6-a7b8-9012-cdef-345678901234"
+    },
+    {
+      "type": "features_location",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    },
+    {
+      "type": "features_location",
+      "target": "e3f7e898-87fc-4f84-83fc-5e0f72c8217c"
+    },
+    {
+      "type": "features_location",
+      "target": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
+    },
+    {
+      "type": "features_location",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "bf84ed68-aa8b-40d9-87b0-5a7f2e275b5a"
+    },
+    {
+      "type": "distributed_by",
+      "target": "217d1e4e-b4f3-4c6f-a1e7-ed74e29c8e67"
+    },
+    {
+      "type": "part_of",
+      "target": "f7e6d5c4-b3a2-1098-7654-321fedcba987"
+    }
+  ],
+  "properties": {
+    "year": 1985,
+    "runtime": 116,
+    "genre": [
+      "Sci-Fi",
+      "Comedy",
+      "Adventure"
+    ],
+    "budget": 19000000,
+    "box_office": 388800000,
+    "rating": "PG"
+  },
+  "tags": [
+    "sci-fi",
+    "comedy",
+    "adventure",
+    "1980s",
+    "time-travel",
+    "classic"
+  ]
+}

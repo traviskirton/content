@@ -1,0 +1,56 @@
+{
+  "id": "9f7d3c2e-4e7a-4b8c-aa54-bc42389b8de9",
+  "type": "location",
+  "name": "Hong Kong",
+  "description": "A vibrant city known for its skyline and deep natural harbor, also a popular filming location.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Hong Kong** is a bustling metropolis recognized for its impressive skyline, lively markets, and as a central hub for finance and trade. It serves as a significant cultural and entertainment center in Asia."
+    },
+    {
+      "title": "Film History",
+      "body": "Hong Kong has been a sought-after filming destination for international productions due to its unique urban landscape. Notable films shot here include *The Dark Knight* (2008), where the city's architecture doubled for Gotham City, including scenes at the IFC building and Victoria Harbour."
+    },
+    {
+      "title": "Visiting",
+      "body": "Hong Kong is accessible to the public and offers a range of attractions such as Victoria Peak, Hong Kong Disneyland, and the famous Star Ferry ride. The city is well-connected through its public transportation network, making it easy for tourists to explore."
+    }
+  ],
+  "aliases": [
+    "HK",
+    "香江",
+    "香港"
+  ],
+  "relationships": [
+    {
+      "type": "doubled_for",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "address": "Hong Kong, SAR China",
+    "city": "Hong Kong",
+    "state": "HK SAR",
+    "country": "China",
+    "coordinates": {
+      "lat": 22.3193,
+      "long": 114.1694
+    }
+  },
+  "tags": [
+    "city",
+    "active",
+    "public"
+  ]
+}

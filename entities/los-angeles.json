@@ -1,0 +1,52 @@
+{
+  "id": "ecf87b10-d3f5-4832-9c1a-3e1bfaea6abc",
+  "type": "location",
+  "name": "Los Angeles",
+  "description": "A major city in California known for its role as a hub of the film industry.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Los Angeles is a sprawling Southern California city and the center of the nation’s film and television industry. It's known for its Mediterranean climate, ethnic diversity, and bustling metropolitan area."
+    },
+    {
+      "title": "Film History",
+      "body": "Los Angeles has been the backdrop for numerous iconic films and television series owing to its rich array of unique locations and industry infrastructure.\n\n- **Hollywood Sign**: Symbol of the entertainment industry, featured in numerous movies such as \"The Day After Tomorrow\" and \"Mulholland Drive\".\n- **Griffith Observatory**: Seen in films such as \"Rebel Without a Cause\" and \"La La Land\".\n- **Union Station**: This location doubled for many types of scenes, from period settings to futuristic environments, appearing in \"Blade Runner\", \"Catch Me If You Can\", and \"The Dark Knight Rises\".\n- **Santa Monica Pier**: Featured in \"Forrest Gump\" and countless other films and TV shows.\n\nLos Angeles is also home to major film studios like Universal Studios Hollywood, Warner Bros., and Paramount Pictures, which have produced thousands of films and TV shows."
+    },
+    {
+      "title": "Visiting",
+      "body": "As a vibrant city with a deep connection to the film industry, Los Angeles offers public access to several iconic sites:\n\n- **Hollywood Walk of Fame**: Open to the public and ideal for walking tours.\n- **Universal Studios Hollywood**: Theme park and studio offering tours of film sets.\n- **Griffith Observatory**: Offers public telescopes, a planetarium, exhibitions, and programs free to visitors.\n\nMany studios in Los Angeles offer tours, providing insights into the making of movies and TV shows."
+    }
+  ],
+  "aliases": [
+    "LA",
+    "City of Angels"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "address": null,
+    "city": "Los Angeles",
+    "state": "California",
+    "country": "United States",
+    "coordinates": {
+      "lat": 34.0522,
+      "long": -118.2437
+    }
+  },
+  "tags": [
+    "city",
+    "active",
+    "public",
+    "entertainment"
+  ]
+}

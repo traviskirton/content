@@ -1,0 +1,47 @@
+Create a detailed entity for the production company "[NAME]".
+
+Output valid JSON matching the entity schema in schemas/entity.schema.json.
+
+## Required Fields
+
+- **id**: Generate a new UUID
+- **type**: "company"
+- **name**: The company's official name
+
+## Content Sections
+
+Include these sections as appropriate:
+
+- **Overview**: What the company does, its role in the industry
+- **History**: When founded, by whom, major milestones
+- **Notable Works**: Key films, shows, or projects (brief overview)
+- **Legacy**: Impact on the industry, reputation
+
+## Properties to Consider
+
+- founded: year established
+- founder: who started it
+- headquarters: location
+- type: studio, production company, distributor, etc.
+- parent_company: if owned by a larger entity
+- Any other relevant attributes
+
+## Relationships
+
+Link to other entities using UUIDs:
+- produced: Media this company produced
+- distributed: Media this company distributed
+- located_in: Where headquarters are based
+
+## Tags
+
+Add relevant tags for filtering:
+- Company type (studio, production-company, distributor)
+- Industry (film, television, animation)
+- Era (golden-age, modern)
+
+## Guidelines
+
+- Keep descriptions factual and based on publicly available information
+- Use markdown formatting in body text (bold, lists, etc.)
+- Link to existing entities by UUID when possible

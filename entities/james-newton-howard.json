@@ -1,0 +1,64 @@
+{
+  "id": "d25f0f9d-8c9f-4dab-b282-4c6c1d284d04",
+  "type": "person",
+  "name": "James Newton Howard",
+  "description": "Renowned American film composer and music producer.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "James Newton Howard was born on June 9, 1951, in Los Angeles, California, USA. He showed an early interest in music and attended the University of Southern California's music department. Howard honed his skills and later attended the Music Academy of the West in Santa Barbara, California."
+    },
+    {
+      "title": "Career",
+      "body": "James Newton Howard began his career in the music industry as a session musician and arranger. He worked with famous artists such as Elton John. He transitioned into film composing in the early 1980s and has since scored over 100 films, including prominent titles such as *Pretty Woman* (1990), *The Fugitive* (1993), *The Village* (2004), and *The Dark Knight* (2008) in collaboration with Hans Zimmer. His style is known for its emotional depth and ability to blend orchestral and electronic elements, creating memorable and affecting scores."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "James Newton Howard frequently collaborated with renowned directors like M. Night Shyamalan on films such as *The Sixth Sense* and *Unbreakable*. He also worked alongside Hans Zimmer on *The Dark Knight*, for which they won numerous awards."
+    },
+    {
+      "title": "Legacy",
+      "body": "Howard's impact on the film industry is marked by numerous awards and nominations, including Grammy Awards and Academy Award nominations. His ability to enhance cinematic storytelling through music has made him one of Hollywood's most sought-after composers. His body of work continues to influence and inspire new generations of composers."
+    }
+  ],
+  "aliases": [
+    "JNH"
+  ],
+  "relationships": [
+    {
+      "type": "worked_with",
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+    },
+    {
+      "type": "worked_with",
+      "target": "ffbc5d71-dd5e-4895-9898-73d7e5e0b0d9"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "a3c5de67-f1d3-42b6-a6b3-123f0d65c1a4"
+    },
+    {
+      "type": "worked_with",
+      "target": "6a4b0f74-b7b5-4874-bfed-c8068f3e0c3b"
+    }
+  ],
+  "properties": {
+    "born": 1951,
+    "nationality": "American",
+    "occupation": [
+      "composer",
+      "music producer"
+    ],
+    "active_years": "1980-present"
+  },
+  "tags": [
+    "composer",
+    "modern",
+    "film-score",
+    "hollywood"
+  ]
+}

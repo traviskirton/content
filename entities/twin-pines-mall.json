@@ -1,0 +1,48 @@
+{
+  "id": "e3f7e898-87fc-4f84-83fc-5e0f72c8217c",
+  "type": "location",
+  "name": "Twin Pines Mall",
+  "description": "A shopping mall in Hill Valley that serves as a pivotal location in the film 'Back to the Future.'",
+  "content": [
+    {
+      "title": "History",
+      "body": "Twin Pines Mall is a shopping center located in the fictional town of Hill Valley, California. It is a key setting in 'Back to the Future' (1985) where much of the action takes place. The mall is originally named after the 'twin pines' of the ranch owned by Peabody, which once occupied the land before being developed into a commercial area."
+    },
+    {
+      "title": "Geography",
+      "body": "The mall is situated on the outskirts of Hill Valley, acting as a central hub for commerce and social activity in the town. It features a large parking lot that becomes an iconic backdrop for several scenes in the movie."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The most notable feature of Twin Pines Mall is its extensive parking lot where Dr. Emmett Brown's time travel experiment takes place. The mall itself comprises several stores typical of a 1980s shopping center."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Twin Pines Mall is crucial to the plot of 'Back to the Future.' It is here that Marty McFly witnesses Doc Brown reveal his time-traveling DeLorean to the world. The mall parking lot is the site where Marty begins his unexpected journey back to 1955, catalyzed by the presence of Libyan terrorists. The mall's name is humorously altered in the film's timeline, changing to 'Lone Pine Mall' after an encounter with one of Peabody’s pines in 1955."
+    }
+  ],
+  "aliases": [
+    "Lone Pine Mall",
+    "Twin Pines Shopping Center"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "located_in",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "shopping mall"
+  },
+  "tags": [
+    "building",
+    "sci-fi",
+    "1985",
+    "shopping mall"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "f7e6d5c4-b3a2-1098-7654-321fedcba987",
+  "type": "franchise",
+  "name": "Back to the Future",
+  "description": "A science fiction franchise spanning three films, an animated series, and various other media, centered around time travel adventures.",
+  "aliases": ["BTTF Franchise", "Back to the Future Trilogy"],
+  "relationships": [],
+  "properties": {
+    "created_year": 1985,
+    "media_count": 3
+  },
+  "tags": ["time-travel", "1980s"]
+}

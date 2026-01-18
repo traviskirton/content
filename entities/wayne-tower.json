@@ -1,0 +1,51 @@
+{
+  "id": "295a0b1a-ed45-4dff-a401-99b121032f26",
+  "type": "location",
+  "name": "Wayne Tower",
+  "description": "The iconic headquarters of Wayne Enterprises and a central landmark in Gotham City.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Wayne Tower serves as the central headquarters for Wayne Enterprises, a multinational conglomerate. Owned by Bruce Wayne, the building symbolizes the wealth and power of the Wayne family lineage. In **The Dark Knight Trilogy**, Wayne Tower also represents the modernistic architectural elegance reflective of Gotham City's development."
+    },
+    {
+      "title": "Geography",
+      "body": "Located in the heart of **Gotham City**, Wayne Tower stands out with its Art Deco design and towering structure, offering a panoramic view of the city. It is strategically positioned to epitomize the economic strength of the area."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Wayne Tower is characterized by several notable features including its vast office spaces, a top-floor boardroom used by Wayne Enterprises for high-stakes meetings, and various advanced security systems designed to protect its interests."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Wayne Tower plays a crucial role in **The Dark Knight Trilogy**. It acts as a backdrop for significant plot points, especially involving Bruce Wayne and Lucius Fox. In **The Dark Knight**, it serves as the point of inception for the financial takeover by the antagonist, The Joker. Furthermore, it represents Bruce Wayne's struggle to maintain his dual identity as a business mogul and vigilante."
+    }
+  ],
+  "aliases": [
+    "Wayne Enterprises Headquarters"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "featured_in",
+      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+    },
+    {
+      "type": "contains",
+      "target": "741acbc5-8a2f-4247-9585-267f61020389"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "superhero",
+    "futuristic",
+    "gotham_city"
+  ]
+}

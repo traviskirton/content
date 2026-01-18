@@ -1,0 +1,52 @@
+{
+  "id": "a2f3b6c9-7654-4b8d-9ec3-fa7c4f8a670d",
+  "type": "location",
+  "name": "Jodhpur, India",
+  "description": "A major city in the Thar Desert of the northwest Indian state of Rajasthan, known for its historical landmarks.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Jodhpur, India** is a prominent city in the Thar Desert of Rajasthan. Known as the 'Blue City' for the blue-painted houses around Mehrangarh Fort, it is a prominent tourist destination famous for its palaces, temples, forts, and culture. Jodhpur serves as a gateway to the Thar Desert and is also known for its vibrant marketplaces and traditional handicrafts."
+    },
+    {
+      "title": "Film History",
+      "body": "Jodhpur has been a popular filming destination, with notable films like **'The Dark Knight Rises'** using it to represent a remote prison, with Mehrangarh Fort prominently featured. Other productions include 'The Fall' and Bollywood films such as 'Veer' and 'Hum Saath-Saath Hain', which utilized its historic architecture and dramatic landscapes."
+    },
+    {
+      "title": "Visiting",
+      "body": "Jodhpur is open to the public and offers numerous tours highlighting its cultural and historical significance. Major sites like Mehrangarh Fort, Jaswant Thada, and Umaid Bhawan Palace offer guided tours. Visitors can explore bustling markets, sample traditional Rajasthani cuisine, and enjoy a stay at heritage hotels."
+    }
+  ],
+  "aliases": [
+    "Blue City",
+    "Sun City"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "located_in",
+      "target": "7f4c330e-5379-4c84-a28b-86c34d5a4d51"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "address": "Jodhpur, Rajasthan, India",
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "country": "India",
+    "coordinates": {
+      "latitude": 26.2389,
+      "longitude": 73.0243
+    }
+  },
+  "tags": [
+    "city",
+    "active",
+    "public",
+    "tours-available"
+  ]
+}

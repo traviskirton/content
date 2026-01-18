@@ -1,0 +1,56 @@
+{
+  "id": "fb09e323-a504-42ea-a945-54c080f6437a",
+  "type": "character",
+  "name": "Miranda Tate",
+  "description": "A wealthy philanthropist who is ultimately revealed to be Talia al Ghul.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "**Miranda Tate** is introduced as a wealthy philanthropist and a member of the Wayne Enterprises board. Throughout most of _The Dark Knight Rises_, she is portrayed as a benevolent ally to Bruce Wayne, interested in sustainable energy projects."
+    },
+    {
+      "title": "Personality",
+      "body": "Serene, intelligent, and charming, Miranda Tate initially presents herself as a strong advocate for renewable energy and a friend of Bruce Wayne. However, beneath her affable exterior, she harbors a deep-seated desire for vengeance against Gotham City due to her upbringing with the League of Shadows."
+    },
+    {
+      "title": "Story Role",
+      "body": "Miranda Tate serves as a pivotal character in _The Dark Knight Rises_, where she is revealed to be Talia al Ghul, the daughter of Ra's al Ghul, and the mastermind behind Bane's takeover of Gotham City. Her character arc serves as a major twist in the film, highlighting themes of legacy and revenge."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Bruce Wayne**: Initially portrayed as an ally and potential romantic interest.\n- **Bane**: Collaborator and protector; Bane and Talia share a deep bond rooted in their shared past.\n- **Ra's al Ghul**: Father, whose legacy she seeks to fulfill by destroying Gotham."
+    }
+  ],
+  "aliases": [
+    "Talia al Ghul"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "bffa1c16-ee57-490e-8704-bf801c3b7f33"
+    },
+    {
+      "type": "related_to",
+      "target": "cd6822b1-8fc0-4b82-9d57-135b13bf136d"
+    },
+    {
+      "type": "related_to",
+      "target": "23f5a5c3-29ad-4ef8-bf65-daab2d4794b8"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "philanthropist",
+    "member_of": "League of Shadows",
+    "associated_with": "Wayne Enterprises"
+  },
+  "tags": [
+    "antagonist",
+    "villain",
+    "League of Shadows"
+  ]
+}

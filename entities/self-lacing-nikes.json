@@ -1,0 +1,54 @@
+{
+  "id": "1e5f8a3c-2a7d-4df9-a8f0-9f7c8d5e6b1a",
+  "type": "item",
+  "name": "Self-Lacing Nikes",
+  "description": "Futuristic sneakers with automatic lacing mechanism from 'Back to the Future Part II'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Self-Lacing Nikes are a pair of advanced sneakers featuring an automatic lacing system. These shoes were designed to provide a seamless, futuristic experience by lacing themselves at the push of a button, eliminating the need for manual lacing."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Self-Lacing Nikes have a sleek, futuristic appearance with a high-top design. They are primarily gray with light-up panels and distinctive 'Nike' branding, reflecting the style and technology of the film's depiction of the future."
+    },
+    {
+      "title": "Function",
+      "body": "The shoes automatically tighten around the wearer's feet with a self-lacing mechanism activated by pressing a button on the shoe. This feature offers convenience and a futuristic touch, aligning with the advanced technology seen in Hill Valley 2015."
+    },
+    {
+      "title": "History",
+      "body": "Created by Nike, these sneakers were conceptualized for 'Back to the Future Part II' to highlight the advanced technology of the year 2015 as envisioned in the movie. They were worn by the character Marty McFly during his visit to the future."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Self-Lacing Nikes are a memorable element of the movie, symbolizing the advanced and quirky technology that characterizes Hill Valley 2015. Marty McFly wears them shortly after arriving in the future, showcasing the film's vision of everyday futuristic conveniences."
+    }
+  ],
+  "aliases": [
+    "Nike Air Mag",
+    "Power Laces"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "used_by",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    }
+  ],
+  "properties": {
+    "item_type": "device",
+    "created_by": "Nike",
+    "fictional": true
+  },
+  "tags": [
+    "device",
+    "technology",
+    "sci-fi",
+    "futuristic",
+    "iconic"
+  ]
+}

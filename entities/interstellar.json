@@ -1,0 +1,103 @@
+{
+  "id": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535",
+  "type": "movie",
+  "name": "Interstellar",
+  "description": "A sci-fi epic that explores space travel and the survival of humanity.",
+  "content": [
+    {
+      "title": "Synopsis",
+      "body": "**Interstellar** is a science fiction film set in a dystopian future where Earth is slowly becoming uninhabitable. The story follows a group of astronauts led by former NASA pilot Cooper as they embark on a mission through a wormhole near Saturn to find a new home for humanity."
+    },
+    {
+      "title": "Production",
+      "body": "The film was directed by Christopher Nolan and written by Jonathan Nolan and Christopher Nolan. Development began in 2006, with Steven Spielberg initially attached to direct. The project later moved to Paramount Pictures with Christopher Nolan directing. Filming took place in various locations including Iceland and California."
+    },
+    {
+      "title": "Reception",
+      "body": "Interstellar received positive reviews from critics and was a box office success, grossing over $677 million worldwide. It was praised for its ambitious scope, visual effects, and Hans Zimmer's musical score. The film won an Academy Award for Best Visual Effects."
+    },
+    {
+      "title": "Legacy",
+      "body": "Interstellar is considered a modern science fiction classic and contributed to popular discourse on space exploration and the theory of relativity. It has influenced numerous works in the genre, known for its realistic depiction of black holes based on actual scientific equations."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "directed_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "produced_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "produced_by",
+      "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
+    },
+    {
+      "type": "written_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "composed_by",
+      "target": "a3c5de67-f1d3-42b6-a6b3-123f0d65c1a4"
+    },
+    {
+      "type": "stars",
+      "target": "ae2541d3-fd8b-4839-a91b-f8c8bdf5ef87"
+    },
+    {
+      "type": "stars",
+      "target": "e6149baf-563e-4dc9-8eec-a7a33e3e95ac"
+    },
+    {
+      "type": "stars",
+      "target": "d12a7f68-726f-4b15-a9c6-8a8a241f16c8"
+    },
+    {
+      "type": "stars",
+      "target": "18fccbcc-2783-4d1c-8f80-e3bb89891a5c"
+    },
+    {
+      "type": "stars",
+      "target": "b3f0899a-5d34-469e-a417-237e55d531bd"
+    },
+    {
+      "type": "features_character",
+      "target": "ae2541d3-fd8b-4839-a91b-f8c8bdf5ef87"
+    },
+    {
+      "type": "features_location",
+      "target": "9180225d-1af2-4db3-b6b4-a8f3bd05de5b"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
+    },
+    {
+      "type": "distributed_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    }
+  ],
+  "properties": {
+    "year": 2014,
+    "runtime": 169,
+    "genre": [
+      "Sci-Fi",
+      "Adventure",
+      "Drama"
+    ],
+    "budget": 165000000,
+    "box_office": 677471339,
+    "rating": "PG-13"
+  },
+  "tags": [
+    "sci-fi",
+    "2010s",
+    "adventure",
+    "drama",
+    "space-exploration",
+    "wormholes",
+    "physics"
+  ]
+}

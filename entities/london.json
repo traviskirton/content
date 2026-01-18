@@ -1,0 +1,46 @@
+{
+  "id": "5de86068-a215-4f6d-a874-3d9ddb2b83b7",
+  "type": "location",
+  "name": "London",
+  "description": "Capital city of England and the United Kingdom, known for its significant film industry presence.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**London** is the capital city of England and the United Kingdom, famous for its historical landmarks, cultural institutions, and vibrant arts scene. It is a major global city with a diverse population and serves as a financial and cultural hub. The city is known for iconic landmarks such as the Buckingham Palace, the Tower of London, and the London Eye."
+    },
+    {
+      "title": "Film History",
+      "body": "London has been a popular location for numerous notable film productions. Its historic and iconic architecture has been featured in many movies. For instance, the Harry Potter film series famously used locations such as King's Cross Station for the magical Platform 9¾ and the Millennium Bridge in 'Harry Potter and the Half-Blood Prince.' Additionally, Westminster Abbey and the Palace of Westminster have been prominently featured in films like 'The Da Vinci Code' and 'V for Vendetta.'"
+    },
+    {
+      "title": "Visiting",
+      "body": "London is a city that offers ample opportunities for film enthusiasts to explore. Most filming locations are publicly accessible, and film location tours are available throughout the city, allowing fans to discover the iconic sites that have graced the silver screen. Key locations like King's Cross Station and the Millennium Bridge are accessible to the public, providing an immersive experience for both locals and tourists."
+    }
+  ],
+  "aliases": [
+    "Capital of England",
+    "London Town"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "coordinates": {
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    "country": "United Kingdom"
+  },
+  "tags": [
+    "city",
+    "active",
+    "public",
+    "tours-available",
+    "iconic-landmarks"
+  ]
+}

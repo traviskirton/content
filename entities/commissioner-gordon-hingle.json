@@ -1,0 +1,65 @@
+{
+  "id": "7f4354ba-2e2b-4b1b-b8f9-3f308a57f405",
+  "type": "character",
+  "name": "Commissioner Gordon (Hingle)",
+  "description": "Commissioner James Gordon in the Burton Batman films, portrayed by Pat Hingle.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Commissioner James Gordon, often referred to as \"Commissioner Gordon (Hingle)\" to distinguish him from other portrayals, is a key character in the **Burton Batman films**, which include _Batman (1989)_ and _Batman Returns (1992)_. Played by Pat Hingle, Gordon serves as the commissioner of the Gotham City Police Department. His earlier life before becoming the commissioner is not explored in-depth within the films, yet his dedication to law enforcement and justice is evident."
+    },
+    {
+      "title": "Personality",
+      "body": "Commissioner Gordon is depicted as a steadfast and duty-driven leader. He is committed to maintaining law and order in **Gotham City**, often collaborating with Batman to combat crime. Gordon is portrayed as earnest, trustworthy, and pragmatic, yet he sometimes finds himself limited by Gotham's rampant corruption and criminal underbelly."
+    },
+    {
+      "title": "Story Role",
+      "body": "Within the narrative of the Burton Batman films, Commissioner Gordon acts as a key ally to **Bruce Wayne (Burton)**, working closely with Batman to tackle criminal threats. While his role is largely supportive, providing necessary law enforcement backing, he is crucial in acknowledging and legitimizing the role of Batman as a vigilante hero in Gotham."
+    },
+    {
+      "title": "Relationships",
+      "body": "Commissioner Gordon has a professional relationship with Batman, often relying on his assistance for situations beyond the scope of traditional law enforcement. He interacts with other notable characters within Gotham's law enforcement and political circles, although his interactions with Batman are the most emphasized in the narrative."
+    }
+  ],
+  "aliases": [
+    "James Gordon",
+    "Commissioner James Gordon"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "appears_in",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+    },
+    {
+      "type": "related_to",
+      "target": "a5f4e3b2-0d7d-4fbb-bfaa-c2b0629ab6de"
+    },
+    {
+      "type": "related_to",
+      "target": "9e5b44bd-fd41-45f7-adf1-378509fbee3a"
+    },
+    {
+      "type": "related_to",
+      "target": "0d9f8d3b-6c12-4adb-9e8c-a5d7463d049b"
+    },
+    {
+      "type": "related_to",
+      "target": "e63fa4c9-b988-4f52-ba43-6c4de334f470"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Police Commissioner",
+    "portrayed_by": "Pat Hingle",
+    "member_of": "Gotham City Police Department"
+  },
+  "tags": [
+    "supporting",
+    "mentor",
+    "law enforcement"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2a9f7e06-8d8b-40c4-a8b5-5a16f77b35fd",
+  "type": "location",
+  "name": "Batcave (Reeves)",
+  "description": "A secret underground hideout and operations base of Bruce Wayne, located beneath Wayne Tower in Gotham City.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Batcave (Reeves) is depicted in \"The Batman (2022)\" as an extension of Bruce Wayne's vigilantism. This iteration of the Batcave is situated beneath Wayne Tower, offering a modern, urban take on the iconic hideout."
+    },
+    {
+      "title": "Geography",
+      "body": "Located beneath the Wayne Tower in Gotham City (Reeves), the Batcave serves as a clandestine base of operations. It juxtaposes the grim and gothic landscape of Gotham with its sleek and minimalistic design."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The Batcave houses advanced technology and equipment. Key features include an array of computers, surveillance systems, and a workshop for maintaining the Batmobile and other gadgets. Unlike more traditional renderings, the space is integrated into an existing urban structure, reflecting Bruce Wayne's connection to the city."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In \"The Batman (2022)\", the Batcave is pivotal for Bruce Wayne (Pattinson) as it serves as the nerve center for investigating and combating Gotham's criminal activities. It underscores his dual identity, embodying the gritty and layered narrative of the film."
+    }
+  ],
+  "aliases": [
+    "Bruce Wayne's hideout",
+    "The Batman's underground lair"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "located_in",
+      "target": "b5d2c7e4-9f2b-4a0f-bc9f-7f0e8b2511d7"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "underground base"
+  },
+  "tags": [
+    "building",
+    "superhero",
+    "2020s"
+  ]
+}

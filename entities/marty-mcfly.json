@@ -1,0 +1,77 @@
+{
+  "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "type": "character",
+  "name": "Marty McFly",
+  "description": "Time-traveling protagonist of the Back to the Future trilogy.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Marty McFly was born in Hill Valley, California in 1968. Raised in the neighborhood of Lyon Estates, Marty is the son of George and Lorraine McFly. As a teenager, he attends Hill Valley High School and dreams of becoming a successful musician. He forms a band called 'The Pinheads,' but struggles to get a break. Marty often relies on his friendship with Dr. Emmett Brown, a local eccentric scientist, who becomes a mentor to him."
+    },
+    {
+      "title": "Personality",
+      "body": "Marty is characterized by his adventurous spirit, bravery, and quick wit. He exhibits a strong sense of loyalty and friendship, particularly towards Doc Brown. However, Marty can be impulsive and sometimes acts without considering the consequences, especially when provoked about his fear of being called 'chicken.'"
+    },
+    {
+      "title": "Story Role",
+      "body": "Marty McFly is the central protagonist of the Back to the Future trilogy. His character arc involves navigating the complexities of time travel, initially accidentally arriving in 1955, where he meets his young parents. Throughout the series, Marty must maintain the timeline to ensure his existence and safeguard his family's future, learning valuable lessons about responsibility and the ripple effect of his actions."
+    },
+    {
+      "title": "Relationships",
+      "body": "Marty has a close relationship with Dr. Emmett Brown, who acts as a mentor and friend. He is the boyfriend of Jennifer Parker and the eldest son of George and Lorraine McFly. He often clashes with Biff Tannen, who bullies him and his family."
+    },
+    {
+      "title": "Abilities",
+      "body": "Marty is an adept guitar player, showcasing his talent at various events, including the high school battle of the bands and at the Enchantment Under the Sea Dance. He is also proficient in skateboarding, which assists him in numerous chases and escapes. Although initially unfamiliar with the intricacies of time travel, he quickly adapts and becomes resourceful in handling the time machine, the DeLorean."
+    }
+  ],
+  "aliases": [
+    "Calvin Klein"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "appears_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "friends_with",
+      "target": "c3d4e5f6-a7b8-9012-cdef-345678901234"
+    },
+    {
+      "type": "related_to",
+      "target": "b5a41d6b-4f3e-4dc1-8268-c4aeda84b8b4"
+    },
+    {
+      "type": "related_to",
+      "target": "9a65f6e3-4d98-4f7a-b5ad-1e0cf9c7d330"
+    },
+    {
+      "type": "rivals_with",
+      "target": "b3fbd1f3-8215-4a6a-9417-5f4c1d308eef"
+    },
+    {
+      "type": "related_to",
+      "target": "24c9d2f3-2b68-4e27-b18b-7a5c0b0f789a"
+    },
+    {
+      "type": "uses",
+      "target": "a7e5d3c2-b1f8-42a3-9c8e-4f0f0172f0a3"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "student, musician",
+    "born": "1968",
+    "portrayed_by": "Michael J. Fox"
+  },
+  "tags": [
+    "protagonist",
+    "hero",
+    "time-traveler",
+    "teenager"
+  ]
+}

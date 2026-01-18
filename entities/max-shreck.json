@@ -1,0 +1,66 @@
+{
+  "id": "d5f4ea19-bb07-4635-9b41-63f8b93d0a54",
+  "type": "character",
+  "name": "Max Shreck",
+  "description": "A wealthy and unscrupulous businessman in Gotham City.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Max Shreck is a prominent businessman and owner of Shreck's Department Stores in Gotham City. He is known for his wealth and influence over the city's politics. Shreck presents himself as a philanthropist, though his true motives are often self-serving and sinister."
+    },
+    {
+      "title": "Personality",
+      "body": "Max Shreck is manipulative, ambitious, and willing to exploit others to achieve his goals. He is driven by power and wealth, with a polite demeanor that disguises his ruthless nature."
+    },
+    {
+      "title": "Story Role",
+      "body": "In _Batman Returns_, Max Shreck plays a pivotal role as an antagonist. He collaborates with the Penguin to further his plans and tries to consolidate his power in Gotham by manipulating mass media and politics. His corrupt and villainous nature poses a significant threat to Batman and Gotham City."
+    },
+    {
+      "title": "Relationships",
+      "body": "Max Shreck is the father of Chip Shreck. He also partners with the Penguin and attempts to manipulate him to his advantage. Shreck's interactions with Bruce Wayne (Burton) are filled with tension, as Wayne's alternate identity as Batman threatens Shreck's schemes. Additionally, Selina Kyle (Pfeiffer) begins as a meek assistant but becomes a significant adversary after her transformation into Catwoman."
+    }
+  ],
+  "aliases": [
+    "Shreck"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+    },
+    {
+      "type": "rivals_with",
+      "target": "a5f4e3b2-0d7d-4fbb-bfaa-c2b0629ab6de"
+    },
+    {
+      "type": "related_to",
+      "target": "d5f4ea19-bb07-4635-9b41-63f8b93d0a54"
+    },
+    {
+      "type": "related_to",
+      "target": "7818daf4-b097-4973-bace-3be5c9bde910"
+    },
+    {
+      "type": "related_to",
+      "target": "c996eace-3e79-4b50-bb5c-5f6f8783f77d"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "e614435b-73a9-42bc-ae19-5c4d8af9c91c"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "businessman",
+    "works_at": "Shreck's Department Store",
+    "member_of": "Gotham's elite"
+  },
+  "tags": [
+    "antagonist",
+    "villain",
+    "businessman",
+    "manipulative",
+    "wealthy"
+  ]
+}

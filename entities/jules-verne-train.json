@@ -1,0 +1,54 @@
+{
+  "id": "d9e5d6c7-8a9b-4d36-a0e7-3c2358e76d4a",
+  "type": "vehicle",
+  "name": "Jules Verne Train",
+  "description": "A steam-powered time machine train built by Doc Brown.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Jules Verne Train is a steam-powered locomotive converted into a time machine by Dr. Emmett Brown. It serves as a means of time travel, similar to the famous DeLorean Time Machine."
+    },
+    {
+      "title": "Design",
+      "body": "The train resembles a classic 19th-century steam locomotive but is heavily modified with futuristic elements. It has a sleek, black design with brass and copper trimmings, and it prominently features components related to time travel, like the Flux Capacitor."
+    },
+    {
+      "title": "Capabilities",
+      "body": "The train is capable of time travel, powered by a steam engine and equipped with a Flux Capacitor. It can hover and fly thanks to advanced technology, allowing it to navigate across different timelines without the need for tracks."
+    },
+    {
+      "title": "History",
+      "body": "After the events of 'Back to the Future Part III,' Doc Brown stays in the past to live with his family. He eventually builds the Jules Verne Train as a new time machine. The train is a testament to his ingenuity and love for exploration."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Jules Verne Train appears at the end of 'Back to the Future Part III,' signaling the beginning of a new adventure for Doc Brown and his family. It symbolizes the continuation of time travel adventures and provides closure to Doc's storyline."
+    }
+  ],
+  "aliases": [
+    "Time Train",
+    "Doc Brown's Train"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "created_by",
+      "target": "c3d4e5f6-a7b8-9012-cdef-345678901234"
+    }
+  ],
+  "properties": {
+    "vehicle_type": "train",
+    "manufacturer": "Doc Brown",
+    "fictional": true
+  },
+  "tags": [
+    "time-machine",
+    "flying",
+    "sci-fi",
+    "train",
+    "back-to-the-future"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "f18ac8fd-6b74-4e9d-9abc-dbd5c4747e5b",
+  "type": "location",
+  "name": "Boot Hill Cemetery",
+  "description": "A cemetery located on the outskirts of Hill Valley in the year 1885, featured prominently in 'Back to the Future Part III'.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Boot Hill Cemetery is an integral part of Hill Valley in the year 1885. In the film, it serves as the final resting place for Doc Brown's future self, marking it as a significant plot point that influences Marty McFly's actions to save his friend."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated on the outskirts of Hill Valley, Boot Hill Cemetery is characterized by its desolate and dusty appearance typical of the Old West. The location in the film shows a small, fenced-in section with a few scattered graves."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The most notable feature of Boot Hill Cemetery is Doc Brown's tombstone, which Marty discovers, leading to the plan of preventing Doc's untimely demise."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Boot Hill Cemetery plays a pivotal role in 'Back to the Future Part III', as it sets the stakes for Marty's mission to save Doc Brown. The discovery of Doc's tombstone with the inscription of his death date propels the narrative forward, emphasizing the urgency to alter events in 1885."
+    }
+  ],
+  "aliases": [
+    "Boot Hill",
+    "Hill Valley Cemetery"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "located_in",
+      "target": "048f308b-450f-4f86-9a04-6c411d1d746d"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "cemetery"
+  },
+  "tags": [
+    "cemetery",
+    "western",
+    "1885",
+    "Hill Valley",
+    "Back to the Future Part III"
+  ]
+}

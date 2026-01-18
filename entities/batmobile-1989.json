@@ -1,0 +1,60 @@
+{
+  "id": "a92f8c66-53a8-4c9a-b4f1-c634c2e83ae0",
+  "type": "vehicle",
+  "name": "Batmobile (1989)",
+  "description": "The 1989 Batmobile is a sleek, jet-black vehicle used by Batman in Tim Burton's 'Batman'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Batmobile (1989) is a custom-built, high-performance vehicle designed for the vigilante, Batman. It serves as his primary mode of transportation in the film 'Batman', directed by Tim Burton. The vehicle is as much a symbol of fear to Gotham's criminal element as the Dark Knight himself."
+    },
+    {
+      "title": "Design",
+      "body": "The 1989 Batmobile features a long, aerodynamic body with prominent bat-like wings at the rear. Its jet-black exterior is equipped with various stealth and combat features. **Notable design elements include:**\n\n- Twin machine guns concealed in the vehicle's fenders\n- Fully armored, bulletproof body\n- Advanced cockpit with a central steering wheel"
+    },
+    {
+      "title": "Capabilities",
+      "body": "This version of the Batmobile is equipped with a powerful jet engine, granting it remarkable speed and maneuverability. **Key capabilities include:**\n\n- **Jet engine thrust**: Allows for rapid acceleration\n- **On-board weapons system**: Includes machine guns and grappling hook launchers\n- **Shield cocoon**: A protective casing to prevent unauthorized access or damage\n- **Remote control system**: Allows Batman to control the vehicle from a distance"
+    },
+    {
+      "title": "History",
+      "body": "The Batmobile was designed and built by Bruce Wayne (Batman) for his crusade against crime in Gotham City. Its iconic design and features were crafted to instill fear into the hearts of criminals while providing Batman with the tools necessary to combat organized crime and supervillains."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Batmobile's appearances in key scenes, such as the chase through Gotham's streets and the attack on Axis Chemicals, solidify its role as an integral part of Batman's crime-fighting arsenal. Its presence and design also contribute heavily to the movie's noir aesthetic, reinforcing the character of Batman as a dark, mysterious figure."
+    }
+  ],
+  "aliases": [
+    "The Car",
+    "Batman's Ride"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "owned_by",
+      "target": "a5f4e3b2-0d7d-4fbb-bfaa-c2b0629ab6de"
+    },
+    {
+      "type": "located_at",
+      "target": "94768b45-89e7-4a8f-99a4-4d038b1357be"
+    }
+  ],
+  "properties": {
+    "vehicle_type": "car",
+    "manufacturer": "Wayne Enterprises (in-universe)",
+    "model": "Customized Crime-Fighting Vehicle",
+    "year": "1989",
+    "fictional": true
+  },
+  "tags": [
+    "car",
+    "action",
+    "crime-fighting",
+    "superhero",
+    "1980s"
+  ]
+}

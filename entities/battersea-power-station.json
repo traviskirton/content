@@ -1,0 +1,55 @@
+{
+  "id": "b3e1a2c6-d9e9-41a9-bb55-62a647e2fa06",
+  "type": "location",
+  "name": "Battersea Power Station",
+  "description": "An iconic power station in London, known for its Art Deco design, that has been used as a filming location for various productions.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Battersea Power Station** is an iconic decommissioned coal-fired power station located on the south bank of the River Thames in Nine Elms, Battersea, London. Known for its stunning Art Deco architecture, it consists of two power stations built in a single building. It ceased operations in 1983 and has since become a significant piece of British industrial heritage."
+    },
+    {
+      "title": "Film History",
+      "body": "Battersea Power Station has served as a dramatic backdrop in numerous films and music videos. Notable productions include:\n\n- **'The Dark Knight'** - Used to depict parts of Gotham City, associated with the fictional entity Gotham City (UUID: d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883).\n- Various music videos and commercial shoots have utilized its industrial aesthetic to great effect."
+    },
+    {
+      "title": "Visiting",
+      "body": "The Battersea Power Station is currently undergoing redevelopment into a mixed-use development featuring residential, office, and retail spaces. While the power station itself is not traditionally open for tours, its exterior and nearby public spaces can be accessed by the public. The development plan includes public spaces and possibly future tours as redevelopment progresses."
+    }
+  ],
+  "aliases": [
+    "Battersea Station"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "power station",
+    "address": "188 Kirtling St, Nine Elms, London SW8 5BN, United Kingdom",
+    "city": "London",
+    "state": "Greater London",
+    "country": "United Kingdom",
+    "coordinates": {
+      "latitude": 51.4811,
+      "longitude": -0.1425
+    }
+  },
+  "tags": [
+    "location",
+    "preserved",
+    "tours-available",
+    "public"
+  ]
+}

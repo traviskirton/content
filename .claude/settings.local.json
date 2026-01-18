@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source ~/.zshrc)",
+      "Bash(./generate-bttf.sh:*)",
+      "Bash(./generate-bttf2.sh)"
+    ]
+  }
+}

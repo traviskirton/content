@@ -1,0 +1,54 @@
+{
+  "id": "776dcb2e-1728-4e47-96d0-058c58b2eb88",
+  "type": "vehicle",
+  "name": "Duck Vehicle",
+  "description": "A stylized, amphibious vehicle used by the Penguin in 'Batman Returns'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Duck Vehicle is a large, amphibious vehicle used by the Penguin as his primary mode of transportation in Gotham City in 'Batman Returns'. Its design is inspired by a classic duck-on-water toy and it suits the Penguin's quirky and sinister personality."
+    },
+    {
+      "title": "Design",
+      "body": "The Duck Vehicle is designed with a bright yellow and blue color scheme, mimicking that of a bathtub toy duck. It features a prominent duck head at the front, which serves both aesthetic purposes and houses various controls and mechanical components. The vehicle is equipped with giant wheels that allow it to traverse both land and water with ease."
+    },
+    {
+      "title": "Capabilities",
+      "body": "**Amphibious Functionality:** The Duck Vehicle can smoothly transition between land and water travel, making it highly versatile for pursuit and escape sequences in Gotham City's varied terrains.\n\n**Durability:** Its reinforced structure allows it to withstand significant damage, ideal for the chaotic incidents it often finds itself in."
+    },
+    {
+      "title": "History",
+      "body": "The Duck Vehicle was specially constructed for the Penguin by his henchmen, drawing upon his affinity for water and his unique villainous persona. It was first introduced during his assault on Gotham Plaza and continues to be a symbol of his eccentricity and malevolence."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Duck Vehicle plays a crucial role in 'Batman Returns', being prominently featured during the Penguin's attacks on Gotham City. Its iconic design contributes to the Penguin's memorable presence in the film, serving as a physical representation of his bizarre and sinister character."
+    }
+  ],
+  "aliases": [
+    "Penguin's Duck"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+    },
+    {
+      "type": "owned_by",
+      "target": "0fab5f73-6ee5-411b-a004-8b928dbf70cf"
+    }
+  ],
+  "properties": {
+    "vehicle_type": "Amphibious vehicle",
+    "manufacturer": "Penguin's gang",
+    "fictional": true
+  },
+  "tags": [
+    "vehicle",
+    "Batman Returns",
+    "fictional",
+    "amphibious",
+    "action",
+    "movie"
+  ]
+}

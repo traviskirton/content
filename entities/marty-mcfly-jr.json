@@ -1,0 +1,60 @@
+{
+  "id": "f2f89c2d-9813-4fbc-a464-5ef8f6a2c437",
+  "type": "character",
+  "name": "Marty McFly Jr.",
+  "description": "The son of Marty McFly and Jennifer Parker in the alternate future of 2015.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Marty McFly Jr. was born to Marty McFly and Jennifer Parker in the timeline set in the future year of 2015. He resides in the suburb of Hilldale within Hill Valley, California. As of 2015, he is depicted as a somewhat impressionable and naive teenager."
+    },
+    {
+      "title": "Personality",
+      "body": "Marty Jr. exhibits characteristics of a typical teenager. He is easily influenced by his peers, particularly by Griff Tannen, which leads to trouble. He lacks the confidence and adventurous spirit of his father at the same age, shown by his cautious and often timid demeanor."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Back to the Future Part II', Marty Jr. is an important catalyst for the plot. His actions in the future are the reason Dr. Emmett Brown brings Marty McFly and Jennifer to 2015. His involvement with Griff Tannen's gang is set to lead to his arrest, which Marty and Doc aim to prevent to mitigate a chain of events that would ruin the McFly family."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Marty McFly** (father): Marty Jr. respects and admires his father, albeit from a distance.\n- **Jennifer Parker** (mother): Marty Jr.'s mother, whom he acknowledges in the family.\n- **Griff Tannen**: Griff attempts to coerce Marty Jr. into committing illegal acts.\n- **Marlene McFly**: Marty Jr.'s sister, who shares similarities in demeanor with him."
+    }
+  ],
+  "aliases": [
+    "Martin McFly Jr."
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "related_to",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "related_to",
+      "target": "24c9d2f3-2b68-4e27-b18b-7a5c0b0f789a"
+    },
+    {
+      "type": "related_to",
+      "target": "d3f09aae-6115-41c8-9e87-0b07d320257b"
+    },
+    {
+      "type": "rivals_with",
+      "target": "b9e2f930-6b50-4f27-9ff9-f0d4e827f5d1"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "student",
+    "born": "1998",
+    "portrayed_by": "Michael J. Fox"
+  },
+  "tags": [
+    "supporting",
+    "teenager",
+    "time-traveler"
+  ]
+}

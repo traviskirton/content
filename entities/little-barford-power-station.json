@@ -1,0 +1,49 @@
+{
+  "id": "57c2a5fc-41a2-4493-9329-4d5cce6c87b6",
+  "type": "location",
+  "name": "Little Barford Power Station",
+  "description": "A decommissioned power station in England, formerly used to supply electricity.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Little Barford Power Station was a British electricity generating site located in Little Barford, Cambridgeshire, England. It was originally constructed in the 1950s and later upgraded in the 1990s as a gas-fired power station with modern technology. The site played a critical role in supplying electricity to the local grid until its decommissioning."
+    },
+    {
+      "title": "Film History",
+      "body": "While Little Barford is notably recognized in the realms of industry and energy, it was not commonly used as a filming location for major productions. Its industrial aesthetic, however, does make it a potential choice for depicting power facilities in films."
+    },
+    {
+      "title": "Visiting",
+      "body": "As a decommissioned facility, Little Barford Power Station is not generally open to the public for tours or visits. Its status and access are subject to private ownership policies, and potential visitors should inquire with local authorities or property managers regarding current access arrangements."
+    }
+  ],
+  "aliases": [
+    "Little Barford Station",
+    "Little Barford Power Plant"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "9ea831c8-8d94-4312-9954-6159a1c7e065"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "power_station",
+    "address": "Little Barford, Cambridgeshire, England",
+    "city": "Little Barford",
+    "state": "Cambridgeshire",
+    "country": "United Kingdom",
+    "coordinates": {
+      "latitude": 52.1823,
+      "longitude": -0.2751
+    }
+  },
+  "tags": [
+    "industrial",
+    "decommissioned",
+    "private",
+    "England",
+    "power station"
+  ]
+}

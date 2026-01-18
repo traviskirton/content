@@ -1,0 +1,46 @@
+{
+  "id": "5a7e8f6d-4b3c-4e7f-b92d-1d4ef9e7a5b1",
+  "type": "location",
+  "name": "Gotham Plaza",
+  "description": "A central and iconic location in Gotham City, known for its massive Christmas tree and key events in 'Batman Returns'.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Gotham Plaza is a fictional public square located in the heart of Gotham City. It rose to prominence as a key location for public gatherings and city events. In 'Batman Returns', it is famously remembered for its grand Christmas tree decoration, which becomes the center point of The Penguin's scheme."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated centrally in Gotham City, Gotham Plaza is surrounded by high-rise buildings, making it a prominent fixture in the city's skyline. Its location contributes to its importance as a hub for citywide celebrations and gatherings."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The plaza is renowned for its impressive Christmas tree, which serves as both a festive symbol and a narrative focal point in 'Batman Returns'. Surrounding the plaza are various landmarks and key buildings that contribute to the city's aesthetic."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Gotham Plaza is where much of the action in 'Batman Returns' unfolds. It is the site of The Penguin's public appearances and the climax of several plots. The plaza’s Christmas tree becomes central to The Penguin's plan and serves as a dramatic backdrop to Batman's interventions."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+    },
+    {
+      "type": "located_in",
+      "target": "3b52879a-7129-4f5c-9e15-60d01eb9c0da"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city square"
+  },
+  "tags": [
+    "city square",
+    "fictional",
+    "Christmas",
+    "Batman Returns",
+    "Gotham City"
+  ]
+}

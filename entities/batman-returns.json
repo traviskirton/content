@@ -1,0 +1,105 @@
+{
+  "id": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111",
+  "type": "movie",
+  "name": "Batman Returns",
+  "description": "The Dark Knight battles the Penguin and Catwoman in Gotham City.",
+  "content": [
+    {
+      "title": "Synopsis",
+      "body": "In 'Batman Returns', the Dark Knight, Batman, finds himself facing two formidable foes: the grotesque Penguin, who has emerged from the sewers to become a respected member of Gotham, and the mysterious Catwoman, who has her own plans for the city. As these two villains threaten Gotham City, Batman must struggle to maintain order."
+    },
+    {
+      "title": "Production",
+      "body": "Directed by Tim Burton, 'Batman Returns' is a sequel to the 1989 film 'Batman'. Following the success of the first movie, Burton was given more creative control for this installment. The film was produced by Warner Bros. Pictures, with Danny Elfman returning to compose the film's soundtrack."
+    },
+    {
+      "title": "Reception",
+      "body": "'Batman Returns' was well-received for its gothic aesthetic and the performances of its cast, particularly Danny DeVito as the Penguin and Michelle Pfeiffer as Catwoman. The film grossed $266.8 million at the box office against an $80 million budget."
+    },
+    {
+      "title": "Legacy",
+      "body": "The film's darker tone and unique portrayal of Gotham City have influenced subsequent adaptations of the Batman character and universe. Its take on villains like the Penguin and Catwoman remains iconic, with these characters often referenced in pop culture."
+    }
+  ],
+  "aliases": [
+    "Batman 2",
+    "Batman: The Dark Knight Returns"
+  ],
+  "relationships": [
+    {
+      "type": "directed_by",
+      "target": "d2e9f21d-ae29-4f4a-9b12-0e5f5d1b9e79"
+    },
+    {
+      "type": "produced_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "written_by",
+      "target": "ad3f54b7-3082-4f76-b5fe-9f1d8e3b8a6c"
+    },
+    {
+      "type": "composed_by",
+      "target": "89d7e8f5-4e96-4e69-bfd2-8c1e8a9f7c41"
+    },
+    {
+      "type": "stars",
+      "target": "b2267f4d-1f07-43b5-a89e-9efb012f9d48"
+    },
+    {
+      "type": "stars",
+      "target": "f3a8e057-c2e4-403b-8f8e-5228cfb0fbaa"
+    },
+    {
+      "type": "stars",
+      "target": "4a5c6d7e-8f9b-0a1b-2c3d-4e5f6789abcd"
+    },
+    {
+      "type": "features_character",
+      "target": "a5f4e3b2-0d7d-4fbb-bfaa-c2b0629ab6de"
+    },
+    {
+      "type": "features_character",
+      "target": "c996eace-3e79-4b50-bb5c-5f6f8783f77d"
+    },
+    {
+      "type": "features_character",
+      "target": "0fab5f73-6ee5-411b-a004-8b928dbf70cf"
+    },
+    {
+      "type": "features_location",
+      "target": "3b52879a-7129-4f5c-9e15-60d01eb9c0da"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "d65b3a1e-5b3b-4a72-907d-fae2b0ef4f90"
+    },
+    {
+      "type": "distributed_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "part_of",
+      "target": "74e2f215-232d-475e-bfa4-15f73e237d89"
+    }
+  ],
+  "properties": {
+    "year": 1992,
+    "runtime": 126,
+    "genre": [
+      "Action",
+      "Crime",
+      "Fantasy"
+    ],
+    "budget": 80000000,
+    "box_office": 266800000,
+    "rating": "PG-13"
+  },
+  "tags": [
+    "action",
+    "1990s",
+    "superhero",
+    "dark",
+    "gothic"
+  ]
+}

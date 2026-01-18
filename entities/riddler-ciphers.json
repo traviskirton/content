@@ -1,0 +1,53 @@
+{
+  "id": "f8b9ca12-97b3-4bea-946d-12ac5c7d7f75",
+  "type": "item",
+  "name": "Riddler Ciphers",
+  "description": "Complex cryptographic puzzles left by The Riddler as clues for Batman.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Riddler Ciphers are complex cryptographic puzzles used by The Riddler to challenge Batman. Each cipher offers a clue to further Riddler's elaborate game meant to reveal the corruption in Gotham City."
+    },
+    {
+      "title": "Appearance",
+      "body": "The ciphers are typically contained within notes or card-like items, often accompanied by question marks which are The Riddler's signature symbol."
+    },
+    {
+      "title": "Function",
+      "body": "These ciphers function as both a puzzle and a tool for communication from The Riddler to Batman, serving to engage the hero in a mental duel and guide him towards unveiling various truths and secrets."
+    },
+    {
+      "title": "History",
+      "body": "The Riddler, a brilliant but disturbed criminal mastermind, creates these ciphers as part of his modus operandi to draw Batman into his intricate web of clues and traps."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'The Batman (2022)', these ciphers play a crucial role, leading Batman through a mystery that uncovers deep-rooted corruption in Gotham and demonstrates The Riddler's influence and reach."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "created_by",
+      "target": "c8f65c7b-82c3-41db-a2f1-6a7f8e6f843e"
+    },
+    {
+      "type": "used_by",
+      "target": "b87b3c9d-4e25-41d3-b635-3ab2c66a63b4"
+    }
+  ],
+  "properties": {
+    "item_type": "puzzle",
+    "created_by": "The Riddler",
+    "fictional": true
+  },
+  "tags": [
+    "artifact",
+    "macguffin",
+    "mystery",
+    "puzzle"
+  ]
+}

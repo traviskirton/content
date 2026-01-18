@@ -1,0 +1,57 @@
+{
+  "id": "12f57ad2-8b6e-4e3d-a3f9-fac42eef1fe3",
+  "type": "person",
+  "name": "Matthew Modine",
+  "description": "An American actor known for his roles in 'Full Metal Jacket' and 'Stranger Things'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Matthew Avery Modine was born in 1959 in Loma Linda, California, USA. He began his acting career in the early 1980s and quickly gained recognition for his talent and distinct presence on screen."
+    },
+    {
+      "title": "Career",
+      "body": "Matthew Modine's breakthrough role came in 1984 with 'Birdy', followed by his portrayal of Private Joker in Stanley Kubrick's acclaimed film 'Full Metal Jacket' (1987). He has appeared in a wide range of films encompassing different genres, including 'Vision Quest', 'Pacific Heights', and 'The Dark Knight Rises'. In recent years, Modine has gained renewed fame for his role as Dr. Martin Brenner in the Netflix series 'Stranger Things'."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Modine has worked with several esteemed directors, including Stanley Kubrick on 'Full Metal Jacket' and Christopher Nolan on 'The Dark Knight Rises'."
+    },
+    {
+      "title": "Legacy",
+      "body": "Matthew Modine is respected for his versatile acting skills and his ability to bring depth to his characters. He has been nominated for various awards throughout his career and continues to be a prominent figure in both film and television."
+    }
+  ],
+  "aliases": [
+    "Matt Modine"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    }
+  ],
+  "properties": {
+    "born": 1959,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active_years": "1982-present"
+  },
+  "tags": [
+    "actor",
+    "director",
+    "producer",
+    "writer",
+    "drama",
+    "sci-fi",
+    "modern"
+  ]
+}

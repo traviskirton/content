@@ -1,0 +1,56 @@
+{
+  "id": "2f3766f4-4cfe-4de3-a479-5d1fa96c3398",
+  "type": "location",
+  "name": "McFly Residence",
+  "description": "The family home of the McFly family in 'Back to the Future' set in the suburban Hill Valley area.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The McFly Residence is the family home of George and Lorraine McFly, and their children: Marty, Dave, and Linda. It plays a significant role throughout the 'Back to the Future' trilogy, as the setting for several key moments reflecting the changes in the family's fortunes as a result of time travel interventions. Originally, the McFly's home in 1985 reflects their modest lifestyle until Marty's time-traveling adventures create positive changes in their lives."
+    },
+    {
+      "title": "Geography",
+      "body": "The McFly Residence is located in the suburban neighborhood of Lyon Estates, a residential area situated on the outskirts of Hill Valley, California. It is depicted as a typical mid-20th-century suburban home with a garage, driveway, and a well-kept garden."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The house includes a variety of rooms significant to the storyline: the kitchen where family dynamics are often portrayed, Marty's bedroom filled with his music paraphernalia, and the garage which plays a key role with the time machine experiments."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The McFly Residence is crucial to the narrative as it demonstrates the effect time travel has on the timeline and the characters' lives. Key scenes include Marty's return to the improved version of the residence in 'Back to the Future,' as well as the disastrous alternative 1985 timeline showcased in 'Back to the Future Part II.' The residence serves as a symbolic measure of consequence and change induced by time travel."
+    }
+  ],
+  "aliases": [
+    "McFly House",
+    "McFly Family Home"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "featured_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "located_in",
+      "target": "c984104c-3b64-4acc-9e3f-8e9cc76dee4f"
+    },
+    {
+      "type": "located_in",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "sci-fi",
+    "1985",
+    "futuristic"
+  ]
+}

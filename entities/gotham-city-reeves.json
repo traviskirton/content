@@ -1,0 +1,59 @@
+{
+  "id": "b5d2c7e4-9f2b-4a0f-bc9f-7f0e8b2511d7",
+  "type": "location",
+  "name": "Gotham City (Reeves)",
+  "description": "A sprawling, gritty metropolis depicted in the 2022 film 'The Batman', directed by Matt Reeves.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Gotham City, as portrayed in Matt Reeves' 'The Batman', is a city plagued by crime and corruption. Over the years, it has developed a reputation for being a haven for criminals and corrupt officials. The film explores Gotham's deep-rooted issues, including its history of organized crime and political corruption."
+    },
+    {
+      "title": "Geography",
+      "body": "The city is an expansive urban jungle characterized by its Gothic and Art Deco architectural influences. It features a complex network of roads, alleys, and bridges, which contribute to the film's dark and atmospheric setting."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Significant locations within Gotham City include:\n\n- **Gotham City Police Department**: Central to much of the film's action.\n- **Wayne Tower**: Owned by Bruce Wayne, a notable skyscraper in the city's skyline.\n- **Gotham City Orphanage**: A rundown and neglected institution, central to the backstory of multiple characters.\n- **The Iceberg Lounge**: A popular nightspot owned by Oswald Cobblepot (The Penguin)."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Gotham City in 'The Batman' serves as a critical backdrop for the unfolding narrative, highlighting the dichotomy between Bruce Wayne's (Batman) quest for justice and the city's inherent darkness. The city is integral to the storyline as it reflects the moral and social decay that Batman seeks to combat."
+    }
+  ],
+  "aliases": [
+    "Gotham",
+    "City of Gotham"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "contains",
+      "target": "bdc84a78-a3b8-4a62-b612-09ba4601c63c"
+    },
+    {
+      "type": "contains",
+      "target": "295a0b1a-ed45-4dff-a401-99b121032f26"
+    },
+    {
+      "type": "contains",
+      "target": "f4b45718-977d-4185-b97c-8a0f312f5f84"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city",
+    "population": "millions",
+    "founded": "In-universe unspecified"
+  },
+  "tags": [
+    "city",
+    "crime",
+    "drama",
+    "Gothic",
+    "2022"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ec71f9f9-6e92-4a1d-9b3f-7b51c5d0d3b7",
+  "type": "location",
+  "name": "Gotham Cathedral",
+  "description": "A gothic cathedral in Gotham City, notable for its climactic battle between Batman and The Joker.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Gotham Cathedral is a massive gothic-style cathedral located in the heart of Gotham City. It is an iconic structure known for its towering spire and intricate architectural details. Throughout the years, it has been a central place for both religious gatherings and public events, symbolizing the architectural grandeur of Gotham."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated in the central district of Gotham City, Gotham Cathedral towers over many of the surrounding buildings, making it a prominent landmark. Its architectural style is inspired by classic Gothic elements, with pointed arches, ribbed vaults, and flying buttresses."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **Towering Spire**: The spire is one of the highest points in Gotham City, offering a breathtaking view of the cityscape.\n- **Stained Glass Windows**: The cathedral is adorned with beautiful stained glass windows depicting various religious and historical scenes.\n- **Belfry**: Houses large church bells that can be heard throughout the city."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Gotham Cathedral is crucial to the climax of *Batman (1989)*. It is the setting for the final battle between Batman and The Joker. The Joker ascends to the top of the cathedral, where he summons a helicopter for escape, leading to a dramatic confrontation with Batman. This location highlights the tension and ultimate resolution of the film's conflict."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "located_in",
+      "target": "3b52879a-7129-4f5c-9e15-60d01eb9c0da"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "gothic",
+    "Gotham City",
+    "action"
+  ]
+}

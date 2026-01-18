@@ -1,0 +1,63 @@
+{
+  "id": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748",
+  "type": "franchise",
+  "name": "Batman",
+  "description": "A superhero franchise centered around the DC Comics character Batman.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Batman is a franchise revolving around the DC Comics character Batman, a superhero who fights crime in Gotham City. The character and franchise have appeared in various forms of media including comics, films, television shows, and games."
+    },
+    {
+      "title": "History",
+      "body": "The franchise began with the character's first appearance in Detective Comics #27 in 1939, created by Bill Finger and Bob Kane. Over the decades, Batman has become one of the most recognized and beloved superheroes, with major phases including the campy 1960s television series, Tim Burton's 1989 film, Christopher Nolan's 'The Dark Knight Trilogy', and the DC Extended Universe."
+    },
+    {
+      "title": "Cultural Impact",
+      "body": "Batman has significantly influenced popular culture, becoming a symbol of justice and vigilante heroism. The character's rich rogue gallery, including the Joker, has also left a lasting impression on the superhero genre."
+    },
+    {
+      "title": "Legacy",
+      "body": "Batman's legacy continues with ongoing comic book series, regular appearances in video games, and continual adaptations in film and television. The Batman franchise has generated numerous spin-offs and continues to be a staple in modern superhero storytelling."
+    }
+  ],
+  "aliases": [
+    "The Caped Crusader",
+    "The Dark Knight",
+    "Gotham's Protector"
+  ],
+  "relationships": [
+    {
+      "type": "owned_by",
+      "target": "d65b3a1e-5b3b-4a72-907d-fae2b0ef4f90"
+    },
+    {
+      "type": "owned_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "spin_off_of",
+      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+    }
+  ],
+  "properties": {
+    "created_year": 1939,
+    "creator": [
+      "Bob Kane",
+      "Bill Finger"
+    ],
+    "media_types": [
+      "comics",
+      "film",
+      "tv",
+      "games"
+    ]
+  },
+  "tags": [
+    "superhero",
+    "film-series",
+    "multimedia",
+    "classic",
+    "modern"
+  ]
+}

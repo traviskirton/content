@@ -1,0 +1,52 @@
+{
+  "id": "c984104c-3b64-4acc-9e3f-8e9cc76dee4f",
+  "type": "location",
+  "name": "Lyon Estates",
+  "description": "A suburban residential area in Hill Valley where the McFly family lives.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Lyon Estates is a residential area in Hill Valley established in 1982. It is portrayed as a quintessential 1980s suburban neighborhood, featuring modest family homes. Within the narrative of the 'Back to the Future' films, it's notably known as the neighborhood where Marty McFly and his family reside."
+    },
+    {
+      "title": "Geography",
+      "body": "Lyon Estates is situated within the fictional town of Hill Valley, California, in the United States. The area is indicative of the typical suburban sprawl of the 1980s in America, characterized by tree-lined streets and split-level homes."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The most notable feature of Lyon Estates is the McFly family home. Other features include the typical elements of suburban life like well-maintained lawns, driveways, and a community atmosphere typified by neighborly interactions."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Lyon Estates plays a crucial role in the 'Back to the Future' series as the residence of Marty McFly. Key scenes occur here, including his interactions with his family, and it serves as a physical reminder of the changes in time brought about by the events of the films. The location changes visually between 1985 and the altered timelines, reflecting the impact of time travel on Marty's life."
+    }
+  ],
+  "aliases": [
+    "McFly's Neighborhood"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "featured_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "located_in",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "suburban",
+    "founded": 1982
+  },
+  "tags": [
+    "suburban",
+    "sci-fi",
+    "1985",
+    "fictional"
+  ]
+}

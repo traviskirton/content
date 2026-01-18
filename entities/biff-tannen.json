@@ -1,0 +1,64 @@
+{
+  "id": "b3fbd1f3-8215-4a6a-9417-5f4c1d308eef",
+  "type": "character",
+  "name": "Biff Tannen",
+  "description": "A central antagonist in the 'Back to the Future' trilogy known for being a bully and adversary to George McFly and Marty McFly.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Biff Tannen was born in Hill Valley, California. He is a notorious bully, known particularly for tormenting George McFly during their school days. Biff later becomes a wealthy and corrupt businessman thanks to a time-travel incident involving 'Gray's Sports Almanac'."
+    },
+    {
+      "title": "Personality",
+      "body": "Biff is aggressive, arrogant, and not the brightest. His main motivations are power and dominance, and he often uses intimidation and threats to achieve his goals."
+    },
+    {
+      "title": "Story Role",
+      "body": "In the trilogy, Biff serves as the primary antagonist, obstructing the protagonists' efforts at various times. His character spans multiple timelines and alternate realities, becoming a key figure in the story's central conflicts."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **George McFly**: Longtime rival and main victim of Biff's bullying.\n- **Marty McFly**: Initially underestimated by Biff, Marty becomes a significant adversary.\n- **Old Biff Tannen**: His future self who sets the alternate 1985 events in motion."
+    }
+  ],
+  "aliases": [
+    "Biff"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "appears_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "related_to",
+      "target": "91c5a0e5-be13-4ac9-808c-8e4df7d82334"
+    },
+    {
+      "type": "rivals_with",
+      "target": "b5a41d6b-4f3e-4dc1-8268-c4aeda84b8b4"
+    },
+    {
+      "type": "rivals_with",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "f0737a6e-5aef-4b39-b3a6-3e0a8455f1da"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "businessman",
+    "born": "1937",
+    "portrayed_by": "Thomas F. Wilson"
+  },
+  "tags": [
+    "antagonist",
+    "villain",
+    "bully"
+  ]
+}

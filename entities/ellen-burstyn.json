@@ -1,0 +1,43 @@
+{
+  "id": "b3f0899a-5d34-469e-a417-237e55d531bd",
+  "type": "person",
+  "name": "Ellen Burstyn",
+  "description": "An acclaimed American actress known for her versatile roles in film, television, and theater.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Ellen Burstyn, born Edna Rae Gillooly on December 7, 1932, in Detroit, Michigan, is an esteemed American actress who has excelled across film, stage, and television. She started her career on Broadway and gained fame with her breakout role in the film 'The Last Picture Show' (1971)."
+    },
+    {
+      "title": "Career",
+      "body": "Ellen Burstyn's career spans over six decades, with notable performances in films such as '*Alice Doesn't Live Here Anymore*' (1974), for which she won the Academy Award for Best Actress, '*Requiem for a Dream*' (2000), and '*The Exorcist*' (1973). Her style is lauded for its emotional depth, realism, and nuanced character portrayals."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Ellen has worked with some of the most distinguished filmmakers and actors in the industry, including directors like Martin Scorsese and actors such as Jack Nicholson and Christopher Lloyd."
+    },
+    {
+      "title": "Legacy",
+      "body": "Ellen Burstyn's impact on the film industry is marked by her impressive range of performances and her dedication to her craft. She has received numerous awards, including an Academy Award, a Tony Award, and multiple Emmy Awards. Burstyn remains an influential figure in the acting world, continually contributing to the arts both in front of and behind the camera."
+    }
+  ],
+  "aliases": [
+    "Edna Rae Gillooly"
+  ],
+  "relationships": [],
+  "properties": {
+    "born": "1932",
+    "nationality": "American",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1958-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "classic-hollywood",
+    "new-hollywood",
+    "modern"
+  ]
+}

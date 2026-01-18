@@ -1,0 +1,65 @@
+{
+  "id": "c996eace-3e79-4b50-bb5c-5f6f8783f77d",
+  "type": "character",
+  "name": "Catwoman (Pfeiffer)",
+  "description": "Selina Kyle, also known as Catwoman, is a complex character with a dual identity featuring in 'Batman Returns'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "**Selina Kyle** is originally introduced as a timid, mousy secretary working for the villainous businessman Max Shreck. After discovering a nefarious plot of Shreck’s, Selina is pushed out of a window and left for dead. Miraculously surviving, she is revived by a group of alley cats and undergoes a mental transformation, adopting the persona of Catwoman."
+    },
+    {
+      "title": "Personality",
+      "body": "Catwoman is marked by a dichotomy of vulnerability and strength. Her transformation leads her to become assertive, confident, and fiercely independent, while her underlying psychosis and desire for revenge against those who wronged her reveal a darker, more volatile side."
+    },
+    {
+      "title": "Story Role",
+      "body": "In **Batman Returns**, Catwoman serves as both an antihero and antagonist. Her personal vendetta against Max Shreck aligns her temporarily with The Penguin, though her ultimate conflict is internal—balancing her own desires for vengeance with a burgeoning attraction to Bruce Wayne/Batman."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Max Shreck**: Initially her employer, Shreck's betrayal is the catalyst for her transformation into Catwoman.\n- **The Penguin**: Partners with him initially, though eventually becomes disillusioned by his extreme methods.\n- **Bruce Wayne/Batman**: Complex relationship involving mutual attraction, ideological conflict, and shared fates."
+    },
+    {
+      "title": "Abilities",
+      "body": "Catwoman possesses impressive acrobatic skills, a high degree of physical agility, and uses a bullwhip as her primary weapon. Her costume is custom-made with retractable claws, enhancing her cat-like persona."
+    }
+  ],
+  "aliases": [
+    "Selina Kyle (Pfeiffer)",
+    "Catwoman"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "4a5c6d7e-8f9b-0a1b-2c3d-4e5f6789abcd"
+    },
+    {
+      "type": "rivals_with",
+      "target": "0fab5f73-6ee5-411b-a004-8b928dbf70cf"
+    },
+    {
+      "type": "rivals_with",
+      "target": "d5f4ea19-bb07-4635-9b41-63f8b93d0a54"
+    },
+    {
+      "type": "related_to",
+      "target": "a5f4e3b2-0d7d-4fbb-bfaa-c2b0629ab6de"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "former secretary, vigilante",
+    "portrayed_by": "Michelle Pfeiffer"
+  },
+  "tags": [
+    "antagonist",
+    "antihero",
+    "villain",
+    "vigilante"
+  ]
+}

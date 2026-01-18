@@ -1,0 +1,68 @@
+{
+  "id": "91c5a0e5-be13-4ac9-808c-8e4df7d82334",
+  "type": "character",
+  "name": "Old Biff Tannen",
+  "description": "Older version of Biff Tannen who travels back in time to give his younger self a sports almanac.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "**Old Biff Tannen** is the elderly version of Biff Tannen from the year 2015. He is a human male who lived his earlier years in Hill Valley. By 2015, his life is characterized by bitterness and regret over lost opportunities."
+    },
+    {
+      "title": "Personality",
+      "body": "Old Biff is vindictive, cunning, and opportunistic. His major motivation is to find a way to improve his past failures and to achieve wealth and power. He is willing to manipulate time to his advantage, showing little regard for the consequences his actions might have on others."
+    },
+    {
+      "title": "Story Role",
+      "body": "In \"Back to the Future Part II,\" Old Biff finds the DeLorean Time Machine and uses it to travel back to 1955. He delivers **Gray's Sports Almanac** to his younger self, Biff Tannen, in order to create an alternate, dystopian 1985 where Biff becomes a wealthy and powerful casino owner."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Biff Tannen [UUID: b3fbd1f3-8215-4a6a-9417-5f4c1d308eef]**: Old Biff's younger self, whom he helps become rich through time travel.\n- **Marty McFly [UUID: a1b2c3d4-e5f6-7890-abcd-ef1234567890]**: The protagonist who attempts to undo Old Biff's meddling with time.\n- **Dr. Emmett Brown [UUID: c3d4e5f6-a7b8-9012-cdef-345678901234]**: The inventor of the DeLorean Time Machine, indirectly affected by Old Biff's actions."
+    },
+    {
+      "title": "Abilities",
+      "body": "Old Biff does not possess any special powers, but he demonstrates a cunning understanding of time travel and effectively uses the DeLorean Time Machine to alter his past."
+    }
+  ],
+  "aliases": [
+    "Biff Tannen (Old)"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "related_to",
+      "target": "b3fbd1f3-8215-4a6a-9417-5f4c1d308eef"
+    },
+    {
+      "type": "rivals_with",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "related_to",
+      "target": "c3d4e5f6-a7b8-9012-cdef-345678901234"
+    },
+    {
+      "type": "uses",
+      "target": "a7e5d3c2-b1f8-42a3-9c8e-4f0f0172f0a3"
+    },
+    {
+      "type": "lives_in",
+      "target": "f9b4c1d8-3479-4e60-b9d2-a3c4f778b8bf"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "portrayed_by": "Thomas F. Wilson",
+    "occupation": "Retired",
+    "born": "1937"
+  },
+  "tags": [
+    "antagonist",
+    "villain",
+    "time-traveler"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "f9b4c1d8-3479-4e60-b9d2-a3c4f778b8bf",
+  "type": "location",
+  "name": "Hill Valley 2015",
+  "description": "A futuristic version of Hill Valley as depicted in Back to the Future Part II.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Hill Valley 2015 is part of the fictional universe of the Back to the Future franchise. The town has undergone several changes due to time travel interventions, most notably seen with Marty McFly's adventures in 'Back to the Future Part II'. In the 2015 timeline, Hill Valley displays advanced technologies including hoverboards and flying cars."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated in California, United States, Hill Valley retains its small-town charm but with significant technological advancements by 2015. Its layout remains similar to that of the 1985 and 1955 versions, with notable modernizations."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Important locations in Hill Valley 2015 include:\n\n- **Cafe 80's**: A retro-themed diner where Marty encounters Griff Tannen.\n- **Hill Valley Courthouse Mall**: A renovated version of the traditional courthouse square.\n- **Skyway**: A network of roads in the sky for flying cars.\n- **Holographic advertisements**: A prominent feature in the town square, including a hologram of Jaws 19."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Hill Valley 2015 is crucial to the narrative of 'Back to the Future Part II'. It is here that Marty and Doc find themselves navigating a world of futuristic advancements and coming into conflict with Griff Tannen. The timeline shift caused by Biff Tannen stealing the sports almanac from this period and transferring it to his younger self greatly affects the future events for Hill Valley."
+    }
+  ],
+  "aliases": [
+    "Futuristic Hill Valley"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "contains",
+      "target": "8a6f6c26-5d7e-4c3a-b63f-78d7a92e6d57"
+    },
+    {
+      "type": "contains",
+      "target": "b12f1176-e8f4-4c8d-9abb-e294b08e1787"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city",
+    "population": "Not specified",
+    "founded": "Not specified"
+  },
+  "tags": [
+    "city",
+    "sci-fi",
+    "futuristic",
+    "2015"
+  ]
+}

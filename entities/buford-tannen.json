@@ -1,0 +1,64 @@
+{
+  "id": "28e933d7-2659-4413-b2f2-4a126c7c1957",
+  "type": "character",
+  "name": "Buford Tannen",
+  "description": "Buford 'Mad Dog' Tannen is a notorious outlaw and antagonist from 'Back to the Future Part III'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Buford \"Mad Dog\" Tannen is a notorious outlaw hailing from the late 19th century in Hill Valley. Known for his violent behavior and quick temper, Buford is an infamous gunman and cattle rustler. His grandfather, who shares a lineage with the troublesome family, set the course for Buford's notorious career in crime."
+    },
+    {
+      "title": "Personality",
+      "body": "Buford is aggressive, short-tempered, and known for his ruthlessness. His moniker 'Mad Dog' reflects his unpredictable and violent nature. He is motivated by power and fear, often using intimidation to achieve his goals. Despite his bravado, his flaws include his impatience and a tendency to underestimate his opponents."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Back to the Future Part III', Buford serves as the primary antagonist. He has a critical role that involves the central conflict of the story when he threatens the life of Doc Brown. Buford's actions set the stage for Marty McFly's journey to save his friend and restore peace in Hill Valley. Over the course of the film, Buford's character provides both a dangerous threat and a humorous foil through his incompetence."
+    },
+    {
+      "title": "Relationships",
+      "body": "Buford Tannen is an ancestor of Biff, Griff, and other Tannen family members who often serve as antagonists in different timelines. His notable relationship is with Doc Brown, whom he initially plans to kill over a perceived debt, and Marty McFly, who becomes his adversary through the unfolding events of the film."
+    },
+    {
+      "title": "Abilities",
+      "body": "Buford's abilities include proficient gun skills, intimidation tactics, and horseback riding. Despite his lack of advanced abilities, his skill with a gun and his fearless attitude makes him a formidable opponent."
+    }
+  ],
+  "aliases": [
+    "Mad Dog Tannen"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "rivals_with",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "related_to",
+      "target": "b3fbd1f3-8215-4a6a-9417-5f4c1d308eef"
+    },
+    {
+      "type": "related_to",
+      "target": "b9e2f930-6b50-4f27-9ff9-f0d4e827f5d1"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "f0737a6e-5aef-4b39-b3a6-3e0a8455f1da"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "outlaw",
+    "born": "around 1850",
+    "portrayed_by": "Thomas F. Wilson"
+  },
+  "tags": [
+    "antagonist",
+    "villain",
+    "outlaw"
+  ]
+}

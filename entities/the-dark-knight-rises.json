@@ -1,0 +1,133 @@
+{
+  "id": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb",
+  "type": "movie",
+  "name": "The Dark Knight Rises",
+  "description": "The epic conclusion to Christopher Nolan's Batman trilogy.",
+  "content": [
+    {
+      "title": "Synopsis",
+      "body": "Eight years after the events of The Dark Knight, Batman faces a new foe called Bane, who seeks to destroy Gotham City. Forced to come to terms with his past and pushed to his physical and psychological limit, Bruce Wayne emerges from his self-imposed exile to stop Bane's oppressive reign."
+    },
+    {
+      "title": "Production",
+      "body": "Following the success of The Dark Knight in 2008, director Christopher Nolan planned The Dark Knight Rises as the final installment of his Batman trilogy. Filming took place in various locations including Pittsburgh, Los Angeles, New York City, and locations in India, with elaborate stunts and practical effects employed to create its action sequences."
+    },
+    {
+      "title": "Reception",
+      "body": "The Dark Knight Rises received positive reviews from critics, praising its intense action sequences and thematic depth. It was a commercial success, grossing over $1 billion worldwide and becoming the seventh-highest-grossing film of 2012. It won several awards and nominations, particularly for its technical achievements."
+    },
+    {
+      "title": "Legacy",
+      "body": "The Dark Knight Rises is considered a monumental conclusion to Nolan's Batman series and left a lasting cultural impact on the superhero genre. Its influence can be seen in subsequent superhero films that sought to balance action with complex narratives and character development."
+    }
+  ],
+  "aliases": [
+    "TDKR"
+  ],
+  "relationships": [
+    {
+      "type": "directed_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "produced_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "written_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "written_by",
+      "target": "5d2f786e-631c-4f2d-9b6d-fc9afcbb10d2"
+    },
+    {
+      "type": "composed_by",
+      "target": "a3c5de67-f1d3-42b6-a6b3-123f0d65c1a4"
+    },
+    {
+      "type": "stars",
+      "target": "4cf6d8b9-71f4-4eff-9c9e-bb3b3f7b2e8e"
+    },
+    {
+      "type": "stars",
+      "target": "8e1f45e8-42ac-4c0b-977f-50f479d573b3"
+    },
+    {
+      "type": "stars",
+      "target": "e5d3f69c-ce24-4a97-a133-6a74f0b5f6be"
+    },
+    {
+      "type": "stars",
+      "target": "e6149baf-563e-4dc9-8eec-a7a33e3e95ac"
+    },
+    {
+      "type": "stars",
+      "target": "f4b45718-977d-4185-b97c-8a0f312f5f84"
+    },
+    {
+      "type": "features_character",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    },
+    {
+      "type": "features_character",
+      "target": "9c39d7e0-1f12-4590-8b53-9ddb5f765cb5"
+    },
+    {
+      "type": "features_character",
+      "target": "23f5a5c3-29ad-4ef8-bf65-daab2d4794b8"
+    },
+    {
+      "type": "features_location",
+      "target": "d5c5fcb1-02d2-4c82-9f84-efb89c8a2bd9"
+    },
+    {
+      "type": "features_location",
+      "target": "380e0a6b-1e6d-4f90-8069-0f73e2df8b61"
+    },
+    {
+      "type": "features_location",
+      "target": "94768b45-89e7-4a8f-99a4-4d038b1357be"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "distributed_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "part_of",
+      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+    },
+    {
+      "type": "part_of",
+      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    }
+  ],
+  "properties": {
+    "year": 2012,
+    "runtime": 165,
+    "genre": [
+      "Action",
+      "Thriller",
+      "Drama"
+    ],
+    "budget": 250000000,
+    "box_office": 1081000000,
+    "rating": "PG-13"
+  },
+  "tags": [
+    "action",
+    "thriller",
+    "drama",
+    "2010s",
+    "blockbuster",
+    "superhero"
+  ]
+}

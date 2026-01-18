@@ -1,0 +1,56 @@
+{
+  "id": "2f83a8c2-7bd3-4c4e-ba86-92d5a8f8d295",
+  "type": "character",
+  "name": "Maggie McFly",
+  "description": "Maggie McFly is an ancestor of Marty McFly and the wife of Seamus McFly in Back to the Future Part III.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Maggie McFly is an Irish immigrant living in Hill Valley in 1885. She is the wife of Seamus McFly, making her an ancestor of Marty McFly. Maggie and Seamus have settled in the United States to build a new life away from Ireland."
+    },
+    {
+      "title": "Personality",
+      "body": "Maggie is a strong and caring woman, devoted to her family. She is hospitable, as demonstrated when she offers food and shelter to Marty McFly, whom she initially confuses with her husband's estranged brother. Despite the hardships of frontier life, Maggie remains optimistic and supportive of Seamus."
+    },
+    {
+      "title": "Story Role",
+      "body": "In _Back to the Future Part III_, Maggie McFly serves as a connection to Marty's ancestry. Her interactions with Marty offer both comic relief and a deeper understanding of Marty's family roots, highlighting the theme of familial legacy in the narrative. She helps reinforce the importance of family history in shaping one's identity."
+    },
+    {
+      "title": "Relationships",
+      "body": "Maggie is married to Seamus McFly. Together, they have a son named William McFly. Marty McFly, who travels back to 1885, is her great-great-grandson."
+    }
+  ],
+  "aliases": [
+    "Mrs. McFly"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "related_to",
+      "target": "d47d2ba3-4fca-4ed5-b0d1-ecf81b896b8f"
+    },
+    {
+      "type": "related_to",
+      "target": "d3f09aae-6115-41c8-9e87-0b07d320257b"
+    },
+    {
+      "type": "related_to",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "homemaker",
+    "born": "circa 1850s",
+    "portrayed_by": "Lea Thompson"
+  },
+  "tags": [
+    "supporting",
+    "ancestor",
+    "family"
+  ]
+}

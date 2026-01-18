@@ -1,0 +1,58 @@
+{
+  "id": "bffa1c16-ee57-490e-8704-bf801c3b7f33",
+  "type": "person",
+  "name": "Marion Cotillard",
+  "description": "Acclaimed French actress known for her versatile performances and international recognition.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Marion Cotillard was born in 1975 in Paris, France. She began her acting career in the 1990s, appearing in French cinema and television. Over the years, she has gained a reputation for her ability to embody complex and diverse characters."
+    },
+    {
+      "title": "Career",
+      "body": "Cotillard achieved international fame with her Oscar-winning performance as Édith Piaf in *La Vie en Rose* (2007). Her career spans both French and American cinema, with notable films including *Inception*, *The Dark Knight Rises*, and *Two Days, One Night*. She is renowned for her intense preparation and commitment to her roles."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Marion Cotillard has collaborated frequently with director Christopher Nolan, starring in films like *Inception* and *The Dark Knight Rises*. She has also worked with esteemed directors such as the Dardenne brothers and Jacques Audiard."
+    },
+    {
+      "title": "Legacy",
+      "body": "Marion Cotillard is considered one of the finest actresses of her generation, winning numerous awards, including an Academy Award, a Golden Globe, and a BAFTA. Her work is celebrated for its emotional depth and range, and she continues to be a significant influence in both European and Hollywood cinema."
+    }
+  ],
+  "properties": {
+    "born": 1975,
+    "nationality": "French",
+    "occupation": [
+      "actor",
+      "musician"
+    ],
+    "active_years": "1993-present"
+  },
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "acted_in",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "act_in",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    }
+  ],
+  "tags": [
+    "actor",
+    "drama",
+    "thriller",
+    "modern",
+    "french-cinema"
+  ]
+}

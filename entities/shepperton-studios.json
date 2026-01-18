@@ -1,0 +1,46 @@
+{
+  "id": "254a8b25-d53b-4b2b-814c-9d9a3e6018a8",
+  "type": "location",
+  "name": "Shepperton Studios",
+  "description": "A renowned British film studio complex with a rich history of major film productions.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Shepperton Studios is a historic film studio complex located in Surrey, England. It serves as one of the major film production facilities in the UK, known for its diverse stages, backlots, and post-production services. The studio is used for the production of TV shows, films, and commercials."
+    },
+    {
+      "title": "Film History",
+      "body": "**Notable Productions:**\n- *Alien* (1979): Many interior scenes were shot at Shepperton Studios.\n- *2001: A Space Odyssey* (1968): Key segments of Stanley Kubrick's epic were filmed here.\n- *The Rocky Horror Picture Show* (1975): Shepperton was pivotal for this cult classic.\n- *Gladiator* (2000): Several sequences from this Oscar-winning film were filmed at the studio.\n- *Harry Potter and the Prisoner of Azkaban* (2004): Parts of the third installment were shot here.\n\nThese films represent just a handful of the vast and varied projects Shepperton Studios has been involved with over the years."
+    },
+    {
+      "title": "Visiting",
+      "body": "Shepperton Studios is primarily a working studio and is not regularly open to the public for tours. However, certain events and special industry-related tours might be available upon arrangement. It remains a fully active production site and continues to contribute to many ongoing film and television projects."
+    }
+  ],
+  "aliases": [
+    "Shepperton Film Studios"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "studio",
+    "address": "Studios Road, Shepperton, Surrey",
+    "city": "Shepperton",
+    "state": "Surrey",
+    "country": "United Kingdom",
+    "coordinates": {
+      "lat": 51.396,
+      "long": -0.456
+    }
+  },
+  "tags": [
+    "studio",
+    "active",
+    "private"
+  ]
+}

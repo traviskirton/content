@@ -1,0 +1,51 @@
+{
+  "id": "b623e742-3a65-4ea9-a559-787f3d096a8e",
+  "type": "location",
+  "name": "Liverpool",
+  "description": "Liverpool, a renowned British city, is a popular filming location known for its rich architectural and cultural heritage.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Liverpool is a major port city in the northwest of England, known for its maritime history, cultural diversity, and vibrant music scene. It is famous for being the birthplace of The Beatles and boasts a collection of more than 2,500 historical buildings. Liverpool's cityscape is a mix of modern, classic, and iconic architecture, making it a versatile location for film and television productions."
+    },
+    {
+      "title": "Film History",
+      "body": "Liverpool has been the backdrop for numerous films and TV shows. Notable productions include _The Batman (2022)_, which used Liverpool's gothic architecture to represent Gotham City, and _Peaky Blinders_, which frequently shot scenes in various Liverpool locations. The city has also doubled for 1940s New York in _Captain America: The First Avenger_ and has provided settings for productions like _Harry Potter and the Deathly Hallows_ and _Fantastic Beasts and Where to Find Them_."
+    },
+    {
+      "title": "Visiting",
+      "body": "Liverpool is open to the public and accessible year-round, offering various tours that explore its historical and cultural landmarks. Fans of _The Beatles_ can enjoy dedicated tours to relive the band's history in their hometown. The city frequently hosts cultural and entertainment events, and its numerous museums and galleries provide enriching experiences for visitors."
+    }
+  ],
+  "aliases": [
+    "The Pool of Life",
+    "The World in One City"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "city": "Liverpool",
+    "state": "Merseyside",
+    "country": "United Kingdom",
+    "coordinates": {
+      "lat": 53.4084,
+      "long": -2.9916
+    }
+  },
+  "tags": [
+    "city",
+    "public",
+    "tours-available",
+    "active"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "b87b3c9d-4e25-41d3-b635-3ab2c66a63b4",
+  "type": "character",
+  "name": "Bruce Wayne (Pattinson)",
+  "description": "A reclusive billionaire and vigilante known as Batman in Matt Reeves' 'The Batman' (2022).",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Bruce Wayne, portrayed by Robert Pattinson, is a reclusive billionaire living in Gotham City. Orphaned at a young age after witnessing the murder of his parents, Thomas and Martha Wayne, Bruce becomes the masked vigilante known as Batman, seeking to bring justice to the city's corrupt underworld."
+    },
+    {
+      "title": "Personality",
+      "body": "Bruce is portrayed as deeply brooding and introspective, holding a strong sense of justice and morality. He is driven by a desire to avenge his parents and protect Gotham's citizens, though his methods often put him at odds with conventional law enforcement. Bruce struggles with his dual identity, balancing his public persona as a billionaire with his secret life as Batman."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Batman' (2022), Bruce is the protagonist, serving as the central figure in unraveling a series of cryptic crimes linked to the city's corruption. His character arc involves facing his fears and vulnerabilities, ultimately evolving in his views on vengeance and justice."
+    },
+    {
+      "title": "Relationships",
+      "body": "Bruce has a complex relationship with Selina Kyle (Zoë Kravitz), developing a mutual respect and understanding despite differing motivations. His surrogate father and confidant, Alfred Pennyworth (Andy Serkis), provides support and guidance. Additionally, Bruce collaborates with James Gordon (Jeffrey Wright) of the Gotham City Police Department."
+    },
+    {
+      "title": "Abilities",
+      "body": "Bruce possesses exceptional skills in hand-to-hand combat, detective work, and martial arts. He is highly intelligent, resourceful, and capable of using advanced technology and gadgets. His primary vehicle is a custom Batmobile, and he dons a specially designed Batsuit that enhances his strength and anonymity."
+    }
+  ],
+  "aliases": [
+    "Batman",
+    "The Dark Knight"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "dbf564e7-1a57-4ed3-a2b0-ec5d646bdb24"
+    },
+    {
+      "type": "related_to",
+      "target": "d2d9f803-43f7-46d1-97db-b23e5b62ad84"
+    },
+    {
+      "type": "related_to",
+      "target": "b128e18b-0a9c-44bd-9a4e-25beafaf1b94"
+    },
+    {
+      "type": "friends_with",
+      "target": "e6dd9f4d-04b5-4f36-aad6-60d3ba7e1c8b"
+    },
+    {
+      "type": "friends_with",
+      "target": "9c39d7e0-1f12-4590-8b53-9ddb5f765cb5"
+    },
+    {
+      "type": "related_to",
+      "target": "9e5b44bd-fd41-45f7-adf1-378509fbee3a"
+    },
+    {
+      "type": "owns",
+      "target": "8bde9c76-4d86-4d85-a945-82f7e7a4497c"
+    },
+    {
+      "type": "uses",
+      "target": "8a6f6c26-5d7e-4c3a-b63f-78d7a92e6d57"
+    },
+    {
+      "type": "lives_in",
+      "target": "380e0a6b-1e6d-4f90-8069-0f73e2df8b61"
+    },
+    {
+      "type": "works_at",
+      "target": "94768b45-89e7-4a8f-99a4-4d038b1357be"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "vigilante, CEO of Wayne Enterprises",
+    "born": "1985",
+    "portrayed_by": "Robert Pattinson"
+  },
+  "tags": [
+    "protagonist",
+    "hero",
+    "detective",
+    "billionaire",
+    "vigilante"
+  ]
+}

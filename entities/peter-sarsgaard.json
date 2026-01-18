@@ -1,0 +1,51 @@
+{
+  "id": "f73b2e2c-df96-4dac-91a5-57a4aed1fa48",
+  "type": "person",
+  "name": "Peter Sarsgaard",
+  "description": "American actor known for his versatility and nuanced performances in both film and television.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Born on March 7, 1971, in Belleville, Illinois, Peter Sarsgaard grew up in various locations due to his father's work as an Air Force engineer. He initially pursued a career in sports but later shifted his focus to acting, studying at the Actors Studio in New York City."
+    },
+    {
+      "title": "Career",
+      "body": "Peter Sarsgaard began his acting career in theater and gradually transitioned to film, gaining recognition for his roles in movies like *'Boys Don't Cry'* and *'Shattered Glass'*. He is known for his ability to portray complex characters with depth and authenticity. Sarsgaard has also appeared in significant roles in films such as *'K-19: The Widowmaker'*, *'Jarhead'*, and *'An Education'*. His performances are often characterized by an intense and immersive style, drawing audiences into the psychological landscapes of his characters."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Throughout his career, Peter Sarsgaard has worked with several prominent filmmakers and actors, including director Matt Reeves and actor Jake Gyllenhaal."
+    },
+    {
+      "title": "Legacy",
+      "body": "Peter Sarsgaard is regarded as one of the most talented actors of his generation, with a diverse filmography spanning various genres. He has received critical acclaim and several award nominations for his performances, solidifying his place in the industry as a distinguished and respected actor."
+    }
+  ],
+  "aliases": [
+    "John Peter Sarsgaard"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "worked_with",
+      "target": "cf3b1424-74f9-48cd-9cb2-424fbfd16338"
+    }
+  ],
+  "properties": {
+    "born": 1971,
+    "nationality": "American",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1995-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "thriller",
+    "modern"
+  ]
+}

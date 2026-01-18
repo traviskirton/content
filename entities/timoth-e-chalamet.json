@@ -1,0 +1,64 @@
+{
+  "id": "4e6b0921-35fb-4c85-9e5c-709ec9727d8a",
+  "type": "person",
+  "name": "Timothée Chalamet",
+  "description": "An acclaimed American actor known for his roles in both independent and blockbuster films.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Timothée Hal Chalamet was born on December 27, 1995, in New York City, USA. He grew up in Manhattan Plaza, a residential complex for performing artists, and attended the LaGuardia High School of Music & Art and Performing Arts. His passion for acting was evident from a young age, leading him to study at the Fiorello H. LaGuardia High School, where he honed his craft. Chalamet's early acting ventures include commercials and small roles in television dramas like 'Homeland'."
+    },
+    {
+      "title": "Career",
+      "body": "Chalamet gained prominence for his breakthrough role as Elio Perlman in Luca Guadagnino’s 'Call Me by Your Name' (2017), for which he received an Academy Award nomination for Best Actor. He further cemented his status as a leading actor with critically acclaimed performances in films such as 'Lady Bird' (2017), 'Beautiful Boy' (2018), 'Little Women' (2019), and the epic 'Dune' (2021). Known for his articulate performances and emotive depth, Chalamet continues to take on diverse roles, showing a strong preference for complex characters and storylines."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Timothée Chalamet has frequently collaborated with director Luca Guadagnino, most notably on 'Call Me by Your Name'. He also worked alongside Greta Gerwig in 'Lady Bird' and 'Little Women', establishing a strong creative rapport. His collaboration with Denis Villeneuve on 'Dune' has also been highly regarded."
+    },
+    {
+      "title": "Legacy",
+      "body": "Chalamet is considered one of the leading actors of his generation, known for bringing a fresh, genuine energy to Hollywood. His performances have earned him numerous awards and nominations, including Golden Globe and Screen Actors Guild nominations. As he continues to grow his filmography, Chalamet's influence and impact on the film industry are expected to expand."
+    }
+  ],
+  "aliases": [
+    "Timothee Chalamet",
+    "Timothée Hal Chalamet"
+  ],
+  "relationships": [
+    {
+      "type": "worked_with",
+      "target": "2d4f-43b7-ae9b-2f8e2c926d9e"
+    },
+    {
+      "type": "worked_with",
+      "target": "e6dd9f4d-04b5-4f36-aad6-60d3ba7e1c8b"
+    },
+    {
+      "type": "acted_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "acted_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "acted_in",
+      "target": "a7c4-4b8f-9b34-8c9f9a883642"
+    }
+  ],
+  "properties": {
+    "born": 1995,
+    "nationality": "American",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "2008-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "modern",
+    "indie"
+  ]
+}

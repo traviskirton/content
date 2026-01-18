@@ -1,0 +1,68 @@
+{
+  "id": "4a5c6d7e-8f9b-0a1b-2c3d-4e5f6789abcd",
+  "type": "person",
+  "name": "Michelle Pfeiffer",
+  "description": "Renowned American actress known for her versatility and iconic roles in films such as 'Dangerous Liaisons', 'Batman Returns', and 'The Fabulous Baker Boys'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "**Michelle Marie Pfeiffer** was born on April 29, 1958, in Santa Ana, California, USA. She began her acting career in 1978 with minor television roles before gaining significant attention for her performances in the early 1980s. Pfeiffer's breakout role came with her portrayal of Elvira Hancock in the film *Scarface* (1983)."
+    },
+    {
+      "title": "Career",
+      "body": "Michelle Pfeiffer's career is marked by a series of critically acclaimed performances across various genres. Her notable works include *The Witches of Eastwick* (1987), *Dangerous Liaisons* (1988), and *The Fabulous Baker Boys* (1989), the latter earning her multiple award nominations. Her role as Selina Kyle/Catwoman in Tim Burton's *Batman Returns* (1992) is particularly celebrated for its complexity and charisma."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Pfeiffer has worked with several prominent directors and actors. She collaborated with Jack Nicholson in *The Witches of Eastwick*. Her performance alongside Jeff and Beau Bridges in *The Fabulous Baker Boys* was a defining moment in her career. Michelle has also shared the screen with Christopher Lloyd in *The Russia House*."
+    },
+    {
+      "title": "Legacy",
+      "body": "Michelle Pfeiffer is considered one of the most talented actresses of her generation, known for her artistic range and the depth she brings to her characters. She has received numerous accolades, including a Hollywood Walk of Fame star, and continues to be an influential figure in the film industry."
+    }
+  ],
+  "aliases": [
+    "Michelle Marie Pfeiffer"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+    },
+    {
+      "type": "acted_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "acted_in",
+      "target": "c996eace-3e79-4b50-bb5c-5f6f8783f77d"
+    },
+    {
+      "type": "worked_with",
+      "target": "4ac67e49-8f92-4993-be4d-f6c0329ac472"
+    },
+    {
+      "type": "worked_with",
+      "target": "b2267f4d-1f07-43b5-a89e-9efb012f9d48"
+    },
+    {
+      "type": "worked_with",
+      "target": "f3a8e057-c2e4-403b-8f8e-5228cfb0fbaa"
+    }
+  ],
+  "properties": {
+    "born": 1958,
+    "nationality": "American",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1978-present"
+  },
+  "tags": [
+    "actor",
+    "modern",
+    "drama",
+    "fantasy",
+    "sci-fi"
+  ]
+}

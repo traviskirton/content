@@ -1,0 +1,52 @@
+{
+  "id": "56d73f8e-8f44-4f5a-92c2-d407c6b37f4c",
+  "type": "location",
+  "name": "Hill Valley Festival",
+  "description": "A significant yearly event held in Hill Valley in 1885, featuring celebrations and local attractions from the Old West.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Hill Valley Festival is an annual celebration in Hill Valley, taking place during the 1880s. It is notably featured in 1885, when specific significant events in the 'Back to the Future Part III' narrative occur. This festival reflects the cultural and social fabric of the time, showcasing traditional activities and festivities typical of the American Old West."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated in Hill Valley, California, the festival is held primarily in and around the Courthouse Square area, with the town front vividly decorated and bustling with activity from townsfolk and visitors."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Key locations during the festival include the Courthouse Square, temporary stalls and game booths, and makeshift stages for entertainment. There are parades, shows, and public speeches that capture the spirit of the period."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The festival serves as a critical backdrop in 'Back to the Future Part III', where Marty McFly and Doc Brown encounter several pivotal moments. The festival is where Marty first uses his shooting skills to win a prize for Jennifer, and where key interactions with Mad Dog Tannen take place, escalating tensions that lead to the film's climax."
+    }
+  ],
+  "aliases": [
+    "Hill Valley 1885 Festival",
+    "Old West Festival"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "located_in",
+      "target": "048f308b-450f-4f86-9a04-6c411d1d746d"
+    },
+    {
+      "type": "contains",
+      "target": "b12f1176-e8f4-4c8d-9abb-e294b08e1787"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "event"
+  },
+  "tags": [
+    "festival",
+    "western",
+    "1885",
+    "event"
+  ]
+}

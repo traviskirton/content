@@ -1,0 +1,51 @@
+{
+  "id": "0b79f803-df92-45e5-94c9-8a8e68b52c3a",
+  "type": "location",
+  "name": "Knebworth House",
+  "description": "Historic stately home and popular filming location.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Knebworth House is a historic stately home located in Hertfordshire, England. It serves as both a residence for the Lytton family and a popular venue for events, concerts, and filming. The house is surrounded by extensive gardens and parkland, offering a picturesque setting for visitors."
+    },
+    {
+      "title": "Film History",
+      "body": "Knebworth House has been featured in numerous films and television shows due to its distinctive gothic architecture and extensive grounds. Notable productions include *Batman* (1989), where it doubled for Wayne Manor, and *The King's Speech* (2010). Its unique aesthetic has made it a versatile backdrop for both historical and contemporary settings."
+    },
+    {
+      "title": "Visiting",
+      "body": "Knebworth House is open to the public on selected dates, offering guided tours of the house and gardens. Visitors can explore the rich history of the Lytton family, the beautifully maintained gardens, and enjoy various events. More information on visiting hours and ticket prices can be found on the official Knebworth House website."
+    }
+  ],
+  "aliases": [
+    "Knebworth Estate"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "7f4c330e-5379-4c84-a28b-86c34d5a4d51"
+    },
+    {
+      "type": "doubled_for",
+      "target": "380e0a6b-1e6d-4f90-8069-0f73e2df8b61"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "stately home",
+    "address": "Knebworth, Hertfordshire, SG3 6PY, United Kingdom",
+    "city": "Knebworth",
+    "state": "Hertfordshire",
+    "country": "United Kingdom",
+    "coordinates": {
+      "lat": 51.8765,
+      "long": -0.2097
+    }
+  },
+  "tags": [
+    "stately home",
+    "historic",
+    "public",
+    "tours-available"
+  ]
+}

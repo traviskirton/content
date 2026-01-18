@@ -1,0 +1,47 @@
+Create a detailed entity for the fictional location "[NAME]" from "[SOURCE]".
+
+Output valid JSON matching the entity schema in schemas/entity.schema.json.
+
+## Required Fields
+
+- **id**: Generate a new UUID
+- **type**: "location"
+- **name**: The location's name as used in the story
+
+## Content Sections
+
+Include these sections as appropriate:
+
+- **History**: Origin, founding, significant events within the story's universe
+- **Geography**: Physical description, where it's situated within the fictional world
+- **Notable Features**: Important landmarks, buildings, areas within the location
+- **Story Significance**: Key scenes or events that take place here, why the location matters to the narrative
+
+## Properties to Consider
+
+- fictional: true
+- type: city, building, region, planet, space station, etc.
+- population (if mentioned)
+- founded (in-universe year, if known)
+- Any other relevant in-universe attributes
+
+## Relationships
+
+Link to other entities using UUIDs:
+- featured_in: Media where this location appears
+- located_in: Parent location (city → region → planet)
+- contains: Child locations (if creating nested locations)
+
+## Tags
+
+Add relevant tags for filtering:
+- Geographic type (city, building, planet)
+- Genre associations (sci-fi, fantasy, western)
+- In-universe time periods (1955, 2015, futuristic)
+
+## Guidelines
+
+- Keep descriptions based on what is shown or stated in the source material
+- Use markdown formatting in body text (bold, lists, etc.)
+- Link to existing entities by UUID when possible
+- Focus on in-universe information only

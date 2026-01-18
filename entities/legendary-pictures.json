@@ -1,0 +1,58 @@
+{
+  "id": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365",
+  "type": "company",
+  "name": "Legendary Pictures",
+  "description": "A leading film production company known for producing major blockbusters.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Legendary Pictures** is an American media company and film production studio known for producing major motion pictures. They are renowned for their involvement in high-budget blockbusters and collaborations with top filmmakers."
+    },
+    {
+      "title": "History",
+      "body": "Founded in 2000 by Thomas Tull, **Legendary Pictures** quickly established itself as a significant player in the film industry by securing high-profile partnerships and producing notable films. The company initially struck a deal with Warner Bros. Pictures in 2005 and later formed collaborations with other major studios."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Legendary Pictures is known for producing a number of high-grossing films and critically acclaimed projects including:\n- The Dark Knight Trilogy\n- Inception\n- Jurassic World\n- Godzilla series\n- Dune"
+    },
+    {
+      "title": "Legacy",
+      "body": "**Legendary Pictures** is credited with reshaping the blockbuster landscape, bringing sophisticated storytelling to mainstream audiences. The company has a reputation for merging art with commerce, often leading to both commercial success and critical acclaim."
+    }
+  ],
+  "aliases": [
+    "Legendary Entertainment"
+  ],
+  "relationships": [
+    {
+      "type": "produced",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "produced",
+      "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
+    },
+    {
+      "type": "produced",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    }
+  ],
+  "properties": {
+    "founded": 2000,
+    "founder": "Thomas Tull",
+    "headquarters": "Burbank, California, United States",
+    "type": "production company",
+    "parent_company": "Wanda Group"
+  },
+  "tags": [
+    "studio",
+    "production-company",
+    "film",
+    "modern"
+  ]
+}

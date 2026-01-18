@@ -1,0 +1,45 @@
+{
+  "id": "9a576aa6-f416-4213-a5b1-6da45aaa6c14",
+  "type": "location",
+  "name": "Flugelheim Museum",
+  "description": "A fictional art museum located in Gotham City, prominently featured in Batman (1989).",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Flugelheim Museum is an esteemed art institution within Gotham City, known for its significant collection of modern and classical art pieces. The museum's name and prominence suggest that it is an important cultural landmark within the city."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated in the heart of Gotham City, the Flugelheim Museum is depicted as a large, imposing structure, typical of the city's grand and gothic architectural style seen throughout the Batman (1989) film."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The museum houses a wide variety of art, including a significant focus on modern art. Its interiors are depicted with high ceilings, columns, and expansive gallery spaces. The Flugelheim Museum features prominently with its grand entrance and opulent galleries."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The museum is the scene of a pivotal and iconic event in Batman (1989). It is here that The Joker (played by Jack Nicholson) and his henchmen wreak havoc during a high-profile art exhibit, resulting in one of the film’s most visually memorable sequences as they deface the artwork. This act of vandalism, juxtaposed with The Joker's chaotic personality, underscores the film's theme of chaos versus order."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "located_in",
+      "target": "3b52879a-7129-4f5c-9e15-60d01eb9c0da"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "superhero",
+    "1989",
+    "action"
+  ]
+}

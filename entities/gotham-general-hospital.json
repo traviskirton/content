@@ -1,0 +1,49 @@
+{
+  "id": "0baf24da-3c1e-4f1b-aa89-8b2c74ced1fa",
+  "type": "location",
+  "name": "Gotham General Hospital",
+  "description": "A major hospital in Gotham City that plays a significant role in 'The Dark Knight'.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Gotham General Hospital is one of the primary healthcare facilities in Gotham City. In the universe of 'The Dark Knight', it serves as a backdrop for several important events, underscoring the chaotic times the city faces under the Joker's menace."
+    },
+    {
+      "title": "Geography",
+      "body": "Located in the bustling, crime-ridden environment of Gotham City, the hospital is an essential service provider to the population, marked by its distinctive architectural design typical of Gotham's skyline."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The hospital is equipped with emergency rooms, intensive care units, and specialized departments, providing comprehensive services to the community. Its capacity to handle large-scale emergencies is depicted in 'The Dark Knight'."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'The Dark Knight', Gotham General Hospital becomes a pivotal plot point when the Joker orchestrates an explosive disaster, highlighting his threat to the city's safety and testing the resolve of characters like Harvey Dent and Batman."
+    }
+  ],
+  "aliases": [
+    "Gotham Hospital",
+    "Gotham City Hospital"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "featured_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "hospital",
+    "building",
+    "Gotham City",
+    "The Dark Knight",
+    "fictional location"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2216d72e-589b-4d06-ae52-60f24c971234",
+  "type": "location",
+  "name": "Newark",
+  "description": "Newark, a city in New Jersey, United States, has served as a real-world filming location.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Newark is a major city in New Jersey, United States. It serves as a commercial and cultural hub, known for its proximity to New York City and its vibrant cultural institutions such as the New Jersey Performing Arts Center and the Newark Museum of Art."
+    },
+    {
+      "title": "Film History",
+      "body": "Newark has been a favored location for filmmakers due to its diverse architectural landscape and urban setting. Films like \"American Gangster\" utilized Newark's streets to depict 1970s Harlem. Additionally, shows like \"The Sopranos\" featured scenes shot in and around the city."
+    },
+    {
+      "title": "Visiting",
+      "body": "Newark is accessible to the public and is well-connected via Newark Liberty International Airport, trains, and highways. Visitors can explore the city’s attractions and enjoy self-guided tours, taking in sites that have featured in movies and television series."
+    }
+  ],
+  "aliases": [
+    "Brick City"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "state": "New Jersey",
+    "country": "United States",
+    "coordinates": "40.7357° N, 74.1724° W"
+  },
+  "tags": [
+    "city",
+    "active",
+    "public"
+  ]
+}

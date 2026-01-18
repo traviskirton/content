@@ -1,0 +1,48 @@
+{
+  "id": "9a127d6d-bc71-4bcb-91d3-7bacb8e3b77a",
+  "type": "location",
+  "name": "Lou's Cafe",
+  "description": "A popular diner in Hill Valley featured prominently in 'Back to the Future.'",
+  "content": [
+    {
+      "title": "History",
+      "body": "Lou's Cafe is a classic American diner located in Hill Valley. Owned and operated by Lou Caruthers, the cafe has been a staple of the community since the 1950s. In the 1985 timeline, it is converted into an aerobics fitness center called 'Lou's Aerobic Fitness Center.'"
+    },
+    {
+      "title": "Geography",
+      "body": "The cafe is situated in Courthouse Square, a central area in Hill Valley. This location is recognizable for its proximity to other key places in the town, such as the courthouse and Biff Tannen's Auto Detail."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Lou's Cafe features a vintage 1950s interior, complete with a checkerboard floor, a lunch counter, and jukebox. It serves as a social hub where residents gather for meals and conversation."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Lou's Cafe is a pivotal location in 'Back to the Future,' where several key scenes take place. Notably, Marty McFly telephones Doc Brown from here, and it is the site of the iconic confrontation between George McFly and Biff Tannen."
+    }
+  ],
+  "aliases": [
+    "Lou's Diner"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "located_in",
+      "target": "b12f1176-e8f4-4c8d-9abb-e294b08e1787"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building",
+    "founded": "1950"
+  },
+  "tags": [
+    "building",
+    "diner",
+    "1955",
+    "sci-fi"
+  ]
+}

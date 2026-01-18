@@ -1,0 +1,66 @@
+{
+  "id": "97263c84-6522-4fa2-9737-3c2c93b8d2ae",
+  "type": "vehicle",
+  "name": "Batpod",
+  "description": "A high-tech motorcycle used by Batman in The Dark Knight Trilogy.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The **Batpod** is a specialized motorcycle used by Batman in *The Dark Knight Trilogy*. It serves as a versatile and agile vehicle for urban combat and quick maneuvers, complementing the more robust Tumbler."
+    },
+    {
+      "title": "Design",
+      "body": "The Batpod features an elongated shape with large, rugged tires designed for on- and off-road capability. Its unique design includes a minimalist frame with a low-profile seat, inverted handlebars, and machine guns integrated into the front structure. The Batpod has a sleek, dark aesthetic in keeping with Batman's stealthy and intimidating persona."
+    },
+    {
+      "title": "Capabilities",
+      "body": "The Batpod is highly maneuverable and capable of performing complex stunts, making it ideal for high-speed chases and combat scenarios. It features grappling hooks, cannons, and other advanced technologies that allow Batman to adapt to various tactical situations. Its design allows for the bike to rotate the wheels laterally, providing superior cornering agility."
+    },
+    {
+      "title": "History",
+      "body": "Introduced in *The Dark Knight* (2008), the Batpod was designed and built by Lucius Fox of Wayne Enterprises. It first appears when Batman ejects it from the Tumbler. The vehicle plays a critical role in several key moments throughout the trilogy, particularly in high-stake chases and confrontations."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Batpod is significant in Batman's arsenal as it allows for quick, nimble engagements in situations where the bulkier Tumbler is less effective. Notable scenes include Batman's chase with The Joker and the climactic pursuit in *The Dark Knight Rises* where Selina Kyle uses the Batpod to help save Gotham City."
+    }
+  ],
+  "aliases": [
+    "Batcycle"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "featured_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "created_by",
+      "target": "d03a2ebc-4fbd-4bc1-9bc3-c2659c9123b1"
+    },
+    {
+      "type": "owned_by",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    },
+    {
+      "type": "piloted_by",
+      "target": "f84c2c4e-9a29-45d4-85b6-0424f5a58b2d"
+    }
+  ],
+  "properties": {
+    "vehicle_type": "motorcycle",
+    "manufacturer": "Wayne Enterprises",
+    "year": "2008",
+    "fictional": true
+  },
+  "tags": [
+    "motorcycle",
+    "action",
+    "high-tech",
+    "urban-combat",
+    "stealth"
+  ]
+}

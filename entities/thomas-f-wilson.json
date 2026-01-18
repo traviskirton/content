@@ -1,0 +1,65 @@
+{
+  "id": "f0737a6e-5aef-4b39-b3a6-3e0a8455f1da",
+  "type": "person",
+  "name": "Thomas F. Wilson",
+  "description": "American actor best known for playing Biff Tannen in the Back to the Future trilogy.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Thomas F. Wilson was born on April 15, 1959, in Philadelphia, Pennsylvania, United States. He embarked on a career in entertainment after graduating from Arizona State University. Wilson initially pursued stand-up comedy, which laid the foundation for his acting style."
+    },
+    {
+      "title": "Career",
+      "body": "Wilson’s breakthrough role came when he was cast as Biff Tannen in the iconic 'Back to the Future' trilogy, directed by Robert Zemeckis. His performance as the primary antagonist is memorable for its comedic timing and improvisational style. Beyond 'Back to the Future,' Wilson has appeared in movies such as 'April Fool’s Day' and 'Action Jackson.' He has also voiced multiple characters in various animated series, including 'SpongeBob SquarePants.'"
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Wilson frequently collaborated with filmmakers Robert Zemeckis and Bob Gale on the 'Back to the Future' series. He also co-starred with Michael J. Fox, Christopher Lloyd, and Lea Thompson, strengthening his ties with this talented ensemble."
+    },
+    {
+      "title": "Legacy",
+      "body": "Wilson's portrayal of Biff Tannen has had a lasting impact, making him an iconic film villain of the 1980s. His contributions to film and television, particularly in comedy, are regarded as part of the era's cultural fabric."
+    }
+  ],
+  "aliases": [
+    "Tom Wilson"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "acted_in",
+      "target": "f7e6d5c4-b3a2-1098-7654-321fedcba987"
+    },
+    {
+      "type": "worked_with",
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+    },
+    {
+      "type": "worked_with",
+      "target": "9058322f-b99a-4b8f-9356-3e165b8dbb4e"
+    }
+  ],
+  "properties": {
+    "born": "1959",
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "comedian",
+      "voice actor",
+      "musician"
+    ],
+    "active_years": "1980-present"
+  },
+  "tags": [
+    "actor",
+    "comedian",
+    "voice actor",
+    "80s",
+    "comedy",
+    "sci-fi",
+    "modern"
+  ]
+}

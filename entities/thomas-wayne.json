@@ -1,0 +1,56 @@
+{
+  "id": "d2d9f803-43f7-46d1-97db-b23e5b62ad84",
+  "type": "character",
+  "name": "Thomas Wayne",
+  "description": "A prominent Gotham City physician and philanthropist, and the father of Bruce Wayne.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Thomas Wayne was born into the illustrious Wayne family of Gotham City. As an adult, Thomas became a prominent physician known for his dedication to aiding the underprivileged. He inherited the vast wealth and influence of the Wayne family and used it to help transform Gotham City into a more civil society through various philanthropic efforts."
+    },
+    {
+      "title": "Personality",
+      "body": "Thomas Wayne is portrayed as empathetic, generous, and a strong advocate for the welfare of others. He believed in the good of humanity and invested in social reforms. His belief in leading by example and his calm demeanor made him respected by many in Gotham."
+    },
+    {
+      "title": "Story Role",
+      "body": "In \"Batman Begins,\" Thomas Wayne's murder, alongside his wife Martha, is a pivotal event that shapes the character arc of their son, Bruce Wayne. Their deaths instill in Bruce a strong sense of justice and motivate him to become Batman to rid Gotham City of the crime that took his parents' lives."
+    },
+    {
+      "title": "Relationships",
+      "body": "Thomas Wayne was married to Martha Wayne, and together they were the parents of Bruce Wayne. He served as a mentor and figure of moral inspiration for Bruce, whose transformation into Batman is influenced heavily by the lessons and values imparted by his father. Thomas's legacy continues to be a guiding force through the actions of Alfred Pennyworth, Bruce's butler."
+    }
+  ],
+  "aliases": [
+    "Dr. Thomas Wayne",
+    "Dr. Wayne"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "related_to",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    },
+    {
+      "type": "related_to",
+      "target": "9e5b44bd-fd41-45f7-adf1-378509fbee3a"
+    },
+    {
+      "type": "related_to",
+      "target": "1e1d3e8d-c5f3-4d30-b4f3-45f6128ce7ed"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "physician",
+    "died": "2000s",
+    "portrayed_by": "Linus Roache"
+  },
+  "tags": [
+    "supporting",
+    "mentor"
+  ]
+}

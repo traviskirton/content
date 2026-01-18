@@ -1,0 +1,61 @@
+{
+  "id": "c9b4e5f3-371e-4dc3-b2f5-1a80a2e965f9",
+  "type": "franchise",
+  "name": "The Batman (Reeves)",
+  "description": "A modern reboot of the Batman franchise directed by Matt Reeves, focusing on a younger, detective-focused Batman.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Batman (Reeves) franchise marks a new interpretation of the iconic DC Comics character. Helmed by director Matt Reeves, this franchise reimagines Batman in a dark, noir-inspired universe. The franchise primarily spans films, with potential extensions into other media formats."
+    },
+    {
+      "title": "History",
+      "body": "This franchise began with the release of 'The Batman' in 2022, directed by Matt Reeves and starring Robert Pattinson as Bruce Wayne/Batman. It represents a shift towards a more detective-centric portrayal of Batman, distinct from previous cinematic iterations."
+    },
+    {
+      "title": "Cultural Impact",
+      "body": "Although relatively new, the Reeves' Batman has been noted for its realistic portrayal of Gotham and its characters, contributing to evolving perceptions of the superhero genre. It has spurred discussions on the franchise's ability to balance mythos with grounded storytelling."
+    },
+    {
+      "title": "Legacy",
+      "body": "As an ongoing franchise, 'The Batman (Reeves)' continues to shape the future of the Batman narrative in cinema, influencing potential spin-offs and related media projects planned for release."
+    }
+  ],
+  "aliases": [
+    "Reeves' Batman",
+    "Batman 2022"
+  ],
+  "relationships": [
+    {
+      "type": "created_by",
+      "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
+    },
+    {
+      "type": "owned_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "includes",
+      "target": "8e1f45e8-42ac-4c0b-977f-50f479d573b3"
+    }
+  ],
+  "properties": {
+    "created_year": 2022,
+    "creator": {
+      "name": "Matt Reeves",
+      "id": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
+    },
+    "media_types": [
+      "film"
+    ],
+    "parent_franchise": {
+      "name": "Batman",
+      "id": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    }
+  },
+  "tags": [
+    "superhero",
+    "film-series",
+    "modern"
+  ]
+}

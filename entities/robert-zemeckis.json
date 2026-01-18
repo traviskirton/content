@@ -1,0 +1,64 @@
+{
+  "id": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15",
+  "type": "person",
+  "name": "Robert Zemeckis",
+  "description": "Academy Award-winning director known for films like Back to the Future and Forrest Gump.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Robert Zemeckis was born in 1952 in Chicago, Illinois, USA. He developed an interest in filmmaking early on and went on to study at the University of Southern California's School of Cinematic Arts, where he honed his skills as a filmmaker."
+    },
+    {
+      "title": "Career",
+      "body": "Zemeckis's career took off in the late 1970s and early 1980s. His first major hit was *Romancing the Stone* (1984), but he became a household name after directing *Back to the Future* (1985), a film that combined humor, sci-fi, and innovative special effects. He won an Academy Award for Best Director for *Forrest Gump* (1994), which showcased his ability to blend light-hearted storytelling with significant historical events."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Zemeckis frequently collaborated with actor Tom Hanks, most notably in *Forrest Gump* and *Cast Away* (2000). He has also worked extensively with producer Steven Spielberg, particularly in the *Back to the Future* trilogy."
+    },
+    {
+      "title": "Legacy",
+      "body": "Robert Zemeckis is renowned for his innovation in film technology, especially the use of computer-generated imagery (CGI). His work has left a lasting impact on the film industry, influencing both narrative style and visual effects. Zemeckis has received numerous accolades, including an Academy Award for Best Director and nominations for other prestigious awards."
+    }
+  ],
+  "aliases": [
+    "Bob Zemeckis"
+  ],
+  "relationships": [
+    {
+      "type": "directed",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "directed",
+      "target": "f7e6d5c4-b3a2-1098-7654-321fedcba987"
+    },
+    {
+      "type": "worked_with",
+      "target": "bf84ed68-aa8b-40d9-87b0-5a7f2e275b5a"
+    },
+    {
+      "type": "worked_with",
+      "target": "217d1e4e-b4f3-4c6f-a1e7-ed74e29c8e67"
+    }
+  ],
+  "properties": {
+    "born": 1952,
+    "nationality": "American",
+    "occupation": [
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active_years": "1972-present"
+  },
+  "tags": [
+    "director",
+    "producer",
+    "writer",
+    "sci-fi",
+    "comedy",
+    "drama",
+    "modern"
+  ]
+}

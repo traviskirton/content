@@ -1,0 +1,52 @@
+{
+  "id": "14ee0b3a-d52f-4977-b70e-8b5f123457f9",
+  "type": "item",
+  "name": "Joker Cards",
+  "description": "A deck of playing cards used by The Joker in The Dark Knight.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Joker Cards are playing cards used by The Joker as his signature item in the movie 'The Dark Knight'. They serve as a calling card, left behind at crime scenes to taunt his adversaries, particularly Batman and the Gotham City Police Department."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Joker Cards are standard-sized playing cards featuring the traditional Joker imagery. They often appear worn and used, with some custom graffiti or markings done by hand, reflecting the chaotic and anarchic nature of The Joker."
+    },
+    {
+      "title": "Function",
+      "body": "While they function as ordinary playing cards, their primary purpose in the film is as a psychological tool. The Joker uses these cards to instill fear, confusion, and chaos among the people of Gotham City and to communicate his whims and threats indirectly."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Joker Cards appear throughout 'The Dark Knight', symbolizing The Joker's unpredictable and menacing presence. They are notably discovered at the scene of numerous crimes committed by The Joker, serving as his taunting signature and furthering his image as an agent of chaos."
+    }
+  ],
+  "aliases": [
+    "Playing Cards",
+    "Joker's Calling Card"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "used_by",
+      "target": "82d8cba6-2bde-47da-bf1e-1897f5b8b9fa"
+    },
+    {
+      "type": "located_at",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    }
+  ],
+  "properties": {
+    "item_type": "artifact",
+    "fictional": true
+  },
+  "tags": [
+    "artifact",
+    "psychological",
+    "calling card",
+    "thriller"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "336de5f4-8a5a-4ccb-92d4-03b4c1dee24c",
+  "type": "location",
+  "name": "Necropolis Cemetery Glasgow",
+  "description": "A historic cemetery in Glasgow known for its stunning architecture and as a filming location.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Necropolis Cemetery** is a Victorian cemetery located in Glasgow, Scotland. It is renowned for its architectural and historical significance, featuring elaborate tombstones and monuments. The cemetery is a haven for local wildlife and a popular spot for tourists and historians alike."
+    },
+    {
+      "title": "Film History",
+      "body": "Necropolis Cemetery has been used as a filming location for various productions. Notably, it appeared in the 2022 film *The Batman*, where it doubled as a part of the fictional Gotham City for several atmospheric scenes."
+    },
+    {
+      "title": "Visiting",
+      "body": "The cemetery is open to the public year-round, with guided tours available that showcase its history and the notable figures buried there. It is maintained by a local trust and remains a preserved site of cultural significance."
+    }
+  ],
+  "aliases": [
+    "Glasgow Necropolis"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "located_in",
+      "target": "c7e3f8b6-2dbe-4c91-888f-4897a3c8239c"
+    },
+    {
+      "type": "doubled_for",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "cemetery",
+    "address": "70 Cathedral Square, Glasgow, G4 0UZ, United Kingdom",
+    "city": "Glasgow",
+    "state": "Scotland",
+    "country": "United Kingdom",
+    "coordinates": {
+      "latitude": 55.860907,
+      "longitude": -4.234423
+    }
+  },
+  "tags": [
+    "cemetery",
+    "preserved",
+    "tours-available",
+    "public"
+  ]
+}

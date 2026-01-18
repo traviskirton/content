@@ -1,0 +1,70 @@
+{
+  "id": "d7fdd2b6-5084-4727-8de2-564d81b7b490",
+  "type": "company",
+  "name": "Warner Bros. Pictures",
+  "description": "A major American film studio at the forefront of the entertainment industry.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Warner Bros. Pictures** is a leading motion picture studio that produces and distributes a wide array of films globally. Known for its innovation and setting industry standards, the company operates under the segment of entertainment and mass media."
+    },
+    {
+      "title": "History",
+      "body": "Founded in 1923 by Harry, Albert, Sam, and Jack Warner, **Warner Bros. Pictures** quickly emerged as a pioneer in the world of cinema. Some of its major milestones include the production of the world’s first synchronized sound feature film, *The Jazz Singer*, in 1927 and being at the forefront of the industry's transition from silent to sound films."
+    },
+    {
+      "title": "Notable Works",
+      "body": "The studio is widely recognized for producing some of the most famous films and franchises, such as the *Harry Potter* series, *The Dark Knight Trilogy*, part of the DCEU including *Wonder Woman* and *Aquaman*, and the *Matrix* series. Additionally, they have also been noted for timeless classics like *Casablanca* and *Gone with the Wind*."
+    },
+    {
+      "title": "Legacy",
+      "body": "Over nearly a century, **Warner Bros. Pictures** has significantly shaped the entertainment industry by leading in film advancements, contributing to the popularization of blockbuster entertainment, and consistently producing critically acclaimed, award-winning films. Its influence extends globally, with a vast network in film production and distribution."
+    }
+  ],
+  "aliases": [
+    "Warner Bros.",
+    "Warner Bros. Studios"
+  ],
+  "relationships": [
+    {
+      "type": "produced",
+      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    },
+    {
+      "type": "produced",
+      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+    },
+    {
+      "type": "distributed",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "produced",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    }
+  ],
+  "properties": {
+    "founded": 1923,
+    "founder": [
+      "Harry Warner",
+      "Albert Warner",
+      "Sam Warner",
+      "Jack Warner"
+    ],
+    "headquarters": "Burbank, California, United States",
+    "type": "Film studio, Production company, Distributor",
+    "parent_company": "Warner Bros. Discovery"
+  },
+  "tags": [
+    "studio",
+    "production-company",
+    "distributor",
+    "film",
+    "golden-age",
+    "modern"
+  ]
+}

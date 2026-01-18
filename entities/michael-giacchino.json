@@ -1,0 +1,50 @@
+{
+  "id": "f4278272-d669-4d9d-92f7-4a2e57682bf7",
+  "type": "person",
+  "name": "Michael Giacchino",
+  "description": "Academy Award-winning composer known for his work on films like 'Up', 'The Incredibles', and 'Rogue One: A Star Wars Story'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Michael Giacchino was born on October 10, 1967, in Riverside Township, New Jersey, USA. He displayed an early interest in music and film, going on to study at the School of Visual Arts in New York City and later at the Juilliard School. His early career was marked by work for video game companies, where he contributed scores that gained significant attention."
+    },
+    {
+      "title": "Career",
+      "body": "Michael Giacchino's career truly began to shine with his work on television series like 'Alias' and 'Lost', which caught the attention of many in the industry. He became known for his distinctive style and ability to blend orchestral music with other genres. His major film scores include 'The Incredibles', 'Ratatouille', 'Up'—for which he won an Academy Award for Best Original Score—'Star Trek', and 'Rogue One: A Star Wars Story'. Giacchino is also known for his contributions to the video game industry, scoring titles such as 'Medal of Honor'."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Giacchino frequently works with directors like J.J. Abrams and Brad Bird, composing scores for films such as 'Mission: Impossible III', 'Super 8', and 'The Incredibles'. His collaborative efforts have helped define the sound of numerous blockbuster films."
+    },
+    {
+      "title": "Legacy",
+      "body": "Michael Giacchino has had a significant impact on the modern film industry, with his scores often becoming iconic in their own right and playing crucial roles in the storytelling of major films. He has received numerous accolades, including an Academy Award, an Emmy, and multiple Grammy Awards, solidifying his position as one of the leading composers in film and television."
+    }
+  ],
+  "aliases": [
+    "Mike Giacchino"
+  ],
+  "relationships": [
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    }
+  ],
+  "properties": {
+    "born": 1967,
+    "nationality": "American",
+    "occupation": [
+      "composer",
+      "orchestrator",
+      "conductor"
+    ],
+    "active_years": "1994-present"
+  },
+  "tags": [
+    "composer",
+    "modern",
+    "sci-fi",
+    "animation",
+    "adventure"
+  ]
+}

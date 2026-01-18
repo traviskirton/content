@@ -1,0 +1,47 @@
+{
+  "id": "3c1e492b-bf02-4091-95d0-c9e3d44b25d2",
+  "type": "location",
+  "name": "Old Zoo",
+  "description": "An abandoned zoo situated in Gotham City, serving as the hideout for The Penguin in 'Batman Returns'.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Old Zoo in Gotham City was once a bustling attraction, but it has long been abandoned by the time of the events in 'Batman Returns'. Once a place filled with visitors marveling at exotic animals, it has since fallen into decay, becoming a haven for various nefarious activities. In the movie, it is notably used as a hideout by The Penguin."
+    },
+    {
+      "title": "Geography",
+      "body": "The Old Zoo is situated within Gotham City, a fictional metropolis known for its towering skyscrapers and Gothic architecture. The zoo itself is characterized by its dilapidated enclosures, overgrown pathways, and a cold, eerie atmosphere that permeates the area."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The Old Zoo includes several key landmarks:\n- **The Penguin's Lair**: Deep within the zoo, The Penguin establishes his base of operations, complete with an army of penguins and his criminal associates.\n- **Penguin Pool**: A remodeled pool that serves as a meeting place and hiding spot for The Penguin and his minions.\n- **Crumbling Enclosures**: The remnants of animal habitats now used for storage and secret meetings."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Old Zoo is significant to the narrative of 'Batman Returns' as it is where The Penguin schemes against Gotham City and launches his attacks. It serves as a central location for several pivotal scenes, reflecting the character's outcast nature and his connection to the animal world."
+    }
+  ],
+  "aliases": [
+    "Abandoned Gotham Zoo"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+    },
+    {
+      "type": "located_in",
+      "target": "3b52879a-7129-4f5c-9e15-60d01eb9c0da"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "fiction",
+    "Batman",
+    "Gotham City"
+  ]
+}

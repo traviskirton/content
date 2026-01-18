@@ -1,0 +1,63 @@
+{
+  "id": "aad70d92-5fbb-4c71-b553-22a01ed58db5",
+  "type": "location",
+  "name": "Whittier High School",
+  "description": "A historic high school in Whittier, California, known for its role in film and television.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Whittier High School** is a public high school located in Whittier, California, serving as a key educational institution in the area since its establishment. The school is known not only for its academic programs but also for its iconic buildings and architecture."
+    },
+    {
+      "title": "Film History",
+      "body": "Whittier High School has been featured in various film and television productions. It famously doubled for Hill Valley High School in the movie _Back to the Future_, where several important scenes were filmed. Other productions have utilized the location for its classic American high school facade."
+    },
+    {
+      "title": "Visiting",
+      "body": "Visitors to Whittier High School can typically access the campus during normal school hours, though permission may be needed for non-students. The school sometimes offers special tours focusing on its film history for fans and tourists."
+    }
+  ],
+  "aliases": [
+    "Hill Valley High School"
+  ],
+  "relationships": [
+    {
+      "type": "doubled_for",
+      "target": "b3575b09-3182-4b21-9578-2d774c2dfb9d"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "located_in",
+      "target": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
+    },
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "school",
+    "address": "12417 E Philadelphia St",
+    "city": "Whittier",
+    "state": "California",
+    "country": "United States",
+    "coordinates": {
+      "lat": 33.9643,
+      "long": -118.0342
+    }
+  },
+  "tags": [
+    "school",
+    "active",
+    "public",
+    "tours-available"
+  ]
+}

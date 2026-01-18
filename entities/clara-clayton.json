@@ -1,0 +1,61 @@
+{
+  "id": "943327b5-f3a3-4a6b-a2df-3b6d72ec4486",
+  "type": "character",
+  "name": "Clara Clayton",
+  "description": "A schoolteacher from the late 19th century, who becomes a key figure in Doc Brown's life.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Clara Clayton is a schoolteacher who originally comes from the Eastern Seaboard of the United States. She moves to Hill Valley, California, in the year 1885 to start a new life as a teacher. Her journey to Hill Valley leads her to a critical moment when her life becomes intertwined with that of Dr. Emmett Brown."
+    },
+    {
+      "title": "Personality",
+      "body": "Clara is portrayed as intelligent, adventurous, and independent. She has a deep appreciation for science and is particularly fond of astronomy, which creates an immediate bond between her and Doc Brown. Clara is compassionate and brave, often showing determination and a willingness to embrace the unknown."
+    },
+    {
+      "title": "Story Role",
+      "body": "Clara Clayton plays a pivotal role in 'Back to the Future Part III'. She is the love interest of Doc Brown and becomes the catalyst for his decision-making throughout the film. Her relationship with Doc Brown creates a significant romantic subplot and influences his choices regarding time travel and his future."
+    },
+    {
+      "title": "Relationships",
+      "body": "**Doc Brown**: Clara's most significant relationship is with Dr. Emmett Brown, whom she falls in love with shortly after arriving in Hill Valley. Their romantic connection is central to the film's narrative.\n\n**Marty McFly**: Clara also interacts with Marty McFly, who, alongside Doc, ensures her safety and helps maintain the timeline integrity.\n\nThese relationships highlight Clara's integration into the main characters' lives and contribute to the resolution of the film's plot."
+    },
+    {
+      "title": "Abilities",
+      "body": "Clara is an educated woman from the late 19th century with a strong academic background. Although she does not possess any supernatural abilities, her knowledge of science and education serves as a bridge between traditional roles of the time and the adventurous, scientific narrative of the film."
+    }
+  ],
+  "aliases": [
+    "Miss Clayton"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "friends_with",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "related_to",
+      "target": "c3d4e5f6-a7b8-9012-cdef-345678901234"
+    },
+    {
+      "type": "lives_in",
+      "target": "048f308b-450f-4f86-9a04-6c411d1d746d"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "schoolteacher",
+    "born": 1855,
+    "portrayed_by": "Mary Steenburgen"
+  },
+  "tags": [
+    "supporting",
+    "love-interest",
+    "educator",
+    "19th-century"
+  ]
+}

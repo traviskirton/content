@@ -1,0 +1,50 @@
+{
+  "id": "0f8b6c2a-75d7-4c4e-b674-2e130c1de5eb",
+  "type": "location",
+  "name": "Enchantment Under the Sea Dance",
+  "description": "A fictional high school dance from 'Back to the Future' where significant plot events occur.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Enchantment Under the Sea Dance is a fictional event in the movie 'Back to the Future'. It is depicted as a pivotal social event held at Hill Valley High School on November 12, 1955. The dance is significant for being the backdrop of major character developments and time travel consequences within the film."
+    },
+    {
+      "title": "Geography",
+      "body": "The dance takes place in the gymnasium of Hill Valley High School, located in the fictional town of Hill Valley. The setting is typical of mid-20th century American high schools, featuring a decorated gymnasium suitable for a themed school dance."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The theme 'Enchantment Under the Sea' is highlighted through nautical decorations, such as fish and seaweed cutouts. A live band, 'Marvin Berry and the Starlighters', performs during the event, contributing to the authentic 1950s atmosphere."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The dance is central to the plot of 'Back to the Future'. Key events include Marty McFly ensuring his parents, George McFly and Lorraine Baines, fall in love, thus securing his own existence in the future. The dance is known for the iconic scene where Marty plays 'Johnny B. Goode', influencing the future of rock music. These events play a critical role in resolving the film's central time-travel paradox."
+    }
+  ],
+  "aliases": [
+    "The Dance",
+    "1955 High School Dance"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "located_in",
+      "target": "b3575b09-3182-4b21-9578-2d774c2dfb9d"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "event",
+    "founded": "1955"
+  },
+  "tags": [
+    "event",
+    "sci-fi",
+    "1955",
+    "dance",
+    "school"
+  ]
+}

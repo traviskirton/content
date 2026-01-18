@@ -1,0 +1,159 @@
+{
+  "id": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2",
+  "type": "movie",
+  "name": "The Dark Knight",
+  "description": "A gripping tale of Batman facing his greatest nemesis, the Joker, in a battle for Gotham's soul.",
+  "content": [
+    {
+      "title": "Synopsis",
+      "body": "Set in Gotham City, **The Dark Knight** follows billionaire vigilante Bruce Wayne as Batman, who, with the help of allies Lt. Jim Gordon and DA Harvey Dent, confronts a reign of chaos unleashed by a new criminal mastermind known as the Joker. As the Joker's deadly rampage throws Gotham into turmoil, Batman must balance heroism with personal sacrifice."
+    },
+    {
+      "title": "Production",
+      "body": "Directed by Christopher Nolan, **The Dark Knight** was produced by Emma Thomas, Charles Roven, and Christopher Nolan. Building upon the success of *Batman Begins,* production started with a strong emphasis on realism. Key scenes were shot on location in Chicago, using IMAX cameras to enhance the film's visual impact. The story was co-written by Nolan and his brother Jonathan, building on concepts from classic Batman storylines."
+    },
+    {
+      "title": "Reception",
+      "body": "**The Dark Knight** received extensive critical acclaim, especially for Heath Ledger's tour de force as the Joker. It grossed over $1 billion worldwide, solidifying its status as a critical and commercial triumph. The film earned numerous accolades, including two Academy Awards, and is often cited as one of the greatest superhero films ever made."
+    },
+    {
+      "title": "Legacy",
+      "body": "The cultural impact of **The Dark Knight** is immense, influencing not only the superhero genre but also broader film-making techniques with its grounded storytelling and use of IMAX technology. Its success led to Batman's resurgence in popular culture and set a new standard for superhero films."
+    }
+  ],
+  "aliases": [
+    "TDK",
+    "Batman: The Dark Knight"
+  ],
+  "relationships": [
+    {
+      "type": "directed_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "produced_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "produced_by",
+      "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
+    },
+    {
+      "type": "produced_by",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "written_by",
+      "target": "5d2f786e-631c-4f2d-9b6d-fc9afcbb10d2"
+    },
+    {
+      "type": "written_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "composed_by",
+      "target": "a3c5de67-f1d3-42b6-a6b3-123f0d65c1a4"
+    },
+    {
+      "type": "composed_by",
+      "target": "d25f0f9d-8c9f-4dab-b282-4c6c1d284d04"
+    },
+    {
+      "type": "stars",
+      "target": "4cf6d8b9-71f4-4eff-9c9e-bb3b3f7b2e8e"
+    },
+    {
+      "type": "stars",
+      "target": "d5c5fcb1-02d2-4c82-9f84-efb89c8a2bd9"
+    },
+    {
+      "type": "stars",
+      "target": "83e9fafd-1d4c-4b54-a1cc-1b389fee6762"
+    },
+    {
+      "type": "stars",
+      "target": "a3c5de67-f1d3-42b6-a6b3-123f0d65c1a4"
+    },
+    {
+      "type": "stars",
+      "target": "cf3b1424-74f9-48cd-9cb2-424fbfd16338"
+    },
+    {
+      "type": "features_character",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    },
+    {
+      "type": "features_character",
+      "target": "23f5a5c3-29ad-4ef8-bf65-daab2d4794b8"
+    },
+    {
+      "type": "features_character",
+      "target": "1e1d3e8d-c5f3-4d30-b4f3-45f6128ce7ed"
+    },
+    {
+      "type": "features_character",
+      "target": "9c39d7e0-1f12-4590-8b53-9ddb5f765cb5"
+    },
+    {
+      "type": "features_location",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "features_location",
+      "target": "943327b5-f3a3-4a6b-a2df-3b6d72ec4486"
+    },
+    {
+      "type": "features_location",
+      "target": "94768b45-89e7-4a8f-99a4-4d038b1357be"
+    },
+    {
+      "type": "features_location",
+      "target": "295a0b1a-ed45-4dff-a401-99b121032f26"
+    },
+    {
+      "type": "features_location",
+      "target": "b418b4d6-d755-4f48-a615-9a1d5b5f3c5d"
+    },
+    {
+      "type": "features_location",
+      "target": "380e0a6b-1e6d-4f90-8069-0f73e2df8b61"
+    },
+    {
+      "type": "features_location",
+      "target": "b12f1176-e8f4-4c8d-9abb-e294b08e1787"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "d65b3a1e-5b3b-4a72-907d-fae2b0ef4f90"
+    },
+    {
+      "type": "distributed_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "part_of",
+      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+    }
+  ],
+  "properties": {
+    "year": 2008,
+    "runtime": 152,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "budget": 185000000,
+    "box_office": 1004558444,
+    "rating": "PG-13"
+  },
+  "tags": [
+    "action",
+    "2000s",
+    "drama",
+    "crime",
+    "thriller",
+    "blockbuster",
+    "superheroes"
+  ]
+}

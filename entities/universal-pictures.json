@@ -1,0 +1,65 @@
+{
+  "id": "217d1e4e-b4f3-4c6f-a1e7-ed74e29c8e67",
+  "type": "company",
+  "name": "Universal Pictures",
+  "description": "A major American film studio known for producing and distributing blockbuster films.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Universal Pictures is one of the leading film production and distribution companies in the world. Known for its iconic logo of a globe surrounded by the company name, Universal has been a major player in the film industry, producing and distributing a wide variety of films across different genres."
+    },
+    {
+      "title": "History",
+      "body": "**Universal Pictures** was founded in 1912 by Carl Laemmle. The company was one of the first film studios in the United States and became known for its innovation in film production and marketing. Over the years, Universal has been responsible for many major milestones in the film industry, including the production of some of the first horror films and major advancements in special effects. Today, it remains a key player in Hollywood."
+    },
+    {
+      "title": "Notable Works",
+      "body": "Universal Pictures has produced and distributed numerous successful films and franchises. Some of the notable works include the *Back to the Future* series, *Jurassic Park*, *E.T. the Extra-Terrestrial*, and the *Fast & Furious* franchise."
+    },
+    {
+      "title": "Legacy",
+      "body": "Universal Pictures has had a significant impact on the film industry, known for its pioneering work in horror and science fiction genres, as well as its ability to produce successful blockbusters. The studio has established a reputation for both commercial success and critical acclaim, contributing to its status as one of the major players in the global film market."
+    }
+  ],
+  "aliases": [
+    "Universal Film Manufacturing Company",
+    "Universal Studios"
+  ],
+  "relationships": [
+    {
+      "type": "produced",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "distributed",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "produced",
+      "target": "f7e6d5c4-b3a2-1098-7654-321fedcba987"
+    },
+    {
+      "type": "distributed",
+      "target": "f7e6d5c4-b3a2-1098-7654-321fedcba987"
+    },
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    }
+  ],
+  "properties": {
+    "founded": "1912",
+    "founder": "Carl Laemmle",
+    "headquarters": "Universal City, California, USA",
+    "type": "studio, production company, distributor",
+    "parent_company": "Comcast"
+  },
+  "tags": [
+    "studio",
+    "production-company",
+    "distributor",
+    "film",
+    "television",
+    "modern"
+  ]
+}

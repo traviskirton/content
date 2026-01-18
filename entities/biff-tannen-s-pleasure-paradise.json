@@ -1,0 +1,54 @@
+{
+  "id": "fa3b9f8b-54f2-45a1-b242-d1a924b11efd",
+  "type": "location",
+  "name": "Biff Tannen's Pleasure Paradise",
+  "description": "A luxurious casino hotel owned by Biff Tannen in an alternate 1985 timeline.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Biff Tannen's Pleasure Paradise is a casino hotel established in an alternate timeline created as a result of Biff Tannen's acquisition of a sports almanac from the future. Biff uses the almanac to amass great wealth through betting, ultimately leading to the founding of this extravagant establishment in Hill Valley, California."
+    },
+    {
+      "title": "Geography",
+      "body": "The hotel is situated in the reimagined, dystopian version of Hill Valley, California. It dominates the town's skyline, showcasing the opulence and grandeur of Biff's empire in this altered timeline."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **Casino**: Offers various gambling activities including slot machines and table games.\n- **Hotel**: Luxurious accommodations boasting high-end services and amenities.\n- **Biff's Penthouse Suite**: The personal residence of Biff Tannen, featuring opulent decor and a view of the entire city."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'Back to the Future Part II', the protagonist Marty McFly discovers this dark version of Hill Valley after Biff alters the timeline. The hotel is central to Biff's control over the city and symbolizes his power and corruption. Significant plot events occur here, including Marty's confrontation with Biff and the revelation of the timeline's alteration."
+    }
+  ],
+  "aliases": [
+    "Pleasure Paradise Casino & Hotel",
+    "Biff's Casino"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "located_in",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    },
+    {
+      "type": "contains",
+      "target": "b12f1176-e8f4-4c8d-9abb-e294b08e1787"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building",
+    "founded": "1985"
+  },
+  "tags": [
+    "building",
+    "sci-fi",
+    "alternate timeline",
+    "1985",
+    "dystopian"
+  ]
+}

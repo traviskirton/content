@@ -1,0 +1,45 @@
+{
+  "id": "40c60e18-7bc9-4c41-b4f3-7b376a805dd2",
+  "type": "location",
+  "name": "Monument Valley",
+  "description": "Iconic filming location known for its stunning sandstone buttes, located on the Arizona-Utah state line.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Monument Valley is a region of the Colorado Plateau characterized by a cluster of vast sandstone buttes, the largest reaching up to 1,000 feet above the valley floor. It is located on the Arizona-Utah state line and is a significant cultural landmark of the Navajo Nation Reservation."
+    },
+    {
+      "title": "Film History",
+      "body": "Monument Valley has been a popular location for filmmakers, particularly for Western films. Notably, it served as the backdrop for many of John Ford's films, which helped define the image of the American West in cinema. Classic films like *Stagecoach* (1939), *The Searchers* (1956), and *Once Upon a Time in the West* (1968) were filmed here. More recently, it was featured in *Forrest Gump* (1994) in a famous scene where the titular character ends his cross-country run."
+    },
+    {
+      "title": "Visiting",
+      "body": "Monument Valley is accessible to the public, with the Monument Valley Navajo Tribal Park offering tours guided by Navajo residents. Visitors can explore the valley through designated routes, and accompanied tours are available that provide deeper insights into the area's history and cultural significance."
+    }
+  ],
+  "aliases": [
+    "The Valley"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "natural landscape",
+    "coordinates": {
+      "latitude": 36.998979,
+      "longitude": -110.09893
+    },
+    "state": "Arizona/Utah",
+    "country": "United States"
+  },
+  "tags": [
+    "natural landscape",
+    "active",
+    "public",
+    "tours-available"
+  ]
+}

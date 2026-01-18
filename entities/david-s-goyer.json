@@ -1,0 +1,73 @@
+{
+  "id": "5d2f786e-631c-4f2d-9b6d-fc9afcbb10d2",
+  "type": "person",
+  "name": "David S. Goyer",
+  "description": "Prolific screenwriter and director known for his work on superhero films.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "David S. Goyer was born on December 22, 1965, in Ann Arbor, Michigan, USA. He studied at the University of Southern California School of Cinematic Arts. Goyer’s career began in the early 1990s, writing scripts for several low-budget films and quickly rising to prominence in Hollywood."
+    },
+    {
+      "title": "Career",
+      "body": "David S. Goyer is a renowned screenwriter and director, celebrated for his significant contributions to the superhero film genre. He co-wrote the screenplay for 'Batman Begins' and contributed to 'The Dark Knight' trilogy, collaborating with director Christopher Nolan. Goyer also wrote the 'Blade' trilogy, 'Man of Steel', and 'Batman v Superman: Dawn of Justice'. Known for his distinctive style, Goyer often blends dark themes with intricate plots."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "David S. Goyer frequently collaborates with Christopher Nolan, a relationship that began with 'Batman Begins'. He has also worked with directors Zack Snyder and Guillermo del Toro, and producers such as Charles Roven."
+    },
+    {
+      "title": "Legacy",
+      "body": "David S. Goyer's impact on the superhero genre is substantial, having co-written scripts for critically acclaimed films that redefined the genre’s tone and depth. He has been nominated for several awards and continues to influence the filmmaking landscape through his work in various media, including film, television, and video games."
+    }
+  ],
+  "aliases": [
+    "David Goyer",
+    "David Samuel Goyer"
+  ],
+  "relationships": [
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "83e9fafd-1d4c-4b54-a1cc-1b389fee6762"
+    },
+    {
+      "type": "worked_with",
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+    },
+    {
+      "type": "worked_for",
+      "target": "d47d2ba3-4fca-4ed5-b0d1-ecf81b896b8f"
+    },
+    {
+      "type": "wrote",
+      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+    },
+    {
+      "type": "wrote",
+      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    }
+  ],
+  "properties": {
+    "born": "1965",
+    "nationality": "American",
+    "occupation": [
+      "writer",
+      "director",
+      "producer"
+    ],
+    "active_years": "1990-present"
+  },
+  "tags": [
+    "writer",
+    "director",
+    "producer",
+    "sci-fi",
+    "action",
+    "superhero",
+    "modern"
+  ]
+}

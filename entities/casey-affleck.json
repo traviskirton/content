@@ -1,0 +1,54 @@
+{
+  "id": "34e2f63b-19e6-4aab-bfb9-3a6513dabcb3",
+  "type": "person",
+  "name": "Casey Affleck",
+  "description": "American actor and filmmaker known for his roles in 'Manchester by the Sea' and 'Gone Baby Gone'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "**Casey Affleck** was born on August 12, 1975, in Falmouth, Massachusetts, USA. He is the younger brother of actor Ben Affleck. Casey graduated from Cambridge Rindge and Latin School in 1993, and later attended George Washington University and Columbia University in New York City, though he did not graduate."
+    },
+    {
+      "title": "Career",
+      "body": "Casey Affleck began his acting career at a young age, appearing in television specials and series. His breakthrough came with roles in films like *'To Die For'* (1995) and *'Good Will Hunting'* (1997). He gained critical acclaim for his leading role in *'The Assassination of Jesse James by the Coward Robert Ford'* (2007) and won the Oscar for Best Actor for his performance in *'Manchester by the Sea'* (2016). Affleck has also explored writing and directing, with *'I'm Still Here'* (2010) being one of his notable works."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Affleck has frequently collaborated with director Kenneth Lonergan, notably in *'Manchester by the Sea'*, and with his brother Ben Affleck, in films such as *'Gone Baby Gone'*, which Ben directed."
+    },
+    {
+      "title": "Legacy",
+      "body": "Casey Affleck's understated performances and methodical approach have distinguished him in Hollywood. He has been recognized with numerous awards and nominations, establishing him as a talented and versatile actor."
+    }
+  ],
+  "aliases": [
+    "Caleb Casey McGuire Affleck-Boldt"
+  ],
+  "relationships": [
+    {
+      "type": "worked_with",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "worked_with",
+      "target": "e614435b-73a9-42bc-ae19-5c4d8af9c91c"
+    }
+  ],
+  "properties": {
+    "born": 1975,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active_years": "1988-present"
+  },
+  "tags": [
+    "actor",
+    "director",
+    "drama",
+    "modern"
+  ]
+}

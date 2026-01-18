@@ -1,0 +1,48 @@
+{
+  "id": "c7e3f8b6-2dbe-4c91-888f-4897a3c8239c",
+  "type": "location",
+  "name": "Glasgow",
+  "description": "A vibrant city in Scotland known for its rich industrial heritage and cultural influence.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Glasgow is the largest city in Scotland, known for its cultural vitality, architectural heritage, and vibrant arts scene. Historically an industrial hub, it has transformed into a lively metropolis with a diverse economy. The city is home to renowned museums, galleries, and a thriving music scene."
+    },
+    {
+      "title": "Film History",
+      "body": "Glasgow has become a popular filming location due to its unique architecture and adaptability to double for various cities. It has been featured in movies such as **'The Batman'**, where it doubled for Gotham City, and **'Fast & Furious 9'** where it hosted adrenaline-pumping action sequences. The city’s streets and iconic buildings have made it a versatile backdrop for numerous film genres."
+    },
+    {
+      "title": "Visiting",
+      "body": "Glasgow is accessible to the public, with a range of tours available that explore its architectural beauty and cultural landmarks. It is an active city that welcomes tourists from around the globe, offering insights into both its historical significance and modern vibrancy. The city is well-connected by public transport and easily navigable for tourists."
+    }
+  ],
+  "aliases": [
+    "Glasgow City"
+  ],
+  "relationships": [
+    {
+      "type": "doubled_for",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 55.8642,
+      "longitude": -4.2518
+    }
+  },
+  "tags": [
+    "city",
+    "active",
+    "public",
+    "tours-available"
+  ]
+}

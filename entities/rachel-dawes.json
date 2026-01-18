@@ -1,0 +1,63 @@
+{
+  "id": "1e1d3e8d-c5f3-4d30-b4f3-45f6128ce7ed",
+  "type": "character",
+  "name": "Rachel Dawes",
+  "description": "Rachel Dawes is a crucial supporting character and moral compass in The Dark Knight Trilogy.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Rachel Dawes grew up in Gotham City where she became close friends with Bruce Wayne. After witnessing Gotham's corruption first-hand, she pursued a career in law, eventually becoming an Assistant District Attorney."
+    },
+    {
+      "title": "Personality",
+      "body": "Rachel is known for her determination and commitment to justice. She is fearless in the face of danger, honest to a fault, and serves as a moral grounding for Bruce Wayne."
+    },
+    {
+      "title": "Story Role",
+      "body": "Rachel's character serves as Bruce Wayne's childhood friend and love interest. She plays a pivotal role in his journey to becoming Batman by questioning his motives and providing him with ethical insights."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Bruce Wayne**: Childhood friend and love interest. Rachel serves as a critical influence and voice of reason for Bruce.\n- **Harvey Dent**: Romantic interest in 'The Dark Knight', complicating her relationship with Bruce Wayne.\n- **Carmine Falcone and Jonathan Crane**: Adversaries in her fight against corruption in Gotham City."
+    }
+  ],
+  "aliases": [
+    "Assistant District Attorney Dawes"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "appears_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "related_to",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    },
+    {
+      "type": "related_to",
+      "target": "3ad870f7-eae2-4d1f-9518-3ad34e54301f"
+    },
+    {
+      "type": "related_to",
+      "target": "fe4f2182-4056-4713-8491-8d53ad5c434b"
+    },
+    {
+      "type": "related_to",
+      "target": "39f99bdf-9cce-4f89-8447-8ebaafb4e7e8"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Assistant District Attorney",
+    "portrayed_by": "Katie Holmes (Batman Begins), Maggie Gyllenhaal (The Dark Knight)"
+  },
+  "tags": [
+    "supporting",
+    "ethical",
+    "hero"
+  ]
+}

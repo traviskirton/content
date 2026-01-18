@@ -1,0 +1,58 @@
+{
+  "id": "a789b123-4c56-7d89-ef01-23456789abcd",
+  "type": "location",
+  "name": "Railtown 1897 State Historic Park",
+  "description": "A state park in California known for its historic railroad facilities, often used in film and TV productions.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Railtown 1897 State Historic Park** is a state park located in Jamestown, California. The park preserves the historic Sierra Railway facilities, including working steam locomotives and vintage railroad cars. It is open to the public and offers train rides, guided tours, and educational programs."
+    },
+    {
+      "title": "Film History",
+      "body": "Railtown 1897 has been a popular filming location for numerous films and television shows. Notable productions include *Back to the Future Part III*, where it served as a stand-in for the 1885 Hill Valley Railroad. Other films shot here include *The Lone Ranger* (2013) and TV series like *Petticoat Junction*. The park often doubles for 19th-century American settings."
+    },
+    {
+      "title": "Visiting",
+      "body": "Railtown 1897 State Historic Park is open to visitors year-round. Public tours are available, and train rides on historic steam locomotives are offered seasonally. The park also hosts special events and educational workshops."
+    }
+  ],
+  "aliases": [
+    "Jamestown Railtown",
+    "Sierra Railway"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "9a127d6d-bc71-4bcb-91d3-7bacb8e3b77a"
+    },
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "park",
+    "address": "18115 5th Ave, Jamestown, CA 95327, USA",
+    "city": "Jamestown",
+    "state": "California",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 37.9515,
+      "longitude": -120.4244
+    }
+  },
+  "tags": [
+    "location",
+    "filming-location",
+    "historic",
+    "public",
+    "tours-available",
+    "preserved"
+  ]
+}

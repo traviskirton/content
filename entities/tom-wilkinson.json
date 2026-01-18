@@ -1,0 +1,67 @@
+{
+  "id": "d41d8cd9-8f00-b204-e980-0998ecf8427e",
+  "type": "person",
+  "name": "Tom Wilkinson",
+  "description": "Acclaimed British actor known for his versatility in film and television.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Tom Wilkinson was born on February 5, 1948, in Leeds, West Yorkshire, England. He developed an interest in acting from an early age and pursued his passion by studying at the University of Kent, where he earned a degree in English and American literature. He later trained at the Royal Academy of Dramatic Art (RADA) in London."
+    },
+    {
+      "title": "Career",
+      "body": "Tom Wilkinson's film debut was in the 1976 movie *Smuga cienia*, by the early 1990s, he had become a significant presence in British film and television. Some of his major works include *The Full Monty* (1997), *Shakespeare in Love* (1998), and *In the Bedroom* (2001), for which he received an Academy Award nomination for Best Actor. His performances are characterized by their depth, complexity, and a seamless blend of intensity and subtlety, making him a sought-after actor in both supporting and leading roles."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Tom Wilkinson has worked with many acclaimed directors and actors. He has frequently collaborated with filmmaker Christopher Nolan, playing roles in *Batman Begins* (2005) alongside Christian Bale and other prominent actors like Liam Neeson and Michael Caine. Another notable collaboration was with director Cameron Crowe on *Elizabethtown* (2005)."
+    },
+    {
+      "title": "Legacy",
+      "body": "Wilkinson is widely recognized for his versatility and ability to bring authenticity to the diverse characters he portrays. His work has earned him numerous awards and nominations, including BAFTAs, Golden Globes, and an Emmy Award. He is considered one of the finest character actors of his generation, leaving a lasting impact on both British and international cinema."
+    }
+  ],
+  "aliases": [
+    "Thomas Geoffrey Wilkinson"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    },
+    {
+      "type": "acted_in",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "worked_with",
+      "target": "4cf6d8b9-71f4-4eff-9c9e-bb3b3f7b2e8e"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "f9b4c1d8-3479-4e60-b9d2-a3c4f778b8bf"
+    },
+    {
+      "type": "worked_with",
+      "target": "bb80a224-7b21-4d16-9192-7e2d9e2e3ae5"
+    }
+  ],
+  "properties": {
+    "born": 1948,
+    "nationality": "British",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1976-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "comedy",
+    "modern"
+  ]
+}

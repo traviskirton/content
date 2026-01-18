@@ -1,0 +1,56 @@
+{
+  "id": "e614435b-73a9-42bc-ae19-5c4d8af9c91c",
+  "type": "person",
+  "name": "Christopher Walken",
+  "description": "Christopher Walken is a renowned American actor known for his distinctive voice and diverse film roles.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Christopher Walken was born on March 31, 1943, in Astoria, Queens, New York City, USA. He began his career in show business as a child actor on television. He later trained as a dancer at the Washington Dance Studio and initially worked as a dancer in musical theaters before transitioning fully into acting."
+    },
+    {
+      "title": "Career",
+      "body": "Christopher Walken's career spans over several decades with notable works including his Academy Award-winning performance in *The Deer Hunter* (1978). He is known for his roles in films such as *Catch Me If You Can* (2002), *Pulp Fiction* (1994), and *Sleepy Hollow* (1999). Walken’s distinctive delivery and eccentric roles have made him a popular figure in both dramatic and comedic performances."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Walken has frequently collaborated with directors such as Tim Burton and Quentin Tarantino, bringing his unique presence to their films. He has also worked alongside actors like Robert De Niro and Leonardo DiCaprio."
+    },
+    {
+      "title": "Legacy",
+      "body": "Christopher Walken has become a cultural icon, often imitated for his distinctive voice and mannerisms. He has received numerous awards and nominations throughout his career, solidifying his impact and legacy in the film industry."
+    }
+  ],
+  "aliases": [
+    "Ronnie Walken"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+    },
+    {
+      "type": "worked_with",
+      "target": "d2e9f21d-ae29-4f4a-9b12-0e5f5d1b9e79"
+    },
+    {
+      "type": "worked_with",
+      "target": "ffbc5d71-dd5e-4895-9898-73d7e5e0b0d9"
+    }
+  ],
+  "properties": {
+    "born": 1943,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "dancer"
+    ],
+    "active_years": "1952-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "comedy",
+    "modern"
+  ]
+}

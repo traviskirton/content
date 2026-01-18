@@ -1,0 +1,95 @@
+{
+  "id": "a5f4e3b2-0d7d-4fbb-bfaa-c2b0629ab6de",
+  "type": "character",
+  "name": "Bruce Wayne (Burton)",
+  "description": "The secretive and brooding billionaire vigilante of Gotham City in Tim Burton's Batman films.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Born into the wealthy Wayne family of Gotham City, Bruce Wayne's life took a tragic turn when his parents were murdered in front of him as a child. This traumatic event led him to dedicate his life to fighting crime as Batman, utilizing his wealth and resources to develop high-tech gadgets and vehicles."
+    },
+    {
+      "title": "Personality",
+      "body": "Bruce Wayne in the Burton films is characterized by his brooding nature, sense of duty, and a certain level of detachment. While he is outwardly a playboy billionaire, his true persona is that of a dedicated and somber vigilante. He often struggles with his identity as Batman and the responsibilities it entails."
+    },
+    {
+      "title": "Story Role",
+      "body": "In Tim Burton's 'Batman' (1989) and 'Batman Returns' (1992), Bruce Wayne serves as the protagonist and central figure of the narrative. He confronts his iconic adversaries in an effort to protect Gotham City while dealing with his own internal conflicts."
+    },
+    {
+      "title": "Relationships",
+      "body": "**Alfred Pennyworth (Gough)**: Bruce's loyal butler and confidant, who provides support and advice.\n\n**Vicki Vale**: A photojournalist who becomes romantically involved with Bruce Wayne.\n\n**The Joker (Nicholson)**: His arch-nemesis in 'Batman', who represents chaos and destruction.\n\n**Catwoman (Pfeiffer)**: A complex and conflicted relationship with a fellow vigilante and sometimes antagonist."
+    },
+    {
+      "title": "Abilities",
+      "body": "Bruce Wayne possesses peak human physical condition, expert martial arts skills, advanced detective abilities, and intelligence. He also has access to advanced technology and resources through Wayne Enterprises."
+    }
+  ],
+  "aliases": [
+    "Batman",
+    "The Dark Knight"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "appears_in",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+    },
+    {
+      "type": "member_of",
+      "target": "741acbc5-8a2f-4247-9585-267f61020389"
+    },
+    {
+      "type": "friends_with",
+      "target": "0d9f8d3b-6c12-4adb-9e8c-a5d7463d049b"
+    },
+    {
+      "type": "related_to",
+      "target": "b128e18b-0a9c-44bd-9a4e-25beafaf1b94"
+    },
+    {
+      "type": "related_to",
+      "target": "d2d9f803-43f7-46d1-97db-b23e5b62ad84"
+    },
+    {
+      "type": "uses",
+      "target": "8bde9c76-4d86-4d85-a945-82f7e7a4497c"
+    },
+    {
+      "type": "uses",
+      "target": "a92f8c66-53a8-4c9a-b4f1-c634c2e83ae0"
+    },
+    {
+      "type": "uses",
+      "target": "bc9fa1d2-4f56-4abc-a4ac-74f4e65c8e28"
+    },
+    {
+      "type": "uses",
+      "target": "94768b45-89e7-4a8f-99a4-4d038b1357be"
+    },
+    {
+      "type": "related_to",
+      "target": "b15a100f-5c62-4e7d-9e23-2e9806487d94"
+    },
+    {
+      "type": "related_to",
+      "target": "7818daf4-b097-4973-bace-3be5c9bde910"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "vigilante, CEO of Wayne Enterprises",
+    "born": "unknown",
+    "portrayed_by": "Michael Keaton"
+  },
+  "tags": [
+    "protagonist",
+    "hero",
+    "vigilante",
+    "detective",
+    "billionaire"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "d2e9f21d-ae29-4f4a-9b12-0e5f5d1b9e79",
+  "type": "person",
+  "name": "Tim Burton",
+  "description": "Renowned director known for his unique gothic style and imaginative storytelling.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "**Tim Burton** is a celebrated American filmmaker known for his eclectic and gothic cinematic style. Born in 1958 in Burbank, California, Burton's early passion for art and film led him to study character animation at the California Institute of the Arts. He began his career as an animator at The Walt Disney Company."
+    },
+    {
+      "title": "Career",
+      "body": "Tim Burton's directorial breakthrough came with **\"Pee-wee's Big Adventure\"** (1985). He gained widespread recognition with films such as **\"Beetlejuice\"** (1988), **\"Batman\"** (1989), and **\"Edward Scissorhands\"** (1990). Burton's films often feature dark themes, whimsical characters, and a distinctive visual style. His other significant works include **\"The Nightmare Before Christmas\"** (1993), **\"Corpse Bride\"** (2005), and **\"Sweeney Todd: The Demon Barber of Fleet Street\"** (2007)."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Burton has frequently collaborated with actor **Johnny Depp** and composer **Danny Elfman**, who have both been integral in shaping the distinctive sound and performances in Burton's films."
+    },
+    {
+      "title": "Legacy",
+      "body": "Tim Burton is credited with popularizing a dark, yet fantastical aesthetic that resonates with audiences worldwide. His films have been critically acclaimed and have garnered numerous awards and nominations, cementing his status as an influential figure in modern cinema."
+    }
+  ],
+  "aliases": [
+    "Timothy Walter Burton"
+  ],
+  "relationships": [
+    {
+      "type": "worked_with",
+      "target": "2f83a8c2-7bd3-4c4e-ba86-92d5a8f8d295"
+    },
+    {
+      "type": "worked_with",
+      "target": "a3c5de67-f1d3-42b6-a6b3-123f0d65c1a4"
+    }
+  ],
+  "properties": {
+    "born": 1958,
+    "nationality": "American",
+    "occupation": [
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active_years": "1979-present"
+  },
+  "tags": [
+    "director",
+    "producer",
+    "writer",
+    "fantasy",
+    "gothic",
+    "animation"
+  ]
+}

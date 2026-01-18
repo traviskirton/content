@@ -1,0 +1,71 @@
+{
+  "id": "e6149baf-563e-4dc9-8eec-a7a33e3e95ac",
+  "type": "person",
+  "name": "Anne Hathaway",
+  "description": "Anne Hathaway is an accomplished American actress known for her versatile performances in a variety of film genres.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Anne Hathaway was born on November 12, 1982, in Brooklyn, New York, USA. She started her acting career on stage and television, gaining early recognition for her role in the television series 'Get Real' (1999-2000)."
+    },
+    {
+      "title": "Career",
+      "body": "Anne Hathaway gained widespread recognition for her leading role in the 2001 Disney film 'The Princess Diaries'. She continued to build her career with critically acclaimed performances in films such as 'Brokeback Mountain' (2005), 'The Devil Wears Prada' (2006), 'Rachel Getting Married' (2008), 'Les Misérables' (2012), for which she won an Academy Award for Best Supporting Actress, and 'Interstellar' (2014). Known for her ability to adapt to both comedic and dramatic roles, Hathaway's style is often characterized by her strong emotional range and charismatic presence."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Anne Hathaway has frequently collaborated with renowned filmmaker Christopher Nolan, appearing in his films 'The Dark Knight Rises' (2012) and 'Interstellar' (2014)."
+    },
+    {
+      "title": "Legacy",
+      "body": "Anne Hathaway is celebrated for her contributions to the film industry, earning numerous awards and nominations throughout her career. She is recognized for her dedication to her craft and her role in advancing women's representation in Hollywood."
+    }
+  ],
+  "aliases": [
+    "Anne Jacqueline Hathaway"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "acted_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "acted_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "acted_in",
+      "target": "f3d9b29e-9b6f-42e2-bf7b-5200c58f5e10"
+    },
+    {
+      "type": "acted_in",
+      "target": "e6149baf-563e-4dc9-8eec-a7a33e3e95ac"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "e6dd9f4d-04b5-4f36-aad6-60d3ba7e1c8b"
+    }
+  ],
+  "properties": {
+    "born": 1982,
+    "nationality": "American",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1999-present"
+  },
+  "tags": [
+    "actor",
+    "modern",
+    "drama",
+    "comedy"
+  ]
+}

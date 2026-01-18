@@ -1,0 +1,58 @@
+{
+  "id": "216e2b76-7df1-41bd-8c61-df711b0ca3fd",
+  "type": "item",
+  "name": "Tombstone",
+  "description": "The tombstone listing Doc Brown's death in 'Back to the Future Part III'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "In *Back to the Future Part III*, the tombstone is an ominous artifact that indicates the death of Emmett \"Doc\" Brown. It is a critical plot element that sets Marty McFly on a mission to alter history and save his friend."
+    },
+    {
+      "title": "Appearance",
+      "body": "The tombstone is a standard headstone that bears the name \"Emmett Brown\" along with the date of his death, September 7, 1885, and the epitaph \"Shot in the back by Buford Tannen over a matter of 80 dollars.\""
+    },
+    {
+      "title": "Function",
+      "body": "The tombstone serves as a visual and narrative device to suggest imminent tragedy for Doc Brown and provide a countdown for the characters to avert fate."
+    },
+    {
+      "title": "History",
+      "body": "The tombstone comes into existence in the altered timeline where Doc Brown is accidentally sent to 1885 and confronts Buford \"Mad Dog\" Tannen. Its presence represents a fixed point in time that Marty and Doc seek to change."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In the film, the tombstone acts as a driving force for the plot. Marty finds it photographed in a library, and it serves as evidence of Doc’s impending fate at the hands of Buford Tannen. It propels Marty to travel back in time to the Old West to save Doc. Ultimately, the epitaph’s details are altered, signaling the success of their mission."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "owned_by",
+      "target": "c3d4e5f6-a7b8-9012-cdef-345678901234"
+    },
+    {
+      "type": "created_by",
+      "target": "28e933d7-2659-4413-b2f2-4a126c7c1957"
+    },
+    {
+      "type": "located_at",
+      "target": "f18ac8fd-6b74-4e9d-9abc-dbd5c4747e5b"
+    }
+  ],
+  "properties": {
+    "item_type": "artifact",
+    "created_by": "Buford Tannen",
+    "fictional": true
+  },
+  "tags": [
+    "artifact",
+    "sci-fi",
+    "macguffin",
+    "time-travel",
+    "Western"
+  ]
+}

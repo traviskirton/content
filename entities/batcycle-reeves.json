@@ -1,0 +1,58 @@
+{
+  "id": "c0987f99-8a6c-4071-982e-78b3224c6f7e",
+  "type": "vehicle",
+  "name": "Batcycle (Reeves)",
+  "description": "The Batcycle is a custom motorcycle used by Batman in 'The Batman (2022)' for high-speed pursuits and patrols through Gotham City.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Batcycle is a sleek, high-performance motorcycle utilized by Batman to navigate the urban landscape of Gotham City with agility and speed. It serves as a key mode of transportation for Batman, allowing him to engage in quick pursuits and patrols."
+    },
+    {
+      "title": "Design",
+      "body": "The Batcycle has a minimalist yet aggressive design featuring a dark color scheme to match Batman's stealthy operations. It is equipped with advanced technology that aids in both navigation and combat situations. Its sleek form allows it to maneuver through the tight streets of Gotham with ease."
+    },
+    {
+      "title": "Capabilities",
+      "body": "The Batcycle is designed for high-speed chases and efficient urban navigation. It features enhanced suspension for handling rough terrain and cutting-edge onboard tech for communication and environmental scanning. Its performance capabilities allow Batman to match or exceed the speed of any pursuers or targets."
+    },
+    {
+      "title": "History",
+      "body": "The Batcycle was custom-built by Bruce Wayne (portrayed by Robert Pattinson) to suit his needs as Batman in 'The Batman (2022)'. It is part of his wider arsenal of vehicles that includes the Batmobile and other specialized equipment."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Batcycle plays a significant role in several iconic scenes in 'The Batman (2022)', highlighting Batman's mobility and strategic advantage. It is prominently featured in action sequences and adds to the dynamic portrayal of Batman's vigilantism in the movie."
+    }
+  ],
+  "aliases": [
+    "Batman's motorcycle",
+    "The Bat-Motorcycle"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "owned_by",
+      "target": "b87b3c9d-4e25-41d3-b635-3ab2c66a63b4"
+    },
+    {
+      "type": "located_at",
+      "target": "2a9f7e06-8d8b-40c4-a8b5-5a16f77b35fd"
+    }
+  ],
+  "properties": {
+    "vehicle_type": "motorcycle",
+    "manufacturer": "Wayne Enterprises",
+    "year": 2022,
+    "fictional": true
+  },
+  "tags": [
+    "motorcycle",
+    "action",
+    "stealth",
+    "high-speed"
+  ]
+}

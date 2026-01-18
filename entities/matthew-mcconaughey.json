@@ -1,0 +1,58 @@
+{
+  "id": "ae2541d3-fd8b-4839-a91b-f8c8bdf5ef87",
+  "type": "person",
+  "name": "Matthew McConaughey",
+  "description": "An award-winning American actor known for his roles in films such as 'Dazed and Confused,' 'Dallas Buyers Club,' and 'Interstellar.'",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Matthew McConaughey, born in 1969 in Uvalde, Texas, rose to fame in the early 1990s. He gained public attention with his breakout role in the coming-of-age film 'Dazed and Confused.'"
+    },
+    {
+      "title": "Career",
+      "body": "Over the years, McConaughey has showcased his versatility through a variety of roles. Notably, he starred in romantic comedies like 'How to Lose a Guy in 10 Days' and later transitioned to dramatic roles in films such as 'The Lincoln Lawyer,' 'Mud,' and 'Magic Mike.' His performance in 'Dallas Buyers Club' earned him an Academy Award for Best Actor. Additionally, McConaughey starred in the critically acclaimed science fiction film 'Interstellar.'"
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "- **Christopher Nolan**: Collaborated with McConaughey on 'Interstellar.' (UUID: 2c9081c5-6afb-4f06-9a6a-9876543210aa)\n- **Anne Hathaway**: Co-starred with McConaughey in 'Interstellar.' (UUID: e6149baf-563e-4dc9-8eec-a7a33e3e95ac)"
+    },
+    {
+      "title": "Legacy",
+      "body": "Matthew McConaughey's impact on Hollywood is marked by his shift from romantic comedies to more intense dramatic roles. His performances have been recognized with numerous awards and nominations. His catchphrase 'Alright, alright, alright' from 'Dazed and Confused' remains iconic in popular culture."
+    }
+  ],
+  "aliases": [
+    "Matthew David McConaughey"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "e6149baf-563e-4dc9-8eec-a7a33e3e95ac"
+    }
+  ],
+  "properties": {
+    "born": 1969,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "producer",
+      "writer"
+    ],
+    "active_years": "1991-present"
+  },
+  "tags": [
+    "actor",
+    "producer",
+    "drama",
+    "comedy",
+    "modern"
+  ]
+}

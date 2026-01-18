@@ -1,0 +1,62 @@
+{
+  "id": "6f8c9d3a-3e4b-4f3e-8ecf-3f4b7a2d54a6",
+  "type": "person",
+  "name": "Jeffrey Wright",
+  "description": "American actor known for his versatile roles across film, television, and theater.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Jeffrey Wright was born on December 7, 1965, in Washington, D.C. He attended Amherst College, where he graduated with a degree in political science, before pursuing an acting career. Wright began his career on the theater stage before transitioning to film and television."
+    },
+    {
+      "title": "Career",
+      "body": "Wright made his mark with a Tony Award-winning performance in the Broadway production of *Angels in America*. In film, he gained recognition for his role in *Basquiat* and has since had notable roles in movies such as *The Hunger Games* series, *Syriana*, *Casino Royale*, and *The French Dispatch*. He is well-known for his portrayal of Bernard Lowe in the HBO series *Westworld*."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Throughout his career, Wright has worked with renowned directors including Christopher Nolan in *The Batman* and Ang Lee in *Ride with the Devil*. He has frequently been involved in projects with other acclaimed actors such as Daniel Craig and Liam Neeson."
+    },
+    {
+      "title": "Legacy",
+      "body": "Jeffrey Wright is celebrated for his ability to immerse himself in diverse roles, providing depth and authenticity that have earned him critical acclaim. He has received multiple awards and nominations, including a Tony Award and a Golden Globe."
+    }
+  ],
+  "aliases": [
+    "Jeff Wright"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "acted_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "acted_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "83e9fafd-1d4c-4b54-a1cc-1b389fee6762"
+    }
+  ],
+  "properties": {
+    "born": 1965,
+    "nationality": "American",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1990-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "modern"
+  ]
+}

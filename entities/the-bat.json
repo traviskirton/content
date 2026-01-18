@@ -1,0 +1,65 @@
+{
+  "id": "be5e5139-073b-4a36-8062-f692f67337f0",
+  "type": "vehicle",
+  "name": "The Bat",
+  "description": "A highly advanced military aerial vehicle used by Batman.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**The Bat** is an advanced military aircraft used by Batman in *The Dark Knight Rises*. It was designed to operate both in urban environments and for stealth combat missions."
+    },
+    {
+      "title": "Design",
+      "body": "The Bat has a unique design resembling a helicopter without rotor blades, featuring a wide and flat body with four turbine engines for VTOL (Vertical Take-Off and Landing) capabilities. Its appearance is sleek with a dark, matte finish to complement Batman's stealth operations."
+    },
+    {
+      "title": "Capabilities",
+      "body": "The Bat is capable of advanced aerial maneuvers, equipped with stealth technology, heavy weaponry, and remote piloting capabilities. It features autopilot systems, though initially, these systems are not fully operational. It is also capable of transporting multiple passengers and has features to allow it to hover and glide silently through the night sky."
+    },
+    {
+      "title": "History",
+      "body": "Given to Batman by Lucius Fox of Wayne Enterprises, The Bat was developed from a military prototype known as 'The Bat' meant for urban pacification. It played a crucial role in Batman's operations during the events of *The Dark Knight Rises*."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Bat is pivotal in Batman's efforts to stop Bane and Talia al Ghul's plans to destroy Gotham City. Notably, it is used to transport the fusion bomb out of Gotham, saving the city. Its inability to safely hover over water is a crucial plot point, leading to an emotional climax involving Batman's apparent sacrifice."
+    }
+  ],
+  "aliases": [
+    "The Bat",
+    "Batwing"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "owned_by",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    },
+    {
+      "type": "created_by",
+      "target": "d03a2ebc-4fbd-4bc1-9bc3-c2659c9123b1"
+    },
+    {
+      "type": "located_at",
+      "target": "94768b45-89e7-4a8f-99a4-4d038b1357be"
+    }
+  ],
+  "properties": {
+    "vehicle_type": "aircraft",
+    "manufacturer": "Wayne Enterprises",
+    "model": "Military Prototype",
+    "year": "2012",
+    "fictional": true
+  },
+  "tags": [
+    "aircraft",
+    "sci-fi",
+    "action",
+    "flying",
+    "stealth",
+    "Batman"
+  ]
+}

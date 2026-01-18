@@ -1,0 +1,59 @@
+{
+  "id": "74e2f215-232d-475e-bfa4-15f73e237d89",
+  "type": "franchise",
+  "name": "Burton/Schumacher Batman Films",
+  "description": "A series of Batman films directed by Tim Burton and Joel Schumacher in the late 20th century.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The **Burton/Schumacher Batman Films** are a series of superhero films based on the DC Comics character Batman. This franchise consists of four films released between 1989 and 1997, characterized by a darker, gothic tone under Burton's direction and a more colorful, campy style during Schumacher's tenure. The films include elements of action, drama, and fantasy, and helped reshape the superhero film genre during the late 20th century."
+    },
+    {
+      "title": "History",
+      "body": "The franchise began in 1989 with the release of **Batman**, directed by Tim Burton, which was a critical and commercial success. It was followed by **Batman Returns** in 1992, also directed by Burton. In 1995, Joel Schumacher took over the director's chair with **Batman Forever**, introducing a more colorful and less dark iteration of Gotham City. Schumacher's second and final installment, **Batman & Robin**, was released in 1997. The films received varying degrees of acclaim and have since become notable entries in the history of Batman on film."
+    },
+    {
+      "title": "Cultural Impact",
+      "body": "The Burton/Schumacher Batman films were influential in redefining superhero movies, demonstrating that such films could be commercially viable blockbusters. Tim Burton's dark, brooding take on Batman paved the way for more serious adaptations of comic book characters. The series also spurred significant interest in Batman and the broader superhero genre, influencing subsequent adaptations and revitalizing the character's popularity."
+    },
+    {
+      "title": "Legacy",
+      "body": "Despite the mixed reception of **Batman & Robin**, the franchise maintains a lasting legacy for its innovative style and impact on superhero cinema. Elements of Burton's dark aesthetics continued to influence Batman media, including the acclaimed animated series in the 1990s. The franchise laid the groundwork for later Batman films, leading into Christopher Nolan's The Dark Knight Trilogy. The films remain popular among fans and are frequently revisited and re-evaluated in cinema retrospectives."
+    }
+  ],
+  "aliases": [
+    "Batman Anthology",
+    "Burton Batman",
+    "Schumacher Batman"
+  ],
+  "relationships": [
+    {
+      "type": "created_by",
+      "target": "d2e9f21d-ae29-4f4a-9b12-0e5f5d1b9e79"
+    },
+    {
+      "type": "owned_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "includes",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    }
+  ],
+  "properties": {
+    "created_year": 1989,
+    "media_types": [
+      "film"
+    ],
+    "creator": [
+      "Tim Burton",
+      "Joel Schumacher"
+    ]
+  },
+  "tags": [
+    "superhero",
+    "film-series",
+    "gothic",
+    "classic-era"
+  ]
+}

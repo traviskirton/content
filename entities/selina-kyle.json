@@ -1,0 +1,64 @@
+{
+  "id": "f84c2c4e-9a29-45d4-85b6-0424f5a58b2d",
+  "type": "character",
+  "name": "Selina Kyle",
+  "description": "A skilled cat burglar known as Catwoman, she becomes an ally to Batman in 'The Dark Knight Rises'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Selina Kyle, better known as Catwoman, is a master thief with a checkered past. She is known for her stealth, agility, and cunning, as well as her loyalty to those she cares about. Although shrouded in mystery, she is believed to have grown up in the poorer areas of Gotham City, where she learned to fend for herself from a young age. Her intense desire for a fresh start leads her down a path of crime, utilizing her skills to survive."
+    },
+    {
+      "title": "Personality",
+      "body": "Selina is both resourceful and self-reliant, with a quick wit and a talent for adaptability. She is pragmatic, often driven by a personal code of ethics that aligns with her own interests and survival. While initially self-centered, Selina evolves to show a strong sense of justice, especially when it involves protecting the less fortunate. She is not without flaws, struggling with trust issues and a fear of vulnerability."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Dark Knight Rises,' Selina Kyle plays a pivotal role, transitioning from a potential adversary to an ally. Initially, she seeks to steal Bruce Wayne's fingerprints for powerful criminals, yet her motivation shifts as she becomes entangled with the larger battle for Gotham's soul. Her arc progresses from self-preservation to a reluctant hero, where she ultimately aids Batman in the fight against Bane and helps to save Gotham from destruction."
+    },
+    {
+      "title": "Relationships",
+      "body": "Selina's most significant relationship is with Bruce Wayne, alias Batman. While their relationship begins on rocky ground with conflicting interests, mutual respect and understanding develop between them. This eventually matures into a partnership as they learn to trust each other. Selina also forms a connection with the people of Gotham, particularly those oppressed by the city's criminals and corrupt systems, often acting as a champion for their cause."
+    },
+    {
+      "title": "Abilities",
+      "body": "Selina Kyle is an exceptional hand-to-hand combatant, often utilizing a combination of martial arts techniques and acrobatics. She is highly skilled in thievery, lockpicking, and stealth, earning her the moniker Catwoman. Her intelligence and strategic mind make her a formidable opponent and a valued ally in high-stakes situations."
+    }
+  ],
+  "aliases": [
+    "Catwoman"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "friends_with",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    },
+    {
+      "type": "rivals_with",
+      "target": "cd6822b1-8fc0-4b82-9d57-135b13bf136d"
+    },
+    {
+      "type": "lives_in",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "e6149baf-563e-4dc9-8eec-a7a33e3e95ac"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "thief, burglar",
+    "portrayed_by": "Anne Hathaway"
+  },
+  "tags": [
+    "protagonist",
+    "antihero",
+    "thief",
+    "martial artist"
+  ]
+}

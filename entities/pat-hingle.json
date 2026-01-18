@@ -1,0 +1,65 @@
+{
+  "id": "0bfbf5b5-e0ab-48d3-8e46-fb9f4380d7c3",
+  "type": "person",
+  "name": "Pat Hingle",
+  "description": "An accomplished American actor known for his versatile roles on stage and screen.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Pat Hingle was born on July 19, 1924, in Miami, Florida, USA. His birth name was Martin Patterson Hingle. He began acting during his time at the University of Texas after World War II, where the war veteran discovered his passion for the craft."
+    },
+    {
+      "title": "Career",
+      "body": "Hingle's career spanned over six decades, encompassing theater, television, and film. He was a Tony Award nominee and appeared in numerous Broadway productions, including \"Cat on a Hot Tin Roof\" and \"J.B.\" He is perhaps best known on screen for his role as Commissioner Gordon in the Tim Burton and Joel Schumacher iterations of the Batman film series. Hingle's filmography also includes notable roles in \"On the Waterfront,\" \"The Grifters,\" and \"Hang 'Em High.\" His performances were often defined by his gravitas and strong presence, making him a beloved character actor."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Throughout his career, Pat Hingle worked with esteemed directors including **Elia Kazan**, **Clint Eastwood**, and **Tim Burton**. He collaborated with **Michael Keaton**, who played Batman in the films where Hingle starred as Commissioner Gordon."
+    },
+    {
+      "title": "Legacy",
+      "body": "Pat Hingle's contributions to theater and film have left a lasting impact on the industry. His role as Commissioner Gordon has become iconic within the Batman franchise, and his diverse roles on stage and screen have earned him critical praise. Hingle was recognized for his distinct presence and ability to convey authority, making him a respected figure among peers and fans."
+    }
+  ],
+  "aliases": [
+    "Martin Patterson Hingle"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "acted_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "worked_with",
+      "target": "b2267f4d-1f07-43b5-a89e-9efb012f9d48"
+    },
+    {
+      "type": "worked_for",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "worked_with",
+      "target": "d2e9f21d-ae29-4f4a-9b12-0e5f5d1b9e79"
+    }
+  ],
+  "properties": {
+    "born": 1924,
+    "died": 2009,
+    "nationality": "American",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1947-2009"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "classic-hollywood",
+    "new-hollywood",
+    "commissioner-gordon"
+  ]
+}

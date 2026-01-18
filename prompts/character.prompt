@@ -1,0 +1,51 @@
+Create a detailed entity for the character "[NAME]" from "[SOURCE]".
+
+Output valid JSON matching the entity schema in schemas/entity.schema.json.
+
+## Required Fields
+
+- **id**: Generate a new UUID
+- **type**: "character"
+- **name**: The character's most commonly used name
+
+## Content Sections
+
+Include these sections as appropriate:
+
+- **Background**: Origin, early life, how they came to be who they are
+- **Personality**: Key traits, motivations, flaws
+- **Story Role**: Their function in the narrative, character arc
+- **Relationships**: Key connections to other characters (narrative description)
+- **Abilities**: Skills, powers, expertise (if applicable)
+
+## Properties to Consider
+
+- species: human, alien, robot, etc.
+- occupation: job or role
+- born: birth year (in-universe, if known)
+- died: death year (if applicable)
+- portrayed_by: actor name (for film/TV)
+- Any other relevant in-universe attributes
+
+## Relationships
+
+Link to other entities using UUIDs:
+- appears_in: Media where this character appears
+- friends_with, rivals_with, related_to: Other characters
+- lives_in, works_at: Locations
+- member_of: Organizations
+- owns, uses: Items or vehicles
+
+## Tags
+
+Add relevant tags for filtering:
+- Role (protagonist, antagonist, supporting)
+- Archetype (hero, mentor, villain, comic-relief)
+- Key traits (time-traveler, scientist, teenager)
+
+## Guidelines
+
+- Keep descriptions based on what is shown or stated in the source material
+- Use markdown formatting in body text (bold, lists, etc.)
+- Link to existing entities by UUID when possible
+- Focus on in-universe information only

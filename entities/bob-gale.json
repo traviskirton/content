@@ -1,0 +1,63 @@
+{
+  "id": "9058322f-b99a-4b8f-9356-3e165b8dbb4e",
+  "type": "person",
+  "name": "Bob Gale",
+  "description": "American screenwriter, producer, and director best known for co-writing 'Back to the Future.'",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Bob Gale was born on May 25, 1951, in University City, Missouri, USA. He studied Cinema at the University of Southern California's School of Cinematic Arts where he met frequent collaborator Robert Zemeckis."
+    },
+    {
+      "title": "Career",
+      "body": "Bob Gale is best known for co-writing the science fiction comedy film 'Back to the Future' (1985) with Robert Zemeckis. The film was a major critical and commercial success, leading to two sequels. Gale was deeply involved in all of these projects as well as in developing the franchise. He has worked in various capacities, including writer and producer, across several film and television projects throughout his career."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Gale's most notable collaboration has been with director Robert Zemeckis. Together, they created iconic works such as the 'Back to the Future' series. Additionally, he worked alongside Steven Spielberg, who produced 'Back to the Future' through Amblin Entertainment."
+    },
+    {
+      "title": "Legacy",
+      "body": "Bob Gale has made a significant impact on the science fiction and comedy genres, particularly with 'Back to the Future,' which has become a cultural touchstone. His contributions have earned numerous awards and recognitions, and his work continues to influence filmmakers and pop culture."
+    }
+  ],
+  "aliases": [
+    "Michael Robert Gale"
+  ],
+  "relationships": [
+    {
+      "type": "wrote",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "worked_with",
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+    },
+    {
+      "type": "worked_with",
+      "target": "ffbc5d71-dd5e-4895-9898-73d7e5e0b0d9"
+    },
+    {
+      "type": "worked_for",
+      "target": "217d1e4e-b4f3-4c6f-a1e7-ed74e29c8e67"
+    }
+  ],
+  "properties": {
+    "born": "1951",
+    "nationality": "American",
+    "occupation": [
+      "writer",
+      "producer",
+      "director"
+    ],
+    "active_years": "1976-present"
+  },
+  "tags": [
+    "writer",
+    "producer",
+    "director",
+    "sci-fi",
+    "comedy",
+    "modern"
+  ]
+}

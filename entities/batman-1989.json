@@ -1,0 +1,115 @@
+{
+  "id": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2",
+  "type": "movie",
+  "name": "Batman",
+  "description": "The 1989 film adaptation of the DC Comics character Batman.",
+  "content": [
+    {
+      "title": "Synopsis",
+      "body": "Gotham City is under threat from the sinister plans of the Joker, a criminal mastermind who intends to take control. Bruce Wayne, as Batman, must tackle this new threat and protect the citizens of Gotham."
+    },
+    {
+      "title": "Production",
+      "body": "Directed by Tim Burton, 'Batman' (1989) marked a significant turning point in the revitalization of the superhero film genre. The script was adapted by Sam Hamm and Warren Skaaren, heavily drawing from the dark and gothic themes of the comics. With its atmospheric design and mood, the film featured Danny Elfman's iconic score and revolutionized how superhero films were approached in Hollywood."
+    },
+    {
+      "title": "Reception",
+      "body": "'Batman' was both a critical and commercial success upon its release, grossing over $411 million worldwide against a $35 million budget. It was praised for its stylish production and was a fan favorite due to Jack Nicholson's portrayal of the Joker. The film won an Academy Award for Best Art Direction."
+    },
+    {
+      "title": "Legacy",
+      "body": "The success of 'Batman' sparked a series of sequels and laid the groundwork for modern superhero films, emphasizing darker tones and complex character development. Its influence is widely noted in subsequent adaptations of Batman in media, becoming a cornerstone of the superhero genre."
+    }
+  ],
+  "aliases": [
+    "Batman 1989",
+    "Tim Burton's Batman"
+  ],
+  "relationships": [
+    {
+      "type": "directed_by",
+      "target": "d2e9f21d-ae29-4f4a-9b12-0e5f5d1b9e79"
+    },
+    {
+      "type": "written_by",
+      "target": "ad3f54b7-3082-4f76-b5fe-9f1d8e3b8a6c"
+    },
+    {
+      "type": "produced_by",
+      "target": "d2e9f21d-ae29-4f4a-9b12-0e5f5d1b9e79"
+    },
+    {
+      "type": "composed_by",
+      "target": "89d7e8f5-4e96-4e69-bfd2-8c1e8a9f7c41"
+    },
+    {
+      "type": "stars",
+      "target": "b2267f4d-1f07-43b5-a89e-9efb012f9d48"
+    },
+    {
+      "type": "stars",
+      "target": "4ac67e49-8f92-4993-be4d-f6c0329ac472"
+    },
+    {
+      "type": "stars",
+      "target": "d73b2e74-6b3b-4dda-9c02-5a5340a03738"
+    },
+    {
+      "type": "stars",
+      "target": "123e4567-e89b-12d3-a456-426614174000"
+    },
+    {
+      "type": "features_character",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    },
+    {
+      "type": "features_character",
+      "target": "82d8cba6-2bde-47da-bf1e-1897f5b8b9fa"
+    },
+    {
+      "type": "features_character",
+      "target": "3ad870f7-eae2-4d1f-9518-3ad34e54301f"
+    },
+    {
+      "type": "features_location",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "features_location",
+      "target": "94768b45-89e7-4a8f-99a4-4d038b1357be"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "d65b3a1e-5b3b-4a72-907d-fae2b0ef4f90"
+    },
+    {
+      "type": "distributed_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "part_of",
+      "target": "74e2f215-232d-475e-bfa4-15f73e237d89"
+    }
+  ],
+  "properties": {
+    "year": 1989,
+    "runtime": 126,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "budget": 35000000,
+    "box_office": 411348924,
+    "rating": "PG-13"
+  },
+  "tags": [
+    "action",
+    "adventure",
+    "fantasy",
+    "1980s",
+    "superhero",
+    "gothic",
+    "crime"
+  ]
+}

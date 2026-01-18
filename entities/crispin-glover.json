@@ -1,0 +1,69 @@
+{
+  "id": "cd795c27-61c9-45b9-a8b0-2ed1f533a9fc",
+  "type": "person",
+  "name": "Crispin Glover",
+  "description": "Crispin Glover is a distinctive American actor known for his eccentric roles in film and television.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Crispin Glover was born on April 20, 1964, in New York City, United States. He began acting at a young age, influenced by his actor father, Bruce Glover. Growing up in Los Angeles, he was exposed to the entertainment industry early on and became drawn to acting, eventually transitioning into more prominent roles."
+    },
+    {
+      "title": "Career",
+      "body": "Crispin Glover gained mainstream recognition for his role as George McFly in _Back to the Future_ (1985). Known for his unconventional screen presence and choice of quirky or eccentric characters, Glover has been a standout in films such as _River's Edge_ (1986), _Wild at Heart_ (1990), and _Willard_ (2003). Besides acting, Glover is a director, writer, and musician, working on independent films like _What Is It?_ (2005) and _It Is Fine! Everything Is Fine._ (2007)."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Glover has worked with several renowned filmmakers, including Robert Zemeckis in _Back to the Future_ and David Lynch in _Wild at Heart_. His collaborations often bring a distinctive element to the projects, highlighting his unique artistic style."
+    },
+    {
+      "title": "Legacy",
+      "body": "Crispin Glover has carved out a niche in Hollywood as a compelling character actor with a penchant for the bizarre and avant-garde. His impact on the industry is evident in the way he consistently challenges conventional acting norms and contributes to unique and innovative filmmaking."
+    }
+  ],
+  "aliases": [
+    "Crispin Hellion Glover"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "worked_with",
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+    },
+    {
+      "type": "worked_with",
+      "target": "fa1b4c26-3f75-4a88-8e6d-351c8c7e8df8"
+    },
+    {
+      "type": "worked_with",
+      "target": "da3f7c8b-9bb0-4d3b-9d6c-78f984762abc"
+    },
+    {
+      "type": "acted_in",
+      "target": "f7e6d5c4-b3a2-1098-7654-321fedcba987"
+    }
+  ],
+  "properties": {
+    "born": 1964,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active_years": "1977-present"
+  },
+  "tags": [
+    "actor",
+    "director",
+    "writer",
+    "producer",
+    "drama",
+    "comedy",
+    "modern"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "f2a5ad60-36f4-4f16-ba23-eb8a6cd78a7b",
+  "type": "organization",
+  "name": "Renewal Fund",
+  "description": "A charitable organization intended to revitalize Gotham City, later revealed to be a front for corrupt activities.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The **Renewal Fund** is a fictional organization in *The Batman (2022)*. Initially portrayed as a charitable initiative established to revitalize Gotham City, it is eventually used as a vehicle for corruption by its administrators."
+    },
+    {
+      "title": "History",
+      "body": "The fund was established by **Thomas Wayne** with the intent of channeling resources into Gotham's most impoverished areas. However, after the death of Thomas and Martha Wayne, the fund was taken over by corrupt officials and criminals who used it to enrich themselves."
+    },
+    {
+      "title": "Structure",
+      "body": "Lacking formal publicly known leadership after the death of its founder, the fund's resources were controlled by various influential figures in Gotham, including **Carmine Falcone**."
+    },
+    {
+      "title": "Operations",
+      "body": "Ostensibly a philanthropic effort, the Renewal Fund was supposed to invest in public infrastructure, social services, and urban development. In reality, it was a slush fund for the criminal underbelly of Gotham, financing activities that include bribery, drug trade, and other illicit ventures."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In *The Batman (2022)*, the Renewal Fund is a central plot element. It is revealed that the corruption behind the fund is one of the reasons behind the systemic decay of Gotham. The revelation of its misuse is a turning point in Bruce Wayne's understanding of his father's legacy and his own role as Batman."
+    }
+  ],
+  "aliases": [
+    "Gotham Renewal Fund"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "led_by",
+      "target": "ae5189a7-563b-4162-b1ad-7fbbf6d7b3c9"
+    },
+    {
+      "type": "headquartered_in",
+      "target": "b5d2c7e4-9f2b-4a0f-bc9f-7f0e8b2511d7"
+    }
+  ],
+  "properties": {
+    "founded": "2011",
+    "founder": "Thomas Wayne",
+    "type": "philanthropic organization",
+    "fictional": true
+  },
+  "tags": [
+    "organization",
+    "secret-society",
+    "villainous",
+    "superhero"
+  ]
+}

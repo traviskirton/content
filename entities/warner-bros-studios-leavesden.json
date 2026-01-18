@@ -1,0 +1,49 @@
+{
+  "id": "a7b9806d-4c68-4a0f-9671-ead5f36b3b3f",
+  "type": "location",
+  "name": "Warner Bros. Studios Leavesden",
+  "description": "A major film studio complex in Hertfordshire, England, known for its state-of-the-art facilities and major film productions.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Warner Bros. Studios Leavesden** is a renowned film studio complex located in Leavesden, Hertfordshire, England. Originally an aircraft factory during World War II, it was converted into a film studio in the 1990s and purchased by Warner Bros. in 2010. It is one of the few places in the UK where large scale films can be made, offering comprehensive production services to the film and television industries."
+    },
+    {
+      "title": "Film History",
+      "body": "The studio is well-known for hosting the production of major film franchises including **Harry Potter**, parts of the **Batman** series directed by Christopher Nolan, and the **Fantastic Beasts** series. Scenes inside the Hogwarts School were filmed here, along with many other iconic sets. It has been pivotal in the production of blockbuster films due to its cutting-edge facilities and expansive stages."
+    },
+    {
+      "title": "Visiting",
+      "body": "Warner Bros. Studios Leavesden is open to the public through the Warner Bros. Studio Tour London - The Making of Harry Potter. Visitors can tour authentic sets, observe costumes and props, and discover behind-the-scenes secrets of the films. Tickets must be purchased in advance through their official website."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "5de86068-a215-4f6d-a874-3d9ddb2b83b7"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "studio",
+    "address": "Warner Drive, Watford, Hertfordshire, WD25 7LS, United Kingdom",
+    "city": "Leavesden",
+    "state": "Hertfordshire",
+    "country": "United Kingdom",
+    "coordinates": "51.6906, -0.4175"
+  },
+  "tags": [
+    "studio",
+    "active",
+    "tours-available"
+  ]
+}

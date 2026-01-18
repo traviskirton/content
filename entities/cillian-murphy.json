@@ -1,0 +1,63 @@
+{
+  "id": "15f5a123-d9e8-4397-b782-67814dc0b9b6",
+  "type": "person",
+  "name": "Cillian Murphy",
+  "description": "Irish actor known for his roles in 'Peaky Blinders' and 'Inception.'",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Cillian Murphy was born in 1976 in Douglas, County Cork, Ireland. Initially inclined towards music, Murphy turned down a record deal to focus on acting, and began his career in theatre in the late 1990s."
+    },
+    {
+      "title": "Career",
+      "body": "Murphy's breakout role came in 2002 with the film *28 Days Later*, where he played the lead role of Jim. He gained further recognition as Dr. Jonathan Crane/Scarecrow in Christopher Nolan's *The Dark Knight Trilogy*. His collaboration with Nolan continued in *Inception* (2010) and *Dunkirk* (2017). Murphy is also highly acclaimed for his role as Thomas Shelby in the BBC series *Peaky Blinders*."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Murphy frequently collaborates with director Christopher Nolan, appearing in several of his films including *Batman Begins*, *The Dark Knight*, *The Dark Knight Rises*, *Inception*, and *Dunkirk*. He has also worked with actors like Christian Bale, Tom Hardy, and Michael Caine, often within Nolan's projects."
+    },
+    {
+      "title": "Legacy",
+      "body": "Cillian Murphy is celebrated for his versatility and intensity as an actor, contributing significantly to both film and television. He has received numerous awards and nominations for his performances, especially noted for his impactful portrayal in *Peaky Blinders*."
+    }
+  ],
+  "aliases": [
+    "Cilian Murphy"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    },
+    {
+      "type": "acted_in",
+      "target": "f18ac8fd-6b74-4e9d-9abc-dbd5c4747e5b"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "4cf6d8b9-71f4-4eff-9c9e-bb3b3f7b2e8e"
+    },
+    {
+      "type": "worked_with",
+      "target": "8e1f45e8-42ac-4c0b-977f-50f479d573b3"
+    }
+  ],
+  "properties": {
+    "born": 1976,
+    "nationality": "Irish",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1996-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "thriller",
+    "modern"
+  ]
+}

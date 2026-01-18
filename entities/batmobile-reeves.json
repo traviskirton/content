@@ -1,0 +1,67 @@
+{
+  "id": "c8f3d665-6441-4057-af80-b6d8c09f9f8a",
+  "type": "vehicle",
+  "name": "Batmobile (Reeves)",
+  "description": "A customized muscle car used by Batman in The Batman (2022).",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Batmobile, as featured in *The Batman* (2022), serves as the personal vehicle of Batman. It is a robust, heavily modified car that plays a critical role in Batman's crime-fighting activities within Gotham City. Unlike previous versions, this iteration emphasizes a more grounded and gritty aesthetic, consistent with the film's tone."
+    },
+    {
+      "title": "Design",
+      "body": "The Batmobile is designed as a muscle car with a distinctive rugged and powerful appearance. It features a mid-engine setup with exposed rear mechanics showcasing its power and intricate design. The vehicle is equipped with high-performance tires, additional armor plating, and a black matte finish, reinforcing its intimidating presence."
+    },
+    {
+      "title": "Capabilities",
+      "body": "Equipped with a supercharged V8 engine, the Batmobile delivers exceptional speed and strength. It is built to handle high-speed chases and possesses heightened durability, enabling it to withstand severe impact. The vehicle's technological enhancements assist Batman in navigation and combat scenarios."
+    },
+    {
+      "title": "History",
+      "body": "In this incarnation, the Batmobile is depicted as a personal project of Bruce Wayne. Drawing inspiration from his early days as Batman, Bruce constructed the vehicle in his garage, reflecting his raw and unrefined approach to vigilante justice during the early years."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Batmobile is prominently featured in a thrilling chase scene with the Penguin, showcasing its capabilities in a high-octane pursuit. This scene underscores Batman's relentless pursuit of justice and his willingness to engage in high-risk situations for the greater good."
+    }
+  ],
+  "aliases": [
+    "The Batman's car",
+    "Reeves' Batmobile"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "owned_by",
+      "target": "b87b3c9d-4e25-41d3-b635-3ab2c66a63b4"
+    },
+    {
+      "type": "created_by",
+      "target": "b87b3c9d-4e25-41d3-b635-3ab2c66a63b4"
+    },
+    {
+      "type": "located_at",
+      "target": "2a9f7e06-8d8b-40c4-a8b5-5a16f77b35fd"
+    }
+  ],
+  "properties": {
+    "vehicle_type": "car",
+    "manufacturer": "Bruce Wayne",
+    "model": "Custom Muscle Car",
+    "year": "2022",
+    "fictional": true
+  },
+  "tags": [
+    "vehicle",
+    "car",
+    "action",
+    "superhero",
+    "Gotham",
+    "custom car",
+    "muscle car",
+    "crime-fighting"
+  ]
+}

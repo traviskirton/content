@@ -1,0 +1,56 @@
+{
+  "id": "4a15ed35-d579-4b34-9dfa-e3d96de5d31b",
+  "type": "character",
+  "name": "Sal Maroni",
+  "description": "A powerful mob boss in Gotham City, rivaling Carmine Falcone's criminal empire.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Sal Maroni is a notorious mob boss operating in Gotham City. Following the decline of Carmine Falcone's criminal empire, Maroni seeks to establish himself as the dominant force in the city's underworld. He is known for his involvement in illegal activities such as drug trafficking, extortion, and money laundering."
+    },
+    {
+      "title": "Personality",
+      "body": "Sal Maroni is ruthless and ambitious with a desire for power and control. He is pragmatic, willing to form temporary alliances to further his interests, and he values loyalty among his henchmen. Despite his criminal endeavors, Maroni maintains a facade of legitimacy and sophistication in public."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Dark Knight,' Sal Maroni plays a significant role as one of the primary antagonists. He represents the organized crime element in Gotham and challenges the efforts of Batman and James Gordon to restore order in the city. His criminal activities and conflicts with other characters highlight the pervasive corruption and challenges faced by the protagonists."
+    },
+    {
+      "title": "Relationships",
+      "body": "Sal Maroni is in direct conflict with Batman (Bruce Wayne) and allies like James Gordon. He takes over as the head of organized crime after Falcone's decline, making him a key target for Gotham's vigilante justice. Maroni also forms a tenuous alliance with The Joker to achieve his goals, but their cooperation is fraught with tension."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "rivals_with",
+      "target": "fe4f2182-4056-4713-8491-8d53ad5c434b"
+    },
+    {
+      "type": "rivals_with",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    },
+    {
+      "type": "member_of",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "f9b7c8a2-5693-4b4a-b4d5-a307c6f6b8d4"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "mob boss"
+  },
+  "tags": [
+    "antagonist",
+    "villain",
+    "crime-lord"
+  ]
+}

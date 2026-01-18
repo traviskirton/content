@@ -1,0 +1,52 @@
+{
+  "id": "168efb74-2b3c-4ef6-8c5b-de68f3a54c1b",
+  "type": "location",
+  "name": "Iceberg Lounge",
+  "description": "A notorious nightclub owned by Oswald Cobblepot, also known as The Penguin, serving as a hub for Gotham's underworld activities.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Iceberg Lounge was established by Oswald Cobblepot, better known as The Penguin. It quickly became a famous nightspot for both Gotham's elite and criminal elements. Over the years, it has served as Penguin's base of operations, providing him a legitimate front for his various illegal activities."
+    },
+    {
+      "title": "Geography",
+      "body": "Located in the heart of Gotham City, the Iceberg Lounge occupies a prominent space that is easily accessible to both the city's affluent socialites and its criminal underground. Its high-rise structure stands out with its distinct icy decor and iceberg-shaped bar."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The lounge is renowned for its extravagant and theatrical interiors, featuring icy decorations, a massive aquarium showcasing a variety of exotic marine life, and private VIP areas for discreet meetings. The centerpiece is the large iceberg-shaped bar, known for serving premium drinks."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'The Batman (2022)', the Iceberg Lounge serves as a pivotal setting where multiple key interactions occur. It becomes a focal point of Batman's investigation into the criminal activities plaguing Gotham, leading to confrontations that drive the narrative forward."
+    }
+  ],
+  "aliases": [
+    "The Iceberg Lounge"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "located_in",
+      "target": "b5d2c7e4-9f2b-4a0f-bc9f-7f0e8b2511d7"
+    },
+    {
+      "type": "contains",
+      "target": "f0c21cd1-6a3b-432a-bf85-225c1effbc09"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "nightclub",
+    "Gotham City",
+    "crime",
+    "underworld",
+    "2022"
+  ]
+}

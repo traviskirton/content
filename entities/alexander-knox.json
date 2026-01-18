@@ -1,0 +1,49 @@
+{
+  "id": "e63fa4c9-b988-4f52-ba43-6c4de334f470",
+  "type": "character",
+  "name": "Alexander Knox",
+  "description": "Alexander Knox is a journalist in Gotham City who is determined to uncover the truth about Batman.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Alexander Knox is a dedicated journalist working for the Gotham City newspaper. He is known for his obsession with uncovering the truth about the mysterious vigilante known as Batman. Despite being ridiculed by his peers, Knox persists in his investigative efforts."
+    },
+    {
+      "title": "Personality",
+      "body": "Knox is curious, persistent, and sometimes a little overzealous in his pursuit of a story. Although often sarcastic and somewhat cynical, he possesses a genuine desire to uncover the truth and report on it. His determination often puts him at odds with both his skeptical colleagues and the criminal underworld of Gotham."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Batman (1989),' Knox serves as both a comedic and plot-driving character. He provides levity through his interactions with other characters while pushing the narrative forward by continuously seeking evidence of Batman's existence. Knox's character ultimately supports the protagonist, Bruce Wayne, by helping to unveil some of the corruption within Gotham City."
+    },
+    {
+      "title": "Relationships",
+      "body": "Knox has a professional relationship with fellow journalist Vicki Vale, who shares his interest in Batman and often aids him in his investigations. He is also antagonistic towards many of Gotham's corrupt officials, as well as the city's criminal element, which includes characters like The Joker."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "works_at",
+      "target": "bdc84a78-a3b8-4a62-b612-09ba4601c63c"
+    },
+    {
+      "type": "friends_with",
+      "target": "fc8d2f8a-4236-4e8b-b19f-12c312fa4ebf"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "journalist",
+    "portrayed_by": "Robert Wuhl"
+  },
+  "tags": [
+    "supporting",
+    "comic-relief",
+    "journalist",
+    "investigator"
+  ]
+}

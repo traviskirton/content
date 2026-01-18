@@ -1,0 +1,64 @@
+{
+  "id": "5b7c8d1e-9f0a-403e-a7c3-6e8f4b5d0e1f",
+  "type": "location",
+  "name": "Courthouse Square (Universal Backlot)",
+  "description": "A famous Hollywood backlot used for numerous film and TV productions.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Courthouse Square, located within the Universal Studios Hollywood backlot, is a well-known outdoor set used in a variety of films and television productions. Its most iconic feature is the courthouse building, which has been depicted as various fictional locations in different time periods."
+    },
+    {
+      "title": "Film History",
+      "body": "Courthouse Square is famously known for its role as the Hill Valley town square in the *Back to the Future* film series. It served as the backdrop for notable scenes including Marty McFly's time-travel escapades. Beyond *Back to the Future*, the location has also been used in films such as *To Kill a Mockingbird* and TV series like *The Twilight Zone*."
+    },
+    {
+      "title": "Visiting",
+      "body": "While Courthouse Square is part of an active studio lot, it is accessible to the public through Universal Studios Hollywood's Studio Tour. Visitors can often see the square and other famous sets during guided tours."
+    }
+  ],
+  "aliases": [
+    "Hill Valley Town Square",
+    "Universal Studios Backlot"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "located_in",
+      "target": "4f39b6e0-1234-4c7a-b545-7c58d2f87acd"
+    },
+    {
+      "type": "doubled_for",
+      "target": "b3575b09-3182-4b21-9578-2d774c2dfb9d"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "studio",
+    "city": "Universal City",
+    "state": "California",
+    "country": "United States",
+    "coordinates": {
+      "lat": 34.1378,
+      "long": -118.3534
+    }
+  },
+  "tags": [
+    "studio",
+    "backlot",
+    "active",
+    "tours-available",
+    "film-history"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "4c6b6d52-7b63-4f29-b77b-3573bd66d892",
+  "type": "location",
+  "name": "Iceland",
+  "description": "A Nordic island country known for its stunning landscapes, frequently used as a filming location.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Iceland is a Nordic island country located in the North Atlantic Ocean. Known for its stunning natural landscapes, including glaciers, volcanoes, geysers, and hot springs, Iceland has become a popular filming location for many international productions."
+    },
+    {
+      "title": "Film History",
+      "body": "Iceland's dramatic landscapes have made it a favorite for filmmakers seeking exotic and visually striking settings. Notable productions include **'Game of Thrones'**, where locations such as Thingvellir National Park doubled for the land beyond the Wall. The film **'Interstellar'** used Iceland to depict icy and water-dominated planets. The country has also been featured in **'Prometheus'** and **'The Secret Life of Walter Mitty'**."
+    },
+    {
+      "title": "Visiting",
+      "body": "Iceland is highly accessible to tourists, with many film locations part of popular tourist routes such as the Golden Circle and South Coast tours. Visitors can explore the natural wonders where famous scenes were filmed, often with guided tours that offer insights into the filming process and the locations' cinematic significance."
+    }
+  ],
+  "aliases": [
+    "Island of Fire and Ice"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "9ea831c8-8d94-4312-9954-6159a1c7e065"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "8bde9c76-4d86-4d85-a945-82f7e7a4497c"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "country",
+    "country": "Iceland",
+    "coordinates": {
+      "lat": 64.9631,
+      "long": -19.0208
+    }
+  },
+  "tags": [
+    "country",
+    "active",
+    "public",
+    "tours-available"
+  ]
+}

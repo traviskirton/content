@@ -1,0 +1,48 @@
+{
+  "id": "7f4c330e-5379-4c84-a28b-86c34d5a4d51",
+  "type": "location",
+  "name": "New York City",
+  "description": "A major filming location known for its iconic architecture and central role in film history.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "New York City, one of the most iconic cities in the world, serves as a cultural, financial, and media hub. It is renowned for its skyscrapers, historic landmarks, and diverse urban landscapes."
+    },
+    {
+      "title": "Film History",
+      "body": "Countless films and TV shows have been set in New York City, making it one of the most filmed locations globally. **Notable productions** include:\n\n- **The Avengers (2012)**: The Battle of New York was a key scene filmed in various locations around the city.\n- **Taxi Driver (1976)**: Showcased the gritty streets of NYC in the 1970s.\n- **Home Alone 2: Lost in New York (1992)**: Featured landmarks like the Plaza Hotel and Central Park.\n- **Ghostbusters (1984)**: Filmed in iconic locations such as the New York Public Library and Columbia University.\n- **Men in Black (1997)**: Used the city's skyline and landmarks to great effect."
+    },
+    {
+      "title": "Visiting",
+      "body": "New York City is incredibly accessible to the public with numerous tours available to visit filming locations. Visitors can explore landmarks like Central Park, Times Square, and the Empire State Building. Many film tours offer insights into the movie magic of NYC."
+    }
+  ],
+  "aliases": [
+    "NYC",
+    "The Big Apple"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "address": null,
+    "city": "New York",
+    "state": "New York",
+    "country": "United States",
+    "coordinates": {
+      "lat": 40.712776,
+      "long": -74.005974
+    }
+  },
+  "tags": [
+    "city",
+    "active",
+    "public",
+    "tours-available"
+  ]
+}

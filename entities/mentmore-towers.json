@@ -1,0 +1,49 @@
+{
+  "id": "d9a66768-f7e5-413e-b669-9bebc9e09a53",
+  "type": "location",
+  "name": "Mentmore Towers",
+  "description": "Mentmore Towers is a historic English country house known for its use as a filming location.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Mentmore Towers** is a 19th-century English country house located in the village of Mentmore, Buckinghamshire, England. It was originally built between 1852 and 1854 for the Rothschild family. The architecture of the building is of the Jacobethan style, and it is renowned for its grandeur and historical significance."
+    },
+    {
+      "title": "Film History",
+      "body": "Mentmore Towers has served as a filming location for various film and television productions. Notably, it doubled as **Wayne Manor** in Christopher Nolan's *Batman Begins* (2005), providing the backdrop for scenes featuring Bruce Wayne's palatial home. The mansion's impressive facade and interiors lend themselves well to cinematic storytelling, making it a popular choice for directors."
+    },
+    {
+      "title": "Visiting",
+      "body": "Mentmore Towers is currently privately owned and is not generally open to the public. However, it occasionally opens for special events and private tours. Visitors interested in its architecture and history should check for any scheduled openings or events that might allow public access."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "doubled_for",
+      "target": "380e0a6b-1e6d-4f90-8069-0f73e2df8b61"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "historic house",
+    "address": "Mentmore, Buckinghamshire, England",
+    "city": "Mentmore",
+    "state": "Buckinghamshire",
+    "country": "United Kingdom",
+    "coordinates": {
+      "lat": 51.8738,
+      "long": -0.6851
+    }
+  },
+  "tags": [
+    "historic house",
+    "private",
+    "tours-available",
+    "filming location"
+  ]
+}

@@ -1,0 +1,49 @@
+Create a detailed entity for the item "[NAME]" from "[SOURCE]".
+
+Output valid JSON matching the entity schema in schemas/entity.schema.json.
+
+## Required Fields
+
+- **id**: Generate a new UUID
+- **type**: "item"
+- **name**: The item's name or common designation
+
+## Content Sections
+
+Include these sections as appropriate:
+
+- **Overview**: What the item is, its primary purpose
+- **Appearance**: Physical description, how it looks
+- **Function**: How it works, what it does
+- **History**: Origin, who created it, how it came to exist
+- **Story Significance**: Key scenes involving it, why it matters to the narrative
+
+## Properties to Consider
+
+- item_type: device, weapon, book, artifact, etc.
+- created_by: who made it (in-universe)
+- fictional: true/false
+- Any other relevant in-universe attributes
+
+## Relationships
+
+Link to other entities using UUIDs:
+- featured_in: Media where this item appears
+- owned_by, used_by: Characters
+- created_by: Character who invented/made it
+- located_at: Where it's kept or found
+- part_of: If it's a component of something larger
+
+## Tags
+
+Add relevant tags for filtering:
+- Item type (device, weapon, artifact, technology)
+- Genre associations (sci-fi, fantasy, macguffin)
+- Notable features (time-travel, powerful)
+
+## Guidelines
+
+- Keep descriptions based on what is shown or stated in the source material
+- Use markdown formatting in body text (bold, lists, etc.)
+- Link to existing entities by UUID when possible
+- Focus on in-universe information only

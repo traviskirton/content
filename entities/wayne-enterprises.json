@@ -1,0 +1,65 @@
+{
+  "id": "741acbc5-8a2f-4247-9585-267f61020389",
+  "type": "organization",
+  "name": "Wayne Enterprises",
+  "description": "A multinational corporation based in Gotham City, known for its vast business empire and technological innovations.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Wayne Enterprises** is a fictional multinational corporation appearing in the DC Comics universe. The company, owned by Bruce Wayne, serves as the economic backbone of Gotham City. It is involved in various industries, including technology, defense, and R&D, often contributing to society through philanthropy and cutting-edge innovations."
+    },
+    {
+      "title": "History",
+      "body": "Founded in the early 19th century, Wayne Enterprises started as a merchant house. Over the decades, it evolved into a financial and industrial powerhouse, largely due to the leadership of the Wayne family. Bruce Wayne inherited the company after the tragic death of his parents, Thomas and Martha Wayne."
+    },
+    {
+      "title": "Structure",
+      "body": "The company is structured with multiple departments, each focusing on different sectors such as Applied Sciences, Medical Research, and Defense. *Lucius Fox* often serves as the CEO or head of a significant division, providing guidance and management alongside Bruce Wayne, who remains as the owner and sometimes strategist behind many projects."
+    },
+    {
+      "title": "Operations",
+      "body": "Wayne Enterprises is heavily involved in technological advancements, with a particular focus on sustainable energy, medicine, and defense technology. The corporation also manages charities and foundations aimed at improving Gotham City’s infrastructure and social services."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In *Batman Begins*, Wayne Enterprises plays a crucial role in funding Batman's crime-fighting efforts. The company's resources provide Bruce Wayne with the technology and equipment necessary for his vigilante work, including the development of the *Batsuit* and the *Tumbler*. Key plot points involve corporate intrigue and threats to the company's stability, reflecting Gotham City's larger corruption issues."
+    }
+  ],
+  "aliases": [
+    "WayneCorp"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "led_by",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    },
+    {
+      "type": "led_by",
+      "target": "d03a2ebc-4fbd-4bc1-9bc3-c2659c9123b1"
+    },
+    {
+      "type": "headquartered_in",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "headquartered_in",
+      "target": "295a0b1a-ed45-4dff-a401-99b121032f26"
+    }
+  ],
+  "properties": {
+    "founded": "1801",
+    "founder": "Arthur Wayne",
+    "type": "corporation",
+    "headquarters": "Gotham City",
+    "fictional": true
+  },
+  "tags": [
+    "corporation",
+    "heroic",
+    "superhero"
+  ]
+}

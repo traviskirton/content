@@ -1,0 +1,50 @@
+{
+  "id": "048f308b-450f-4f86-9a04-6c411d1d746d",
+  "type": "location",
+  "name": "Hill Valley 1885",
+  "description": "The historical version of Hill Valley as seen in Back to the Future Part III, set in the Old West.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Hill Valley 1885 is set during the Old West era in the United States. The area is emerging and developing, with the presence of the railroad playing a significant role in connecting Hill Valley to other regions. The town features typical Western frontier characteristics, such as dirt roads, saloons, and a nascent local government."
+    },
+    {
+      "title": "Geography",
+      "body": "Hill Valley 1885 is located in Northern California, characterized by its frontier town layout with wide, unpaved streets and modest wooden structures. The geography is dominated by open plains and nearby hills that form the backdrop of the town's primary landscape."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Key landmarks in Hill Valley 1885 include the under-construction Hill Valley Courthouse, the Palace Saloon, and the train tracks, which are crucial to the plot of Back to the Future Part III. The Courthouse's clock is yet to be installed, symbolizing the early stages of the town's development."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Hill Valley 1885 serves as the primary setting for 'Back to the Future Part III,' where key events unfold as Marty McFly travels back in time to save Doc Brown. Significant scenes include the showdown with Buford 'Mad Dog' Tannen and the climatic train sequence that returns Marty to 1985."
+    }
+  ],
+  "aliases": [
+    "Hill Valley (Old West)",
+    "Hill Valley (1885)"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "city",
+    "founded": "1850s"
+  },
+  "tags": [
+    "city",
+    "western",
+    "sci-fi",
+    "1885",
+    "Old West"
+  ]
+}

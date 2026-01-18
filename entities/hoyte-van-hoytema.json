@@ -1,0 +1,58 @@
+{
+  "id": "d89a19c5-7b44-4ff8-bd6b-90b4f3bbf2a4",
+  "type": "person",
+  "name": "Hoyte van Hoytema",
+  "description": "Renowned Dutch-Swedish cinematographer known for his innovative work on major films.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Hoyte van Hoytema is a Dutch-Swedish cinematographer born in 1971 in Horgen, Switzerland. He studied at the National Film School in Łódź, Poland, where he began to develop his distinct style and approach to cinematography."
+    },
+    {
+      "title": "Career",
+      "body": "Van Hoytema first gained attention in the international film scene with his work on the Swedish film _Let the Right One In (2008)_. He has since become known for his collaborations with some of the world's leading directors, bringing a meticulous and inventive approach to films like _Tinker Tailor Soldier Spy (2011)_, _Interstellar (2014)_, _Dunkirk (2017)_, and _Ad Astra (2019)_. He is celebrated for his use of natural light and preference for shooting on film, creating atmospheric visuals that enhance storytelling."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Hoyte van Hoytema is renowned for his frequent collaborations with director Christopher Nolan, having worked on the films _Interstellar_, _Dunkirk_, and _Tenet (2020)_. His work with director Spike Jonze on _Her (2013)_ also received critical acclaim."
+    },
+    {
+      "title": "Legacy",
+      "body": "Hoytema's contributions to cinematography have made a significant impact on the industry, earning him numerous awards and nominations. His mastery in blending technical expertise with artistic vision continues to influence contemporary filmmaking."
+    }
+  ],
+  "aliases": [
+    "Hoytema"
+  ],
+  "relationships": [
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_for",
+      "target": "5de86068-a215-4f6d-a874-3d9ddb2b83b7"
+    },
+    {
+      "type": "directed",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    }
+  ],
+  "properties": {
+    "born": 1971,
+    "nationality": [
+      "Dutch",
+      "Swedish"
+    ],
+    "occupation": [
+      "cinematographer"
+    ],
+    "active_years": "1996-present"
+  },
+  "tags": [
+    "cinematographer",
+    "modern",
+    "drama",
+    "sci-fi"
+  ]
+}

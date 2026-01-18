@@ -1,0 +1,50 @@
+{
+  "id": "1d2878e2-4b76-4bd7-bd8f-b22b74680e63",
+  "type": "location",
+  "name": "Gotham Square Garden",
+  "description": "A central location in Gotham City known for hosting major events, including political debates.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Gotham Square Garden is a large indoor arena located in the heart of Gotham City. It has been the site of major events, including sports, concerts, and political activities, enhancing its reputation as a significant venue in the city's sociocultural landscape."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated within the bustling metropolis of Gotham City, Gotham Square Garden is surrounded by the city's skyscrapers and lies at a central position accessible from various city areas, encapsulating the city's blend of urban culture and chaos."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The arena is known for its expansive seating capacity and state-of-the-art facilities. It has been designed to cater to large crowds, making it an ideal venue for high-profile events and gatherings."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'The Batman (2022),' Gotham Square Garden plays a pivotal role when it becomes the location for the climactic mayoral debate. The venue is a target for The Riddler's schemes, marking it as a crucial point in the movie's narrative and showcasing Batman's efforts to thwart the villain's plans."
+    }
+  ],
+  "aliases": [
+    "GSG",
+    "Gotham Arena"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "located_in",
+      "target": "b5d2c7e4-9f2b-4a0f-bc9f-7f0e8b2511d7"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "city",
+    "building",
+    "crime",
+    "action",
+    "2020s",
+    "fictional"
+  ]
+}

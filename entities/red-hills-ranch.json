@@ -1,0 +1,52 @@
+{
+  "id": "e1e3f6a9-809f-42d4-8738-5d0cfab9f351",
+  "type": "location",
+  "name": "Red Hills Ranch",
+  "description": "A picturesque ranch in California known for its use as a filming location.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Red Hills Ranch is a scenic ranch located in the verdant landscapes of California. Primarily a working ranch, it is known for its sprawling fields and picturesque setting, which have attracted numerous filmmakers over the years."
+    },
+    {
+      "title": "Film History",
+      "body": "The ranch gained fame as a filming location for various movies and TV shows. Noteworthy productions include key scenes in *Back to the Future Part III*, where it served as a backdrop for the Hill Valley 1885 sequences. Its diverse landscape makes it a versatile setting for period pieces and westerns."
+    },
+    {
+      "title": "Visiting",
+      "body": "Red Hills Ranch is currently a private property, not regularly open to the public. However, special tours may be organized during select times of the year, allowing visitors to explore the filming sites and enjoy the natural beauty of the ranch."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "ranch",
+    "city": "Unspecified",
+    "state": "California",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 36.7783,
+      "longitude": -119.4179
+    }
+  },
+  "tags": [
+    "ranch",
+    "active",
+    "tours-available",
+    "filming-location"
+  ]
+}

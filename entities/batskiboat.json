@@ -1,0 +1,58 @@
+{
+  "id": "2b6f3c50-41cf-4bd4-b5a4-981fbf250bdf",
+  "type": "vehicle",
+  "name": "Batskiboat",
+  "description": "A sleek, aquatic vehicle used by Batman in 'Batman Returns' to traverse Gotham's sewer system.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The **Batskiboat** is a specialized aquatic vehicle designed for Batman's use in **'Batman Returns'**. Its primary purpose is to navigate Gotham City's sewer system, allowing Batman to move stealthily and quickly between locations inaccessible by land or air."
+    },
+    {
+      "title": "Design",
+      "body": "The **Batskiboat** features a sleek and streamlined design reminiscent of a predator fish, with dark colors and bat-like wing motifs. Notable features include its narrow body that allows it to maneuver through tight spaces, and its low profile that helps in avoiding detection."
+    },
+    {
+      "title": "Capabilities",
+      "body": "The **Batskiboat** is equipped with powerful thrusters for high-speed movement through water. It also includes advanced sonar and navigation systems for tracking and avoiding obstacles in the sewer system. Additionally, it has retractable torpedo launchers for defensive and offensive operations."
+    },
+    {
+      "title": "History",
+      "body": "The **Batskiboat** was built by **Batman** (Bruce Wayne) as part of an expansion of his vehicular arsenal to address the specific challenges posed by the Penguin and his base of operations in the sewers of Gotham City."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In **'Batman Returns'**, the **Batskiboat** is used in a crucial sequence where Batman navigates the sewer system to locate and confront the Penguin. It plays a significant role in his strategy to prevent the Penguin's plan of chaos in Gotham, illustrating Batman's preparedness and ingenuity."
+    }
+  ],
+  "aliases": [
+    "Bat-Ski Boat",
+    "Bat Ski-Boat"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+    },
+    {
+      "type": "owned_by",
+      "target": "a5f4e3b2-0d7d-4fbb-bfaa-c2b0629ab6de"
+    },
+    {
+      "type": "located_at",
+      "target": "94768b45-89e7-4a8f-99a4-4d038b1357be"
+    }
+  ],
+  "properties": {
+    "vehicle_type": "aquatic",
+    "manufacturer": "Wayne Enterprises",
+    "fictional": true
+  },
+  "tags": [
+    "vehicle",
+    "action",
+    "aquatic",
+    "batman",
+    "naval"
+  ]
+}

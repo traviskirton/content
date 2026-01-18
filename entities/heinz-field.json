@@ -1,0 +1,48 @@
+{
+  "id": "f872408b-3f39-4aaa-8e8b-ee4e2a7a8592",
+  "type": "location",
+  "name": "Heinz Field",
+  "description": "A stadium in Pittsburgh, Pennsylvania, primarily used as the home field for the Pittsburgh Steelers.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Heinz Field** is a stadium located in Pittsburgh, Pennsylvania. It serves as the home field for the Pittsburgh Steelers of the National Football League (NFL) and the University of Pittsburgh Panthers. Opened in 2001, the venue has a seating capacity of over 68,000 and is known for its distinctive yellow seats and the "
+    }
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "located_in",
+      "target": "cf8a2c91-2d47-4f59-b041-59bcbc0fcb86"
+    },
+    {
+      "type": "located_in",
+      "target": "2f4b5c6d-7e8f-9a0b-1c2d-3e4f5g6h7i8j"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "stadium",
+    "address": "100 Art Rooney Ave, Pittsburgh, PA 15212, USA",
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 40.446863,
+      "longitude": -80.015792
+    }
+  },
+  "tags": [
+    "stadium",
+    "active",
+    "public",
+    "tours-available"
+  ]
+}

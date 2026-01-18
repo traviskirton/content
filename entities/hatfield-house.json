@@ -1,0 +1,56 @@
+{
+  "id": "976a4e98-6067-41f3-a51c-8b36b2d5df64",
+  "type": "location",
+  "name": "Hatfield House",
+  "description": "Historic English country house used frequently as a filming location.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Hatfield House is a renowned Jacobean-style country house located in Hertfordshire, England. It serves as a primary residence for the Cecil family and boasts extensive grounds and gardens. Built in 1611 by Robert Cecil, Hatfield House is notable for its architectural grandeur and historical significance."
+    },
+    {
+      "title": "Film History",
+      "body": "Hatfield House has been a popular filming location for numerous films and television shows. Notably, it has featured in movies such as **'Batman Begins'**, serving as a stand-in for Wayne Manor. The house's grand architecture and interiors make it a versatile choice for portraying opulent settings in various period and contemporary productions."
+    },
+    {
+      "title": "Visiting",
+      "body": "Hatfield House is open to the public for tours during the summer months. Visitors can explore the house, gardens, and the surrounding park. The location frequently hosts events, including outdoor concerts and vintage car shows."
+    }
+  ],
+  "aliases": [
+    "Hatfield House, Hertfordshire"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "doubled_for",
+      "target": "380e0a6b-1e6d-4f90-8069-0f73e2df8b61"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "historic house",
+    "address": "Hatfield Park, Hatfield, Hertfordshire AL9 5NQ, United Kingdom",
+    "city": "Hatfield",
+    "state": "Hertfordshire",
+    "country": "United Kingdom",
+    "coordinates": {
+      "latitude": 51.7646,
+      "longitude": -0.2107
+    }
+  },
+  "tags": [
+    "historic",
+    "preserved",
+    "tours-available",
+    "filming-location",
+    "public-access"
+  ]
+}

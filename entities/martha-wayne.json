@@ -1,0 +1,49 @@
+{
+  "id": "b128e18b-0a9c-44bd-9a4e-25beafaf1b94",
+  "type": "character",
+  "name": "Martha Wayne",
+  "description": "Martha Wayne is a key figure in the Batman universe, known for her tragic murder which motivates Bruce Wayne to become Batman.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "**Martha Wayne** was born into the affluent Kane family, one of Gotham City's most prestigious and wealthiest families. She became a renowned socialite and philanthropist, known for her charitable work in Gotham's underprivileged areas. Martha married Thomas Wayne, head of the Wayne Enterprises, and together they had a son, Bruce Wayne."
+    },
+    {
+      "title": "Story Role",
+      "body": "In *Batman Begins*, Martha Wayne's tragic death alongside her husband Thomas in a mugging gone wrong becomes a pivotal moment in the narrative. Her murder is the catalyst for Bruce Wayne's transformation into Batman, serving as the emotional drive for his quest against crime in Gotham City."
+    },
+    {
+      "title": "Relationships",
+      "body": "Martha Wayne was married to **Thomas Wayne** (UUID: d2d9f803-43f7-46d1-97db-b23e5b62ad84) and was the mother of **Bruce Wayne** (UUID: d1637915-9c46-4f38-af8b-6932a49e3746). Her relationship with her son, while loving and nurturing, is tragically cut short."
+    }
+  ],
+  "aliases": [
+    "Martha Kane"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "related_to",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    },
+    {
+      "type": "related_to",
+      "target": "d2d9f803-43f7-46d1-97db-b23e5b62ad84"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "philanthropist",
+    "born": "1950",
+    "died": "1981",
+    "portrayed_by": "Sara Stewart"
+  },
+  "tags": [
+    "supporting",
+    "tragic",
+    "catalyst"
+  ]
+}

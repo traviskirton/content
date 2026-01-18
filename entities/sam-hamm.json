@@ -1,0 +1,55 @@
+{
+  "id": "ad3f54b7-3082-4f76-b5fe-9f1d8e3b8a6c",
+  "type": "person",
+  "name": "Sam Hamm",
+  "description": "Screenwriter known for his work on major film franchises.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Sam Hamm is an American screenwriter born in 1955. He rose to prominence in the late 1980s and early 1990s, particularly for his contributions to the film industry."
+    },
+    {
+      "title": "Career",
+      "body": "Sam Hamm is best known for writing the screenplays for **Batman** (1989) and its sequel **Batman Returns** (1992). His work is characterized by a strong foundation in the comic book source material, and he played a significant role in the darker, more serious tone that came to define superhero films in the late 20th century. Hamm has also been involved in various TV and film projects that often embrace speculative fiction and fantastical elements."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "- **Tim Burton**: Worked together on the 1989 Batman film, which became a defining feature of both their careers."
+    },
+    {
+      "title": "Legacy",
+      "body": "Hamm's influence on the superhero film genre is notable; he helped pave the way for more serious and sophisticated narratives in comic book adaptations. His scripts for Batman provided a template for future adaptations."
+    }
+  ],
+  "aliases": [
+    "Samuel Hamm"
+  ],
+  "relationships": [
+    {
+      "type": "wrote",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "worked_with",
+      "target": "d2e9f21d-ae29-4f4a-9b12-0e5f5d1b9e79"
+    }
+  ],
+  "properties": {
+    "born": 1955,
+    "nationality": "American",
+    "occupation": [
+      "screenwriter",
+      "comic book writer"
+    ],
+    "active_years": "1980s-present"
+  },
+  "tags": [
+    "writer",
+    "screenwriter",
+    "comic book",
+    "superhero",
+    "1980s",
+    "1990s",
+    "modern"
+  ]
+}

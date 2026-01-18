@@ -1,0 +1,48 @@
+{
+  "id": "b55a3b0d-8a47-4699-a5ba-f5dce359d5ec",
+  "type": "location",
+  "name": "Orphanage",
+  "description": "A decrepit and abandoned building in Gotham City, pivotal in uncovering hidden truths about key characters.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Orphanage was once a functional facility for orphans in Gotham City, supported by Bruce Wayne's parents. Over the years, neglect and lack of funding led to its closure and eventual dilapidation. It is haunted by its past and the memories of those who resided there, particularly affecting Bruce Wayne and Edward Nashton (Riddler)."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated in the crime-ridden areas of Gotham City, the Orphanage stands as a decaying testament to the city's neglect of its vulnerable. It is surrounded by overgrown vegetation, broken fences, and graffiti-covered walls."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The Orphanage is characterized by its eerie, crumbling architecture. Inside, remnants of its past life can be seen, including dusty beds, abandoned toys, and crumbling walls, all contributing to its grim ambiance."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In \"The Batman\" (2022), the Orphanage is integral to uncovering the connection between Edward Nashton and Bruce Wayne's past. The location serves as a key part in the Riddler's plan, symbolizing neglect and the hidden darkness within Gotham's institutions."
+    }
+  ],
+  "aliases": [
+    "The Old Orphanage",
+    "Gotham Orphanage"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "located_in",
+      "target": "b5d2c7e4-9f2b-4a0f-bc9f-7f0e8b2511d7"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "Gotham City",
+    "drama",
+    "mystery"
+  ]
+}

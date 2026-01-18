@@ -1,0 +1,61 @@
+{
+  "id": "b9e2f930-6b50-4f27-9ff9-f0d4e827f5d1",
+  "type": "character",
+  "name": "Griff Tannen",
+  "description": "The aggressive and reckless grandson of Biff Tannen in 2015.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Griff Tannen is the grandson of Biff Tannen, born into the Tannen family lineage known for its troublemaking and bullying nature. Griff resides in Hill Valley in the year 2015, where he maintains the family's tradition of being antagonistic figures."
+    },
+    {
+      "title": "Personality",
+      "body": "Griff exhibits many of the same traits as his grandfather, Biff. He is aggressive, intimidating, and not particularly bright. Known for his short temper, Griff often resolves conflicts through bullying or violence. His reckless demeanor is bolstered by advanced technology available in 2015, which he often uses to terrorize others."
+    },
+    {
+      "title": "Story Role",
+      "body": "In \"Back to the Future Part II,\" Griff serves as an antagonist, creating obstacles for Marty McFly in the 2015 timeline. His presence highlights the continued struggles the McFly family faces with the Tannens. Ultimately, Griff's actions inadvertently lead to his own downfall, serving as a foil to the protagonist, Marty."
+    },
+    {
+      "title": "Relationships",
+      "body": "Griff is the grandson of **Biff Tannen** (uuid: b3fbd1f3-8215-4a6a-9417-5f4c1d308eef). He encounters **Marty McFly** (uuid: a1b2c3d4-e5f6-7890-abcd-ef1234567890) during Marty's adventure in the future. Griff's relationship with his gang members is hierarchical, as he leads a group of similarly aggressive youths."
+    },
+    {
+      "title": "Abilities",
+      "body": "Griff is proficient in using 2015 technology, including his hoverboard, which he employs for transportation and intimidation. Combining strength with technological prowess, he poses a significant threat within Hill Valley."
+    }
+  ],
+  "aliases": [
+    "Griff"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "related_to",
+      "target": "b3fbd1f3-8215-4a6a-9417-5f4c1d308eef"
+    },
+    {
+      "type": "rivals_with",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "lives_in",
+      "target": "f9b4c1d8-3479-4e60-b9d2-a3c4f778b8bf"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "gang leader",
+    "born": "unknown",
+    "portrayed_by": "Thomas F. Wilson"
+  },
+  "tags": [
+    "antagonist",
+    "villain",
+    "gang leader",
+    "bully"
+  ]
+}

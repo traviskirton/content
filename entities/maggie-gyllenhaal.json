@@ -1,0 +1,60 @@
+{
+  "id": "cf3b1424-74f9-48cd-9cb2-424fbfd16338",
+  "type": "person",
+  "name": "Maggie Gyllenhaal",
+  "description": "American actress and filmmaker known for her nuanced performances in independent films and mainstream hits.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Born in 1977, Maggie Gyllenhaal is an American actress and filmmaker. She hails from a family deeply rooted in the film industry, with her father, Stephen Gyllenhaal, being a director and her mother, Naomi Foner, a screenwriter. Maggie began her acting career with minor roles in her father's films, marking her professional debut in 'Waterland' (1992). She later attended Columbia University, where she studied literature, which enhanced her understanding and portrayal of complex characters."
+    },
+    {
+      "title": "Career",
+      "body": "Gyllenhaal's breakthrough role came with the critically acclaimed film 'Secretary' (2002), where her performance earned her a Golden Globe nomination. She is known for choosing roles in independent films with strong character arcs, such as 'Sherrybaby' (2006) and 'Crazy Heart' (2009), the latter securing her an Academy Award nomination. Maggie has also successfully transitioned to mainstream cinema with roles in 'The Dark Knight' (2008), where she played Rachel Dawes. Her directing debut, 'The Lost Daughter' (2021), received widespread praise, showcasing her versatility within the industry."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Gyllenhaal has worked alongside notable directors like Christopher Nolan in 'The Dark Knight' and acted opposite stars such as Christian Bale and Aaron Eckhart in the same film. She also collaborated with Jeff Bridges in 'Crazy Heart', which significantly contributed to her critical success."
+    },
+    {
+      "title": "Legacy",
+      "body": "Maggie Gyllenhaal is celebrated for her courage in choosing unconventional and challenging roles, often portraying complex women with depth and sensitivity. Her work has left a significant imprint on both independent and mainstream cinema, earning her numerous awards and nominations, including an Academy Award nomination and a Golden Globe win for Best Actress in a Miniseries or Television Film for 'The Honourable Woman' (2014)."
+    }
+  ],
+  "properties": {
+    "born": "1977",
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "director",
+      "producer"
+    ],
+    "active_years": "1992-present"
+  },
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "worked_with",
+      "target": "4cf6d8b9-71f4-4eff-9c9e-bb3b3f7b2e8e"
+    },
+    {
+      "type": "worked_with",
+      "target": "b418b4d6-d755-4f48-a615-9a1d5b5f3c5d"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    }
+  ],
+  "tags": [
+    "actor",
+    "director",
+    "producer",
+    "drama",
+    "independent-film",
+    "modern"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883",
+  "type": "location",
+  "name": "Gotham City",
+  "description": "A sprawling metropolis that serves as the backdrop for 'The Dark Knight Trilogy'.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Gotham City's history is deeply rooted in crime and corruption, often depicted as a city plagued by organized crime and a weak justice system. The city is also known for its association with the League of Shadows and Bane's attempted takeover."
+    },
+    {
+      "title": "Geography",
+      "body": "Gotham City is portrayed as a large, sprawling metropolis, reminiscent of New York City and Chicago, with vast skyscrapers, narrow alleys, and diverse neighborhoods. It's situated in the United States, as part of a fictional world within 'The Dark Knight Trilogy'."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Key locations within Gotham City include:\n- **Gotham City Police Department (GCPD)**\n- **Wayne Tower**\n- **Arkham Asylum**\n- **The Narrows**\n- **Blackgate Prison**\n- **Gotham General Hospital**"
+    },
+    {
+      "title": "Story Significance",
+      "body": "Gotham City serves as the central setting for the events of 'The Dark Knight Trilogy'. Key scenes include the Joker's various attacks, Bane's occupation of the city, and Batman's vigilante actions. It symbolizes the battle between chaos and order, embodied by its caped crusader, Batman."
+    }
+  ],
+  "fictional": true,
+  "properties": {
+    "type": "city",
+    "population": "unknown",
+    "founded": "unknown"
+  },
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "featured_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "featured_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "contains",
+      "target": "bdc84a78-a3b8-4a62-b612-09ba4601c63c"
+    },
+    {
+      "type": "contains",
+      "target": "943327b5-f3a3-4a6b-a2df-3b6d72ec4486"
+    },
+    {
+      "type": "contains",
+      "target": "78f1b2c1-2d4e-4f3b-bfa8-0bd4c94f8a6b"
+    },
+    {
+      "type": "contains",
+      "target": "a1c3e4d5-6f78-4901-b7a2-d3e9f7e123b9"
+    },
+    {
+      "type": "contains",
+      "target": "0baf24da-3c1e-4f1b-aa89-8b2c74ced1fa"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "tags": [
+    "city",
+    "superhero",
+    "crime",
+    "fictional",
+    "dark knight"
+  ]
+}

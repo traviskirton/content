@@ -1,0 +1,114 @@
+{
+  "id": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf",
+  "type": "movie",
+  "name": "Batman Begins",
+  "description": "Origin story of Bruce Wayne becoming Batman.",
+  "content": [
+    {
+      "title": "Synopsis",
+      "body": "After witnessing his parents' murder, Bruce Wayne is determined to bring justice to Gotham City. Trained by the League of Shadows and returning as Batman, he battles evil forces to save his city from corruption and chaos."
+    },
+    {
+      "title": "Production",
+      "body": "Directed by Christopher Nolan, 'Batman Begins' marks the beginning of The Dark Knight Trilogy. The screenplay was written by David S. Goyer and Christopher Nolan, focusing on the origins of Batman and setting a more realistic and darker tone compared to previous adaptations. Filming took place in various locations including Chicago, the United Kingdom, and Iceland."
+    },
+    {
+      "title": "Reception",
+      "body": "The film was critically acclaimed, praised for its tone, Nolan's direction, and Christian Bale's performance as Batman. It grossed over $373 million worldwide and rejuvenated the Batman film franchise. It received nominations for its cinematography, film editing, and sound."
+    },
+    {
+      "title": "Legacy",
+      "body": "Batman Begins set a new standard for superhero films, influencing many of its successors with its darker and more realistic tone. It helped pave the way for future DC Comics adaptations and significantly influenced the superhero genre."
+    }
+  ],
+  "aliases": [
+    "The Dark Knight: Batman Begins"
+  ],
+  "relationships": [
+    {
+      "type": "directed_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "written_by",
+      "target": "5d2f786e-631c-4f2d-9b6d-fc9afcbb10d2"
+    },
+    {
+      "type": "written_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "composed_by",
+      "target": "a3c5de67-f1d3-42b6-a6b3-123f0d65c1a4"
+    },
+    {
+      "type": "composed_by",
+      "target": "d25f0f9d-8c9f-4dab-b282-4c6c1d284d04"
+    },
+    {
+      "type": "stars",
+      "target": "4cf6d8b9-71f4-4eff-9c9e-bb3b3f7b2e8e"
+    },
+    {
+      "type": "stars",
+      "target": "83e9fafd-1d4c-4b54-a1cc-1b389fee6762"
+    },
+    {
+      "type": "stars",
+      "target": "8e1f45e8-42ac-4c0b-977f-50f479d573b3"
+    },
+    {
+      "type": "stars",
+      "target": "709fafc7-7df4-4a2e-8b8a-e53e9da184f7"
+    },
+    {
+      "type": "stars",
+      "target": "15f5a123-d9e8-4397-b782-67814dc0b9b6"
+    },
+    {
+      "type": "part_of",
+      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "distributed_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "features_character",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    }
+  ],
+  "properties": {
+    "year": 2005,
+    "runtime": 140,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "budget": 150000000,
+    "box_office": 373000000,
+    "rating": "PG-13"
+  },
+  "tags": [
+    "action",
+    "adventure",
+    "drama",
+    "2000s",
+    "blockbuster",
+    "superhero",
+    "origin story"
+  ]
+}

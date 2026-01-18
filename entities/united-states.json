@@ -1,0 +1,13 @@
+{
+  "id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+  "type": "location",
+  "name": "United States",
+  "description": "A country in North America, home to Hollywood and the largest film industry in the world.",
+  "aliases": ["USA", "United States of America", "America", "US"],
+  "relationships": [],
+  "properties": {
+    "type": "country",
+    "fictional": false
+  },
+  "tags": ["country", "north-america"]
+}

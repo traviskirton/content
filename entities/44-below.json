@@ -1,0 +1,50 @@
+{
+  "id": "7b9b54fe-410e-44c3-b790-9957c11db367",
+  "type": "location",
+  "name": "44 Below",
+  "description": "An underground nightclub beneath the Iceberg Lounge frequented by Gotham's criminal elite.",
+  "content": [
+    {
+      "title": "History",
+      "body": "44 Below is a hidden nightclub located beneath the more publicly known Iceberg Lounge. Known for its exclusivity, the club serves as a secretive meeting spot for Gotham's underworld, including influential crime figures and corrupt officials. Its clandestine nature makes it a haven for illegal activities, reflective of Gotham's deep-rooted corruption."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated underneath the Iceberg Lounge, 44 Below occupies a portion of Gotham City heavily influenced by organized crime. It is a dimly lit and atmospheric venue, accessible through secretive means within the lounge itself."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The club is characterized by its luxurious yet dark decor, a catch-all for the elite of Gotham's criminal society. The interiors typically feature low lighting, expensive furnishings, and a central bar. Perhaps its most distinctive feature is its inaccessibility to the general public, reinforcing its aura of exclusivity."
+    },
+    {
+      "title": "Story Significance",
+      "body": "44 Below serves as a pivotal location in 'The Batman (2022)', functioning as a backdrop to crucial story developments and character interactions. It is within this space that several key characters, including villains and antiheroes, reveal pertinent plot details and engage in alliances. The venue highlights the duality of Gotham, juxtaposing the public facade of the Iceberg Lounge with the sinister activities conducted below."
+    }
+  ],
+  "aliases": [
+    "The Club Below",
+    "Below"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "located_in",
+      "target": "168efb74-2b3c-4ef6-8c5b-de68f3a54c1b"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "nightclub",
+    "population": "varies",
+    "founded": "unknown"
+  },
+  "tags": [
+    "nightclub",
+    "underground",
+    "crime",
+    "Gotham City"
+  ]
+}

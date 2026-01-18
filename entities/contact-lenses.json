@@ -1,0 +1,50 @@
+{
+  "id": "120e0721-cf38-4e88-ac63-de8f4b7bba82",
+  "type": "item",
+  "name": "Contact Lenses",
+  "description": "High-tech contact lenses used by Batman for surveillance and data collection.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The contact lenses are advanced surveillance devices used by Bruce Wayne, also known as Batman, in the film *The Batman* (2022). They are designed to assist in gathering real-time visual data and storing information."
+    },
+    {
+      "title": "Appearance",
+      "body": "These contact lenses appear as ordinary contact lenses at first glance, fitting seamlessly over the wearer's eyes without any noticeable features from an external view."
+    },
+    {
+      "title": "Function",
+      "body": "The contact lenses function by capturing video footage from the wearer's perspective. They possess the capability to record and relay visual information in real time to external devices for analysis. This technology aids Batman in investigative operations, allowing him to review scenes for clues and evidence."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The contact lenses play a crucial role in Batman's detective work throughout the film. They allow Batman to discreetly gather and analyze information. In key scenes, they enable remote observation and playback of past events, giving Batman the edge needed to solve complex mysteries and track criminal activity within Gotham City."
+    }
+  ],
+  "aliases": [
+    "High-tech Contact Lenses",
+    "Batman's Contact Lenses"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "used_by",
+      "target": "b87b3c9d-4e25-41d3-b635-3ab2c66a63b4"
+    }
+  ],
+  "properties": {
+    "item_type": "device",
+    "created_by": "Bruce Wayne",
+    "fictional": true
+  },
+  "tags": [
+    "technology",
+    "device",
+    "surveillance",
+    "The Batman",
+    "fictional technology"
+  ]
+}

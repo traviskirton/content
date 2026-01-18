@@ -1,0 +1,63 @@
+{
+  "id": "709fafc7-7df4-4a2e-8b8a-e53e9da184f7",
+  "type": "person",
+  "name": "Liam Neeson",
+  "description": "A versatile actor known for his roles in action and dramatic films",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Liam Neeson was born in 1952 in Ballymena, Northern Ireland. Initially pursuing a career in teaching, Neeson turned to acting in the mid-1970s, joining Belfast's Lyric Players' Theatre for two years. His film debut came in 1977 with a role in 'Pilgrim's Progress'."
+    },
+    {
+      "title": "Career",
+      "body": "Neeson's breakthrough role was in the 1993 film 'Schindler's List', directed by Steven Spielberg. Over the years, he has become known for his commanding presence in both dramatic and action films, including 'The Taken' series, 'The Phantom Menace', and 'Love Actually'. His acting style is characterized by a deep, resonant voice and a strong on-screen authority."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Liam Neeson has frequently collaborated with directors like Christopher Nolan in 'The Dark Knight Trilogy', where he played Ra's al Ghul. Other notable collaborations include working with actors such as Christian Bale, Gary Oldman, and Morgan Freeman."
+    },
+    {
+      "title": "Legacy",
+      "body": "Liam Neeson is regarded as one of the most successful actors of his generation, known for his versatility and powerful performances. He has received numerous accolades, including nominations for an Academy Award, a BAFTA, and three Golden Globe Awards."
+    }
+  ],
+  "aliases": [
+    "William John Neeson"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+    },
+    {
+      "type": "worked_with",
+      "target": "4cf6d8b9-71f4-4eff-9c9e-bb3b3f7b2e8e"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "e689d7d2-51c0-4fe1-a9b8-2334e19b0d1e"
+    },
+    {
+      "type": "worked_with",
+      "target": "83e9fafd-1d4c-4b54-a1cc-1b389fee6762"
+    }
+  ],
+  "properties": {
+    "born": 1952,
+    "nationality": "Irish",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1976-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "action",
+    "modern"
+  ]
+}

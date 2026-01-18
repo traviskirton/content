@@ -1,0 +1,57 @@
+{
+  "id": "f9415ca5-eb80-409e-b5da-05549fe3821e",
+  "type": "location",
+  "name": "Chicago Post Office",
+  "description": "A historic building in downtown Chicago, frequently used as a filming location.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Chicago Post Office, also known as the Old Chicago Post Office, is a large Art Deco building located at 433 W Van Buren St, Chicago, IL. It was constructed between 1921 and 1932 and served as the main post office for Chicago. Today, while it is no longer a fully operational postal facility, the building is an iconic part of Chicago's architectural heritage, known for its distinctive long structure spanning a major highway and its historical significance."
+    },
+    {
+      "title": "Film History",
+      "body": "The Chicago Post Office has been featured in numerous films and television shows due to its unique architectural features and urban setting. Notable productions include 'The Dark Knight', where it served as the Gotham National Bank in the opening heist sequence. Its versatile interiors and commanding facade make it a popular choice for filmmakers seeking to capture the gritty, urban aesthetic of Chicago."
+    },
+    {
+      "title": "Visiting",
+      "body": "The building has undergone redevelopment into office and retail spaces, now known as The Old Post Office. Public access is available, and the building hosts various events throughout the year. Visitors can explore parts of the historical structure during special events and tours, which highlight both its architectural beauty and cinematic legacy."
+    }
+  ],
+  "aliases": [
+    "Old Chicago Post Office",
+    "Chicago Post Office Building"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "located_in",
+      "target": "2f4b5c6d-7e8f-9a0b-1c2d-3e4f5g6h7i8j"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "building",
+    "address": "433 W Van Buren St, Chicago, IL 60607",
+    "city": "Chicago",
+    "state": "Illinois",
+    "country": "United States",
+    "coordinates": {
+      "lat": 41.876268,
+      "long": -87.640864
+    }
+  },
+  "tags": [
+    "building",
+    "historic",
+    "active",
+    "public",
+    "tours-available"
+  ]
+}

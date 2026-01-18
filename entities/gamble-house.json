@@ -1,0 +1,57 @@
+{
+  "id": "b3734d99-c7f4-480f-b3b3-638842efe417",
+  "type": "location",
+  "name": "Gamble House",
+  "description": "A historic house in Pasadena, California used for filming.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The **Gamble House** is a historic house in Pasadena, California, designed by architects Charles and Henry Greene. Built in 1908, it was created as a winter residence for David and Mary Gamble of the Procter & Gamble company. The house is considered a masterpiece of the American Arts and Crafts style of architecture."
+    },
+    {
+      "title": "Film History",
+      "body": "The Gamble House is notably recognized for its role as Dr. Emmett Brown's residence in the *Back to the Future* film series. Its unique architecture and period-perfect style made it an ideal choice for setting the scene where Doc Brown develops his inventions, including the famous DeLorean time machine."
+    },
+    {
+      "title": "Visiting",
+      "body": "The Gamble House is open to the public for guided tours. Managed by the City of Pasadena and the University of Southern California, tours show the intricate details of Arts and Crafts architecture and the history of the estate. The house is well-preserved and is often visited by architecture enthusiasts and film fans alike."
+    }
+  ],
+  "aliases": [
+    "Dr. Emmett Brown's House",
+    "Doc Brown's Mansion"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "located_in",
+      "target": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
+    },
+    {
+      "type": "doubled_for",
+      "target": "f1e5d2c3-b4a6-4c2e-8b23-9f5171d4e123"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "historic house",
+    "address": "4 Westmoreland Place",
+    "city": "Pasadena",
+    "state": "California",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 34.1475,
+      "longitude": -118.1663
+    }
+  },
+  "tags": [
+    "historic",
+    "preserved",
+    "public",
+    "tours-available",
+    "Arts and Crafts"
+  ]
+}

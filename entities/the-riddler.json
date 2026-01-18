@@ -1,0 +1,57 @@
+{
+  "id": "c8f65c7b-82c3-41db-a2f1-6a7f8e6f843e",
+  "type": "character",
+  "name": "The Riddler",
+  "description": "A mysterious criminal mastermind with a sinister agenda and a penchant for riddles.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "The Riddler, portrayed by Paul Dano, emerges as a complex antagonist in 'The Batman (2022)'. Known in his civilian life as Edward Nashton, he grows up in the underbelly of Gotham City, facing hardships and societal neglect. His past influences his transformation into a criminal genius who aims to expose the corruption of Gotham's elites through elaborate puzzles and riddles as part of his sinister campaign."
+    },
+    {
+      "title": "Personality",
+      "body": "The Riddler is highly intelligent, meticulous, and strategic, often exhibiting signs of obsession and superiority. His disdain for Gotham's establishment and his sense of moral righteousness drive him to extreme actions, believing himself to be a force of purifying truth. However, his fixation on puzzles and his need for recognition highlight his deep-seated insecurities and craving for validation."
+    },
+    {
+      "title": "Story Role",
+      "body": "In the narrative of 'The Batman (2022)', The Riddler functions as the primary antagonist, setting the plot in motion with his cryptic murders. His elaborate plans challenge Batman both intellectually and morally, forcing the hero to unravel a web of deception and corruption while confronting dark truths about Gotham's past. The Riddler's actions ultimately serve to test Batman's detective skills and moral code."
+    },
+    {
+      "title": "Relationships",
+      "body": "The Riddler's main connection is with Bruce Wayne, whom he views as an adversary and a key figure in Gotham's corrupt system. This rivalry is further complicated by Riddler's belief that they share a similar mission. His indirect interactions through cryptic clues foster a tense and intellectually charged relationship. Additionally, his actions put him at odds with Gotham's law enforcement and other criminal elements."
+    },
+    {
+      "title": "Abilities",
+      "body": "The Riddler possesses a genius-level intellect, with a talent for engineering complex puzzles and cryptic messages. His proficiency in planning and executing meticulous schemes reveals his expertise in criminal strategy and psychological manipulation. Despite lacking physical prowess, his cunning and resourcefulness make him a formidable opponent."
+    }
+  ],
+  "aliases": [
+    "Edward Nashton",
+    "Edward Nygma"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "af3888e4-4708-4c87-b5d7-090a61aa36c5"
+    },
+    {
+      "type": "rivals_with",
+      "target": "b87b3c9d-4e25-41d3-b635-3ab2c66a63b4"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Criminal Mastermind"
+  },
+  "tags": [
+    "antagonist",
+    "villain",
+    "genius",
+    "criminal",
+    "enigmatic"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "d65b3a1e-5b3b-4a72-907d-fae2b0ef4f90",
+  "type": "company",
+  "name": "DC Comics",
+  "description": "A leading American comic book publisher and media company known for characters like Superman, Batman, and Wonder Woman.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**DC Comics** is a renowned American comic book publisher and media company. It is primarily known for its superheroes, including iconic characters such as Superman, Batman, and Wonder Woman. The company plays a significant role in the comic book industry and has expanded into various media, including films, television, and merchandise."
+    },
+    {
+      "title": "History",
+      "body": "DC Comics was founded in 1934 by Malcolm Wheeler-Nicholson. The company initially focused on pulp magazines but soon ventured into comic books with the publication of **New Fun: The Big Comic Magazine**. Over the decades, DC Comics has achieved major milestones, including the introduction of Superman in 1938, which marked the birth of the superhero genre. In 1967, the company became a subsidiary of Warner Bros., enhancing its media reach."
+    },
+    {
+      "title": "Notable Works",
+      "body": "- **Superman**: The first superhero introduced by DC Comics, which set the standard for future superheroes. \n- **Batman**: A globally recognized character known for his detective skills and moral code.\n- **Wonder Woman**: A symbol of female empowerment and one of the first female superheroes.\n- **The Dark Knight Trilogy**: A critically acclaimed film series directed by Christopher Nolan.\n- **Justice League**: A team of superheroes that represents DC's blend of diverse characters."
+    },
+    {
+      "title": "Legacy",
+      "body": "DC Comics has left a profound impact on both the comic book industry and popular culture. With its rich history of storytelling and character creation, the company has contributed significantly to the development of the superhero genre. DC's influence extends into various media and has cultivated a dedicated global fanbase."
+    }
+  ],
+  "aliases": [
+    "Detective Comics",
+    "DC Entertainment"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "produced",
+      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    },
+    {
+      "type": "produced",
+      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+    },
+    {
+      "type": "parent_company",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    }
+  ],
+  "properties": {
+    "founded": 1934,
+    "founder": "Malcolm Wheeler-Nicholson",
+    "headquarters": "Burbank, California, United States",
+    "type": "comic book publisher, media company",
+    "parent_company": "Warner Bros. Discovery"
+  },
+  "tags": [
+    "company",
+    "publisher",
+    "media",
+    "comic-books",
+    "superheroes",
+    "film",
+    "animation",
+    "golden-age",
+    "silver-age",
+    "modern"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "d023cd5d-72ee-4f4e-b926-8f9b5ff9871d",
+  "type": "location",
+  "name": "Prewitt Building",
+  "description": "A fictional building in Gotham City commonly associated with scenes in 'The Dark Knight'.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Prewitt Building, based in Gotham City, is a key location in the movie 'The Dark Knight'. Its in-universe history is not deeply explored, but it serves as a site for significant cinematic moments."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated in the heart of Gotham City, the Prewitt Building is depicted as an older, multi-story structure that reflects the urban decay and architectural style often seen in Gotham's landscape."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The building features prominently in scenes involving rooftop pursuits and dark, narrow interior spaces, which contribute to its ominous and dramatic setting."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Prewitt Building is crucial in 'The Dark Knight' during scenes where intense actions or meetings occur. It is notably used during encounters involving prominent characters such as Batman and Harvey Dent."
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "located_in",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "gothic",
+    "action",
+    "thriller",
+    "urban"
+  ]
+}

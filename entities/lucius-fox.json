@@ -1,0 +1,76 @@
+{
+  "id": "d03a2ebc-4fbd-4bc1-9bc3-c2659c9123b1",
+  "type": "character",
+  "name": "Lucius Fox",
+  "description": "A brilliant inventor and businessman, head of Wayne Enterprises' Applied Sciences division.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "**Lucius Fox** is a highly respected figure within Wayne Enterprises. With a background in electrical engineering and business, Lucius became a key figure in reviving the company's fortunes. He was promoted to CEO at one point, thanks to Bruce Wayne's trust in his capabilities."
+    },
+    {
+      "title": "Personality",
+      "body": "Lucius Fox is known for his integrity, strong moral compass, and intelligence. He is loyal to Bruce Wayne and shares his vision for using technology for the greater good. Lucius is often the voice of reason, ensuring that ethical implications are considered in the use of Wayne Enterprises' technologies."
+    },
+    {
+      "title": "Story Role",
+      "body": "In **The Dark Knight Trilogy**, Lucius Fox plays a crucial supporting role as Bruce Wayne's ally. He provides Bruce with the technological resources needed to operate as Batman and is instrumental in creating and managing the advanced gadgets and vehicles used by the Dark Knight."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Bruce Wayne**: Lucius is a trusted confidant and ally of Bruce, aiding him with technology and advice.\n- **Alfred Pennyworth**: Shares a professional and trusting relationship with Alfred, working together to support Bruce's endeavors.\n- **Wayne Enterprises**: As head of the Applied Sciences division, he is a central figure within the company."
+    },
+    {
+      "title": "Abilities",
+      "body": "- **Engineering Expertise**: Lucius is a skilled inventor and engineer, responsible for many of Batman's armament and vehicles.\n- **Business Acumen**: As an executive at Wayne Enterprises, Lucius possesses strong leadership and managerial skills."
+    }
+  ],
+  "aliases": [
+    "Mr. Fox"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "appears_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "appears_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "friend_with",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    },
+    {
+      "type": "friend_with",
+      "target": "9c39d7e0-1f12-4590-8b53-9ddb5f765cb5"
+    },
+    {
+      "type": "related_to",
+      "target": "9e5b44bd-fd41-45f7-adf1-378509fbee3a"
+    },
+    {
+      "type": "member_of",
+      "target": "741acbc5-8a2f-4247-9585-267f61020389"
+    },
+    {
+      "type": "works_at",
+      "target": "295a0b1a-ed45-4dff-a401-99b121032f26"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Business Executive, Inventor",
+    "portrayed_by": "Morgan Freeman"
+  },
+  "tags": [
+    "supporting",
+    "scientist",
+    "mentor",
+    "businessman"
+  ]
+}

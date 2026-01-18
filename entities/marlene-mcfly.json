@@ -1,0 +1,55 @@
+{
+  "id": "d3f09aae-6115-41c8-9e87-0b07d320257b",
+  "type": "character",
+  "name": "Marlene McFly",
+  "description": "Marlene McFly is the daughter of Marty McFly and Jennifer Parker in 'Back to the Future Part II'.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Marlene McFly is born into the McFly family, living in Hill Valley. Growing up in a future that was initially tamed by her family's influence, she is part of a lineage that includes notable figures like her grandfather George McFly and her father Marty McFly."
+    },
+    {
+      "title": "Personality",
+      "body": "Marlene appears to be a typical teenage girl from the future, dealing with the usual concerns of adolescence along with the futuristic quirks of 2015. She is shown to have a supportive family and a keen sense of adventure inherited from her father."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'Back to the Future Part II', Marlene McFly's role serves primarily as a glimpse into Marty McFly's future family life, providing insight into how events transpire in an alternate timeline. Her appearances underscore the film's themes of generational change and the consequences of actions across time."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Father**: Marty McFly is Marlene's father, and their relationship is indicative of a strong familial bond.\n- **Mother**: Jennifer Parker is her mother, sharing in the family dynamics of a futuristic McFly household. \n- **Brother**: Marty McFly Jr. is her brother, and their sibling relationship represents typical family dynamics in the future timeline."
+    }
+  ],
+  "aliases": [
+    "Marlene"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "related_to",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "related_to",
+      "target": "24c9d2f3-2b68-4e27-b18b-7a5c0b0f789a"
+    },
+    {
+      "type": "related_to",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "portrayed_by": "Michael J. Fox"
+  },
+  "tags": [
+    "supporting",
+    "time-traveler",
+    "teenager",
+    "McFly family"
+  ]
+}

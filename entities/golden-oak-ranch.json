@@ -1,0 +1,50 @@
+{
+  "id": "fd26f3a0-487f-4f24-a343-093e2fc62ee3",
+  "type": "location",
+  "name": "Golden Oak Ranch",
+  "description": "A filming location and movie ranch used by various production companies for filming movies and TV shows.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Golden Oak Ranch** is a famous movie ranch located in Santa Clarita, California. Owned by The Walt Disney Company, it serves as a filming location utilized primarily for movie and television production. The ranch provides a versatile backlot environment with varied scenery, including rural, frontier-style, and modern suburban settings."
+    },
+    {
+      "title": "Film History",
+      "body": "Golden Oak Ranch has hosted numerous productions over the years, most notably those produced by Disney. The ranch's diverse landscapes have been transformed to depict various fictional settings, notably used in films like _\"Pirates of the Caribbean\"_ and TV series such as _\"The Office\"_ and _\"Sons of Anarchy\"_. Various scenes ranging from outdoor adventures to suburban street layouts have been filmed here."
+    },
+    {
+      "title": "Visiting",
+      "body": "Golden Oak Ranch is a privately owned property and is not generally open to the public. Tours are not typically available, as it primarily functions as an operational film studio. However, its significance in cinematic production makes it a point of interest for enthusiasts of film history."
+    }
+  ],
+  "aliases": [
+    "Disney's Golden Oak Ranch"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "studio",
+    "address": "19802 Placerita Canyon Rd",
+    "city": "Santa Clarita",
+    "state": "California",
+    "country": "United States",
+    "coordinates": {
+      "lat": 34.3781,
+      "long": -118.4851
+    }
+  },
+  "tags": [
+    "studio",
+    "active",
+    "private"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "f3a317d5-5b56-4d8f-bd7e-065ecf7886a1",
+  "type": "vehicle",
+  "name": "Tumbler",
+  "description": "The Tumbler is a military prototype vehicle used by Batman for his operations in Gotham City.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The **Tumbler** is a fictional vehicle used by Batman in _The Dark Knight Trilogy_. Initially designed as a military prototype for the purpose of bridging bridges and urban pacification, it was later repurposed by Bruce Wayne, also known as Batman, as a high-powered combat and pursuit vehicle."
+    },
+    {
+      "title": "Design",
+      "body": "The Tumbler is notable for its intimidating and rugged appearance, featuring angular surfaces that provide a stealthy radar profile. It incorporates a jet engine for quick propulsion and a tank-like build that enhances its durability in combat situations. Key design features include an armored exterior, explosive-resistant tires, and advanced computer systems for navigation and combat."
+    },
+    {
+      "title": "Capabilities",
+      "body": "The Tumbler's capabilities are extensive: it is equipped with a jet engine boost for speed, bulletproof armor protection, weaponry such as machine guns and missile launchers, and the ability to function as a battering ram. Furthermore, it can perform a 'rampless jump,' propelling itself into the air using thrusters."
+    },
+    {
+      "title": "History",
+      "body": "The vehicle was engineered by Wayne Enterprises' Applied Sciences Division, with Lucius Fox overseeing its development. It was initially created as a military vehicle intended to aid in rebuilding infrastructure but was deemed too expensive by the military. Bruce Wayne repurposed the Tumbler for his vigilante activities."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Tumbler plays a significant role in _The Dark Knight Trilogy_, featuring prominently in critical action sequences. It aids Batman in high-speed chases and combats, demonstrating its robust capabilities. The eventual destruction of the Tumbler marks a turning point in _The Dark Knight_, transitioning into its motorcycle counterpart: the Batpod."
+    }
+  ],
+  "aliases": [
+    "Batmobile",
+    "The Tumbler"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "featured_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "featured_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "piloted_by",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    },
+    {
+      "type": "created_by",
+      "target": "d03a2ebc-4fbd-4bc1-9bc3-c2659c9123b1"
+    },
+    {
+      "type": "owned_by",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    }
+  ],
+  "properties": {
+    "vehicle_type": "car",
+    "manufacturer": "Wayne Enterprises",
+    "year": "2005",
+    "fictional": true
+  },
+  "tags": [
+    "vehicle",
+    "car",
+    "action",
+    "sci-fi",
+    "Batman",
+    "combat"
+  ]
+}

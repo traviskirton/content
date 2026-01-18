@@ -1,0 +1,49 @@
+{
+  "id": "c5d8e1f3-8c6f-47aa-bb98-23f0c8e8c5d1",
+  "type": "location",
+  "name": "Major Crimes Unit",
+  "description": "A specialized division within the Gotham City Police Department focused on high-profile cases and organized crime.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Major Crimes Unit was established as a part of the Gotham City Police Department to specifically address the growing wave of organized crime and high-profile criminal activities. Its creation was influenced by the increasing presence of costumed criminals and corruption within the city, requiring a dedicated team to handle these threats more effectively."
+    },
+    {
+      "title": "Geography",
+      "body": "Located within the Gotham City Police Department headquarters, the Major Crimes Unit occupies a secure and strategic area of the building, complete with advanced technology and resources to tackle the demanding cases it handles."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The Unit is equipped with state-of-the-art forensic labs, interrogation rooms, and secured evidence lockers. It serves as a nerve center for coordinating complex investigations and operations against Gotham's most notorious criminals."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Major Crimes Unit plays a pivotal role in 'The Dark Knight,' as it is involved in the investigation and pursuit of The Joker and the underworld crime lords of Gotham City. It becomes a key setting for detective work and the moral dilemmas faced by the characters involved, particularly highlighting the challenges faced by officers like James Gordon in balancing justice and the law."
+    }
+  ],
+  "aliases": [
+    "MCU",
+    "Gotham MCU"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "located_in",
+      "target": "bdc84a78-a3b8-4a62-b612-09ba4601c63c"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "police unit"
+  },
+  "tags": [
+    "building",
+    "crime",
+    "investigation",
+    "Gotham City",
+    "The Dark Knight"
+  ]
+}

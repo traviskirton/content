@@ -1,0 +1,48 @@
+{
+  "id": "3f9499ca-8ae0-4e8f-b604-5e59d9f3a062",
+  "type": "person",
+  "name": "Jack Palance",
+  "description": "Academy Award-winning actor known for his roles in classics such as 'Shane' and 'City Slickers'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "**Jack Palance** was born on February 18, 1919, in Lattimer Mines, Pennsylvania, USA. Originally named Volodymyr Palahniuk, he was a son of Ukrainian immigrants. Before embarking on an acting career, Palance worked as a professional boxer and served in the United States Army Air Forces during World War II."
+    },
+    {
+      "title": "Career",
+      "body": "Jack Palance's acting career began on Broadway; however, it was his transition to Hollywood that brought him fame. He made a mark with his performances in 1950s films such as _Shane_ and _Sudden Fear_, for which he received Academy Award nominations. His distinctive voice and impressive physique made him perfect for tough-guy roles. In 1991, he won an Oscar for Best Supporting Actor for his role in _City Slickers_."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Palance worked with several esteemed directors and actors throughout his career, including **Elia Kazan**, **Burt Lancaster**, and **Jack Nicholson**."
+    },
+    {
+      "title": "Legacy",
+      "body": "Jack Palance left a significant impact on the film industry with his iconic character portrayals, particularly in westerns and action films. His Oscar-winning performance in _City Slickers_ and live television push-up demonstration remain memorable moments in Hollywood history."
+    }
+  ],
+  "aliases": [
+    "Volodymyr Palahniuk"
+  ],
+  "relationships": [
+    {
+      "type": "worked_with",
+      "target": "4ac67e49-8f92-4993-be4d-f6c0329ac472"
+    }
+  ],
+  "properties": {
+    "born": 1919,
+    "died": 2006,
+    "nationality": "American",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1950-2004"
+  },
+  "tags": [
+    "actor",
+    "western",
+    "drama",
+    "classic-hollywood"
+  ]
+}

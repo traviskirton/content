@@ -1,0 +1,102 @@
+{
+  "id": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1",
+  "type": "movie",
+  "name": "The Batman",
+  "description": "A noir-driven take on the iconic DC Comics character, exploring Batman's detective skills.",
+  "content": [
+    {
+      "title": "Synopsis",
+      "body": "In 'The Batman', young vigilante Bruce Wayne faces off against a serial killer known as The Riddler and navigates a world of corruption in Gotham City while delving deeper into the criminal underworld and discovering connections to his own family's history."
+    },
+    {
+      "title": "Production",
+      "body": "Directed by Matt Reeves, 'The Batman' underwent several delays and changes during development. Initially, Ben Affleck was set to star and direct, but he stepped down, allowing Reeves to take a more independent creative direction. Principal photography took place primarily in the UK with notable locations like the Glasgow Necropolis and Liverpool serving as backdrops for Gotham City."
+    },
+    {
+      "title": "Reception",
+      "body": "'The Batman' received critical acclaim for its dark tone, compelling storytelling, and strong performances, especially from Robert Pattinson as Batman and Paul Dano as The Riddler. It performed well at the box office, grossing over $770 million worldwide, and received nominations for several major awards."
+    },
+    {
+      "title": "Legacy",
+      "body": "Exploring the detective aspect of Batman in greater depth than previous films, 'The Batman' set a new precedent for superhero films with its focus on storytelling and atmosphere. Its approach influenced ongoing conversations about future adaptations within the genre."
+    }
+  ],
+  "aliases": [
+    "The Batman (2022)"
+  ],
+  "relationships": [
+    {
+      "type": "directed_by",
+      "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
+    },
+    {
+      "type": "produced_by",
+      "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
+    },
+    {
+      "type": "written_by",
+      "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
+    },
+    {
+      "type": "composed_by",
+      "target": "f4278272-d669-4d9d-92f7-4a2e57682bf7"
+    },
+    {
+      "type": "stars",
+      "target": "dbf564e7-1a57-4ed3-a2b0-ec5d646bdb24"
+    },
+    {
+      "type": "stars",
+      "target": "89b7e1d7-563c-4b49-b789-416bacf84652"
+    },
+    {
+      "type": "features_character",
+      "target": "82d8cba6-2bde-47da-bf1e-1897f5b8b9fa"
+    },
+    {
+      "type": "features_character",
+      "target": "4a15ed35-d579-4b34-9dfa-e3d96de5d31b"
+    },
+    {
+      "type": "features_location",
+      "target": "3b52879a-7129-4f5c-9e15-60d01eb9c0da"
+    },
+    {
+      "type": "features_location",
+      "target": "2216d72e-589b-4d06-ae52-60f24c971234"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "d65b3a1e-5b3b-4a72-907d-fae2b0ef4f90"
+    },
+    {
+      "type": "distributed_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "part_of",
+      "target": "c9b4e5f3-371e-4dc3-b2f5-1a80a2e965f9"
+    }
+  ],
+  "properties": {
+    "year": 2022,
+    "runtime": 175,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "budget": 200000000,
+    "box_office": 770000000,
+    "rating": "PG-13"
+  },
+  "tags": [
+    "Action",
+    "Crime",
+    "Drama",
+    "2020s",
+    "Detective",
+    "Noir",
+    "Superhero"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "e4f7a36c-4b2f-4de3-826a-c02f7ae47d56",
+  "type": "location",
+  "name": "City Hall Gotham",
+  "description": "The central municipal building and administrative hub of Gotham City.",
+  "content": [
+    {
+      "title": "History",
+      "body": "**City Hall Gotham** has stood as a symbol of governance and authority in Gotham City for decades. It has witnessed numerous events, from political gatherings to infamous attacks by Gotham's criminal element. Within the narrative of _The Dark Knight Rises_, City Hall serves as a focal point for the city's political power."
+    },
+    {
+      "title": "Geography",
+      "body": "Located at the heart of Gotham City, City Hall is easily accessible from various parts of the city and is surrounded by Gotham's bustling urban landscape."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The majestic façade of City Hall is complemented by its grand interiors, which include a large council chamber and numerous offices essential for city operations. The building is also known for its historic architecture and is a significant landmark in Gotham."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In _The Dark Knight Rises_, City Hall is central to some of the film's key events, including Bane's takeover of Gotham. It becomes the site of crucial confrontations and symbolizes the struggle for control over the city between the forces of good and evil."
+    }
+  ],
+  "aliases": [
+    "Gotham City Hall"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "featured_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "superhero",
+    "fictional",
+    "film",
+    "urban",
+    "government"
+  ]
+}

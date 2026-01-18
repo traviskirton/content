@@ -1,0 +1,52 @@
+{
+  "id": "92a44d3f-7152-4c2a-9e5d-57d8b0c7e8a2",
+  "type": "location",
+  "name": "Acton Lane Power Station",
+  "description": "A former power station in London, used as a filming location for notable movies.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Acton Lane Power Station** was a coal-fired power station in London, England. It supplied electricity to the London area and was operated by the Central Electricity Generating Board."
+    },
+    {
+      "title": "Film History",
+      "body": "Acton Lane Power Station hosted scenes from several notable films. It doubled for the 'Axis Chemicals' in Tim Burton's 1989 film _Batman_, where it was used to depict the exterior scenes of the chemical plant."
+    },
+    {
+      "title": "Visiting",
+      "body": "The power station no longer operates and does not offer public tours. It has been largely demolished and redeveloped over the years."
+    }
+  ],
+  "aliases": [
+    "Willesden Power Station"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "located_in",
+      "target": "7f4c330e-5379-4c84-a28b-86c34d5a4d51"
+    },
+    {
+      "type": "doubled_for",
+      "target": "f3d9b29e-9b6f-42e2-bf7b-5200c58f5e10"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "power station",
+    "city": "London",
+    "country": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5347,
+      "long": -0.2525
+    }
+  },
+  "tags": [
+    "location type: power station",
+    "status: demolished",
+    "accessibility: private"
+  ]
+}

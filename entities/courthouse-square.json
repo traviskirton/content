@@ -1,0 +1,55 @@
+{
+  "id": "b12f1176-e8f4-4c8d-9abb-e294b08e1787",
+  "type": "location",
+  "name": "Courthouse Square",
+  "description": "The iconic central square of Hill Valley, prominently featured in the 'Back to the Future' trilogy.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Courthouse Square is located in Hill Valley, California, and serves as the town's central point. The square has been a pivotal location throughout the town's history, from its early days in the late 19th century to the futuristic version depicted in 2015.\n\nSignificant events include the lightning strike on the clock tower on November 12, 1955, a key plot point in the first film. The square has witnessed numerous pivotal moments in the McFly family's history across different time periods portrayed in the trilogy."
+    },
+    {
+      "title": "Geography",
+      "body": "Courthouse Square is situated centrally in the fictional town of Hill Valley. It is surrounded by major roads and notable buildings, including the courthouse with its iconic clock tower. The location serves as a hub for the town's community events and activities."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **Hill Valley Courthouse**: The central building features a clock tower that famously stopped at 10:04 PM on November 12, 1955.\n- **Town Square**: The open area around the courthouse where many community events and gatherings occur.\n- **Surrounding Shops and Cafes**: Including the Cafe 80's in the 2015 timeline and Lou's Cafe in 1955."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Courthouse Square is central to the narrative, especially in key scenes such as the lightning strike that powers the DeLorean time machine in 1955. It is also the site of several encounters between characters across different eras, making it an iconic backdrop that bridges the multiple timelines visited by Marty McFly and Doc Brown."
+    }
+  ],
+  "aliases": [
+    "Hill Valley Courthouse",
+    "Clock Tower Square"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "featured_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "located_in",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "population": null,
+    "founded": "late 19th century",
+    "type": "city"
+  },
+  "tags": [
+    "city",
+    "sci-fi",
+    "1955",
+    "2015",
+    "futuristic"
+  ]
+}

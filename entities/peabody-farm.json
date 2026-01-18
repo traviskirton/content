@@ -1,0 +1,47 @@
+{
+  "id": "5fb7c768-5ebf-4cee-bf7c-e358d2090f1d",
+  "type": "location",
+  "name": "Peabody Farm",
+  "description": "A fictional location in \"Back to the Future,\" known for its pivotal scene involving the time-traveling DeLorean.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Peabody Farm is a family-owned property in Hill Valley, historically maintained by the Peabody family. Known for its expansive pine tree orchard, the farm is an iconic setting in the \"Back to the Future\" series. In 1955, Peabody Farm famously became the site where Marty McFly inadvertently crashed the DeLorean, which was perceived as a UFO by the family."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated on the outskirts of Hill Valley, the Peabody Farm features extensive wooded areas and pine orchards. The landscape includes a barn and family farmhouse, central to its agricultural operations. The farm's remote location made it susceptible to the unexpected arrival of the time machine."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Key landmarks include the Peabody barn, which serves as the backdrop for the DeLorean's crash landing, and the pine orchard, which plays a comedic role in the film when one of the trees is destroyed, later contributing to Hill Valley's Twin Pines Mall becoming Lone Pine Mall."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Peabody Farm is crucial to the plot of \"Back to the Future,\" as it is the first location where Marty McFly arrives after traveling back in time to 1955. This sets off a chain of events that highlight the film's themes of time travel and unintended consequences."
+    }
+  ],
+  "aliases": [
+    "Peabody's Farm"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "located_in",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "farm"
+  },
+  "tags": [
+    "sci-fi",
+    "1985",
+    "farm",
+    "Hill Valley"
+  ]
+}

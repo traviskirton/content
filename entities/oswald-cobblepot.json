@@ -1,0 +1,49 @@
+{
+  "id": "f0c21cd1-6a3b-432a-bf85-225c1effbc09",
+  "type": "character",
+  "name": "Oswald Cobblepot",
+  "description": "A cunning and ambitious gangster in Gotham City, known as the Penguin.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Oswald Cobblepot, better known as the Penguin, is a well-known figure in Gotham City's criminal underworld. He operates out of the Iceberg Lounge and is known for his strategic mind, despite his diminutive stature and unattractive appearance."
+    },
+    {
+      "title": "Personality",
+      "body": "Cobblepot is highly intelligent, cunning, and ruthless. He is ambitious and desires power and respect. Despite his criminal activities, he carries himself with a certain charm and is capable of forming alliances when necessary."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Batman' (2022), Cobblepot plays a supporting role as a rising star in Gotham's crime scene. Throughout the film, his ambitions and cunning nature bring him into conflict with both Batman and Gotham's criminal elite."
+    },
+    {
+      "title": "Relationships",
+      "body": "Cobblepot has a complex relationship with Carmine Falcone, the head of Gotham's criminal underworld (fe4f2182-4056-4713-8491-8d53ad5c434b), one marked by respect and underlying tension due to his own ambitions."
+    }
+  ],
+  "aliases": [
+    "The Penguin",
+    "Penguin"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "related_to",
+      "target": "fe4f2182-4056-4713-8491-8d53ad5c434b"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "gangster, nightclub owner",
+    "portrayed_by": "Colin Farrell"
+  },
+  "tags": [
+    "supporting",
+    "villain",
+    "gangster",
+    "strategist"
+  ]
+}

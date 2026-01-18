@@ -1,0 +1,70 @@
+{
+  "id": "f4b45718-977d-4185-b97c-8a0f312f5f84",
+  "type": "person",
+  "name": "Joseph Gordon-Levitt",
+  "description": "American actor, filmmaker, and entrepreneur known for roles in 'Inception' and '500 Days of Summer'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Joseph Gordon-Levitt was born on February 17, 1981, in Los Angeles, California, USA. He began his career as a child actor, appearing in commercials and television shows like _3rd Rock from the Sun_."
+    },
+    {
+      "title": "Career",
+      "body": "**Joseph Gordon-Levitt** made a successful transition from child actor to leading man with roles in films such as _Inception_, _500 Days of Summer_, and _Looper_. He is known for his diverse range and ability to play complex characters. In addition to acting, Gordon-Levitt has ventured into directing, producing, and writing, demonstrating a wide array of skills in the film industry."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Gordon-Levitt has frequently collaborated with director Christopher Nolan, appearing in movies like _Inception_ and _The Dark Knight Rises_. He has also worked with actors such as Leonardo DiCaprio, Bruce Willis, and Scarlett Johansson."
+    },
+    {
+      "title": "Legacy",
+      "body": "Joseph Gordon-Levitt is recognized for his impact on both independent and mainstream cinema, having received numerous awards and nominations for his performances. He is also the founder of hitRECord, an online collaborative media platform which empowers artists to create together."
+    }
+  ],
+  "aliases": [
+    "Joe Gordon-Levitt"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "acted_in",
+      "target": "f3a317d5-5b56-4d8f-bd7e-065ecf7886a1"
+    },
+    {
+      "type": "acted_in",
+      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "4cf6d8b9-71f4-4eff-9c9e-bb3b3f7b2e8e"
+    }
+  ],
+  "properties": {
+    "born": "1981",
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active_years": "1988-present"
+  },
+  "tags": [
+    "actor",
+    "director",
+    "producer",
+    "writer",
+    "modern",
+    "sci-fi",
+    "drama",
+    "comedy"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "abf1b564-08e2-4829-ac44-f830fd1a7a1e",
+  "type": "character",
+  "name": "Gil Colson",
+  "description": "Gil Colson is the district attorney of Gotham City in \"The Batman (2022).\"",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Gil Colson is depicted as the district attorney of Gotham City. As a public figure, Colson is involved in the legal proceedings against organized crime within the city. However, his character is portrayed as having ties to corrupt activities and individuals, highlighting the pervasive corruption in Gotham City."
+    },
+    {
+      "title": "Personality",
+      "body": "Colson is characterized by his ambition and willingness to bend ethical lines for personal gain. He exhibits a combination of arrogance and fear, particularly when faced with his unethical actions coming to light. This makes him vulnerable to manipulation by individuals more powerful than himself."
+    },
+    {
+      "title": "Story Role",
+      "body": "In \"The Batman (2022),\" Colson plays a significant role in highlighting the theme of corruption in Gotham. His character becomes a target for The Riddler, who seeks to reveal the corruption embedded within Gotham's elite. Colson's predicament serves as a catalyst for the film's exploration of justice and morality."
+    },
+    {
+      "title": "Relationships",
+      "body": "Colson is shown to have connections with other key figures in Gotham, including Carmine Falcone and the Gotham City Police Department. His role as district attorney puts him at odds with Batman, who seeks to dismantle the corruption Colson is part of. Colson's relationship with The Riddler is adversarial as he becomes one of the villain's targets."
+    },
+    {
+      "title": "Portrayed By",
+      "body": "The character of Gil Colson is portrayed by actor Peter Sarsgaard in \"The Batman (2022).\""
+    }
+  ],
+  "aliases": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "related_to",
+      "target": "fe4f2182-4056-4713-8491-8d53ad5c434b"
+    },
+    {
+      "type": "related_to",
+      "target": "0baf24da-3c1e-4f1b-aa89-8b2c74ced1fa"
+    },
+    {
+      "type": "related_to",
+      "target": "c8f65c7b-82c3-41db-a2f1-6a7f8e6f843e"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "district attorney",
+    "portrayed_by": "Peter Sarsgaard"
+  },
+  "tags": [
+    "supporting",
+    "villain",
+    "antagonist",
+    "politician"
+  ]
+}

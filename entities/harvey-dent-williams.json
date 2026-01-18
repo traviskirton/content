@@ -1,0 +1,60 @@
+{
+  "id": "a729f0b2-4ad1-4658-b9a1-423151baf43b",
+  "type": "character",
+  "name": "Harvey Dent (Williams)",
+  "description": "Harvey Dent, portrayed by Billy Dee Williams, is a district attorney in Gotham known for his strong stance against crime.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Harvey Dent is the district attorney of Gotham City, dedicated to fighting crime and corruption. His commitment to the law and order in Gotham makes him a central character in the city's struggle against organized crime. Often working closely with Batman and Commissioner Gordon, Dent is a vital part of Gotham's justice system."
+    },
+    {
+      "title": "Personality",
+      "body": "Harvey Dent is known for his unwavering determination and strong moral compass. He is highly principled, with a deep commitment to justice and the belief that the law can bring about meaningful change. However, his ideals sometimes lead him to take risks that can make him vulnerable."
+    },
+    {
+      "title": "Story Role",
+      "body": "In the 1989 'Batman' film, Harvey Dent serves as a key figure in Gotham's legal system. Although his character did not become the infamous 'Two-Face' as in the comics, he played a foundational role in the fight against crime, setting the stage for his future duality in other adaptations."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Bruce Wayne/Batman (Burton)**: A professional relationship where they both aim to rid Gotham of crime, with Batman working outside the law and Dent working within it.\n- **Commissioner Gordon (Hingle)**: An ally in the fight against Gotham's criminals, often coordinating to bring justice to the city."
+    }
+  ],
+  "aliases": [
+    "Harvey Dent",
+    "DA Harvey Dent"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "6279796f-e7d5-4ba7-b8c8-acc759454f87"
+    },
+    {
+      "type": "works_at",
+      "target": "bdc84a78-a3b8-4a62-b612-09ba4601c63c"
+    },
+    {
+      "type": "related_to",
+      "target": "a5f4e3b2-0d7d-4fbb-bfaa-c2b0629ab6de"
+    },
+    {
+      "type": "related_to",
+      "target": "7f4354ba-2e2b-4b1b-b8f9-3f308a57f405"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "District Attorney"
+  },
+  "tags": [
+    "supporting",
+    "protagonist",
+    "law-enforcer",
+    "human"
+  ]
+}

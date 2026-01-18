@@ -1,0 +1,62 @@
+{
+  "id": "5939cc72-7068-4a23-bffe-79f1f29f68e5",
+  "type": "organization",
+  "name": "Gotham City Police Department (Reeves)",
+  "description": "The primary law enforcement agency operating within Gotham City in Matt Reeves' 'The Batman'.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The **Gotham City Police Department (GCPD)** is the principal law enforcement agency in Gotham City. It is tasked with maintaining public order and safety, enforcing the law, and preventing crime. The department often faces challenges due to the high level of corruption within its ranks and the presence of various criminal elements in the city."
+    },
+    {
+      "title": "History",
+      "body": "Gotham City Police Department's history is marred by corruption, with many officers being deeply influenced by Gotham's notorious criminal underworld. The department has seen internal reforms and ups and downs in public trust over the years."
+    },
+    {
+      "title": "Structure",
+      "body": "The GCPD is structured with a Commissioner at the helm, followed by several ranks including Captains, Lieutenants, and officers. **James Gordon (Wright)**, known for his integrity and determination, plays a pivotal role in attempting to combat the pervasive corruption within the department."
+    },
+    {
+      "title": "Operations",
+      "body": "The GCPD conducts routine policing activities such as patrolling, investigating crimes, apprehending suspects, and community policing. However, they often face pressure from higher authorities and organized crime, which complicates their operations."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'The Batman', the GCPD is heavily featured as a backdrop to the unfolding drama. James Gordon, a prominent figure within the department, collaborates with the Batman to solve high-profile criminal cases that expose corruption at various levels, including within the GCPD itself."
+    }
+  ],
+  "aliases": [
+    "GCPD (Reeves)"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "led_by",
+      "target": "a3d5f9fc-b08b-4a82-9ee3-4b7d733b646b"
+    },
+    {
+      "type": "headquartered_in",
+      "target": "b5d2c7e4-9f2b-4a0f-bc9f-7f0e8b2511d7"
+    },
+    {
+      "type": "members",
+      "target": "abf1b564-08e2-4829-ac44-f830fd1a7a1e"
+    }
+  ],
+  "properties": {
+    "founded": "19th century",
+    "type": "government",
+    "headquarters": "Gotham City, New Jersey",
+    "fictional": true
+  },
+  "tags": [
+    "organization",
+    "police",
+    "neutral",
+    "superhero",
+    "government"
+  ]
+}

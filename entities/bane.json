@@ -1,0 +1,61 @@
+{
+  "id": "cd6822b1-8fc0-4b82-9d57-135b13bf136d",
+  "type": "character",
+  "name": "Bane",
+  "description": "Bane is a ruthless mercenary and the primary antagonist in 'The Dark Knight Rises.'",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Bane was born and raised in the darkness of The Pit, a harsh prison environment, which shaped him into a formidable combatant. He was once a member of the League of Shadows but was excommunicated by Ra's al Ghul for his extreme methods."
+    },
+    {
+      "title": "Personality",
+      "body": "**Key Traits**: Intelligent, strategic, and physically imposing. \n**Motivations**: Aims to fulfill Ra's al Ghul's legacy by destroying Gotham City and avenging his beloved, Talia.\n**Flaws**: Excessive pride and arrogance in his physical and intellectual abilities."
+    },
+    {
+      "title": "Story Role",
+      "body": "Bane serves as the primary antagonist in 'The Dark Knight Rises,' representing physical and ideological challenges for Bruce Wayne/Batman. His arc involves orchestrating a plan to take over Gotham, revealing the true nature of the League of Shadows' intentions and establishing a new order."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Talia al Ghul**: Bane is deeply loyal to her, viewing her as both the leader he serves and the person he deeply cares for.\n- **Bruce Wayne/Batman**: A direct adversary whom he aims to break both physically and mentally."
+    },
+    {
+      "title": "Abilities",
+      "body": "**Skills**: Master strategist, highly skilled in hand-to-hand combat, and proficient in various forms of weaponry.\n**Powers**: Uses a powerful anesthetic gas delivered through his mask to manage constant pain, which incidentally enhances his strength and endurance."
+    }
+  ],
+  "aliases": [
+    "The Mercenary",
+    "The Man Who Broke the Bat"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "rivals_with",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    },
+    {
+      "type": "member_of",
+      "target": "1a03f4d0-5132-475b-8b52-ba48966705d1"
+    },
+    {
+      "type": "related_to",
+      "target": "23f5a5c3-29ad-4ef8-bf65-daab2d4794b8"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "mercenary",
+    "portrayed_by": "Tom Hardy"
+  },
+  "tags": [
+    "antagonist",
+    "villain",
+    "strategist",
+    "mercenary"
+  ]
+}

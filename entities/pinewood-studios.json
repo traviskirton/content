@@ -1,0 +1,60 @@
+{
+  "id": "a9c2b0f1-3e45-476f-989b-d3e1f7e93b13",
+  "type": "location",
+  "name": "Pinewood Studios",
+  "description": "A major British film and television studio located in Buckinghamshire, England, known for hosting numerous iconic film productions.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Pinewood Studios is a renowned film and television production studio located in Iver Heath, Buckinghamshire, England. Established in 1936, it is one of the foremost studios in the UK and globally recognized for its state-of-the-art facilities, large sound stages, and extensive backlot areas. Pinewood Studios has played a crucial role in the production of numerous high-profile films and TV shows."
+    },
+    {
+      "title": "Film History",
+      "body": "Pinewood Studios has been the filming location for numerous iconic films across different genres. Notable productions include the James Bond series, the 'Star Wars' films, and 'Harry Potter'. Pinewood's sound stages and facilities have hosted various scenes from 'Batman' films, with many movies using it to double for fictional cities and worlds."
+    },
+    {
+      "title": "Visiting",
+      "body": "While Pinewood Studios is primarily a working studio and not generally open to the public, it occasionally offers tours or special event access. Visitors interested in the studio's history and productions can check for studio-sponsored events or public tours announced on their official website."
+    }
+  ],
+  "aliases": [
+    "Pinewood",
+    "Pinewood Film Studios"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    }
+  ],
+  "properties": {
+    "address": "Pinewood Road, Iver Heath, Buckinghamshire, SL0 0NH, England",
+    "city": "Iver Heath",
+    "state": "Buckinghamshire",
+    "country": "United Kingdom",
+    "coordinates": {
+      "latitude": 51.5491,
+      "longitude": -0.5342
+    },
+    "fictional": false,
+    "type": "studio"
+  },
+  "tags": [
+    "studio",
+    "active",
+    "private",
+    "tours-available"
+  ]
+}

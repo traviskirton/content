@@ -1,0 +1,56 @@
+{
+  "id": "e1c864e6-a0de-420d-8b0f-36f51a0fdc8b",
+  "type": "location",
+  "name": "St George's Hall, Liverpool",
+  "description": "A neoclassical building located in Liverpool, England, known for its versatile use in film productions.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**St George's Hall** is a neoclassical building in the center of Liverpool, England. It was constructed between 1841 and 1854 and serves as a popular venue for music concerts, civil courts, and various public events. The hall is renowned for its imposing architecture and magnificent interiors, including a great hall with a celebrated organ and concert space."
+    },
+    {
+      "title": "Film History",
+      "body": "St George's Hall has been featured in numerous notable film productions due to its rich architectural details and adaptability as a filming location. Notable films include **'Fantastic Beasts and Where to Find Them'** where it doubled as the interior of some magical government buildings, and **'The Batman'** for various key Gotham City scenes. The hall's grandiose aesthetics make it a favored choice for portraying opulent fictional settings."
+    },
+    {
+      "title": "Visiting",
+      "body": "St George's Hall is open to the public, offering guided tours that encompass its rich history and stunning architecture. Public access is available during scheduled events and exhibitions, which highlight the hall's historical and cultural significance. The hall is a preserved historical location, maintained actively for public and private events."
+    }
+  ],
+  "aliases": [
+    "Liverpool St George's Hall"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "located_in",
+      "target": "b623e742-3a65-4ea9-a559-787f3d096a8e"
+    },
+    {
+      "type": "doubled_for",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "hall",
+    "address": "Saint George's Place, Liverpool L1 1JJ, United Kingdom",
+    "city": "Liverpool",
+    "state": "Merseyside",
+    "country": "United Kingdom",
+    "coordinates": {
+      "latitude": 53.4085,
+      "longitude": -2.9785
+    },
+    "tags": [
+      "hall",
+      "active",
+      "public",
+      "tours-available",
+      "historical"
+    ]
+  }
+}

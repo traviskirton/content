@@ -1,0 +1,52 @@
+{
+  "id": "a00d1b03-2a19-46c6-9997-8674c6961ba7",
+  "type": "location",
+  "name": "Shreck's Department Store",
+  "description": "A high-end department store in Gotham City, owned by the business magnate Max Shreck",
+  "content": [
+    {
+      "title": "History",
+      "body": "Shreck's Department Store is a fictional location in Gotham City, prominently featured in the movie 'Batman Returns'. It was established by Max Shreck, a wealthy and influential businessman with significant control over Gotham's economic landscape. The store symbolizes Shreck's wealth and ambition, becoming a central piece in his empire. In the film, Shreck's Department Store serves as a front for some of Max Shreck's sinister schemes, including his plan to build a power plant that would secretly sap Gotham's energy."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated in the heart of Gotham City, the store is presented as an imposing structure featuring luxurious displays and festive decorations, especially highlighted during the Christmas season. Its prime location makes it a central hub for Gotham's elite shoppers and a key feature of the city's downtown area."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The department store is known for its extravagant, larger-than-life window displays, particularly the giant Christmas tree and themed decorations. It houses various departments offering a wide range of items, from fashion and jewelry to home goods, catering to Gotham's upper-class clientele."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'Batman Returns', Shreck's Department Store plays a pivotal role as it is the setting for key scenes involving significant plot developments. The store becomes a focal point during the Penguin's mayoral campaign orchestrated by Max Shreck. Additionally, it is here that Selina Kyle, Shreck's secretary, transforms into Catwoman after an attempt on her life by Shreck, symbolizing the duality and facade that the department store represents."
+    }
+  ],
+  "aliases": [
+    "Shreck's"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+    },
+    {
+      "type": "located_in",
+      "target": "3b52879a-7129-4f5c-9e15-60d01eb9c0da"
+    },
+    {
+      "type": "contains",
+      "target": "5a7e8f6d-4b3c-4e7f-b92d-1d4ef9e7a5b1"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "fiction",
+    "Gotham City",
+    "Christmas",
+    "Burton/Schumacher Batman Films"
+  ]
+}

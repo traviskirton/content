@@ -1,0 +1,52 @@
+{
+  "id": "fc8d2f8a-4236-4e8b-b19f-12c312fa4ebf",
+  "type": "character",
+  "name": "Vicki Vale",
+  "description": "A journalist for the Gotham Globe, known for her curiosity and interest in Batman.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Vicki Vale is a journalist working for the Gotham Globe. She is known for her curiosity, adventurous spirit, and determination to uncover the truth. Her interest in Batman brings her to Gotham City, where she becomes intertwined with the dark and mysterious world of the city's vigilante."
+    },
+    {
+      "title": "Personality",
+      "body": "Vicki is determined, intelligent, and resourceful. Her curiosity often leads her into dangerous situations. Despite the risks, she is committed to uncovering the truth and does not shy away from pursuing her stories. Vicki's independence and tenacity are balanced by her empathy and ethical considerations."
+    },
+    {
+      "title": "Story Role",
+      "body": "In *Batman (1989)*, Vicki Vale serves as a key supporting character. She is initially drawn to Gotham City to write about the mysterious Batman, and her investigation leads her to Bruce Wayne. Throughout the film, she becomes a love interest for Bruce, while also uncovering pivotal details about the Joker's plot. Her courage and determination play a crucial role in progressing the storyline, particularly in uncovering the corrupt underbelly of Gotham City."
+    },
+    {
+      "title": "Relationships",
+      "body": "- **Bruce Wayne (UUID: a5f4e3b2-0d7d-4fbb-bfaa-c2b0629ab6de)**: Vicki's romantic interest. She is intrigued by his dual identity and becomes involved with him both personally and professionally.\n- **The Joker (UUID: b15a100f-5c62-4e7d-9e23-2e9806487d94)**: Vicki becomes a target of the Joker's attention due to her investigations and connection to Bruce Wayne."
+    }
+  ],
+  "aliases": [
+    "Victoria Vale"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "related_to",
+      "target": "a5f4e3b2-0d7d-4fbb-bfaa-c2b0629ab6de"
+    },
+    {
+      "type": "related_to",
+      "target": "b15a100f-5c62-4e7d-9e23-2e9806487d94"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "journalist",
+    "portrayed_by": "Kim Basinger"
+  },
+  "tags": [
+    "supporting",
+    "journalist",
+    "love-interest",
+    "investigator"
+  ]
+}

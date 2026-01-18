@@ -1,0 +1,49 @@
+{
+  "id": "25fbb63e-7db8-4e1d-b780-aee1b198d355",
+  "type": "location",
+  "name": "Hill Valley Train Station",
+  "description": "A pivotal train station in Hill Valley featured in 'Back to the Future Part III'.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Hill Valley Train Station was a significant part of Hill Valley in 1885, serving as a key transportation hub for the town. It played a crucial role in the development of the town, helping to bring in both people and goods to the burgeoning community. The station was featured prominently in the 1990 film *Back to the Future Part III*."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated near the heart of Hill Valley, the train station was located close to the town's other notable landmarks, such as Courthouse Square. It served as a gateway to the rest of California and was essential for long-distance travel during the late 19th century."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The train station featured a central platform for arriving and departing trains, a ticket office, and waiting areas for passengers. It was depicted in the film as a typical Western train station, complete with period-appropriate architectural design."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In *Back to the Future Part III*, the Hill Valley Train Station is crucial to the plot as it serves as the departure point for the final climatic scene where Emmett 'Doc' Brown and Clara Clayton utilize a steam train to push the DeLorean Time Machine to reach the necessary speed to return to 1985. The station represents both the technological progress and the adventure of the era, pivotal for the film's resolution."
+    }
+  ],
+  "aliases": [
+    "Hill Valley Railroad Station",
+    "Hill Valley Depot"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "located_in",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "train station",
+    "founded": "1885"
+  },
+  "tags": [
+    "train station",
+    "western",
+    "1885",
+    "sci-fi"
+  ]
+}

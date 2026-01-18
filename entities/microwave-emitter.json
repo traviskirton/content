@@ -1,0 +1,63 @@
+{
+  "id": "b71c6f2b-c213-4d3c-bb09-9c9c6071a5e1",
+  "type": "item",
+  "name": "Microwave Emitter",
+  "description": "A military-grade device capable of vaporizing water supplies.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Microwave Emitter is a high-powered device designed to vaporize the water supply and infrastructure through microwave radiation. In \"Batman Begins,\" it is conspicuously used as a weapon to unleash chaos in Gotham City by vaporizing the water mixed with a fear-inducing toxin."
+    },
+    {
+      "title": "Appearance",
+      "body": "The device is large and industrial, mounted typically on a vehicle or structure for deployment. Its design is utilitarian, reflecting its military origins, with various panels, a control interface, and a mechanism for emitting microwave radiation."
+    },
+    {
+      "title": "Function",
+      "body": "The Microwave Emitter functions by using electromagnetic waves to heat and convert water molecules into vapor. This process can cause significant infrastructural damage, and in Gotham's case, actively release toxins introduced into the city's water system."
+    },
+    {
+      "title": "History",
+      "body": "Originally created for military purposes to deny enemy access to water, the device was repurposed by the League of Shadows in their attempt to destroy Gotham City. It was hijacked from Wayne Enterprises before being installed on a train headed for Wayne Tower, where it would cause maximum disruption."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Microwave Emitter is pivotal during the climax of \"Batman Begins,\" as it serves as the main tool in Ra's al Ghul's plan to decimate Gotham using fear and chaos. Batman's efforts to thwart its deployment and prevent mass destruction are central to the film's final act."
+    }
+  ],
+  "aliases": [
+    "Microwave Weapon",
+    "Emitter"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "used_by",
+      "target": "23f5a5c3-29ad-4ef8-bf65-daab2d4794b8"
+    },
+    {
+      "type": "created_by",
+      "target": "d03a2ebc-4fbd-4bc1-9bc3-c2659c9123b1"
+    },
+    {
+      "type": "located_at",
+      "target": "295a0b1a-ed45-4dff-a401-99b121032f26"
+    }
+  ],
+  "properties": {
+    "item_type": "device",
+    "created_by": "Wayne Enterprises",
+    "fictional": true
+  },
+  "tags": [
+    "device",
+    "weapon",
+    "technology",
+    "sci-fi",
+    "macguffin",
+    "powerful"
+  ]
+}

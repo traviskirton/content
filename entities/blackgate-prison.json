@@ -1,0 +1,47 @@
+{
+  "id": "a1c3e4d5-6f78-4901-b7a2-d3e9f7e123b9",
+  "type": "location",
+  "name": "Blackgate Prison",
+  "description": "A high-security prison in Gotham City housing some of the city's most notorious criminals.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Blackgate Prison is one of the primary detention facilities in Gotham City, known for holding many of the city's most dangerous and infamous criminals. Its history is marked by numerous riots and breakouts, reflecting the volatile nature of its inmate population."
+    },
+    {
+      "title": "Geography",
+      "body": "Blackgate Prison is situated on an isolated island in Gotham City, accessible only by boat or helicopter. The prison's isolation adds an extra layer of security and makes escape attempts less likely."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The prison is known for its high walls and state-of-the-art security systems. It houses a number of maximum-security cells designed for the city's most violent offenders. The facility also includes an administrative building and guard towers that provide a sweeping view of the entire island."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'The Dark Knight Rises', Blackgate Prison is used by Bane as part of his plan to control Gotham City. He releases its inmates, including many who were imprisoned under the Dent Act, as part of his efforts to undermine the city's order and create chaos."
+    }
+  ],
+  "aliases": [
+    "Blackgate Penitentiary"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "featured_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "prison"
+  },
+  "tags": [
+    "building",
+    "prison",
+    "superhero",
+    "futuristic"
+  ]
+}

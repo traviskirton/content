@@ -1,0 +1,47 @@
+{
+  "id": "b3575b09-3182-4b21-9578-2d774c2dfb9d",
+  "type": "location",
+  "name": "Hill Valley High School",
+  "description": "The school attended by Marty McFly, located in the fictional town of Hill Valley.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Hill Valley High School is a central location in the fictional universe of 'Back to the Future,' first appearing in the original 1985 film. It serves as the educational institution for the town’s adolescents, notably attended by protagonist Marty McFly. The school's history within the narrative includes its use as a backdrop for key scenes in both past and alternate 1985 timelines."
+    },
+    {
+      "title": "Geography",
+      "body": "Situated in Hill Valley, California, the high school is depicted as a classic American educational institution, complete with a gymnasium, classrooms, and an exterior playing field."
+    },
+    {
+      "title": "Notable Features",
+      "body": "The school is most recognized for its 1955 dance, the 'Enchantment Under the Sea' dance, a pivotal event in the film where Marty McFly ensures his parents meet and fall in love. The school features a typical American auditorium used for assemblies and social events."
+    },
+    {
+      "title": "Story Significance",
+      "body": "Hill Valley High School is a key location for the storyline of 'Back to the Future,' particularly in the 1955 segment where Marty McFly navigates high school social dynamics to ensure his own existence. It is here that Marty performs at the 'Enchantment Under the Sea' dance, playing a crucial role in his parents' love story."
+    }
+  ],
+  "aliases": [
+    "Hill Valley High"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "located_in",
+      "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "school",
+    "1955",
+    "1980s",
+    "fictional building"
+  ]
+}

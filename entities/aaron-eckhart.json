@@ -1,0 +1,59 @@
+{
+  "id": "b418b4d6-d755-4f48-a615-9a1d5b5f3c5d",
+  "type": "person",
+  "name": "Aaron Eckhart",
+  "description": "American actor known for his roles in 'The Dark Knight' and 'Thank You for Smoking'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Aaron Eckhart was born on March 12, 1968, in Cupertino, California, USA. He studied film at Brigham Young University, where he also met and befriended director Neil LaBute, who would later help launch his film career with roles in his films like 'In the Company of Men'."
+    },
+    {
+      "title": "Career",
+      "body": "Aaron Eckhart gained recognition with his performance in 'In the Company of Men' (1997), leading to further roles in 'Erin Brockovich' (2000) and 'The Core' (2003). His portrayal of a morally ambiguous tobacco lobbyist in 'Thank You for Smoking' (2005) was critically acclaimed. However, Eckhart is perhaps best known for his role as Harvey Dent/Two-Face in 'The Dark Knight' (2008), a part that solidified his reputation as a versatile character actor."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Eckhart frequently collaborated with director Neil LaBute, starring in films such as 'Nurse Betty' and 'Possession'. His role in 'The Dark Knight' saw him working alongside esteemed director Christopher Nolan and actors such as Christian Bale and Heath Ledger."
+    },
+    {
+      "title": "Legacy",
+      "body": "Eckhart's portrayal of complex characters has left a significant mark in Hollywood, especially his depiction of Harvey Dent/Two-Face. Although not extensively decorated with awards, his performances have been noted for their depth and intensity, contributing to the films' critical successes."
+    }
+  ],
+  "aliases": [
+    "Aaron Edward Eckhart"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "4cf6d8b9-71f4-4eff-9c9e-bb3b3f7b2e8e"
+    },
+    {
+      "type": "worked_with",
+      "target": "d5c5fcb1-02d2-4c82-9f84-efb89c8a2bd9"
+    }
+  ],
+  "properties": {
+    "born": "1968",
+    "nationality": "American",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1992-present"
+  },
+  "tags": [
+    "actor",
+    "modern",
+    "drama",
+    "thriller"
+  ]
+}

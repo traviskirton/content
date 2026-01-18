@@ -1,0 +1,47 @@
+{
+  "id": "54d8f2bc-ea90-44cb-a8c8-d984b5e673a3",
+  "type": "location",
+  "name": "Blacksmith Shop",
+  "description": "The Blacksmith Shop where Doc Brown works in Hill Valley 1885.",
+  "content": [
+    {
+      "title": "History",
+      "body": "The Blacksmith Shop was established in the 19th century in Hill Valley, California. By 1885, it served as the workshop and residence of Doc Brown when he found himself stranded in the past. Doc, known for his inventive prowess, converted the shop into a laboratory to work on time machine repairs and inventions."
+    },
+    {
+      "title": "Geography",
+      "body": "The Blacksmith Shop is located in Hill Valley 1885, which is a small, developing town with a main street lined by various businesses essential for frontier life. The shop itself is rustic, filled with tools of the trade and equipment repurposed by Doc Brown for his experiments."
+    },
+    {
+      "title": "Notable Features",
+      "body": "- **Forge and Anvil**: Traditional tools used by Doc Brown for creating and repairing metal works.\n- **Time Machine Components**: Parts of the DeLorean are often stored and repaired here.\n- **Doc's Inventive Workshop**: In addition to blacksmith tools, the shop contains an eclectic mix of apparatuses reflecting Doc's scientific endeavors."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Blacksmith Shop is a critical location in 'Back to the Future Part III,' as it serves as the primary setting for Doc Brown's efforts to repair the DeLorean time machine with the materials available to him in 1885. Key scenes include Marty McFly's initial reunion with Doc and their subsequent planning to return to the future."
+    }
+  ],
+  "aliases": [
+    "Doc Brown's Blacksmith Shop"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "located_in",
+      "target": "048f308b-450f-4f86-9a04-6c411d1d746d"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "western",
+    "1885",
+    "sci-fi"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "78f1b2c1-2d4e-4f3b-bfa8-0bd4c94f8a6b",
+  "type": "location",
+  "name": "Arkham Asylum",
+  "description": "A psychiatric hospital for the criminally insane located in Gotham City.",
+  "content": [
+    {
+      "title": "History",
+      "body": "Arkham Asylum, officially known as Arkham Asylum for the Criminally Insane, was founded by Amadeus Arkham as a treatment facility for patients who were deemed criminally insane. Over the years, it has housed some of Gotham City’s most notorious criminals."
+    },
+    {
+      "title": "Geography",
+      "body": "Arkham Asylum is situated on the outskirts of Gotham City, near the river. The expansive facility is isolated from the rest of the city, surrounded by dense forests and a high-security perimeter."
+    },
+    {
+      "title": "Notable Features",
+      "body": "Arkham Asylum features high-security cells and containment areas, therapy rooms, a medical wing, and an administrative center. It's heavily guarded and fortified to prevent escapes."
+    },
+    {
+      "title": "Story Significance",
+      "body": "In 'Batman Begins', Arkham Asylum plays a crucial role as Dr. Jonathan Crane, also known as Scarecrow, utilizes the facility to conduct fear-inducing experiments. It is later used as a staging ground for Ra's al Ghul's plan to unleash a fear toxin upon Gotham City."
+    }
+  ],
+  "aliases": [
+    "Arkham",
+    "Gotham Asylum"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "located_in",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "contains",
+      "target": "39f99bdf-9cce-4f89-8447-8ebaafb4e7e8"
+    }
+  ],
+  "properties": {
+    "fictional": true,
+    "type": "building"
+  },
+  "tags": [
+    "building",
+    "superhero",
+    "Gotham City",
+    "psychiatric hospital"
+  ]
+}

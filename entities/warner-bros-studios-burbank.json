@@ -1,0 +1,72 @@
+{
+  "id": "23cab135-3c56-4ec3-9f0b-a1cfe85993f2",
+  "type": "location",
+  "name": "Warner Bros. Studios Burbank",
+  "description": "A major film and television production facility located in Burbank, California.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Warner Bros. Studios Burbank is one of the foremost film and television studios in the world, located in Burbank, California. It serves as the production site for numerous renowned film and television projects, and is the main studio of Warner Bros. Entertainment. The studio facility spans over 110 acres and includes multiple soundstages, backlot sets, production offices, and post-production facilities."
+    },
+    {
+      "title": "Film History",
+      "body": "Warner Bros. Studios Burbank has been the filming location for countless iconic productions. Notable films include the 'Batman' series by Tim Burton, 'Inception', 'The Dark Knight Trilogy' by Christopher Nolan, and 'Friends', which became a cultural icon in television. The studio's New York Street backlot has doubled for diverse urban scenes in countless productions.\n\n- *Batman (1989)*: Several Gotham City scenes were filmed here.\n- *The Dark Knight*: Interior scenes of Wayne Enterprises and other key sequences.\n- *Friends*: The famous Central Perk set is located on the Warner lot."
+    },
+    {
+      "title": "Visiting",
+      "body": "Warner Bros. Studios Burbank offers public tours that provide a behind-the-scenes look at the entertainment industry. Visitors can explore sets from popular TV shows such as 'Friends' and 'The Big Bang Theory', view movie props and costumes, and experience the working environment of a real studio. Tours typically operate daily, and tickets can be purchased in advance through their official website."
+    }
+  ],
+  "aliases": [
+    "Warner Bros. Studio Lot",
+    "WB Studios"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "studio",
+    "address": "4000 Warner Blvd",
+    "city": "Burbank",
+    "state": "California",
+    "country": "United States",
+    "coordinates": {
+      "lat": 34.1486,
+      "long": -118.3366
+    }
+  },
+  "tags": [
+    "studio",
+    "active",
+    "tours-available",
+    "private"
+  ]
+}

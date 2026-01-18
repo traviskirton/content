@@ -1,0 +1,50 @@
+{
+  "id": "303e1c4b-9100-4adf-a6db-d76423d26f93",
+  "type": "item",
+  "name": "Hoverboard",
+  "description": "A futuristic levitating skateboard used for personal transport.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Hoverboard is a levitating skateboard from the future, primarily used for personal transportation and recreation. It is a popular item in the year 2015 within the world of 'Back to the Future Part II.'"
+    },
+    {
+      "title": "Appearance",
+      "body": "The Hoverboard is a skateboard-like device without wheels. It has a bright pink color and features a retro-futuristic design with branded stickers. Some models also come with handle grips for additional control."
+    },
+    {
+      "title": "Function",
+      "body": "The Hoverboard operates by using advanced technology that allows it to float above the ground. It is powered by an unspecified levitation technology, enabling it to hover over surfaces as long as they aren't water."
+    },
+    {
+      "title": "History",
+      "body": "In the world of 'Back to the Future,' the Hoverboard becomes popular in the year 2015. It is a mass-produced item commonly used by people of all ages for both casual hoverboarding and extreme sports."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Hoverboard is famously used by Marty McFly in 'Back to the Future Part II' during a chase scene in Hill Valley 2015. Marty uses it to escape from Griff Tannen and his gang, highlighting both his quick thinking and the board's unique capabilities. This scene is integral as it showcases Marty's adaptability and resourcefulness."
+    }
+  ],
+  "aliases": [
+    "Levitating Skateboard"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "used_by",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    }
+  ],
+  "properties": {
+    "item_type": "device",
+    "fictional": true
+  },
+  "tags": [
+    "device",
+    "technology",
+    "sci-fi"
+  ]
+}

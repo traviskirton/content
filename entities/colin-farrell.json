@@ -1,0 +1,57 @@
+{
+  "id": "a6e1f858-b9c7-4e2e-b76e-23f7b473f50f",
+  "type": "person",
+  "name": "Colin Farrell",
+  "description": "Irish actor known for his diverse roles in films like 'In Bruges' and 'The Lobster'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Colin Farrell was born on May 31, 1976, in Dublin, Ireland. He began his career on television before making a name for himself in Hollywood. His breakout role came with the film 'Tigerland' (2000), directed by Joel Schumacher, which paved the way for a prolific career in film."
+    },
+    {
+      "title": "Career",
+      "body": "Farrell has established himself as a versatile actor, capable of both dramatic roles and lighter comedic performances. Some of his major works include _Minority Report_ (2002), _The New World_ (2005), _In Bruges_ (2008), for which he won a Golden Globe, _The Lobster_ (2015), and _The Batman_ (2022) where he played the iconic character Oswald Cobblepot/The Penguin."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Farrell has frequently worked with director Martin McDonagh, notably in _In Bruges_ and _Seven Psychopaths_. He also starred alongside actresses and actors like Angelina Jolie in _Alexander_ (2004), and Rachel Weisz in _The Lobster_."
+    },
+    {
+      "title": "Legacy",
+      "body": "Colin Farrell is recognized for his ability to take on a wide array of roles, consistently delivering performances that are both compelling and complex. His work in _In Bruges_ earned him his first Golden Globe award, and he continues to garner respect and admiration in the film industry. Farrell's commitment to diverse, bold choices has solidified his place as one of the most respected actors of his generation."
+    }
+  ],
+  "aliases": [
+    "Collins",
+    "Coco"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "acted_in",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    }
+  ],
+  "properties": {
+    "born": "1976",
+    "nationality": "Irish",
+    "occupation": [
+      "actor"
+    ],
+    "active_years": "1997-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "comedy",
+    "modern",
+    "Golden Globe winner"
+  ]
+}

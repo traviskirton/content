@@ -1,0 +1,61 @@
+{
+  "id": "4d8c3b2e-153f-4ab5-bc53-57e8f759c6e9",
+  "type": "item",
+  "name": "Flux Capacitor",
+  "description": "A device that enables time travel when installed in a time machine vehicle.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The **Flux Capacitor** is a fictional device from the 'Back to the Future' series. It is the core component that makes time travel possible when installed in a vehicle."
+    },
+    {
+      "title": "Appearance",
+      "body": "The Flux Capacitor is depicted as a Y-shaped device with three flashing lights, often housed in a clear container. It emits a soft glow and is mounted behind the driver's seat of the DeLorean time machine."
+    },
+    {
+      "title": "Function",
+      "body": "When the vehicle's speed reaches precisely 88 miles per hour, the flux capacitor is activated, allowing the vehicle to travel through time to a specified date. It operates using 1.21 gigawatts of electricity."
+    },
+    {
+      "title": "History",
+      "body": "The Flux Capacitor was created by **Dr. Emmett Brown** after he envisioned the design following a head injury. This pivotal moment led to his lifelong pursuit of creating a working time machine."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The Flux Capacitor is crucial to the plot of 'Back to the Future,' enabling **Marty McFly** to travel through time to various key moments. Its failure and repair are central to multiple plot points in the series."
+    }
+  ],
+  "aliases": [
+    "Time Travel Device"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "used_by",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "created_by",
+      "target": "c3d4e5f6-a7b8-9012-cdef-345678901234"
+    },
+    {
+      "type": "part_of",
+      "target": "a7e5d3c2-b1f8-42a3-9c8e-4f0f0172f0a3"
+    }
+  ],
+  "properties": {
+    "item_type": "device",
+    "created_by": "Dr. Emmett Brown",
+    "fictional": true
+  },
+  "tags": [
+    "device",
+    "sci-fi",
+    "time-travel",
+    "technology",
+    "macguffin"
+  ]
+}

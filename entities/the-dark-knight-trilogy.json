@@ -1,0 +1,61 @@
+{
+  "id": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497",
+  "type": "franchise",
+  "name": "The Dark Knight Trilogy",
+  "description": "A film trilogy directed by Christopher Nolan, focusing on the DC Comics character Batman.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**The Dark Knight Trilogy** is a film series consisting of three Batman movies directed by Christopher Nolan. It includes 'Batman Begins' (2005), 'The Dark Knight' (2008), and 'The Dark Knight Rises' (2012). The franchise is noted for its realistic take on the superhero genre and its impact on modern blockbuster filmmaking."
+    },
+    {
+      "title": "History",
+      "body": "The trilogy began with 'Batman Begins' in 2005, introducing a darker, more human portrayal of Batman. 'The Dark Knight' followed in 2008 and became a commercial and critical success, particularly for Heath Ledger's posthumous Academy Award-winning performance as The Joker. The series concluded with 'The Dark Knight Rises' in 2012, wrapping up the trilogy and solidifying its status in film history."
+    },
+    {
+      "title": "Cultural Impact",
+      "body": "The Dark Knight Trilogy set a new standard for superhero films, influencing numerous filmmakers and paving the way for more grounded and serious adaptations in the genre. Its critical and financial success helped to revive the character of Batman after previous film failures. The trilogy's influence extends to its innovative marketing strategies and its effect on the comic book industry, emphasizing mature storytelling."
+    },
+    {
+      "title": "Legacy",
+      "body": "Today, The Dark Knight Trilogy remains a benchmark for the superhero film genre and continues to influence new adaptations. While there have been no formal continuations of the trilogy, its thematic and stylistic influences are present in subsequent Batman iterations and broader DC cinematic projects."
+    }
+  ],
+  "aliases": [
+    "Dark Knight Trilogy",
+    "Batman Trilogy",
+    "Nolan's Batman Trilogy"
+  ],
+  "relationships": [
+    {
+      "type": "includes",
+      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+    },
+    {
+      "type": "created_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "owned_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "spin_off_of",
+      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    }
+  ],
+  "properties": {
+    "created_year": 2005,
+    "creator": "Christopher Nolan",
+    "media_types": [
+      "film"
+    ]
+  },
+  "tags": [
+    "superhero",
+    "action",
+    "thriller",
+    "film-series",
+    "modern"
+  ]
+}

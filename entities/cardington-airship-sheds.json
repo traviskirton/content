@@ -1,0 +1,60 @@
+{
+  "id": "708e2574-efb1-4626-b6f2-a8e2af2f8227",
+  "type": "location",
+  "name": "Cardington Airship Sheds",
+  "description": "Historical airship hangars used as a film studio in Bedfordshire, England.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Cardington Airship Sheds** are located in Bedfordshire, England, and were originally built in the early 20th century for the production of airships. They are among the largest clear-span buildings in Britain, making them an ideal location for various large-scale film productions."
+    },
+    {
+      "title": "Film History",
+      "body": "The sheds have hosted numerous film productions due to their vast interior space. Notably, they were used for filming scenes from **'Batman Begins'** and **'The Dark Knight Rises'** where part of the Batcave and other large set pieces were constructed. Additionally, the sheds served as a filming site for the movie **'Inception'**."
+    },
+    {
+      "title": "Visiting",
+      "body": "While the Cardington Airship Sheds are primarily used for private film productions, occasional public tours and events are held, giving visitors a chance to explore these iconic structures. The current status as a working studio often limits regular public access."
+    }
+  ],
+  "aliases": [
+    "Cardington Sheds",
+    "Cardington Hangars"
+  ],
+  "relationships": [
+    {
+      "type": "filming_location_for",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "da3f7c8b-9bb0-4d3b-9d6c-78f984762abc"
+    },
+    {
+      "type": "located_in",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "studio",
+    "address": "Cardington, Bedfordshire, England",
+    "city": "Bedford",
+    "state": "Bedfordshire",
+    "country": "United Kingdom",
+    "coordinates": {
+      "lat": 52.0674,
+      "long": -0.429
+    }
+  },
+  "tags": [
+    "studio",
+    "active",
+    "private",
+    "tours-available"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "bb80a224-7b21-4d16-9192-7e2d9e2e3ae5",
+  "type": "person",
+  "name": "Katie Holmes",
+  "description": "American actress and producer known for her role in 'Dawson's Creek' and 'Batman Begins'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Katie Holmes is an American actress and producer, born in 1978 in Toledo, Ohio. She rose to fame after starring as Joey Potter on the television series *Dawson's Creek* from 1998 to 2003."
+    },
+    {
+      "title": "Career",
+      "body": "Holmes began her acting career with a small role in *The Ice Storm* (1997). She gained significant recognition with her role in *Dawson's Creek*. Her notable film works include *Batman Begins* (2005) and *Thank You for Smoking* (2006). Holmes is known for her versatile acting style, which has allowed her to play a variety of roles in both television and film."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Holmes worked with director Christopher Nolan in the film *Batman Begins*. She also collaborated with Aaron Eckhart in *Thank You for Smoking*."
+    },
+    {
+      "title": "Legacy",
+      "body": "Katie Holmes is recognized as one of the prominent actresses of her generation, having moved from television to a successful film career. She has been nominated for several awards throughout her career and continues to influence young actors entering the industry."
+    }
+  ],
+  "aliases": [
+    "Kate Noelle Holmes"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    }
+  ],
+  "properties": {
+    "born": 1978,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "producer"
+    ],
+    "active_years": "1997-present"
+  },
+  "tags": [
+    "actor",
+    "producer",
+    "drama",
+    "modern"
+  ]
+}

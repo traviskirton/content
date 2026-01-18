@@ -1,0 +1,66 @@
+{
+  "id": "a3d5f9fc-b08b-4a82-9ee3-4b7d733b646b",
+  "type": "character",
+  "name": "James Gordon (Wright)",
+  "description": "Honest and dedicated Gotham City police officer working to clean up corruption.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "James Gordon is an experienced detective within the Gotham City Police Department. Known for his integrity and determination to fight against the rampant corruption in the city, he is a key figure in maintaining some semblance of order amid the chaos."
+    },
+    {
+      "title": "Personality",
+      "body": "James Gordon is principled, loyal, and driven by a strong sense of justice. He's one of the few individuals in Gotham's law enforcement system willing to stand against corruption. He often finds himself surrounded by those he cannot trust, which leads him to form crucial alliances."
+    },
+    {
+      "title": "Story Role",
+      "body": "In 'The Batman (2022)', James Gordon plays a pivotal role as an ally to Bruce Wayne (Batman). His arc involves overcoming obstacles and risking his career to bring real justice to Gotham. His relationship with Batman grows based on mutual respect and dedication to their mission."
+    },
+    {
+      "title": "Relationships",
+      "body": "James Gordon works closely with Batman, played by Robert Pattinson, forming a strategic partnership to combat crime in Gotham. He also has interactions with Selina Kyle (played by Zoë Kravitz) and Carmine Falcone, with whom he navigates complex moral and ethical landscapes."
+    },
+    {
+      "title": "Abilities",
+      "body": "James Gordon possesses seasoned detective skills, characterized by his keen observation and strategic thinking abilities. These make him a formidable investigator within the GCPD, allowing him to tackle some of Gotham's most complex criminal activities."
+    }
+  ],
+  "aliases": [
+    "Jim Gordon",
+    "Lieutenant Gordon"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "works_at",
+      "target": "bdc84a78-a3b8-4a62-b612-09ba4601c63c"
+    },
+    {
+      "type": "friends_with",
+      "target": "b87b3c9d-4e25-41d3-b635-3ab2c66a63b4"
+    },
+    {
+      "type": "related_to",
+      "target": "9c39d7e0-1f12-4590-8b53-9ddb5f765cb5"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "6f8c9d3a-3e4b-4f3e-8ecf-3f4b7a2d54a6"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "Detective",
+    "portrayed_by": "Jeffrey Wright"
+  },
+  "tags": [
+    "supporting",
+    "mentor",
+    "detective",
+    "law-enforcement",
+    "Gotham City"
+  ]
+}

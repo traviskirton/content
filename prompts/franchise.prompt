@@ -1,0 +1,47 @@
+Create a detailed entity for the franchise "[NAME]".
+
+Output valid JSON matching the entity schema in schemas/entity.schema.json.
+
+## Required Fields
+
+- **id**: Generate a new UUID
+- **type**: "franchise"
+- **name**: The franchise's official or commonly used name
+
+## Content Sections
+
+Include these sections as appropriate:
+
+- **Overview**: What the franchise is, its scope and media types
+- **History**: When it started, how it evolved, major phases
+- **Cultural Impact**: Influence on pop culture, industry, other works
+- **Legacy**: Ongoing relevance, revivals, spin-offs
+
+## Properties to Consider
+
+- created_year: when the franchise began
+- creator: original creator(s)
+- media_types: array (film, tv, comics, games, etc.)
+- parent_franchise: if this is a sub-franchise
+- Any other relevant attributes
+
+## Relationships
+
+Link to other entities using UUIDs:
+- includes: Movies, shows, games in this franchise
+- created_by: Person who created it
+- owned_by: Company that owns the IP
+- spin_off_of: Parent franchise if applicable
+
+## Tags
+
+Add relevant tags for filtering:
+- Genre (superhero, sci-fi, fantasy)
+- Media types (film-series, multimedia)
+- Era (classic, modern)
+
+## Guidelines
+
+- Keep descriptions factual and based on publicly available information
+- Use markdown formatting in body text (bold, lists, etc.)
+- Link to existing entities by UUID when possible

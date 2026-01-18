@@ -1,0 +1,64 @@
+{
+  "id": "2f4b5c6d-7e8f-9a0b-1c2d-3e4f5g6h7i8j",
+  "type": "location",
+  "name": "Chicago",
+  "description": "A major city in the United States, known for its architecture and as a filming location.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "**Chicago** is a bustling metropolis located in the state of Illinois, United States. Known for its impressive skyline and vibrant culture, it is a major hub for finance, technology, and manufacturing. As one of the largest cities in the U.S., Chicago is famous for its architectural landmarks, such as the Willis Tower and the Tribune Tower, as well as its extensive public transportation system."
+    },
+    {
+      "title": "Film History",
+      "body": "Chicago has been a popular filming location for numerous blockbuster movies and TV shows. Notable productions include:\n- **The Dark Knight** (2008), where Chicago doubled for Gotham City. Key scenes, such as the car chase with the Batmobile and the Joker's chaos on LaSalle Street Bridge, were filmed here. \n- **Transformers: Dark of the Moon** (2011), which used many Chicago landmarks like Trump Tower and the Chicago River in its climactic battle scenes.\n- **Ferris Bueller's Day Off** (1986), which captured iconic Chicago spots as Ferris enjoyed a day off around the city."
+    },
+    {
+      "title": "Visiting",
+      "body": "Chicago is easily accessible via major highways, O'Hare International Airport, and public transportation. The city offers numerous landmarks and attractions for visitors, including museums, parks, and observation decks that provide stunning views of the cityscape. Many studios and tour companies offer movie-focused tours highlighting famous filming locations."
+    }
+  ],
+  "aliases": [
+    "Chi-Town",
+    "The Windy City"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "doubled_for",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "address": null,
+    "city": "Chicago",
+    "state": "Illinois",
+    "country": "United States",
+    "coordinates": {
+      "lat": 41.8781,
+      "long": -87.6298
+    }
+  },
+  "tags": [
+    "city",
+    "active",
+    "public",
+    "tours-available"
+  ]
+}

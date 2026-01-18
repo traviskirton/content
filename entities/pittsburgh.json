@@ -1,0 +1,52 @@
+{
+  "id": "cf8a2c91-2d47-4f59-b041-59bcbc0fcb86",
+  "type": "location",
+  "name": "Pittsburgh",
+  "description": "A major city in Pennsylvania, known for its steel industry history and a hub for film production.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Pittsburgh is a city located in the western part of Pennsylvania, USA. It is known for its rich history in steel manufacturing and its vibrant cultural scene. Today, Pittsburgh is also a prominent location in the film industry, noted for its diverse architecture and scenic views that make it an attractive setting for filmmakers."
+    },
+    {
+      "title": "Film History",
+      "body": "Pittsburgh has served as a filming location for numerous high-profile films and television shows. Notably, it was used as a stand-in for Gotham City in 'The Dark Knight Rises', where several key scenes were shot, including a memorable stadium explosion scene at Heinz Field. Other notable productions filmed in Pittsburgh include 'Flashdance', 'Adventureland', and 'Jack Reacher'."
+    },
+    {
+      "title": "Visiting",
+      "body": "Pittsburgh is an active and bustling city, with many of the film locations being accessible to the public. Visitors can take guided tours to explore the city's film history, including visits to iconic locations used in movies. Points of interest include the University of Pittsburgh's Cathedral of Learning, which has been featured in several films, and the Carnegie Museum of Art."
+    }
+  ],
+  "aliases": [
+    "Steel City",
+    "The 'Burgh"
+  ],
+  "relationships": [
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "filming_location_for",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    }
+  ],
+  "properties": {
+    "fictional": false,
+    "type": "city",
+    "address": "Pittsburgh, PA, USA",
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "country": "United States",
+    "coordinates": {
+      "lat": 40.4406,
+      "long": -79.9959
+    }
+  },
+  "tags": [
+    "city",
+    "active",
+    "public",
+    "tours-available"
+  ]
+}

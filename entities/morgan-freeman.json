@@ -1,0 +1,71 @@
+{
+  "id": "e689d7d2-51c0-4fe1-a9b8-2334e19b0d1e",
+  "type": "person",
+  "name": "Morgan Freeman",
+  "description": "American actor and narrator known for his distinctive voice and impressive versatility.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Morgan Freeman was born on June 1, 1937, in Memphis, Tennessee, United States. He is a celebrated American actor, film director, and narrator known for his deep and resonant voice. Freeman's passion for the arts began at an early age. After serving in the United States Air Force, he studied acting and began his career on stage before transitioning to television and film."
+    },
+    {
+      "title": "Career",
+      "body": "Freeman's breakthrough role came in the 1987 film *Street Smart*, which earned him his first Academy Award nomination. His career skyrocketed with his roles in iconic films such as *Driving Miss Daisy* (1989), *The Shawshank Redemption* (1994), *Se7en* (1995), *Bruce Almighty* (2003), and *Million Dollar Baby* (2004), the latter winning him an Oscar for Best Supporting Actor. He is also renowned for his portrayals of wise and authoritative characters, often serving as a narrator."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "Morgan Freeman frequently collaborated with directors such as Clint Eastwood and Christopher Nolan. His collaborations with Nolan include roles in *The Dark Knight Trilogy*, notably playing Lucius Fox."
+    },
+    {
+      "title": "Legacy",
+      "body": "Morgan Freeman is widely regarded as one of the most respected actors of his generation, with a career spanning over five decades. He has won numerous awards, including an Academy Award, a Golden Globe, and multiple SAG Awards. Freeman's influence on the industry is significant, known for his ability to truly embody a wide range of characters while providing a sense of gravity and wisdom on screen."
+    }
+  ],
+  "aliases": [
+    "Freeman"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "worked_with",
+      "target": "ffbc5d71-dd5e-4895-9898-73d7e5e0b0d9"
+    },
+    {
+      "type": "worked_with",
+      "target": "4d8c3b2e-153f-4ab5-bc53-57e8f759c6e9"
+    },
+    {
+      "type": "worked_with",
+      "target": "709fafc7-7df4-4a2e-8b8a-e53e9da184f7"
+    },
+    {
+      "type": "worked_with",
+      "target": "8e1f45e8-42ac-4c0b-977f-50f479d573b3"
+    }
+  ],
+  "properties": {
+    "born": 1937,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "director",
+      "producer",
+      "narrator"
+    ],
+    "active_years": "1964-present"
+  },
+  "tags": [
+    "actor",
+    "drama",
+    "thriller",
+    "new-hollywood",
+    "modern"
+  ]
+}

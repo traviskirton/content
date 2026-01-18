@@ -1,0 +1,49 @@
+{
+  "id": "80b5a063-bb7d-4afb-b35a-04f38ffe4076",
+  "type": "character",
+  "name": "Marshal James Strickland",
+  "description": "Lawman in Hill Valley during the 1885 timeline of Back to the Future Part III.",
+  "content": [
+    {
+      "title": "Background",
+      "body": "Marshal James Strickland is a law enforcement officer in Hill Valley during the year 1885. His role is both respected and integral to maintaining law and order in the community during this tumultuous period of the Old West."
+    },
+    {
+      "title": "Personality",
+      "body": "Strickland is depicted as a strict and no-nonsense lawman. He is dedicated to his duty and upholding justice, often seen as a tough and authoritative figure."
+    },
+    {
+      "title": "Story Role",
+      "body": "In *Back to the Future Part III*, Marshal James Strickland serves as a minor character who helps set the historical setting and tone of 1885 Hill Valley. His presence emphasizes the law enforcement dynamics of the era and illustrates the ongoing conflict with outlaws like Buford 'Mad Dog' Tannen."
+    },
+    {
+      "title": "Relationships",
+      "body": "Marshal Strickland has a direct adversarial relationship with Buford Tannen, who represents the outlaw faction in the area, posing challenges to Marshal Strickland's authority."
+    }
+  ],
+  "aliases": [
+    "Marshal Strickland",
+    "James Strickland"
+  ],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "rivals_with",
+      "target": "28e933d7-2659-4413-b2f2-4a126c7c1957"
+    }
+  ],
+  "properties": {
+    "species": "human",
+    "occupation": "lawman",
+    "portrayed_by": "James Tolkan"
+  },
+  "tags": [
+    "supporting",
+    "mentor",
+    "lawman",
+    "1885"
+  ]
+}

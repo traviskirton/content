@@ -1,0 +1,64 @@
+{
+  "id": "d4a8ef56-62d7-47b5-b8b4-96edf5556b59",
+  "type": "person",
+  "name": "Mackenzie Foy",
+  "description": "Mackenzie Foy is an American actress known for her roles in 'The Twilight Saga: Breaking Dawn' and 'Interstellar'.",
+  "content": [
+    {
+      "title": "Biography",
+      "body": "Mackenzie Foy was born on November 10, 2000, in Los Angeles, California, USA. She began modeling at the age of 3 and transitioned into acting with small roles on television shows such as 'FlashForward' and 'Hawaii Five-O'."
+    },
+    {
+      "title": "Career",
+      "body": "Foy's breakthrough role came in 2011 when she was cast as Renesmee Cullen in 'The Twilight Saga: Breaking Dawn – Part 2'. She further gained recognition for her performance as young Murph in Christopher Nolan's 'Interstellar' (2014). In addition to her film performances, Mackenzie Foy has also voiced characters in animated films, including 'The Little Prince' (2015)."
+    },
+    {
+      "title": "Notable Collaborations",
+      "body": "**Christopher Nolan**: Directed her in 'Interstellar', where she played a significant role alongside actors like Matthew McConaughey. **Jessica Chastain**: Shared the character 'Murph' with Foy in 'Interstellar'."
+    },
+    {
+      "title": "Legacy",
+      "body": "Foy has been recognized for her ability to portray complex characters from a young age. Her performances have garnered critical acclaim, contributing to her reputation as a talented young actress in Hollywood."
+    }
+  ],
+  "aliases": [
+    "Kenzie Foy"
+  ],
+  "relationships": [
+    {
+      "type": "acted_in",
+      "target": "ae2541d3-fd8b-4839-a91b-f8c8bdf5ef87"
+    },
+    {
+      "type": "acted_in",
+      "target": "d73b2e74-6b3b-4dda-9c02-5a5340a03738"
+    },
+    {
+      "type": "worked_with",
+      "target": "e6149baf-563e-4dc9-8eec-a7a33e3e95ac"
+    },
+    {
+      "type": "worked_with",
+      "target": "12f57ad2-8b6e-4e3d-a3f9-fac42eef1fe3"
+    },
+    {
+      "type": "worked_with",
+      "target": "ae2541d3-fd8b-4839-a91b-f8c8bdf5ef87"
+    }
+  ],
+  "properties": {
+    "born": 2000,
+    "nationality": "American",
+    "occupation": [
+      "actor",
+      "model"
+    ],
+    "active_years": "2009-present"
+  },
+  "tags": [
+    "actor",
+    "model",
+    "drama",
+    "modern"
+  ]
+}

@@ -1,0 +1,56 @@
+Create a detailed entity for the movie "[NAME]".
+
+Output valid JSON matching the entity schema in schemas/entity.schema.json.
+
+## Required Fields
+
+- **id**: Generate a new UUID
+- **type**: "movie"
+- **name**: The film's official title
+
+## Content Sections
+
+Include these sections as appropriate:
+
+- **Synopsis**: Brief plot summary (no major spoilers)
+- **Production**: How the film came to be made, development history
+- **Reception**: Critical and commercial response, awards
+- **Legacy**: Cultural impact, influence on other works
+
+## Properties to Consider
+
+- year: release year
+- runtime: length in minutes
+- genre: array of genres
+- budget: production budget (if known)
+- box_office: earnings (if known)
+- rating: MPAA rating (G, PG, PG-13, R, etc.)
+- Any other relevant attributes
+
+## Relationships
+
+Link to other entities using UUIDs:
+- directed_by: Director(s)
+- produced_by: Producer(s)
+- written_by: Screenwriter(s)
+- composed_by: Composer
+- stars: Lead actors
+- features_character: Main characters
+- features_location: Key locations in the film
+- produced_by_company: Production companies
+- distributed_by: Distribution companies
+- part_of: Franchise (if applicable)
+
+## Tags
+
+Add relevant tags for filtering:
+- Genre (sci-fi, comedy, drama, action)
+- Decade (1980s, 1990s, 2000s)
+- Themes (time-travel, coming-of-age, adventure)
+- Tone (classic, cult, blockbuster)
+
+## Guidelines
+
+- Keep descriptions factual and based on publicly available information
+- Use markdown formatting in body text (bold, lists, etc.)
+- Link to existing entities by UUID when possible
