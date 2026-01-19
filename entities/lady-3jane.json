@@ -47,13 +47,19 @@
     "influence_level": "High",
     "role_importance": "Major supporting"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "ruler"
+  },
   "tags": [
     "cyberpunk",
     "corporate",
     "aristocracy",
     "technology",
-    "AI",
-    "Neuromancer",
-    "power"
+    "artificial-intelligence",
+    "neuromancer",
+    "power",
+    "tessier-ashpool"
   ]
 }

@@ -45,12 +45,19 @@
     "affiliation": "Galactic Empire",
     "reign_period": "Late Galactic Empire era"
   },
+  "facets": {
+    "role": "ruler",
+    "morality": "neutral",
+    "archetype": "ruler"
+  },
   "tags": [
-    "science fiction",
-    "character",
-    "galactic empire",
-    "emperor",
-    "foundation series",
-    "politician"
+    "galactic-empire",
+    "foundation-series",
+    "politician",
+    "imperial-decline",
+    "asimov-universe",
+    "political-intrigue",
+    "courtly-politics",
+    "galactic-politics"
   ]
 }

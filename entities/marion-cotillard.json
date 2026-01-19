@@ -50,10 +50,21 @@
     ],
     "active_years": "1993-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "2000s",
+    "nationality": "french"
+  },
   "tags": [
-    "actor",
     "drama",
     "thriller",
-    "modern"
+    "versatile",
+    "method-acting",
+    "award-winning",
+    "french-cinema",
+    "hollywood",
+    "transformative-performances"
   ]
 }

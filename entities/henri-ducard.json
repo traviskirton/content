@@ -47,10 +47,19 @@
     "occupation": "Leader of the League of Shadows",
     "portrayed_by": "Liam Neeson"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mentor"
+  },
   "tags": [
-    "antagonist",
-    "mentor",
-    "villain",
-    "strategist"
+    "strategist",
+    "league-of-shadows",
+    "batman",
+    "martial-arts",
+    "ideological-conflict",
+    "batman-begins",
+    "betrayal",
+    "vigilantism"
   ]
 }

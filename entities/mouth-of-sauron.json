@@ -46,13 +46,20 @@
     "status": "Mortal",
     "origin": "Black Númenórean"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
     "middle-earth",
-    "lord of the rings",
+    "lord-of-the-rings",
     "sauron",
-    "antagonist",
-    "fantasy",
     "emissary",
-    "shadow"
+    "shadow",
+    "dark-lore",
+    "psychological-warfare",
+    "black-gate",
+    "dark-magic"
   ]
 }

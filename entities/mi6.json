@@ -48,13 +48,23 @@
     "headquarters": "London",
     "role": "Espionage and counterintelligence"
   },
+  "facets": {
+    "organization-type": "government-agency",
+    "focus": [
+      "espionage",
+      "covert-operations",
+      "counterintelligence"
+    ],
+    "nationality": "british",
+    "era": "cold-war"
+  },
   "tags": [
-    "Espionage",
-    "British Intelligence",
-    "Government Agency",
-    "Cold War",
-    "James Bond",
-    "Secret Service",
-    "Covert Operations"
+    "secret-service",
+    "british-intelligence",
+    "james-bond",
+    "intelligence-gathering",
+    "field-agents",
+    "geopolitical-stability",
+    "covert-diplomacy"
   ]
 }

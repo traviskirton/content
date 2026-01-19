@@ -38,13 +38,20 @@
     "personality_traits": "Cold, calculating, intimidating",
     "origin": "Camorr"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "fictional character",
-    "antagonist",
     "fantasy",
     "nobleman",
     "swordsman",
     "mysterious",
-    "Camorr"
+    "camorr",
+    "shadowy-power-broker",
+    "psychological-warfare",
+    "manipulation",
+    "enforcer"
   ]
 }

@@ -52,10 +52,19 @@
     "born": "unknown",
     "portrayed_by": "Thomas F. Wilson"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "outlaw"
+  },
   "tags": [
-    "antagonist",
-    "villain",
-    "gang leader",
-    "bully"
+    "gang-leader",
+    "bully",
+    "hoverboard",
+    "hill-valley",
+    "2015",
+    "reckless",
+    "back-to-the-future",
+    "tech-enhanced"
   ]
 }

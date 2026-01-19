@@ -51,14 +51,21 @@
     "role": "Antagonist",
     "relationship_to_baskervilles": "Illegitimate relative"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "Villain",
-    "Baskerville family",
-    "Moor",
-    "Poisoning",
-    "Deception",
-    "Detective fiction",
-    "Anthropology",
-    "Manipulation"
+    "baskerville-family",
+    "moor",
+    "poisoning",
+    "deception",
+    "detective-fiction",
+    "anthropology",
+    "manipulation",
+    "natural-sciences",
+    "botany",
+    "psychological-manipulation"
   ]
 }

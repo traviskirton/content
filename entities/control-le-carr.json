@@ -47,12 +47,20 @@
     "Role": "Intelligence Leadership",
     "Status": "Deceased"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "mentor"
+  },
   "tags": [
-    "Espionage",
-    "Cold War",
-    "British Intelligence",
-    "Leader",
-    "Counterintelligence",
-    "Tinker Tailor Soldier Spy"
+    "espionage",
+    "cold-war",
+    "british-intelligence",
+    "counterintelligence",
+    "tinker-tailor-soldier-spy",
+    "secretive",
+    "strategic-mind",
+    "bureaucratic-intrigue",
+    "paranoia"
   ]
 }

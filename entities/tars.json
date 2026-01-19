@@ -43,11 +43,20 @@
     "occupation": "mission support robot",
     "portrayed_by": "Bill Irwin (voice and puppeteering)"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "supporting",
-    "comic-relief",
     "robot",
     "loyal",
-    "witty"
+    "witty",
+    "comic-relief",
+    "ai",
+    "space-mission",
+    "advanced-technology",
+    "mission-support",
+    "interstellar"
   ]
 }

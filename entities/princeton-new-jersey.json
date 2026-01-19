@@ -38,10 +38,19 @@
       "long": -74.6672
     }
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "active",
     "public",
-    "tours-available"
+    "tours-available",
+    "ivy-league",
+    "university-town",
+    "historical-attractions",
+    "pedestrian-friendly",
+    "cultural-hub"
   ]
 }

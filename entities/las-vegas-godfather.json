@@ -42,14 +42,19 @@
     "time_period": "1950s-1960s",
     "status": "Major mafia hub"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "location",
     "mafia",
-    "Las Vegas",
-    "The Godfather",
+    "the-godfather",
     "casino",
-    "organized_crime",
-    "1980s",
-    "American Dream"
+    "organized-crime",
+    "american-dream",
+    "mid-century",
+    "nevada",
+    "sin-city"
   ]
 }

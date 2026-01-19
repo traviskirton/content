@@ -45,9 +45,23 @@
     ],
     "active_years": "2000-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "drama",
-    "modern"
+    "indie",
+    "method-acting",
+    "nuanced-performance",
+    "mainstream",
+    "complex-characters",
+    "versatile"
   ]
 }

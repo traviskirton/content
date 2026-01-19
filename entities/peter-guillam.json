@@ -51,12 +51,21 @@
     "role": "Intelligence Officer",
     "skill_level": "Expert"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "everyman"
+  },
   "tags": [
-    "Cold War",
-    "Spy",
-    "Intelligence",
-    "British Secret Service",
-    "Covert Operative",
-    "Supporting Character"
+    "cold-war",
+    "spy",
+    "intelligence",
+    "british-secret-service",
+    "covert-operative",
+    "espionage",
+    "counter-intelligence",
+    "operational-planning",
+    "loyalty",
+    "discreet"
   ]
 }

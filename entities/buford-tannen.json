@@ -56,9 +56,10 @@
     "born": "around 1850",
     "portrayed_by": "Thomas F. Wilson"
   },
-  "tags": [
-    "antagonist",
-    "villain",
-    "outlaw"
-  ]
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "outlaw"
+  },
+  "tags": []
 }

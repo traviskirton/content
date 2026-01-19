@@ -45,14 +45,21 @@
     "born": "circa 1790",
     "died": "circa 1844"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "antagonist",
-    "villain",
     "human",
     "nobleman",
     "jealous",
     "betrayer",
-    "The Count of Monte Cristo",
-    "19th century"
+    "the-count-of-monte-cristo",
+    "19th-century",
+    "social-climbing",
+    "military-officer",
+    "envy",
+    "ambitious"
   ]
 }

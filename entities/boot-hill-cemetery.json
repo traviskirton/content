@@ -39,11 +39,17 @@
     "fictional": true,
     "type": "cemetery"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "cemetery",
     "western",
     "1885",
-    "Hill Valley",
-    "Back to the Future Part III"
+    "hill-valley",
+    "back-to-the-future-part-iii",
+    "old-west",
+    "cemetery"
   ]
 }

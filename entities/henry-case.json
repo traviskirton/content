@@ -46,12 +46,20 @@
       "survival"
     ]
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "ambiguous",
+    "archetype": "rebel"
+  },
   "tags": [
-    "character",
-    "protagonist",
     "cyberpunk",
     "hacker",
-    "fictional character",
-    "William Gibson"
+    "william-gibson",
+    "console-cowboy",
+    "dystopian",
+    "streetwise",
+    "cyberspace",
+    "drug-use",
+    "chiba-city"
   ]
 }

@@ -47,10 +47,22 @@
     ],
     "active_years": "1970-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "producer"
+    ],
+    "active-era": "1970-present",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "producer",
     "marvel",
-    "modern"
+    "hollywood",
+    "iron-man",
+    "mcu",
+    "charismatic",
+    "a-lister",
+    "comeback",
+    "award-nominee"
   ]
 }

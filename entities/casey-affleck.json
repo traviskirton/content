@@ -45,10 +45,24 @@
     ],
     "active_years": "1988-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "director",
     "drama",
-    "modern"
+    "independent-film",
+    "oscar-winner",
+    "method-actor",
+    "character-driven",
+    "manchester-by-the-sea",
+    "gone-baby-gone",
+    "american-cinema"
   ]
 }

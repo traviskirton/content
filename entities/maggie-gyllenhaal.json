@@ -53,12 +53,21 @@
       "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
     }
   ],
+  "facets": {
+    "profession": [
+      "actor",
+      "director",
+      "producer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "director",
-    "producer",
     "drama",
     "independent-film",
-    "modern"
+    "character-driven",
+    "nuanced-performer",
+    "award-winning",
+    "female-filmmaker"
   ]
 }

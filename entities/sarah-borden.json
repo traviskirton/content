@@ -39,9 +39,18 @@
     "occupation": "housewife",
     "portrayed_by": "Rebecca Hall"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "supporting",
     "tragic",
-    "wife"
+    "wife",
+    "emotional-sacrifice",
+    "family-drama",
+    "period-drama",
+    "stage-magic",
+    "rebecca-hall"
   ]
 }

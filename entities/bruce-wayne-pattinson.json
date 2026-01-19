@@ -81,11 +81,20 @@
     "born": "1985",
     "portrayed_by": "Robert Pattinson"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
-    "protagonist",
-    "hero",
     "detective",
     "billionaire",
-    "vigilante"
+    "vigilante",
+    "gotham",
+    "masked-hero",
+    "martial-arts",
+    "noir",
+    "dark-knight",
+    "batman"
   ]
 }

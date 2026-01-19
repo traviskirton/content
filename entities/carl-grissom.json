@@ -43,9 +43,19 @@
     "occupation": "crime boss",
     "portrayed_by": "Jack Palance"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "antagonist",
-    "villain",
-    "crime lord"
+    "crime-lord",
+    "gotham",
+    "organized-crime",
+    "corruption",
+    "power",
+    "underworld",
+    "batman",
+    "jack-palance"
   ]
 }

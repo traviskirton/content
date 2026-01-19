@@ -39,12 +39,20 @@
     "age": "Young adult",
     "family_lineage": "Royal"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
-    "The Hobbit",
-    "Dwarf",
-    "Middle-earth",
-    "Adventurer",
-    "Warrior",
-    "Royalty"
+    "the-hobbit",
+    "middle-earth",
+    "dwarf",
+    "adventurer",
+    "royalty",
+    "archer",
+    "loyal",
+    "brave",
+    "youngest-dwarf"
   ]
 }

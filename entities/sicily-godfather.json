@@ -42,13 +42,19 @@
     "cultural_importance": true,
     "crime_association": "Mafia origin"
   },
+  "facets": {
+    "location-type": "region",
+    "reality": "real",
+    "scale": "region"
+  },
   "tags": [
-    "location",
-    "Sicily",
-    "Italy",
-    "The Godfather",
-    "Mafia",
-    "Ancestral Homeland",
-    "Cultural Heritage"
+    "sicily",
+    "italy",
+    "godfather",
+    "mafia",
+    "cultural-heritage",
+    "ancestral-homeland",
+    "crime-history",
+    "mediterranean"
   ]
 }

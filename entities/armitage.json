@@ -43,13 +43,20 @@
     "mental_status": "Psychologically reconstructed",
     "role_importance": "Primary facilitator"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "mastermind"
+  },
   "tags": [
     "cyberpunk",
-    "AI",
+    "ai",
     "military",
     "psychology",
     "manipulation",
     "fixer",
-    "Neuromancer"
+    "neuromancer",
+    "covert-operations",
+    "psychological-conflict"
   ]
 }

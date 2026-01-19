@@ -40,13 +40,19 @@
     "construction": "Underground dugout",
     "era": "Third Age"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "Shire",
-    "Hobbits",
-    "Residence",
-    "Home",
-    "Hobbit-hole",
-    "Setting",
-    "Middle-earth"
+    "shire",
+    "hobbits",
+    "hobbit-hole",
+    "middle-earth",
+    "baggins-family",
+    "hobbiton",
+    "tolkien-universe",
+    "fantasy-setting"
   ]
 }

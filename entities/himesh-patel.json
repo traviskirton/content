@@ -39,12 +39,22 @@
     ],
     "active_years": "2007-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "2000s",
+    "nationality": "british"
+  },
   "tags": [
-    "actor",
     "musician",
-    "modern",
     "comedy",
     "drama",
-    "sci-fi"
+    "sci-fi",
+    "yesterday",
+    "tenet",
+    "british-cinema",
+    "musical",
+    "indie-film"
   ]
 }

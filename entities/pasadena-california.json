@@ -35,10 +35,19 @@
     "country": "United States",
     "fictional": false
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "california",
     "filming-location",
-    "los-angeles-county"
+    "los-angeles-county",
+    "rose-bowl",
+    "caltech",
+    "southern-california",
+    "urban",
+    "tourist-destination"
   ]
 }

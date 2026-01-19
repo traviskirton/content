@@ -47,9 +47,18 @@
     "occupation": "Police Officer",
     "portrayed_by": "Joseph Gordon-Levitt"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "protector"
+  },
   "tags": [
-    "protagonist",
-    "hero",
-    "police officer"
+    "police-officer",
+    "gotham",
+    "ally",
+    "justice",
+    "detective",
+    "batman",
+    "loyal"
   ]
 }

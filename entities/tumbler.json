@@ -61,12 +61,19 @@
     "year": "2005",
     "fictional": true
   },
+  "facets": {
+    "vehicle-type": "car",
+    "reality": "fictional",
+    "manufacturer": "Wayne Enterprises"
+  },
   "tags": [
-    "vehicle",
-    "car",
-    "action",
-    "sci-fi",
-    "Batman",
-    "combat"
+    "batman",
+    "combat",
+    "military-prototype",
+    "jet-engine",
+    "armored",
+    "high-speed",
+    "batmobile",
+    "dark-knight-trilogy"
   ]
 }

@@ -39,9 +39,19 @@
     "occupation": "Dream Architect",
     "portrayed_by": "Marion Cotillard"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "ambiguous",
+    "archetype": "ghost"
+  },
   "tags": [
-    "antagonist",
     "haunting",
-    "illusion"
+    "illusion",
+    "projection",
+    "subconscious",
+    "dream-architecture",
+    "guilt",
+    "grief",
+    "marion-cotillard"
   ]
 }

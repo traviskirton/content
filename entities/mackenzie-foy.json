@@ -55,10 +55,18 @@
     ],
     "active_years": "2009-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "model",
     "drama",
-    "modern"
+    "child-actor",
+    "film",
+    "young-talent"
   ]
 }

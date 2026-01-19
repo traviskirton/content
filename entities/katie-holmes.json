@@ -43,10 +43,22 @@
     ],
     "active_years": "1997-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "producer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "producer",
     "drama",
-    "modern"
+    "1990s",
+    "early-2000s",
+    "television",
+    "film",
+    "joey-potter",
+    "dawsons-creek",
+    "batman-begins"
   ]
 }

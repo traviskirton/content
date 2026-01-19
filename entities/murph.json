@@ -47,10 +47,19 @@
     "occupation": "physicist",
     "portrayed_by": "Jessica Chastain"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "sage"
+  },
   "tags": [
-    "protagonist",
-    "scientist",
+    "physicist",
+    "quantum-mechanics",
+    "gravitational-science",
     "time-traveler",
-    "hero"
+    "scientist",
+    "family",
+    "sacrifice",
+    "hope"
   ]
 }

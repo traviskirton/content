@@ -43,10 +43,21 @@
     ],
     "active_years": "2008-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "drama",
-    "modern",
-    "indie"
+    "indie",
+    "coming-of-age",
+    "independent-films",
+    "character-driven",
+    "award-nominee",
+    "arthouse",
+    "method-acting"
   ]
 }

@@ -36,12 +36,23 @@
     "debut_novel_year": 2006,
     "occupation": "Author"
   },
+  "facets": {
+    "profession": [
+      "author",
+      "writer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "author",
+    "gentleman-bastard",
+    "american-literature",
+    "speculative-fiction",
     "fantasy",
-    "writer",
-    "Gentleman Bastard",
-    "American literature",
-    "speculative fiction"
+    "crime-caper",
+    "complex-characters",
+    "dark-fantasy",
+    "heist",
+    "intrigue"
   ]
 }

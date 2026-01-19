@@ -48,13 +48,14 @@
     ],
     "film_appearance": 1964
   },
+  "facets": {},
   "tags": [
-    "Weapon",
-    "Henchman Gear",
-    "Oddjob",
-    "Goldfinger",
-    "Bond Villains",
-    "Gadget",
-    "Throwing Weapon"
+    "weapon",
+    "henchman-gear",
+    "oddjob",
+    "goldfinger",
+    "bond-villains",
+    "gadget",
+    "throwing-weapon"
   ]
 }

@@ -47,10 +47,17 @@
     "item_type": "artifact",
     "fictional": true
   },
+  "facets": {
+    "type": "artifact",
+    "era": "19th-century",
+    "fictional": true
+  },
   "tags": [
-    "artifact",
-    "sci-fi",
-    "19th century",
-    "macguffin"
+    "macguffin",
+    "makeshift-weapon",
+    "kitchenware",
+    "saloon",
+    "marty-mcfly",
+    "back-to-the-future"
   ]
 }

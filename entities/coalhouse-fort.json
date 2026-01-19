@@ -38,11 +38,20 @@
       "longitude": 0.4293
     }
   },
+  "facets": {
+    "location-type": "structure",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
     "historic",
-    "fort",
     "preserved",
     "public",
-    "tours-available"
+    "tours-available",
+    "military-architecture",
+    "heritage-site",
+    "east-tilbury",
+    "essex",
+    "united-kingdom"
   ]
 }

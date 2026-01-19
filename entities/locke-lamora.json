@@ -61,13 +61,20 @@
     ],
     "alignment": "Chaotic Neutral"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "ambiguous",
+    "archetype": "trickster"
+  },
   "tags": [
-    "character",
-    "protagonist",
     "thief",
-    "con artist",
+    "con-artist",
     "fantasy",
-    "Camorr",
-    "Gentleman Bastard"
+    "camorr",
+    "gentleman-bastard",
+    "heist",
+    "charismatic",
+    "strategy",
+    "deception"
   ]
 }

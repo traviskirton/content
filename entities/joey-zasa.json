@@ -46,13 +46,20 @@
     "portrayed_by": "Joe Mantegna",
     "appearance_year": 1990
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "The Godfather Part III",
-    "antagonist",
+    "the-godfather-part-iii",
     "mafia",
-    "criminal underworld",
-    "New York",
-    "organized crime",
-    "violent"
+    "criminal-underworld",
+    "new-york",
+    "organized-crime",
+    "violent",
+    "gangster",
+    "mob-boss",
+    "power-struggle"
   ]
 }

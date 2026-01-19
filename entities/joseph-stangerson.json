@@ -46,12 +46,19 @@
     "appearance": "Supporting antagonist",
     "nationality": "Implied American"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "villainous",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "A Study in Scarlet",
-    "character",
-    "antagonist",
-    "fictional secretary",
-    "Sherlock Holmes",
-    "19th century literature"
+    "a-study-in-scarlet",
+    "sherlock-holmes",
+    "19th-century-literature",
+    "secretary",
+    "loyal-subordinate",
+    "accomplice",
+    "conspiracy",
+    "victorian-era"
   ]
 }

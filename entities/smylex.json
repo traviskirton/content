@@ -45,12 +45,19 @@
     "created_by": "The Joker",
     "fictional": true
   },
+  "facets": {
+    "morality": "villainous"
+  },
   "tags": [
     "weapon",
     "chemical",
     "toxic",
     "macguffin",
-    "villainous",
-    "fictional"
+    "fictional",
+    "joker-grin",
+    "toxin",
+    "gotham-city",
+    "batman-1989",
+    "axis-chemicals"
   ]
 }

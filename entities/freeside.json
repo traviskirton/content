@@ -43,14 +43,21 @@
     "population": "Elite and shadow operators",
     "climate": "Artificial environment"
   },
+  "facets": {
+    "location-type": "structure",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "location",
-    "space station",
     "cyberpunk",
+    "space-station",
     "resort",
-    "free trade",
-    "setting",
+    "free-trade",
     "orbit",
-    "the-sprawl"
+    "the-sprawl",
+    "neon",
+    "high-technology",
+    "luxury",
+    "decadence"
   ]
 }

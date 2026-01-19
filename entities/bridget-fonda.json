@@ -43,12 +43,22 @@
     "active_years": "1987–2003",
     "family": "Fonda family"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "1990s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "The Godfather Part III",
-    "1990s cinema",
+    "the-godfather-part-iii",
+    "1990s-cinema",
     "drama",
     "thriller",
-    "Fonda family"
+    "fonda-family",
+    "crime-drama",
+    "strong-female-roles",
+    "naturalistic-performance",
+    "hollywood"
   ]
 }

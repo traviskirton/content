@@ -59,10 +59,20 @@
       "long": -118.3534
     }
   },
+  "facets": {
+    "location-type": "studio",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "studio",
     "active",
     "tours-available",
-    "public"
+    "public",
+    "theme-park",
+    "entertainment",
+    "film-studio",
+    "los-angeles",
+    "hollywood",
+    "movie-lot"
   ]
 }

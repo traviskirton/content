@@ -40,11 +40,18 @@
     "fictional": true,
     "type": "city"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
-    "sci-fi",
-    "historical",
-    "fictional",
-    "The Prestige"
+    "the-prestige",
+    "scientific-experiments",
+    "tesla-laboratory",
+    "mystery",
+    "innovation",
+    "isolated",
+    "turning-point"
   ]
 }

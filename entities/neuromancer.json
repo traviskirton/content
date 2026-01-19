@@ -40,11 +40,11 @@
       "target": "54d8740e-f091-4f1d-9cd5-1c3a077be9a7"
     },
     {
-      "type": "features_character",
+      "type": "features-character",
       "target": "8ec8a9e9-3b3b-4b3d-8c9a-225ea62a117c"
     },
     {
-      "type": "features_character",
+      "type": "features-character",
       "target": "1a9f67b2-74f6-46da-82a7-62fe32246dfb"
     }
   ],
@@ -54,15 +54,28 @@
     "pages": 271,
     "publisher": "Ace Books"
   },
+  "facets": {
+    "genre": [
+      "sci-fi",
+      "cyberpunk"
+    ],
+    "era": "1980s",
+    "tone": [
+      "dark",
+      "gritty",
+      "atmospheric"
+    ],
+    "rating": ""
+  },
   "tags": [
-    "cyberpunk",
-    "science fiction",
-    "William Gibson",
-    "novel",
-    "AI",
+    "william-gibson",
+    "ai",
     "hacking",
-    "virtual reality",
+    "virtual-reality",
     "dystopia",
-    "sprawl-trilogy"
+    "sprawl-trilogy",
+    "cyberspace",
+    "corporate-espionage",
+    "cybernetic-augmentation"
   ]
 }

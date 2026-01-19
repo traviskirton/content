@@ -43,13 +43,22 @@
     ],
     "active_years": "1930-1979"
   },
+  "facets": {
+    "profession": [
+      "composer"
+    ],
+    "active-era": "mid-century",
+    "nationality": "italian"
+  },
   "tags": [
-    "composer",
-    "film score",
-    "Italian music",
-    "The Godfather",
-    "academy award winner",
-    "classical music",
-    "cinema music"
+    "film-score",
+    "italian-music",
+    "the-godfather",
+    "academy-award-winner",
+    "classical-music",
+    "cinema-music",
+    "conductor",
+    "orchestral",
+    "film-composer"
   ]
 }

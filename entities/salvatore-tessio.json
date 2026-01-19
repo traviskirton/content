@@ -45,12 +45,20 @@
     "origin": "Italy",
     "notable_betrayal": true
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "Mafia",
-    "Capo",
-    "Betrayer",
-    "Corleone Family",
-    "Organized crime",
-    "Strategist"
+    "mafia",
+    "betrayer",
+    "corleone-family",
+    "organized-crime",
+    "strategist",
+    "mob-politics",
+    "tactical",
+    "negotiator",
+    "betrayal"
   ]
 }

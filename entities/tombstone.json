@@ -48,11 +48,15 @@
     "created_by": "Buford Tannen",
     "fictional": true
   },
+  "facets": {
+    "genre": [
+      "sci-fi",
+      "western"
+    ]
+  },
   "tags": [
     "artifact",
-    "sci-fi",
     "macguffin",
-    "time-travel",
-    "Western"
+    "time-travel"
   ]
 }

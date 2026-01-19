@@ -51,10 +51,21 @@
     ],
     "active_years": "1952-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "modern",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
+    "dancer",
     "drama",
     "comedy",
-    "modern"
+    "character-actor",
+    "eccentric",
+    "cult-classic",
+    "award-winning",
+    "voice-performance"
   ]
 }

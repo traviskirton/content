@@ -44,9 +44,19 @@
     "occupation": "U.S. Army General",
     "portrayed_by": "Matt Damon"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "mentor",
-    "military"
+    "military",
+    "manhattan-project",
+    "wwii",
+    "atomic-bomb",
+    "strategic-leader",
+    "historical-figure",
+    "authoritative",
+    "matt-damon"
   ]
 }

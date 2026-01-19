@@ -47,10 +47,21 @@
       "long": -79.9959
     }
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
-    "active",
-    "public",
-    "tours-available"
+    "steel-industry",
+    "film-production",
+    "cultural-scene",
+    "scenic-views",
+    "guided-tours",
+    "historical",
+    "architecture",
+    "urban",
+    "pennsylvania",
+    "united-states"
   ]
 }

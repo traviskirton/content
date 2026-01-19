@@ -63,10 +63,19 @@
       "long": -118.3366
     }
   },
+  "facets": {
+    "location-type": "studio",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "studio",
-    "active",
-    "tours-available",
+    "film-production",
+    "television",
+    "tourism",
+    "film-history",
+    "soundstages",
+    "backlot",
+    "post-production",
     "private"
   ]
 }

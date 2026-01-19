@@ -113,13 +113,29 @@
     "box_office": 109676311,
     "rating": "PG-13"
   },
+  "facets": {
+    "genre": [
+      "mystery",
+      "thriller",
+      "drama"
+    ],
+    "era": "2000s",
+    "tone": [
+      "dark",
+      "serious",
+      "atmospheric"
+    ],
+    "rating": "teen"
+  },
   "tags": [
-    "mystery",
-    "thriller",
-    "2000s",
-    "drama",
     "cult",
-    "Christopher Nolan",
-    "christopher-nolan"
+    "christopher-nolan",
+    "rivalry",
+    "stage-illusion",
+    "period-drama",
+    "practical-effects",
+    "complex-narrative",
+    "puzzle",
+    "magic"
   ]
 }

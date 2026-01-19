@@ -51,12 +51,21 @@
     "occupation": "Heir and landowner",
     "status": "Survivor"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "everyman"
+  },
   "tags": [
-    "Protagonist",
-    "Baskerville family",
-    "British gentry",
-    "Heir",
-    "Victorian era",
-    "Fictional nobility"
+    "baskerville-family",
+    "british-gentry",
+    "heir",
+    "victorian",
+    "fictional-nobility",
+    "mystery",
+    "detective-fiction",
+    "devon-moor",
+    "gothic",
+    "survivor"
   ]
 }

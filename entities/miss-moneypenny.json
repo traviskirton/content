@@ -50,13 +50,20 @@
     "occupation": "Secretary",
     "organization": "MI6"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "James Bond",
-    "MI6",
+    "james-bond",
+    "mi6",
     "secretary",
-    "supporting character",
-    "Casino Royale",
-    "fictional character",
-    "spy fiction"
+    "casino-royale",
+    "spy-fiction",
+    "office-politics",
+    "loyalty",
+    "romantic-tension",
+    "intelligence"
   ]
 }

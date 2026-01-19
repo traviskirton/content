@@ -49,13 +49,20 @@
       "target": "878e8ef7-cac7-4094-8b84-a5467a5248ed"
     }
   ],
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "lover"
+  },
   "tags": [
-    "supporting",
-    "hero",
-    "noble",
     "princess",
     "ally",
-    "19th century",
-    "human"
+    "noble",
+    "emotional-resilience",
+    "court-testimony",
+    "loyalty",
+    "justice",
+    "romance",
+    "early-19th-century"
   ]
 }

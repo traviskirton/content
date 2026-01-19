@@ -38,13 +38,18 @@
     "political_system": "Complex Federation",
     "status": "Contested Territory"
   },
+  "facets": {
+    "location-type": "planet",
+    "reality": "fictional",
+    "scale": "planet"
+  },
   "tags": [
-    "location",
-    "planet",
-    "Foundation series",
-    "science fiction",
-    "Isaac Asimov",
+    "foundation-series",
+    "isaac-asimov",
     "politics",
-    "Galactic conflicts"
+    "galactic-conflicts",
+    "strategic",
+    "federation",
+    "contested-territory"
   ]
 }

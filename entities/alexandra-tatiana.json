@@ -50,12 +50,20 @@
     "importance": "Emotional and informational linchpin",
     "connection": "Soviet espionage network"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "Soviet Union",
-    "Female Character",
-    "Cold War",
-    "Espionage",
-    "Emigre",
-    "Supporting Character"
+    "soviet-union",
+    "cold-war",
+    "espionage",
+    "emigre",
+    "emotional-linchpin",
+    "informational-linchpin",
+    "spy-tradecraft",
+    "survival-skills",
+    "emotional-intelligence"
   ]
 }

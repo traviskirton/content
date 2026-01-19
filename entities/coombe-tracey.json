@@ -43,14 +43,20 @@
     "terrain": "Moorland",
     "climate": "Temperate Oceanic"
   },
+  "facets": {
+    "location-type": "village",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "location",
-    "England",
-    "village",
+    "devon",
+    "english-countryside",
     "moorland",
-    "fictional setting",
     "mystery",
-    "Gothic",
-    "rural"
+    "gothic",
+    "rural",
+    "fog",
+    "atmospheric",
+    "baskerville-estate"
   ]
 }

@@ -64,13 +64,24 @@
     ],
     "active_years": "1972-present"
   },
+  "facets": {
+    "profession": [
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "director",
-    "producer",
-    "writer",
     "sci-fi",
     "comedy",
     "drama",
-    "modern"
+    "academy-award-winner",
+    "back-to-the-future",
+    "forrest-gump",
+    "film-technology",
+    "cgi",
+    "special-effects"
   ]
 }

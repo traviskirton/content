@@ -42,12 +42,20 @@
     "social_status": "Wealthy",
     "occupation": "Unknown"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "Victim",
-    "Murdered",
-    "Antagonist",
-    "Mormon",
-    "Revenge Plot",
-    "A Study in Scarlet"
+    "victim",
+    "murdered",
+    "mormon",
+    "revenge-plot",
+    "a-study-in-scarlet",
+    "wealthy",
+    "arrogant",
+    "callous",
+    "social-status"
   ]
 }

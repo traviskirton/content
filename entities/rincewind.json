@@ -47,14 +47,20 @@
     "origin": "Unseen University",
     "notable_trait": "Cowardice and survival instinct"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "ambiguous",
+    "archetype": "everyman"
+  },
   "tags": [
-    "Discworld",
+    "discworld",
     "wizard",
-    "character",
     "fantasy",
-    "fictional",
     "coward",
-    "protagonist",
-    "humor"
+    "humor",
+    "survival",
+    "escape",
+    "reluctant-hero",
+    "magic"
   ]
 }

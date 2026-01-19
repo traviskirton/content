@@ -42,14 +42,20 @@
     "nationality": "Italian-American",
     "role_importance": "Supporting antagonist"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "rebel"
+  },
   "tags": [
     "mafia",
     "family",
-    "The Godfather",
+    "godfather",
     "betrayal",
-    "character",
     "1960s",
-    "Italian-American",
-    "film"
+    "italian-american",
+    "gangster",
+    "organized-crime",
+    "crime-family"
   ]
 }

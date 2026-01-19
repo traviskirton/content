@@ -47,10 +47,20 @@
     "occupation": "inventor",
     "portrayed_by": "David Bowie"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "mentor",
+    "inventor",
     "scientist",
-    "inventor"
+    "electrical-engineer",
+    "visionary",
+    "eccentric",
+    "wireless-energy",
+    "magical-technology",
+    "the-prestige",
+    "david-bowie"
   ]
 }

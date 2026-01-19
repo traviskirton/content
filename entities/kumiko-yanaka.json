@@ -47,14 +47,21 @@
     "nationality": "Japanese",
     "role": "Supporting protagonist"
   },
+  "facets": {
+    "role": "deuteragonist",
+    "morality": "heroic",
+    "archetype": "explorer"
+  },
   "tags": [
     "cyberpunk",
     "netrunner",
     "technician",
-    "Mona Lisa Overdrive",
-    "Sprawl",
-    "William Gibson",
-    "fictional character",
-    "hacker"
+    "mona-lisa-overdrive",
+    "sprawl",
+    "william-gibson",
+    "hacker",
+    "cyberspace",
+    "digital-espionage",
+    "corporate-warfare"
   ]
 }

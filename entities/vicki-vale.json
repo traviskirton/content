@@ -43,10 +43,20 @@
     "occupation": "journalist",
     "portrayed_by": "Kim Basinger"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "explorer"
+  },
   "tags": [
-    "supporting",
     "journalist",
     "love-interest",
-    "investigator"
+    "investigator",
+    "gotham",
+    "dc-universe",
+    "ethical",
+    "curious",
+    "determined",
+    "tenacious"
   ]
 }

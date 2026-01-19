@@ -28,10 +28,19 @@
     "fictional": true,
     "type": "region"
   },
+  "facets": {
+    "location-type": "region",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "region",
     "luxury",
     "sci-fi",
-    "futuristic"
+    "futuristic",
+    "seaside",
+    "cliffs",
+    "yacht-marinas",
+    "private-beaches",
+    "elegant-villas"
   ]
 }

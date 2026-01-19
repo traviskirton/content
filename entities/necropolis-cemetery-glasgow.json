@@ -46,10 +46,19 @@
       "longitude": -4.234423
     }
   },
+  "facets": {
+    "location-type": "structure",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "cemetery",
     "preserved",
     "tours-available",
-    "public"
+    "public",
+    "historical-site",
+    "architectural-monuments",
+    "filming-location",
+    "glasgow",
+    "cemetery"
   ]
 }

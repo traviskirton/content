@@ -46,14 +46,26 @@
     "series_order": 22,
     "pages": 320
   },
+  "facets": {
+    "genre": [
+      "fantasy"
+    ],
+    "era": "1990s",
+    "tone": [
+      "satirical",
+      "whimsical"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "book",
-    "fantasy",
-    "satire",
     "discworld",
     "rincewind",
     "australia",
     "chaos",
-    "mythology"
+    "mythology",
+    "parody",
+    "bureaucracy",
+    "survival",
+    "identity"
   ]
 }

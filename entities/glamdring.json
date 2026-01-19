@@ -42,12 +42,20 @@
     "magic_property": "Glows blue near orcs/goblins",
     "material": "Elven steel"
   },
+  "facets": {
+    "weapon-type": "sword",
+    "origin": "elven",
+    "magic": "yes"
+  },
   "tags": [
-    "The Hobbit",
-    "The Lord of the Rings",
-    "Elven",
-    "Sword",
-    "Magic",
-    "Fantasy"
+    "fantasy",
+    "middle-earth",
+    "legendary",
+    "magical-weapon",
+    "elven-steel",
+    "gondolin",
+    "gandalf",
+    "foe-hammer",
+    "ancient"
   ]
 }

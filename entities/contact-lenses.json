@@ -40,11 +40,14 @@
     "created_by": "Bruce Wayne",
     "fictional": true
   },
+  "facets": {},
   "tags": [
     "technology",
     "device",
     "surveillance",
-    "The Batman",
-    "fictional technology"
+    "the-batman",
+    "fictional-technology",
+    "gotham",
+    "batman-tech"
   ]
 }

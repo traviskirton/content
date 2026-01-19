@@ -48,13 +48,23 @@
     "primary_users": "British Intelligence Services",
     "operational_status": "Active during 'Smiley's People' timeline"
   },
+  "facets": {
+    "era": "cold-war",
+    "theme": [
+      "espionage",
+      "intelligence",
+      "clandestine-operations",
+      "human-intelligence",
+      "secret-agency"
+    ]
+  },
   "tags": [
-    "espionage",
-    "intelligence",
-    "Cold War",
-    "spying network",
-    "human intelligence",
-    "John le Carré",
-    "Smiley's People"
+    "john-le-carré",
+    "smileys-people",
+    "spy-network",
+    "cold-war-europe",
+    "british-intelligence",
+    "cloaked-operations",
+    "agent-coordination"
   ]
 }

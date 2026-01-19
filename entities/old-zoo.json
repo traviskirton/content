@@ -38,10 +38,19 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
-    "fiction",
-    "Batman",
-    "Gotham City"
+    "batman",
+    "gotham-city",
+    "abandoned",
+    "zoo",
+    "criminal-hideout",
+    "decay",
+    "gothic-architecture",
+    "dark-atmosphere"
   ]
 }

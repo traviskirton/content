@@ -46,12 +46,21 @@
     "origin": "The Sprawl",
     "role": "Central character"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "ambiguous",
+    "archetype": "rebel"
+  },
   "tags": [
     "cyberpunk",
-    "protagonist",
     "cyberspace",
     "augmentation",
+    "social-engineering",
+    "negotiation",
+    "disguise",
     "spy",
-    "hacker-related"
+    "hacker-related",
+    "corporate-espionage",
+    "cybernetic-augmentations"
   ]
 }

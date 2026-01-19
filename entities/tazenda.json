@@ -36,12 +36,18 @@
     "population": "Sparse",
     "government": "Local Council"
   },
+  "facets": {
+    "location-type": "planet",
+    "reality": "fictional",
+    "scale": "planet"
+  },
   "tags": [
-    "Foundation",
-    "Planet",
-    "Resources",
-    "Science Fiction",
-    "Tazenda",
-    "Isaac Asimov"
+    "foundation-universe",
+    "resource-extraction",
+    "rugged-terrain",
+    "sparse-population",
+    "strategic-location",
+    "isaac-asimov",
+    "science-fiction"
   ]
 }

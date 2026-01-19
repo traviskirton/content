@@ -63,13 +63,27 @@
       "radio"
     ]
   },
+  "facets": {
+    "genre": [
+      "fantasy",
+      "adventure"
+    ],
+    "era": "mid-century",
+    "tone": [
+      "epic",
+      "mythological"
+    ],
+    "rating": ""
+  },
   "tags": [
-    "fantasy",
-    "epic",
-    "adventure",
-    "mythology",
-    "Middle-earth",
-    "J.R.R. Tolkien",
-    "novel trilogy"
+    "middle-earth",
+    "j.r.r.-tolkien",
+    "novel-trilogy",
+    "good-vs-evil",
+    "redemption",
+    "moral-integrity",
+    "friendship",
+    "quest",
+    "high-fantasy"
   ]
 }

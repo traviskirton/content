@@ -43,14 +43,21 @@
     "status": "Alive during story",
     "notable_event": "Horse head incident"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "ruler"
+  },
   "tags": [
     "hollywood",
     "mafia",
     "business",
-    "The Godfather",
-    "film_industry",
-    "fictional_character",
+    "the-godfather",
+    "film-industry",
     "power",
-    "intimidation"
+    "intimidation",
+    "organized-crime",
+    "mafia-influence",
+    "classic-hollywood"
   ]
 }

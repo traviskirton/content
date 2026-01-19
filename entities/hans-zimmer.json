@@ -79,10 +79,22 @@
     ],
     "active_years": "1977-present"
   },
+  "facets": {
+    "profession": [
+      "composer",
+      "producer"
+    ],
+    "active-era": "1980s",
+    "nationality": "german"
+  },
   "tags": [
-    "composer",
-    "music",
-    "film",
+    "film-music",
+    "soundtrack",
+    "orchestral",
+    "electronic",
+    "innovative",
+    "award-winning",
+    "cinematic",
     "modern"
   ]
 }

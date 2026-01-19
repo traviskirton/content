@@ -191,8 +191,20 @@
     "type": "country",
     "fictional": false
   },
+  "facets": {
+    "location-type": "country",
+    "reality": "real",
+    "scale": "country"
+  },
   "tags": [
-    "country",
-    "north-america"
+    "north-america",
+    "hollywood",
+    "film-industry",
+    "federal-republic",
+    "multicultural",
+    "diverse-geography",
+    "superpower",
+    "democratic",
+    "states"
   ]
 }

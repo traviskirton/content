@@ -37,13 +37,20 @@
     "role": "Love interest",
     "marital_status": "Widow"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "lover"
+  },
   "tags": [
-    "The Godfather Part III",
-    "character",
+    "the-godfather-part-iii",
     "romance",
     "mafia",
+    "michael-corleone",
     "drama",
-    "Michael Corleone",
-    "tragedy"
+    "tragedy",
+    "socialite",
+    "redemption",
+    "emotional-anchor"
   ]
 }

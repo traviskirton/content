@@ -39,13 +39,19 @@
     "type": "Residential street",
     "literary_relevance": "Primary crime location"
   },
+  "facets": {
+    "location-type": "street",
+    "reality": "fictional",
+    "scale": "neighborhood"
+  },
   "tags": [
-    "A Study in Scarlet",
-    "location",
-    "crime scene",
-    "London",
-    "Victorian",
-    "fictional location",
-    "mystery"
+    "a-study-in-scarlet",
+    "crime-scene",
+    "london",
+    "mystery",
+    "victorian-era",
+    "fictional-location",
+    "detective-fiction",
+    "literary-setting"
   ]
 }

@@ -42,11 +42,18 @@
     "bell_pull": "Fake (connected to ventilator)",
     "neighboring_room": "Dr. Roylott's Chamber"
   },
+  "facets": {
+    "location-type": "room",
+    "reality": "fictional",
+    "scale": "room"
+  },
   "tags": [
-    "fictional room",
-    "mystery location",
-    "Sherlock Holmes",
-    "crime scene",
-    "Victorian"
+    "mystery-location",
+    "sherlock-holmes",
+    "crime-scene",
+    "victorian-era",
+    "classic-literature",
+    "locked-room",
+    "steampunk-gothic"
   ]
 }

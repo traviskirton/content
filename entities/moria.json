@@ -38,14 +38,21 @@
     "notable_features": "Mithril mines, Great Hall of Durin",
     "current_inhabitants": "Orcs, trolls (during Third Age)"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "Dwarven",
+    "dwarven",
     "underground",
     "mine",
     "ruins",
-    "Misty Mountains",
-    "ancient",
+    "misty-mountains",
     "dark",
-    "Balrog"
+    "balrog",
+    "subterranean",
+    "labyrinthine",
+    "ancient-ruins"
   ]
 }

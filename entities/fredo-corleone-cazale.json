@@ -55,13 +55,18 @@
     "portrayed_by": "John Cazale",
     "temperament": "Insecure"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "everyman"
+  },
   "tags": [
-    "The Godfather",
+    "the-godfather",
     "mafia",
-    "Corleone family",
+    "corleone-family",
     "betrayal",
-    "Cazale",
-    "character flaw",
-    "family dynamics"
+    "cazale",
+    "character-flaw",
+    "family-dynamics"
   ]
 }

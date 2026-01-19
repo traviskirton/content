@@ -40,13 +40,19 @@
     "climate": "Temperate",
     "era": "Third Age"
   },
+  "facets": {
+    "location-type": "region",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "Middle-earth",
-    "Hobbits",
-    "Peaceful",
-    "Rural",
-    "Home",
-    "Setting",
-    "Third Age"
+    "middle-earth",
+    "hobbits",
+    "peaceful",
+    "rural",
+    "homeland",
+    "fantasy-setting",
+    "third-age",
+    "idyllic"
   ]
 }

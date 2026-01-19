@@ -55,11 +55,20 @@
     "age": "Middle-aged",
     "status": "Alive"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "Victorian era",
-    "Ally",
-    "Medical professional",
-    "Detective fiction",
-    "Baskerville family associate"
+    "victorian-era",
+    "medical-professional",
+    "detective-fiction",
+    "baskerville-family-associate",
+    "country-doctor",
+    "loyalty",
+    "science-versus-folklore",
+    "ally",
+    "rationalist-mediator"
   ]
 }

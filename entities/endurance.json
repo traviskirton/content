@@ -52,10 +52,20 @@
     "manufacturer": "NASA",
     "fictional": true
   },
+  "facets": {
+    "vehicle-type": "spaceship",
+    "reality": "fictional",
+    "scale": "vehicle"
+  },
   "tags": [
-    "spaceship",
     "sci-fi",
     "space-travel",
-    "interstellar"
+    "interstellar",
+    "rotational-gravity",
+    "nasa",
+    "lazarus-missions",
+    "wormhole",
+    "space-station",
+    "crew-quarters"
   ]
 }

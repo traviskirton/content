@@ -46,12 +46,18 @@
     "period": "Cold War",
     "technology_used": "Radio Receiver"
   },
+  "facets": {
+    "period": "cold-war"
+  },
   "tags": [
-    "Espionage",
-    "Operation",
-    "Disinformation",
-    "Cold War",
-    "Soviet Technology",
-    "Spy Fiction"
+    "espionage",
+    "operation",
+    "disinformation",
+    "soviet-technology",
+    "spy-fiction",
+    "radio-receiver",
+    "covert-operations",
+    "intelligence",
+    "mole-crisis"
   ]
 }

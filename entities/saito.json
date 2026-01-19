@@ -51,10 +51,17 @@
     "occupation": "businessman",
     "portrayed_by": "Ken Watanabe"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "ruler"
+  },
   "tags": [
-    "supporting",
     "businessman",
     "wealthy",
-    "strategist"
+    "strategist",
+    "corporate-espionage",
+    "dream-sharing-technology",
+    "ken-watanabe"
   ]
 }

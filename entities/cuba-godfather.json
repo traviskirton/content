@@ -45,14 +45,21 @@
     "climate": "Tropical",
     "film_location_substitute": "Dominican Republic"
   },
+  "facets": {
+    "location-type": "country",
+    "reality": "real",
+    "scale": "country"
+  },
   "tags": [
-    "film location",
-    "Cuba",
-    "1950s",
+    "film-location",
     "mafia",
     "political",
     "revolution",
-    "The Godfather Part II",
-    "cinematography"
+    "the-godfather-part-ii",
+    "cinematography",
+    "mid-century",
+    "cubana",
+    "latin-america",
+    "historical"
   ]
 }

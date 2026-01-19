@@ -54,12 +54,28 @@
     "type": "studio, production company, distributor",
     "parent_company": "Comcast"
   },
+  "facets": {
+    "company-type": [
+      "studio",
+      "production-company",
+      "distributor"
+    ],
+    "era": "2000s",
+    "industry": [
+      "film",
+      "television"
+    ],
+    "nationality": "american"
+  },
   "tags": [
-    "studio",
-    "production-company",
-    "distributor",
-    "film",
-    "television",
-    "modern"
+    "blockbuster",
+    "special-effects",
+    "horror",
+    "sci-fi",
+    "franchise",
+    "universal-universe",
+    "carl-laemmle",
+    "hollywood",
+    "classic-studio"
   ]
 }

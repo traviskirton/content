@@ -51,14 +51,20 @@
       "Unseen University"
     ]
   },
+  "facets": {
+    "type": "organization",
+    "scope": "fictional",
+    "domain": "magic",
+    "affiliation": "unseen-university"
+  },
   "tags": [
-    "magic",
-    "organization",
-    "wizards",
     "fantasy",
-    "Discworld",
-    "magical_institutions",
+    "discworld",
+    "magical-institutions",
     "eccentric",
-    "fictional_group"
+    "wizardry",
+    "guild",
+    "academic",
+    "political-force"
   ]
 }

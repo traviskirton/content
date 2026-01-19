@@ -43,12 +43,20 @@
     "weapon_of_choice": "Firearms",
     "skill_level": "Elite"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "assassin"
+  },
   "tags": [
-    "James Bond",
-    "SPECTRE",
-    "Assassin",
-    "Spy",
-    "Cold War",
-    "Villain"
+    "james-bond",
+    "spectre",
+    "spy",
+    "cold-war",
+    "assassin",
+    "elite-operative",
+    "firearms",
+    "espionage",
+    "criminal-organization"
   ]
 }

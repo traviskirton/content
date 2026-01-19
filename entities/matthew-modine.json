@@ -45,13 +45,24 @@
     ],
     "active_years": "1982-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active-era": "1980s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "director",
-    "producer",
-    "writer",
     "drama",
     "sci-fi",
-    "modern"
+    "film",
+    "television",
+    "character-driven",
+    "award-nominee",
+    "versatile-actor",
+    "ensemble-cast"
   ]
 }

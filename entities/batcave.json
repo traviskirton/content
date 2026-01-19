@@ -51,10 +51,19 @@
     "fictional": true,
     "type": "underground facility"
   },
+  "facets": {
+    "location-type": "structure",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "underground facility",
-    "superhero lair",
-    "Batman",
-    "Gotham City"
+    "superhero-lair",
+    "batman",
+    "gotham-city",
+    "batmobile",
+    "batcomputer",
+    "underground-complex",
+    "secret-base",
+    "wayne-manor"
   ]
 }

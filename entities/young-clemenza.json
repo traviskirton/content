@@ -48,13 +48,21 @@
     "nationality": "Italian-American",
     "role": "Enforcer"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "warrior"
+  },
   "tags": [
-    "The Godfather Part II",
+    "the-godfather-part-ii",
     "flashback",
-    "Mafia",
-    "Corleone family",
+    "mafia",
+    "corleone-family",
     "crime",
     "loyalty",
-    "character development"
+    "character-development",
+    "organized-crime",
+    "italian-american",
+    "1920s"
   ]
 }

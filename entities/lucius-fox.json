@@ -71,10 +71,19 @@
     "occupation": "Business Executive, Inventor",
     "portrayed_by": "Morgan Freeman"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "scientist",
-    "mentor",
-    "businessman"
+    "inventor",
+    "businessman",
+    "wayne-enterprises",
+    "technology-expert",
+    "ethical",
+    "engineering",
+    "gadgets",
+    "ceo"
   ]
 }

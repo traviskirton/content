@@ -50,16 +50,26 @@
     "type": "comic book publisher, media company",
     "parent_company": "Warner Bros. Discovery"
   },
+  "facets": {
+    "industry": [
+      "comic-book",
+      "media",
+      "publishing"
+    ],
+    "era": "modern",
+    "specialty": [
+      "superheroes"
+    ]
+  },
   "tags": [
-    "company",
-    "publisher",
-    "media",
-    "comic-books",
-    "superheroes",
-    "film",
-    "animation",
     "golden-age",
     "silver-age",
-    "modern"
+    "film",
+    "animation",
+    "dc-universe",
+    "comics-publisher",
+    "american",
+    "superhero-genre",
+    "warner-bros-discovery"
   ]
 }

@@ -44,11 +44,19 @@
     "population": 6000,
     "founded": "1943"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "historical",
     "scientific",
-    "drama",
-    "1940s"
+    "world-war-ii",
+    "manhattan-project",
+    "nuclear-research",
+    "secret-base",
+    "military",
+    "atomic-bomb"
   ]
 }

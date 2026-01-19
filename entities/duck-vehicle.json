@@ -43,12 +43,25 @@
     "manufacturer": "Penguin's gang",
     "fictional": true
   },
+  "facets": {
+    "vehicle-type": "amphibious-vehicle",
+    "reality": "fictional",
+    "functionality": [
+      "amphibious"
+    ],
+    "association": [
+      "penguin",
+      "batman-returns"
+    ]
+  },
   "tags": [
-    "vehicle",
-    "Batman Returns",
-    "fictional",
-    "amphibious",
-    "action",
-    "movie"
+    "stylized",
+    "bright-yellow",
+    "blue-color-scheme",
+    "quirky",
+    "sinister",
+    "giant-wheels",
+    "pursuit-vehicle",
+    "escape-vehicle"
   ]
 }

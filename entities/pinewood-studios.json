@@ -51,10 +51,20 @@
     "fictional": false,
     "type": "studio"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
     "studio",
     "active",
     "private",
-    "tours-available"
+    "tours-available",
+    "british-film-industry",
+    "iconic-productions",
+    "large-sound-stages",
+    "film-backlot",
+    "buckinghamshire"
   ]
 }

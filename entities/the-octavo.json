@@ -44,14 +44,19 @@
     "material": "aged leather",
     "origin": "ancient"
   },
+  "facets": {
+    "origin-era": "ancient",
+    "magic": true
+  },
   "tags": [
     "discworld",
-    "item",
-    "magic",
     "spellbook",
     "artifact",
-    "ancient",
     "wizardry",
-    "powerful"
+    "powerful",
+    "grimoire",
+    "living-spells",
+    "magical-tome",
+    "cosmic-magic"
   ]
 }

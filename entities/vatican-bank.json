@@ -49,13 +49,24 @@
     ],
     "established": "1942"
   },
+  "facets": {
+    "industry": "religious banking and finance",
+    "location": "vatican city",
+    "themes": [
+      "corruption",
+      "organized crime",
+      "power",
+      "financial scandal"
+    ]
+  },
   "tags": [
-    "organization",
-    "The Godfather Part III",
-    "Vatican",
-    "bank",
+    "vatican-bank",
+    "the-godfather-part-iii",
+    "religious-institution",
+    "money-laundering",
     "finance",
-    "corruption",
-    "religious institution"
+    "clergy",
+    "secretive",
+    "financial-influence"
   ]
 }

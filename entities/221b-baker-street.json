@@ -47,13 +47,18 @@
     "famous_residents": "Sherlock Holmes, Dr. John Watson",
     "literary_importance": "High"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "A Study in Scarlet",
-    "location",
-    "home",
-    "Victorian London",
-    "Sherlock Holmes",
-    "literary setting",
-    "fictional location"
+    "a-study-in-scarlet",
+    "literary-setting",
+    "victorian-london",
+    "detective-fiction",
+    "sherlock-holmes",
+    "baker-street",
+    "classic-literature"
   ]
 }

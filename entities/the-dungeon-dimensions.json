@@ -36,14 +36,19 @@
     "environment": "chaotic",
     "relevance": "recurring"
   },
+  "facets": {
+    "location-type": "realm",
+    "reality": "fictional",
+    "scale": "universe"
+  },
   "tags": [
     "discworld",
-    "location",
     "extradimensional",
-    "monsters",
-    "horror",
-    "fantasy",
+    "lovecraftian",
+    "cosmic-horror",
     "chaos",
-    "magic"
+    "magic",
+    "otherworldly",
+    "interdimensional-breaches"
   ]
 }

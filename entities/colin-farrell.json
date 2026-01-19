@@ -47,11 +47,21 @@
     ],
     "active_years": "1997-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "2000s",
+    "nationality": "irish"
+  },
   "tags": [
-    "actor",
     "drama",
     "comedy",
-    "modern",
-    "Golden Globe winner"
+    "golden-globe-winner",
+    "versatile",
+    "character-driven",
+    "award-winning",
+    "film-actor",
+    "irish-cinema"
   ]
 }

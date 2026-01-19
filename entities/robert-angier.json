@@ -51,11 +51,19 @@
     "occupation": "magician",
     "portrayed_by": "Hugh Jackman"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "ambiguous",
+    "archetype": "magician"
+  },
   "tags": [
-    "protagonist",
-    "antagonist",
-    "magician",
     "obsessive",
-    "charismatic"
+    "charismatic",
+    "rivalry",
+    "illusionist",
+    "technological-innovation",
+    "cunning",
+    "stage-performer",
+    "legacy"
   ]
 }

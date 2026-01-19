@@ -46,9 +46,20 @@
     "died": "1955",
     "portrayed_by": "Tom Conti"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "mentor",
-    "scientist"
+    "physicist",
+    "scientist",
+    "intellectual",
+    "quantum-theory",
+    "relativity",
+    "20th-century",
+    "ethical-dilemma",
+    "scientific-responsibility",
+    "oppenheimer"
   ]
 }

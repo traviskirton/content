@@ -55,14 +55,21 @@
     "portrayed_by": "Al Pacino",
     "military_service": "United States Marine Corps"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "antihero",
+    "archetype": "ruler"
+  },
   "tags": [
-    "The Godfather",
+    "the-godfather",
     "mafia",
-    "Corleone family",
-    "crime drama",
-    "Pacino",
-    "antihero",
-    "character evolution",
-    "power"
+    "corleone-family",
+    "crime-drama",
+    "pacino",
+    "character-evolution",
+    "power",
+    "strategic",
+    "family-loyalty",
+    "calculation"
   ]
 }

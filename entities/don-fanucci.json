@@ -47,13 +47,19 @@
     "role": "Antagonist (flashback)",
     "nationality": "Italian-American"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "character",
-    "antagonist",
     "mafia",
     "extortion",
     "crime",
-    "Little Italy",
-    "historical"
+    "little-italy",
+    "historical",
+    "black-hand",
+    "new-york",
+    "organized-crime"
   ]
 }

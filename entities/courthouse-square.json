@@ -53,11 +53,16 @@
     "founded": "late 19th century",
     "type": "city"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
-    "sci-fi",
-    "1955",
-    "2015",
-    "futuristic"
+    "hill-valley",
+    "back-to-the-future",
+    "clock-tower",
+    "time-travel",
+    "iconic-location"
   ]
 }

@@ -38,14 +38,21 @@
     "danger_level": "Extremely high",
     "associated_with": "Sauron, One Ring"
   },
+  "facets": {
+    "location-type": "mountain",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "volcano",
-    "Mordor",
-    "One Ring",
+    "mount-doom",
+    "mordor",
+    "one-ring",
     "destruction",
-    "Middle-earth",
+    "middle-earth",
     "fiery",
-    "final quest",
-    "Third Age"
+    "final-quest",
+    "third-age",
+    "volcano",
+    "sauron"
   ]
 }

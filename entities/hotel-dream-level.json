@@ -35,10 +35,19 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "sci-fi",
     "futuristic",
-    "dream"
+    "dream",
+    "zero-gravity",
+    "inception",
+    "subconscious",
+    "mindscape",
+    "psychological"
   ]
 }

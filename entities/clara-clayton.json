@@ -56,10 +56,20 @@
     "born": 1855,
     "portrayed_by": "Mary Steenburgen"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "supporting",
     "love-interest",
     "educator",
-    "19th-century"
+    "19th-century",
+    "adventurous",
+    "independent",
+    "science-enthusiast",
+    "academic",
+    "brave",
+    "romantic-subplot"
   ]
 }

@@ -46,14 +46,20 @@
     "status": "deceased",
     "notable_trait": "betrayal"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "everyman"
+  },
   "tags": [
     "mafia",
     "family",
     "betrayal",
-    "The Godfather",
-    "Corleone",
-    "fictional character",
-    "tragic figure",
-    "film character"
+    "godfather",
+    "corleone",
+    "tragic-figure",
+    "fictional-character",
+    "film-character",
+    "internal-conflict"
   ]
 }

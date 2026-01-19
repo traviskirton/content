@@ -39,13 +39,20 @@
     "significance": "Key story location",
     "symbolism": "Mystery and danger"
   },
+  "facets": {
+    "location-type": "structure",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "Location",
-    "James Bond",
-    "Train",
-    "Cold War",
-    "Suspense",
-    "Transportation",
-    "Luxury"
+    "james-bond",
+    "cold-war",
+    "suspense",
+    "luxury-train",
+    "espionage",
+    "clandestine-meetings",
+    "european-rail",
+    "mystery",
+    "classic-train"
   ]
 }

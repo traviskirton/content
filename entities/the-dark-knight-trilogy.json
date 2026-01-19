@@ -71,12 +71,23 @@
       "film"
     ]
   },
+  "facets": {
+    "genre": [
+      "action",
+      "thriller",
+      "superhero"
+    ],
+    "era": "2000s"
+  },
   "tags": [
-    "superhero",
-    "action",
-    "thriller",
     "film-series",
-    "modern",
-    "the-dark-knight-trilogy"
+    "the-dark-knight-trilogy",
+    "dark",
+    "gritty",
+    "realistic",
+    "blockbuster",
+    "christopher-nolan",
+    "batman",
+    "dc-universe"
   ]
 }

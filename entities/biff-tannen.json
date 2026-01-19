@@ -60,9 +60,19 @@
     "born": "1937",
     "portrayed_by": "Thomas F. Wilson"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "antagonist",
-    "villain",
-    "bully"
+    "bully",
+    "businessman",
+    "hill-valley",
+    "time-travel",
+    "1980s",
+    "retro",
+    "back-to-the-future",
+    "corruption"
   ]
 }

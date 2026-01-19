@@ -58,10 +58,20 @@
     ],
     "active_years": "1976-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "1970s",
+    "nationality": "british"
+  },
   "tags": [
-    "actor",
     "drama",
     "comedy",
-    "modern"
+    "versatile",
+    "character-actor",
+    "british-cinema",
+    "film",
+    "television"
   ]
 }

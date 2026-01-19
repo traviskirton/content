@@ -44,13 +44,19 @@
     "relation": "Brother to Mrs. Barrymore",
     "danger_level": "High"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "outlaw"
+  },
   "tags": [
-    "Fugitive",
-    "The Hound of the Baskervilles",
-    "Convict",
-    "Moor",
-    "Suspense",
-    "Arthur Conan Doyle",
-    "Supporting character"
+    "fugitive",
+    "moor",
+    "suspense",
+    "the-hound-of-the-baskervilles",
+    "escapee",
+    "desperation",
+    "arthur-conan-doyle",
+    "wild-man"
   ]
 }

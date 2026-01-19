@@ -48,6 +48,11 @@
     ],
     "role": "Warrior and protector"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
     "skin-changer",
     "bear",
@@ -55,6 +60,9 @@
     "fantasy",
     "middle-earth",
     "wilderness",
-    "magic"
+    "magic",
+    "shape-shifting",
+    "animal-communication",
+    "natural-world"
   ]
 }

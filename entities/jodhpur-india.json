@@ -47,10 +47,21 @@
       "longitude": 73.0243
     }
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "active",
     "public",
-    "tours-available"
+    "tours-available",
+    "blue-city",
+    "historical-landmarks",
+    "heritage-hotels",
+    "rajasthani-cuisine",
+    "mehrangarh-fort",
+    "filming-location",
+    "tourist-destination"
   ]
 }

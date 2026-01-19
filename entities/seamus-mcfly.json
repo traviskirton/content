@@ -56,10 +56,21 @@
     "born": "circa 1850s",
     "portrayed_by": "Michael J. Fox"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "mentor",
     "family",
-    "19th-century"
+    "19th-century",
+    "irish-immigrant",
+    "hill-valley",
+    "kind-hearted",
+    "wise",
+    "old-west",
+    "time-travel",
+    "marty-mcfly",
+    "perseverance"
   ]
 }

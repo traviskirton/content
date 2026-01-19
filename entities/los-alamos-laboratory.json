@@ -66,12 +66,18 @@
     "headquarters": "Los Alamos",
     "fictional": true
   },
+  "facets": {
+    "organization-type": "government",
+    "status": "secret",
+    "era": "1940s"
+  },
   "tags": [
-    "organization",
-    "government",
-    "secret-society",
-    "neutral",
+    "top-secret",
+    "manhattan-project",
+    "atomic-bomb",
+    "world-war-ii",
+    "science",
     "historical",
-    "science"
+    "research-facility"
   ]
 }

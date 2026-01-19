@@ -64,12 +64,19 @@
       "adaptive"
     ]
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "sage"
+  },
   "tags": [
-    "fictional character",
-    "science fiction",
+    "foundation",
     "mathematician",
     "narrator",
     "protégé",
-    "Foundation"
+    "science-fiction",
+    "young-hero",
+    "psychohistory",
+    "space-exploration"
   ]
 }

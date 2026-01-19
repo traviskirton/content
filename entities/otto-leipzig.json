@@ -42,13 +42,21 @@
     "role": "Informant",
     "expertise": "Counterintelligence"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "mentor"
+  },
   "tags": [
-    "East Germany",
-    "Stasi",
-    "Cold War",
-    "Espionage",
-    "Intelligence",
-    "Informant",
-    "Supporting Character"
+    "east-germany",
+    "stasi",
+    "cold-war",
+    "espionage",
+    "intelligence",
+    "informant",
+    "george-smiley",
+    "clandestine-operations",
+    "counterintelligence",
+    "spy-network"
   ]
 }

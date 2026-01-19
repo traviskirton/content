@@ -39,13 +39,21 @@
     "notable_ruler": "Great Goblin",
     "danger_level": "Extreme"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "Middle-earth",
-    "Goblin",
-    "Misty Mountains",
-    "The Hobbit",
-    "Underground",
-    "Danger",
-    "Enemy Territory"
+    "middle-earth",
+    "goblin",
+    "misty-mountains",
+    "the-hobbit",
+    "underground",
+    "enemy-territory",
+    "labyrinthine",
+    "dark",
+    "hostile",
+    "oppressive-atmosphere"
   ]
 }

@@ -53,13 +53,19 @@
     "weapon": "Bow and arrows",
     "skills": "Archery, agility, keen senses"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
-    "Elf",
-    "Fellowship of the Ring",
-    "Prince",
-    "Archer",
-    "Woodland Realm",
-    "Warrior",
-    "Middle-earth"
+    "elven-prince",
+    "expert-archer",
+    "woodland-realm",
+    "fellowship-of-the-ring",
+    "middle-earth",
+    "agile",
+    "keen-senses",
+    "forest-survival"
   ]
 }

@@ -39,9 +39,19 @@
     "occupation": "magician's assistant",
     "portrayed_by": "Piper Perabo"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "supporting",
+    "magician",
     "tragic",
-    "magician"
+    "water-tank-escape",
+    "magic-act",
+    "robert-angier",
+    "piper-perabo",
+    "illusion",
+    "the-prestige"
   ]
 }

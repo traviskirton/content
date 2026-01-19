@@ -56,12 +56,20 @@
     "title": "Captain of Gondor",
     "status": "Deceased"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
-    "Middle-earth",
-    "Gondor",
-    "Fellowship of the Ring",
-    "Warrior",
-    "Human",
-    "Tragic Hero"
+    "middle-earth",
+    "gondor",
+    "fellowship-of-the-ring",
+    "human",
+    "tragic-hero",
+    "shield-and-spear",
+    "loyalty",
+    "redemption",
+    "internal-conflict"
   ]
 }

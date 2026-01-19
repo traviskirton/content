@@ -52,13 +52,19 @@
     "temperament": "Impulsive",
     "notable_traits": "Fierce loyalty, combat skills"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "antihero",
+    "archetype": "warrior"
+  },
   "tags": [
-    "character",
     "mafia",
-    "Corleone family",
-    "The Godfather Part III",
-    "antihero",
+    "corleone-family",
+    "the-godfather-part-iii",
     "violent",
-    "leader"
+    "leader",
+    "street-smart",
+    "loyalty",
+    "family-drama"
   ]
 }

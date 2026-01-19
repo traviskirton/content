@@ -36,12 +36,19 @@
     "population": "Multi-billion",
     "government": "Technocratic Oligarchy"
   },
+  "facets": {
+    "location-type": "planet",
+    "reality": "fictional",
+    "scale": "planet"
+  },
   "tags": [
-    "Foundation",
-    "Planet",
-    "Science Fiction",
-    "Rossem",
-    "Isaac Asimov",
-    "Galactic Empire"
+    "foundation-universe",
+    "industrial",
+    "political-intrigue",
+    "science-fiction",
+    "isaac-asimov",
+    "galactic-empire",
+    "economic-hub",
+    "urban-centers"
   ]
 }

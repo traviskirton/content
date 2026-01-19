@@ -42,14 +42,21 @@
     "status": "Deceased",
     "notable_event": "Arrest of Michael Corleone"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
     "corruption",
-    "law_enforcement",
+    "law-enforcement",
     "police",
-    "organized_crime",
-    "The Godfather",
-    "antagonist",
-    "fictional_character",
-    "1950s"
+    "organized-crime",
+    "godfather",
+    "1950s",
+    "mafia",
+    "enforcer",
+    "new-york",
+    "crime-drama"
   ]
 }

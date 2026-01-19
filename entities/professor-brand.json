@@ -52,9 +52,19 @@
     "occupation": "scientist, NASA director",
     "portrayed_by": "Michael Caine"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "mentor",
-    "scientist"
+    "scientist",
+    "nasa",
+    "space-exploration",
+    "interstellar",
+    "theoretical-physics",
+    "aerospace-engineer",
+    "strategist",
+    "human-survival"
   ]
 }

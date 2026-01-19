@@ -39,9 +39,21 @@
       "long": -114.0719
     }
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "active",
-    "public"
+    "public",
+    "canada",
+    "alberta",
+    "rocky-mountains",
+    "film-production",
+    "western-genre",
+    "tourist-attraction",
+    "calgary-stampede",
+    "urban-center"
   ]
 }

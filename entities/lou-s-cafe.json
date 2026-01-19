@@ -43,10 +43,20 @@
     "type": "building",
     "founded": "1950"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "diner",
     "1955",
-    "sci-fi"
+    "back-to-the-future",
+    "courthouse-square",
+    "vintage",
+    "checkerboard-floor",
+    "jukebox",
+    "hill-valley",
+    "american-diner"
   ]
 }

@@ -39,10 +39,22 @@
     ],
     "active_years": "1997-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "producer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "drama",
     "action",
-    "modern"
+    "hollywood",
+    "teen-films",
+    "versatile",
+    "early-2000s",
+    "independent-film",
+    "international-projects"
   ]
 }

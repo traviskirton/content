@@ -38,12 +38,19 @@
     "estate_size": "Large",
     "ownership": "Michael Corleone"
   },
+  "facets": {
+    "location-type": "estate",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "location",
-    "Sicily",
-    "The Godfather Part III",
-    "estate",
-    "family legacy",
-    "mafia"
+    "sicily",
+    "godfather-part-iii",
+    "family-legacy",
+    "mafia",
+    "traditional-sicilian-architecture",
+    "mediterranean",
+    "olive-groves",
+    "vineyards"
   ]
 }

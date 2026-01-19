@@ -38,12 +38,18 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "superhero",
-    "fictional",
-    "film",
     "urban",
-    "government"
+    "government",
+    "dc-universe",
+    "gotham",
+    "political-drama",
+    "landmark"
   ]
 }

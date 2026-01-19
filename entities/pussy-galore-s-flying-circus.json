@@ -41,13 +41,19 @@
       "Goldfinger (movie)"
     ]
   },
+  "facets": {
+    "organization-type": "aerial-stunt-team",
+    "affiliation": "auric-goldfinger",
+    "leader": "pussy-galore",
+    "function": "aerial-stunt-performances-and-covert-operations"
+  },
   "tags": [
-    "James Bond",
-    "Goldfinger",
-    "Aviation",
-    "Spy Fiction",
-    "Female Pilots",
-    "Villain Organization",
-    "Flying Circus"
+    "james-bond",
+    "goldfinger",
+    "aviation",
+    "spy-fiction",
+    "female-pilots",
+    "villain-organization",
+    "flying-circus"
   ]
 }

@@ -34,14 +34,21 @@
     "year_opened": 1897,
     "architects": "Giovanni Battista Filippo Basile, Ernesto Basile"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "The Godfather Part III",
-    "location",
-    "opera house",
-    "Palermo",
-    "Sicily",
+    "the-godfather-part-iii",
+    "opera-house",
+    "palermo",
+    "sicily",
     "architecture",
-    "Italian culture",
-    "film setting"
+    "italian-culture",
+    "film-setting",
+    "neoclassical",
+    "historic-landmark",
+    "grand-architecture"
   ]
 }

@@ -54,12 +54,19 @@
     "status": "Occupied during story",
     "owner": "Dr. Grimesby Roylott"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "fictional location",
-    "manor",
     "mystery",
-    "Victorian England",
-    "Gothic",
-    "Sherlock Holmes"
+    "victorian",
+    "gothic",
+    "sherlock-holmes",
+    "english-manor",
+    "dark-ambiance",
+    "classic-literature",
+    "haunted-estate"
   ]
 }

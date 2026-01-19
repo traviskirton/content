@@ -46,12 +46,20 @@
     ],
     "nationality": "American"
   },
+  "facets": {
+    "role": "deuteragonist",
+    "morality": "neutral",
+    "archetype": "warrior"
+  },
   "tags": [
-    "character",
     "cyberpunk",
     "mercenary",
-    "cybernetic enhancement",
-    "street samurai",
-    "William Gibson"
+    "cybernetic-enhancement",
+    "street-samurai",
+    "william-gibson",
+    "mirror-eyed",
+    "assassin",
+    "stealth",
+    "combat-specialist"
   ]
 }

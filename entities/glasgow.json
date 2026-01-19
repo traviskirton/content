@@ -43,10 +43,20 @@
       "longitude": -4.2518
     }
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "active",
     "public",
-    "tours-available"
+    "tours-available",
+    "industrial-heritage",
+    "cultural-heritage",
+    "music-scene",
+    "architecture",
+    "filming-location",
+    "scotland"
   ]
 }

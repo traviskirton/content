@@ -48,14 +48,15 @@
     "material": "Crystal",
     "era": "Third Age"
   },
+  "facets": {},
   "tags": [
-    "Middle-earth",
-    "Magical Item",
-    "Elven Artifact",
-    "Light",
-    "The Lord of the Rings",
-    "Phial",
-    "Hope",
-    "Protection"
+    "middle-earth",
+    "magical-item",
+    "elven-artifact",
+    "light",
+    "lord-of-the-rings",
+    "phial",
+    "hope",
+    "protection"
   ]
 }

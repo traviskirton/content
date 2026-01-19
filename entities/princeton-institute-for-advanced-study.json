@@ -40,10 +40,19 @@
     "type": "building",
     "founded": "1930"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
     "academic",
-    "history",
     "world-war-ii",
-    "research"
+    "research",
+    "historical",
+    "institution",
+    "manhattan-project",
+    "new-jersey",
+    "princeton"
   ]
 }

@@ -44,13 +44,21 @@
       "weaponry"
     ]
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "spy"
+  },
   "tags": [
-    "fictional character",
-    "spy",
-    "MI6",
-    "British",
-    "protagonist",
+    "fictional-character",
+    "mi6",
+    "british",
     "espionage",
-    "action"
+    "action",
+    "secret-service-agent",
+    "international",
+    "suave",
+    "007",
+    "cold-war"
   ]
 }

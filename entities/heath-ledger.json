@@ -56,9 +56,21 @@
     ],
     "active_years": "1992-2008"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director"
+    ],
+    "active-era": "2000s",
+    "nationality": "australian"
+  },
   "tags": [
-    "actor",
     "drama",
-    "modern"
+    "award-winner",
+    "versatile-actor",
+    "posthumous-academy-award",
+    "impact",
+    "character-driven",
+    "method-acting"
   ]
 }

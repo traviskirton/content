@@ -43,14 +43,21 @@
     "associated_organization": "MI6",
     "location_type": "Residential/Urban"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "location",
     "espionage",
     "safehouse",
-    "Cold War",
+    "cold-war",
     "secrecy",
     "intelligence",
-    "MI6",
-    "John le Carré"
+    "mi6",
+    "john-le-carré",
+    "covert",
+    "spy-fiction",
+    "clandestine"
   ]
 }

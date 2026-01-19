@@ -49,14 +49,24 @@
     "genre": "Espionage Fiction",
     "medium": "Novels"
   },
+  "facets": {
+    "genre": [
+      "thriller",
+      "espionage",
+      "spy-fiction"
+    ],
+    "era": "1970s"
+  },
   "tags": [
-    "spy fiction",
-    "cold war",
-    "john le carré",
-    "espionage",
-    "series",
+    "john-le-carré",
+    "george-smiley",
+    "cold-war",
     "literature",
-    "thriller",
-    "george smiley"
+    "series",
+    "psychological-depth",
+    "betrayal",
+    "paranoia",
+    "realism",
+    "espionage-tradecraft"
   ]
 }

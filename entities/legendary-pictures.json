@@ -57,10 +57,20 @@
     "type": "production company",
     "parent_company": "Wanda Group"
   },
+  "facets": {
+    "industry": "film-production",
+    "era": "2000s"
+  },
   "tags": [
     "studio",
-    "production-company",
-    "film",
-    "modern"
+    "blockbusters",
+    "american-media",
+    "high-budget",
+    "collaborations",
+    "notable-films",
+    "film-industry",
+    "burbank",
+    "major-studio",
+    "founder-thomas-tull"
   ]
 }

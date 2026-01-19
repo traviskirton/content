@@ -37,12 +37,19 @@
     "reputation": "Cruel and infamous",
     "period": "Medieval Era"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "outlaw"
+  },
   "tags": [
-    "Ancestral Figure",
-    "Legend",
-    "The Hound of the Baskervilles",
-    "Mythical Curse",
-    "Folklore",
-    "Arthur Conan Doyle"
+    "ancestral-figure",
+    "legend",
+    "mythical-curse",
+    "folklore",
+    "arthur-conan-doyle",
+    "supernatural",
+    "curse",
+    "violent-nobleman"
   ]
 }

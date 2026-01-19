@@ -58,10 +58,21 @@
     ],
     "active_years": "1992-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "modern",
     "drama",
-    "thriller"
+    "thriller",
+    "character-actor",
+    "versatile",
+    "hollywood",
+    "dark-knight",
+    "thank-you-for-smoking",
+    "neil-labute"
   ]
 }

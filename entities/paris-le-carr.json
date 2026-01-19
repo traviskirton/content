@@ -34,14 +34,19 @@
     "cultural_center": true,
     "importance": "Diplomatic and espionage hub"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "location",
-    "city",
-    "Paris",
-    "France",
-    "Cold War",
     "espionage",
-    "le Carré",
-    "Smiley's People"
+    "cold-war",
+    "le-carre",
+    "smileys-people",
+    "french-capital",
+    "intelligence-gathering",
+    "political-thriller",
+    "international-relations"
   ]
 }

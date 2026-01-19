@@ -46,13 +46,20 @@
     "gender": "Female",
     "origin": "Discworld"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "Discworld",
-    "Fantasy",
-    "Character",
-    "Death Related",
-    "Female",
-    "Supporting Character",
-    "Magic"
+    "discworld",
+    "fantasy",
+    "death-related",
+    "female",
+    "wit",
+    "pragmatic",
+    "household-manager",
+    "dark-humor",
+    "supernatural"
   ]
 }

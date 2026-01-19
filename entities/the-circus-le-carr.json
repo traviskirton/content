@@ -39,14 +39,19 @@
     "era": "Cold War",
     "organization": "MI6"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "location",
     "espionage",
-    "MI6",
-    "John le Carré",
-    "Tinker Tailor Soldier Spy",
-    "Cold War",
-    "fictional headquarters",
-    "British intelligence"
+    "mi6",
+    "john-le-carré",
+    "tinker-tailor-soldier-spy",
+    "cold-war",
+    "british-intelligence",
+    "secret-service",
+    "intelligence-headquarters"
   ]
 }

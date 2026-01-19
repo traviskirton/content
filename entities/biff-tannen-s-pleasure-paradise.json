@@ -44,11 +44,20 @@
     "type": "building",
     "founded": "1985"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
-    "sci-fi",
-    "alternate timeline",
+    "casino",
+    "alternate-timeline",
+    "dystopian",
+    "hill-valley",
     "1985",
-    "dystopian"
+    "luxury-hotel",
+    "biff-tannen",
+    "opulence",
+    "corruption"
   ]
 }

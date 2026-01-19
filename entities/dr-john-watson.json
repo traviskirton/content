@@ -63,14 +63,21 @@
     ],
     "era": "Victorian/Edwardian"
   },
+  "facets": {
+    "role": "deuteragonist",
+    "morality": "heroic",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "Sherlock Holmes",
+    "sherlock-holmes",
     "sidekick",
     "doctor",
     "narrator",
-    "Victorian",
-    "detective fiction",
+    "victorian",
+    "detective-fiction",
     "companion",
-    "friend"
+    "friend",
+    "medical-doctor",
+    "army-surgeon"
   ]
 }

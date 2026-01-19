@@ -47,10 +47,18 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
-    "sci-fi",
-    "1985",
-    "futuristic"
+    "hill-valley",
+    "suburban",
+    "time-travel",
+    "80s",
+    "family-home",
+    "back-to-the-future",
+    "residence"
   ]
 }

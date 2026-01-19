@@ -36,12 +36,20 @@
     "ethnicity": "Italian-American",
     "role_type": "Outsider"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "everyman"
+  },
   "tags": [
-    "Justice",
-    "Undertaker",
-    "Corleone Family",
-    "Mafia",
-    "Victim",
-    "Legal system"
+    "justice",
+    "corleone-family",
+    "mafia",
+    "victim",
+    "legal-system",
+    "italian-american",
+    "undertaker",
+    "organized-crime",
+    "family-loyalty"
   ]
 }

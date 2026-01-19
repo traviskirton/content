@@ -56,13 +56,17 @@
     ],
     "developer": "Apple Inc."
   },
+  "facets": {},
   "tags": [
     "browser",
     "internet",
     "software",
-    "Apple",
+    "apple",
     "webkit",
     "mobile",
-    "privacy"
+    "privacy-protection",
+    "icloud-sync",
+    "reader-mode",
+    "translation"
   ]
 }

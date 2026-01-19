@@ -111,15 +111,27 @@
     "box_office": 850000000,
     "rating": "R"
   },
+  "facets": {
+    "genre": [
+      "drama",
+      "war"
+    ],
+    "era": "2020s",
+    "tone": [
+      "serious",
+      "dark"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "drama",
     "biography",
     "history",
-    "2020s",
     "classic",
     "blockbuster",
     "scientific",
-    "war",
-    "christopher-nolan"
+    "christopher-nolan",
+    "world-war-ii",
+    "manhattan-project",
+    "historical-drama"
   ]
 }

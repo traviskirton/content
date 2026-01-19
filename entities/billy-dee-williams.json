@@ -47,10 +47,22 @@
     ],
     "active_years": "1948-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "voice-actor"
+    ],
+    "active-era": "mid-century",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "sci-fi",
     "classic-hollywood",
-    "new-hollywood"
+    "new-hollywood",
+    "lando-calrissian",
+    "star-wars",
+    "charismatic",
+    "award-winning",
+    "voice-work"
   ]
 }

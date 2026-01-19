@@ -37,12 +37,19 @@
       "target": "25c7e3f9-896d-4b1c-9f8b-5f67ae3d1825"
     }
   ],
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
-    "fictional",
     "literary",
-    "historical fiction",
-    "19th century",
-    "The Count of Monte Cristo"
+    "historical-fiction",
+    "19th-century",
+    "the-count-of-monte-cristo",
+    "mediterranean",
+    "port-city",
+    "maritime-trade",
+    "french-riviera"
   ]
 }

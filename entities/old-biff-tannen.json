@@ -60,9 +60,20 @@
     "occupation": "Retired",
     "born": "1937"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "villain",
-    "time-traveler"
+    "time-traveler",
+    "cunning",
+    "opportunistic",
+    "alternate-timeline",
+    "bitterness",
+    "regret",
+    "hill-valley",
+    "delorean",
+    "sports-almanac"
   ]
 }

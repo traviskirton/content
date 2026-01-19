@@ -42,13 +42,21 @@
     "inhabitants": "Dwarves, Dragons (historical)",
     "importance": "High"
   },
+  "facets": {
+    "location-type": "mountain",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "Middle-earth",
-    "Dwarves",
-    "The Hobbit",
-    "Fantasy",
-    "Location",
-    "Mountain",
-    "Erebor"
+    "middle-earth",
+    "dwarves",
+    "the-hobbit",
+    "erebor",
+    "dragon",
+    "treasure-hoard",
+    "dwarvish-architecture",
+    "quest",
+    "greed",
+    "adventure"
   ]
 }

@@ -38,12 +38,21 @@
     "nationality": "American",
     "award_nomination": "Academy Award for Best Supporting Actor (1975)"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "playwright"
+    ],
+    "active-era": "mid-century",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "playwright",
-    "The Godfather Part II",
-    "Academy Award Nominee",
-    "crime drama",
-    "theater"
+    "the-godfather-part-ii",
+    "academy-award-nominee",
+    "crime-drama",
+    "theater",
+    "character-actor",
+    "mobster",
+    "stage-and-screen"
   ]
 }

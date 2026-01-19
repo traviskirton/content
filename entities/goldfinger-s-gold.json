@@ -43,13 +43,23 @@
     "weight_estimate": "Thousands of tons",
     "value": "Multi-billion USD"
   },
+  "facets": {
+    "material": "gold",
+    "location": "fort-knox",
+    "theme": [
+      "heist",
+      "espionage"
+    ],
+    "era": "1960s"
+  },
   "tags": [
-    "James Bond",
-    "Gold",
-    "Fort Knox",
-    "Heist",
-    "Espionage",
-    "1960s",
-    "Auric Goldfinger"
+    "james-bond",
+    "auric-goldfinger",
+    "gold-bars",
+    "economic-power",
+    "cold-war",
+    "radiation-contamination",
+    "treasure",
+    "novel-macguffin"
   ]
 }

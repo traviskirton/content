@@ -44,10 +44,18 @@
     "founded": "unknown",
     "population": 4
   },
+  "facets": {
+    "location-type": "farm",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "farm",
     "rural",
     "sci-fi",
-    "futuristic"
+    "futuristic",
+    "corn-fields",
+    "environmental-collapse",
+    "agriculture",
+    "family-hub"
   ]
 }

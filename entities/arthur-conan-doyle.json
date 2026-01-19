@@ -36,14 +36,23 @@
       "Physician"
     ]
   },
+  "facets": {
+    "profession": [
+      "writer",
+      "physician"
+    ],
+    "active-era": "victorian",
+    "nationality": "british"
+  },
   "tags": [
-    "writer",
-    "author",
-    "Sherlock Holmes",
-    "detective fiction",
-    "British literature",
-    "19th century",
-    "20th century",
-    "physician"
+    "sherlock-holmes",
+    "detective-fiction",
+    "british-literature",
+    "historical-fiction",
+    "speculative-fiction",
+    "forensic-science",
+    "logical-deduction",
+    "spiritualism",
+    "literary-classic"
   ]
 }

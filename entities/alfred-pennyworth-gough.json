@@ -61,11 +61,18 @@
     "portrayed_by": "Michael Gough",
     "member_of": "Wayne Manor Staff"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "mentor",
-    "supporting",
     "butler",
     "wise",
-    "loyal"
+    "loyal",
+    "wayne-manor-staff",
+    "caretaker",
+    "confidant",
+    "batman-universe"
   ]
 }

@@ -45,13 +45,25 @@
     "location": "Sense/Net mainframe and cyberspace",
     "status": "Operational"
   },
+  "facets": {
+    "category": "artificial-intelligence",
+    "genre": [
+      "cyberpunk"
+    ],
+    "nature": [
+      "virtual-entity",
+      "superintelligence"
+    ]
+  },
   "tags": [
-    "artificial intelligence",
-    "cyberpunk",
-    "neural network",
-    "superintelligence",
-    "virtual entity",
-    "Sense/Net",
-    "fictional technology"
+    "neural-network",
+    "sense-net",
+    "fictional-technology",
+    "ai-ethics",
+    "sentience",
+    "cyberspace",
+    "data-manipulation",
+    "espionage",
+    "machine-learning"
   ]
 }

@@ -47,12 +47,20 @@
       "longitude": -120.4244
     }
   },
+  "facets": {
+    "location-type": "park",
+    "reality": "real",
+    "scale": "region"
+  },
   "tags": [
-    "location",
     "filming-location",
     "historic",
     "public",
     "tours-available",
-    "preserved"
+    "steam-locomotives",
+    "railroad",
+    "california",
+    "jamestown",
+    "educational-programs"
   ]
 }

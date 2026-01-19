@@ -47,14 +47,21 @@
     "affiliation": "Foundation",
     "position": "Political Leader"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "Foundation",
-    "Sci-Fi",
-    "Political Leader",
-    "Pragmatist",
-    "Isaac Asimov",
-    "Terminus",
-    "Strategist",
-    "Classic Literature"
+    "foundation",
+    "sci-fi",
+    "political-leader",
+    "pragmatist",
+    "isaac-asimov",
+    "terminus",
+    "strategist",
+    "classic-literature",
+    "psychological-insight",
+    "diplomacy"
   ]
 }

@@ -41,9 +41,18 @@
     "died": "1981",
     "portrayed_by": "Sara Stewart"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "supporting",
     "tragic",
-    "catalyst"
+    "catalyst",
+    "batman-universe",
+    "socialite",
+    "philanthropy",
+    "gotham-city",
+    "family-drama"
   ]
 }

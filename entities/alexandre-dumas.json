@@ -59,11 +59,21 @@
       "Romance"
     ]
   },
+  "facets": {
+    "profession": [
+      "writer",
+      "playwright"
+    ],
+    "active-era": "19th century",
+    "nationality": "french"
+  },
   "tags": [
-    "historical fiction",
-    "19th century",
+    "historical-fiction",
     "romanticism",
-    "adventure",
-    "French literature"
+    "french-literature",
+    "classic-literature",
+    "swashbuckling",
+    "serialized-fiction",
+    "adventure-novels"
   ]
 }

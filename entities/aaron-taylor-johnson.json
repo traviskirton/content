@@ -43,10 +43,20 @@
     ],
     "active_years": "2000-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "2000s",
+    "nationality": "british"
+  },
   "tags": [
-    "actor",
     "action",
     "drama",
-    "modern"
+    "versatile-actor",
+    "marvel",
+    "blockbuster",
+    "supporting-actor",
+    "golden-globe-winner"
   ]
 }

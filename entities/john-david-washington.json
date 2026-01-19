@@ -52,10 +52,20 @@
       "target": "c45406b4-9c8f-4f0d-8f0d-df8562b1e735"
     }
   ],
+  "facets": {
+    "profession": [
+      "actor",
+      "producer"
+    ],
+    "active-era": "2010s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "producer",
     "drama",
-    "modern"
+    "versatile",
+    "leading-actor",
+    "intense-performance",
+    "film-and-television",
+    "american-cinema"
   ]
 }

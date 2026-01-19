@@ -50,10 +50,21 @@
     ],
     "active_years": "1979-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "1970s",
+    "nationality": "japanese"
+  },
   "tags": [
-    "actor",
-    "modern",
     "drama",
-    "action"
+    "action",
+    "asian-cinema",
+    "hollywood",
+    "award-nominee",
+    "charismatic",
+    "versatile-performer",
+    "japanese-actor"
   ]
 }

@@ -42,9 +42,20 @@
     "died": "1972",
     "portrayed_by": "Emily Blunt"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "supporting",
     "spouse",
-    "historical figure"
+    "historical-figure",
+    "science",
+    "world-war-ii",
+    "los-alamos",
+    "socialite",
+    "biologist",
+    "complex-personality",
+    "emily-blunt"
   ]
 }

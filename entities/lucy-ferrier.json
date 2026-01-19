@@ -46,12 +46,20 @@
     "nationality": "American",
     "story_impact": "Catalyst for revenge"
   },
+  "facets": {
+    "role": "minor",
+    "morality": "heroic",
+    "archetype": "innocent"
+  },
   "tags": [
-    "A Study in Scarlet",
-    "character",
+    "a-study-in-scarlet",
     "tragic",
-    "female character",
-    "19th century literature",
-    "Sherlock Holmes"
+    "female-character",
+    "19th-century-literature",
+    "sherlock-holmes",
+    "catalyst",
+    "loss",
+    "injustice",
+    "victim"
   ]
 }

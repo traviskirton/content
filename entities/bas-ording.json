@@ -46,13 +46,24 @@
     "employer": "Apple Inc.",
     "specialization": "Multi-touch Gestures"
   },
+  "facets": {
+    "profession": [
+      "industrial-designer",
+      "ui-expert"
+    ],
+    "active-era": "2000s",
+    "nationality": "danish"
+  },
   "tags": [
-    "Apple",
-    "interface design",
+    "apple",
+    "interface-design",
     "multi-touch",
-    "industrial design",
-    "user experience",
-    "human-computer interaction",
-    "gesture controls"
+    "user-experience",
+    "human-computer-interaction",
+    "gesture-controls",
+    "touchscreen-gestures",
+    "mobile-usability",
+    "interaction-design",
+    "hardware-prototyping"
   ]
 }

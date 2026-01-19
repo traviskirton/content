@@ -37,10 +37,19 @@
     "headquarters": "Washington, D.C.",
     "fictional": true
   },
+  "facets": {
+    "organization-type": "government",
+    "reality": "fictional",
+    "tone": "neutral",
+    "era": "mid-century"
+  },
   "tags": [
-    "organization",
-    "government",
-    "neutral",
-    "sci-fi"
+    "atomic-energy",
+    "regulation",
+    "post-war",
+    "government-agency",
+    "ethical-dilemmas",
+    "scientific-research",
+    "military"
   ]
 }

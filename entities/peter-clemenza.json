@@ -45,12 +45,20 @@
     "ethnicity": "Italian-American",
     "origin": "Italy"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "mentor"
+  },
   "tags": [
-    "Mafia",
-    "Lieutenant",
-    "Corleone Family",
-    "Pragmatic",
-    "Capo",
-    "Organized crime"
+    "mafia",
+    "corleone-family",
+    "organized-crime",
+    "pragmatic",
+    "capo",
+    "lieutenant",
+    "mobster",
+    "criminal-leadership",
+    "italian-american"
   ]
 }

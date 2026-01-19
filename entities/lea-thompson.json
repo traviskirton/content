@@ -72,13 +72,24 @@
     ],
     "active_years": "1980-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director",
+      "producer"
+    ],
+    "active-era": "1980s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "director",
-    "producer",
     "sci-fi",
     "comedy",
     "drama",
-    "modern"
+    "back-to-the-future",
+    "1980s",
+    "film",
+    "television",
+    "actress",
+    "female-lead"
   ]
 }

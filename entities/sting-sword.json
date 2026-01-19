@@ -43,13 +43,13 @@
     "size": "Short sword/dagger length",
     "material": "Elvish steel"
   },
+  "facets": {},
   "tags": [
     "weapon",
     "sword",
     "elvish",
     "hobbit",
     "middle-earth",
-    "fantasy",
     "glowing",
     "orcs"
   ]

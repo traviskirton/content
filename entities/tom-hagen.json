@@ -47,14 +47,21 @@
     "education": "Law",
     "status": "alive"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "advisor"
+  },
   "tags": [
     "mafia",
     "consigliere",
     "lawyer",
     "advisor",
-    "Corleone Family",
-    "The Godfather",
-    "fictional character",
-    "film character"
+    "corleone-family",
+    "the-godfather",
+    "fictional-character",
+    "film-character",
+    "negotiator",
+    "legal-expert"
   ]
 }

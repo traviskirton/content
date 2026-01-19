@@ -36,10 +36,17 @@
     "occupation": "Executive at Fischer Morrow",
     "portrayed_by": "Tom Berenger"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "ruler"
+  },
   "tags": [
-    "supporting",
     "executive",
     "loyal",
-    "strategic"
+    "strategic",
+    "corporate-intrigue",
+    "corporate-loyalty",
+    "business-mentor"
   ]
 }

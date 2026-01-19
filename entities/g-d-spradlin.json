@@ -37,12 +37,21 @@
     "occupation": "Actor",
     "nationality": "American"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "mid-century",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "The Godfather Part II",
-    "political thriller",
-    "character actor",
-    "American cinema",
-    "crime drama"
+    "the-godfather-part-ii",
+    "political-thriller",
+    "character-actor",
+    "american-cinema",
+    "crime-drama",
+    "authoritative-presence",
+    "deep-voice",
+    "villainous-roles"
   ]
 }

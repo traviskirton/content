@@ -36,12 +36,21 @@
     ],
     "geography": "Coastal resort city"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "James Bond",
-    "Espionage",
-    "Coastal City",
-    "Cold War Era",
-    "Beach",
-    "Crime"
+    "james-bond",
+    "espionage",
+    "coastal",
+    "cold-war-era",
+    "beach",
+    "crime",
+    "art-deco",
+    "resort-city",
+    "nightlife",
+    "spy-thriller"
   ]
 }

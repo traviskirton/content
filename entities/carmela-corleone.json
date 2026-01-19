@@ -47,14 +47,21 @@
     "status": "deceased",
     "cultural_background": "Sicilian"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "caregiver"
+  },
   "tags": [
     "mafia",
-    "female character",
-    "matriarch",
-    "family loyalty",
-    "The Godfather",
-    "fictional character",
-    "family drama",
-    "film character"
+    "family-loyalty",
+    "the-godfather",
+    "fictional-character",
+    "family-drama",
+    "film-character",
+    "traditional-values",
+    "italian-american",
+    "matriarchal-figure",
+    "corleone-family"
   ]
 }

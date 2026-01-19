@@ -43,10 +43,19 @@
     "occupation": "Art Appraiser",
     "portrayed_by": "Elizabeth Debicki"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "protagonist",
-    "supporting",
     "protective",
-    "resilient"
+    "resilient",
+    "family",
+    "estranged-relationship",
+    "tenet",
+    "time-inversion",
+    "emotional-arc",
+    "elizabeth-debicki"
   ]
 }

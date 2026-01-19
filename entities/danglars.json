@@ -55,11 +55,19 @@
     "occupation": "banker, baron",
     "born": "circa late 18th century"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "villain",
-    "human",
-    "banker",
-    "19th century"
+    "parisian",
+    "financial-schemes",
+    "greed",
+    "manipulation",
+    "corruption",
+    "social-ambition",
+    "merchant-ship",
+    "early-19th-century"
   ]
 }

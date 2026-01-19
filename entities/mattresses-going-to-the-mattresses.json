@@ -44,13 +44,17 @@
     "material_form": "Mattresses",
     "cultural_reference": true
   },
+  "facets": {},
   "tags": [
     "mafia",
     "tactic",
-    "gang_warfare",
-    "The Godfather",
-    "organized_crime",
+    "gang-warfare",
+    "the-godfather",
+    "organized-crime",
     "survival",
-    "film_term"
+    "film-term",
+    "mob-life",
+    "bodyguards",
+    "safehouses"
   ]
 }

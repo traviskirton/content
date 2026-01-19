@@ -46,9 +46,14 @@
     "portrayed_by": "Richard Bright",
     "appearance_year": 1990
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "The Godfather Part III",
-    "Vatican",
+    "the-godfather-part-iii",
+    "vatican",
     "clergy",
     "papacy",
     "reform",

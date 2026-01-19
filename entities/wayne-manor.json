@@ -51,12 +51,21 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "superhero",
-    "Gothic",
-    "Batman",
-    "Bruce Wayne",
-    "Gotham City"
+    "gothic",
+    "batman",
+    "bruce-wayne",
+    "gotham-city",
+    "batcave",
+    "secret-base",
+    "gothic-architecture",
+    "estate",
+    "hidden-passages"
   ]
 }

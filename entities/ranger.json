@@ -48,10 +48,11 @@
     "model": "Ranger",
     "fictional": true
   },
+  "facets": {},
   "tags": [
     "spacecraft",
     "sci-fi",
     "exploration",
-    "Interstellar"
+    "interstellar"
   ]
 }

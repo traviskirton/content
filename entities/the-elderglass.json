@@ -39,14 +39,21 @@
     "location_type": "Ruins",
     "magical_significance": true
   },
+  "facets": {
+    "location-type": "structure",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "Location",
-    "Ruins",
-    "Magic",
-    "Ancient",
-    "Elderglass",
-    "Fantasy Setting",
-    "Camorr",
-    "Mystery"
+    "ancient",
+    "magic",
+    "ruins",
+    "mystery",
+    "elderglass",
+    "fantasy-setting",
+    "camorr",
+    "otherworldly",
+    "glass-structures",
+    "mythic"
   ]
 }

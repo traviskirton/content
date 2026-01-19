@@ -46,9 +46,19 @@
     "died": "1988",
     "portrayed_by": "David Krumholtz"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
     "scientist",
-    "mentor"
+    "quantum-mechanics",
+    "magnetic-resonance",
+    "ethical-dilemmas",
+    "academic",
+    "columbia-university",
+    "atomic-bomb",
+    "critical-thinker"
   ]
 }

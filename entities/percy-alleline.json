@@ -50,12 +50,20 @@
     "Leadership Style": "Political",
     "Status": "Disgraced"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "Espionage",
-    "Cold War",
-    "British Intelligence",
-    "Bureaucratic",
-    "Mole Scandal",
-    "Tinker Tailor Soldier Spy"
+    "espionage",
+    "cold-war",
+    "british-intelligence",
+    "bureaucratic",
+    "mole-scandal",
+    "tinker-tailor-soldier-spy",
+    "political",
+    "organizational-leadership",
+    "spycraft"
   ]
 }

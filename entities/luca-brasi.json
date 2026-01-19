@@ -46,12 +46,21 @@
     "notable_death": true,
     "origin": "New York"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "warrior"
+  },
   "tags": [
-    "Mafia",
-    "Enforcer",
-    "Crime Family",
-    "Loyalty",
-    "Assassin",
-    "Organized crime"
+    "mafia",
+    "enforcer",
+    "crime-family",
+    "loyalty",
+    "assassin",
+    "organized-crime",
+    "new-york",
+    "mobster",
+    "silent-killer",
+    "underworld"
   ]
 }

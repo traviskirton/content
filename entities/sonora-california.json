@@ -55,11 +55,21 @@
       "longitude": -120.3823
     }
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "historical",
     "public",
     "active",
-    "tours-available"
+    "tours-available",
+    "historic-downtown",
+    "gold-rush",
+    "filming-location",
+    "western-films",
+    "outdoor-adventure",
+    "sierra-nevada"
   ]
 }

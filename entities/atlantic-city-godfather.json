@@ -36,13 +36,20 @@
     ],
     "climate": "Coastal temperate"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "location",
-    "The Godfather",
+    "the-godfather",
     "crime",
-    "Atlantic City",
     "mafia",
-    "East Coast",
-    "organized crime"
+    "east-coast",
+    "organized-crime",
+    "casino",
+    "boardwalk",
+    "mob",
+    "corruption"
   ]
 }

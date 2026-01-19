@@ -51,14 +51,20 @@
     "species": "Human",
     "gender": "Female"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "mentor"
+  },
   "tags": [
-    "Second Foundation",
+    "second-foundation",
     "mentalic",
-    "psychic powers",
-    "female character",
-    "Foundation Series",
-    "Isaac Asimov",
-    "science fiction",
-    "character"
+    "psychic-powers",
+    "foundation-series",
+    "isaac-asimov",
+    "female",
+    "secret-agent",
+    "psychohistory",
+    "mental-manipulation"
   ]
 }

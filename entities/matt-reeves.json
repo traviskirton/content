@@ -56,11 +56,16 @@
     ],
     "active_years": "1995-present"
   },
+  "facets": {
+    "profession": [
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "director",
-    "producer",
-    "writer",
-    "sci-fi",
-    "modern"
+    "sci-fi"
   ]
 }

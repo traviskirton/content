@@ -53,14 +53,21 @@
     "architect": "Norman Foster",
     "sustainability": "100% renewable energy"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
     "technology",
-    "corporate_culture",
+    "corporate-culture",
     "architecture",
     "innovation",
     "sustainability",
-    "apple_inc",
+    "apple-inc",
     "headquarters",
-    "campus"
+    "campus",
+    "norman-foster",
+    "cupertino"
   ]
 }

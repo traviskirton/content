@@ -95,13 +95,26 @@
     "box_office": 266800000,
     "rating": "PG-13"
   },
+  "facets": {
+    "genre": [
+      "action",
+      "crime",
+      "fantasy"
+    ],
+    "era": "1990s",
+    "tone": [
+      "dark",
+      "gothic"
+    ],
+    "rating": "teen"
+  },
   "tags": [
-    "action",
-    "1990s",
     "superhero",
-    "dark",
-    "gothic",
     "tim-burton",
-    "burton-schumacher-batman-films"
+    "burton-schumacher-batman-films",
+    "gotham-city",
+    "comic-book",
+    "ensemble-cast",
+    "practical-effects"
   ]
 }

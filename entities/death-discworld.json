@@ -45,14 +45,21 @@
     "personality_traits": "Curious, compassionate, dignified",
     "powers": "Immortality, soul guidance, time manipulation"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "ambiguous",
+    "archetype": "sage"
+  },
   "tags": [
-    "Discworld",
+    "discworld",
     "personification",
     "death",
-    "character",
     "fantasy",
     "philosophical",
     "supernatural",
-    "iconic"
+    "iconic",
+    "soul-guidance",
+    "immortality",
+    "compassionate"
   ]
 }

@@ -39,12 +39,20 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "city",
-    "building",
+    "gotham",
+    "arena",
+    "indoor",
+    "event-venue",
+    "political-debates",
+    "urban",
     "crime",
     "action",
-    "2020s",
-    "fictional"
+    "2020s"
   ]
 }

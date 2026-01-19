@@ -61,12 +61,20 @@
     "born": "circa late 18th century",
     "died": "after the events of the novel (exact year unknown)"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "villain",
     "human",
     "lawyer",
     "court",
-    "19th century"
+    "19th-century",
+    "judicial-politics",
+    "betrayal",
+    "political-intrigue",
+    "deception",
+    "ambition"
   ]
 }

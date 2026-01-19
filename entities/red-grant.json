@@ -54,13 +54,21 @@
     "gender": "Male",
     "organization": "SMERSH"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "assassin"
+  },
   "tags": [
-    "Assassin",
-    "Villain",
-    "Spy Fiction",
-    "Soviet Agent",
-    "James Bond",
-    "Cold War",
-    "Combat Expert"
+    "spy-fiction",
+    "soviet-agent",
+    "james-bond",
+    "cold-war",
+    "combat-expert",
+    "smersh",
+    "hand-to-hand-combat",
+    "infiltration",
+    "cold-blooded",
+    "lethal"
   ]
 }

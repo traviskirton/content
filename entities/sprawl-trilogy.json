@@ -49,13 +49,26 @@
     "genre": "Cyberpunk",
     "publication_period": "1984-1988"
   },
+  "facets": {
+    "genre": [
+      "cyberpunk",
+      "sci-fi"
+    ],
+    "era": "1980s",
+    "tone": [
+      "dark",
+      "atmospheric"
+    ],
+    "rating": ""
+  },
   "tags": [
-    "cyberpunk",
-    "science fiction",
-    "William Gibson",
+    "william-gibson",
     "literature",
     "dystopia",
-    "trilogy",
-    "technology"
+    "technology",
+    "urban-decay",
+    "cyberspace",
+    "corporate-dystopia",
+    "artificial-intelligence"
   ]
 }

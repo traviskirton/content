@@ -47,11 +47,21 @@
     "occupation": "criminal mastermind",
     "portrayed_by": "Jack Nicholson"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "villain",
-    "criminal mastermind",
-    "chaotic"
+    "chaotic",
+    "criminal-mastermind",
+    "batman",
+    "gotham",
+    "theatrical",
+    "psychological",
+    "dark",
+    "comic-book",
+    "1980s"
   ],
   "additionalProperties": false
 }

@@ -61,14 +61,21 @@
     ],
     "era": "Victorian/Edwardian"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "fictional detective",
-    "Sherlock Holmes",
-    "detective fiction",
-    "logical reasoning",
-    "Arthur Conan Doyle",
-    "Baker Street",
+    "fictional-detective",
+    "detective-fiction",
+    "logical-reasoning",
+    "arthur-conan-doyle",
+    "baker-street",
+    "classic-literature",
     "forensics",
-    "classic literature"
+    "consulting-detective",
+    "eccentric",
+    "analytical"
   ]
 }

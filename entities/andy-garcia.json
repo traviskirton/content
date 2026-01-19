@@ -55,12 +55,22 @@
     "awards": "Golden Globe Nominee, Academy Award Nominee",
     "active_years": "1978–present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director"
+    ],
+    "active-era": "mid-century",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "Hollywood",
-    "The Godfather Part III",
-    "crime drama",
-    "Cuban-American",
-    "Vincent Mancini"
+    "hollywood",
+    "the-godfather-part-iii",
+    "crime-drama",
+    "cuban-american",
+    "vincent-mancini",
+    "charismatic",
+    "gangster-genre",
+    "bilingual-actor"
   ]
 }

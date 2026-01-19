@@ -47,13 +47,20 @@
     "portrayed_by": "Eli Wallach",
     "appearance_year": 1990
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "The Godfather Part III",
+    "the-godfather-part-iii",
     "mafia",
-    "villain",
     "corruption",
     "betrayal",
-    "organized crime",
-    "old guard"
+    "organized-crime",
+    "old-guard",
+    "cunning",
+    "mobster",
+    "crime-drama"
   ]
 }

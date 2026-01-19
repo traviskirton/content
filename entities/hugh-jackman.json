@@ -60,10 +60,22 @@
     ],
     "active_years": "1994-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "producer"
+    ],
+    "active-era": "2000s",
+    "nationality": "australian"
+  },
   "tags": [
-    "actor",
     "musical",
     "superhero",
-    "modern"
+    "singer",
+    "tony-award-winner",
+    "wolverine",
+    "x-men",
+    "versatile-actor",
+    "award-winning"
   ]
 }

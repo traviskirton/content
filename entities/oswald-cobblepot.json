@@ -40,10 +40,19 @@
     "occupation": "gangster, nightclub owner",
     "portrayed_by": "Colin Farrell"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "supporting",
-    "villain",
     "gangster",
-    "strategist"
+    "strategist",
+    "gotham",
+    "criminal-underworld",
+    "iceberg-lounge",
+    "noir",
+    "cunning",
+    "ambitious"
   ]
 }

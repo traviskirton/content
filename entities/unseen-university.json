@@ -50,13 +50,20 @@
     "notable_faculty": "Archchancellor, Ponder Stibbons, The Bursar",
     "magical_focus": "Advanced arcane study and magical experimentation"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "Location",
-    "Magical Institution",
-    "Unseen University",
-    "Discworld",
-    "Wizards",
-    "Education",
-    "Magic"
+    "magical-institution",
+    "discworld",
+    "wizards",
+    "education",
+    "magic",
+    "arcane-research",
+    "medieval-architecture",
+    "fantasy",
+    "old-university"
   ]
 }

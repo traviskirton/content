@@ -46,9 +46,22 @@
       "target": "b674c306-a2d7-4c8d-9391-cf3a06796c4d"
     }
   ],
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "genre": [
+      "sci-fi"
+    ]
+  },
   "tags": [
     "corporation",
-    "villainous",
-    "sci-fi"
+    "extraction",
+    "security-operations",
+    "corporate-espionage",
+    "dream-sharing",
+    "subconscious-infiltration",
+    "inception",
+    "espionage",
+    "multinational"
   ]
 }

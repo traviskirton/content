@@ -50,13 +50,20 @@
     "security_level": "High",
     "importance": "Strategic"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "Location",
-    "Embassy",
-    "Soviet Union",
-    "Cold War",
-    "Espionage",
-    "James Bond",
-    "Istanbul"
+    "soviet-union",
+    "embassy",
+    "cold-war",
+    "espionage",
+    "james-bond",
+    "istanbul",
+    "spy-thriller",
+    "diplomatic-mission",
+    "intelligence-hub"
   ]
 }

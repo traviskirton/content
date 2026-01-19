@@ -34,13 +34,20 @@
     "culture": "Elven",
     "era_relevant": "Third Age"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "Middle-earth",
-    "Elves",
-    "Port",
-    "The Lord of the Rings",
-    "Mystical",
-    "Farewell",
-    "Undying Lands"
+    "middle-earth",
+    "elves",
+    "port",
+    "lord-of-the-rings",
+    "mystical",
+    "farewell",
+    "undying-lands",
+    "elven-culture",
+    "fantasy"
   ]
 }

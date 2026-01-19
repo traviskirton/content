@@ -45,11 +45,20 @@
       "long": -1.2074
     }
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "manor house",
+    "manor-house",
     "museum",
     "public",
     "tours-available",
-    "active"
+    "historical",
+    "nottingham",
+    "english-heritage",
+    "film-location",
+    "dark-knight-rises"
   ]
 }

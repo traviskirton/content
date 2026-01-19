@@ -47,9 +47,19 @@
     "occupation": "Chemist",
     "portrayed_by": "Dileep Rao"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "sage"
+  },
   "tags": [
-    "supporting",
+    "chemist",
     "comic-relief",
-    "scientist"
+    "dream-sharing",
+    "pharmacology",
+    "resourceful",
+    "inception",
+    "specialized-sedatives",
+    "reliable"
   ]
 }

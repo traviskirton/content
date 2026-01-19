@@ -46,13 +46,22 @@
     "reputation": "Corrupt but influential",
     "founded": "Mid 20th century"
   },
+  "facets": {
+    "industry": [
+      "real-estate",
+      "finance",
+      "money-laundering"
+    ],
+    "scope": "international",
+    "reputation": "corrupt"
+  },
   "tags": [
-    "organization",
-    "The Godfather Part III",
-    "real estate",
+    "the-godfather-part-iii",
     "mafia",
-    "finance",
     "corruption",
-    "money laundering"
+    "organized-crime",
+    "financial-intrigue",
+    "political-manipulation",
+    "criminal-enterprises"
   ]
 }

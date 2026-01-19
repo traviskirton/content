@@ -51,9 +51,18 @@
     "occupation": "mob boss",
     "portrayed_by": "Tom Wilkinson"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "villain",
-    "crime lord"
+    "crime-lord",
+    "organized-crime",
+    "gotham",
+    "mob-boss",
+    "corruption",
+    "power",
+    "criminal-underworld"
   ]
 }

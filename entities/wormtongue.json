@@ -43,12 +43,20 @@
     "status": "Banished",
     "method": "Manipulation"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "villainous",
+    "archetype": "trickster"
+  },
   "tags": [
-    "character",
-    "villain",
     "spy",
     "advisor",
     "traitor",
-    "Middle-earth"
+    "middle-earth",
+    "manipulation",
+    "psychological-tactics",
+    "court-politics",
+    "deceit",
+    "sycophant"
   ]
 }

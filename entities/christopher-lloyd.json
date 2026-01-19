@@ -71,11 +71,22 @@
     ],
     "active_years": "1961-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "voice actor"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "voice actor",
     "sci-fi",
     "comedy",
-    "modern"
+    "back-to-the-future",
+    "emmett-brown",
+    "character-actor",
+    "cult-classic",
+    "vocal-performance",
+    "versatile"
   ]
 }

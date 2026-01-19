@@ -42,12 +42,20 @@
     "occupation": "Acting Teacher, Director, Actor",
     "nationality": "American"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director"
+    ],
+    "active-era": "mid-century",
+    "nationality": "american"
+  },
   "tags": [
-    "acting teacher",
-    "method acting",
+    "acting-teacher",
+    "method-acting",
     "theater",
     "film",
     "mentor",
-    "Hollywood"
+    "hollywood"
   ]
 }

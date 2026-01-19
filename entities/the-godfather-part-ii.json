@@ -37,14 +37,28 @@
     ],
     "language": "English"
   },
+  "facets": {
+    "genre": [
+      "crime",
+      "drama"
+    ],
+    "era": "1970s",
+    "tone": [
+      "dark",
+      "serious",
+      "gritty"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "crime",
-    "drama",
     "mafia",
     "gangster",
     "classic",
-    "film",
     "sequel",
-    "oscar_winner"
+    "oscar-winner",
+    "family-loyalty",
+    "power-dynamics",
+    "crime-family",
+    "francis-ford-coppola"
   ]
 }

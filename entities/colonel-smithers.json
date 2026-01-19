@@ -42,12 +42,19 @@
     "film": "Goldfinger",
     "role": "supporting_character"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "James Bond",
-    "MI6",
-    "supporting_character",
+    "james-bond",
+    "mi6",
     "military",
     "espionage",
-    "technical_support"
+    "technical-support",
+    "intelligence",
+    "british-spy",
+    "cold-war"
   ]
 }

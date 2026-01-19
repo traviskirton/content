@@ -119,15 +119,29 @@
     "box_office": 411348924,
     "rating": "PG-13"
   },
+  "facets": {
+    "genre": [
+      "action",
+      "adventure",
+      "fantasy"
+    ],
+    "era": "1980s",
+    "tone": [
+      "dark",
+      "atmospheric",
+      "serious"
+    ],
+    "rating": "teen"
+  },
   "tags": [
-    "action",
-    "adventure",
-    "fantasy",
-    "1980s",
     "superhero",
     "gothic",
     "crime",
     "tim-burton",
-    "burton-schumacher-batman-films"
+    "burton-schumacher-batman-films",
+    "dc-universe",
+    "jack-nicholson",
+    "batman",
+    "iconic-score"
   ]
 }

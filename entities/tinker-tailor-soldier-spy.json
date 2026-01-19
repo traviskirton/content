@@ -55,14 +55,27 @@
     "pages": 320,
     "publisher": "Hodder & Stoughton"
   },
+  "facets": {
+    "genre": [
+      "thriller"
+    ],
+    "era": "1970s",
+    "tone": [
+      "cerebral",
+      "serious"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "spy fiction",
-    "cold war",
-    "john le carré",
+    "spy-fiction",
+    "cold-war",
+    "john-le-carré",
     "espionage",
     "literature",
-    "thriller",
-    "george smiley",
-    "karla trilogy"
+    "george-smiley",
+    "karla-trilogy",
+    "intelligence",
+    "british-intelligence",
+    "espionage-thriller"
   ]
 }

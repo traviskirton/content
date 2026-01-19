@@ -39,10 +39,19 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
-    "fictional",
-    "Gotham City",
-    "The Dark Knight Trilogy"
+    "gotham-city",
+    "dark-knight-trilogy",
+    "financial-hub",
+    "stock-exchange",
+    "heist",
+    "modern-architecture",
+    "economic-power",
+    "batman"
   ]
 }

@@ -96,9 +96,20 @@
     "population": 50000,
     "founded": 1850
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
-    "sci-fi",
-    "historical"
+    "back-to-the-future",
+    "time-travel",
+    "california",
+    "suburban",
+    "1980s",
+    "fictional-usa",
+    "hoverboard",
+    "courthouse",
+    "retro"
   ]
 }

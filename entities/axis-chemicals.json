@@ -39,12 +39,20 @@
     "type": "building",
     "founded": "1930s (speculative in-universe date)"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
     "industrial",
-    "chemical plant",
-    "Gotham City",
-    "Batman",
+    "chemical-plant",
+    "gotham-city",
+    "batman",
     "1980s",
-    "villain origin"
+    "villain-origin",
+    "gothic",
+    "dark",
+    "crime-ridden"
   ]
 }

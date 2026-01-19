@@ -55,10 +55,22 @@
     ],
     "active_years": "1999-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "model"
+    ],
+    "active-era": "2000s",
+    "nationality": "french"
+  },
   "tags": [
-    "actor",
     "drama",
     "comedy",
-    "modern"
+    "versatile",
+    "film",
+    "international",
+    "european-cinema",
+    "hollywood",
+    "character-driven"
   ]
 }

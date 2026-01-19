@@ -38,9 +38,19 @@
       "long": -0.456
     }
   },
+  "facets": {
+    "location-type": "studio",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "studio",
     "active",
-    "private"
+    "private",
+    "british",
+    "film-production",
+    "historic",
+    "backlot",
+    "post-production",
+    "surrey"
   ]
 }

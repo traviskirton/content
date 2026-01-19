@@ -43,13 +43,21 @@
     "role_in_story": "Main Setting",
     "climate": "Mediterranean"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "Location",
-    "James Bond",
-    "Cold War",
-    "Espionage Setting",
-    "City",
-    "Turkey",
-    "Historical"
+    "james-bond",
+    "cold-war",
+    "espionage-setting",
+    "turkey",
+    "historical",
+    "grand-bazaar",
+    "bosporus-strait",
+    "hagia-sophia",
+    "mediterranean-climate",
+    "strategic-hub"
   ]
 }

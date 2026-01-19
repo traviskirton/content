@@ -51,9 +51,20 @@
     "occupation": "scientist, astronaut",
     "portrayed_by": "Anne Hathaway"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "explorer"
+  },
   "tags": [
-    "protagonist",
     "scientist",
-    "explorer"
+    "astronaut",
+    "space-exploration",
+    "nasa",
+    "interstellar",
+    "space-mission",
+    "hope",
+    "love",
+    "compassionate"
   ]
 }

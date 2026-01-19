@@ -39,14 +39,30 @@
     "powers": "Telecommunication, distant sight, mind influence",
     "dangerous_to": "Untrained or weak-willed users"
   },
+  "facets": {
+    "origin": "first-age",
+    "material": "crystalline-stone",
+    "powers": [
+      "telecommunication",
+      "distant-sight",
+      "mind-influence"
+    ],
+    "category": "magical-artifact",
+    "setting": "middle-earth",
+    "associated-with": [
+      "sauron",
+      "war-of-the-ring"
+    ]
+  },
   "tags": [
-    "Middle-earth",
-    "Magical item",
-    "Communication",
-    "Seeing-stone",
-    "Fantasy artifact",
-    "Elven",
-    "War of the Ring",
-    "Sauron"
+    "fantasy",
+    "seeing-stone",
+    "elven",
+    "communication",
+    "magic",
+    "artifact",
+    "middle-earth",
+    "war-of-the-ring",
+    "sauron"
   ]
 }

@@ -36,13 +36,20 @@
     "role": "key witness and victim",
     "nationality": "English"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "everyman"
+  },
   "tags": [
-    "The Hound of the Baskervilles",
-    "Arthur Conan Doyle",
-    "Sherlock Holmes",
-    "Fictional character",
-    "Victim",
-    "Moor",
-    "Mystery"
+    "the-hound-of-the-baskervilles",
+    "arthur-conan-doyle",
+    "sherlock-holmes",
+    "victim",
+    "moor",
+    "mystery",
+    "key-witness",
+    "observant",
+    "survivor"
   ]
 }

@@ -55,10 +55,19 @@
     "occupation": "thief, burglar",
     "portrayed_by": "Anne Hathaway"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "antihero",
+    "archetype": "rebel"
+  },
   "tags": [
-    "protagonist",
-    "antihero",
     "thief",
-    "martial artist"
+    "martial-artist",
+    "catwoman",
+    "gotham",
+    "stealth",
+    "agility",
+    "ally",
+    "self-reliant"
   ]
 }

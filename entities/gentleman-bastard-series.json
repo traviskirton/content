@@ -52,13 +52,28 @@
       "friendship"
     ]
   },
+  "facets": {
+    "genre": [
+      "fantasy",
+      "adventure",
+      "crime"
+    ],
+    "tone": [
+      "cerebral",
+      "character-driven",
+      "suspenseful"
+    ],
+    "era": "renaissance",
+    "rating": "teen"
+  },
   "tags": [
-    "fantasy",
-    "book series",
     "heist",
-    "crime",
-    "Scott Lynch",
-    "Camorr",
-    "adventure"
+    "scott-lynch",
+    "camorr",
+    "nonlinear",
+    "loyalty",
+    "friendship",
+    "political-intrigue",
+    "criminal-mastery"
   ]
 }

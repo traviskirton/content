@@ -42,14 +42,20 @@
     "function": "Family estate, Mafia headquarters",
     "architectural_style": "Italianate villa"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "location",
     "mafia",
-    "The Godfather",
+    "the-godfather",
     "estate",
-    "home",
-    "crime_family",
-    "New York",
-    "1970s"
+    "crime-family",
+    "new-york",
+    "italianate-villa",
+    "family-estate",
+    "mafia-headquarters",
+    "suburban"
   ]
 }

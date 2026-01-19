@@ -74,14 +74,21 @@
     ],
     "nationality": "British"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "fictional character",
     "spy",
     "espionage",
-    "cold war",
-    "john le carré",
-    "george smiley",
+    "cold-war",
+    "john-le-carré",
     "literature",
-    "counterintelligence"
+    "counterintelligence",
+    "intelligence-officer",
+    "british-secret-intelligence-service",
+    "psychological-insight",
+    "methodical"
   ]
 }

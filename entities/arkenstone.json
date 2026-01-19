@@ -46,12 +46,24 @@
     "size": "Large",
     "symbolism": "Royalty and right to rule"
   },
+  "facets": {
+    "category": "gemstone",
+    "themes": [
+      "royalty",
+      "heritage",
+      "symbolism",
+      "greed",
+      "honor"
+    ],
+    "setting": "fantasy"
+  },
   "tags": [
-    "The Hobbit",
-    "Dwarves",
-    "Treasure",
-    "Gem",
-    "Symbolism",
-    "Fantasy"
+    "the-hobbit",
+    "dwarves",
+    "treasure",
+    "gem",
+    "heart-of-the-mountain",
+    "king-thorin-oakenshield",
+    "lonely-mountain"
   ]
 }

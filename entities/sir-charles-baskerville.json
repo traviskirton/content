@@ -47,11 +47,20 @@
     "cause_of_death": "Mysterious; attributed to hound legend",
     "age_at_death": "Late 50s"
   },
+  "facets": {
+    "role": "minor",
+    "morality": "neutral",
+    "archetype": "ruler"
+  },
   "tags": [
-    "Victim",
-    "Baskerville family",
-    "Mystery",
-    "Victorian era",
-    "Fictional nobility"
+    "victim",
+    "baskerville-family",
+    "mystery",
+    "victorian-era",
+    "fictional-nobility",
+    "gothic",
+    "legacy",
+    "family-curse",
+    "moors"
   ]
 }

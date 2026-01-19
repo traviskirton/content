@@ -41,14 +41,20 @@
     "size": "Approximately several acres",
     "natural_hazard": true
   },
+  "facets": {
+    "location-type": "landscape",
+    "reality": "real",
+    "scale": "region"
+  },
   "tags": [
-    "bog",
-    "dangerous",
-    "moorland",
-    "natural hazard",
-    "setting",
+    "peat-bog",
+    "dartmoor",
+    "quick-sand",
     "gothic",
     "legend",
-    "literature"
+    "literature",
+    "moorland",
+    "natural-hazard",
+    "foreboding"
   ]
 }

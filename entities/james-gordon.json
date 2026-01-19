@@ -72,10 +72,17 @@
     "occupation": "Commissioner of Gotham City Police Department",
     "portrayed_by": "Gary Oldman"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "mentor",
     "law-enforcer",
-    "protagonist"
+    "gotham",
+    "detective",
+    "corruption",
+    "justice",
+    "batman-ally"
   ]
 }

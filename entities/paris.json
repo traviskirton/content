@@ -44,9 +44,20 @@
       "long": 2.3522
     }
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "active",
-    "public"
+    "public",
+    "tourist-attraction",
+    "historic-city",
+    "european-capital",
+    "landmarks",
+    "art-culture",
+    "filming-location",
+    "fashion"
   ]
 }

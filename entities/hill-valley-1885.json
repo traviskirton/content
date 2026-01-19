@@ -60,11 +60,19 @@
     "type": "city",
     "founded": "1850s"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "western",
-    "sci-fi",
+    "old-west",
     "1885",
-    "Old West"
+    "railroad",
+    "frontier-town",
+    "saloon",
+    "hill-valley",
+    "back-to-the-future"
   ]
 }

@@ -43,13 +43,21 @@
     "powers": "Psychic manipulation",
     "affiliation": "Rebel Leader"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "fictional character",
-    "antagonist",
     "mutant",
-    "psychic powers",
-    "Foundation series",
-    "Isaac Asimov",
-    "science fiction"
+    "psychic-powers",
+    "foundation-series",
+    "isaac-asimov",
+    "science-fiction",
+    "rebel-leader",
+    "political-intrigue",
+    "mind-control",
+    "deception",
+    "performance"
   ]
 }

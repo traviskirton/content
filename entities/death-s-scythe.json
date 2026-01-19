@@ -39,14 +39,26 @@
     "function": "soul harvesting",
     "age": "timeless"
   },
+  "facets": {
+    "item-type": "weapon",
+    "theme": [
+      "mortality",
+      "fate",
+      "supernatural",
+      "symbolic"
+    ],
+    "era": "timeless"
+  },
   "tags": [
     "discworld",
-    "item",
     "death",
-    "weapon",
-    "symbol",
-    "supernatural",
     "fantasy",
-    "artifact"
+    "artifact",
+    "ethereal-metal",
+    "ancient-wood",
+    "harvesting",
+    "metaphysical",
+    "cosmic",
+    "soul-harvesting"
   ]
 }

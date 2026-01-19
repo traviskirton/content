@@ -39,9 +39,18 @@
     "occupation": "Chairman of the United States Atomic Energy Commission",
     "portrayed_by": "Robert Downey Jr."
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "ambiguous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
     "politician",
-    "strategist"
+    "strategist",
+    "power-struggles",
+    "atomic-energy",
+    "political-intrigue",
+    "mid-century",
+    "robert-downey-jr"
   ]
 }

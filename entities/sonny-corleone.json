@@ -55,12 +55,19 @@
     ],
     "fate": "Killed in ambush"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "warrior"
+  },
   "tags": [
     "mafia",
-    "corleone family",
+    "corleone-family",
     "enforcer",
-    "fictional character",
-    "organized crime",
-    "impulsive character"
+    "organized-crime",
+    "impulsive",
+    "loyalty",
+    "violent-death",
+    "family-drama"
   ]
 }

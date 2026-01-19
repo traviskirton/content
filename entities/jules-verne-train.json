@@ -44,11 +44,18 @@
     "manufacturer": "Doc Brown",
     "fictional": true
   },
+  "facets": {
+    "vehicle-type": "train",
+    "reality": "fictional"
+  },
   "tags": [
     "time-machine",
     "flying",
     "sci-fi",
-    "train",
-    "back-to-the-future"
+    "back-to-the-future",
+    "steam-powered",
+    "hovering",
+    "flux-capacitor",
+    "time-travel"
   ]
 }

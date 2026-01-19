@@ -80,10 +80,20 @@
     "born": "1968",
     "portrayed_by": "Michael J. Fox"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "everyman"
+  },
   "tags": [
-    "protagonist",
-    "hero",
     "time-traveler",
-    "teenager"
+    "teenager",
+    "guitarist",
+    "skateboarding",
+    "loyalty",
+    "impulsive",
+    "friendship",
+    "back-to-the-future",
+    "calvin-klein"
   ]
 }

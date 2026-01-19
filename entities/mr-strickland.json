@@ -48,10 +48,19 @@
     "occupation": "high school principal",
     "portrayed_by": "James Tolkan"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "supporting",
-    "antagonist",
     "strict",
-    "authoritative"
+    "authoritative",
+    "disciplinarian",
+    "hill-valley",
+    "high-school",
+    "enforcer",
+    "authority-figure",
+    "1980s"
   ]
 }

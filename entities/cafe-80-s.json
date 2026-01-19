@@ -44,11 +44,20 @@
     "type": "building",
     "founded": "prior to 2015"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
-    "sci-fi",
+    "retro",
     "2015",
     "futuristic",
-    "retro"
+    "neon",
+    "arcade",
+    "time-travel",
+    "hill-valley",
+    "hoverboard",
+    "back-to-the-future"
   ]
 }

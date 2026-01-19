@@ -47,12 +47,20 @@
     "number_of_families": 5,
     "established": "1920s-1930s"
   },
+  "facets": {
+    "organization-type": "umbrella",
+    "industry": "organized-crime",
+    "location": "new-york-city",
+    "established-era": "1920s"
+  },
   "tags": [
-    "organization",
-    "Mafia",
-    "The Godfather",
-    "organized crime",
-    "New York",
-    "Five Families"
+    "mafia",
+    "the-godfather",
+    "five-families",
+    "italian-american",
+    "crime-family",
+    "racketeering",
+    "political-corruption",
+    "organized-crime"
   ]
 }

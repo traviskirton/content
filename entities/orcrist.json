@@ -42,12 +42,17 @@
     "magic_property": "Glows blue near orcs/goblins",
     "material": "Elven steel"
   },
+  "facets": {},
   "tags": [
-    "The Hobbit",
-    "Sword",
-    "Elven",
-    "Magic",
-    "Weapon",
-    "Fantasy"
+    "the-hobbit",
+    "sword",
+    "elven",
+    "magic",
+    "weapon",
+    "fantasy",
+    "gondolin",
+    "elven-steel",
+    "glowing-blade",
+    "goblin-cleaver"
   ]
 }

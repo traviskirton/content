@@ -46,12 +46,20 @@
     "intelligence_background": "Former Circus Operative",
     "support_level": "High"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "Espionage",
-    "Supporting Character",
-    "Emotional Anchor",
-    "Cold War",
-    "British Intelligence",
-    "Spy Family"
+    "espionage",
+    "emotional-anchor",
+    "cold-war",
+    "british-intelligence",
+    "spy-family",
+    "discretion",
+    "intelligence-community",
+    "emotional-intelligence",
+    "domestic-anchor"
   ]
 }

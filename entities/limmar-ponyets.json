@@ -42,14 +42,21 @@
     "profession": "Merchant/Trader",
     "influence": "Economic"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "merchant"
+  },
   "tags": [
-    "Foundation",
-    "Sci-Fi",
-    "Trader",
-    "Merchant",
-    "Economic Power",
-    "Isaac Asimov",
-    "Commerce",
-    "Political Influence"
+    "foundation",
+    "sci-fi",
+    "trader",
+    "merchant",
+    "economic-power",
+    "isaac-asimov",
+    "commerce",
+    "political-influence",
+    "trade",
+    "negotiation"
   ]
 }

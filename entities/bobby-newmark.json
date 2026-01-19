@@ -50,12 +50,20 @@
     "origin": "The Sprawl",
     "role": "Supporting protagonist"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "everyman"
+  },
   "tags": [
     "cyberpunk",
     "hacker",
     "technology",
     "novice",
-    "protagonist",
-    "digital world"
+    "digital-world",
+    "coming-of-age",
+    "the-sprawl",
+    "artificial-intelligence",
+    "corporate-corruption"
   ]
 }

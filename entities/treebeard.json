@@ -42,14 +42,21 @@
     "alignment": "Neutral Good",
     "age": "Ancient"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "caregiver"
+  },
   "tags": [
     "ent",
     "nature",
     "environment",
-    "guardian",
     "middle-earth",
     "fantasy",
     "elder",
-    "forest"
+    "forest",
+    "forest-guardian",
+    "ancient-magic",
+    "ecological-preservation"
   ]
 }

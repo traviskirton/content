@@ -34,14 +34,20 @@
     "historical_significance": "Diplomatic center",
     "population": "Approx. 120,000 (1970s)"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "location",
-    "city",
-    "Switzerland",
+    "switzerland",
     "neutrality",
-    "Cold War",
+    "cold-war",
     "espionage",
-    "le Carré",
-    "Smiley's People"
+    "le-carré",
+    "smileys-people",
+    "political-center",
+    "medieval-architecture",
+    "historical-city"
   ]
 }

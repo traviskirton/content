@@ -56,10 +56,18 @@
     "born": "1976",
     "died": "2008"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "villain",
-    "tragic hero",
-    "lawyer"
+    "tragic-hero",
+    "lawyer",
+    "duality",
+    "chance",
+    "coin-flip",
+    "gotham",
+    "split-personality"
   ]
 }

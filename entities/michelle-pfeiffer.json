@@ -62,11 +62,22 @@
     ],
     "active_years": "1978-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "1980s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "modern",
     "drama",
     "fantasy",
-    "sci-fi"
+    "sci-fi",
+    "versatile",
+    "iconic-roles",
+    "batman-returns",
+    "dangerous-liaisons",
+    "the-fabulous-baker-boys",
+    "award-nominated"
   ]
 }

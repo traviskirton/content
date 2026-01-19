@@ -48,11 +48,19 @@
     "manufacturer": "Wayne Enterprises",
     "fictional": true
   },
+  "facets": {
+    "vehicle-type": "aquatic",
+    "reality": "fictional",
+    "scale": "vehicle"
+  },
   "tags": [
-    "vehicle",
-    "action",
-    "aquatic",
     "batman",
-    "naval"
+    "action",
+    "naval",
+    "sewer-navigation",
+    "stealth",
+    "high-speed",
+    "bat-vehicle",
+    "gotham"
   ]
 }

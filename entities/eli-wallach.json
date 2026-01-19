@@ -47,12 +47,20 @@
     "occupation": "Actor",
     "active_years": "1945–2010"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "mid-century",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "character actor",
-    "The Godfather Part III",
-    "Western films",
-    "Tony Award",
-    "Honorary Oscar"
+    "character-actor",
+    "the-godfather-part-iii",
+    "western-films",
+    "tony-award",
+    "honorary-oscar",
+    "character-driven",
+    "award-winning"
   ]
 }

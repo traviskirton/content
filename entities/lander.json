@@ -45,9 +45,17 @@
     "manufacturer": "NASA",
     "fictional": true
   },
+  "facets": {
+    "vehicle_type": "spacecraft",
+    "fictional": true
+  },
   "tags": [
     "spacecraft",
     "sci-fi",
-    "flying"
+    "flying",
+    "planetary-landing",
+    "interstellar",
+    "nasa",
+    "space-exploration"
   ]
 }

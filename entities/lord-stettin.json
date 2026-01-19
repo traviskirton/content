@@ -51,14 +51,20 @@
     "species": "Human",
     "gender": "Male"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "First Foundation",
+    "first-foundation",
     "politics",
     "nobility",
-    "science fiction",
-    "Foundation Series",
-    "Isaac Asimov",
-    "character",
-    "first-foundation"
+    "foundation-series",
+    "isaac-asimov",
+    "political-manipulation",
+    "power-struggle",
+    "galactic-politics",
+    "influence"
   ]
 }

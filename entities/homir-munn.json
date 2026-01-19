@@ -47,14 +47,21 @@
     "species": "Human",
     "gender": "Male"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "sage"
+  },
   "tags": [
-    "First Foundation",
+    "first-foundation",
     "historian",
     "librarian",
-    "science fiction",
-    "Foundation Series",
-    "knowledge keeper",
-    "character",
-    "Isaac Asimov"
+    "science-fiction",
+    "foundation-series",
+    "knowledge-keeper",
+    "isaac-asimov",
+    "archive",
+    "scholarly",
+    "intellectual"
   ]
 }

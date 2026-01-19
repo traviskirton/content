@@ -35,14 +35,22 @@
     "era_active": "Second to Third Age",
     "danger_level": "Extreme"
   },
+  "facets": {
+    "location-type": "region",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "Middle-earth",
-    "Lord of the Rings",
-    "Mordor",
-    "Mountain pass",
-    "Fantasy location",
-    "Dark fortress",
-    "Shelob",
-    "Orcs"
+    "middle-earth",
+    "lord-of-the-rings",
+    "mordor",
+    "mountain-pass",
+    "dark-fortress",
+    "shelob",
+    "orcs",
+    "fantasy-location",
+    "forbidden-land",
+    "shadowed",
+    "high-danger"
   ]
 }

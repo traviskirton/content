@@ -44,9 +44,19 @@
     "born": 2035,
     "portrayed_by": "Casey Affleck"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "everyman"
+  },
   "tags": [
-    "protagonist",
     "farmer",
-    "family-man"
+    "family-man",
+    "human-survivor",
+    "dystopian-future",
+    "earth",
+    "resilience",
+    "pragmatic",
+    "casey-affleck"
   ]
 }

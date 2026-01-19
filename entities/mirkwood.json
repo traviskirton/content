@@ -43,13 +43,21 @@
     "status": "Darkened by evil influence",
     "governed_by": "King Thranduil"
   },
+  "facets": {
+    "location-type": "landscape",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "Middle-earth",
-    "Forest",
-    "Elves",
-    "The Hobbit",
-    "Darkness",
-    "Adventure",
-    "Danger"
+    "middle-earth",
+    "forest",
+    "elves",
+    "the-hobbit",
+    "darkness",
+    "adventure",
+    "danger",
+    "shadowy-atmosphere",
+    "gloomy",
+    "menace"
   ]
 }

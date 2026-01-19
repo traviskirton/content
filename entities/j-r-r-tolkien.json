@@ -54,13 +54,24 @@
     "nationality": "British",
     "occupation": "Author, Philologist, Professor"
   },
+  "facets": {
+    "profession": [
+      "author",
+      "philologist",
+      "professor"
+    ],
+    "active-era": "20th-century",
+    "nationality": "british"
+  },
   "tags": [
-    "author",
     "fantasy",
-    "philology",
-    "Middle-earth",
+    "middle-earth",
     "literature",
-    "20th century",
-    "mythology"
+    "mythology",
+    "language-creation",
+    "medieval-studies",
+    "world-building",
+    "oxford-university",
+    "scholarship"
   ]
 }

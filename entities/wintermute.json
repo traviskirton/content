@@ -59,14 +59,20 @@
     "goal": "Merge with Neuromancer",
     "level": "Super-advanced AI"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "ambiguous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "AI",
     "cyberpunk",
-    "artificial intelligence",
+    "artificial-intelligence",
     "manipulation",
     "hackers",
     "technology",
-    "Neuromancer",
-    "neuromancer-ai"
+    "neuromancer",
+    "neuromancer-ai",
+    "strategic",
+    "digital-persona"
   ]
 }

@@ -43,10 +43,20 @@
     "fictional": true,
     "type": "event"
   },
+  "facets": {
+    "location-type": "event",
+    "reality": "fictional",
+    "scale": "neighborhood"
+  },
   "tags": [
-    "festival",
     "western",
-    "1885",
-    "event"
+    "festival",
+    "old-west",
+    "hill-valley",
+    "historical",
+    "celebration",
+    "annual",
+    "courthouse-square",
+    "back-to-the-future"
   ]
 }

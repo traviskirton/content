@@ -47,10 +47,20 @@
     "occupation": "astronaut, scientist",
     "portrayed_by": "Matt Damon"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "explorer"
+  },
   "tags": [
-    "antagonist",
-    "villain",
     "scientist",
-    "astronaut"
+    "astronaut",
+    "space-exploration",
+    "human-survival",
+    "lazarus-missions",
+    "optimism",
+    "fear",
+    "interpersonal-conflict",
+    "matt-damon"
   ]
 }

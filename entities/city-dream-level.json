@@ -36,10 +36,18 @@
     "fictional": true,
     "type": "city"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "sci-fi",
     "futuristic",
-    "architecture"
+    "architecture",
+    "dreamscape",
+    "urban",
+    "complexity",
+    "subconscious"
   ]
 }

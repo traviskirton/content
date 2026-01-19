@@ -39,13 +39,26 @@
     "affiliation": "LDS Church (historical)",
     "status": "Defunct"
   },
+  "facets": {
+    "era": "19th century",
+    "region": [
+      "missouri",
+      "illinois",
+      "utah"
+    ],
+    "status": "defunct",
+    "type": "militant sect",
+    "affiliation": "lds church"
+  },
   "tags": [
-    "Mormon history",
-    "militant groups",
-    "secret societies",
-    "religious persecution",
+    "mormon-history",
+    "militant-groups",
+    "secret-societies",
+    "religious-persecution",
     "vigilantism",
-    "19th century America",
-    "paramilitary"
+    "paramilitary",
+    "american-west",
+    "clandestine",
+    "19th-century-america"
   ]
 }

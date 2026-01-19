@@ -44,12 +44,20 @@
     "type": "region",
     "population": "approximately 100,000"
   },
+  "facets": {
+    "location-type": "region",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "city",
     "crime",
     "drama",
-    "Gotham City",
-    "Batman",
-    "2000s"
+    "gotham-city",
+    "batman",
+    "urban-decay",
+    "slums",
+    "poverty",
+    "corruption",
+    "comic-book"
   ]
 }

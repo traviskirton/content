@@ -75,13 +75,20 @@
     "fictional": true,
     "type": "city"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "gothic",
     "crime",
-    "Burton",
+    "burton",
     "1989",
     "1992",
-    "Batman"
+    "batman",
+    "noir",
+    "dark",
+    "gotham"
   ]
 }

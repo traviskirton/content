@@ -48,14 +48,20 @@
     "author": "Sir Hugo Baskerville (attributed)",
     "purpose": "Record of ancestral sins"
   },
+  "facets": {
+    "age": "16th century",
+    "format": "manuscript"
+  },
   "tags": [
-    "item",
-    "manuscript",
-    "historical document",
+    "historical-document",
     "curse",
-    "Baskerville family",
+    "baskerville-family",
     "mystery",
-    "plot device",
-    "Gothic"
+    "plot-device",
+    "gothic",
+    "family-curse",
+    "ancestral-sins",
+    "legacy",
+    "supernatural"
   ]
 }

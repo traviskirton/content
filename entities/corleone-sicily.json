@@ -39,13 +39,19 @@
     "historical_crime_link": true,
     "symbolic_importance": true
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "location",
-    "Corleone",
-    "Sicily",
-    "Mafia",
-    "Italian Villages",
-    "The Godfather",
-    "sicily-godfather"
+    "mafia",
+    "italian-villages",
+    "the-godfather",
+    "sicily-godfather",
+    "rural-sicily",
+    "organized-crime",
+    "mediterranean",
+    "historic-town"
   ]
 }

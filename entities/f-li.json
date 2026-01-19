@@ -46,13 +46,21 @@
     "role": "Prince and Warrior",
     "age": "Young"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
-    "Dwarf",
-    "Prince",
-    "Warrior",
-    "Thorin's Company",
-    "Middle-earth",
-    "Fantasy",
-    "The Hobbit"
+    "dwarf",
+    "prince",
+    "warrior",
+    "thorins-company",
+    "middle-earth",
+    "fantasy",
+    "hobbit",
+    "loyalty",
+    "valor",
+    "family"
   ]
 }

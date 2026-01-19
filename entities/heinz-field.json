@@ -35,10 +35,18 @@
       "longitude": -80.015792
     }
   },
+  "facets": {
+    "location-type": "stadium",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "stadium",
     "active",
     "public",
-    "tours-available"
+    "tours-available",
+    "pittsburgh",
+    "nfl",
+    "sports-venue",
+    "pittsburgh-steelers"
   ]
 }

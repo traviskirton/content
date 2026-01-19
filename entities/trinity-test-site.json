@@ -38,10 +38,18 @@
     "fictional": true,
     "type": "region"
   },
+  "facets": {
+    "location-type": "region",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "region",
-    "drama",
     "historical",
-    "1945"
+    "world-war-ii",
+    "manhattan-project",
+    "nuclear-testing",
+    "us-military",
+    "atomic-age",
+    "cold-war-era"
   ]
 }

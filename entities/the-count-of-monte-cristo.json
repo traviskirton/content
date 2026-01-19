@@ -79,15 +79,28 @@
     "page_count": 1276,
     "original_language": "French"
   },
+  "facets": {
+    "genre": [
+      "adventure",
+      "drama",
+      "romance"
+    ],
+    "era": "19th century",
+    "tone": [
+      "serious",
+      "dramatic"
+    ],
+    "rating": "family"
+  },
   "tags": [
     "classic",
-    "19th century",
-    "revenge",
     "justice",
-    "adventure",
-    "historical",
-    "literature",
+    "revenge",
     "redemption",
-    "betrayal"
+    "betrayal",
+    "identity",
+    "loyalty",
+    "fate",
+    "forgiveness"
   ]
 }

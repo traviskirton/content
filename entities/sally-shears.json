@@ -47,14 +47,21 @@
     "background": "Former prostitute",
     "cybernetic_enhancements": true
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "ambiguous",
+    "archetype": "warrior"
+  },
   "tags": [
     "cyberpunk",
     "mercenary",
-    "female protagonist",
-    "Mona Lisa Overdrive",
-    "William Gibson",
-    "Sprawl Trilogy",
-    "combat specialist",
-    "augmented"
+    "mona-lisa-overdrive",
+    "william-gibson",
+    "sprawl-trilogy",
+    "combat-specialist",
+    "augmented",
+    "identity",
+    "redemption",
+    "survivor"
   ]
 }

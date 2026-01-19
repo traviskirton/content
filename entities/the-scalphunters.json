@@ -47,12 +47,20 @@
     "affiliation": "Independent",
     "operating_period": "Cold War Era"
   },
+  "facets": {
+    "nature": "mercenary",
+    "activity": "clandestine",
+    "affiliation": "independent",
+    "operating-period": "cold-war-era"
+  },
   "tags": [
-    "Mercenaries",
-    "Espionage",
-    "Covert Operations",
-    "Rogue Agents",
-    "Cold War",
-    "Spy Fiction"
+    "espionage",
+    "covert-operations",
+    "rogue-agents",
+    "spy-fiction",
+    "black-ops",
+    "mercenaries",
+    "shadow-network",
+    "high-risk"
   ]
 }

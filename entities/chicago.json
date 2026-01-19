@@ -63,10 +63,21 @@
       "long": -87.6298
     }
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "active",
     "public",
-    "tours-available"
+    "tours-available",
+    "architecture",
+    "filming-location",
+    "skyline",
+    "landmarks",
+    "o'hare",
+    "finance",
+    "technology"
   ]
 }

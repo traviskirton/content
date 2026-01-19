@@ -41,9 +41,19 @@
     "founded": "Mid-21st century",
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "sci-fi",
-    "futuristic"
+    "futuristic",
+    "nasa",
+    "space-exploration",
+    "secret-base",
+    "underground",
+    "mission-control",
+    "lazarus-missions"
   ]
 }

@@ -46,13 +46,20 @@
     "occupation": "Treasury Agent",
     "affiliation": "British Government"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "ambiguous",
+    "archetype": "lover"
+  },
   "tags": [
-    "Casino Royale",
-    "James Bond",
-    "female protagonist",
-    "intelligence agent",
-    "romantic interest",
-    "espionage fiction",
-    "British Treasury"
+    "casino-royale",
+    "james-bond",
+    "intelligence-agent",
+    "espionage-fiction",
+    "british-treasury",
+    "romantic-interest",
+    "diplomatic",
+    "emotional-conflict",
+    "complex-character"
   ]
 }

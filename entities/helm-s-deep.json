@@ -39,14 +39,21 @@
     "notable_battle": "Battle of Helm's Deep",
     "ruler": "King Théoden (during War of the Ring)"
   },
+  "facets": {
+    "location-type": "fortress",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "Middle-earth",
-    "Fortress",
-    "Rohan",
-    "Battle",
-    "The Two Towers",
-    "War of the Ring",
-    "Fantasy",
-    "Siege"
+    "middle-earth",
+    "rohan",
+    "siege",
+    "battle",
+    "the-two-towers",
+    "war-of-the-ring",
+    "fantasy",
+    "hornburg",
+    "mountain-fortress",
+    "defense"
   ]
 }

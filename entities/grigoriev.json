@@ -45,11 +45,20 @@
     "nationality": "Soviet",
     "operational_area": "Moscow Centre"
   },
+  "facets": {
+    "role": "minor",
+    "morality": "neutral",
+    "archetype": "everyman"
+  },
   "tags": [
-    "Smiley's People",
-    "Cold War",
-    "Soviet Intelligence",
-    "Espionage",
-    "Spy Fiction"
+    "smileys-people",
+    "cold-war",
+    "soviet-intelligence",
+    "espionage",
+    "spy-fiction",
+    "tradecraft",
+    "counterintelligence",
+    "surveillance",
+    "moscow-centre"
   ]
 }

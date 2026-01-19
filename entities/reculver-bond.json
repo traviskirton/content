@@ -46,12 +46,20 @@
       "Goldfinger (novel)"
     ]
   },
+  "facets": {
+    "location-type": "village",
+    "reality": "fictional",
+    "scale": "neighborhood"
+  },
   "tags": [
-    "James Bond",
-    "Goldfinger",
-    "Coastal Village",
-    "England",
-    "Espionage Location",
-    "Industrial"
+    "james-bond",
+    "goldfinger",
+    "coastal",
+    "espionage-location",
+    "industrial-factory",
+    "kent",
+    "secret-operations",
+    "smuggling",
+    "seaside-architecture"
   ]
 }

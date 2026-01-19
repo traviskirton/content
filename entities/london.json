@@ -56,10 +56,21 @@
       "long": -0.1278
     }
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "active",
     "tours-available",
-    "public"
+    "public",
+    "historic-landmarks",
+    "cultural-diversity",
+    "film-location",
+    "financial-center",
+    "urban",
+    "multicultural",
+    "british"
   ]
 }

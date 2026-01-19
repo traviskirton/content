@@ -57,9 +57,18 @@
     "born": "1938",
     "portrayed_by": "Lea Thompson"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "supporting",
     "mother",
-    "historical-figure"
+    "family-drama",
+    "50s-america",
+    "time-travel",
+    "hill-valley",
+    "mcfly-family",
+    "back-to-the-future"
   ]
 }

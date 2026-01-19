@@ -39,10 +39,19 @@
     "fictional": true,
     "type": "region"
   },
+  "facets": {
+    "location-type": "region",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "region",
+    "back-to-the-future",
+    "time-travel",
     "western",
-    "sci-fi",
+    "train-bridge",
+    "steampunk",
+    "cliffside",
+    "hill-valley",
     "1885"
   ]
 }

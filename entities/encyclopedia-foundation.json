@@ -43,14 +43,15 @@
     "status": "Precursor to First Foundation",
     "role_in_series": "Knowledge archive in early Foundation history"
   },
+  "facets": {},
   "tags": [
-    "knowledge_preservation",
-    "Foundation series",
-    "Isaac Asimov",
+    "knowledge-preservation",
+    "foundation-series",
+    "isaac-asimov",
     "encyclopedia",
     "archive",
     "science",
-    "Terminus",
+    "terminus",
     "scholarship"
   ]
 }

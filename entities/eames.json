@@ -54,9 +54,19 @@
     "species": "human",
     "occupation": "Forger"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "trickster"
+  },
   "tags": [
-    "supporting",
     "comic-relief",
-    "forger"
+    "forger",
+    "charming",
+    "witty",
+    "resourceful",
+    "dream-manipulation",
+    "impersonation",
+    "team-player"
   ]
 }

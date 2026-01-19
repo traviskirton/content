@@ -39,13 +39,21 @@
     "climate": "Temperate Oceanic",
     "role": "Primary Setting"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "French Riviera",
-    "Resort Town",
-    "Casino Royale",
-    "Espionage Setting",
-    "Leisure",
-    "Post-War Europe",
-    "James Bond"
+    "french-riviera",
+    "resort",
+    "casino-royale",
+    "espionage",
+    "leisure",
+    "post-war-europe",
+    "james-bond",
+    "cold-war",
+    "poker",
+    "baccarat"
   ]
 }

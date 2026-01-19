@@ -54,10 +54,18 @@
     "type": "government",
     "fictional": true
   },
+  "facets": {
+    "organization-type": "government",
+    "reality": "fictional"
+  },
   "tags": [
-    "organization",
     "police",
     "neutral",
-    "superhero"
+    "superhero",
+    "corruption",
+    "law-enforcement",
+    "gotham",
+    "crime",
+    "vigilante"
   ]
 }

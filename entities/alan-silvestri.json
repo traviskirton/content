@@ -63,10 +63,21 @@
     ],
     "active_years": "1970s-present"
   },
+  "facets": {
+    "profession": [
+      "composer"
+    ],
+    "active-era": "1970s",
+    "nationality": "american"
+  },
   "tags": [
-    "composer",
     "soundtrack",
     "film-score",
-    "modern"
+    "conductor",
+    "back-to-the-future",
+    "forrest-gump",
+    "orchestral",
+    "hollywood",
+    "classic"
   ]
 }

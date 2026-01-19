@@ -36,11 +36,19 @@
     "mysticism": "High",
     "appearance": "Celestial/Mystical"
   },
+  "facets": {
+    "location-type": "realm",
+    "reality": "fictional",
+    "scale": "universe"
+  },
   "tags": [
-    "Foundation",
-    "Symbolism",
-    "Science Fiction",
-    "Mythic Location",
-    "Second Foundation"
+    "foundation-universe",
+    "symbolism",
+    "mythic",
+    "celestial",
+    "mystical",
+    "philosophical",
+    "existential",
+    "destiny"
   ]
 }

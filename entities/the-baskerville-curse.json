@@ -52,14 +52,29 @@
     "symbol": "Spectral hound",
     "theme": "Retribution"
   },
+  "facets": {
+    "theme": [
+      "retribution",
+      "family",
+      "supernatural",
+      "gothic",
+      "mystery"
+    ],
+    "concept": [
+      "curse",
+      "legend",
+      "plot-element"
+    ]
+  },
   "tags": [
-    "item",
-    "curse",
-    "legend",
-    "Baskerville family",
-    "supernatural",
-    "Gothic",
-    "mystery",
-    "plot element"
+    "baskerville-family",
+    "spectral-hound",
+    "ancestral-curse",
+    "psychological-threat",
+    "superstition-vs-reason",
+    "suspense",
+    "gothic-horror",
+    "inherited-guilt",
+    "haunting"
   ]
 }

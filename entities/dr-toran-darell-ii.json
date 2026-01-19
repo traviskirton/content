@@ -42,12 +42,19 @@
     "role": "Scientist and Politician",
     "gender": "Male"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "sage"
+  },
   "tags": [
-    "character",
-    "First Foundation",
+    "first-foundation",
+    "science-fiction",
     "scientist",
     "politician",
     "family",
-    "science fiction"
+    "leader",
+    "strategist",
+    "diplomat"
   ]
 }

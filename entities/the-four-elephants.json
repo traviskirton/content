@@ -44,13 +44,19 @@
     "species": "Giant Elephants",
     "significance": "Cosmological pillars"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "ruler"
+  },
   "tags": [
     "cosmology",
     "mythological",
-    "creatures",
-    "Discworld",
     "fantasy",
     "foundation",
-    "symbolic"
+    "symbolic",
+    "discworld",
+    "cosmic-duty",
+    "eternal-beings"
   ]
 }

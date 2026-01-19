@@ -42,12 +42,20 @@
     "gender": "Male",
     "origin": "Discworld"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "mentor"
+  },
   "tags": [
-    "Discworld",
-    "Fantasy",
-    "Character",
-    "Death Related",
-    "Magic",
-    "Supporting Character"
+    "discworld",
+    "fantasy",
+    "death-related",
+    "magic",
+    "loyal-servant",
+    "sardonic-wit",
+    "arcane-knowledge",
+    "supernatural",
+    "house-management"
   ]
 }

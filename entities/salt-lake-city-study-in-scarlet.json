@@ -33,12 +33,21 @@
     "historical_period": "Mid 19th Century",
     "genre_association": "Mystery, Western"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "location",
-    "A Study in Scarlet",
-    "Salt Lake City",
-    "Mormonism",
-    "Western Frontier",
-    "Sherlock Holmes"
+    "a-study-in-scarlet",
+    "mormonism",
+    "western-frontier",
+    "sherlock-holmes",
+    "american-west",
+    "mormon-temple",
+    "frontier-justice",
+    "historical-setting",
+    "utah",
+    "mormon-settlement"
   ]
 }

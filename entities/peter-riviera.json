@@ -43,6 +43,11 @@
     "psychological_profile": "Psychopathic",
     "role_importance": "Secondary antagonist"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "trickster"
+  },
   "tags": [
     "illusionist",
     "psychopath",
@@ -50,6 +55,9 @@
     "manipulation",
     "media",
     "espionage",
-    "Neuromancer"
+    "neuromancer",
+    "psychological-thriller",
+    "illusions",
+    "deception"
   ]
 }

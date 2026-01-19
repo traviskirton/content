@@ -47,13 +47,20 @@
     "time_period": "Early 1900s",
     "role": "Protagonist (flashback)"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "ruler"
+  },
   "tags": [
-    "character",
     "mafia",
     "immigrant",
     "leader",
     "historical",
-    "protagonist",
-    "young_vito"
+    "young-vito",
+    "organized-crime",
+    "early-20th-century",
+    "honor",
+    "family-loyalty"
   ]
 }

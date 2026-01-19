@@ -43,10 +43,19 @@
       "longitude": -119.4179
     }
   },
+  "facets": {
+    "location-type": "ranch",
+    "reality": "real",
+    "scale": "region"
+  },
   "tags": [
-    "ranch",
+    "filming-location",
     "active",
     "tours-available",
-    "filming-location"
+    "california",
+    "private-property",
+    "western-genre",
+    "scenic",
+    "sprawling-fields"
   ]
 }

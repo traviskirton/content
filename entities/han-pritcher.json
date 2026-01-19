@@ -41,12 +41,20 @@
     "species": "Human",
     "role": "Supporting Character"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "warrior"
+  },
   "tags": [
-    "fictional character",
-    "science fiction",
-    "Galactic Empire",
-    "Foundation series",
+    "galactic-empire",
+    "foundation-series",
     "military",
-    "Isaac Asimov"
+    "isaac-asimov",
+    "science-fiction",
+    "space-warfare",
+    "psychological-evolution",
+    "galaxy",
+    "imperial-loyalist"
   ]
 }

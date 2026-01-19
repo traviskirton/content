@@ -38,12 +38,20 @@
     "film": "Goldfinger",
     "role": "supporting_antagonist"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "villainous",
+    "archetype": "warrior"
+  },
   "tags": [
-    "Goldfinger",
+    "goldfinger",
     "henchman",
     "chauffeur",
-    "villain_support",
-    "James Bond",
-    "1960s"
+    "james-bond",
+    "1960s",
+    "car-chase",
+    "loyalty",
+    "enforcer",
+    "criminal-organization"
   ]
 }

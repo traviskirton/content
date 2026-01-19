@@ -51,14 +51,21 @@
     "influence_range": "Galaxy-wide",
     "foundation_type": "Secretive Organization"
   },
+  "facets": {
+    "field": "mental-science",
+    "secrecy-level": "extremely-high",
+    "influence-range": "galaxy-wide",
+    "organization-type": "secretive"
+  },
   "tags": [
-    "Foundation",
-    "Second Foundation",
-    "Isaac Asimov",
-    "Science Fiction",
-    "Psychohistory",
-    "Mentalics",
-    "Secret Society",
-    "Galactic Empire"
+    "foundation-series",
+    "psychohistory",
+    "mentalics",
+    "secret-society",
+    "galactic-empire",
+    "isaac-asimov",
+    "telepathy",
+    "shadow-governance",
+    "seldon-plan"
   ]
 }

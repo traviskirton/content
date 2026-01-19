@@ -47,14 +47,20 @@
     "role": "Moral perspective",
     "children_count": 2
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "The Godfather",
+    "the-godfather",
     "mafia",
-    "female character",
+    "family-drama",
     "outsider",
-    "morality",
-    "family drama",
-    "fictional character",
-    "film character"
+    "morality-conflict",
+    "film-character",
+    "american",
+    "emotional-intelligence",
+    "corleone-family"
   ]
 }

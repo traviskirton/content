@@ -40,10 +40,19 @@
     "occupation": "journalist",
     "portrayed_by": "Robert Wuhl"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "everyman"
+  },
   "tags": [
-    "supporting",
     "comic-relief",
     "journalist",
-    "investigator"
+    "investigator",
+    "gotham",
+    "batman",
+    "truth-seeker",
+    "persistent",
+    "dedicated"
   ]
 }

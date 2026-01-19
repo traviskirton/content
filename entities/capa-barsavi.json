@@ -43,12 +43,20 @@
     "social_status": "Noble",
     "primary_location": "@@Camorr@@"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "Crime Lord",
-    "Antagonist",
-    "Camorr",
-    "Barsavi Family",
-    "Fantasy",
-    "Novel Character"
+    "crime-lord",
+    "camorr",
+    "barsavi-family",
+    "fantasy",
+    "political-intrigue",
+    "organized-crime",
+    "criminal-underworld",
+    "noble",
+    "urban"
   ]
 }

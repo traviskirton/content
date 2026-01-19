@@ -42,12 +42,21 @@
     ],
     "location_type": "Industrial Complex"
   },
+  "facets": {
+    "location-type": "structure",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "James Bond",
-    "Goldfinger",
-    "Industrial",
-    "Criminal Base",
-    "Gold Refinery",
-    "Spy Fiction"
+    "james-bond",
+    "goldfinger",
+    "industrial",
+    "criminal-base",
+    "gold-refinery",
+    "spy-fiction",
+    "security",
+    "vault",
+    "espionage",
+    "mafia"
   ]
 }

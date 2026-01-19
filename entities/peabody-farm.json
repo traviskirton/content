@@ -38,10 +38,18 @@
     "fictional": true,
     "type": "farm"
   },
+  "facets": {
+    "location-type": "landscape",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "sci-fi",
+    "hill-valley",
+    "time-travel",
+    "delorean",
+    "pine-orchard",
     "1985",
-    "farm",
-    "Hill Valley"
+    "back-to-the-future",
+    "family-farm"
   ]
 }

@@ -35,9 +35,21 @@
     "fictional": true,
     "type": "city"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "sci-fi",
-    "futuristic"
+    "futuristic",
+    "closed-city",
+    "secretive",
+    "cold-war",
+    "nuclear-research",
+    "time-inversion",
+    "experimental-technology",
+    "remote",
+    "isolated"
   ]
 }

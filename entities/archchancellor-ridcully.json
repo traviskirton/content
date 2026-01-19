@@ -50,13 +50,21 @@
     "gender": "Male",
     "origin": "Discworld"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "Discworld",
-    "Fantasy",
-    "Character",
-    "Wizard",
-    "Academic",
-    "Leadership",
-    "Magic"
+    "discworld",
+    "wizard",
+    "academic",
+    "leadership",
+    "magic",
+    "unseen-university",
+    "pragmatic",
+    "practical-magic",
+    "outdoorsman",
+    "robust-personality"
   ]
 }

@@ -170,14 +170,29 @@
     "box_office": 388800000,
     "rating": "PG"
   },
+  "facets": {
+    "genre": [
+      "sci-fi",
+      "comedy",
+      "adventure"
+    ],
+    "era": "1980s",
+    "tone": [
+      "light",
+      "whimsical",
+      "action-driven"
+    ],
+    "rating": "family"
+  },
   "tags": [
-    "sci-fi",
-    "comedy",
-    "adventure",
-    "1980s",
     "time-travel",
     "classic",
     "robert-zemeckis",
-    "back-to-the-future"
+    "back-to-the-future",
+    "delorean",
+    "teenager",
+    "1980s-nostalgia",
+    "pop-culture",
+    "franchise"
   ]
 }

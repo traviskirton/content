@@ -35,14 +35,20 @@
     "technology_level": "Highly advanced",
     "dominant_features": "Cybernetics, data networks"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "location",
     "cyberpunk",
-    "megalopolis",
-    "urban dystopia",
-    "Mona Lisa Overdrive",
-    "William Gibson",
-    "The Sprawl Trilogy",
-    "future city"
+    "urban-dystopia",
+    "mona-lisa-overdrive",
+    "william-gibson",
+    "the-sprawl-trilogy",
+    "future-city",
+    "bama",
+    "boston-cyberabad-metropolitan-axis",
+    "urban-sprawl"
   ]
 }

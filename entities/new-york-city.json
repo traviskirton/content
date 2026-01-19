@@ -51,10 +51,20 @@
       "long": -74.005974
     }
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "active",
     "public",
-    "tours-available"
+    "tours-available",
+    "urban-landscape",
+    "skyscrapers",
+    "film-location",
+    "iconic-architecture",
+    "cultural-hub",
+    "financial-hub"
   ]
 }

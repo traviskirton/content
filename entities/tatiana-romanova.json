@@ -54,12 +54,19 @@
     "gender": "Female",
     "affiliation": "Soviet Intelligence"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "innocent"
+  },
   "tags": [
-    "Spy Fiction",
-    "James Bond",
-    "Soviet Agent",
-    "Cold War",
-    "Love Interest",
-    "Cryptography"
+    "spy-fiction",
+    "james-bond",
+    "soviet-agent",
+    "cold-war",
+    "love-interest",
+    "cryptography",
+    "espionage",
+    "intelligence-gathering"
   ]
 }

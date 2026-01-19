@@ -53,12 +53,19 @@
     "year": "1989",
     "fictional": true
   },
+  "facets": {
+    "vehicle-type": "aircraft",
+    "reality": "fictional",
+    "era": "1980s"
+  },
   "tags": [
-    "aircraft",
     "batman",
-    "1989",
-    "action",
+    "gotham-city",
     "flying",
-    "Gotham City"
+    "combat",
+    "stealth",
+    "advanced-technology",
+    "aerial-vehicle",
+    "wayne-enterprises"
   ]
 }

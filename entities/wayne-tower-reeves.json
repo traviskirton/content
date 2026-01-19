@@ -42,11 +42,20 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
-    "Gotham City",
-    "The Batman (Reeves)",
+    "gotham-city",
+    "the-batman-reeves",
     "2022",
-    "superhero"
+    "superhero",
+    "neo-gothic",
+    "iconic-structure",
+    "wayne-enterprises",
+    "skyscraper",
+    "dark-atmosphere"
   ]
 }

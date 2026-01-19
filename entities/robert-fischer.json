@@ -39,9 +39,19 @@
     }
   ],
   "portrayed_by": "Cillian Murphy",
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "everyman"
+  },
   "tags": [
-    "supporting",
     "heir",
-    "target"
+    "target",
+    "family-conflict",
+    "identity",
+    "emotional-conflict",
+    "legacy",
+    "insecure",
+    "subconscious-plot"
   ]
 }

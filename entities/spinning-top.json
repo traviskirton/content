@@ -52,11 +52,18 @@
     "created_by": "Mal Cobb",
     "fictional": true
   },
+  "facets": {
+    "artifact-type": "totem",
+    "fictional": true,
+    "associated-franchise": "inception"
+  },
   "tags": [
-    "artifact",
-    "sci-fi",
     "macguffin",
+    "reality-testing",
+    "dream-vs-reality",
+    "personal-item",
+    "dom-cobb",
     "totem",
-    "Inception"
+    "inception"
   ]
 }

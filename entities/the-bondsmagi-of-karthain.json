@@ -37,13 +37,20 @@
     "membership": "Exclusive magical elite",
     "influence_scope": "Political and legal"
   },
+  "facets": {
+    "organization-type": "guild",
+    "specialty": "magical-binding",
+    "location": "karthain",
+    "influence": "political-legal"
+  },
   "tags": [
     "fantasy",
-    "organization",
     "magic",
-    "sorcerer guild",
-    "arcane law",
-    "Karthain",
-    "binding magic"
+    "sorcerer-guild",
+    "arcane-law",
+    "binding-magic",
+    "exclusive-elite",
+    "secretive",
+    "magical-contracts"
   ]
 }

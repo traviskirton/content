@@ -39,13 +39,23 @@
     "headquarters": "Victoria Embankment",
     "type": "Police Force"
   },
+  "facets": {
+    "organization-type": "police force",
+    "location": "london",
+    "jurisdiction": "greater-london",
+    "focus": [
+      "criminal-investigation",
+      "law-enforcement",
+      "public-safety"
+    ]
+  },
   "tags": [
-    "police",
-    "law enforcement",
-    "London",
-    "criminal investigation",
-    "detective agency",
-    "British history",
-    "public safety"
+    "detective-agency",
+    "british-history",
+    "community-policing",
+    "forensic-science",
+    "victorian-era",
+    "crime-prevention",
+    "law-and-order"
   ]
 }

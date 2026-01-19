@@ -45,14 +45,22 @@
     "headquarters": "Unknown high-security tower",
     "notable_technology": "Neural interfaces, AI integration"
   },
+  "facets": {
+    "industry": [
+      "cybernetics",
+      "artificial intelligence"
+    ],
+    "reality": "fictional",
+    "setting": "cyberpunk"
+  },
   "tags": [
-    "cyberpunk",
     "corporation",
-    "artificial intelligence",
-    "neural technology",
+    "neurotechnology",
     "cyberspace",
-    "technology",
-    "fictional organization",
-    "neurointerface"
+    "neural-interface",
+    "cybernetic-augmentation",
+    "shadowy-elite",
+    "data-extraction",
+    "covert-operations"
   ]
 }

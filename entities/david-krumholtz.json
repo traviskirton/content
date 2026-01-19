@@ -43,10 +43,21 @@
     ],
     "active_years": "1993-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "producer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "comedy",
     "drama",
-    "modern"
+    "character-actor",
+    "television",
+    "film",
+    "versatile",
+    "broadway"
   ]
 }

@@ -50,13 +50,20 @@
     "occupation": "Trader",
     "alignment": "Foundation loyalist"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "everyman"
+  },
   "tags": [
-    "Foundation",
-    "Trader",
-    "Hero",
-    "Darell Family",
-    "Science Fiction",
-    "Resistance",
-    "Psychohistory"
+    "foundation",
+    "trader",
+    "darell-family",
+    "science-fiction",
+    "resistance",
+    "psychohistory",
+    "strategy",
+    "political-intrigue",
+    "commerce"
   ]
 }

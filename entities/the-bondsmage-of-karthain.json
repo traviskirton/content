@@ -38,13 +38,20 @@
     "alignment": "Neutral/Mysterious",
     "role": "Arcane Influencer"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "sage"
+  },
   "tags": [
-    "Magic",
-    "Sorcerer",
-    "Arcane",
-    "Bondsmage",
-    "Karthain",
-    "Fantasy",
-    "Mystic Character"
+    "magic",
+    "arcane",
+    "bondsmage",
+    "karthain",
+    "fantasy",
+    "mysterious",
+    "enigmatic",
+    "spellcaster",
+    "arcane-contracts"
   ]
 }

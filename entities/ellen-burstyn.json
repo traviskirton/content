@@ -38,11 +38,21 @@
     ],
     "active_years": "1958-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "mid-century",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "drama",
     "classic-hollywood",
     "new-hollywood",
-    "modern"
+    "award-winning",
+    "method-acting",
+    "stage-actress",
+    "character-actor",
+    "versatile"
   ]
 }

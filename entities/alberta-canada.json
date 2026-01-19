@@ -44,11 +44,20 @@
       "long": "-113.2610"
     }
   },
+  "facets": {
+    "location-type": "region",
+    "reality": "real",
+    "scale": "region"
+  },
   "tags": [
-    "province",
-    "filming location",
-    "public",
+    "filming-location",
     "tours-available",
-    "active"
+    "natural-beauty",
+    "rocky-mountains",
+    "national-parks",
+    "banff",
+    "jasper",
+    "canadian-wildlife",
+    "outdoor-activities"
   ]
 }

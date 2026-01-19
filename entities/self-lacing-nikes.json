@@ -44,11 +44,18 @@
     "created_by": "Nike",
     "fictional": true
   },
+  "facets": {
+    "item-type": "device",
+    "reality": "fictional"
+  },
   "tags": [
-    "device",
     "technology",
     "sci-fi",
     "futuristic",
-    "iconic"
+    "iconic",
+    "nike",
+    "automatic-lacing",
+    "hill-valley",
+    "back-to-the-future"
   ]
 }

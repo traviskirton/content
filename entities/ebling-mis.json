@@ -55,13 +55,19 @@
     "impact": "Key to fighting the Mule",
     "alignment": "Foundation loyalist"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "sage"
+  },
   "tags": [
-    "Scientist",
-    "Psychologist",
-    "Psychohistory",
-    "Foundation",
-    "Researcher",
-    "Tragic Figure",
-    "Science Fiction"
+    "psychologist",
+    "scientist",
+    "psychohistory",
+    "foundation-universe",
+    "researcher",
+    "tragic-figure",
+    "intellectual",
+    "psychological-insight"
   ]
 }

@@ -50,12 +50,20 @@
     "role": "Main antagonist",
     "wealth_status": "Extremely wealthy"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "James Bond villain",
-    "gold magnate",
-    "criminal mastermind",
-    "Cold War fiction",
-    "fictional antagonist",
-    "wealth obsession"
+    "james-bond",
+    "gold-magnate",
+    "criminal-mastermind",
+    "cold-war",
+    "wealth-obsession",
+    "eastern-european-corruption",
+    "mafia",
+    "financial-manipulation",
+    "international-espionage"
   ]
 }

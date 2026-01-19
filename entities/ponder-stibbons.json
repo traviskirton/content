@@ -52,12 +52,20 @@
     "status": "Prominent faculty member",
     "gender": "Male"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "sage"
+  },
   "tags": [
-    "Discworld",
-    "Character",
-    "Wizard",
-    "Magic",
-    "Unseen University",
-    "Literature"
+    "discworld",
+    "wizardry",
+    "magical-experimentation",
+    "unseen-university",
+    "magical-technology",
+    "researcher",
+    "academic",
+    "magical-theory",
+    "pratchett"
   ]
 }

@@ -42,13 +42,19 @@
     "danger_level": "High",
     "population_type": "Criminal underworld"
   },
+  "facets": {
+    "location-type": "region",
+    "reality": "fictional",
+    "scale": "neighborhood"
+  },
   "tags": [
-    "fantasy",
-    "location",
-    "city district",
-    "criminal",
-    "Camorr",
+    "camorr",
+    "criminal-underworld",
     "waterways",
-    "dangerous"
+    "urban-decay",
+    "labyrinthine",
+    "dangerous",
+    "smugglers",
+    "clandestine-activities"
   ]
 }

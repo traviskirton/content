@@ -43,14 +43,21 @@
     "security_level": "Top Secret",
     "film_appearance": "Goldfinger"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "location",
-    "United States",
+    "united-states",
     "gold",
     "security",
-    "military installation",
-    "James Bond",
-    "Goldfinger",
-    "vault"
+    "military-installation",
+    "james-bond",
+    "goldfinger",
+    "vault",
+    "high-security",
+    "fortress",
+    "gold-reserve"
   ]
 }

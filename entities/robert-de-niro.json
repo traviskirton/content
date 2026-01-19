@@ -42,13 +42,24 @@
     "occupation": "Actor, Producer",
     "award": "Academy Award for Best Supporting Actor (1975)"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "producer"
+    ],
+    "active-era": "1970s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "The Godfather Part II",
-    "Academy Award Winner",
-    "method acting",
+    "the-godfather-part-ii",
+    "academy-award-winner",
+    "method-acting",
     "film",
     "cinema",
-    "biographical"
+    "biographical",
+    "martin-scorsese",
+    "method-actor",
+    "crime-drama",
+    "versatile"
   ]
 }

@@ -57,10 +57,21 @@
     ],
     "active_years": "1996-present"
   },
+  "facets": {
+    "profession": [
+      "cinematographer"
+    ],
+    "active-era": "2000s",
+    "nationality": "dutch-swedish"
+  },
   "tags": [
-    "cinematographer",
-    "modern",
     "drama",
-    "sci-fi"
+    "sci-fi",
+    "innovative",
+    "natural-light",
+    "film-photography",
+    "collaborations",
+    "atmospheric-visuals",
+    "major-films"
   ]
 }

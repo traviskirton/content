@@ -39,10 +39,21 @@
     ],
     "active_years": "1950-2004"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "mid-century",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "western",
     "drama",
-    "classic-hollywood"
+    "classic-hollywood",
+    "academy-award-winner",
+    "oscar",
+    "tough-guy-roles",
+    "live-television",
+    "1950s"
   ]
 }

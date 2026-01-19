@@ -39,11 +39,21 @@
     "fictional": true,
     "type": "police unit"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "crime",
     "investigation",
-    "Gotham City",
-    "The Dark Knight"
+    "gotham-city",
+    "dark-knight",
+    "forensic-labs",
+    "interrogation-rooms",
+    "police-department",
+    "organized-crime",
+    "batman-universe",
+    "detective-work"
   ]
 }

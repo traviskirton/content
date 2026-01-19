@@ -45,10 +45,18 @@
     "occupation": "extractor",
     "portrayed_by": "Leonardo DiCaprio"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "ambiguous",
+    "archetype": "everyman"
+  },
   "tags": [
-    "protagonist",
     "thief",
     "dream-infiltrator",
-    "complex"
+    "complex",
+    "subconscious",
+    "psychology",
+    "inception",
+    "family-drama"
   ]
 }

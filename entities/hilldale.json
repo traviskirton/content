@@ -42,11 +42,19 @@
     "population": "unknown",
     "founded": "unknown"
   },
+  "facets": {
+    "location-type": "neighborhood",
+    "reality": "fictional",
+    "scale": "neighborhood"
+  },
   "tags": [
-    "neighborhood",
     "sci-fi",
     "futuristic",
-    "Back to the Future",
-    "2015"
+    "back-to-the-future",
+    "dystopian",
+    "suburban-decay",
+    "crime",
+    "residential",
+    "future-timeline"
   ]
 }

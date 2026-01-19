@@ -33,7 +33,7 @@
     },
     {
       "type": "used_by",
-      "target": "c45406b4-9c8f-4f0d-8f0d-df8562b1e735"
+      "target": "c45406b4-9c8f-4f0d-8f0d-df8562b1b735"
     },
     {
       "type": "used_by",
@@ -53,10 +53,17 @@
     "created_by": "future scientists",
     "fictional": true
   },
+  "facets": {},
   "tags": [
     "weapon",
     "sci-fi",
     "time-travel",
-    "technology"
+    "technology",
+    "time-inversion",
+    "entropy-reversal",
+    "causality",
+    "strategic-weapon",
+    "tenet",
+    "futuristic"
   ]
 }

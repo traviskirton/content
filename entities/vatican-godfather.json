@@ -40,14 +40,20 @@
     "cultural_significance": "High",
     "political_significance": "High"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "The Godfather Part III",
-    "location",
-    "Vatican",
+    "the-godfather-part-iii",
+    "vatican",
     "religion",
-    "organized crime",
-    "Italy",
-    "political intrigue",
-    "historical"
+    "organized-crime",
+    "italy",
+    "political-intrigue",
+    "historical",
+    "spiritual-power",
+    "corruption"
   ]
 }

@@ -38,10 +38,18 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "western",
-    "1885",
-    "sci-fi"
+    "sci-fi",
+    "hill-valley",
+    "time-machine",
+    "delorean",
+    "frontier",
+    "19th-century"
   ]
 }

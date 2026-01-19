@@ -53,14 +53,26 @@
     "pages": 256,
     "genre": "Memoir, Technology, Business"
   },
+  "facets": {
+    "genre": [
+      "memoir"
+    ],
+    "era": "2010s",
+    "tone": [
+      "cerebral",
+      "heartfelt"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "memoir",
-    "Apple",
-    "product development",
+    "apple",
+    "product-development",
     "innovation",
     "technology",
-    "software engineering",
-    "user interface design",
-    "Ken Kocienda"
+    "software-engineering",
+    "user-interface-design",
+    "ken-kocienda",
+    "team-dynamics",
+    "creative-process"
   ]
 }

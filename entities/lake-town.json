@@ -43,12 +43,20 @@
     "government": "Master of Lake-town",
     "status": "Rebuilt after destruction"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "Middle-earth",
-    "Human Settlement",
-    "The Hobbit",
-    "Lake",
-    "Trading Post",
-    "Frontier Town"
+    "middle-earth",
+    "human-settlement",
+    "the-hobbit",
+    "lake",
+    "trading-post",
+    "frontier-town",
+    "commerce",
+    "fishing-port",
+    "wooden-architecture"
   ]
 }

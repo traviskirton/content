@@ -39,13 +39,14 @@
     "portability": true,
     "technology_level": "advanced cybernetics"
   },
+  "facets": {},
   "tags": [
     "cyberspace",
     "hardware",
     "cyberpunk",
     "neuromancer",
     "technology",
-    "neural interface",
+    "neural-interface",
     "hacking"
   ]
 }

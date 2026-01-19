@@ -51,11 +51,22 @@
     ],
     "active_years": "1983-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "musician"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "musician",
     "drama",
     "sci-fi",
-    "modern"
+    "child-actor",
+    "versatile",
+    "character-actor",
+    "film-music",
+    "indie",
+    "soundtrack-contributor"
   ]
 }

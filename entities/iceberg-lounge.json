@@ -46,11 +46,19 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
     "nightclub",
-    "Gotham City",
+    "gotham-city",
     "crime",
     "underworld",
-    "2022"
+    "dark-knight",
+    "noir",
+    "iceberg-bar",
+    "vip-lounge"
   ]
 }

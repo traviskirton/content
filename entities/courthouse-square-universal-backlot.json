@@ -54,11 +54,19 @@
       "long": -118.3534
     }
   },
+  "facets": {
+    "location-type": "studio",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "studio",
     "backlot",
     "active",
     "tours-available",
-    "film-history"
+    "film-history",
+    "universal-studios",
+    "hollywood",
+    "outdoor-set",
+    "studio-tour"
   ]
 }

@@ -46,13 +46,21 @@
     "type": "Fortress",
     "notable_structure": "Orthanc Tower"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "location",
-    "fortress",
-    "Middle-earth",
-    "Rohan",
-    "Saruman",
+    "middle-earth",
+    "rohan",
+    "saruman",
     "war",
-    "industrialization"
+    "industrialization",
+    "fortress",
+    "orthanc",
+    "deforestation",
+    "orc-army",
+    "ent-rebellion"
   ]
 }

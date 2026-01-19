@@ -49,11 +49,19 @@
     "population": "Decreased significantly",
     "founded": "1850"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
-    "sci-fi",
-    "1985",
     "dystopian",
-    "alternate timeline"
+    "alternate-timeline",
+    "1985",
+    "back-to-the-future",
+    "hill-valley",
+    "biff-tannen",
+    "time-travel",
+    "crime-ridden"
   ]
 }

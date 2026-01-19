@@ -53,12 +53,21 @@
     "father": "Glóin",
     "skills": "Combat, endurance"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
-    "Dwarf",
-    "Fellowship of the Ring",
-    "Warrior",
-    "Battle Axe",
-    "Loyal",
-    "Middle-earth"
+    "dwarf",
+    "fellowship-of-the-ring",
+    "battle-axe",
+    "loyal",
+    "middle-earth",
+    "combat",
+    "endurance",
+    "axe-wielder",
+    "loyalty",
+    "stalwart"
   ]
 }

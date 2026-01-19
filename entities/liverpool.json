@@ -50,10 +50,20 @@
       "long": -2.9916
     }
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "public",
     "tours-available",
-    "active"
+    "active",
+    "maritime-history",
+    "music-scene",
+    "beatles",
+    "historical-buildings",
+    "film-location",
+    "cultural-heritage"
   ]
 }

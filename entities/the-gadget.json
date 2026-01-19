@@ -48,11 +48,19 @@
     "created_by": "Manhattan Project",
     "fictional": false
   },
+  "facets": {
+    "item-type": "device",
+    "fictional": false
+  },
   "tags": [
-    "device",
     "technology",
     "historical",
     "weapon",
-    "science"
+    "nuclear",
+    "atomic",
+    "implosion-design",
+    "manhattan-project",
+    "los-alamos",
+    "trinity-test"
   ]
 }

@@ -38,12 +38,20 @@
     "occupation": "Head of Soviet Foreign Intelligence",
     "skill_level": "Master"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "Cold War",
-    "Espionage",
-    "Antagonist",
-    "Spy Master",
-    "Soviet Intelligence",
-    "Shadow Enemy"
+    "cold-war",
+    "espionage",
+    "soviet-intelligence",
+    "spy-master",
+    "shadow-enemy",
+    "clandestine",
+    "psychological-manipulation",
+    "double-agent",
+    "international-espionage"
   ]
 }

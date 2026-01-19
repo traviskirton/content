@@ -47,11 +47,20 @@
     "role": "Intelligence officer",
     "character_trait": "Ruthless"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "Soviet Intelligence",
-    "Cold War Spy",
-    "Antagonist",
-    "Espionage",
-    "Smiley's People"
+    "soviet-intelligence",
+    "cold-war-spy",
+    "espionage",
+    "smileys-people",
+    "intelligence-officer",
+    "ruthless",
+    "covert-operations",
+    "spy-thriller",
+    "mossad"
   ]
 }

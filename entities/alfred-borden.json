@@ -44,11 +44,19 @@
     "occupation": "magician",
     "portrayed_by": "Christian Bale"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "ambiguous",
+    "archetype": "magician"
+  },
   "tags": [
-    "protagonist",
-    "magician",
-    "rival",
-    "obsessive",
-    "intricate"
+    "magic",
+    "illusionist",
+    "obsession",
+    "rivalry",
+    "performance",
+    "stage-magic",
+    "the-prestige",
+    "christian-bale"
   ]
 }

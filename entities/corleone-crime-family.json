@@ -55,14 +55,20 @@
       "labor union influence"
     ]
   },
+  "facets": {
+    "organization-type": "mafia",
+    "location": "new-york-city",
+    "culture": "italian-american"
+  },
   "tags": [
-    "organization",
-    "Mafia",
-    "crime family",
-    "The Godfather",
-    "New York",
-    "organized crime",
-    "Italian-American",
-    "the-five-families"
+    "crime-family",
+    "organized-crime",
+    "the-godfather",
+    "the-five-families",
+    "mob",
+    "union-influence",
+    "protection-rackets",
+    "illegal-gambling",
+    "classic-mafia"
   ]
 }

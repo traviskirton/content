@@ -48,14 +48,25 @@
     "predictability": "High but not absolute",
     "relation_to_foundation": "Survival test"
   },
+  "facets": {
+    "subject-matter": [
+      "psychohistory",
+      "political-intrigue",
+      "military-conflict",
+      "economic-strategy",
+      "existential-threat"
+    ],
+    "franchise": "foundation-universe"
+  },
   "tags": [
-    "psychohistory",
     "crisis",
-    "Foundation",
-    "galactic empire",
-    "Isaac Asimov",
-    "strategy",
-    "science fiction",
-    "historical turning points"
+    "foundation",
+    "galactic-empire",
+    "isaac-asimov",
+    "historical-turning-points",
+    "strategic-decision-making",
+    "narrative-arc",
+    "storytelling",
+    "future-history"
   ]
 }

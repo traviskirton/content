@@ -52,12 +52,20 @@
     "residence": "Stoke Moran",
     "time_of_death": "Shortly before story events"
   },
+  "facets": {
+    "role": "minor",
+    "morality": "neutral",
+    "archetype": "innocent"
+  },
   "tags": [
     "victim",
-    "female character",
-    "Sherlock Holmes",
+    "female-character",
+    "sherlock-holmes",
     "mystery",
     "family",
-    "Victorian literature"
+    "victorian-literature",
+    "stoke-moran",
+    "haunting",
+    "tragic-death"
   ]
 }

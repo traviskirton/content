@@ -55,11 +55,21 @@
     "occupation": "thief",
     "portrayed_by": "Zoë Kravitz"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "antihero",
+    "archetype": "rebel"
+  },
   "tags": [
-    "protagonist",
-    "anti-hero",
     "thief",
     "fighter",
-    "complex"
+    "complex",
+    "gotham",
+    "batman",
+    "stealth",
+    "hand-to-hand",
+    "burglar",
+    "catwoman",
+    "zoë-kravitz"
   ]
 }

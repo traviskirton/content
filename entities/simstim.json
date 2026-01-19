@@ -39,12 +39,30 @@
     "real_time": true,
     "technology_level": "advanced cybernetics"
   },
+  "facets": {
+    "technology-level": "advanced cybernetics",
+    "function": [
+      "sensory interface",
+      "neural"
+    ],
+    "usage": [
+      "entertainment",
+      "espionage"
+    ],
+    "setting-universe": "neuromancer",
+    "genre": [
+      "cyberpunk"
+    ]
+  },
   "tags": [
-    "neuromancer",
-    "technology",
-    "virtual reality",
-    "cyberpunk",
-    "sensory transfer",
-    "neural interface"
+    "virtual-reality",
+    "sensory-transfer",
+    "real-time",
+    "immersive-technology",
+    "neural-interface",
+    "simulation",
+    "streaming",
+    "identity",
+    "human-machine-fusion"
   ]
 }

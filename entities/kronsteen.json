@@ -58,12 +58,20 @@
     "gender": "Male",
     "expertise": "Chess and Espionage Strategy"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "Spy Fiction",
-    "SMERSH",
-    "Strategist",
-    "James Bond Villain",
-    "Cold War",
-    "Chess Master"
+    "spy-fiction",
+    "smersh",
+    "strategist",
+    "james-bond-villain",
+    "cold-war",
+    "chess-master",
+    "intellectual",
+    "espionage",
+    "tactical-genius"
   ]
 }

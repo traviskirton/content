@@ -51,9 +51,18 @@
     "occupation": "student",
     "portrayed_by": "Elisabeth Shue"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "supporting",
     "teenager",
-    "high-school-student"
+    "high-school-student",
+    "emotional-support",
+    "adventurous",
+    "hill-valley",
+    "girlfriend",
+    "elisabeth-shue"
   ]
 }

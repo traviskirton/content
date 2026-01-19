@@ -85,10 +85,20 @@
     "type": "country",
     "country": "United Kingdom"
   },
+  "facets": {
+    "location-type": "country",
+    "reality": "real",
+    "scale": "country"
+  },
   "tags": [
-    "country",
     "public",
     "tours-available",
-    "active"
+    "active",
+    "historic",
+    "cultural-heritage",
+    "politics",
+    "europe",
+    "united-kingdom",
+    "british-culture"
   ]
 }

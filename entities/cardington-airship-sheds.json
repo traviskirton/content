@@ -55,10 +55,20 @@
       "long": -0.429
     }
   },
+  "facets": {
+    "location-type": "studio",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "studio",
     "active",
     "private",
-    "tours-available"
+    "tours-available",
+    "film-studio",
+    "large-scale-sets",
+    "historic-structure",
+    "bedfordshire",
+    "uk",
+    "filming-location"
   ]
 }

@@ -39,14 +39,20 @@
     "function": "Sanctuary/Hideout",
     "accessibility": "Restricted"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "location",
     "cyberpunk",
     "sanctuary",
     "remote",
-    "The Sprawl",
-    "Mona Lisa Overdrive",
+    "sprawl",
+    "mona-lisa-overdrive",
     "secluded",
-    "hideout"
+    "hideout",
+    "secret-base",
+    "corporate-surveillance"
   ]
 }

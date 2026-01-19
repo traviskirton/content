@@ -49,13 +49,21 @@
       "authoritative"
     ]
   },
+  "facets": {
+    "role": "ruler",
+    "morality": "ambiguous",
+    "archetype": "ruler"
+  },
   "tags": [
     "middle-earth",
-    "lord of the rings",
+    "lord-of-the-rings",
     "gondor",
     "steward",
     "tragedy",
-    "character",
+    "pride",
+    "despair",
+    "mental-decline",
+    "palantir",
     "fantasy"
   ]
 }

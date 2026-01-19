@@ -41,9 +41,18 @@
     "occupation": "Magician's Assistant",
     "portrayed_by": "Scarlett Johansson"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "supporting",
     "love-interest",
-    "complex-character"
+    "complex-character",
+    "magic-assistant",
+    "female-character",
+    "romantic-tension",
+    "the-prestige",
+    "christopher-nolan"
   ]
 }

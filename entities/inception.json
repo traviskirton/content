@@ -157,13 +157,26 @@
     "box_office": 836800000,
     "rating": "PG-13"
   },
+  "facets": {
+    "genre": [
+      "sci-fi",
+      "thriller"
+    ],
+    "era": "2010s",
+    "tone": [
+      "cerebral",
+      "suspenseful"
+    ],
+    "rating": "teen"
+  },
   "tags": [
-    "sci-fi",
-    "thriller",
     "blockbuster",
-    "2010s",
     "dreams",
     "mind-bending",
-    "christopher-nolan"
+    "christopher-nolan",
+    "heist",
+    "subconscious",
+    "nonlinear",
+    "complex-narrative"
   ]
 }

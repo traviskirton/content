@@ -75,10 +75,20 @@
     "occupation": "Butler, Guardian, Advisor",
     "portrayed_by": "Michael Caine"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "mentor",
     "loyal",
-    "wise"
+    "wise",
+    "butler",
+    "guardian",
+    "advisor",
+    "batman-universe",
+    "british",
+    "father-figure",
+    "gotham"
   ]
 }

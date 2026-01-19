@@ -51,11 +51,19 @@
     "created_by": "Nikola Tesla",
     "fictional": true
   },
+  "facets": {
+    "item-type": "device",
+    "reality": "fictional"
+  },
   "tags": [
-    "device",
     "technology",
-    "sci-fi",
     "duplicating",
-    "powerful"
+    "powerful",
+    "nikola-tesla",
+    "the-prestige",
+    "magician",
+    "energy-weapon",
+    "electrical",
+    "science-fiction"
   ]
 }

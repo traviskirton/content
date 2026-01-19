@@ -39,14 +39,21 @@
     "location": "Beyond ordinary Discworld reality",
     "theme": "Mortality, existentialism"
   },
+  "facets": {
+    "location-type": "realm",
+    "reality": "fictional",
+    "scale": "universe"
+  },
   "tags": [
-    "Location",
-    "Metaphysical",
-    "Death",
-    "Discworld",
-    "Fantasy",
-    "Otherworld",
-    "Philosophy",
-    "discworld-world"
+    "death",
+    "discworld",
+    "fantasy",
+    "otherworld",
+    "philosophy",
+    "metaphysical",
+    "existentialism",
+    "ethereal",
+    "timeless",
+    "whimsical"
   ]
 }

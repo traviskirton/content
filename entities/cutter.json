@@ -43,9 +43,19 @@
     "occupation": "Stage Engineer",
     "portrayed_by": "Michael Caine"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "mentor",
-    "engineer"
+    "engineer",
+    "stage-magic",
+    "mechanical-devices",
+    "illusionist",
+    "stage-magic-effects",
+    "wise-counsel",
+    "pragmatic",
+    "mentor-figure"
   ]
 }

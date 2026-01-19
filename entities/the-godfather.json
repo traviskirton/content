@@ -53,13 +53,27 @@
     "language": "English",
     "pages": 448
   },
+  "facets": {
+    "genre": [
+      "crime",
+      "drama"
+    ],
+    "era": "mid-century",
+    "tone": [
+      "serious",
+      "gritty"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "crime fiction",
     "mafia",
-    "organized crime",
-    "family saga",
-    "classic novel",
-    "20th century",
-    "Mario Puzo"
+    "organized-crime",
+    "family-saga",
+    "classic-novel",
+    "american-immigrant-experience",
+    "loyalty",
+    "power",
+    "legacy",
+    "mario-puzo"
   ]
 }

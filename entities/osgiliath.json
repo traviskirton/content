@@ -34,14 +34,21 @@
     "former_capital": true,
     "strategic_importance": "High"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "Middle-earth",
-    "City",
-    "Gondor",
-    "The Two Towers",
-    "Ruins",
-    "Battle",
-    "War of the Ring",
-    "Fantasy"
+    "middle-earth",
+    "gondor",
+    "the-two-towers",
+    "ruins",
+    "battle",
+    "war-of-the-ring",
+    "fantasy",
+    "siege",
+    "strategic-location",
+    "decay"
   ]
 }

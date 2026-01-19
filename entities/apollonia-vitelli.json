@@ -36,14 +36,19 @@
     "nationality": "Sicilian",
     "status": "Deceased"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "innocent"
+  },
   "tags": [
-    "The Godfather",
-    "Sicilian",
-    "Michael Corleone",
+    "the-godfather",
+    "sicilian",
+    "michael-corleone",
     "tragedy",
-    "character",
-    "film character",
     "mafia",
-    "1970s cinema"
+    "1970s-cinema",
+    "italian",
+    "film-character"
   ]
 }

@@ -47,9 +47,19 @@
     "occupation": "physicist",
     "portrayed_by": "Benny Safdie"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "sage"
+  },
   "tags": [
-    "supporting",
+    "physicist",
+    "nuclear-physics",
+    "manhattan-project",
+    "hydrogen-bomb",
+    "ambitious",
     "scientist",
-    "nuclear physicist"
+    "assertive",
+    "historical-figure"
   ]
 }

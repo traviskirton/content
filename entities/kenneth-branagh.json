@@ -49,12 +49,25 @@
     ],
     "active_years": "1981-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active-era": "1980s",
+    "nationality": "northern-irish"
+  },
   "tags": [
-    "actor",
-    "director",
-    "producer",
-    "writer",
     "drama",
-    "modern"
+    "shakespearean",
+    "stage-actor",
+    "filmmaker",
+    "versatile",
+    "knighthood",
+    "northern-ireland",
+    "renaissance-theatre",
+    "feature-films"
   ]
 }

@@ -102,9 +102,18 @@
     "country": "United States",
     "fictional": false
   },
+  "facets": {
+    "location-type": "state",
+    "reality": "real",
+    "scale": "region"
+  },
   "tags": [
-    "state",
     "usa",
-    "film-industry"
+    "film-industry",
+    "hollywood",
+    "west-coast",
+    "american-culture",
+    "entertainment-industry",
+    "golden-state"
   ]
 }

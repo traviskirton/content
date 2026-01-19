@@ -47,12 +47,17 @@
     "function": "Dummy bell for snake traversal",
     "year_installed": "Late 19th century"
   },
+  "facets": {
+    "era": "victorian"
+  },
   "tags": [
-    "The Adventure of the Speckled Band",
-    "Sherlock Holmes",
-    "Murder Device",
-    "Victorian Era",
-    "Hidden Mechanism",
-    "Mystery"
+    "adventure-of-the-speckled-band",
+    "sherlock-holmes",
+    "murder-device",
+    "hidden-mechanism",
+    "mystery",
+    "victorian-mystery",
+    "crime-fiction",
+    "poisonous-snake"
   ]
 }

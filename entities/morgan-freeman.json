@@ -61,11 +61,23 @@
     ],
     "active_years": "1964-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director",
+      "producer"
+    ],
+    "active-era": "modern",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "drama",
     "thriller",
     "new-hollywood",
-    "modern"
+    "narrator",
+    "award-winning",
+    "versatile-actor",
+    "deep-voice",
+    "ensemble-cast"
   ]
 }

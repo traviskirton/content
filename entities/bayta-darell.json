@@ -50,13 +50,19 @@
     "alignment": "Foundation loyalist",
     "social_status": "Noble family"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "heroine"
+  },
   "tags": [
-    "Heroine",
-    "Foundation",
-    "Resistance",
-    "Darell Family",
-    "Science Fiction",
-    "Psychological Insight",
-    "Psychohistory"
+    "foundation",
+    "resistance",
+    "darell-family",
+    "science-fiction",
+    "psychological-insight",
+    "psychohistory",
+    "female-lead",
+    "strategic-mind"
   ]
 }

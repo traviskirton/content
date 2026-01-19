@@ -55,11 +55,21 @@
     ],
     "active_years": "1947-2009"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "mid-century",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "drama",
     "classic-hollywood",
     "new-hollywood",
-    "commissioner-gordon"
+    "commissioner-gordon",
+    "character-actor",
+    "stage-to-screen",
+    "versatile",
+    "tony-nominee"
   ]
 }

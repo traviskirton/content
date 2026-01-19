@@ -49,13 +49,21 @@
     "nationality": "American",
     "awards": "Two Academy Awards"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "mid-century",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "method acting",
+    "method-acting",
     "legendary",
-    "The Godfather",
-    "cinematic icon",
-    "Hollywood",
-    "naturalistic acting"
+    "the-godfather",
+    "cinematic-icon",
+    "hollywood",
+    "naturalistic-acting",
+    "gangster-cinema",
+    "method-actor"
   ]
 }

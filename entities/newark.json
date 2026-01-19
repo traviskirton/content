@@ -37,9 +37,19 @@
     "country": "United States",
     "coordinates": "40.7357° N, 74.1724° W"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "active",
-    "public"
+    "public",
+    "new-jersey",
+    "united-states",
+    "urban",
+    "filming-location",
+    "brick-city",
+    "cultural-hub"
   ]
 }

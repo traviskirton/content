@@ -50,13 +50,28 @@
     "pages": 188,
     "publisher": "Ward, Lock & Co."
   },
+  "facets": {
+    "genre": [
+      "mystery",
+      "crime",
+      "drama"
+    ],
+    "era": "victorian",
+    "tone": [
+      "serious",
+      "cerebral"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "Sherlock Holmes",
-    "detective novel",
-    "Arthur Conan Doyle",
-    "crime",
-    "classic literature",
-    "mystery",
-    "Victorian"
+    "sherlock-holmes",
+    "detective-novel",
+    "arthur-conan-doyle",
+    "classic-literature",
+    "justice",
+    "rationality",
+    "deduction",
+    "friendship",
+    "forensic-science"
   ]
 }

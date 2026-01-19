@@ -38,14 +38,21 @@
     "inhabitants": "Elves and allies",
     "age": "Established in the Second Age"
   },
+  "facets": {
+    "location-type": "realm",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "Elven",
+    "elven",
     "sanctuary",
-    "Middle-earth",
+    "middle-earth",
     "valley",
-    "Misty Mountains",
+    "misty-mountains",
     "refuge",
     "hidden",
-    "ancient"
+    "ancient",
+    "lord-of-the-rings",
+    "fantasy"
   ]
 }

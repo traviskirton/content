@@ -57,5 +57,19 @@
       "historical"
     ]
   },
-  "tags": []
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
+  "tags": [
+    "neoclassical",
+    "music-venue",
+    "civil-courts",
+    "film-location",
+    "historic-architecture",
+    "guided-tours",
+    "concert-hall",
+    "uk"
+  ]
 }

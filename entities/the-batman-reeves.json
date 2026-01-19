@@ -57,9 +57,23 @@
       "id": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
     }
   },
+  "facets": {
+    "era": "2000s",
+    "themes": [
+      "superhero",
+      "detective",
+      "noir",
+      "dark"
+    ]
+  },
   "tags": [
-    "superhero",
     "film-series",
-    "modern"
+    "batman",
+    "matt-reeves",
+    "robert-pattinson",
+    "gotham",
+    "dc-universe",
+    "crime",
+    "vigilante"
   ]
 }

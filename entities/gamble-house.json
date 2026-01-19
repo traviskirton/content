@@ -47,11 +47,21 @@
       "longitude": -118.1663
     }
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
     "historic",
     "preserved",
     "public",
     "tours-available",
-    "Arts and Crafts"
+    "american-arts-and-crafts",
+    "pasadena",
+    "california",
+    "back-to-the-future",
+    "filming-location",
+    "architecture"
   ]
 }

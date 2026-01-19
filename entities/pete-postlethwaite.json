@@ -47,9 +47,14 @@
     ],
     "active_years": "1975-2011"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "modern",
+    "nationality": "british"
+  },
   "tags": [
-    "actor",
-    "drama",
-    "modern"
+    "drama"
   ]
 }

@@ -50,12 +50,21 @@
     "personality_traits": "Nervous, cautious, loyal",
     "origin": "Camorr"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "everyman"
+  },
   "tags": [
-    "fictional character",
-    "gentleman bastards",
-    "con artist",
+    "gentleman-bastards",
+    "con-artist",
     "fantasy",
     "thief",
-    "brother"
+    "brother",
+    "nervous",
+    "cautious",
+    "stealth",
+    "lockpicking",
+    "coming-of-age"
   ]
 }

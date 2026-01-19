@@ -38,13 +38,19 @@
     "location": "Near Foundation",
     "population": "Moderate"
   },
+  "facets": {
+    "location-type": "planet",
+    "reality": "fictional",
+    "scale": "planet"
+  },
   "tags": [
-    "Foundation",
-    "Science Fiction",
-    "Planet",
-    "Military",
-    "Feudal Kingdom",
-    "Isaac Asimov",
-    "Neighbor to Terminus"
+    "foundation",
+    "military",
+    "feudal-kingdom",
+    "isaac-asimov",
+    "terminus",
+    "four-kingdoms",
+    "warrior-elites",
+    "political-conflict"
   ]
 }

@@ -37,12 +37,20 @@
     "gender": "Female",
     "nationality": "British"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "Sherlock Holmes",
-    "Victorian London",
-    "Landlady",
-    "Supporting Character",
-    "Domestic",
-    "A Study in Scarlet"
+    "sherlock-holmes",
+    "victorian-london",
+    "domestic",
+    "a-study-in-scarlet",
+    "household-management",
+    "matriarchal",
+    "221b-baker-street",
+    "kindly",
+    "steady-presence"
   ]
 }

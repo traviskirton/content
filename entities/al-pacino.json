@@ -49,14 +49,23 @@
     "awards": "Academy Award Winner",
     "active_years": "1969-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "mid-century",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "theater",
-    "film star",
-    "cinematic icon",
+    "film-star",
+    "cinematic-icon",
     "drama",
-    "crime genre",
-    "The Godfather",
-    "method acting"
+    "crime-genre",
+    "the-godfather",
+    "method-acting",
+    "academy-award-winner",
+    "character-driven",
+    "intense-performances"
   ]
 }

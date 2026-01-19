@@ -51,12 +51,23 @@
     "awards": "Academy Award for Best Original Screenplay",
     "active_years": "1989–present"
   },
+  "facets": {
+    "profession": [
+      "director",
+      "screenwriter",
+      "actress"
+    ],
+    "active-era": "1990s",
+    "nationality": "american"
+  },
   "tags": [
-    "director",
-    "actress",
-    "The Godfather Part III",
-    "independent film",
-    "award winner",
-    "female filmmaker"
+    "the-godfather-part-iii",
+    "independent-film",
+    "award-winner",
+    "female-filmmaker",
+    "minimalist",
+    "atmospheric",
+    "emotional-undercurrents",
+    "contemplative-storytelling"
   ]
 }

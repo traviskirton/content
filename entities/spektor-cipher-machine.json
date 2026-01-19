@@ -46,12 +46,19 @@
     "era": "Cold War",
     "use": "Secure Communications"
   },
+  "facets": {
+    "origin": "soviet-union",
+    "era": "cold-war",
+    "category": "cipher-machine"
+  },
   "tags": [
-    "item",
-    "cipher machine",
-    "Cold War",
     "espionage",
     "encryption",
-    "Soviet technology"
+    "soviet-technology",
+    "cold-war-tech",
+    "cryptography",
+    "spy-novel",
+    "from-russia-with-love",
+    "mechanical-encryption"
   ]
 }

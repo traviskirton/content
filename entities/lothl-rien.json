@@ -38,14 +38,20 @@
     "flora": "Mallorn trees",
     "magic": "Preservation and temporal distortion due to Elven Rings"
   },
+  "facets": {
+    "location-type": "realm",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "Elven",
-    "forest",
-    "magical",
+    "elven",
+    "enchanted-forest",
     "sanctuary",
-    "Middle-earth",
-    "timeless",
-    "ancient",
-    "Third Age"
+    "middle-earth",
+    "magical-protection",
+    "timelessness",
+    "second-age",
+    "elven-rings",
+    "twilight-era"
   ]
 }

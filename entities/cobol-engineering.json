@@ -40,10 +40,19 @@
     "type": "corporation",
     "fictional": true
   },
+  "facets": {
+    "organization-type": "corporation",
+    "morality": "villainous",
+    "reality": "fictional"
+  },
   "tags": [
-    "corporation",
-    "villainous",
-    "sci-fi",
-    "espionage"
+    "espionage",
+    "corporate-espionage",
+    "dream-infiltration",
+    "shared-dreams",
+    "extraction",
+    "pasiv-device",
+    "secretive",
+    "advanced-tech"
   ]
 }

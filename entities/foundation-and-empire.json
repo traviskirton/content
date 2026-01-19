@@ -63,13 +63,27 @@
     "series": "Foundation Series",
     "format": "Novel"
   },
+  "facets": {
+    "genre": [
+      "sci-fi"
+    ],
+    "era": "1950s",
+    "tone": [
+      "philosophical",
+      "cerebral",
+      "serious"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "science fiction",
-    "foundation series",
-    "Isaac Asimov",
-    "galactic empire",
+    "foundation-series",
+    "isaac-asimov",
+    "galactic-empire",
     "psychohistory",
-    "space opera",
-    "classic literature"
+    "space-opera",
+    "classic-literature",
+    "political-intrigue",
+    "military-strategy",
+    "future-history"
   ]
 }

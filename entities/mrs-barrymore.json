@@ -44,12 +44,19 @@
     "family": "Sister to Selden",
     "employment": "Baskerville Hall"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "Supporting character",
-    "The Hound of the Baskervilles",
-    "Housekeeper",
-    "Victorian Era",
-    "Family Loyalty",
-    "Arthur Conan Doyle"
+    "housekeeper",
+    "baskerville-hall",
+    "family-loyalty",
+    "victorian-era",
+    "arthur-conan-doyle",
+    "escapee",
+    "emotional-tension",
+    "secret-keeper"
   ]
 }

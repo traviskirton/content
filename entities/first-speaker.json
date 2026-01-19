@@ -44,12 +44,20 @@
     "abilities": "Advanced mentalics",
     "gender": "Varies / Undefined"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "ambiguous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "character",
-    "Second Foundation",
-    "psychic leader",
-    "science fiction",
+    "second-foundation",
+    "psychic-leader",
     "mentalics",
-    "mysterious character"
+    "science-fiction",
+    "mysterious",
+    "telepathy",
+    "mind-control",
+    "strategist",
+    "secret-society"
   ]
 }

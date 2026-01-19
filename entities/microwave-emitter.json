@@ -52,12 +52,17 @@
     "created_by": "Wayne Enterprises",
     "fictional": true
   },
+  "facets": {},
   "tags": [
     "device",
     "weapon",
     "technology",
     "sci-fi",
     "macguffin",
-    "powerful"
+    "powerful",
+    "microwave-technology",
+    "water-vaporization",
+    "military-grade",
+    "batman-begins"
   ]
 }

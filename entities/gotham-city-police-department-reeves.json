@@ -52,11 +52,21 @@
     "headquarters": "Gotham City, New Jersey",
     "fictional": true
   },
+  "facets": {
+    "organization-type": "government",
+    "sector": "law-enforcement",
+    "reality": "fictional",
+    "location": "gotham-city"
+  },
   "tags": [
-    "organization",
     "police",
-    "neutral",
     "superhero",
-    "government"
+    "corruption",
+    "crime",
+    "gotham",
+    "law-enforcement-agency",
+    "matt-reeves",
+    "blockbuster",
+    "crime-drama"
   ]
 }

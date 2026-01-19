@@ -33,9 +33,18 @@
     "type": "building",
     "population": "N/A"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "sci-fi",
-    "futuristic"
+    "futuristic",
+    "art-heist",
+    "high-security",
+    "vault",
+    "inversion",
+    "tenet"
   ]
 }

@@ -45,11 +45,20 @@
     "role": "Victim and narrative catalyst",
     "nationality": "British (implied)"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "innocent"
+  },
   "tags": [
-    "James Bond character",
-    "model",
+    "james-bond-character",
+    "fashion-model",
     "victim",
-    "Cold War fiction",
-    "espionage"
+    "cold-war-fiction",
+    "espionage",
+    "tragic-fate",
+    "gold-paint",
+    "glamour",
+    "high-society"
   ]
 }

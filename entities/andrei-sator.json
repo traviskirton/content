@@ -51,10 +51,20 @@
     "occupation": "oligarch",
     "portrayed_by": "Kenneth Branagh"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "villain",
     "oligarch",
-    "arms dealer"
+    "arms-dealer",
+    "russian",
+    "inverted-time",
+    "time-inversion",
+    "tenet",
+    "manipulative",
+    "powerful",
+    "cold-calculating"
   ]
 }

@@ -49,13 +49,24 @@
     ],
     "active_years": "1980-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "director",
-    "producer",
-    "writer",
     "comedy",
     "drama",
-    "modern"
+    "versatile",
+    "character-actor",
+    "collaborations",
+    "independent-cinema",
+    "mainstream",
+    "dynamic-performing"
   ]
 }

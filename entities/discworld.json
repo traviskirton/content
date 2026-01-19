@@ -50,14 +50,25 @@
     "first_published": 1983,
     "number_of_books": 41
   },
+  "facets": {
+    "genre": [
+      "fantasy",
+      "satire"
+    ],
+    "era": "1980s",
+    "tone": [
+      "comedic",
+      "philosophical"
+    ]
+  },
   "tags": [
-    "fantasy",
-    "satire",
     "series",
-    "books",
     "magic",
-    "british literature",
+    "british-literature",
     "humor",
-    "worldbuilding"
+    "worldbuilding",
+    "meta-fiction",
+    "social-satire",
+    "fantasy-literature"
   ]
 }

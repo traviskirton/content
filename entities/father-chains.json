@@ -51,13 +51,19 @@
     "morality": "Code of honor among thieves",
     "age": "Middle-aged to elderly"
   },
+  "facets": {
+    "role": "mentor",
+    "morality": "ambiguous",
+    "archetype": "sage"
+  },
   "tags": [
-    "fictional character",
-    "mentor",
-    "gentleman bastards",
+    "gentleman-bastards",
+    "con-artist",
     "thief",
-    "fantasy",
-    "Camorr",
-    "con artist"
+    "camorr",
+    "mentor-figure",
+    "criminal-underworld",
+    "urban-stealth",
+    "tactical"
   ]
 }

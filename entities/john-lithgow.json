@@ -47,10 +47,22 @@
     ],
     "active_years": "1972-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "author"
+    ],
+    "active-era": "1970s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "comedy",
     "drama",
-    "modern"
+    "stage-actor",
+    "television",
+    "emmy-award-winner",
+    "broadway",
+    "tony-award-winner",
+    "character-actor"
   ]
 }

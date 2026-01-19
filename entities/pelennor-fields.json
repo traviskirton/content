@@ -42,13 +42,21 @@
     "notable_battle": "Battle of Pelennor Fields",
     "era": "Third Age"
   },
+  "facets": {
+    "location-type": "landscape",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "Middle-earth",
-    "Battlefield",
-    "Gondor",
-    "The Lord of the Rings",
-    "War",
-    "Epic",
-    "Historic Location"
+    "middle-earth",
+    "battlefield",
+    "gondor",
+    "lord-of-the-rings",
+    "war",
+    "epic",
+    "historic-location",
+    "plains",
+    "third-age",
+    "final-battle"
   ]
 }

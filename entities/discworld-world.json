@@ -56,13 +56,20 @@
     "creator": "Terry Pratchett",
     "population": "Varies; humans, dwarfs, trolls, and other species"
   },
+  "facets": {
+    "location-type": "realm",
+    "reality": "fictional",
+    "scale": "universe"
+  },
   "tags": [
-    "Fantasy World",
-    "Discworld",
-    "Terry Pratchett",
-    "Magic",
-    "Literature",
-    "Satire",
-    "Mythology"
+    "fantasy",
+    "satire",
+    "magic",
+    "mythology",
+    "terry-pratchett",
+    "discworld",
+    "parody",
+    "whimsical",
+    "cosmology"
   ]
 }

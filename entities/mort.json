@@ -42,13 +42,20 @@
     "abilities": "Soul guidance, scythe wielding",
     "personality": "Timid, empathetic, thoughtful"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "apprentice"
+  },
   "tags": [
-    "Discworld",
-    "character",
-    "apprentice",
+    "discworld",
     "fantasy",
     "death",
-    "coming_of_age",
-    "philosophical"
+    "coming-of-age",
+    "philosophical",
+    "soul-guidance",
+    "scythe-wielding",
+    "mentor-mentee",
+    "cosmic-order"
   ]
 }

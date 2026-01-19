@@ -43,13 +43,21 @@
     "nationality": "American (Italian descent)",
     "gender": "Male"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "The Godfather Part II",
-    "organized crime",
+    "the-godfather-part-ii",
+    "organized-crime",
     "mafia",
-    "supporting character",
-    "criminal strategist",
+    "criminal-strategist",
     "1950s",
-    "loyal aide"
+    "loyal-aide",
+    "negotiator",
+    "subterfuge",
+    "undercover",
+    "mafia-underworld"
   ]
 }

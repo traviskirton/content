@@ -33,10 +33,21 @@
     ],
     "active_years": "2005-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "drama",
     "sci-fi",
-    "modern"
+    "solo-star-wars-story",
+    "beautiful-creatures",
+    "character-driven",
+    "coming-of-age",
+    "hollywood",
+    "young-actor"
   ]
 }

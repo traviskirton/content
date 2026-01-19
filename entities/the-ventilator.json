@@ -47,12 +47,26 @@
     "function": "Ventilation and snake passage",
     "year_installed": "Late 19th century"
   },
+  "facets": {
+    "function": [
+      "ventilation",
+      "murder-method"
+    ],
+    "material": [
+      "wood",
+      "plaster"
+    ],
+    "era": "victorian",
+    "location": "wall"
+  },
   "tags": [
-    "The Adventure of the Speckled Band",
-    "Sherlock Holmes",
-    "Mystery",
-    "Hidden Passage",
-    "Victorian Era",
-    "Murder Method"
+    "adventure-of-the-speckled-band",
+    "sherlock-holmes",
+    "mystery",
+    "hidden-passage",
+    "snake-passage",
+    "concealed",
+    "stoke-moran",
+    "forensic"
   ]
 }

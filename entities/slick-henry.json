@@ -50,12 +50,19 @@
     "role": "Supporting character",
     "skills": "Mechanical engineering, Artistic creation"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "creator"
+  },
   "tags": [
     "cyberpunk",
-    "artist",
     "mechanical",
     "resistance",
     "technology",
-    "creative"
+    "creative",
+    "avant-garde",
+    "innovator",
+    "the-sprawl"
   ]
 }

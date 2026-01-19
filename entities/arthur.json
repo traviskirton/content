@@ -51,9 +51,20 @@
     "occupation": "point man",
     "portrayed_by": "Joseph Gordon-Levitt"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "everyman"
+  },
   "tags": [
-    "supporting",
     "professional",
-    "meticulous"
+    "meticulous",
+    "calm",
+    "composed",
+    "strategic-planning",
+    "research",
+    "hand-to-hand-combat",
+    "loyal",
+    "dream-extraction"
   ]
 }

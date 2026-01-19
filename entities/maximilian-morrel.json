@@ -55,12 +55,20 @@
       "target": "3c6350b1-f92d-4f6a-a7e7-e82f61c57b13"
     }
   ],
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "lover"
+  },
   "tags": [
-    "supporting",
-    "hero",
-    "loyal_friend",
-    "young_lover",
-    "naval_officer",
-    "human"
+    "loyal-friend",
+    "naval-officer",
+    "young-lover",
+    "human",
+    "courageous",
+    "brave",
+    "principled",
+    "honorable",
+    "victorian-era"
   ]
 }

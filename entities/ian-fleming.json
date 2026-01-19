@@ -36,12 +36,21 @@
     "nationality": "British",
     "occupation": "Author, Naval Intelligence Officer"
   },
+  "facets": {
+    "profession": [
+      "author"
+    ],
+    "active-era": "mid-century",
+    "nationality": "british"
+  },
   "tags": [
-    "author",
-    "British",
-    "spy fiction",
-    "James Bond",
-    "20th century",
-    "novelist"
+    "spy-fiction",
+    "james-bond",
+    "novelist",
+    "naval-intelligence-officer",
+    "espionage",
+    "literary-classic",
+    "british-literature",
+    "20th-century-literature"
   ]
 }

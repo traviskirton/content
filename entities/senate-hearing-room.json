@@ -44,14 +44,21 @@
     "political_significance": "Exposure of organized crime",
     "dramatic_use": "Interrogation of Michael Corleone"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "room"
+  },
   "tags": [
     "government",
-    "political drama",
-    "organized crime",
-    "Senate hearings",
-    "The Godfather Part II",
+    "political-drama",
+    "organized-crime",
+    "senate-hearings",
+    "godfather-part-ii",
     "investigation",
-    "law and order",
-    "power struggle"
+    "law-and-order",
+    "power-struggle",
+    "1950s",
+    "us-government"
   ]
 }

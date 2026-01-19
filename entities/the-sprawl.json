@@ -56,13 +56,21 @@
     "governance": "Corporate oligarchy",
     "climate": "Temperate urban"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "location",
     "megacity",
     "cyberpunk",
     "setting",
-    "urban sprawl",
+    "urban-sprawl",
     "dystopia",
-    "United States"
+    "united-states",
+    "corporate-oligarchy",
+    "neon-lit",
+    "futuristic",
+    "decay"
   ]
 }

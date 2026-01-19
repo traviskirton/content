@@ -49,14 +49,23 @@
     "headquarters": "Unknown",
     "operational_scope": "International"
   },
+  "facets": {
+    "criminal-domain": [
+      "organized-crime",
+      "smuggling",
+      "heist"
+    ],
+    "scope": "international",
+    "notoriety": "high"
+  },
   "tags": [
-    "Crime Syndicate",
-    "Goldfinger",
-    "Smuggling",
-    "Heist",
-    "Organized Crime",
-    "Film Villain",
-    "Espionage",
-    "James Bond"
+    "goldfinger",
+    "film-villain",
+    "espionage",
+    "james-bond",
+    "crime-syndicate",
+    "mastermind",
+    "gold-smuggling",
+    "armored-car-heist"
   ]
 }

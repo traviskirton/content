@@ -44,12 +44,19 @@
     "population": "High Military Concentration",
     "government": "Military Dictatorship"
   },
+  "facets": {
+    "location-type": "planet",
+    "reality": "fictional",
+    "scale": "planet"
+  },
   "tags": [
-    "Foundation",
-    "Kalgan",
-    "Second Foundation",
-    "Military",
-    "Isaac Asimov",
-    "Science Fiction"
+    "foundation-universe",
+    "military",
+    "power-struggle",
+    "stronghold",
+    "industrial",
+    "isaac-asimov",
+    "militarized",
+    "second-foundation"
   ]
 }

@@ -41,13 +41,19 @@
     "historical_era": "18th/19th century architectural style",
     "condition": "Old, slightly dilapidated but habitable"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
     "manor",
     "gothic",
     "mystery",
-    "fictional",
-    "setting",
     "literature",
-    "Baskerville family"
+    "baskerville-family",
+    "moorland",
+    "isolated-setting",
+    "family-curse"
   ]
 }

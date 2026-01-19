@@ -47,13 +47,20 @@
     "nationality": "Italian-American",
     "time_period": "1950s"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "everyman"
+  },
   "tags": [
-    "character",
     "mafia",
     "capo",
     "loyalty",
     "crime",
-    "organized_crime",
-    "tragedy"
+    "organized-crime",
+    "tragedy",
+    "corleone-family",
+    "1950s",
+    "italian-american"
   ]
 }

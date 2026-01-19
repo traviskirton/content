@@ -48,12 +48,19 @@
     "affiliation": "Galactic Empire",
     "role": "Political figure"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "science fiction",
-    "character",
-    "galactic empire",
+    "galactic-empire",
     "politics",
-    "foundation series",
-    "court intrigue"
+    "foundation-series",
+    "court-intrigue",
+    "power-struggles",
+    "political-strategy",
+    "diplomacy",
+    "influence"
   ]
 }

@@ -59,10 +59,21 @@
     ],
     "active_years": "1982-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "modern",
+    "nationality": "british"
+  },
   "tags": [
-    "actor",
     "drama",
     "action",
-    "modern"
+    "character-driven",
+    "transformative-roles",
+    "method-actor",
+    "award-winning",
+    "batman",
+    "oscar-winner"
   ]
 }

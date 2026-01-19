@@ -88,12 +88,21 @@
     "born": "1972",
     "portrayed_by": "Christian Bale"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
-    "protagonist",
-    "hero",
     "vigilante",
     "detective",
-    "martial artist",
-    "strategist"
+    "martial-artist",
+    "strategist",
+    "gotham",
+    "dc-universe",
+    "justice",
+    "masked-hero",
+    "billionaire",
+    "alfred-pennyworth"
   ]
 }

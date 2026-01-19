@@ -52,14 +52,22 @@
     "time_period": "Prior to and during Foundation series",
     "role_in_series": "Declining galactic order"
   },
+  "facets": {
+    "genre": [
+      "sci-fi",
+      "space-opera"
+    ],
+    "era": "timeless"
+  },
   "tags": [
-    "galactic_empire",
-    "science_fiction",
-    "Isaac Asimov",
-    "fall_of_empire",
-    "space_opera",
-    "Foundation series",
+    "galactic-empire",
+    "isaac-asimov",
+    "fall-of-empire",
+    "foundation-series",
     "politics",
-    "stagnation"
+    "stagnation",
+    "interstellar",
+    "bureaucracy",
+    "decline"
   ]
 }

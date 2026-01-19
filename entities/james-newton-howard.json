@@ -63,10 +63,21 @@
     ],
     "active_years": "1980-present"
   },
+  "facets": {
+    "profession": [
+      "composer",
+      "producer"
+    ],
+    "active-era": "1980s",
+    "nationality": "american"
+  },
   "tags": [
-    "composer",
-    "modern",
     "film-score",
-    "hollywood"
+    "hollywood",
+    "emotional",
+    "orchestral",
+    "electronic",
+    "collaboration",
+    "award-winning"
   ]
 }

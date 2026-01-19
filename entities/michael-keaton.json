@@ -62,10 +62,22 @@
     ],
     "active_years": "1975-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "1970s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "drama",
     "comedy",
-    "modern"
+    "tim-burton-collaborator",
+    "batman",
+    "birdman",
+    "spotlight",
+    "comedic",
+    "versatile",
+    "hollywood-veteran"
   ]
 }

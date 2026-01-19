@@ -48,14 +48,17 @@
     "role": "Double Agent",
     "status": "Neutralized during events of 'Tinker, Tailor, Soldier, Spy'"
   },
+  "facets": {},
   "tags": [
-    "Espionage",
-    "Cold War",
-    "Double Agent",
-    "Spy Fiction",
-    "British Intelligence",
-    "John le Carré",
-    "The Circus",
-    "Tinker Tailor Soldier Spy"
+    "espionage",
+    "cold-war",
+    "double-agent",
+    "spy-fiction",
+    "british-intelligence",
+    "john-le-carré",
+    "the-circus",
+    "tinker-tailor-soldier-spy",
+    "counterintelligence",
+    "betrayal"
   ]
 }

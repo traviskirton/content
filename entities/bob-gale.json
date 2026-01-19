@@ -64,12 +64,21 @@
     ],
     "active_years": "1976-present"
   },
+  "facets": {
+    "profession": [
+      "writer",
+      "producer",
+      "director"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "writer",
-    "producer",
-    "director",
     "sci-fi",
     "comedy",
-    "modern"
+    "screenwriter",
+    "back-to-the-future",
+    "time-travel",
+    "cult-classic"
   ]
 }

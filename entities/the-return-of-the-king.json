@@ -47,14 +47,26 @@
     "series": "The Lord of the Rings",
     "pages": 450
   },
+  "facets": {
+    "genre": [
+      "fantasy"
+    ],
+    "era": "mid-century",
+    "tone": [
+      "epic",
+      "character-driven"
+    ],
+    "rating": "family"
+  },
   "tags": [
-    "fantasy",
-    "classic literature",
-    "J.R.R. Tolkien",
-    "Middle-earth",
-    "epic",
-    "novel",
-    "literature",
-    "high fantasy"
+    "classic-literature",
+    "j-r-r-tolkien",
+    "middle-earth",
+    "high-fantasy",
+    "heroism",
+    "epic-warfare",
+    "redemption",
+    "friendship",
+    "loyalty"
   ]
 }

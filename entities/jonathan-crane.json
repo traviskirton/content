@@ -71,10 +71,19 @@
     "occupation": "psychiatrist",
     "portrayed_by": "Cillian Murphy"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "villain",
-    "scientist",
-    "psychiatrist"
+    "psychiatrist",
+    "fear-toxin",
+    "arkham-asylum",
+    "gotham",
+    "psychological-terror",
+    "hallucinations",
+    "cillian-murphy",
+    "dark-knight-trilogy"
   ]
 }

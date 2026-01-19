@@ -47,13 +47,14 @@
     "organizational_type": "Loose Network",
     "relation_to_empire": "Autonomous/Independent"
   },
+  "facets": {},
   "tags": [
-    "Foundation Series",
-    "Galactic Economy",
-    "Space Traders",
-    "Autonomy",
-    "Science Fiction",
-    "Isaac Asimov",
-    "Interstellar Trade"
+    "foundation-series",
+    "galactic-economy",
+    "space-traders",
+    "autonomy",
+    "science-fiction",
+    "isaac-asimov",
+    "interstellar-trade"
   ]
 }

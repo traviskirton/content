@@ -51,14 +51,23 @@
       "Pixar"
     ]
   },
+  "facets": {
+    "profession": [
+      "entrepreneur",
+      "ceo"
+    ],
+    "active-era": "1970s",
+    "nationality": ""
+  },
   "tags": [
     "technology",
-    "Apple",
-    "entrepreneur",
+    "apple",
     "innovator",
-    "business leader",
-    "product design",
-    "personal computing",
-    "digital revolution"
+    "business-leader",
+    "product-design",
+    "personal-computing",
+    "digital-revolution",
+    "visionary",
+    "charismatic-leadership"
   ]
 }

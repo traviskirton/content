@@ -55,13 +55,27 @@
     "series": "James Bond",
     "pages": 312
   },
+  "facets": {
+    "genre": [
+      "thriller",
+      "spy"
+    ],
+    "era": "1950s",
+    "tone": [
+      "serious",
+      "suspenseful"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "James Bond",
-    "spy novel",
-    "1950s literature",
+    "james-bond",
     "espionage",
-    "Ian Fleming",
-    "classic thriller",
-    "political intrigue"
+    "ian-fleming",
+    "political-intrigue",
+    "classic-thriller",
+    "cold-war",
+    "secret-agents",
+    "gadgets",
+    "luxury"
   ]
 }

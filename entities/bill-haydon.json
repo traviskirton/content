@@ -51,12 +51,21 @@
     "Alias": "Tailor",
     "Status": "Exposed Mole"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "ambiguous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "Espionage",
-    "Mole",
-    "British Intelligence",
-    "Double Agent",
-    "Betrayal",
-    "Cold War"
+    "espionage",
+    "mole",
+    "british-intelligence",
+    "double-agent",
+    "betrayal",
+    "cold-war",
+    "psychological-manipulation",
+    "seduction",
+    "covert-operations",
+    "spycraft"
   ]
 }

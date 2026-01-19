@@ -41,11 +41,17 @@
     "country": "India",
     "coordinates": "20.5937, 78.9629"
   },
+  "facets": {
+    "location-type": "country",
+    "reality": "real",
+    "scale": "country"
+  },
   "tags": [
-    "country",
-    "active",
-    "public",
+    "cultural-hub",
+    "filming-destination",
     "tours-available",
-    "cultural-hub"
+    "vibrant",
+    "diverse",
+    "india"
   ]
 }

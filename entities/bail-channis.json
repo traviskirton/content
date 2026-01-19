@@ -47,12 +47,20 @@
     "abilities": "Mentalics (telepathy, mind control)",
     "gender": "Male"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "character",
-    "Second Foundation",
+    "second-foundation",
     "mentalics",
     "psychohistory",
     "investigator",
-    "science fiction"
+    "science-fiction",
+    "telepathy",
+    "mind-control",
+    "foundation-universe",
+    "psychological"
   ]
 }

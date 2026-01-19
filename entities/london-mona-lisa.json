@@ -40,14 +40,20 @@
     "role_in_story": "Complex urban center",
     "surveillance_state": "Yes"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "location",
     "cyberpunk",
-    "London",
-    "futuristic",
-    "Mona Lisa Overdrive",
-    "William Gibson",
-    "corporate warfare",
-    "urban dystopia"
+    "london",
+    "mona-lisa-overdrive",
+    "william-gibson",
+    "corporate-warfare",
+    "urban-dystopia",
+    "surveillance-state",
+    "neo-noir",
+    "cybernetic-enhancements"
   ]
 }

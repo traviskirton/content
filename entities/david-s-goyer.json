@@ -6,7 +6,7 @@
   "content": [
     {
       "title": "Biography",
-      "body": "David S. Goyer was born on December 22, 1965, in Ann Arbor, Michigan, USA. He studied at the University of Southern California School of Cinematic Arts. Goyer’s career began in the early 1990s, writing scripts for several low-budget films and quickly rising to prominence in Hollywood."
+      "body": "David S. Goyer was born on December 22, 1965, in Ann Arbor, Michigan, USA. He studied at the University of Southern California School of Cinematic Arts. Goyer\u000bs career began in the early 1990s, writing scripts for several low-budget films and quickly rising to prominence in Hollywood."
     },
     {
       "title": "Career",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Legacy",
-      "body": "David S. Goyer's impact on the superhero genre is substantial, having co-written scripts for critically acclaimed films that redefined the genre’s tone and depth. He has been nominated for several awards and continues to influence the filmmaking landscape through his work in various media, including film, television, and video games."
+      "body": "David S. Goyer's impact on the superhero genre is substantial, having co-written scripts for critically acclaimed films that redefined the genre\u000bstone and depth. He has been nominated for several awards and continues to influence the filmmaking landscape through his work in various media, including film, television, and video games."
     }
   ],
   "aliases": [
@@ -73,13 +73,22 @@
     ],
     "active_years": "1990-present"
   },
+  "facets": {
+    "profession": [
+      "writer",
+      "director",
+      "producer"
+    ],
+    "active-era": "1990s",
+    "nationality": "american"
+  },
   "tags": [
-    "writer",
-    "director",
-    "producer",
+    "superhero",
     "sci-fi",
     "action",
-    "superhero",
-    "modern"
+    "screenwriting",
+    "blockbuster",
+    "dark-themes",
+    "hollywood"
   ]
 }

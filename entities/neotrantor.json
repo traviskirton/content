@@ -38,13 +38,21 @@
     "status": "Imperial Capital",
     "era": "Post-Empire Reconstruction"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "location",
-    "science fiction",
-    "Foundation series",
-    "Isaac Asimov",
-    "city",
-    "Galactic Empire",
-    "Trantor"
+    "science-fiction",
+    "foundation-series",
+    "isaac-asimov",
+    "galactic-empire",
+    "trantor",
+    "imperial-capital",
+    "political-intrigue",
+    "space-opera",
+    "post-empire",
+    "decay"
   ]
 }

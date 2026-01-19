@@ -69,11 +69,19 @@
     "population": "millions",
     "founded": "In-universe unspecified"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "crime",
     "drama",
-    "Gothic",
-    "2022"
+    "gothic",
+    "dark",
+    "batman",
+    "urban-decay",
+    "noir",
+    "corruption"
   ]
 }

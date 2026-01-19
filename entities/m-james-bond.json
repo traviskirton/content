@@ -37,12 +37,20 @@
     "role": "handler and supervisor",
     "nationality": "British"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "ruler"
+  },
   "tags": [
-    "fictional character",
-    "spy fiction",
-    "MI6",
+    "spy-fiction",
+    "mi6",
     "authority",
     "supervisor",
-    "espionage"
+    "espionage",
+    "intelligence",
+    "british-intelligence",
+    "government",
+    "political"
   ]
 }

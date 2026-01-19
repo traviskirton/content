@@ -33,14 +33,21 @@
     "education_level": "Primary to lower secondary",
     "era": "Mid 20th century (implied)"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "location",
+    "british-elite",
+    "boarding-school",
+    "john-le-carré",
+    "tinker-tailor-soldier-spy",
     "education",
-    "fictional school",
-    "British elite",
-    "boarding school",
-    "Tinker Tailor Soldier Spy",
-    "John le Carré",
-    "class system"
+    "class-system",
+    "espionage",
+    "intelligence-community",
+    "preparatory-school",
+    "british-public-school"
   ]
 }

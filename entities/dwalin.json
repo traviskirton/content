@@ -50,13 +50,20 @@
     "role": "Warrior",
     "allegiance": "Thorin's Company"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
-    "Dwarf",
-    "Warrior",
-    "Loyal",
-    "Middle-earth",
-    "Fantasy",
-    "The Hobbit",
-    "Thorin's Company"
+    "dwarf",
+    "loyal",
+    "middle-earth",
+    "fantasy",
+    "the-hobbit",
+    "thorins-company",
+    "axes",
+    "steadfast",
+    "battle-hardened"
   ]
 }

@@ -54,12 +54,20 @@
     "year": "2012",
     "fictional": true
   },
+  "facets": {
+    "vehicle-type": "aircraft",
+    "reality": "fictional",
+    "origin-year": "2012"
+  },
   "tags": [
-    "aircraft",
-    "sci-fi",
-    "action",
-    "flying",
+    "batman",
+    "military-prototype",
     "stealth",
-    "Batman"
+    "vtol",
+    "urban-combat",
+    "aerial-vehicle",
+    "flying",
+    "dark-knight",
+    "wayne-enterprises"
   ]
 }

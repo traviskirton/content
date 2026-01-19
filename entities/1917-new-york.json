@@ -44,14 +44,18 @@
     "urban_character": "Immigrant neighborhood",
     "film_significance": "Flashback setting"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "historical location",
-    "immigrant community",
-    "early 1900s",
-    "New York City",
-    "period setting",
-    "The Godfather Part II",
-    "family origins",
-    "urban life"
+    "historical-location",
+    "immigrant-community",
+    "early-1900s",
+    "period-setting",
+    "the-godfather-part-ii",
+    "family-origins",
+    "urban-life"
   ]
 }

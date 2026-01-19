@@ -60,12 +60,20 @@
     "role": "Founder of Foundation",
     "lifecycle": "Predicted fall of Galactic Empire"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "fictional character",
-    "science fiction",
     "psychohistory",
     "visionary",
     "founder",
-    "mentor"
+    "mathematician",
+    "future-planning",
+    "science-fiction",
+    "foundation-universe",
+    "statistical-mathematics",
+    "rationalism"
   ]
 }

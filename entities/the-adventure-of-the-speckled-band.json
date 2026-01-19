@@ -54,14 +54,29 @@
     "genre": "Detective fiction, Mystery",
     "collection": "The Adventures of Sherlock Holmes"
   },
+  "facets": {
+    "genre": [
+      "mystery",
+      "crime",
+      "adventure"
+    ],
+    "era": "victorian",
+    "tone": [
+      "atmospheric",
+      "suspenseful",
+      "dark"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "Sherlock Holmes",
-    "Arthur Conan Doyle",
-    "detective fiction",
-    "mystery",
-    "short story",
-    "Victorian literature",
+    "sherlock-holmes",
+    "arthur-conan-doyle",
+    "detective-fiction",
+    "short-story",
     "classic",
-    "crime"
+    "gothic-horror",
+    "colonialism",
+    "deduction",
+    "english-country-estate"
   ]
 }

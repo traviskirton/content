@@ -42,10 +42,20 @@
     "died": 1967,
     "portrayed_by": "Cillian Murphy"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "ambiguous",
+    "archetype": "sage"
+  },
   "tags": [
-    "protagonist",
-    "scientist",
     "historical",
-    "leader"
+    "scientist",
+    "leader",
+    "nuclear-physics",
+    "manhattan-project",
+    "ethical-dilemma",
+    "quantum-mechanics",
+    "world-war-ii",
+    "atomic-bomb"
   ]
 }

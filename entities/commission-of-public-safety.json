@@ -47,14 +47,27 @@
     "effectiveness": "Maintains order at cost of freedoms",
     "role_in_series": "Represents centralization of power within Foundation"
   },
+  "facets": {
+    "type": "organization",
+    "governance": [
+      "authoritarian",
+      "military",
+      "political"
+    ],
+    "role": [
+      "enforcement",
+      "security"
+    ],
+    "universe": "foundation"
+  },
   "tags": [
-    "government",
-    "military",
-    "authority",
-    "First Foundation",
-    "political",
-    "security",
-    "Science Fiction",
-    "Isaac Asimov"
+    "public-safety",
+    "first-foundation",
+    "centralization-of-power",
+    "authoritarian-regime",
+    "political-military",
+    "isaac-asimov",
+    "totalitarianism",
+    "crisis-management"
   ]
 }

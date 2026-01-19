@@ -46,13 +46,23 @@
     "employer": "Apple Inc.",
     "years_active_at_Apple": "1997-2012"
   },
+  "facets": {
+    "profession": [
+      "software-executive",
+      "technology-executive"
+    ],
+    "active-era": "2000s",
+    "nationality": ""
+  },
   "tags": [
-    "Apple",
-    "iOS",
-    "mobile operating system",
-    "software engineering",
-    "user interface",
-    "technology executive",
-    "product development"
+    "apple",
+    "ios",
+    "mobile-operating-system",
+    "software-engineering",
+    "user-interface",
+    "product-development",
+    "user-experience",
+    "mobile-first",
+    "startup-culture"
   ]
 }

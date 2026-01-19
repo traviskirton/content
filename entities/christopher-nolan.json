@@ -153,12 +153,23 @@
     ],
     "active_years": "1989-present"
   },
+  "facets": {
+    "profession": [
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active-era": "2000s",
+    "nationality": "british-american"
+  },
   "tags": [
-    "Role: director",
-    "Role: producer",
-    "Role: writer",
-    "Genre: sci-fi",
-    "Genre: thriller",
-    "Era: modern"
+    "nonlinear-narrative",
+    "cerebral",
+    "practical-effects",
+    "blockbuster-auteur",
+    "time-manipulation",
+    "dreamlike",
+    "complex-plots",
+    "film-author"
   ]
 }

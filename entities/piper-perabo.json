@@ -50,9 +50,14 @@
     ],
     "active_years": "1997-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "drama",
-    "modern"
+    "drama"
   ]
 }

@@ -198,15 +198,29 @@
     "box_office": 1081000000,
     "rating": "PG-13"
   },
+  "facets": {
+    "genre": [
+      "action",
+      "thriller",
+      "drama"
+    ],
+    "era": "2010s",
+    "tone": [
+      "dark",
+      "serious",
+      "gritty"
+    ],
+    "rating": "teen"
+  },
   "tags": [
-    "action",
-    "thriller",
-    "drama",
-    "2010s",
     "blockbuster",
     "superhero",
     "christopher-nolan",
+    "batman",
     "the-dark-knight-trilogy",
-    "batman"
+    "practical-effects",
+    "physical-stunts",
+    "ensemble-cast",
+    "imax"
   ]
 }

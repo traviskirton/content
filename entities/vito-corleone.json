@@ -59,12 +59,19 @@
       "Strategy"
     ]
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "ambiguous",
+    "archetype": "ruler"
+  },
   "tags": [
     "mafia",
     "godfather",
-    "corleone family",
-    "fictional character",
-    "organized crime",
-    "patriarch"
+    "corleone-family",
+    "organized-crime",
+    "patriarch",
+    "new-york",
+    "family-loyalty",
+    "strategic-mind"
   ]
 }

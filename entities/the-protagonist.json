@@ -45,10 +45,19 @@
     "occupation": "CIA agent, operative for Tenet",
     "portrayed_by": "John David Washington"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
-    "protagonist",
-    "hero",
     "time-traveler",
-    "agent"
+    "cia-agent",
+    "espionage",
+    "hand-to-hand-combat",
+    "time-inversion",
+    "loyalty",
+    "tenet",
+    "john-david-washington"
   ]
 }

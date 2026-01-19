@@ -50,13 +50,20 @@
     "weapon": "Black Arrow",
     "title": "King of Dale"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
-    "human",
     "archer",
     "leader",
-    "hero",
     "middle-earth",
-    "dragon slayer",
-    "lake-town"
+    "dragon-slayer",
+    "lake-town",
+    "black-arrow",
+    "king-of-dale",
+    "resilience",
+    "human"
   ]
 }

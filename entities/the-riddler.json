@@ -47,11 +47,20 @@
     "species": "human",
     "occupation": "Criminal Mastermind"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "villain",
     "genius",
     "criminal",
-    "enigmatic"
+    "enigmatic",
+    "psychological-manipulation",
+    "gotham",
+    "riddles",
+    "dark-knight",
+    "intellectual",
+    "obsession"
   ]
 }

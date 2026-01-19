@@ -47,12 +47,15 @@
     "known_for": "Monopolizing illegal trade"
   },
   "tags": [
-    "fantasy",
-    "organization",
-    "criminal syndicate",
-    "secret society",
-    "political influence",
-    "Camorr",
-    "underworld"
-  ]
+    "criminal-syndicate",
+    "secret-society",
+    "political-influence",
+    "camorr",
+    "underworld",
+    "clandestine",
+    "power-brokers",
+    "organized-crime",
+    "crime-lords"
+  ],
+  "facets": {}
 }

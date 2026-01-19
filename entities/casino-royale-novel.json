@@ -42,13 +42,27 @@
     "publisher": "Jonathan Cape",
     "pages": 240
   },
+  "facets": {
+    "genre": [
+      "thriller",
+      "spy-fiction",
+      "adventure"
+    ],
+    "era": "1950s",
+    "tone": [
+      "serious",
+      "suspenseful"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "novel",
-    "spy fiction",
-    "James Bond",
-    "Cold War",
+    "james-bond",
+    "cold-war",
     "espionage",
-    "Ian Fleming",
-    "baccarat"
+    "ian-fleming",
+    "baccarat",
+    "secret-agent",
+    "martini",
+    "british-intelligence"
   ]
 }

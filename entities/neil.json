@@ -46,11 +46,19 @@
     "species": "human",
     "occupation": "operative"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
-    "protagonist",
-    "supporting",
-    "hero",
     "time-traveler",
-    "operative"
+    "operative",
+    "intelligent",
+    "loyal",
+    "combat-skilled",
+    "espionage",
+    "time-inversion",
+    "tactical-expert"
   ]
 }

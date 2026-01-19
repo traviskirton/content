@@ -55,9 +55,18 @@
     "occupation": "Assistant District Attorney",
     "portrayed_by": "Katie Holmes (Batman Begins), Maggie Gyllenhaal (The Dark Knight)"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "supporting",
     "ethical",
-    "hero"
+    "moral-compass",
+    "gotham",
+    "law",
+    "justice",
+    "batman-universe",
+    "assistant-district-attorney"
   ]
 }

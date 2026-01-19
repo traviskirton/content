@@ -44,13 +44,21 @@
     "gender": "Female",
     "relation": "Mother of Vito Corleone"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "The Godfather Part II",
+    "the-godfather-part-ii",
     "family",
     "immigration",
-    "Sicily",
-    "maternal figure",
+    "sicily",
+    "maternal-figure",
     "history",
-    "minor character"
+    "minor-character",
+    "italian-american",
+    "early-20th-century",
+    "mafia"
   ]
 }

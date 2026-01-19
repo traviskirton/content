@@ -57,13 +57,21 @@
     "training_required": true,
     "function": "Maintain psychohistorical order"
   },
+  "facets": {
+    "genre": [
+      "sci-fi"
+    ]
+  },
   "tags": [
-    "mental powers",
+    "mental-powers",
     "psychic",
-    "science fiction",
-    "Foundation series",
-    "Isaac Asimov",
+    "foundation-series",
+    "isaac-asimov",
     "psychohistory",
-    "secret society"
+    "secret-society",
+    "mind-control",
+    "emotional-manipulation",
+    "telepathy",
+    "memory-alteration"
   ]
 }

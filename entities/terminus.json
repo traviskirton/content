@@ -38,13 +38,21 @@
     "status": "Capital of the Foundation",
     "location": "Galactic Fringe"
   },
+  "facets": {
+    "location-type": "planet",
+    "reality": "fictional",
+    "scale": "planet"
+  },
   "tags": [
-    "Foundation",
-    "Science Fiction",
-    "Planet",
-    "Psychohistory",
-    "Isaac Asimov",
-    "Outer Rim",
-    "Galactic Fringe"
+    "foundation",
+    "science-fiction",
+    "psychohistory",
+    "isaac-asimov",
+    "outer-rim",
+    "galactic-fringe",
+    "foundation-universe",
+    "galactic-empire",
+    "isolated",
+    "resource-poor"
   ]
 }

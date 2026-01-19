@@ -37,12 +37,17 @@
     "function": "Evidence examination",
     "size": "Handheld"
   },
+  "facets": {
+    "era": "victorian"
+  },
   "tags": [
-    "item",
-    "Holmes",
-    "magnifying glass",
-    "forensic tool",
-    "detective accessory",
-    "A Study in Scarlet"
+    "holmes",
+    "magnifying-glass",
+    "forensic-tool",
+    "detective-accessory",
+    "a-study-in-scarlet",
+    "victorian-era",
+    "evidence-examination",
+    "handheld"
   ]
 }

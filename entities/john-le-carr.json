@@ -48,14 +48,22 @@
       "Intelligence Officer"
     ]
   },
+  "facets": {
+    "profession": [
+      "author"
+    ],
+    "active-era": "mid-century",
+    "nationality": "british"
+  },
   "tags": [
-    "author",
-    "spy fiction",
-    "cold war",
-    "literature",
-    "British",
+    "spy-fiction",
+    "cold-war",
     "espionage",
-    "Karla Trilogy",
-    "George Smiley"
+    "karla-trilogy",
+    "george-smiley",
+    "literature",
+    "intelligence-officer",
+    "moral-complexity",
+    "psychological-depth"
   ]
 }

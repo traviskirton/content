@@ -56,13 +56,21 @@
     "affiliation": "The Elves",
     "role": "Counselor and Leader"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "sage"
+  },
   "tags": [
-    "Middle-earth",
-    "Elf-lord",
-    "Rivendell",
-    "Council of Elrond",
-    "Wise",
-    "Healer",
-    "Leader"
+    "middle-earth",
+    "elf-lord",
+    "rivendell",
+    "council-of-elrond",
+    "wise",
+    "healer",
+    "leader",
+    "fellowship-of-the-ring",
+    "noble",
+    "diplomat"
   ]
 }

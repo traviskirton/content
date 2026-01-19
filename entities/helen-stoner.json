@@ -53,13 +53,21 @@
     "engagement_status": "Fiancée",
     "residence": "Stoke Moran"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "innocent"
+  },
   "tags": [
     "client",
     "victim",
-    "female character",
-    "Sherlock Holmes",
-    "Victorian era",
+    "female-character",
+    "sherlock-holmes",
+    "victorian-era",
     "family",
-    "mystery"
+    "mystery",
+    "stoke-moran",
+    "fiancée",
+    "survivor"
   ]
 }

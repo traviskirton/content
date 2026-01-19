@@ -51,11 +51,21 @@
     "created_by": "Robert Zemeckis and Bob Gale",
     "fictional": true
   },
+  "facets": {
+    "genre": [
+      "sci-fi"
+    ],
+    "era": "1980s",
+    "tone": [],
+    "rating": ""
+  },
   "tags": [
-    "book",
-    "sci-fi",
     "macguffin",
     "time-travel",
-    "powerful"
+    "powerful",
+    "sports-statistics",
+    "alternate-timeline",
+    "plot-device",
+    "back-to-the-future"
   ]
 }

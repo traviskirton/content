@@ -42,9 +42,19 @@
       "long": -118.4851
     }
   },
+  "facets": {
+    "location-type": "studio",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "studio",
     "active",
-    "private"
+    "private",
+    "film-location",
+    "movie-ranch",
+    "backlot",
+    "disney",
+    "california",
+    "production-studio"
   ]
 }

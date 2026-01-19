@@ -51,11 +51,21 @@
     "Specialty": "Photographic Intelligence",
     "Loyalty": "Alleline Faction"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "Cold War",
-    "Espionage",
-    "British Intelligence",
-    "Surveillance",
-    "Tinker Tailor Soldier Spy"
+    "cold-war",
+    "espionage",
+    "british-intelligence",
+    "surveillance",
+    "tinker-tailor-soldier-spy",
+    "spy-thriller",
+    "political-intrigue",
+    "intelligence-analysis",
+    "eastern-europe",
+    "linguist"
   ]
 }

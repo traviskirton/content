@@ -51,12 +51,21 @@
     "role": "Central figure",
     "origin": "The Sprawl"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "neutral",
+    "archetype": "explorer"
+  },
   "tags": [
     "cyberpunk",
     "cyberspace",
-    "augmented human",
-    "protagonist",
-    "neural interface",
-    "technology"
+    "augmented-human",
+    "neural-interface",
+    "technology",
+    "identity",
+    "human-machine-fusion",
+    "digital-transcendence",
+    "resilience",
+    "the-sprawl"
   ]
 }

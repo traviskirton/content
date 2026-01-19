@@ -47,10 +47,19 @@
     "type": "building",
     "founded": "1885"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "western",
-    "1885",
-    "saloon"
+    "saloon",
+    "hill-valley",
+    "wild-west",
+    "frontier-town",
+    "classic-architecture",
+    "historical",
+    "social-hub"
   ]
 }

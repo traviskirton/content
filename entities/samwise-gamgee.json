@@ -55,12 +55,20 @@
     "weapon": "Sting",
     "occupation": "Gardener"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "everyman"
+  },
   "tags": [
-    "Hobbit",
-    "Fellowship of the Ring",
-    "Loyal companion",
-    "Gardener",
-    "Heroic",
-    "Middle-earth"
+    "hobbit",
+    "fellowship-of-the-ring",
+    "loyal-companion",
+    "gardener",
+    "middle-earth",
+    "stewardship",
+    "resilience",
+    "hope",
+    "courage"
   ]
 }

@@ -162,15 +162,30 @@
     "box_office": 373000000,
     "rating": "PG-13"
   },
+  "facets": {
+    "genre": [
+      "action",
+      "adventure",
+      "drama"
+    ],
+    "era": "2000s",
+    "tone": [
+      "dark",
+      "serious",
+      "gritty"
+    ],
+    "rating": "teen"
+  },
   "tags": [
-    "action",
-    "adventure",
-    "drama",
-    "2000s",
     "blockbuster",
     "superhero",
-    "origin story",
+    "origin-story",
     "christopher-nolan",
-    "the-dark-knight-trilogy"
+    "the-dark-knight-trilogy",
+    "revenge",
+    "crime-ridden",
+    "urban-decay",
+    "vigilante",
+    "batman"
   ]
 }

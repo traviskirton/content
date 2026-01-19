@@ -53,14 +53,25 @@
     "setting": "1950s Senate hearing room",
     "duration_minutes": 15
   },
+  "facets": {
+    "theme": [
+      "organized-crime",
+      "government-investigation",
+      "corruption",
+      "mafia"
+    ],
+    "era": "1950s",
+    "medium": "film scene"
+  },
   "tags": [
-    "organized crime",
-    "senate hearings",
-    "mafia",
-    "government investigation",
-    "The Godfather Part II",
-    "crime",
-    "1950s",
-    "corruption"
+    "senate-hearings",
+    "the-godfather-part-ii",
+    "crime-drama",
+    "political-drama",
+    "mid-century",
+    "underworld",
+    "power-struggle",
+    "law-enforcement",
+    "mafioso"
   ]
 }

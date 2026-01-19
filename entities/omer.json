@@ -46,14 +46,20 @@
     "affiliation": "Rohirrim",
     "weapon": "Sword and spear"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
     "human",
-    "warrior",
     "rohirrim",
-    "noble",
     "middle-earth",
-    "fantasy",
+    "noble",
     "leader",
-    "horse-lord"
+    "horse-lord",
+    "marshall",
+    "swordsman",
+    "rider-of-rohan"
   ]
 }

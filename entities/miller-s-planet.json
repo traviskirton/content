@@ -35,10 +35,18 @@
     "type": "planet",
     "founded": "unknown"
   },
+  "facets": {
+    "location-type": "planet",
+    "reality": "fictional",
+    "scale": "planet"
+  },
   "tags": [
-    "planet",
     "sci-fi",
     "futuristic",
-    "appearance in Interstellar"
+    "interstellar",
+    "time-dilation",
+    "waterworld",
+    "tidal-waves",
+    "space-exploration"
   ]
 }

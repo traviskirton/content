@@ -49,13 +49,20 @@
     "ring": "Nenya",
     "realm": "Lothlórien"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "sage"
+  },
   "tags": [
-    "Elves",
-    "Third Age",
-    "Middle-earth",
-    "Magic",
-    "Royalty",
-    "Ring-bearer",
-    "Wisdom"
+    "elves",
+    "third-age",
+    "middle-earth",
+    "magic",
+    "royalty",
+    "ring-bearer",
+    "wisdom",
+    "lothlorien",
+    "elven-queen"
   ]
 }

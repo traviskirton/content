@@ -43,10 +43,18 @@
     "occupation": "Pilot, Engineer, Farmer",
     "born": "Unknown (21st century)"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "explorer"
+  },
   "tags": [
-    "protagonist",
-    "hero",
     "time-traveler",
-    "scientist"
+    "scientist",
+    "nasa-pilot",
+    "space-exploration",
+    "family-driven",
+    "engineer",
+    "mission-leader"
   ]
 }

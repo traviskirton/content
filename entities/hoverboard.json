@@ -42,9 +42,19 @@
     "item_type": "device",
     "fictional": true
   },
+  "facets": {
+    "genre": [
+      "sci-fi"
+    ]
+  },
   "tags": [
     "device",
     "technology",
-    "sci-fi"
+    "retro-futuristic",
+    "levitation",
+    "personal-transport",
+    "extreme-sports",
+    "hoverboarding",
+    "bright-pink"
   ]
 }

@@ -46,13 +46,21 @@
     "gender": "Female",
     "origin": "Discworld"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "Discworld",
-    "Fantasy",
-    "Character",
-    "Witchcraft",
-    "Young Female Protagonist",
-    "Magic",
-    "Adventure"
+    "discworld",
+    "fantasy",
+    "witchcraft",
+    "magic",
+    "adventure",
+    "young-female-protagonist",
+    "coming-of-age",
+    "witch",
+    "nac-mac-feegle",
+    "scottish-fantasy"
   ]
 }

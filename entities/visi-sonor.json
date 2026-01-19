@@ -50,12 +50,22 @@
     "range": "Interstellar",
     "portability": "Varies by model"
   },
+  "facets": {
+    "theme": [
+      "science fiction"
+    ],
+    "universe": [
+      "foundation-series"
+    ]
+  },
   "tags": [
-    "Foundation Series",
-    "Communication Technology",
-    "Science Fiction",
-    "Isaac Asimov",
-    "Audiovisual Device",
-    "Interstellar Communication"
+    "foundation-series",
+    "communication-technology",
+    "science-fiction",
+    "isaac-asimov",
+    "audiovisual-device",
+    "interstellar-communication",
+    "advanced-technology",
+    "subspace-transmission"
   ]
 }

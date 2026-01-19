@@ -62,10 +62,19 @@
     "occupation": "criminal mastermind",
     "portrayed_by": "Heath Ledger"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "villain",
     "chaotic",
-    "mastermind"
+    "nihilism",
+    "gotham",
+    "criminal-mastermind",
+    "anarchy",
+    "psychology",
+    "dark-knight",
+    "unpredictable"
   ]
 }

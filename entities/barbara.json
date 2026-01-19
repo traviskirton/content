@@ -39,9 +39,18 @@
     "species": "human",
     "occupation": "scientist"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "mentor",
-    "scientist"
+    "scientist",
+    "tenet",
+    "time-inversion",
+    "expository",
+    "calm",
+    "pragmatic",
+    "temporal-mechanics"
   ]
 }

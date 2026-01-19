@@ -49,14 +49,24 @@
     "target": "Pope John Paul I",
     "outcome": "Foiled and partially successful in causing tragedy"
   },
+  "facets": {
+    "theme": [
+      "crime",
+      "political-intrigue",
+      "conspiracy",
+      "faith-vs-sin",
+      "redemption"
+    ]
+  },
   "tags": [
-    "The Godfather Part III",
-    "Organized Crime",
-    "Vatican",
-    "Assassination",
-    "Conspiracy",
-    "Mafia",
-    "Political Intrigue",
-    "Film Plot"
+    "the-godfather-part-iii",
+    "organized-crime",
+    "vatican",
+    "assassination",
+    "mafia",
+    "film-plot",
+    "power-struggle",
+    "moral-decay",
+    "betrayal"
   ]
 }

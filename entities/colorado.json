@@ -35,9 +35,19 @@
       "longitude": -105.7821
     }
   },
+  "facets": {
+    "location-type": "region",
+    "reality": "real",
+    "scale": "region"
+  },
   "tags": [
-    "state",
-    "active",
-    "public"
+    "western-united-states",
+    "outdoor-recreation",
+    "rocky-mountains",
+    "national-parks",
+    "skiing",
+    "hiking",
+    "mountain-biking",
+    "film-location"
   ]
 }

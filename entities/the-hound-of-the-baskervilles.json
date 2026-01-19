@@ -44,13 +44,31 @@
     "language": "English",
     "setting": "Devonshire, England"
   },
+  "facets": {
+    "genre": [
+      "mystery",
+      "thriller",
+      "crime"
+    ],
+    "era": "victorian",
+    "tone": [
+      "dark",
+      "atmospheric",
+      "suspenseful",
+      "character-driven"
+    ],
+    "rating": "teen"
+  },
   "tags": [
-    "Sherlock Holmes",
-    "Detective fiction",
-    "Classic literature",
-    "Mystery",
-    "Supernatural",
-    "Victorian era",
-    "English literature"
+    "sherlock-holmes",
+    "classic-literature",
+    "supernatural-elements",
+    "english-literature",
+    "devonshire",
+    "detective-novel",
+    "rationalism-vs-superstition",
+    "folklore",
+    "legacy",
+    "investigation"
   ]
 }

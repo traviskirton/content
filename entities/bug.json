@@ -50,12 +50,20 @@
     "personality_traits": "Energetic, loyal, eager",
     "origin": "Camorr"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "everyman"
+  },
   "tags": [
-    "fictional character",
-    "gentleman bastards",
+    "gentleman-bastards",
     "thief",
-    "fantasy",
     "youth",
-    "scout"
+    "scout",
+    "loyalty",
+    "agility",
+    "camorr",
+    "resourceful",
+    "quick-reflexes"
   ]
 }

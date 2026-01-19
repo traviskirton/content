@@ -41,13 +41,21 @@
     "location": "Edge of Dartmoor",
     "condition": "Modest and weathered"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "farmhouse",
-    "residence",
-    "neighbor",
+    "cottages",
     "rural",
     "mystery",
-    "fictional",
-    "literature"
+    "neighbor",
+    "literature",
+    "moorland",
+    "deception",
+    "isolated",
+    "stapletons",
+    "devon"
   ]
 }

@@ -38,11 +38,19 @@
     "importance": "Primary story setting",
     "climate": "Temperate maritime"
   },
+  "facets": {
+    "location-type": "region",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "geography",
-    "fictional story setting",
-    "English countryside",
-    "Sherlock Holmes",
-    "Victorian England"
+    "english-countryside",
+    "sherlock-holmes",
+    "victorian-england",
+    "gothic-horror",
+    "historic-estates",
+    "rural-atmosphere",
+    "moors",
+    "classic-mystery"
   ]
 }

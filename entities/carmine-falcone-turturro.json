@@ -55,10 +55,17 @@
     "occupation": "Crime Lord",
     "works_at": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "villain",
-    "crime lord",
-    "influential"
+    "crime-lord",
+    "influential",
+    "gotham",
+    "organized-crime",
+    "corruption",
+    "crime-family"
   ]
 }

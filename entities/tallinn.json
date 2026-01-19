@@ -39,11 +39,20 @@
     "type": "city",
     "founded": "Unknown"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "sci-fi",
     "futuristic",
     "heist",
-    "action"
+    "action",
+    "time-inversion",
+    "freeport",
+    "urban",
+    "maritime",
+    "tenet"
   ]
 }

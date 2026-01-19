@@ -53,12 +53,21 @@
     "born": "circa 1815",
     "portrayed_by": "Douglas Wilmer (1964 film), James O'Hara (BBC miniseries), Ed Stoppard (2002 film)"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
-    "supporting",
     "nobleman",
     "soldier",
-    "character from The Count of Monte Cristo",
-    "19th century",
-    "French"
+    "character-from-the-count-of-monte-cristo",
+    "19th-century",
+    "french",
+    "honor",
+    "loyalty",
+    "redemption",
+    "military-tactics",
+    "noble-ethics"
   ]
 }

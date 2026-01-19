@@ -40,9 +40,19 @@
     "fictional": true,
     "type": "dimension"
   },
+  "facets": {
+    "location-type": "dimension",
+    "reality": "fictional",
+    "scale": "universe"
+  },
   "tags": [
-    "dimension",
     "sci-fi",
-    "futuristic"
+    "futuristic",
+    "time-manipulation",
+    "fifth-dimension",
+    "advanced-beings",
+    "interstellar",
+    "gravity-anomaly",
+    "nonlinear-space"
   ]
 }

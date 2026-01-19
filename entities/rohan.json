@@ -51,14 +51,21 @@
     "terrain": "Grasslands, Plains",
     "alliance": "Gondor"
   },
+  "facets": {
+    "location-type": "realm",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "Middle-earth",
-    "Kingdom",
-    "Rohirrim",
-    "The Two Towers",
-    "War of the Ring",
-    "Fantasy",
-    "Horse-lords",
-    "Medieval"
+    "middle-earth",
+    "fantasy",
+    "rohirrim",
+    "two-towers",
+    "war-of-the-ring",
+    "horse-lords",
+    "medieval",
+    "edoras",
+    "helm-s-deep",
+    "gondor-ally"
   ]
 }

@@ -40,9 +40,20 @@
     "fictional": true,
     "type": "region"
   },
+  "facets": {
+    "location-type": "region",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
     "dream",
-    "sci-fi",
-    "futuristic"
+    "science-fiction",
+    "futuristic",
+    "surreal",
+    "psychological-space",
+    "shared-dream",
+    "inception-universe",
+    "urban-decay",
+    "dreamscape"
   ]
 }

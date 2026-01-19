@@ -40,13 +40,22 @@
       "Speculative Fiction"
     ]
   },
+  "facets": {
+    "profession": [
+      "author"
+    ],
+    "active-era": "20th century",
+    "nationality": "american-canadian"
+  },
   "tags": [
-    "author",
-    "science fiction",
     "cyberpunk",
+    "science-fiction",
+    "speculative-fiction",
     "literature",
-    "speculative fiction",
     "novelist",
-    "20th century"
+    "near-future",
+    "counterculture",
+    "cyberspace",
+    "post-industrial"
   ]
 }

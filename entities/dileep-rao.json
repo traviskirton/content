@@ -54,10 +54,15 @@
     ],
     "active_years": "2009-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "sci-fi",
-    "thriller",
-    "modern"
+    "thriller"
   ]
 }

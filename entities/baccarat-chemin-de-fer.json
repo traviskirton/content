@@ -52,13 +52,22 @@
     "stakes": "High",
     "role": "Central plot device in Casino Royale"
   },
+  "facets": {
+    "category": "card-game",
+    "setting": "casino",
+    "origin": "france",
+    "role": "plot-device",
+    "theme": "espionage"
+  },
   "tags": [
     "gambling",
-    "card game",
-    "casino",
-    "James Bond",
     "baccarat",
-    "Chemin de Fer",
-    "espionage"
+    "chemin-de-fer",
+    "james-bond",
+    "high-stakes",
+    "bluffing",
+    "strategy",
+    "green-baize",
+    "casino-royale"
   ]
 }

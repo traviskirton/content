@@ -51,10 +51,18 @@
     "occupation": "farmer",
     "portrayed_by": "John Lithgow"
   },
+  "facets": {
+    "role": "supporting",
+    "archetype": "mentor",
+    "morality": "neutral"
+  },
   "tags": [
-    "supporting",
-    "mentor",
     "family",
-    "farmer"
+    "farmer",
+    "practical",
+    "optimistic",
+    "resilient",
+    "john-lithgow",
+    "interstellar"
   ]
 }

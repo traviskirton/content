@@ -43,12 +43,20 @@
     "dangerous_elements": true,
     "occupant": "Dr. Grimesby Roylott"
   },
+  "facets": {
+    "location-type": "room",
+    "reality": "fictional",
+    "scale": "room"
+  },
   "tags": [
-    "fictional room",
     "mystery",
-    "murder weapon",
-    "Sherlock Holmes",
-    "Gothic",
-    "Victorian"
+    "murder-weapon",
+    "sherlock-holmes",
+    "gothic",
+    "victorian",
+    "secret-mechanism",
+    "west-wing",
+    "exotic-artifacts",
+    "hidden-trap"
   ]
 }

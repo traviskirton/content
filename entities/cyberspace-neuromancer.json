@@ -35,13 +35,20 @@
     "origin": "fictional cyberpunk universe",
     "represented_as": "3D interactive data construct"
   },
+  "facets": {
+    "location-type": "structure",
+    "reality": "fictional",
+    "scale": "universe"
+  },
   "tags": [
     "cyberspace",
-    "virtual reality",
+    "virtual-reality",
     "cyberpunk",
     "hacking",
     "technology",
     "neuromancer",
-    "fictional universe"
+    "fictional-universe",
+    "neural-interface",
+    "digital-landscape"
   ]
 }

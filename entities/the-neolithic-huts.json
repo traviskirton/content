@@ -37,13 +37,21 @@
     "structure_type": "Stone hut",
     "condition": "Ruined but identifiable"
   },
+  "facets": {
+    "location-type": "structure",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
     "archaeology",
     "ancient",
     "prehistoric",
     "ruins",
-    "Dartmoor",
+    "dartmoor",
     "landmark",
-    "historical"
+    "historical",
+    "stone-hut",
+    "granite",
+    "timeless"
   ]
 }

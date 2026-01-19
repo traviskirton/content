@@ -42,13 +42,18 @@
     "mechanism": "Poisoned blade concealed in shoe",
     "origin": "Fictional, James Bond series"
   },
+  "facets": {
+    "item-type": "weapon",
+    "origin": "fictional"
+  },
   "tags": [
-    "item",
-    "weapon",
-    "conspiracy",
-    "James Bond",
-    "SPECTRE",
-    "espionage gadget",
-    "assassination"
+    "assassination",
+    "espionage-gadget",
+    "james-bond",
+    "spectre",
+    "concealed-weapon",
+    "poison",
+    "spy-gadget",
+    "hidden-blade"
   ]
 }

@@ -36,10 +36,19 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
+    "batman",
+    "gotham-city",
+    "art-museum",
     "superhero",
     "1989",
-    "action"
+    "gothic-architecture",
+    "iconic-scene",
+    "vandalism"
   ]
 }

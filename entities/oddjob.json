@@ -46,12 +46,20 @@
     "role": "Henchman",
     "signature_weapon": "Steel-rimmed bowler hat"
   },
+  "facets": {
+    "role": "minor",
+    "morality": "neutral",
+    "archetype": "warrior"
+  },
   "tags": [
-    "henchman",
+    "bodyguard",
     "assassin",
-    "martial artist",
-    "James Bond villain",
-    "Cold War fiction",
-    "silent killer"
+    "martial-artist",
+    "james-bond-villain",
+    "cold-war-fiction",
+    "silent-killer",
+    "lethal-weapon",
+    "stealth",
+    "physical-strength"
   ]
 }

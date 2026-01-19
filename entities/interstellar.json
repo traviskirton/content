@@ -138,14 +138,29 @@
   "aliases": [
     "Interstellar: The IMAX Experience"
   ],
+  "facets": {
+    "genre": [
+      "sci-fi",
+      "adventure",
+      "drama"
+    ],
+    "era": "2010s",
+    "tone": [
+      "serious",
+      "atmospheric",
+      "philosophical"
+    ],
+    "rating": "teen"
+  },
   "tags": [
-    "sci-fi",
-    "2010s",
-    "adventure",
-    "drama",
     "space-exploration",
     "wormholes",
     "physics",
-    "christopher-nolan"
+    "christopher-nolan",
+    "black-holes",
+    "relativity",
+    "visual-effects",
+    "imax",
+    "ensemble-cast"
   ]
 }

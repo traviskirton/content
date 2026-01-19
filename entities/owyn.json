@@ -47,14 +47,21 @@
     "affiliation": "Rohirrim",
     "role": "Warrior/Noblewoman"
   },
+  "facets": {
+    "role": "deuteragonist",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
-    "female warrior",
+    "female-warrior",
     "rohirrim",
     "noble",
     "shieldmaiden",
     "middle-earth",
-    "fantasy",
     "courage",
-    "defiance"
+    "defiance",
+    "norse-inspired",
+    "medieval-fantasy",
+    "battle-hardened"
   ]
 }

@@ -43,14 +43,28 @@
     "series": "Sprawl Trilogy",
     "pages": 320
   },
+  "facets": {
+    "genre": [
+      "cyberpunk",
+      "sci-fi"
+    ],
+    "era": "1980s",
+    "tone": [
+      "dark",
+      "atmospheric",
+      "philosophical"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "cyberpunk",
-    "science fiction",
-    "novel",
-    "William Gibson",
-    "Sprawl Trilogy",
+    "william-gibson",
+    "sprawl-trilogy",
     "cyberspace",
-    "artificial intelligence",
-    "technology"
+    "artificial-intelligence",
+    "technology",
+    "identity",
+    "corporate-power",
+    "digital-culture",
+    "hacker"
   ]
 }

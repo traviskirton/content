@@ -55,11 +55,20 @@
     ],
     "active_years": "2004-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "producer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "producer",
     "drama",
-    "modern",
-    "sci-fi"
+    "sci-fi",
+    "versatile",
+    "award-nominated",
+    "character-driven",
+    "female-lead"
   ]
 }

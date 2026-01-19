@@ -48,13 +48,21 @@
     "allegiance": "Sauron",
     "status": "Undead Wraith"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
     "middle-earth",
-    "lord of the rings",
-    "antagonist",
+    "lord-of-the-rings",
     "nazgûl",
     "sauron",
     "fantasy",
-    "undead"
+    "undead",
+    "dark-lord",
+    "war-of-the-ring",
+    "evil",
+    "wraith"
   ]
 }

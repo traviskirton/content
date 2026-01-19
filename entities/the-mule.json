@@ -50,13 +50,20 @@
     "role": "Primary antagonist",
     "impact": "Disruptor of Seldon Plan"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "Antagonist",
-    "Mutant",
-    "Psychic Powers",
-    "Galactic Empire",
-    "Conqueror",
-    "Science Fiction",
-    "Psychohistory"
+    "mutant",
+    "psychic-powers",
+    "galactic-empire",
+    "conqueror",
+    "psychohistory",
+    "charismatic",
+    "manipulation",
+    "mind-control",
+    "psychological"
   ]
 }

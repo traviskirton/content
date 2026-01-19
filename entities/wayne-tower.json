@@ -46,10 +46,19 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "superhero",
     "futuristic",
-    "gotham_city"
+    "gotham-city",
+    "art-deco",
+    "wayne-enterprises",
+    "corporate-headquarters",
+    "urban-icon",
+    "dark-knight-trilogy"
   ]
 }

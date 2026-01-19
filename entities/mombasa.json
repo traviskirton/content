@@ -32,10 +32,19 @@
     "fictional": true,
     "type": "city"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "sci-fi",
     "thriller",
-    "futuristic"
+    "futuristic",
+    "dense-urban",
+    "narrow-alleyways",
+    "high-speed-chase",
+    "clandestine-deals",
+    "illicit-activity"
   ]
 }

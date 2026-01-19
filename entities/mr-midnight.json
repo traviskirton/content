@@ -38,12 +38,19 @@
     "film": "Goldfinger",
     "role": "minor_antagonist"
   },
+  "facets": {
+    "role": "minor",
+    "morality": "villainous",
+    "archetype": "henchman"
+  },
   "tags": [
-    "James Bond",
-    "Goldfinger",
-    "henchman",
-    "villain_support",
+    "james-bond",
+    "goldfinger",
     "espionage",
-    "1960s"
+    "1960s",
+    "criminal-operative",
+    "covert-operations",
+    "physical-intimidation",
+    "surveillance"
   ]
 }

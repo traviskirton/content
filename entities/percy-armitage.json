@@ -54,12 +54,18 @@
     "role_importance": "Supporting",
     "time_period": "Late 19th century"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "everyman"
+  },
   "tags": [
-    "supporting character",
     "lawyer",
-    "Sherlock Holmes",
+    "sherlock-holmes",
     "legal",
-    "Victorian era",
-    "family"
+    "victorian",
+    "family",
+    "property-law",
+    "estate-law"
   ]
 }

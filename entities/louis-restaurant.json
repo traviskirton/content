@@ -42,12 +42,20 @@
     "location_city": "New York",
     "time_period": "1940s-1950s"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "location",
-    "The Godfather",
+    "the-godfather",
     "restaurant",
-    "Italian-American",
-    "social_space",
-    "mafia"
+    "italian-american",
+    "social-space",
+    "mafia",
+    "italian-cuisine",
+    "mid-20th-century",
+    "private-booths",
+    "organized-crime"
   ]
 }

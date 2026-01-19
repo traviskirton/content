@@ -39,13 +39,24 @@
     "reputation": "secretive, powerful, corrupt",
     "family_control": true
   },
+  "facets": {
+    "organization-type": "megacorporation",
+    "industry": [
+      "technology",
+      "cybernetics",
+      "artificial-intelligence"
+    ],
+    "reality": "fictional",
+    "notable-universe": "neuromancer"
+  },
   "tags": [
-    "megacorporation",
-    "ai",
     "cyberpunk",
-    "technology",
-    "neuromancer",
-    "fictional organization",
-    "cyberspace"
+    "ai",
+    "cyberspace",
+    "secretive",
+    "powerful",
+    "corrupt",
+    "villa-straylight",
+    "family-control"
   ]
 }

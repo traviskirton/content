@@ -64,10 +64,22 @@
     ],
     "active_years": "1976-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "author"
+    ],
+    "active-era": "2000s",
+    "nationality": "canadian-american"
+  },
   "tags": [
-    "actor",
     "comedy",
     "sci-fi",
-    "modern"
+    "advocate",
+    "back-to-the-future",
+    "time-travel",
+    "parkinsons-research",
+    "sitcom",
+    "emmy-winner"
   ]
 }

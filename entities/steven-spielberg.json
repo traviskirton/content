@@ -56,14 +56,25 @@
     ],
     "active_years": "1971-present"
   },
+  "facets": {
+    "profession": [
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active-era": "1970s",
+    "nationality": "american"
+  },
   "tags": [
-    "director",
-    "producer",
-    "writer",
     "sci-fi",
     "adventure",
     "drama",
     "new-hollywood",
-    "modern"
+    "blockbuster",
+    "filmmaking-innovator",
+    "family-friendly",
+    "john-williams",
+    "indiana-jones",
+    "classic-cinema"
   ]
 }

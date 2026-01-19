@@ -40,10 +40,21 @@
     "fictional": true,
     "type": "city"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "drama",
-    "period_fiction",
-    "19th_century"
+    "period-fiction",
+    "19th-century",
+    "fog-laden-streets",
+    "gas-lit-roads",
+    "grand-theaters",
+    "magic",
+    "victorian-era",
+    "mystery",
+    "illusion"
   ]
 }

@@ -56,14 +56,19 @@
     "weapon": "Andúril",
     "role": "Ranger, leader"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
-    "Human",
-    "Ranger",
-    "Fellowship of the Ring",
-    "Heir of Isildur",
-    "King",
-    "Leader",
-    "Warrior",
-    "Middle-earth"
+    "human",
+    "ranger",
+    "leader",
+    "heir-of-isildur",
+    "fellowship-of-the-ring",
+    "middle-earth",
+    "king",
+    "strider"
   ]
 }

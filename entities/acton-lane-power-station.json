@@ -44,9 +44,20 @@
       "long": -0.2525
     }
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "location type: power station",
-    "status: demolished",
-    "accessibility: private"
+    "power-station",
+    "demolished",
+    "private-access",
+    "filming-location",
+    "london",
+    "industrial",
+    "urban-decay",
+    "batman",
+    "tim-burton"
   ]
 }

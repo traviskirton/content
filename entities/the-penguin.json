@@ -55,11 +55,20 @@
     "occupation": "Criminal mastermind",
     "portrayed_by": "Danny DeVito"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "villain",
     "manipulative",
     "strategist",
-    "deformed"
+    "deformed",
+    "gotham",
+    "umbrella-weapons",
+    "criminal-mastermind",
+    "vengeance",
+    "outsider",
+    "aristocracy-rejection"
   ]
 }

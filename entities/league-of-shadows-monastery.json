@@ -44,12 +44,19 @@
     "type": "building",
     "founded": "unknown"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
-    "fantasy",
-    "mystery",
+    "martial-arts",
+    "secretive",
     "ancient",
-    "martial arts",
-    "secretive"
+    "mystery",
+    "clandestine",
+    "mountain-retreat",
+    "himalayas",
+    "training-ground"
   ]
 }

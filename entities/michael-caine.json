@@ -84,12 +84,17 @@
     ],
     "active_years": "1953-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "author"
+    ],
+    "active-era": "mid-century",
+    "nationality": "british"
+  },
   "tags": [
-    "actor",
     "drama",
-    "sci-fi",
     "classic-hollywood",
-    "modern",
     "the-batman-reeves"
   ]
 }

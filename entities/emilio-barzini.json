@@ -47,14 +47,21 @@
     "status": "Deceased",
     "notable_event": "Mafia War against Corleones"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
     "mafia",
-    "antagonist",
-    "crime_family",
+    "crime-family",
     "rival",
-    "The Godfather",
-    "organized_crime",
-    "fictional_character",
-    "1950s"
+    "the-godfather",
+    "organized-crime",
+    "fictional-character",
+    "1950s",
+    "new-york",
+    "crime-lord",
+    "strategist"
   ]
 }

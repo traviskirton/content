@@ -53,13 +53,20 @@
     "notable_features": "The River Ankh, guilds, Unseen University",
     "culture": "Diverse, chaotic, pragmatic"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "City",
-    "Ankh-Morpork",
-    "Discworld",
-    "Urban fantasy",
-    "Terry Pratchett",
-    "Magic",
-    "Politics"
+    "discworld",
+    "urban-fantasy",
+    "magic",
+    "politics",
+    "terry-pratchett",
+    "guilds",
+    "corruption",
+    "chaotic-city",
+    "fantasy-city"
   ]
 }

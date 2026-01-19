@@ -49,10 +49,19 @@
       "longitude": -118.2437
     }
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "active",
     "public",
-    "tours-available"
+    "tours-available",
+    "entertainment-capital",
+    "hollywood",
+    "film-industry",
+    "southern-california",
+    "major-city"
   ]
 }

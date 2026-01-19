@@ -43,11 +43,18 @@
       "longitude": 12.56738
     }
   },
+  "facets": {
+    "location-type": "country",
+    "reality": "real",
+    "scale": "country"
+  },
   "tags": [
-    "country",
-    "film location",
-    "public",
+    "film-location",
     "tourism",
-    "historic"
+    "historic",
+    "southern-europe",
+    "landscapes",
+    "architecture",
+    "international-films"
   ]
 }

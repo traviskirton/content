@@ -52,13 +52,22 @@
       "Screenwriter"
     ]
   },
+  "facets": {
+    "profession": [
+      "author",
+      "screenwriter"
+    ],
+    "active-era": "20th century",
+    "nationality": "american"
+  },
   "tags": [
-    "author",
-    "screenwriter",
     "novelist",
-    "Italian-American",
-    "crime fiction",
-    "20th century",
-    "literature"
+    "italian-american",
+    "crime-fiction",
+    "literature",
+    "mafia",
+    "organized-crime",
+    "screenwriting",
+    "epic-storytelling"
   ]
 }

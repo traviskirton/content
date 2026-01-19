@@ -39,13 +39,21 @@
     "role": "Key Setting",
     "capacity": "Large (multiple suites and rooms)"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "Hotel",
-    "Luxury",
-    "Cinema Setting",
-    "Espionage",
-    "Royale-les-Eaux",
-    "James Bond",
-    "1950s"
+    "luxury",
+    "cinema-setting",
+    "espionage",
+    "royale-les-eaux",
+    "james-bond",
+    "1950s",
+    "french-riviera",
+    "grand-hotel",
+    "cold-war",
+    "european-elite"
   ]
 }

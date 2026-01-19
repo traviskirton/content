@@ -39,13 +39,17 @@
     "usage_context": "Influence and intimidation",
     "cultural_impact": "High"
   },
+  "facets": {},
   "tags": [
-    "mafia_tactic",
-    "cultural_phrase",
+    "mafia-tactic",
+    "cultural-phrase",
     "negotiation",
     "power",
-    "The Godfather",
-    "film_quote",
-    "organized_crime"
+    "godfather",
+    "film-quote",
+    "organized-crime",
+    "corleone-family",
+    "influence",
+    "intimidation"
   ]
 }

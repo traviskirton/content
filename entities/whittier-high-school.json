@@ -54,10 +54,19 @@
       "long": -118.0342
     }
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "school",
-    "active",
     "public",
-    "tours-available"
+    "active",
+    "school",
+    "film-location",
+    "tours-available",
+    "classic-architecture",
+    "american-high-school",
+    "back-to-the-future"
   ]
 }

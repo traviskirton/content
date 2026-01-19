@@ -49,10 +49,20 @@
     "population": "varies",
     "founded": "unknown"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "nightclub",
     "underground",
     "crime",
-    "Gotham City"
+    "gotham-city",
+    "noir",
+    "secret-location",
+    "club",
+    "organized-crime",
+    "atmospheric",
+    "crime-ridden"
   ]
 }

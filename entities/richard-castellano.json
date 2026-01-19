@@ -45,13 +45,22 @@
     "nationality": "American",
     "notable_role": "Peter Clemenza"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "1970s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "The Godfather",
+    "the-godfather",
     "mafia",
-    "American cinema",
-    "Italian-American",
+    "italian-american",
     "gangster",
-    "1970s film"
+    "american-cinema",
+    "1970s-film",
+    "character-actor",
+    "mobster",
+    "cult-classic"
   ]
 }

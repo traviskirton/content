@@ -56,11 +56,19 @@
     "works_at": "Shreck's Department Store",
     "member_of": "Gotham's elite"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "villain",
-    "businessman",
     "manipulative",
-    "wealthy"
+    "wealthy",
+    "corrupt",
+    "gotham",
+    "businessman",
+    "political-influence",
+    "ruthless",
+    "power-hungry"
   ]
 }

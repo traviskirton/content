@@ -40,14 +40,21 @@
     "owner": "Michael Corleone",
     "style": "Luxurious mansion with lakeside and woodland surroundings"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building",
+    "era": "1950s"
+  },
   "tags": [
-    "The Godfather Part II",
-    "location",
+    "the-godfather-part-ii",
     "estate",
-    "Mafia",
-    "1950s",
-    "California",
-    "Michael Corleone",
-    "dramatic setting"
+    "mafia",
+    "california",
+    "michael-corleone",
+    "dramatic-setting",
+    "private-retreat",
+    "organized-crime",
+    "crime-family"
   ]
 }

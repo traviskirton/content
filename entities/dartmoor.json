@@ -53,14 +53,21 @@
     "terrain_type": "Moorland",
     "climate": "Temperate oceanic with frequent fog"
   },
+  "facets": {
+    "location-type": "region",
+    "reality": "real",
+    "scale": "region"
+  },
   "tags": [
     "moorland",
-    "Devon",
+    "devon",
     "wildlife",
-    "setting",
     "gothic",
-    "landscape",
     "folklore",
-    "literature"
+    "literature",
+    "atmospheric",
+    "rugged-landscape",
+    "haunting",
+    "natural-hazards"
   ]
 }

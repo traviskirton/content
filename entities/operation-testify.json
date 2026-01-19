@@ -42,12 +42,21 @@
     "period": "Cold War",
     "primary_agent": "@@George Smiley@@"
   },
+  "facets": {
+    "operation-type": "counterintelligence",
+    "era": "cold-war",
+    "focus": "espionage",
+    "nationality": "british"
+  },
   "tags": [
-    "Espionage",
-    "Operation",
-    "Counterintelligence",
-    "Cold War",
-    "Mole Hunt",
-    "British Intelligence"
+    "mole-hunt",
+    "british-intelligence",
+    "spycraft",
+    "internal-security",
+    "clandestine",
+    "covert-operation",
+    "counterespionage",
+    "double-agents",
+    "psychological-profiling"
   ]
 }

@@ -46,10 +46,21 @@
       "longitude": -0.1425
     }
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "location",
-    "preserved",
-    "tours-available",
-    "public"
+    "battersea",
+    "power-station",
+    "iconic",
+    "art-deco",
+    "industrial-heritage",
+    "redevelopment",
+    "mixed-use",
+    "filming-location",
+    "public-access",
+    "tours-available"
   ]
 }

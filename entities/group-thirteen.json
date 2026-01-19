@@ -48,13 +48,20 @@
     "operational_secrecy": "Extreme",
     "notable_operations": "Counterintelligence, mole hunting"
   },
+  "facets": {
+    "category": "secret-intelligence-division",
+    "era": "cold-war",
+    "nationality": "british"
+  },
   "tags": [
     "intelligence",
-    "Cold War",
     "espionage",
-    "British intelligence",
-    "covert operations",
-    "Smiley's People",
-    "secret group"
+    "covert-operations",
+    "smileys-people",
+    "secret-group",
+    "counterintelligence",
+    "mole-hunting",
+    "clandestine",
+    "spycraft"
   ]
 }

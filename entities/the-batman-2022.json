@@ -110,15 +110,28 @@
     "box_office": 770000000,
     "rating": "PG-13"
   },
+  "facets": {
+    "genre": [
+      "action",
+      "crime",
+      "drama"
+    ],
+    "era": "2020s",
+    "tone": [
+      "dark",
+      "noir",
+      "serious"
+    ],
+    "rating": "teen"
+  },
   "tags": [
-    "Action",
-    "Crime",
-    "Drama",
-    "2020s",
-    "Detective",
-    "Noir",
-    "Superhero",
+    "detective",
+    "superhero",
     "matt-reeves",
-    "the-batman-reeves"
+    "the-batman-reeves",
+    "gotham",
+    "crime-drama",
+    "urban-noir",
+    "vigilante"
   ]
 }

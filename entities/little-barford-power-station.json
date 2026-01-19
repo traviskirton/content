@@ -39,11 +39,19 @@
       "longitude": -0.2751
     }
   },
+  "facets": {
+    "location-type": "structure",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
     "industrial",
     "decommissioned",
     "private",
-    "England",
-    "power station"
+    "england",
+    "power-plant",
+    "energy-infrastructure",
+    "cambridgeshire",
+    "british-industry"
   ]
 }

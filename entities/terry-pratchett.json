@@ -50,14 +50,23 @@
     "nationality": "British",
     "genre": "Fantasy, Satire"
   },
+  "facets": {
+    "profession": [
+      "author",
+      "writer"
+    ],
+    "active-era": "mid-century",
+    "nationality": "british"
+  },
   "tags": [
-    "author",
     "fantasy",
     "satire",
     "literature",
     "novelist",
-    "british",
     "discworld",
-    "humor"
+    "humor",
+    "social-commentary",
+    "comedic-fantasy",
+    "british-literature"
   ]
 }

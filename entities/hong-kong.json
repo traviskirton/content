@@ -52,9 +52,20 @@
       "long": 114.1694
     }
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "active",
-    "public"
+    "public",
+    "skyline",
+    "harbor",
+    "finance",
+    "trade",
+    "filming-location",
+    "urban",
+    "metropolis"
   ]
 }

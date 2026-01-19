@@ -52,11 +52,19 @@
       "target": "3c6350b1-f92d-4f6a-a7e7-e82f61c57b13"
     }
   ],
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "supporting",
     "noblewoman",
     "loyal",
     "tragic",
-    "romantic_interest"
+    "romantic-interest",
+    "emotional-resilience",
+    "maternal-love",
+    "compassion",
+    "social-poise"
   ]
 }

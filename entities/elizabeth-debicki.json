@@ -66,11 +66,22 @@
     ],
     "active_years": "2010-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "2010s",
+    "nationality": "australian"
+  },
   "tags": [
-    "actor",
     "drama",
     "thriller",
-    "modern",
-    "sci-fi"
+    "sci-fi",
+    "the-night-manager",
+    "the-crown",
+    "heist",
+    "versatile",
+    "nuanced-acting",
+    "melbourne"
   ]
 }

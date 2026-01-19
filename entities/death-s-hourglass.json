@@ -39,14 +39,24 @@
     "power_level": "vast",
     "origin": "ancient"
   },
+  "facets": {
+    "type": "artifact",
+    "origin-era": "ancient",
+    "themes": [
+      "time",
+      "death",
+      "fate",
+      "mortality"
+    ]
+  },
   "tags": [
     "discworld",
-    "item",
-    "time",
-    "death",
-    "artifact",
     "magic",
     "fantasy",
-    "symbol"
+    "symbol",
+    "temporal-magic",
+    "cosmology",
+    "universal-balance",
+    "mystical-device"
   ]
 }

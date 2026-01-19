@@ -54,10 +54,28 @@
       "Joel Schumacher"
     ]
   },
+  "facets": {
+    "era": "1990s",
+    "tone": [
+      "dark",
+      "gothic"
+    ],
+    "genre": [
+      "superhero",
+      "action",
+      "fantasy",
+      "drama"
+    ]
+  },
   "tags": [
-    "superhero",
     "film-series",
-    "gothic",
-    "classic-era"
+    "burton",
+    "schumacher",
+    "campy",
+    "batman",
+    "dc-universe",
+    "late-20th-century",
+    "blockbuster",
+    "gotham"
   ]
 }

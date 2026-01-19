@@ -66,12 +66,21 @@
     "born": "circa 1815",
     "died": null
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "avenger"
+  },
   "tags": [
-    "protagonist",
-    "hero",
-    "avenger",
-    "historical fiction",
-    "19th century",
-    "French literature"
+    "historical-fiction",
+    "19th-century",
+    "french-literature",
+    "betrayal",
+    "justice",
+    "revenge",
+    "redemption",
+    "forgiveness",
+    "strategic-thinker",
+    "disguise"
   ]
 }

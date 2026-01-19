@@ -42,11 +42,18 @@
       "long": -0.4649
     }
   },
+  "facets": {
+    "location-type": "region",
+    "reality": "real",
+    "scale": "region"
+  },
   "tags": [
-    "location",
-    "active",
     "public",
-    "county",
-    "tours-available"
+    "active",
+    "tours-available",
+    "film-location",
+    "scenic-countryside",
+    "historic-landmarks",
+    "charming-towns"
   ]
 }

@@ -41,9 +41,18 @@
     "born": "1901",
     "portrayed_by": "Josh Hartnett"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "sage"
+  },
   "tags": [
-    "supporting",
+    "physicist",
+    "manhattan-project",
+    "collaborator",
     "scientist",
-    "collaborator"
+    "atomic-bomb",
+    "cyclotron",
+    "historical-figure"
   ]
 }

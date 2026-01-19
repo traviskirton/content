@@ -39,10 +39,18 @@
     "fictional": true,
     "type": "shopping mall"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
-    "sci-fi",
-    "1985",
-    "shopping mall"
+    "shopping-mall",
+    "hill-valley",
+    "back-to-the-future",
+    "time-travel",
+    "1980s",
+    "iconic-location",
+    "movie-location"
   ]
 }

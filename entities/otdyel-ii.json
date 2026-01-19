@@ -42,12 +42,23 @@
     "specialization": "Cryptography and Espionage",
     "affiliation": "KGB"
   },
+  "facets": {
+    "type": "organization",
+    "era": "cold-war",
+    "specialization": [
+      "cryptography",
+      "espionage"
+    ],
+    "affiliation": "kgb"
+  },
   "tags": [
-    "organization",
-    "espionage",
-    "Cold War",
-    "Soviet Union",
-    "cryptography",
-    "intelligence agency"
+    "soviet-union",
+    "intelligence-agency",
+    "covert-operations",
+    "counter-intelligence",
+    "sabotage",
+    "spy-games",
+    "cryptology",
+    "kgb-affiliate"
   ]
 }

@@ -50,13 +50,21 @@
     "role": "Supporting protagonist",
     "alignment": "Pro-Foundation"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "everyman"
+  },
   "tags": [
-    "Foundation",
-    "Trader",
-    "Ally",
-    "Resistance",
-    "Science Fiction",
-    "Role Player",
-    "Psychohistory"
+    "foundation",
+    "trader",
+    "ally",
+    "resistance",
+    "science-fiction",
+    "psychohistory",
+    "political-intrigue",
+    "clandestine-operations",
+    "diplomacy",
+    "strategic-maneuvering"
   ]
 }

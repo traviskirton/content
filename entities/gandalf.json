@@ -56,13 +56,22 @@
     "weapon": "Staff, Glamdring",
     "affiliation": "Istari"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "Wizard",
-    "Fellowship of the Ring",
-    "Maia",
-    "Middle-earth",
-    "Mentor",
-    "Magic",
-    "Leader"
+    "wizard",
+    "middle-earth",
+    "fellowship-of-the-ring",
+    "magic",
+    "leader",
+    "maia",
+    "istari",
+    "fire-magic",
+    "prophecy",
+    "staff",
+    "glamdring"
   ]
 }

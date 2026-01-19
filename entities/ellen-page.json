@@ -55,11 +55,21 @@
     ],
     "active_years": "1997-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "producer"
+    ],
+    "active-era": "2000s",
+    "nationality": "canadian"
+  },
   "tags": [
-    "actor",
-    "producer",
     "drama",
     "sci-fi",
-    "modern"
+    "lgbtq-advocate",
+    "academy-award-nominee",
+    "indie-cinema",
+    "modern-classic",
+    "diverse-roles"
   ]
 }

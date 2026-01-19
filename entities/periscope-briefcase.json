@@ -45,14 +45,15 @@
     "origin": "Q Branch",
     "usage": "Espionage and self-defense"
   },
+  "facets": {},
   "tags": [
-    "James Bond",
-    "Espionage gadget",
-    "Periscope",
-    "Briefcase",
-    "Spy technology",
-    "Cold War",
-    "Q Branch",
-    "From Russia with Love"
+    "james-bond",
+    "espionage-gadget",
+    "periscope",
+    "briefcase",
+    "spy-technology",
+    "cold-war",
+    "q-branch",
+    "from-russia-with-love"
   ]
 }

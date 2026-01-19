@@ -52,10 +52,16 @@
     ],
     "active_years": "1994-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "producer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "producer",
-    "modern",
+    "singer",
     "drama",
     "thriller",
     "sci-fi",

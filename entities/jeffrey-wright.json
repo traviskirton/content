@@ -58,9 +58,22 @@
     ],
     "active_years": "1990-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "modern",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "drama",
-    "modern"
+    "film",
+    "television",
+    "theater",
+    "versatile",
+    "tony-award-winner",
+    "golden-globe-nominee",
+    "broadway",
+    "character-actor"
   ]
 }

@@ -52,14 +52,19 @@
       "racketeering"
     ]
   },
+  "facets": {
+    "organization-type": "crime family",
+    "location": "new-york-city"
+  },
   "tags": [
-    "organization",
-    "Mafia",
-    "The Godfather",
-    "crime family",
-    "organized crime",
-    "Barzini",
-    "New York",
-    "the-five-families"
+    "mafia",
+    "the-godfather",
+    "barzini",
+    "new-york",
+    "the-five-families",
+    "organized-crime",
+    "racketeering",
+    "loan-sharking",
+    "illegal-gambling"
   ]
 }

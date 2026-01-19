@@ -54,14 +54,20 @@
       "Coronation of Aragorn"
     ]
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
     "middle-earth",
     "gondor",
-    "city",
     "fantasy",
     "fortress",
     "war",
+    "epic-battle",
     "setting",
-    "epic battle"
+    "castle",
+    "citadel"
   ]
 }

@@ -45,9 +45,18 @@
     "occupation": "Deputy Commissioner",
     "portrayed_by": "Matthew Modine"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "ruler"
+  },
   "tags": [
-    "supporting",
-    "police officer",
-    "ambitious"
+    "police-officer",
+    "ambitious",
+    "gotham",
+    "law-enforcement",
+    "sacrificial",
+    "dark-knight-rises",
+    "matthew-modine"
   ]
 }

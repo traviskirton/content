@@ -46,12 +46,20 @@
     "role": "Field Operations Officer",
     "experience": "Veteran"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "everyman"
+  },
   "tags": [
-    "Cold War",
-    "Spy",
-    "Covert Operations",
-    "MI6",
-    "Sacrifice",
-    "Espionage Drama"
+    "cold-war",
+    "spy",
+    "covert-operations",
+    "mi6",
+    "sacrifice",
+    "espionage-drama",
+    "betrayal",
+    "field-operations",
+    "veteran"
   ]
 }

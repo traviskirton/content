@@ -45,11 +45,20 @@
     "nationality": "Soviet",
     "specialization": "Counterintelligence"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "Cold War",
-    "Soviet Spy",
-    "Moscow Centre",
-    "Espionage",
-    "Thriller"
+    "cold-war",
+    "soviet-spy",
+    "moscow-centre",
+    "espionage",
+    "thriller",
+    "intelligence",
+    "counterintelligence",
+    "covert-operations",
+    "political-intrigue"
   ]
 }

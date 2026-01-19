@@ -54,14 +54,21 @@
     "weapon": "Bow and arrows",
     "title": "King"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "Middle-earth",
-    "Elf",
-    "Noble",
-    "Archer",
-    "King",
-    "Fantasy",
-    "Mirkwood",
-    "The Hobbit"
+    "middle-earth",
+    "elf",
+    "noble",
+    "archer",
+    "king",
+    "mirkwood",
+    "the-hobbit",
+    "high-elf",
+    "woodland-realm",
+    "elven-magic"
   ]
 }

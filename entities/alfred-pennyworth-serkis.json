@@ -51,10 +51,19 @@
     "occupation": "butler",
     "portrayed_by": "Andy Serkis"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "mentor",
     "loyal",
-    "father-figure"
+    "father-figure",
+    "british-army",
+    "batman-universe",
+    "gotham",
+    "guardian",
+    "ally",
+    "protective"
   ]
 }

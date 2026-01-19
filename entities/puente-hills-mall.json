@@ -59,10 +59,21 @@
       "long": -117.9279
     }
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "location",
-    "mall",
+    "shopping-mall",
+    "public-access",
+    "retail-hub",
+    "film-location",
+    "back-to-the-future",
+    "california",
+    "suburban",
+    "cinema",
     "active",
-    "public"
+    "entertainment"
   ]
 }

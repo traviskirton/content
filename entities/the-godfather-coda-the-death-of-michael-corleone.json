@@ -54,15 +54,27 @@
     "language": "English",
     "country": "United States"
   },
+  "facets": {
+    "genre": [
+      "crime",
+      "drama"
+    ],
+    "era": "2020s",
+    "tone": [
+      "serious",
+      "dark"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "crime",
-    "drama",
     "mafia",
     "reedit",
-    "Francis Ford Coppola",
-    "Michael Corleone",
+    "michael-corleone",
     "restored",
     "sequel",
-    "francis-ford-coppola"
+    "francis-ford-coppola",
+    "crime-family",
+    "classic",
+    "american-cinema"
   ]
 }

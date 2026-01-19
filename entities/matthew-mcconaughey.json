@@ -61,11 +61,23 @@
     ],
     "active_years": "1991-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "producer",
+      "writer"
+    ],
+    "active-era": "1990s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "producer",
     "drama",
     "comedy",
-    "modern"
+    "academy-award-winner",
+    "romantic-comedy",
+    "interstellar",
+    "dazed-and-confused",
+    "dallas-buyers-club",
+    "coming-of-age"
   ]
 }

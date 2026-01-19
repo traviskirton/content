@@ -57,13 +57,25 @@
     ],
     "active_years": "1985-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active-era": "2000s",
+    "nationality": "british"
+  },
   "tags": [
-    "actor",
-    "director",
-    "producer",
-    "writer",
     "sci-fi",
     "fantasy",
-    "modern"
+    "motion-capture",
+    "performance-capture",
+    "blockbuster",
+    "character-actor",
+    "groundbreaking",
+    "english",
+    "theatre"
   ]
 }

@@ -50,11 +50,28 @@
     "year": "1989",
     "fictional": true
   },
+  "facets": {
+    "vehicle-type": "car",
+    "reality": "fictional",
+    "era": "1980s",
+    "genre": [
+      "action",
+      "crime-fighting"
+    ],
+    "theme": [
+      "superhero"
+    ]
+  },
   "tags": [
-    "car",
-    "action",
-    "crime-fighting",
-    "superhero",
-    "1980s"
+    "batmobile",
+    "noir",
+    "gotham",
+    "dark",
+    "jet-engine",
+    "armored",
+    "stealth",
+    "vigilante",
+    "customized",
+    "tim-burton"
   ]
 }

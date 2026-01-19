@@ -57,13 +57,23 @@
     ],
     "active_years": "1977-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director",
+      "writer",
+      "producer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "director",
-    "writer",
-    "producer",
-    "drama",
-    "comedy",
-    "modern"
+    "eccentric",
+    "quirky-roles",
+    "character-actor",
+    "avant-garde",
+    "independent-film",
+    "cult-classic",
+    "unique-style"
   ]
 }

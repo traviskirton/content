@@ -36,9 +36,19 @@
     "fictional": true,
     "type": "city"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "sci-fi",
-    "futuristic"
+    "futuristic",
+    "action-sequences",
+    "urban",
+    "architecture",
+    "espionage",
+    "time-manipulation",
+    "tenet-universe"
   ]
 }

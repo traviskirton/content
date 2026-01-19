@@ -49,13 +49,21 @@
     "allegiance": "Morgoth (former), Self",
     "goal": "Conquer Middle-earth"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "Dark Lord",
-    "Middle-earth",
-    "Evil",
-    "Power",
-    "Corruption",
-    "Rings of Power",
-    "Antagonist"
+    "middle-earth",
+    "dark-lord",
+    "evil",
+    "power",
+    "corruption",
+    "rings-of-power",
+    "lord-of-the-rings",
+    "dark-sorcery",
+    "nazgûl",
+    "shadow"
   ]
 }

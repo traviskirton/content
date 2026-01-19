@@ -48,13 +48,21 @@
     "population": "Primarily Men (Humans)",
     "language": "Westron (Common Speech), Sindarin influences"
   },
+  "facets": {
+    "realm": "fantasy",
+    "scale": "kingdom",
+    "affiliation": "middle-earth",
+    "culture": "numenorean"
+  },
   "tags": [
-    "Middle-earth",
-    "Kingdom",
-    "Fantasy",
-    "Men",
-    "Gondor",
-    "Númenórean",
-    "The Lord of the Rings"
+    "middle-earth",
+    "fantasy",
+    "kingdom",
+    "men",
+    "numenorean",
+    "lord-of-the-rings",
+    "endurance",
+    "human-valor",
+    "stewardship"
   ]
 }

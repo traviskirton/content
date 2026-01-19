@@ -39,14 +39,20 @@
     "type": "Ancient Forest",
     "notable_residents": "Treebeard"
   },
+  "facets": {
+    "location-type": "landscape",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "Middle-earth",
-    "Forest",
-    "Ents",
-    "The Two Towers",
-    "Ancient",
-    "Fantasy",
-    "War of the Ring",
-    "Environment"
+    "middle-earth",
+    "entwood",
+    "fantasy",
+    "the-two-towers",
+    "war-of-the-ring",
+    "environment",
+    "ancient-forest",
+    "ent-guardians",
+    "natural-wonders"
   ]
 }

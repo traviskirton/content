@@ -139,13 +139,28 @@
     "box_office": 363000000,
     "rating": "PG-13"
   },
+  "facets": {
+    "genre": [
+      "sci-fi",
+      "action",
+      "thriller"
+    ],
+    "era": "2020s",
+    "tone": [
+      "cerebral",
+      "suspenseful",
+      "action-driven"
+    ],
+    "rating": "teen"
+  },
   "tags": [
-    "sci-fi",
-    "action",
-    "thriller",
-    "2020s",
-    "time-travel",
+    "time-inversion",
     "blockbuster",
-    "christopher-nolan"
+    "christopher-nolan",
+    "practical-effects",
+    "mind-bending",
+    "espionage",
+    "global-intrigue",
+    "time-travel"
   ]
 }

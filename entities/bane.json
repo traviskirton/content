@@ -56,10 +56,19 @@
     "occupation": "mercenary",
     "portrayed_by": "Tom Hardy"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "villain",
     "strategist",
-    "mercenary"
+    "mercenary",
+    "physical-power",
+    "mask",
+    "league-of-shadows",
+    "gotham",
+    "tactical",
+    "batman-villain"
   ]
 }

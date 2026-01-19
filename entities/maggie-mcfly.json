@@ -48,9 +48,19 @@
     "born": "circa 1850s",
     "portrayed_by": "Lea Thompson"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "supporting",
     "ancestor",
-    "family"
+    "family",
+    "hill-valley",
+    "frontier-life",
+    "irish-immigrant",
+    "homemaker",
+    "back-to-the-future-iii",
+    "lea-thompson"
   ]
 }

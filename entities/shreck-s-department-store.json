@@ -42,11 +42,18 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
-    "fiction",
-    "Gotham City",
-    "Christmas",
-    "Burton/Schumacher Batman Films"
+    "gotham-city",
+    "christmas",
+    "burton-schumacher-batman-films",
+    "luxury",
+    "department-store",
+    "fictional-location",
+    "urban-landmark"
   ]
 }

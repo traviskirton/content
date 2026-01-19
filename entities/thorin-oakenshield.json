@@ -50,14 +50,20 @@
     "weapon": "Orcrist",
     "role": "Leader of the Company"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "ruler"
+  },
   "tags": [
     "dwarf",
     "leader",
     "fantasy",
     "middle-earth",
-    "hero",
     "prince",
     "king",
-    "orcslayer"
+    "orcslayer",
+    "quest-leader",
+    "lonely-mountain"
   ]
 }

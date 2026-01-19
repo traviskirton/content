@@ -36,14 +36,21 @@
     "location": "Las Vegas",
     "status": "Deceased"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "Las Vegas",
+    "las-vegas",
     "casino",
-    "The Godfather",
     "mafia",
-    "organized crime",
-    "film character",
-    "power struggle",
-    "1950s"
+    "organized-crime",
+    "the-godfather",
+    "power-struggle",
+    "1950s",
+    "crime-drama",
+    "mobster",
+    "film-character"
   ]
 }

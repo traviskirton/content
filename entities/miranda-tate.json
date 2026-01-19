@@ -52,9 +52,18 @@
     "member_of": "League of Shadows",
     "associated_with": "Wayne Enterprises"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "villain",
-    "League of Shadows"
+    "league-of-shadows",
+    "philanthropist",
+    "wayne-enterprises",
+    "legacy",
+    "revenge",
+    "gotham",
+    "talia-al-ghul"
   ]
 }

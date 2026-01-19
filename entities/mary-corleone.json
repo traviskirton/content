@@ -54,13 +54,20 @@
     "portrayed_by": "Sofia Coppola",
     "appearance_year": 1990
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "innocent"
+  },
   "tags": [
-    "The Godfather Part III",
-    "Corleone Family",
-    "female character",
-    "family drama",
+    "the-godfather-part-iii",
+    "corleone-family",
+    "family-drama",
     "mafia",
     "tragedy",
-    "romance"
+    "romance",
+    "childhood-loss",
+    "emotional-center",
+    "organized-crime"
   ]
 }

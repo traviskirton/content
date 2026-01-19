@@ -48,14 +48,20 @@
     "timeframe": "10,000+ years",
     "predictive_accuracy": "Probabilistic"
   },
+  "facets": {
+    "scope": "galaxy-wide",
+    "origin-era": "galactic-empire-era",
+    "type": "predictive-model",
+    "predictive-accuracy": "probabilistic"
+  },
   "tags": [
     "psychohistory",
     "future",
     "strategy",
-    "science fiction",
-    "Isaac Asimov",
-    "Foundation",
-    "galactic empire",
-    "long-term plan"
+    "science-fiction",
+    "isaac-asimov",
+    "foundation",
+    "galactic-empire",
+    "long-term-plan"
   ]
 }

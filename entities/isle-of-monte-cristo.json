@@ -33,11 +33,19 @@
       "target": "3c6350b1-f92d-4f6a-a7e7-e82f61c57b13"
     }
   ],
+  "facets": {
+    "location-type": "region",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "region",
-    "fictional",
-    "classic literature",
-    "19th century",
-    "adventure"
+    "classic-literature",
+    "adventure",
+    "hidden-treasure",
+    "mediterranean-sea",
+    "rocky-island",
+    "secrecy",
+    "dumas",
+    "count-of-monte-cristo"
   ]
 }

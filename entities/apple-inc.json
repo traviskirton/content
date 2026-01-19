@@ -63,13 +63,17 @@
     ],
     "stock_symbol": "AAPL"
   },
+  "facets": {},
   "tags": [
     "technology",
-    "electronics",
+    "consumer-electronics",
     "software",
-    "consumer",
     "innovation",
     "smartphone",
-    "computers"
+    "computers",
+    "digital-distribution",
+    "hardware",
+    "ios",
+    "ecosystem"
   ]
 }

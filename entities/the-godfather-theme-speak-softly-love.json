@@ -37,14 +37,17 @@
     "genre": "Film score",
     "type": "Musical theme"
   },
+  "facets": {},
   "tags": [
-    "film music",
+    "film-music",
     "soundtrack",
-    "Nino Rota",
-    "The Godfather",
-    "cinematic theme",
+    "nino-rota",
+    "godfather",
+    "cinematic-theme",
     "orchestral",
     "classic",
-    "love theme"
+    "love-theme",
+    "mafia-culture",
+    "instrumental"
   ]
 }

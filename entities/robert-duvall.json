@@ -42,13 +42,22 @@
     "active_years": "1952-present",
     "notable_role": "Tom Hagen"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "mid-century",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "film",
-    "The Godfather",
-    "Academy Award Winner",
-    "American Cinema",
-    "veteran actor",
-    "character actor"
+    "the-godfather",
+    "academy-award-winner",
+    "american-cinema",
+    "veteran-actor",
+    "character-actor",
+    "classic-hollywood",
+    "method-acting",
+    "oscar-winner",
+    "film-legend"
   ]
 }

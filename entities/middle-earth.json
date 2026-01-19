@@ -55,13 +55,19 @@
       "art"
     ]
   },
+  "facets": {
+    "genre": [
+      "fantasy"
+    ]
+  },
   "tags": [
-    "fantasy",
     "world-building",
     "literature",
     "mythology",
-    "high fantasy",
-    "J.R.R. Tolkien",
-    "fictional universe"
+    "high-fantasy",
+    "j-r-r-tolkien",
+    "fictional-universe",
+    "legendarium",
+    "epic-fantasy"
   ]
 }

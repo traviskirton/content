@@ -36,10 +36,20 @@
     "type": "building",
     "population": 0
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "sci-fi",
     "futuristic",
-    "dreamscape"
+    "dreamscape",
+    "mind-palace",
+    "mental-projection",
+    "subconscious",
+    "inception",
+    "security",
+    "labyrinth"
   ]
 }

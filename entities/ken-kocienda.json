@@ -50,14 +50,23 @@
     "notable_employer": "Apple Inc.",
     "years_active": "2001-2017"
   },
+  "facets": {
+    "profession": [
+      "software-engineer",
+      "author"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "software engineer",
-    "Apple",
-    "iPhone",
-    "user interface",
-    "author",
+    "apple",
+    "iphone",
+    "user-interface",
     "autocorrect",
-    "keyboard design",
-    "technology innovation"
+    "keyboard-design",
+    "technology-innovation",
+    "software-development",
+    "creative-selection",
+    "human-centered-design"
   ]
 }

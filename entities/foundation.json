@@ -59,13 +59,26 @@
     "original_format": "serialized short stories",
     "pages": 255
   },
+  "facets": {
+    "genre": [
+      "sci-fi"
+    ],
+    "era": "mid-century",
+    "tone": [
+      "philosophical",
+      "cerebral",
+      "serious"
+    ],
+    "rating": "teen"
+  },
   "tags": [
-    "science fiction",
     "classic",
     "psychohistory",
-    "Galactic Empire",
-    "Isaac Asimov",
-    "novel",
-    "serialized stories"
+    "galactic-empire",
+    "isaac-asimov",
+    "serialized-stories",
+    "political-strategy",
+    "scientific-foresight",
+    "societal-preservation"
   ]
 }

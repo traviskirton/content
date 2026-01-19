@@ -51,13 +51,26 @@
     "pages": 544,
     "language": "English"
   },
+  "facets": {
+    "genre": [
+      "fantasy"
+    ],
+    "era": "2000s",
+    "tone": [
+      "dark",
+      "gritty"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "fantasy",
-    "novel",
-    "Scott Lynch",
-    "Gentleman Bastard",
     "heist",
     "crime",
-    "Camorr"
+    "gentleman-bastard",
+    "camorr",
+    "political-intrigue",
+    "friendship",
+    "loyalty",
+    "deception",
+    "social-stratification"
   ]
 }

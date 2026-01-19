@@ -39,14 +39,21 @@
     "notable_horse": "Mearas",
     "allies": "Gondor"
   },
+  "facets": {
+    "location-type": "realm",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "Middle-earth",
-    "Horse-lords",
-    "Rohan",
-    "Fantasy warriors",
-    "Mounted cavalry",
-    "Warriors",
-    "War of the Ring",
-    "Kingdom"
+    "middle-earth",
+    "horse-lords",
+    "rohan",
+    "fantasy-warriors",
+    "mounted-cavalry",
+    "warriors",
+    "war-of-the-ring",
+    "kingdom",
+    "equestrian-culture",
+    "tribal-society"
   ]
 }

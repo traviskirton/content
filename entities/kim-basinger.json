@@ -55,10 +55,21 @@
     ],
     "active_years": "1976-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "producer"
+    ],
+    "active-era": "1970s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "drama",
-    "modern",
-    "classic-hollywood"
+    "classic-hollywood",
+    "comedy",
+    "award-winning",
+    "versatile-actress",
+    "feature-film",
+    "female-lead"
   ]
 }

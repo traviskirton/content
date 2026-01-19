@@ -53,9 +53,19 @@
     "occupation": "military leader",
     "portrayed_by": "Aaron Taylor-Johnson"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "warrior"
+  },
   "tags": [
-    "supporting",
     "strategist",
-    "military"
+    "military",
+    "tenet",
+    "temporal-pincer",
+    "leadership",
+    "mission-focused",
+    "military-operations",
+    "adaptive"
   ]
 }

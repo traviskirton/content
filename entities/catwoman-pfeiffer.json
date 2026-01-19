@@ -56,10 +56,19 @@
     "occupation": "former secretary, vigilante",
     "portrayed_by": "Michelle Pfeiffer"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "rebel"
+  },
   "tags": [
-    "antagonist",
-    "antihero",
-    "villain",
-    "vigilante"
+    "vigilante",
+    "complex-character",
+    "dual-identity",
+    "cat-like",
+    "acrobatic",
+    "fierce-independence",
+    "bullwhip",
+    "mental-transformation"
   ]
 }

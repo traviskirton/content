@@ -41,13 +41,19 @@
     "occupation": "CIA Agent",
     "affiliation": "CIA"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "ally"
+  },
   "tags": [
-    "Felix Leiter",
-    "James Bond",
-    "CIA",
-    "ally",
-    "Casino Royale",
+    "james-bond",
+    "cia",
+    "casino-royale",
     "espionage",
-    "fictional character"
+    "american-spy",
+    "cold-war",
+    "field-agent",
+    "trusted-ally"
   ]
 }

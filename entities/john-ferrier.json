@@ -46,13 +46,21 @@
     "story_impact": "Trigger for revenge",
     "age": "Middle-aged"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "protector"
+  },
   "tags": [
-    "A Study in Scarlet",
-    "character",
+    "a-study-in-scarlet",
     "father",
     "frontiersman",
     "tragic",
-    "19th century literature",
-    "Sherlock Holmes"
+    "19th-century-literature",
+    "sherlock-holmes",
+    "american-west",
+    "survival",
+    "resilience",
+    "family-drama"
   ]
 }

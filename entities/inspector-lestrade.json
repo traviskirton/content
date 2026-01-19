@@ -42,12 +42,18 @@
     "gender": "Male",
     "nationality": "British"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "everyman"
+  },
   "tags": [
-    "Law Enforcement",
-    "Scotland Yard",
-    "Detective",
-    "Victorian Era",
-    "Supporting Character",
-    "A Study in Scarlet"
+    "law-enforcement",
+    "scotland-yard",
+    "detective-fiction",
+    "victorian-literature",
+    "sherlock-holmes",
+    "crime-solving",
+    "british-literature"
   ]
 }

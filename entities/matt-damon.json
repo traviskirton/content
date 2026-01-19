@@ -52,11 +52,20 @@
     ],
     "active_years": "1988-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "producer",
+      "screenwriter"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "producer",
-    "screenwriter",
     "drama",
-    "modern"
+    "good-will-hunting",
+    "versatile-actor",
+    "academy-award-winner",
+    "charitable-work"
   ]
 }

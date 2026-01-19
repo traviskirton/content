@@ -46,13 +46,22 @@
     "primary_activity": "Con artistry and theft",
     "base_of_operations": "Camorr"
   },
+  "facets": {
+    "organization-type": "criminal",
+    "activity": [
+      "con artistry",
+      "theft"
+    ],
+    "scale": "small group"
+  },
   "tags": [
     "fantasy",
-    "organization",
-    "criminal",
-    "thieves",
-    "con artists",
-    "Camorr",
-    "protagonists"
+    "camorr",
+    "elaborate-heists",
+    "masterminds",
+    "loyalty",
+    "deception",
+    "urban-schemes",
+    "charismatic-leader"
   ]
 }

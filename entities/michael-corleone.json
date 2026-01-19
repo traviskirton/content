@@ -55,12 +55,20 @@
       "Detached"
     ]
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "ambiguous",
+    "archetype": "mastermind"
+  },
   "tags": [
     "mafia",
-    "corleone family",
-    "critic character",
-    "mafia don",
-    "fictional character",
-    "organized crime"
+    "corleone-family",
+    "critic-character",
+    "mafia-don",
+    "fictional",
+    "organized-crime",
+    "strategic",
+    "ruthless",
+    "world-war-ii-marine"
   ]
 }

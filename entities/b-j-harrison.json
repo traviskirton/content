@@ -37,13 +37,20 @@
     "role": "Law enforcement",
     "nationality": "American"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "everyman"
+  },
   "tags": [
-    "The Godfather Part III",
-    "character",
-    "law enforcement",
-    "FBI",
-    "organized crime",
+    "the-godfather-part-iii",
+    "fbi-agent",
+    "law-enforcement",
+    "organized-crime",
     "investigation",
-    "drama"
+    "drama",
+    "bureaucratic",
+    "persistent",
+    "justice"
   ]
 }

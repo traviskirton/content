@@ -51,13 +51,22 @@
     ],
     "active_years": "1980s-present"
   },
+  "facets": {
+    "profession": [
+      "writer",
+      "screenwriter"
+    ],
+    "active-era": "1980s",
+    "nationality": "american"
+  },
   "tags": [
-    "writer",
-    "screenwriter",
-    "comic book",
+    "comic-book",
     "superhero",
-    "1980s",
     "1990s",
-    "modern"
+    "modern",
+    "screenplay",
+    "film-franchise",
+    "speculative-fiction",
+    "fantasy-influence"
   ]
 }

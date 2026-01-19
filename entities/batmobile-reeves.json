@@ -54,14 +54,26 @@
     "year": "2022",
     "fictional": true
   },
+  "facets": {
+    "vehicle-type": "car",
+    "reality": "fictional",
+    "theme": [
+      "action",
+      "superhero",
+      "crime-fighting"
+    ],
+    "style": [
+      "custom",
+      "muscle"
+    ]
+  },
   "tags": [
-    "vehicle",
-    "car",
-    "action",
-    "superhero",
-    "Gotham",
-    "custom car",
-    "muscle car",
-    "crime-fighting"
+    "gotham",
+    "custom-muscle-car",
+    "high-performance",
+    "car-chase",
+    "black-matte",
+    "armored",
+    "v8-engine"
   ]
 }

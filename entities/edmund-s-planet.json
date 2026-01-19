@@ -34,9 +34,18 @@
     "fictional": true,
     "type": "planet"
   },
+  "facets": {
+    "location-type": "planet",
+    "reality": "fictional",
+    "scale": "planet"
+  },
   "tags": [
-    "planet",
     "sci-fi",
-    "futuristic"
+    "futuristic",
+    "interstellar",
+    "space-exploration",
+    "habitable-world",
+    "rugged-terrain",
+    "new-colony"
   ]
 }

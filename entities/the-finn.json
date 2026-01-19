@@ -42,13 +42,20 @@
     "alignment": "Neutral",
     "gender": "Male"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "trickster"
+  },
   "tags": [
-    "character",
-    "Neuromancer",
+    "neuromancer",
     "cyberpunk",
-    "black market",
-    "supporting character",
+    "black-market",
     "technology",
-    "hacker"
+    "hacker",
+    "underworld",
+    "fixer",
+    "chiba-city",
+    "information-broker"
   ]
 }

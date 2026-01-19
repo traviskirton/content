@@ -43,14 +43,21 @@
     "population": "Large",
     "primary_setting": true
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "City",
-    "Fantasy Setting",
-    "Venetian",
-    "Crime",
-    "Nobility",
-    "Magic",
-    "Theft",
-    "Novel Setting"
+    "fantasy-setting",
+    "venetian",
+    "crime",
+    "nobility",
+    "magic",
+    "theft",
+    "novel-setting",
+    "urban-fantasy",
+    "canals",
+    "crime-lords"
   ]
 }

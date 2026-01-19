@@ -64,10 +64,20 @@
     "born": 1938,
     "portrayed_by": "Crispin Glover"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "everyman"
+  },
   "tags": [
-    "supporting",
     "transformative",
     "comic-relief",
-    "time-traveler"
+    "time-traveler",
+    "1950s",
+    "hill-valley",
+    "back-to-the-future",
+    "high-school",
+    "timid",
+    "personal-growth"
   ]
 }

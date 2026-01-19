@@ -42,13 +42,21 @@
     "rank": "General",
     "role": "Intelligence Officer"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "ruler"
+  },
   "tags": [
-    "Soviet Union",
-    "KGB",
-    "Spy",
-    "Military",
-    "Espionage",
-    "Cold War",
-    "Supporting Character"
+    "soviet-union",
+    "kgb",
+    "spy",
+    "military",
+    "espionage",
+    "cold-war",
+    "intelligence-officer",
+    "power-struggles",
+    "bureaucracy",
+    "moscow-centre"
   ]
 }

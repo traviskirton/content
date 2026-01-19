@@ -50,13 +50,22 @@
     "awards": "Academy Award Nominee",
     "active_years": "1961-2022"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "1970s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "crime films",
-    "The Godfather",
-    "American cinema",
-    "method acting",
-    "character actor",
-    "drama"
+    "crime-films",
+    "the-godfather",
+    "american-cinema",
+    "method-acting",
+    "character-actor",
+    "drama",
+    "academy-award-nominee",
+    "intense-performances",
+    "charismatic"
   ]
 }

@@ -43,13 +43,21 @@
     "era": "Second and Third Age",
     "builder": "Sauron's forces"
   },
+  "facets": {
+    "location-type": "structure",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
-    "Middle-earth",
-    "Fortress",
-    "Mordor",
-    "The Lord of the Rings",
-    "Gate",
-    "War",
-    "Sauron"
+    "middle-earth",
+    "fortress",
+    "mordor",
+    "lord-of-the-rings",
+    "gate",
+    "war",
+    "sauron",
+    "siege",
+    "dark-lord",
+    "fantasy-epic"
   ]
 }

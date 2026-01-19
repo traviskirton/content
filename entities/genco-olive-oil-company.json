@@ -42,13 +42,20 @@
     "function": "Money laundering, Legitimate business front",
     "founded_by": "Vito Corleone"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "organization",
-    "mafia_front",
+    "mafia-front",
     "business",
     "legitimacy",
-    "The Godfather",
-    "family_enterprise",
-    "olive_oil"
+    "godfather",
+    "family-enterprise",
+    "olive-oil",
+    "organized-crime",
+    "money-laundering",
+    "corleone"
   ]
 }

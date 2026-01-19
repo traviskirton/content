@@ -42,14 +42,27 @@
     "volume": 2,
     "genre": "Epic Fantasy"
   },
+  "facets": {
+    "genre": [
+      "fantasy",
+      "adventure",
+      "war"
+    ],
+    "era": "mid-century",
+    "tone": [
+      "serious",
+      "atmospheric"
+    ],
+    "rating": "family"
+  },
   "tags": [
-    "fantasy",
-    "epic",
     "middle-earth",
-    "literature",
+    "epic",
     "classic",
-    "adventure",
     "magic",
-    "war"
+    "power-and-corruption",
+    "environmentalism",
+    "loyalty",
+    "friendship"
   ]
 }

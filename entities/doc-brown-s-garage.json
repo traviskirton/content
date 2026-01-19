@@ -44,11 +44,18 @@
     "type": "building",
     "founded": "1885"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "sci-fi",
-    "1985",
-    "time travel",
-    "Hill Valley"
+    "time-travel",
+    "hill-valley",
+    "delorean",
+    "inventor-workshop",
+    "back-to-the-future",
+    "retro"
   ]
 }

@@ -48,9 +48,19 @@
     "occupation": "Stage Engineer",
     "portrayed_by": "Andy Serkis"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "supporting",
-    "engineer",
-    "stagecraft"
+    "stage-engineer",
+    "stagecraft",
+    "technical-expert",
+    "loyal-assistant",
+    "the-prestige",
+    "illusion",
+    "mechanical-setup",
+    "behind-the-scenes"
   ]
 }

@@ -46,13 +46,21 @@
     "personality": "Innocent, optimistic",
     "notable_for": "First Discworld tourist"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "innocent"
+  },
   "tags": [
-    "Discworld",
-    "character",
+    "discworld",
     "tourist",
     "fantasy",
-    "innocent",
     "adventure",
-    "comic relief"
+    "comic-relief",
+    "politeness",
+    "curiosity",
+    "optimism",
+    "exploration",
+    "ankh-morpork"
   ]
 }

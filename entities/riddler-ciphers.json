@@ -44,10 +44,16 @@
     "created_by": "The Riddler",
     "fictional": true
   },
+  "facets": {},
   "tags": [
     "artifact",
     "macguffin",
     "mystery",
-    "puzzle"
+    "puzzle",
+    "cryptography",
+    "batman",
+    "dc-universe",
+    "riddler",
+    "enigmatic"
   ]
 }

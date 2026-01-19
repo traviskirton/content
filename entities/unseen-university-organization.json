@@ -44,13 +44,28 @@
     "notable_building": "The University itself",
     "arcane_focus": true
   },
+  "facets": {
+    "subject": [
+      "magic",
+      "education"
+    ],
+    "fictional": true,
+    "setting": "fantasy",
+    "affiliation": [
+      "wizards"
+    ],
+    "location": "ankh-morpork",
+    "era": "ancient"
+  },
   "tags": [
-    "magic",
-    "education",
-    "organization",
-    "fictional_university",
-    "Discworld",
-    "fantasy",
-    "wizards"
+    "discworld",
+    "fictional-university",
+    "wizarding-community",
+    "arcane-arts",
+    "magical-artifacts",
+    "political-power",
+    "eccentricity",
+    "library",
+    "thaumaturgy"
   ]
 }

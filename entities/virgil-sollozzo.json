@@ -51,14 +51,21 @@
     "notable_event": "Assassination attempt on Vito Corleone",
     "status": "Deceased"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
     "mafia",
-    "antagonist",
     "narcotics",
-    "organized_crime",
+    "organized-crime",
     "corruption",
-    "The Godfather",
+    "the-godfather",
     "1950s",
-    "fictional_character"
+    "fictional-character",
+    "new-york",
+    "crime-lord",
+    "assassination"
   ]
 }

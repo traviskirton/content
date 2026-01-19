@@ -48,10 +48,16 @@
     "type": "philanthropic organization",
     "fictional": true
   },
+  "facets": {},
   "tags": [
-    "organization",
+    "philanthropic-organization",
     "secret-society",
     "villainous",
-    "superhero"
+    "superhero",
+    "gotham-city",
+    "corruption",
+    "urban-decay",
+    "slush-fund",
+    "criminal-underbelly"
   ]
 }

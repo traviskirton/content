@@ -48,12 +48,24 @@
     "first_appearance": "Casino Royale (1953)",
     "use": "Concealed carry, espionage"
   },
+  "facets": {
+    "item-type": "firearm",
+    "function": "concealed-carry",
+    "genre": [],
+    "era": "",
+    "tone": [],
+    "rating": ""
+  },
   "tags": [
     "firearm",
     "weapon",
-    "spy gear",
+    "spy-gear",
     "classic",
-    "James Bond",
-    "semi-automatic pistol"
+    "james-bond",
+    "semi-automatic-pistol",
+    "compact",
+    "concealable",
+    "espionage",
+    "german-design"
   ]
 }

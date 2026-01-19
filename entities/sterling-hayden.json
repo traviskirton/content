@@ -47,14 +47,23 @@
     ],
     "active_years": "1940-1980s"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "author"
+    ],
+    "active-era": "1940-1980s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "film noir",
-    "classic cinema",
-    "American actors",
-    "1970s films",
-    "Sterling Hayden",
-    "Hollywood",
-    "The Godfather"
+    "film-noir",
+    "classic-cinema",
+    "american-actors",
+    "1970s-films",
+    "hollywood",
+    "the-godfather",
+    "rugged-charisma",
+    "naturalistic-acting",
+    "memorable-roles"
   ]
 }

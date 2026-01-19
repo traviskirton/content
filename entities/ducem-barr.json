@@ -44,13 +44,20 @@
     "affiliation": "Foundation",
     "skills": "Espionage, negotiation, commerce"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "neutral",
+    "archetype": "rebel"
+  },
   "tags": [
-    "science fiction",
-    "character",
     "foundation",
+    "science-fiction",
     "trader",
     "spy",
-    "protagonist",
-    "adaptable"
+    "adaptable",
+    "covert-operations",
+    "political-subversion",
+    "espionage",
+    "strategic-thinker"
   ]
 }

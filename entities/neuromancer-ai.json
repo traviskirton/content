@@ -47,14 +47,21 @@
     "goal": "Merge with Wintermute",
     "domain": "Cyberspace and subconscious"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "sage"
+  },
   "tags": [
-    "AI",
+    "ai",
     "cyberpunk",
-    "virtual reality",
+    "virtual-reality",
     "dreams",
     "consciousness",
-    "Neuromancer",
     "technology",
-    "wintermute"
+    "wintermute",
+    "subconscious",
+    "psychological-influence",
+    "digital-illusion"
   ]
 }

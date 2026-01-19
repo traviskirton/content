@@ -42,12 +42,20 @@
     "family": "Denethor II (father), Boromir (brother)",
     "notable_traits": "Wisdom, restraint"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
-    "character",
-    "Gondor",
+    "gondor",
+    "middle-earth",
     "captain",
-    "warrior",
     "noble",
-    "Middle-earth"
+    "tactical-leader",
+    "honor-bound",
+    "resistance",
+    "archery",
+    "strategist"
   ]
 }

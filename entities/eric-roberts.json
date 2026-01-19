@@ -46,9 +46,20 @@
     ],
     "active_years": "1977-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "1970s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "drama",
-    "modern"
+    "character-actor",
+    "prolific",
+    "film",
+    "television",
+    "supporting-roles",
+    "award-nominee"
   ]
 }

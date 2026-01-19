@@ -39,10 +39,19 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
-    "Gotham City",
+    "gotham-city",
     "drama",
-    "mystery"
+    "mystery",
+    "crime-ridden",
+    "decay",
+    "abandoned",
+    "gothic-architecture",
+    "haunted"
   ]
 }

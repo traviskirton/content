@@ -57,9 +57,24 @@
     "headquarters": "NASA Facility",
     "fictional": true
   },
+  "facets": {
+    "organization-type": "government",
+    "reality": "fictional",
+    "theme": [
+      "space-exploration",
+      "space-travel",
+      "ecological-crisis",
+      "secret-operations"
+    ]
+  },
   "tags": [
-    "government",
-    "heroic",
-    "sci-fi"
+    "interstellar",
+    "wormhole",
+    "endurance-mission",
+    "covert",
+    "future-tech",
+    "astrobiology",
+    "humanity",
+    "professor-brand"
   ]
 }

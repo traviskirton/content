@@ -46,9 +46,16 @@
     "type": "corporation",
     "fictional": true
   },
+  "facets": {},
   "tags": [
     "corporation",
-    "sci-fi",
-    "neutral"
+    "energy",
+    "inception",
+    "powerful",
+    "fictional",
+    "multinational",
+    "energy-sector",
+    "global-reach",
+    "influence"
   ]
 }

@@ -39,11 +39,18 @@
     "fictional": true,
     "type": "city"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
-    "Oppenheimer",
+    "oppenheimer",
     "1950s",
     "academic",
-    "California"
+    "california",
+    "university-town",
+    "science",
+    "historical-drama"
   ]
 }

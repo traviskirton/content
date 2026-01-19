@@ -36,10 +36,19 @@
     "state": "Arizona/Utah",
     "country": "United States"
   },
+  "facets": {
+    "location-type": "landscape",
+    "reality": "real",
+    "scale": "region"
+  },
   "tags": [
-    "natural landscape",
-    "active",
-    "public",
-    "tours-available"
+    "sandstone-buttes",
+    "colorado-plateau",
+    "navajo-nation",
+    "cultural-landmark",
+    "filming-location",
+    "western-films",
+    "public-access",
+    "guided-tours"
   ]
 }

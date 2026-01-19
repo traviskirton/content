@@ -40,10 +40,18 @@
     "type": "train station",
     "founded": "1885"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "train station",
     "western",
-    "1885",
-    "sci-fi"
+    "back-to-the-future",
+    "steampunk",
+    "period-piece",
+    "railroad",
+    "time-travel",
+    "1885"
   ]
 }

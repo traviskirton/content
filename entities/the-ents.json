@@ -39,14 +39,22 @@
     "nature": "Guardians of forests",
     "language": "Entish"
   },
+  "facets": {
+    "group-type": "fictional",
+    "domain": "nature-guardianship",
+    "setting": "middle-earth",
+    "species": "tree-like beings"
+  },
   "tags": [
-    "Middle-earth",
-    "Fantasy race",
-    "Guardians",
-    "Forests",
-    "Nature spirits",
-    "Tree beings",
-    "War of the Ring",
-    "Fangorn"
+    "middle-earth",
+    "fantasy-race",
+    "guardians",
+    "forests",
+    "nature-spirits",
+    "tree-beings",
+    "war-of-the-ring",
+    "fangorn",
+    "entmoot",
+    "mythical"
   ]
 }

@@ -62,10 +62,20 @@
     ],
     "active_years": "1996-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "1990s",
+    "nationality": "irish"
+  },
   "tags": [
-    "actor",
     "drama",
     "thriller",
-    "modern"
+    "versatile",
+    "stage-actor",
+    "film-actor",
+    "television",
+    "intense-performances"
   ]
 }

@@ -48,12 +48,21 @@
     "year": "1950s (approximate era)",
     "use": "Transportation in espionage"
   },
+  "facets": {
+    "category": "automobile",
+    "origin": "british",
+    "style": "classic",
+    "function": "espionage"
+  },
   "tags": [
-    "automobile",
-    "luxury vehicle",
-    "James Bond",
-    "classic car",
-    "British",
-    "espionage"
+    "luxury-vehicle",
+    "james-bond",
+    "classic-car",
+    "british-luxury",
+    "secret-agent",
+    "high-performance",
+    "mid-20th-century",
+    "sophistication",
+    "elegance"
   ]
 }

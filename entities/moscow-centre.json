@@ -43,12 +43,20 @@
     "agency_type": "Intelligence",
     "headquarters": "Moscow"
   },
+  "facets": {
+    "era": "cold-war",
+    "location": "soviet-union",
+    "agency_type": "intelligence"
+  },
   "tags": [
-    "Cold War",
-    "Soviet Union",
-    "KGB",
-    "Espionage",
-    "Spy Fiction",
-    "Counterintelligence"
+    "kgb",
+    "espionage",
+    "spy-fiction",
+    "counterintelligence",
+    "soviet-intelligence",
+    "cold-war-thriller",
+    "intelligence-agency",
+    "spycraft",
+    "paranoia"
   ]
 }

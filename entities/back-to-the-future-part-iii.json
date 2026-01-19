@@ -133,15 +133,28 @@
     "box_office": 244527583,
     "rating": "PG"
   },
+  "facets": {
+    "genre": [
+      "sci-fi",
+      "adventure",
+      "comedy"
+    ],
+    "era": "1990s",
+    "tone": [
+      "light",
+      "whimsical",
+      "action-driven"
+    ],
+    "rating": "family"
+  },
   "tags": [
-    "sci-fi",
-    "adventure",
-    "comedy",
-    "1990s",
     "time-travel",
     "western",
     "classic",
     "robert-zemeckis",
-    "back-to-the-future"
+    "back-to-the-future",
+    "time-loop",
+    "nostalgia",
+    "sequels"
   ]
 }

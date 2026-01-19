@@ -39,10 +39,19 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "sci-fi",
     "action",
-    "2020s"
+    "2020s",
+    "opera-house",
+    "tenet",
+    "time-manipulation",
+    "spy-thriller",
+    "grand-architecture"
   ]
 }

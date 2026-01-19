@@ -48,13 +48,24 @@
     "appearance": "Holographic table/projector",
     "importance": "Central to Seldon Plan monitoring"
   },
+  "facets": {
+    "genre": [
+      "sci-fi"
+    ],
+    "tone": [
+      "cerebral"
+    ],
+    "origin": "foundation-series"
+  },
   "tags": [
     "technology",
     "psychohistory",
-    "science fiction",
-    "Isaac Asimov",
-    "Foundation series",
-    "mentalics",
-    "prediction"
+    "isaac-asimov",
+    "foundation-series",
+    "mentalic",
+    "prediction",
+    "holographic-interface",
+    "psychohistorical-device",
+    "future-forecasting"
   ]
 }

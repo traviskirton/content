@@ -47,13 +47,26 @@
     "territory": "Multiple Sectors of the Galactic Empire",
     "primary_ruler": "The Mule"
   },
+  "facets": {
+    "genre": [
+      "sci-fi"
+    ],
+    "era": "timeless",
+    "tone": [
+      "serious",
+      "dark"
+    ],
+    "rating": ""
+  },
   "tags": [
-    "Foundation Series",
-    "Galactic Empire",
-    "Science Fiction",
-    "Isaac Asimov",
-    "Autocracy",
-    "Mutant",
-    "Mental Domination"
+    "foundation-series",
+    "galactic-empire",
+    "isaac-asimov",
+    "autocracy",
+    "mutant",
+    "mental-domination",
+    "psychohistory",
+    "galactic-conquest",
+    "emotional-control"
   ]
 }

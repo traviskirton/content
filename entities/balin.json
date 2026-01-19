@@ -50,13 +50,21 @@
     "weapon": "Axe",
     "lineage": "House of Durin"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "Dwarf",
-    "Thorin's Company",
-    "Loyal",
-    "Wise",
-    "Middle-earth",
-    "Fantasy",
-    "The Hobbit"
+    "dwarf",
+    "thorins-company",
+    "loyal",
+    "wise",
+    "middle-earth",
+    "fantasy",
+    "the-hobbit",
+    "dwarven-lore",
+    "axe-wielding",
+    "moria"
   ]
 }

@@ -42,9 +42,18 @@
     "species": "human",
     "portrayed_by": "Pete Postlethwaite"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "ruler"
+  },
   "tags": [
-    "supporting",
     "businessman",
-    "father figure"
+    "father-figure",
+    "inception",
+    "corporate-empire",
+    "pivotal",
+    "influential",
+    "strained-relationship"
   ]
 }

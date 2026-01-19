@@ -51,14 +51,21 @@
     "environment": "Volcanic, barren, hostile",
     "notable_features": "Mount Doom, Barad-dûr fortress"
   },
+  "facets": {
+    "location-type": "region",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
     "dark",
     "evil",
     "volcanic",
-    "Middle-earth",
-    "Sauron",
+    "middle-earth",
+    "sauron",
     "wasteland",
     "fortress",
-    "Third Age"
+    "third-age",
+    "barad-dur",
+    "mount-doom"
   ]
 }

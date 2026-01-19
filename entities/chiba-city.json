@@ -43,14 +43,21 @@
     "population": "Mega city scale",
     "climate": "Urban, neon-lit, rainy"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "location",
     "cyberpunk",
-    "Japan",
+    "japan",
     "urban",
     "setting",
     "megacity",
     "technology",
-    "the-sprawl"
+    "the-sprawl",
+    "cybernetic-black-market",
+    "neon-lit",
+    "corp-dystopia"
   ]
 }

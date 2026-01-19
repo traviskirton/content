@@ -199,15 +199,33 @@
     "box_office": 1004558444,
     "rating": "PG-13"
   },
+  "facets": {
+    "genre": [
+      "action",
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "era": "2000s",
+    "tone": [
+      "dark",
+      "gritty",
+      "serious",
+      "atmospheric",
+      "suspenseful"
+    ],
+    "rating": "teen"
+  },
   "tags": [
-    "action",
-    "2000s",
-    "drama",
-    "crime",
-    "thriller",
     "blockbuster",
     "superheroes",
     "christopher-nolan",
-    "the-dark-knight-trilogy"
+    "the-dark-knight-trilogy",
+    "batman",
+    "gotham",
+    "joker",
+    "imax",
+    "vigilante",
+    "urban-decay"
   ]
 }

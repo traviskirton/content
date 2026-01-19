@@ -52,14 +52,28 @@
       "Tire Shredders"
     ]
   },
+  "facets": {
+    "type": "car",
+    "origin": "british",
+    "genre": [
+      "spy"
+    ],
+    "era": "1950s",
+    "features": [
+      "gadgets",
+      "luxury",
+      "classic"
+    ]
+  },
   "tags": [
-    "Car",
-    "James Bond Vehicle",
-    "Aston Martin",
-    "Gadgets",
-    "Classic",
-    "Goldfinger",
-    "Luxury",
-    "British Automobiles"
+    "james-bond-vehicle",
+    "aston-martin",
+    "goldfinger",
+    "ejector-seat",
+    "machine-guns",
+    "tire-shredders",
+    "grand-tourer",
+    "wire-spoke-wheels",
+    "british-automobiles"
   ]
 }

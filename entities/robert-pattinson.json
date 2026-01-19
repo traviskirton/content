@@ -65,12 +65,23 @@
     ],
     "active_years": "2004-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "producer"
+    ],
+    "active-era": "2000s",
+    "nationality": "british"
+  },
   "tags": [
-    "actor",
-    "producer",
     "musician",
     "drama",
     "fantasy",
-    "modern"
+    "twilight-saga",
+    "the-batman",
+    "indie-films",
+    "british-actor",
+    "versatile",
+    "award-winning"
   ]
 }

@@ -36,12 +36,20 @@
       "Goldfinger (movie)"
     ]
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "James Bond",
-    "Espionage",
-    "European City",
-    "Diplomatic Hub",
-    "International",
-    "Luxury"
+    "james-bond",
+    "espionage",
+    "european",
+    "diplomatic-hub",
+    "international",
+    "luxury",
+    "switzerland",
+    "goldfinger",
+    "political-intrigue"
   ]
 }

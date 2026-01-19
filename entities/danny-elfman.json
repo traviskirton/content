@@ -56,12 +56,22 @@
     ],
     "active_years": "1970-present"
   },
+  "facets": {
+    "profession": [
+      "composer",
+      "musician"
+    ],
+    "active-era": "1970s",
+    "nationality": "american"
+  },
   "tags": [
-    "composer",
-    "musician",
     "film",
     "batman",
     "tim-burton",
-    "modern"
+    "tv-theme",
+    "ornate",
+    "whimsical",
+    "avant-garde",
+    "eclectic"
   ]
 }

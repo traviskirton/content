@@ -56,12 +56,21 @@
     "race": "Hobbit",
     "role": "Fellowship member"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "explorer"
+  },
   "tags": [
-    "Middle-earth",
-    "Hobbit",
-    "Fellowship of the Ring",
-    "Adventurer",
-    "Playful",
-    "Brave"
+    "middle-earth",
+    "hobbit",
+    "fellowship-of-the-ring",
+    "adventurer",
+    "playful",
+    "brave",
+    "loyalty",
+    "growth",
+    "quest",
+    "fantasy"
   ]
 }

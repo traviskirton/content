@@ -46,11 +46,21 @@
       "longitude": -0.2107
     }
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
     "historic",
     "preserved",
     "tours-available",
     "filming-location",
-    "public-access"
+    "public-access",
+    "jacobean",
+    "english-country-house",
+    "cecil-family",
+    "architecture",
+    "period-drama"
   ]
 }

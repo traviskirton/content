@@ -39,13 +39,22 @@
     "occupation": "Cinematographer",
     "active_years": "1950s-1990s"
   },
+  "facets": {
+    "profession": [
+      "cinematographer"
+    ],
+    "active-era": "mid-century",
+    "nationality": "american"
+  },
   "tags": [
-    "cinematographer",
-    "film lighting",
-    "the godfather",
-    "visual storytelling",
-    "american cinema",
-    "film noir",
-    "gordon willis"
+    "film-lighting",
+    "the-godfather",
+    "visual-storytelling",
+    "american-cinema",
+    "film-noir",
+    "gordon-willis",
+    "high-contrast",
+    "low-key-lighting",
+    "shadow-play"
   ]
 }

@@ -34,12 +34,20 @@
     "architectural_style": "Byzantine",
     "current_status": "Museum"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "location",
-    "James Bond",
-    "Cold War",
-    "Byzantine Architecture",
-    "Istanbul",
-    "Historical Landmark"
+    "james-bond",
+    "cold-war",
+    "byzantine-architecture",
+    "istanbul",
+    "historical-landmark",
+    "museum",
+    "espionage",
+    "cultural-heritage",
+    "iconic-location"
   ]
 }

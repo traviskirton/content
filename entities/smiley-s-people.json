@@ -55,14 +55,26 @@
     "series": "Karla Trilogy",
     "language": "English"
   },
+  "facets": {
+    "genre": [
+      "thriller"
+    ],
+    "era": "1970s",
+    "tone": [
+      "serious",
+      "gritty",
+      "atmospheric"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "Cold War",
-    "Espionage",
-    "Spy Novel",
-    "John le Carré",
-    "George Smiley",
-    "Karla Trilogy",
-    "Intelligence",
-    "Thriller"
+    "cold-war",
+    "espionage",
+    "spy-novel",
+    "john-le-carré",
+    "george-smiley",
+    "karla-trilogy",
+    "intelligence",
+    "psychological-intrigue"
   ]
 }

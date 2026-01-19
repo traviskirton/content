@@ -46,13 +46,20 @@
     "role": "Agent / Informant",
     "notability": "Key Soviet Contact"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "Soviet Union",
-    "KGB",
-    "Spy",
-    "Female Character",
-    "Cold War",
-    "Espionage",
-    "Supporting Character"
+    "soviet-union",
+    "kgb",
+    "spy",
+    "female",
+    "cold-war",
+    "espionage",
+    "intelligence",
+    "secret-agent",
+    "covert-operations"
   ]
 }

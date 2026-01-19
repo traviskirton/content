@@ -61,13 +61,23 @@
     ],
     "active_years": "2007-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "director",
-    "producer",
-    "writer",
     "drama",
     "indie",
-    "modern"
+    "independent-cinema",
+    "gritty-realism",
+    "cinematic-style",
+    "authentic-storytelling",
+    "cult-following"
   ]
 }

@@ -43,14 +43,27 @@
     "language": "English",
     "media_type": "Novel"
   },
+  "facets": {
+    "genre": [
+      "fantasy",
+      "adventure"
+    ],
+    "era": "1930s",
+    "tone": [
+      "whimsical",
+      "heartfelt"
+    ],
+    "rating": "family"
+  },
   "tags": [
-    "fantasy",
     "classic",
     "middle-earth",
-    "adventure",
     "literature",
     "tolkien",
     "hobbit",
-    "dragon"
+    "dragon",
+    "quest",
+    "heroism",
+    "mythology"
   ]
 }

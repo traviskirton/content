@@ -41,10 +41,21 @@
     ],
     "active_years": "2003-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director"
+    ],
+    "active-era": "2000s",
+    "nationality": "british-american"
+  },
   "tags": [
-    "actor",
-    "director",
     "drama",
-    "modern"
+    "film",
+    "television",
+    "golden-globe-nominee",
+    "versatile-performer",
+    "character-driven",
+    "british-american-actress"
   ]
 }

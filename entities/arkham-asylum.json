@@ -43,10 +43,18 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "superhero",
-    "Gotham City",
-    "psychiatric hospital"
+    "gotham-city",
+    "psychiatric-hospital",
+    "high-security",
+    "asylum",
+    "crime-ridden",
+    "batman"
   ]
 }

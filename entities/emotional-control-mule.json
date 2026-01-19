@@ -43,13 +43,27 @@
     "limitations": "Requires The Mule's mental focus",
     "origin": "Genetic Mutation"
   },
+  "facets": {
+    "theme": [
+      "mind-control",
+      "psychic",
+      "mutation"
+    ],
+    "franchise": [
+      "foundation-series"
+    ],
+    "author": [
+      "isaac-asimov"
+    ]
+  },
   "tags": [
-    "Foundation Series",
-    "Mutant Powers",
-    "Psychic Ability",
-    "Isaac Asimov",
-    "Mind Control",
-    "Science Fiction",
-    "Mental Domination"
+    "mutant-powers",
+    "mental-domination",
+    "emotional-control",
+    "psychic-domination",
+    "foundation-and-empire",
+    "political-influence",
+    "free-will",
+    "philosophical"
   ]
 }

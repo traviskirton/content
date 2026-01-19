@@ -42,12 +42,22 @@
     "occupation": "Composer, Musician",
     "nationality": "American"
   },
+  "facets": {
+    "profession": [
+      "composer"
+    ],
+    "active-era": "mid-century",
+    "nationality": "american"
+  },
   "tags": [
-    "composer",
-    "film score",
-    "The Godfather Part II",
-    "Italian-American",
+    "film-score",
+    "the-godfather-part-ii",
+    "italian-american",
     "orchestration",
-    "cinematic music"
+    "cinematic-music",
+    "lush-orchestration",
+    "classical-music",
+    "italian-folk",
+    "emotional-score"
   ]
 }

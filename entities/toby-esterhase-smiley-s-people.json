@@ -52,11 +52,20 @@
     "expertise": "Human Intelligence, Networking",
     "rank": "Colonel"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "Smiley's People",
-    "British Intelligence",
-    "Cold War",
-    "Espionage",
-    "George Smiley"
+    "smileys-people",
+    "british-intelligence",
+    "cold-war",
+    "espionage",
+    "george-smiley",
+    "human-intelligence",
+    "networking",
+    "intelligence-officer",
+    "the-circus"
   ]
 }

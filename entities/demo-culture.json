@@ -53,14 +53,27 @@
     ],
     "community_events": "Demoparties"
   },
+  "facets": {
+    "origin_period": "1980s",
+    "medium": "digital-software",
+    "core_elements": [
+      "programming",
+      "graphics",
+      "music"
+    ],
+    "community_events": [
+      "demoparties"
+    ]
+  },
   "tags": [
-    "digital_art",
-    "computer_programming",
+    "digital-art",
+    "computer-programming",
     "technology",
-    "software",
     "innovation",
     "creativity",
     "subculture",
-    "audiovisual"
+    "audiovisual",
+    "realtime-graphics",
+    "hardware-pushing"
   ]
 }

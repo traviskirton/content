@@ -58,13 +58,19 @@
     "gender": "Female",
     "rank": "Colonel"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "Villain",
-    "Spy",
-    "SMERSH",
-    "Cold War",
-    "Assassin",
-    "James Bond",
-    "Femme fatale"
+    "spy",
+    "smersh",
+    "cold-war",
+    "assassin",
+    "james-bond",
+    "femme-fatale",
+    "psychological-warfare",
+    "soviet-espionage"
   ]
 }

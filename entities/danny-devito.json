@@ -65,12 +65,23 @@
     ],
     "active_years": "1970-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active-era": "1970s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "director",
-    "producer",
-    "writer",
     "comedy",
-    "modern"
+    "character-driven",
+    "comedic",
+    "distinctive-stature",
+    "philanthropy",
+    "jersey-films",
+    "emmy-winner"
   ]
 }

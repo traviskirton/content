@@ -45,13 +45,18 @@
     "nationality": "American",
     "notable_role": "Fredo Corleone"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "1970s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "The Godfather",
-    "supporting actor",
-    "American cinema",
-    "method acting",
-    "1970s film",
-    "cinematic legacy"
+    "the-godfather",
+    "supporting-actor",
+    "american-cinema",
+    "method-acting",
+    "cinematic-legacy"
   ]
 }

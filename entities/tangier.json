@@ -35,11 +35,20 @@
       "longitude": -5.834
     }
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
-    "active",
-    "public",
-    "tours-available",
-    "filming-location"
+    "morocco",
+    "travel-destination",
+    "historical",
+    "port-city",
+    "cultural-hub",
+    "filming-location",
+    "tourism",
+    "kasbah-museum",
+    "striking-scenery"
   ]
 }

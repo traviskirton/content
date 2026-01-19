@@ -52,13 +52,17 @@
     "created_by": "Lucius Fox",
     "fictional": true
   },
+  "facets": {},
   "tags": [
     "technology",
     "device",
     "weapon",
     "armor",
     "superhero",
-    "Batman",
-    "Gotham"
+    "batman",
+    "gotham-city",
+    "utility-belt",
+    "kevlar",
+    "night-vision"
   ]
 }

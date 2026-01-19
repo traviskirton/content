@@ -49,10 +49,18 @@
     "year": 2022,
     "fictional": true
   },
+  "facets": {
+    "vehicle-type": "motorcycle",
+    "reality": "fictional"
+  },
   "tags": [
-    "motorcycle",
     "action",
     "stealth",
-    "high-speed"
+    "high-speed",
+    "batmobile",
+    "urban-navigation",
+    "dark-design",
+    "wayne-enterprises",
+    "gotham"
   ]
 }

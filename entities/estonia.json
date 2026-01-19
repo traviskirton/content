@@ -39,10 +39,20 @@
     },
     "city": "Tallinn"
   },
+  "facets": {
+    "location-type": "country",
+    "reality": "real",
+    "scale": "country"
+  },
   "tags": [
-    "country",
-    "active",
-    "public",
-    "filming-location"
+    "medieval-architecture",
+    "northern-europe",
+    "filming-location",
+    "baltic-sea",
+    "tallinn",
+    "unesco-world-heritage",
+    "european-history",
+    "urban-landscape",
+    "film-production"
   ]
 }

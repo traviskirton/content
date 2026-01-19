@@ -42,12 +42,20 @@
     "gender": "Male",
     "species": "Human"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "ruler"
+  },
   "tags": [
-    "Foundation",
-    "Science Fiction",
-    "Political Character",
-    "Isaac Asimov",
-    "Galactic Empire",
-    "Terminus"
+    "foundation",
+    "isaac-asimov",
+    "galactic-empire",
+    "terminus",
+    "politics",
+    "space-colonization",
+    "diplomacy",
+    "political-leader",
+    "science-fiction"
   ]
 }

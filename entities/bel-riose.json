@@ -50,13 +50,19 @@
     "notability": "Last great Imperial general",
     "military_rank": "General"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "heroic",
+    "archetype": "warrior"
+  },
   "tags": [
-    "science fiction",
-    "character",
-    "galactic empire",
+    "galactic-empire",
     "military",
-    "foundation series",
-    "antagonist",
-    "space militia"
+    "foundation-series",
+    "space-militia",
+    "imperial-general",
+    "strategy",
+    "leadership",
+    "science-fiction"
   ]
 }

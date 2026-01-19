@@ -53,13 +53,20 @@
       "Superhuman strength"
     ]
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
     "dragon",
-    "antagonist",
     "fantasy",
     "middle-earth",
-    "fire",
-    "treasure",
-    "mythical creature"
+    "fire-breathing",
+    "treasure-hoarder",
+    "mythical-creature",
+    "greed",
+    "fiery-wrath",
+    "psychological-manipulator"
   ]
 }

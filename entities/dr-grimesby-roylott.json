@@ -55,12 +55,20 @@
     "status": "Deceased",
     "time_period": "Late 19th century"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "Sherlock Holmes villain",
+    "sherlock-holmes-villain",
     "murderer",
     "physician",
-    "Victorian era",
-    "criminal"
+    "victorian-era",
+    "criminal",
+    "oppressive",
+    "venomous",
+    "exotic-animals",
+    "stepfather-abuser"
   ]
 }

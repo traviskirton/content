@@ -47,13 +47,19 @@
     "time_period": "1950s",
     "nationality": "American"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "character",
     "mobster",
-    "organizer",
-    "crime",
+    "organized-crime",
     "mafia",
     "businessman",
-    "manipulator"
+    "manipulator",
+    "negotiator",
+    "strategist",
+    "criminal-underworld"
   ]
 }

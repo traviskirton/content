@@ -51,9 +51,17 @@
     "type": "Production Company",
     "parent_company": null
   },
+  "facets": {},
   "tags": [
     "production-company",
     "film",
-    "modern"
+    "british",
+    "modern-cinema",
+    "christopher-nolan",
+    "emma-thomas",
+    "warner-bros",
+    "blockbuster",
+    "innovative",
+    "high-quality"
   ]
 }

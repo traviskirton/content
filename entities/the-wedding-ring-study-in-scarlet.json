@@ -37,12 +37,18 @@
     "period": "Victorian Era",
     "function": "Plot device and symbol"
   },
+  "facets": {
+    "material": "gold",
+    "period": "victorian"
+  },
   "tags": [
-    "item",
-    "wedding ring",
-    "A Study in Scarlet",
+    "wedding-ring",
+    "a-study-in-scarlet",
     "symbolism",
     "clue",
-    "mystery"
+    "mystery",
+    "plot-device",
+    "personal-relationships",
+    "marital-commitment"
   ]
 }

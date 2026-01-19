@@ -47,13 +47,18 @@
     "criminal_connections": true,
     "antagonist": true
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "Casino Royale",
-    "villain",
+    "casino-royale",
     "gambler",
-    "terrorist financier",
-    "James Bond",
-    "antagonist",
-    "fictional character"
+    "terrorist-financier",
+    "james-bond",
+    "fictional-character",
+    "criminal-mastermind",
+    "psychological"
   ]
 }

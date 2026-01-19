@@ -55,14 +55,21 @@
     "portrayed_by": "Robert Duvall",
     "relationship_to_family": "Adopted Son"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "sage"
+  },
   "tags": [
-    "The Godfather",
+    "the-godfather",
     "mafia",
     "consigliere",
-    "legal advisor",
-    "Duvall",
-    "Corleone family",
+    "legal-advisor",
+    "robert-duvall",
+    "corleone-family",
     "strategist",
-    "crime drama"
+    "crime-drama",
+    "diplomatic",
+    "organized-crime"
   ]
 }

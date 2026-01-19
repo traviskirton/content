@@ -36,9 +36,18 @@
     "occupation": "mayoral candidate",
     "portrayed_by": "actor name unknown"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "ruler"
+  },
   "tags": [
-    "supporting",
     "political",
-    "reformer"
+    "reformer",
+    "gotham",
+    "corruption",
+    "mayor",
+    "justice",
+    "advocate"
   ]
 }

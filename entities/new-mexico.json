@@ -24,10 +24,20 @@
     "coordinates": "34.5199,-105.8701"
   },
   "relationships": [],
+  "facets": {
+    "location-type": "region",
+    "reality": "real",
+    "scale": "region"
+  },
   "tags": [
     "film-location",
     "tourist-attraction",
     "public",
-    "active"
+    "active",
+    "southwestern-us",
+    "desert-landscape",
+    "albuquerque",
+    "native-american",
+    "hispanic-heritage"
   ]
 }

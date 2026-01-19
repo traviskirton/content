@@ -47,14 +47,20 @@
     "status": "Deceased",
     "notable_event": "Alliance against Corleone family"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "ruler"
+  },
   "tags": [
     "mafia",
-    "organized_crime",
-    "crime_family",
+    "organized-crime",
+    "crime-family",
     "1950s",
-    "The Godfather",
-    "fictional_character",
-    "antagonist",
-    "alliances"
+    "godfather",
+    "alliances",
+    "new-york",
+    "tattaglia-crime-family",
+    "mobster"
   ]
 }

@@ -37,13 +37,20 @@
     "alignment": "Evil",
     "notable_encounter": "Frodo Baggins"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "monster"
+  },
   "tags": [
     "creature",
-    "monster",
-    "antagonist",
-    "Middle-earth",
+    "middle-earth",
     "mythical",
     "spider",
-    "evil"
+    "evil",
+    "primordial",
+    "ancient-evil",
+    "shadow",
+    "darkness"
   ]
 }

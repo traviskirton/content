@@ -47,9 +47,19 @@
     "occupation": "architect",
     "portrayed_by": "Elliot Page"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "creator"
+  },
   "tags": [
-    "protagonist",
     "intelligent",
-    "architect"
+    "architect",
+    "dreamscapes",
+    "shared-dreaming",
+    "labyrinthine",
+    "compassionate",
+    "student",
+    "teamwork"
   ]
 }

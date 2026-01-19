@@ -40,14 +40,21 @@
     "sentience": "Semi-sentient",
     "loyalty": "Implacably loyal to owner"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "protector"
+  },
   "tags": [
-    "Discworld",
-    "magical item",
+    "discworld",
+    "magical-item",
     "artifact",
     "companion",
     "fantasy",
     "humor",
     "sentient",
-    "protector"
+    "loyal",
+    "sapient-pearwood",
+    "rincewind"
   ]
 }

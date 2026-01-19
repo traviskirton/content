@@ -39,14 +39,20 @@
     "realm_type": "magical",
     "significance": "ancient"
   },
+  "facets": {
+    "location-type": "realm",
+    "reality": "fictional",
+    "scale": "region"
+  },
   "tags": [
     "discworld",
-    "location",
     "magic",
     "mystery",
-    "fantasy",
     "arcane",
     "supernatural",
-    "hidden"
+    "hidden",
+    "esoteric",
+    "mythic",
+    "mystical-nexus"
   ]
 }

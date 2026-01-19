@@ -47,10 +47,20 @@
       "longitude": -19.0208
     }
   },
+  "facets": {
+    "location-type": "country",
+    "reality": "real",
+    "scale": "country"
+  },
   "tags": [
     "natural-formation",
-    "active",
-    "public",
-    "tours-available"
+    "active-volcanoes",
+    "tourism",
+    "geothermal-energy",
+    "filming-location",
+    "nordic",
+    "lava-fields",
+    "national-parks",
+    "icelandic"
   ]
 }

@@ -54,10 +54,20 @@
     ],
     "active_years": "2014-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "2010s",
+    "nationality": "british"
+  },
   "tags": [
-    "actor",
     "drama",
     "horror",
-    "modern"
+    "indie-films",
+    "versatile",
+    "blockbusters",
+    "acclaimed",
+    "english-actress"
   ]
 }

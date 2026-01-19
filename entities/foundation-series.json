@@ -82,14 +82,29 @@
     ],
     "installments": 7
   },
+  "facets": {
+    "genre": [
+      "sci-fi",
+      "space-opera"
+    ],
+    "era": "1940s",
+    "tone": [
+      "philosophical",
+      "cerebral",
+      "serious"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "science fiction",
-    "space opera",
     "psychohistory",
-    "galactic empire",
-    "Isaac Asimov",
-    "classic literature",
-    "future",
-    "political intrigue"
+    "galactic-empire",
+    "isaac-asimov",
+    "classic-literature",
+    "political-intrigue",
+    "determinism",
+    "free-will",
+    "social-engineering",
+    "hard-science",
+    "epic-storytelling"
   ]
 }

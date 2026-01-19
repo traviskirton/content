@@ -89,11 +89,21 @@
     "born": "unknown",
     "portrayed_by": "Michael Keaton"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "everyman"
+  },
   "tags": [
-    "protagonist",
-    "hero",
     "vigilante",
     "detective",
-    "billionaire"
+    "billionaire",
+    "batman",
+    "dark-knight",
+    "gotham",
+    "tim-burton",
+    "murders",
+    "trauma",
+    "wealthy-family"
   ]
 }

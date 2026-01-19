@@ -47,13 +47,26 @@
     "language": "Italian",
     "duration": "Approximately 1 hour"
   },
+  "facets": {
+    "genre": [
+      "opera"
+    ],
+    "era": "renaissance",
+    "tone": [
+      "dramatic",
+      "tragic"
+    ],
+    "rating": ""
+  },
   "tags": [
-    "item",
-    "opera",
-    "The Godfather Part III",
-    "Italian culture",
+    "the-godfather-part-iii",
+    "italian-culture",
     "music",
-    "Mascagni",
-    "tragic opera"
+    "pietro-mascagni",
+    "passion",
+    "honor",
+    "betrayal",
+    "vengeance",
+    "classical-music"
   ]
 }

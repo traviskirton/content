@@ -46,10 +46,19 @@
     "species": "human",
     "portrayed_by": "Michael J. Fox"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "innocent"
+  },
   "tags": [
-    "supporting",
     "time-traveler",
     "teenager",
-    "McFly family"
+    "mcfly-family",
+    "future",
+    "back-to-the-future",
+    "family-dynamics",
+    "adolescence",
+    "hill-valley"
   ]
 }

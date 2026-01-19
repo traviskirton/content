@@ -43,14 +43,21 @@
     "expertise": "Soviet Espionage",
     "education": "Cambridge University"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "sage"
+  },
   "tags": [
-    "fictional character",
     "espionage",
-    "British intelligence",
-    "Tinker Tailor Soldier Spy",
-    "spy fiction",
-    "Soviet Union",
+    "british-intelligence",
+    "tinker-tailer-soldier-spy",
+    "spy-fiction",
+    "soviet-union",
     "analyst",
-    "John le Carré"
+    "john-le-carré",
+    "intelligence-analyst",
+    "cambridge",
+    "cold-war"
   ]
 }

@@ -37,12 +37,17 @@
     "period": "19th century Victorian",
     "function": "Forensic chemical analysis"
   },
+  "facets": {
+    "era": "victorian"
+  },
   "tags": [
-    "item",
-    "Holmes",
-    "chemistry set",
+    "holmes",
+    "chemistry-set",
     "forensics",
-    "Victorian science",
-    "A Study in Scarlet"
+    "victorian-science",
+    "a-study-in-scarlet",
+    "forensic-science",
+    "chemical-analysis",
+    "detective-equipment"
   ]
 }

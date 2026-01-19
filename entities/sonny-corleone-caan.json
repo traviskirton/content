@@ -55,14 +55,21 @@
     "portrayed_by": "James Caan",
     "temperament": "Impulsive"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "warrior"
+  },
   "tags": [
-    "The Godfather",
+    "the-godfather",
     "mafia",
-    "Corleone family",
+    "corleone-family",
     "enforcer",
-    "Caan",
+    "james-caan",
     "hot-headed",
-    "crime film",
-    "New York"
+    "crime-film",
+    "new-york",
+    "impulsive",
+    "family-loyalty"
   ]
 }

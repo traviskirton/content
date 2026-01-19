@@ -52,14 +52,22 @@
     "year": 1964,
     "status": "Foiled"
   },
+  "facets": {
+    "year": 1964,
+    "location": "fort-knox",
+    "status": "foiled",
+    "type": "heist/operation"
+  },
   "tags": [
-    "Heist",
-    "Goldfinger",
-    "Fort Knox",
-    "James Bond",
-    "Cold War",
-    "Gold",
-    "Espionage",
-    "Operation"
+    "heist",
+    "goldfinger",
+    "fort-knox",
+    "james-bond",
+    "cold-war",
+    "gold",
+    "espionage",
+    "operation",
+    "nuclear-threat",
+    "financial-manipulation"
   ]
 }

@@ -37,13 +37,24 @@
     "notable_works": "The Godfather trilogy",
     "founders": "Francis Ford Coppola"
   },
+  "facets": {
+    "industry": "film production",
+    "active-era": "1970s",
+    "notable-works": [
+      "the-godfather-trilogy"
+    ],
+    "founders": [
+      "francis-ford-coppola"
+    ]
+  },
   "tags": [
-    "film production",
-    "The Godfather",
-    "Francis Ford Coppola",
-    "1970s cinema",
-    "production company",
-    "Hollywood",
-    "movie making"
+    "the-godfather",
+    "francis-ford-coppola",
+    "hollywood",
+    "production-company",
+    "movie-making",
+    "classic-cinema",
+    "studio-era",
+    "cult-film"
   ]
 }

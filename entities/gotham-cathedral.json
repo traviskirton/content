@@ -40,10 +40,18 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "gothic",
-    "Gotham City",
-    "action"
+    "gotham-city",
+    "action",
+    "gothic-architecture",
+    "landmark",
+    "batman",
+    "climactic-battle"
   ]
 }

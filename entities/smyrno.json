@@ -33,13 +33,17 @@
     "climate": "Temperate",
     "strategic_value": "Moderate"
   },
+  "facets": {
+    "location-type": "planet",
+    "reality": "fictional",
+    "scale": "planet"
+  },
   "tags": [
-    "Foundation",
-    "Science Fiction",
-    "Planet",
-    "Trade Hub",
-    "Peripheral System",
-    "Interstellar Politics",
-    "Isaac Asimov"
+    "foundation-universe",
+    "science-fiction",
+    "trade-hub",
+    "peripheral-system",
+    "interstellar-politics",
+    "isaac-asimov"
   ]
 }

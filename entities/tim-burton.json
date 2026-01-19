@@ -56,12 +56,23 @@
     ],
     "active_years": "1979-present"
   },
+  "facets": {
+    "profession": [
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active-era": "1980s",
+    "nationality": "american"
+  },
   "tags": [
-    "director",
-    "producer",
-    "writer",
     "fantasy",
     "gothic",
-    "animation"
+    "animation",
+    "dark-aesthetic",
+    "whimsical",
+    "imaginative-storytelling",
+    "cult-classics",
+    "stop-motion"
   ]
 }

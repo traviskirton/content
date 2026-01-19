@@ -44,14 +44,23 @@
     "narrative_role": "Symbolizes tradition and family ties",
     "film_location": "Corleone estate"
   },
+  "facets": {
+    "event-type": "religious ritual",
+    "themes": [
+      "family",
+      "tradition",
+      "faith",
+      "cultural heritage"
+    ]
+  },
   "tags": [
-    "family",
-    "religion",
-    "catholic tradition",
-    "cultural event",
-    "The Godfather Part II",
-    "rite of passage",
+    "the-godfather-part-ii",
+    "rite-of-passage",
     "italian-american",
-    "film scene"
+    "corleone-family",
+    "film-scene",
+    "catholic-tradition",
+    "family-unity",
+    "mafia-drama"
   ]
 }

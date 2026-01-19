@@ -56,13 +56,24 @@
     ],
     "nationality": "American"
   },
+  "facets": {
+    "profession": [
+      "software-engineer",
+      "ui-designer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
+    "user-interface",
+    "human-computer-interaction",
+    "apple",
+    "iphone",
     "technology",
     "software",
-    "design",
-    "user interface",
-    "Apple",
-    "iPhone",
-    "engineering"
+    "engineering",
+    "minimalism",
+    "touchscreen",
+    "usability"
   ]
 }

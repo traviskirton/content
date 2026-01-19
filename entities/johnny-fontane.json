@@ -36,12 +36,19 @@
     "ethnicity": "Italian-American",
     "career_focus": "Entertainment"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "everyman"
+  },
   "tags": [
-    "Entertainment",
-    "Singer",
-    "Godson",
-    "Hollywood",
-    "Corleone Family",
-    "Showbiz"
+    "singer",
+    "actor",
+    "corleone-family",
+    "hollywood",
+    "family-drama",
+    "showbiz",
+    "italian-american",
+    "music-industry"
   ]
 }

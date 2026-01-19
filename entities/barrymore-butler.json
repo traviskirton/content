@@ -45,13 +45,20 @@
     "employment": "Baskerville Hall",
     "loyalty": "Family service"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "Fictional Butler",
-    "The Hound of the Baskervilles",
-    "Supporting character",
-    "Mystery",
-    "Arthur Conan Doyle",
-    "Loyal Servant",
-    "Victorian England"
+    "fictional-butler",
+    "the-hound-of-the-baskervilles",
+    "mystery",
+    "arthur-conan-doyle",
+    "loyal-servant",
+    "victorian-england",
+    "family-secrets",
+    "estate-keeper",
+    "discretion"
   ]
 }

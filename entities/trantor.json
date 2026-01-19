@@ -42,13 +42,19 @@
     "status": "Capital of Galactic Empire",
     "location": "Central Galactic Region"
   },
+  "facets": {
+    "location-type": "planet",
+    "reality": "fictional",
+    "scale": "planet"
+  },
   "tags": [
-    "Foundation",
-    "Science Fiction",
-    "Planet",
-    "Galactic Empire",
-    "Capital",
-    "Urban",
-    "Isaac Asimov"
+    "foundation-universe",
+    "galactic-empire",
+    "urban",
+    "capital",
+    "isaac-asimov",
+    "political-center",
+    "city-planet",
+    "billion-inhabitants"
   ]
 }

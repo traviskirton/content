@@ -44,14 +44,21 @@
     "notable_item": "The One Ring",
     "age": "Approximately 500+ years"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "antihero",
+    "archetype": "rebel"
+  },
   "tags": [
     "corruption",
     "ring-bearer",
     "tragic",
-    "antihero",
     "fantasy",
     "middle-earth",
     "hobbit",
-    "character"
+    "dual-identity",
+    "obsession",
+    "survivor",
+    "mordor-guide"
   ]
 }

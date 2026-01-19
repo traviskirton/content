@@ -34,14 +34,21 @@
     "security_level": "Maximum",
     "symbolism": "East-West division"
   },
+  "facets": {
+    "location-type": "structure",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "location",
-    "Berlin Wall",
-    "Cold War",
+    "berlin-wall",
+    "cold-war",
     "espionage",
-    "border crossing",
-    "le Carré",
-    "Smiley's People",
-    "checkpoint"
+    "border-crossing",
+    "le-carre",
+    "smileys-people",
+    "checkpoint-charlie",
+    "austere",
+    "surveillance",
+    "espionage-thriller"
   ]
 }

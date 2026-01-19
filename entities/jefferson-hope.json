@@ -42,12 +42,20 @@
     "gender": "Male",
     "motivation": "Revenge"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "ambiguous",
+    "archetype": "rebel"
+  },
   "tags": [
-    "Antagonist",
-    "Murderer",
-    "Revenge",
-    "American West",
-    "Victorian Crime",
-    "A Study in Scarlet"
+    "murderer",
+    "revenge",
+    "american-west",
+    "victorian-crime",
+    "a-study-in-scarlet",
+    "frontiersman",
+    "justice",
+    "vengeance",
+    "complex-character"
   ]
 }

@@ -45,11 +45,18 @@
     "created_by": "character",
     "fictional": true
   },
+  "facets": {
+    "item_type": "artifact",
+    "fictional": true
+  },
   "tags": [
-    "artifact",
     "sci-fi",
     "reality",
     "personal",
-    "dream"
+    "dream",
+    "unique",
+    "reality-test",
+    "inception",
+    "symbolism"
   ]
 }

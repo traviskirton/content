@@ -48,13 +48,19 @@
       "Adrian Pennino"
     ]
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "1970s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "The Godfather",
-    "crime drama",
-    "American cinema",
-    "Rocky series",
-    "Coppola family",
-    "academy award nominee"
+    "the-godfather",
+    "crime-drama",
+    "american-cinema",
+    "rocky-series",
+    "coppola-family",
+    "academy-award-nominee"
   ]
 }

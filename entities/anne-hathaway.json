@@ -70,10 +70,18 @@
     ],
     "active_years": "1999-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "modern",
     "drama",
-    "comedy"
+    "comedy",
+    "versatile",
+    "emotional-range",
+    "charismatic-presence"
   ]
 }

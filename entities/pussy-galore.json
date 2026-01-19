@@ -46,12 +46,21 @@
     "skills": "Pilot, leader, combatant",
     "nationality": "American (implied)"
   },
+  "facets": {
+    "role": "deuteragonist",
+    "morality": "ambiguous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "James Bond character",
-    "female pilot",
-    "flying circus",
-    "Cold War fiction",
-    "spy fiction",
-    "strong female character"
+    "james-bond-character",
+    "female-pilot",
+    "flying-circus",
+    "cold-war-fiction",
+    "spy-fiction",
+    "strong-female-character",
+    "aerial-stunts",
+    "espionage",
+    "female-leader",
+    "bond-universe"
   ]
 }

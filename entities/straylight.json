@@ -43,13 +43,21 @@
     "location": "Orbit",
     "security": "Highly guarded"
   },
+  "facets": {
+    "location-type": "structure",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "location",
-    "space station",
+    "space-station",
     "cyberpunk",
     "corporate",
-    "artificial intelligence",
-    "setting",
-    "dystopia"
+    "artificial-intelligence",
+    "dystopia",
+    "tessier-ashpool",
+    "neuromancer",
+    "orbit",
+    "high-security",
+    "fortress"
   ]
 }

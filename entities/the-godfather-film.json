@@ -62,14 +62,28 @@
     "imdb_rating": 9.2,
     "based_on": "The Godfather (Novel) by Mario Puzo"
   },
+  "facets": {
+    "genre": [
+      "crime",
+      "drama"
+    ],
+    "era": "1970s",
+    "tone": [
+      "dark",
+      "serious",
+      "gritty"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "crime film",
     "mafia",
-    "classic film",
-    "1970s",
     "gangster",
-    "Francis Ford Coppola",
-    "academy award winner",
-    "American cinema"
+    "classic-film",
+    "academy-award-winner",
+    "american-cinema",
+    "family-drama",
+    "power-struggle",
+    "organized-crime",
+    "corleone"
   ]
 }

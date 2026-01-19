@@ -39,9 +39,19 @@
     "occupation": "psychiatrist",
     "portrayed_by": "Florence Pugh"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "supporting",
-    "love interest",
-    "historical figure"
+    "love-interest",
+    "historical-figure",
+    "political-activism",
+    "communism",
+    "psychiatrist",
+    "tragedy",
+    "intellectual",
+    "opposite-to-oppenheimer"
   ]
 }

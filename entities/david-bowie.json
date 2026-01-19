@@ -54,10 +54,22 @@
     ],
     "active_years": "1962-2016"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "1960s",
+    "nationality": "british"
+  },
   "tags": [
-    "actor",
     "sci-fi",
     "fantasy",
-    "modern"
+    "singer-songwriter",
+    "record-producer",
+    "music-legend",
+    "glam-rock",
+    "eclectic-career",
+    "music-and-film",
+    "space-oddity"
   ]
 }

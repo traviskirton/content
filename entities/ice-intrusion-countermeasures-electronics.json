@@ -41,14 +41,21 @@
     "role": "Defensive digital security",
     "usage": "Corporate networks and AIs"
   },
+  "facets": {
+    "category": "technology",
+    "subtype": "cybersecurity",
+    "setting": "cyberpunk",
+    "origin": "neuromancer"
+  },
   "tags": [
     "cyberspace",
     "cybersecurity",
     "hacking",
-    "cyberpunk",
-    "technology",
-    "digital_defense",
-    "AI_security",
-    "Neuromancer"
+    "digital-defense",
+    "ai-security",
+    "neuromancer",
+    "black-ice",
+    "netrunner",
+    "corporate-warfare"
   ]
 }

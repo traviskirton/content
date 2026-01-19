@@ -39,13 +39,21 @@
     "role": "Key Setting",
     "security_level": "High"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "Casino",
-    "Gambling",
-    "Espionage",
-    "Baccarat",
-    "Royale-les-Eaux",
-    "James Bond",
-    "Cold War"
+    "gambling",
+    "espionage",
+    "baccarat",
+    "royale-les-eaux",
+    "james-bond",
+    "cold-war",
+    "luxury",
+    "high-stakes",
+    "european-upper-class",
+    "spy-thriller"
   ]
 }

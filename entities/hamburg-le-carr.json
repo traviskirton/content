@@ -34,14 +34,21 @@
     "port_city": true,
     "population": "Approximately 1.7 million (circa 1970s)"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "location",
-    "Cold War",
-    "Germany",
+    "cold-war",
     "espionage",
-    "city",
-    "le Carré",
-    "Smiley's People",
-    "intelligence"
+    "le-carré",
+    "smiley's-people",
+    "intelligence",
+    "germany",
+    "port-city",
+    "urban-decay",
+    "spy-thriller",
+    "division"
   ]
 }

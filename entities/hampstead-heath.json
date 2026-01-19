@@ -32,14 +32,20 @@
     "type": "Urban park",
     "area": "Approximately 790 acres"
   },
+  "facets": {
+    "location-type": "landscape",
+    "reality": "real",
+    "scale": "neighborhood"
+  },
   "tags": [
-    "location",
     "park",
-    "London",
-    "Cold War",
+    "london",
+    "cold-war",
     "espionage",
-    "literary setting",
-    "le Carré",
-    "Smiley's People"
+    "le-carre",
+    "smiley's-people",
+    "literary-setting",
+    "secret-meetings",
+    "historic"
   ]
 }

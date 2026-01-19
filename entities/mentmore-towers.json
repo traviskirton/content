@@ -40,10 +40,20 @@
       "long": -0.6851
     }
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "historic house",
+    "historic-house",
     "private",
     "tours-available",
-    "filming location"
+    "filming-location",
+    "jacobethan",
+    "english-countryside",
+    "rothschild",
+    "batman",
+    "wayne-manor"
   ]
 }

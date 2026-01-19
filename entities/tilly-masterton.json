@@ -38,12 +38,20 @@
     "franchise": "James Bond",
     "film": "Goldfinger"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "James Bond",
-    "Goldfinger",
-    "supporting_character",
+    "james-bond",
+    "goldfinger",
     "1960s",
-    "female_characters",
-    "Bond_girl_related"
+    "female-characters",
+    "bond-girl-related",
+    "emotional-resilience",
+    "grief",
+    "family-loyalty",
+    "motivator"
   ]
 }

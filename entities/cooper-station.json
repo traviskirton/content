@@ -33,9 +33,19 @@
     "type": "space station",
     "population": "Tens of thousands"
   },
+  "facets": {
+    "location-type": "structure",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "space station",
+    "space-station",
     "sci-fi",
-    "futuristic"
+    "futuristic",
+    "orbit",
+    "saturn",
+    "artificial-gravity",
+    "cylindrical-design",
+    "human-habitat"
   ]
 }

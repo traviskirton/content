@@ -47,13 +47,20 @@
     "created_by": "Dr. Emmett Brown",
     "fictional": true
   },
+  "facets": {
+    "item-type": "device",
+    "reality": "fictional",
+    "theme": [
+      "time-travel",
+      "clean-energy",
+      "fusion-power"
+    ]
+  },
   "tags": [
-    "device",
     "technology",
-    "sci-fi",
-    "time-travel",
-    "fusion power",
-    "clean energy",
-    "delorean-time-machine"
+    "delorean-time-machine",
+    "power-source",
+    "compact-device",
+    "future-tech"
   ]
 }

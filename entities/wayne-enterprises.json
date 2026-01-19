@@ -57,9 +57,18 @@
     "headquarters": "Gotham City",
     "fictional": true
   },
+  "facets": {
+    "role": "heroic"
+  },
   "tags": [
     "corporation",
-    "heroic",
-    "superhero"
+    "superhero",
+    "fictional",
+    "multinational",
+    "technological-innovations",
+    "philanthropy",
+    "defense-technology",
+    "gotham-city",
+    "batman-universe"
   ]
 }

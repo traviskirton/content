@@ -43,10 +43,21 @@
       "long": 139.759455
     }
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "real",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "active",
     "public",
-    "tours-available"
+    "tours-available",
+    "japan",
+    "megacity",
+    "urban-culture",
+    "skyscrapers",
+    "historic-temples",
+    "shinjuku",
+    "shibuya"
   ]
 }

@@ -65,13 +65,23 @@
     ],
     "active_years": "1980-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "comedian",
+      "voice-actor"
+    ],
+    "active-era": "1980s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "comedian",
-    "voice actor",
-    "80s",
+    "musician",
     "comedy",
     "sci-fi",
-    "modern"
+    "back-to-the-future",
+    "80s-movie",
+    "character-actor",
+    "improvisation",
+    "cult-classic"
   ]
 }

@@ -46,11 +46,21 @@
     ],
     "active_years": "1995-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "2000s",
+    "nationality": "australian"
+  },
   "tags": [
-    "actor",
-    "modern",
     "drama",
     "thriller",
-    "sci-fi"
+    "sci-fi",
+    "intense",
+    "versatile",
+    "complex-characters",
+    "hollywood",
+    "international-cinema"
   ]
 }

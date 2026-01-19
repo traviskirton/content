@@ -44,13 +44,22 @@
     "public_visibility": "Low",
     "power_level": "High"
   },
+  "facets": {
+    "category": "organized-crime",
+    "universe": "the-godfather",
+    "nature": "fictional",
+    "type": "crime-family",
+    "location": "new-york-city"
+  },
   "tags": [
-    "organized_crime",
     "mafia",
-    "crime_family",
-    "The Godfather",
-    "fictional_organization",
-    "film",
-    "gangster"
+    "gangster",
+    "rackets",
+    "power-struggle",
+    "five-families",
+    "political-corruption",
+    "racketeering",
+    "gambling",
+    "extortion"
   ]
 }

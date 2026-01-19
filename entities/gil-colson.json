@@ -49,10 +49,18 @@
     "occupation": "district attorney",
     "portrayed_by": "Peter Sarsgaard"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "supporting",
-    "villain",
-    "antagonist",
-    "politician"
+    "politician",
+    "corruption",
+    "gotham",
+    "district-attorney",
+    "manipulated",
+    "fear",
+    "ambition"
   ]
 }

@@ -51,14 +51,19 @@
     "status": "alive",
     "marital_status": "widowed"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "caregiver"
+  },
   "tags": [
     "mafia",
-    "Corleone Family",
-    "female character",
-    "The Godfather",
-    "family drama",
-    "film character",
-    "fictional character",
-    "power dynamics"
+    "corleone-family",
+    "family-drama",
+    "power-dynamics",
+    "the-godfather",
+    "film-character",
+    "female",
+    "emotional-resilience"
   ]
 }

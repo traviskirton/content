@@ -39,13 +39,17 @@
     "notability": "Iconic scene",
     "impact": "Psychological terror"
   },
+  "facets": {},
   "tags": [
-    "iconic_scene",
+    "iconic-scene",
     "intimidation",
     "mafia",
     "symbol",
-    "The Godfather",
-    "movie_prop",
-    "psychological_warfare"
+    "the-godfather",
+    "movie-prop",
+    "psychological-warfare",
+    "organized-crime",
+    "mobster",
+    "crime-family"
   ]
 }

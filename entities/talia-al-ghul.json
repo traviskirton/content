@@ -55,10 +55,18 @@
     "occupation": "Leader of the League of Shadows",
     "portrayed_by": "Marion Cotillard"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "antagonist",
-    "villain",
     "strategist",
-    "deceptive"
+    "deceptive",
+    "league-of-shadows",
+    "hand-to-hand-combat",
+    "gotham",
+    "dark-knight-rises",
+    "marion-cotillard"
   ]
 }

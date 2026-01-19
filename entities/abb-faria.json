@@ -47,11 +47,21 @@
     "born": "early 19th century (approximate, exact year unknown)",
     "location": "Château d'If (prison)"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "mentor",
     "human",
+    "priest",
     "scholar",
-    "prisoner"
+    "prisoner",
+    "cryptography",
+    "mentor-figure",
+    "polymath",
+    "justice",
+    "knowledge",
+    "teacher"
   ]
 }

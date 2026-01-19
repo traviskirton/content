@@ -52,14 +52,26 @@
     "operational_status": "Active",
     "creator": "Hari Seldon"
   },
+  "facets": {
+    "genre": [
+      "sci-fi"
+    ],
+    "era": "far-future",
+    "tone": [
+      "philosophical",
+      "cerebral"
+    ]
+  },
   "tags": [
     "artefact",
     "hologram",
     "psychohistory",
-    "Foundation",
-    "science fiction",
-    "Isaac Asimov",
-    "future guidance",
-    "crisis management"
+    "foundation",
+    "isaac-asimov",
+    "future-guidance",
+    "crisis-management",
+    "seldon-plan",
+    "galactic-empire",
+    "technology"
   ]
 }

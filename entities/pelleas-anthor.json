@@ -47,14 +47,21 @@
     "species": "Human",
     "gender": "Male"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "Second Foundation",
+    "second-foundation",
     "psychohistory",
     "telepathy",
     "politics",
-    "science fiction",
-    "Isaac Asimov",
-    "Foundation Series",
-    "character"
+    "isaac-asimov",
+    "foundation-series",
+    "science-fiction",
+    "political-manipulation",
+    "mental-abilities",
+    "strategist"
   ]
 }

@@ -52,12 +52,21 @@
     "occupation": "Adventurer, Writer",
     "age": "111 (at start of Fellowship)"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "explorer"
+  },
   "tags": [
-    "Middle-earth",
-    "Hobbit",
-    "Ring-bearer",
-    "Adventurer",
-    "Author",
-    "Fellowship"
+    "middle-earth",
+    "hobbit",
+    "ring-bearer",
+    "adventurer",
+    "author",
+    "fellowship",
+    "shire",
+    "quest",
+    "courage",
+    "riddling"
   ]
 }

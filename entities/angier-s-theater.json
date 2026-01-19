@@ -36,12 +36,19 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "magic",
-    "narrative_centrality",
-    "19th_century",
+    "narrative-centrality",
+    "19th-century",
     "mystery",
-    "drama"
+    "drama",
+    "stage-theater",
+    "illusion",
+    "victorian-london"
   ]
 }

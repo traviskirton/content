@@ -63,14 +63,23 @@
     "active_years": "1960-present",
     "awards": "Multiple Academy Awards"
   },
+  "facets": {
+    "profession": [
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active-era": "1960s",
+    "nationality": "american"
+  },
   "tags": [
-    "film director",
-    "screenwriter",
-    "producer",
-    "New Hollywood",
-    "American cinema",
+    "new-hollywood",
     "auteur",
-    "classic films",
-    "The Godfather"
+    "classic-films",
+    "the-godfather",
+    "american-cinema",
+    "academy-awards",
+    "filmmaking",
+    "narrative-depth"
   ]
 }

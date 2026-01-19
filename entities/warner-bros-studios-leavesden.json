@@ -41,9 +41,19 @@
     "country": "United Kingdom",
     "coordinates": "51.6906, -0.4175"
   },
+  "facets": {
+    "location-type": "studio",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "studio",
     "active",
-    "tours-available"
+    "tours-available",
+    "film-studio",
+    "production-facility",
+    "warner-bros",
+    "leavesden",
+    "united-kingdom",
+    "blockbuster-films"
   ]
 }

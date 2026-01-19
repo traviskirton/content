@@ -44,12 +44,20 @@
       "target": "f3d1b1e4-6292-4b9a-a398-0f01fde8ea08"
     }
   ],
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "assassin"
+  },
   "tags": [
-    "antagonist",
-    "villain",
-    "assassin",
     "spy",
-    "SMERSH",
-    "human"
+    "smersh",
+    "human",
+    "cold-war",
+    "espionage",
+    "brutal",
+    "relentless",
+    "hand-to-hand-combat",
+    "marksman"
   ]
 }

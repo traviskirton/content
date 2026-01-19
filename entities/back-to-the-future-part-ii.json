@@ -140,13 +140,26 @@
     "box_office": 332000000,
     "rating": "PG"
   },
+  "facets": {
+    "genre": [
+      "sci-fi",
+      "adventure",
+      "comedy"
+    ],
+    "era": "1980s",
+    "tone": [
+      "light",
+      "action-driven"
+    ],
+    "rating": "family"
+  },
   "tags": [
-    "sci-fi",
-    "1980s",
-    "adventure",
     "time-travel",
     "blockbuster",
     "robert-zemeckis",
-    "back-to-the-future"
+    "back-to-the-future",
+    "hoverboards",
+    "special-effects",
+    "ensemble-cast"
   ]
 }

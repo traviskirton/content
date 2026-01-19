@@ -37,12 +37,18 @@
     "period": "Victorian Era",
     "use": "Contemplative smoking"
   },
+  "facets": {
+    "era": "victorian"
+  },
   "tags": [
-    "item",
-    "Holmes",
-    "smoking pipe",
-    "detective accessory",
-    "Victorian",
-    "A Study in Scarlet"
+    "holmes",
+    "smoking-pipe",
+    "detective-accessory",
+    "a-study-in-scarlet",
+    "victorian-era",
+    "classic",
+    "literary-icon",
+    "analytical",
+    "intellectual"
   ]
 }

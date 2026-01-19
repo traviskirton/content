@@ -49,9 +49,18 @@
     "headquarters": "Unknown",
     "fictional": true
   },
+  "facets": {
+    "organization-type": "secret society",
+    "reality": "fictional"
+  },
   "tags": [
-    "secret-society",
-    "neutral",
-    "sci-fi"
+    "time-inversion",
+    "temporal-pincer-movement",
+    "covert-operations",
+    "global-stability",
+    "secretive",
+    "high-stakes-mission",
+    "science-fiction",
+    "temporal-disaster-prevention"
   ]
 }

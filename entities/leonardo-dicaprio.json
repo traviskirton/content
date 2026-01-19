@@ -66,11 +66,22 @@
     ],
     "active_years": "1989-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "producer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "producer",
     "drama",
-    "modern",
-    "oscar-winner"
+    "oscar-winner",
+    "versatile-actor",
+    "environmental-activist",
+    "blockbuster",
+    "method-acting",
+    "collaborator",
+    "award-winning"
   ]
 }

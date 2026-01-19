@@ -51,10 +51,20 @@
     "occupation": "secretary, vigilante",
     "portrayed_by": "Michelle Pfeiffer"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "antihero",
+    "archetype": "rebel"
+  },
   "tags": [
-    "antagonist",
-    "anti-heroine",
+    "vigilante",
     "comic-relief",
-    "vigilante"
+    "catwoman",
+    "gotham",
+    "whip",
+    "agility",
+    "acrobatic",
+    "nine-lives",
+    "feline-intuition"
   ]
 }

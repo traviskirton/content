@@ -47,12 +47,20 @@
     "type": "Military counterintelligence and assassination agency",
     "notable_appearance": "Casino Royale (Novel)"
   },
+  "facets": {
+    "origin": "soviet union",
+    "active-period": "1940s",
+    "nature": "counterintelligence",
+    "role": "antagonist"
+  },
   "tags": [
     "espionage",
     "intelligence",
-    "Cold War",
-    "antagonist",
-    "Soviet",
-    "spy fiction"
+    "cold-war",
+    "spy-fiction",
+    "assassination",
+    "covert-operations",
+    "secret-service",
+    "political-intrigue"
   ]
 }

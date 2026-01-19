@@ -60,13 +60,21 @@
     ],
     "alignment": "Neutral Good"
   },
+  "facets": {
+    "role": "deuteragonist",
+    "morality": "neutral",
+    "archetype": "warrior"
+  },
   "tags": [
-    "character",
     "fighter",
     "thief",
     "loyalty",
     "silent",
     "fantasy",
-    "Gentleman Bastard"
+    "gentleman-bastard",
+    "combat",
+    "strength",
+    "strategy-support",
+    "camorr"
   ]
 }

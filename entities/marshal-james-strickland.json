@@ -40,10 +40,19 @@
     "occupation": "lawman",
     "portrayed_by": "James Tolkan"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "mentor",
     "lawman",
-    "1885"
+    "old-west",
+    "hill-valley",
+    "1885-timeline",
+    "western",
+    "strict",
+    "authoritative",
+    "justice-upholding"
   ]
 }

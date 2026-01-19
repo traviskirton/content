@@ -48,10 +48,20 @@
     "population": "Not specified",
     "founded": "Not specified"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "city",
     "sci-fi",
     "futuristic",
-    "2015"
+    "2015",
+    "hoverboards",
+    "flying-cars",
+    "back-to-the-future",
+    "time-travel",
+    "retro-futurism",
+    "california"
   ]
 }

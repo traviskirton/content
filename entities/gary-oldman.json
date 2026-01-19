@@ -65,13 +65,24 @@
     ],
     "active_years": "1979-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active-era": "modern",
+    "nationality": "british"
+  },
   "tags": [
-    "actor",
-    "director",
-    "producer",
-    "writer",
     "drama",
     "sci-fi",
-    "modern"
+    "versatile",
+    "intense-performances",
+    "academy-award-winner",
+    "character-actor",
+    "chameleon",
+    "stage-experience"
   ]
 }

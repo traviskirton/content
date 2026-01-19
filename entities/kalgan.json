@@ -38,13 +38,19 @@
     "importance": "Military Stronghold",
     "status": "Key Conflict Location"
   },
+  "facets": {
+    "location-type": "planet",
+    "reality": "fictional",
+    "scale": "planet"
+  },
   "tags": [
-    "location",
-    "science fiction",
-    "Foundation series",
-    "Isaac Asimov",
-    "planet",
+    "foundation-series",
+    "isaac-asimov",
     "imperial",
-    "military"
+    "military",
+    "fortress-city",
+    "political-intrigue",
+    "galactic-empire",
+    "militarized"
   ]
 }

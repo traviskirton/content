@@ -48,13 +48,20 @@
     "weapon": "Staff",
     "race": "Maia"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "mastermind"
+  },
   "tags": [
-    "Istari",
-    "Wizard",
-    "Magic",
-    "Traitor",
-    "Middle-earth",
-    "Power",
-    "Antagonist"
+    "magic",
+    "traitor",
+    "middle-earth",
+    "power",
+    "istari",
+    "isengard",
+    "orcs",
+    "uruk-hai",
+    "white-wizard"
   ]
 }

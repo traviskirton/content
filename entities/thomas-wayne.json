@@ -49,8 +49,18 @@
     "died": "2000s",
     "portrayed_by": "Linus Roache"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "mentor"
+    "physician",
+    "philanthropist",
+    "gotham-city",
+    "father-figure",
+    "human",
+    "empathy",
+    "legacy"
   ]
 }

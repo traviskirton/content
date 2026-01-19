@@ -47,12 +47,21 @@
     "location": "London",
     "agency_type": "Intelligence"
   },
+  "facets": {
+    "era": "cold-war",
+    "location": "london",
+    "country": "united-kingdom",
+    "agency-type": "intelligence"
+  },
   "tags": [
-    "Cold War",
-    "Espionage",
-    "British Intelligence",
-    "MI6",
-    "Spy Fiction",
-    "Covert Operations"
+    "cold-war",
+    "espionage",
+    "british-intelligence",
+    "mi6",
+    "spy-fiction",
+    "covert-operations",
+    "intelligence-agency",
+    "secret-service",
+    "british-spies"
   ]
 }

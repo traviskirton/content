@@ -50,15 +50,28 @@
     "language": "English",
     "country": "United States"
   },
+  "facets": {
+    "genre": [
+      "crime",
+      "drama"
+    ],
+    "era": "1990s",
+    "tone": [
+      "serious",
+      "dark",
+      "atmospheric"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "crime",
-    "drama",
     "mafia",
-    "organized crime",
-    "Francis Ford Coppola",
-    "Michael Corleone",
-    "saga",
-    "sequel",
-    "francis-ford-coppola"
+    "organized-crime",
+    "francis-ford-coppola",
+    "michael-corleone",
+    "family-drama",
+    "redemption",
+    "legacy",
+    "power",
+    "corruption"
   ]
 }

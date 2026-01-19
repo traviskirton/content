@@ -33,13 +33,19 @@
     "architectural_style": "Gothic-like fantasy",
     "influence_level": "High"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "fantasy",
-    "location",
     "religion",
     "politics",
-    "Camorr",
+    "camorr",
     "temple",
-    "secrets"
+    "secrets",
+    "gothic-fantasy",
+    "espionage",
+    "power-dynamics"
   ]
 }

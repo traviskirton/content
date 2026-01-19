@@ -55,14 +55,20 @@
     "notable_for": "Founding and leading the Corleone family",
     "portrayed_by": "Marlon Brando"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "ambiguous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "The Godfather",
+    "godfather",
     "mafia",
-    "crime family",
+    "crime-family",
     "patriarch",
-    "New York",
-    "Brando",
-    "classic film",
-    "fictional character"
+    "new-york",
+    "marlon-brando",
+    "classic-film",
+    "organized-crime",
+    "family-loyalty"
   ]
 }

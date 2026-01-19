@@ -47,12 +47,17 @@
     "lock_type": "Mechanical lock",
     "function": "Security for valuables"
   },
+  "facets": {},
   "tags": [
-    "The Adventure of the Speckled Band",
-    "Victorian Era",
-    "Security",
-    "Mystery",
-    "Sherlock Holmes",
-    "Symbolism"
+    "adventure-of-the-speckled-band",
+    "victorian-era",
+    "security",
+    "mystery",
+    "sherlock-holmes",
+    "symbolism",
+    "iron",
+    "lock",
+    "mechanical-lock",
+    "wealth"
   ]
 }

@@ -54,13 +54,23 @@
     "employer": "@@Apple Inc.@@",
     "nationality": "French"
   },
+  "facets": {
+    "profession": [
+      "software-engineer"
+    ],
+    "active-era": "",
+    "nationality": "french"
+  },
   "tags": [
-    "software",
-    "Apple",
+    "apple",
     "mobile",
-    "iOS",
+    "ios",
     "engineering",
     "browser",
-    "typing"
+    "typing",
+    "user-interface",
+    "software-development",
+    "input-systems",
+    "predictive-text"
   ]
 }

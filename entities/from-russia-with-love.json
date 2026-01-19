@@ -55,13 +55,27 @@
     "series": "James Bond",
     "pages": 253
   },
+  "facets": {
+    "genre": [
+      "thriller",
+      "spy"
+    ],
+    "era": "1950s",
+    "tone": [
+      "serious",
+      "suspenseful"
+    ],
+    "rating": "mature"
+  },
   "tags": [
-    "James Bond",
-    "Spy fiction",
-    "Cold War",
-    "Thriller",
-    "Ian Fleming",
-    "Espionage",
-    "1950s literature"
+    "james-bond",
+    "cold-war",
+    "espionage",
+    "ian-fleming",
+    "1950s-literature",
+    "exotic-locations",
+    "smersh",
+    "soviet-union",
+    "espionage-thriller"
   ]
 }

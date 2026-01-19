@@ -50,13 +50,21 @@
     "status": "Deceased",
     "adversaries": "Thorin's Company"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "villainous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "Misty Mountains",
-    "Goblin",
-    "Antagonist",
-    "Middle-earth",
-    "Cruel",
-    "Fantasy",
-    "The Hobbit"
+    "misty-mountains",
+    "goblin",
+    "middle-earth",
+    "fantasy",
+    "the-hobbit",
+    "tyrant",
+    "mountain-caves",
+    "orc",
+    "subterranean",
+    "tribal-leader"
   ]
 }

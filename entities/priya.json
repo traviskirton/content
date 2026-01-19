@@ -45,10 +45,18 @@
     "occupation": "arms dealer",
     "portrayed_by": "Dimple Kapadia"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "mentor",
     "resourceful",
-    "strategist"
+    "strategist",
+    "arms-dealer",
+    "espionage",
+    "time-inversion",
+    "calculated",
+    "intelligent"
   ]
 }

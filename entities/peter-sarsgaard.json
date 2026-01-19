@@ -42,10 +42,20 @@
     ],
     "active_years": "1995-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "1990s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "drama",
     "thriller",
-    "modern"
+    "versatile-performance",
+    "film-television",
+    "character-driven",
+    "nuanced",
+    "psychological"
   ]
 }

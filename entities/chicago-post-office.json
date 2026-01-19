@@ -47,11 +47,19 @@
       "long": -87.640864
     }
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "historic",
     "active",
     "public",
-    "tours-available"
+    "tours-available",
+    "art-deco",
+    "filming-location",
+    "chicago",
+    "urban"
   ]
 }

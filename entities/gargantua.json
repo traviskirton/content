@@ -36,10 +36,19 @@
     "fictional": true,
     "type": "black hole"
   },
+  "facets": {
+    "location-type": "planet",
+    "reality": "fictional",
+    "scale": "universe"
+  },
   "tags": [
     "space",
     "sci-fi",
     "futuristic",
-    "astronomy"
+    "astronomy",
+    "black-hole",
+    "time-dilation",
+    "event-horizon",
+    "interstellar"
   ]
 }

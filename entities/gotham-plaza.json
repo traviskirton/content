@@ -36,11 +36,18 @@
     "fictional": true,
     "type": "city square"
   },
+  "facets": {
+    "location-type": "structure",
+    "reality": "fictional",
+    "scale": "neighborhood"
+  },
   "tags": [
-    "city square",
-    "fictional",
-    "Christmas",
-    "Batman Returns",
-    "Gotham City"
+    "christmas",
+    "batman-returns",
+    "gotham-city",
+    "public-square",
+    "urban-landmark",
+    "holiday-celebration",
+    "fictional-location"
   ]
 }

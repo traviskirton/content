@@ -49,13 +49,21 @@
     "role_in_War": "Turn the tide at the Battle of Pelennor Fields",
     "location_associated": "Paths of the Dead"
   },
+  "facets": {
+    "organization-type": "spectral-army",
+    "origin": "middle-earth",
+    "supernatural": true,
+    "role": "redeemed-cursed-army"
+  },
   "tags": [
-    "Middle-earth",
-    "Specters",
-    "Curse",
-    "War of the Ring",
-    "Supernatural",
-    "Gondor",
-    "The Lord of the Rings"
+    "middle-earth",
+    "specters",
+    "curse",
+    "war-of-the-ring",
+    "gondor",
+    "lord-of-the-rings",
+    "paths-of-the-dead",
+    "king-of-the-dead",
+    "supernatural-host"
   ]
 }

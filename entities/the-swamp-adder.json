@@ -43,12 +43,16 @@
     "method_of_use": "Murder weapon by Dr. Roylott",
     "attached_to": "Bell-pull rope"
   },
+  "facets": {},
   "tags": [
-    "fictional animal",
-    "murder weapon",
-    "venomous snake",
-    "Sherlock Holmes",
+    "fictional-animal",
+    "murder-weapon",
+    "venomous-snake",
+    "sherlock-holmes",
     "exotic",
-    "Indian wildlife"
+    "indian-wildlife",
+    "gothic",
+    "suspenseful",
+    "victorian-era"
   ]
 }

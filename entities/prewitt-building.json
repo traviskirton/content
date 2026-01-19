@@ -36,11 +36,19 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "gothic",
     "action",
     "thriller",
-    "urban"
+    "urban",
+    "batman",
+    "dark-knight",
+    "rooftop-pursuit",
+    "urban-decay"
   ]
 }

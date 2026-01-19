@@ -65,13 +65,25 @@
     ],
     "active_years": "1988-present"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director",
+      "producer",
+      "writer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "director",
-    "producer",
-    "writer",
     "sci-fi",
     "drama",
-    "modern"
+    "versatile-actor",
+    "independent-cinema",
+    "filmmaker",
+    "entrepreneur",
+    "hitrecord",
+    "television",
+    "film"
   ]
 }

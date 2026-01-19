@@ -56,11 +56,20 @@
     "year": "2008",
     "fictional": true
   },
+  "facets": {
+    "vehicle-type": "motorcycle",
+    "reality": "fictional",
+    "era": "2000s"
+  },
   "tags": [
-    "motorcycle",
     "action",
     "high-tech",
     "urban-combat",
-    "stealth"
+    "stealth",
+    "batman",
+    "dark-knight-trilogy",
+    "agile",
+    "tactical",
+    "specialized-motorcycle"
   ]
 }

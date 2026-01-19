@@ -49,13 +49,29 @@
     "technology_level": "Advanced",
     "importance": "Critical for mentalic security"
   },
+  "facets": {
+    "genre": [
+      "sci-fi"
+    ],
+    "technology": [
+      "advanced"
+    ],
+    "affiliation": [
+      "second-foundation"
+    ],
+    "function": [
+      "psychic-defense"
+    ]
+  },
   "tags": [
-    "technology",
-    "psychic defense",
-    "science fiction",
-    "Foundation series",
-    "Isaac Asimov",
     "mentalics",
-    "secret devices"
+    "secret-devices",
+    "foundation-series",
+    "isaac-asimov",
+    "psychic-jammer",
+    "psychic-interference",
+    "mind-static",
+    "portable",
+    "telepathic-blocker"
   ]
 }

@@ -39,11 +39,19 @@
     "fictional": true,
     "type": "building"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
+    "gotham-city",
+    "dark-knight",
     "hospital",
-    "building",
-    "Gotham City",
-    "The Dark Knight",
-    "fictional location"
+    "emergency-services",
+    "crime-ridden",
+    "gotham-universe",
+    "intensive-care",
+    "architectural-design"
   ]
 }

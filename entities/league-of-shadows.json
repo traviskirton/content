@@ -53,10 +53,22 @@
     "type": "secret-society",
     "fictional": true
   },
+  "facets": {
+    "organization-type": "secret-society",
+    "era": "ancient",
+    "morality": "villainous",
+    "reality": "fictional"
+  },
   "tags": [
-    "organization",
-    "secret-society",
-    "villainous",
-    "superhero"
+    "superhero",
+    "clandestine",
+    "espionage",
+    "combat-training",
+    "psychological-warfare",
+    "catastrophic-events",
+    "gotham",
+    "batman",
+    "shadow",
+    "assassins"
   ]
 }

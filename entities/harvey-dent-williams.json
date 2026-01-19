@@ -51,10 +51,18 @@
     "species": "human",
     "occupation": "District Attorney"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "ruler"
+  },
   "tags": [
-    "supporting",
-    "protagonist",
     "law-enforcer",
-    "human"
+    "human",
+    "gotham",
+    "justice",
+    "district-attorney",
+    "principled",
+    "crime-fighter"
   ]
 }

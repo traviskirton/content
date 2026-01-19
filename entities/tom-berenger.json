@@ -46,10 +46,21 @@
     ],
     "active_years": "1970-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "modern",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "drama",
     "action",
-    "modern"
+    "rugged-looks",
+    "versatile-performances",
+    "military-roles",
+    "authoritative-roles",
+    "soap-operas",
+    "academy-award-nominee"
   ]
 }

@@ -60,14 +60,18 @@
     "governance": "Technocratic",
     "role_in_series": "Central organization preserving civilization"
   },
+  "facets": {},
   "tags": [
-    "science_fiction",
+    "science-fiction",
     "organization",
-    "galactic_empire",
+    "galactic-empire",
     "technology",
     "psychohistory",
-    "Terminus",
-    "Isaac Asimov",
-    "Foundation series"
+    "terminus",
+    "isaac-asimov",
+    "foundation-series",
+    "scientific-organization",
+    "knowledge-preservation",
+    "galactic-history"
   ]
 }

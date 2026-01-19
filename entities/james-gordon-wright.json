@@ -56,11 +56,20 @@
     "occupation": "Detective",
     "portrayed_by": "Jeffrey Wright"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "mentor",
     "detective",
     "law-enforcement",
-    "Gotham City"
+    "gotham-city",
+    "justice",
+    "loyalty",
+    "integrity",
+    "corruption",
+    "ethical",
+    "strategic-thinking"
   ]
 }

@@ -38,13 +38,23 @@
     "occupation": "Actor, Journalist",
     "active_years": "1947–1999"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "writer"
+    ],
+    "active-era": "mid-century",
+    "nationality": "italian"
+  },
   "tags": [
-    "actor",
-    "Italian cinema",
+    "italian-cinema",
     "journalist",
     "theater",
-    "film",
     "neorealism",
-    "international cinema"
+    "international-cinema",
+    "film",
+    "classic-cinema",
+    "character-actor",
+    "dramatic"
   ]
 }

@@ -44,11 +44,23 @@
     ],
     "active_years": "1994-present"
   },
+  "facets": {
+    "profession": [
+      "composer"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "composer",
-    "modern",
     "sci-fi",
     "animation",
-    "adventure"
+    "adventure",
+    "orchestrator",
+    "conductor",
+    "academy-award-winner",
+    "film-score",
+    "video-game-score",
+    "blockbuster",
+    "john-williams-influence"
   ]
 }

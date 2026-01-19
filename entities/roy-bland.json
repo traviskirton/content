@@ -50,11 +50,20 @@
     "Loyalty": "Alleline Faction",
     "Status": "Compromised"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "everyman"
+  },
   "tags": [
-    "Espionage",
-    "British Intelligence",
-    "Cold War",
-    "Team Player",
-    "Tinker Tailor Soldier Spy"
+    "espionage",
+    "british-intelligence",
+    "cold-war",
+    "team-player",
+    "tinker-tailor-soldier-spy",
+    "loyalty",
+    "bureaucratic",
+    "operational",
+    "intelligence-officer"
   ]
 }

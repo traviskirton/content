@@ -57,9 +57,18 @@
     "portrayed_by": "Pat Hingle",
     "member_of": "Gotham City Police Department"
   },
+  "facets": {
+    "role": "supporting",
+    "archetype": "mentor",
+    "morality": "heroic"
+  },
   "tags": [
-    "supporting",
-    "mentor",
-    "law enforcement"
+    "law-enforcement",
+    "gotham",
+    "batman-universe",
+    "steadfast",
+    "trustworthy",
+    "pragmatic",
+    "crime-fighter"
   ]
 }

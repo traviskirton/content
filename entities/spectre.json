@@ -46,12 +46,20 @@
     "leader": "Ernst Stavro Blofeld",
     "notable_operations": "Acquisition of Spektor Cipher, assassination attempts on James Bond"
   },
+  "facets": {
+    "organization-type": "terrorist",
+    "era": "post-wwii",
+    "alignment": "villainous"
+  },
   "tags": [
-    "organization",
-    "James Bond",
+    "james-bond",
+    "criminal-syndicate",
+    "espionage",
     "terrorism",
-    "criminal syndicate",
-    "Cold War",
-    "villain"
+    "cold-war",
+    "global",
+    "clandestine",
+    "political-manipulation",
+    "assassination"
   ]
 }

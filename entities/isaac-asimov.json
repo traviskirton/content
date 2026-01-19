@@ -63,13 +63,23 @@
       "Science Fiction Hall of Fame"
     ]
   },
+  "facets": {
+    "profession": [
+      "author"
+    ],
+    "active-era": "20th century",
+    "nationality": "american"
+  },
   "tags": [
-    "author",
-    "science fiction",
+    "science-fiction",
     "biochemist",
-    "20th century",
     "robotics",
-    "popular science",
-    "literature"
+    "popular-science",
+    "literature",
+    "golden-age",
+    "rationalism",
+    "robotics-research",
+    "science-communication",
+    "speculative-fiction"
   ]
 }

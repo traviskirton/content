@@ -63,12 +63,21 @@
     ],
     "active_years": "1946-2010"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "mid-century",
+    "nationality": "british"
+  },
   "tags": [
-    "actor",
     "drama",
     "classic-hollywood",
     "new-hollywood",
-    "modern",
-    "Batman"
+    "batman",
+    "alfred-pennyworth",
+    "character-actor",
+    "tim-burton",
+    "supporting-roles"
   ]
 }

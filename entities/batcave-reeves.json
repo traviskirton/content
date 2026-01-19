@@ -39,9 +39,18 @@
     "fictional": true,
     "type": "underground base"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "superhero",
-    "2020s"
+    "2020s",
+    "batman",
+    "gotham",
+    "secret-base",
+    "underground-lair",
+    "crime-fighting"
   ]
 }

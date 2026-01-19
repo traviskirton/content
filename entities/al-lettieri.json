@@ -43,13 +43,18 @@
     "occupation": "Actor",
     "active_years": "1960-1975"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "1970s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "villain",
     "mobster",
-    "crime films",
-    "The Godfather",
-    "1970s cinema",
-    "American actors"
+    "crime-films",
+    "the-godfather",
+    "1970s-cinema"
   ]
 }

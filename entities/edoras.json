@@ -39,14 +39,20 @@
     "notable_residence": "Meduseld",
     "ruler": "King Théoden"
   },
+  "facets": {
+    "location-type": "city",
+    "reality": "fictional",
+    "scale": "city"
+  },
   "tags": [
-    "Middle-earth",
-    "City",
-    "Rohan",
-    "The Two Towers",
-    "Medieval",
-    "Fantasy",
-    "Capital",
-    "Royalty"
+    "middle-earth",
+    "rohan",
+    "the-two-towers",
+    "medieval",
+    "fantasy",
+    "capital",
+    "royalty",
+    "golden-hall",
+    "rohirrim"
   ]
 }

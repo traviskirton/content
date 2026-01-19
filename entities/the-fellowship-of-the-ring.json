@@ -51,12 +51,26 @@
     "original_language": "English",
     "publisher": "Allen & Unwin"
   },
+  "facets": {
+    "genre": [
+      "fantasy",
+      "adventure"
+    ],
+    "era": "mid-century",
+    "tone": [
+      "serious",
+      "heartfelt"
+    ],
+    "rating": "family"
+  },
   "tags": [
-    "fantasy",
-    "classic",
-    "adventure",
     "middle-earth",
-    "J.R.R. Tolkien",
-    "novel"
+    "j.r.r.-tolkien",
+    "classic",
+    "epic-quest",
+    "heroic-adventure",
+    "mythology",
+    "friendship",
+    "sacrifice"
   ]
 }

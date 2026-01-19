@@ -69,11 +69,20 @@
     "born": "1920",
     "portrayed_by": "Christopher Lloyd"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "protagonist",
-    "mentor",
     "scientist",
     "time-traveler",
-    "inventor"
+    "inventor",
+    "eccentric",
+    "quirky",
+    "flux-capacitor",
+    "deLorean-time-machine",
+    "hill-valley",
+    "mad-scientist"
   ]
 }

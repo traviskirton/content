@@ -25,10 +25,20 @@
     ],
     "active_years": "2010-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "2010s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "horror",
     "drama",
-    "modern"
+    "character-driven",
+    "psychological",
+    "emerging-actor",
+    "indie",
+    "film-and-television"
   ]
 }

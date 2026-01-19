@@ -43,10 +43,18 @@
     "item_type": "artifact",
     "fictional": true
   },
+  "facets": {
+    "item_type": "artifact",
+    "reality": "fictional"
+  },
   "tags": [
-    "artifact",
     "psychological",
-    "calling card",
-    "thriller"
+    "calling-card",
+    "thriller",
+    "joker",
+    "batman",
+    "gotham",
+    "chaos",
+    "signature-item"
   ]
 }

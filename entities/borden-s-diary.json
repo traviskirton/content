@@ -46,10 +46,25 @@
     "item_type": "book",
     "fictional": true
   },
+  "facets": {
+    "genre": [
+      "mystery"
+    ],
+    "era": "timeless",
+    "tone": [
+      "dark",
+      "cerebral"
+    ],
+    "rating": ""
+  },
   "tags": [
-    "book",
     "macguffin",
-    "mystery",
-    "deception"
+    "deception",
+    "magic-secrets",
+    "coded",
+    "plot-device",
+    "alfred-borden",
+    "rivalry",
+    "handwritten"
   ]
 }

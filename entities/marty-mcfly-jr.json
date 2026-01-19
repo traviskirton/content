@@ -52,9 +52,20 @@
     "born": "1998",
     "portrayed_by": "Michael J. Fox"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "everyman"
+  },
   "tags": [
-    "supporting",
     "teenager",
-    "time-traveler"
+    "time-traveler",
+    "hill-valley",
+    "california",
+    "1980s-retro",
+    "michael-j-fox",
+    "back-to-the-future",
+    "impressionable",
+    "naive"
   ]
 }

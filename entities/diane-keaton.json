@@ -46,13 +46,24 @@
     ],
     "notable_role": "Kay Adams"
   },
+  "facets": {
+    "profession": [
+      "actor",
+      "director",
+      "producer"
+    ],
+    "active-era": "1970s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "film",
-    "The Godfather",
-    "Academy Award Winner",
-    "female lead",
-    "American Cinema",
-    "iconic actress"
+    "the-godfather",
+    "academy-award-winner",
+    "female-lead",
+    "american-cinema",
+    "iconic-actress",
+    "quirky-style",
+    "character-driven",
+    "hollywood",
+    "classic-films"
   ]
 }

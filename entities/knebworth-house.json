@@ -42,10 +42,19 @@
       "long": -0.2097
     }
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
-    "stately home",
     "historic",
+    "stately-home",
     "public",
-    "tours-available"
+    "tours-available",
+    "filming-location",
+    "gothic-architecture",
+    "lytton-family",
+    "english-country-house"
   ]
 }

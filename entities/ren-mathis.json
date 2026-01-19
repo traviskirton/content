@@ -47,12 +47,19 @@
     "gender": "Male",
     "role": "Ally to James Bond"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "sage"
+  },
   "tags": [
-    "James Bond",
-    "Spy",
-    "French Intelligence",
-    "Cold War",
-    "Supporting Character",
-    "Casino Royale"
+    "james-bond",
+    "spy",
+    "french-intelligence",
+    "cold-war",
+    "casino-royale",
+    "espionage",
+    "intelligence-operative",
+    "covert-operations"
   ]
 }

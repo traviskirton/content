@@ -40,10 +40,18 @@
       "long": 9.5018
     }
   },
+  "facets": {
+    "location-type": "country",
+    "reality": "real",
+    "scale": "country"
+  },
   "tags": [
-    "country",
-    "active",
-    "public",
-    "tours-available"
+    "scandinavia",
+    "landscapes",
+    "filming-location",
+    "tourism",
+    "design",
+    "gastronomy",
+    "high-standard-of-living"
   ]
 }

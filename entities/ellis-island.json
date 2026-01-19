@@ -44,14 +44,21 @@
     "structure_style": "Beaux-Arts",
     "role_in_film": "Vito Corleone’s entry point to America"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
     "immigration",
-    "historical location",
-    "New York",
-    "film setting",
-    "American Dream",
-    "early 1900s",
-    "The Godfather Part II",
-    "family history"
+    "historical-location",
+    "new-york",
+    "film-setting",
+    "american-dream",
+    "early-1900s",
+    "godfather-part-ii",
+    "family-history",
+    "beaux-arts",
+    "immigrant-experience"
   ]
 }

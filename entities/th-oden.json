@@ -48,13 +48,20 @@
     "title": "King",
     "notable_battle": "Battle of Helm's Deep"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "ruler"
+  },
   "tags": [
-    "character",
     "lord",
-    "king",
-    "Rohan",
+    "rohan",
     "fantasy",
-    "hero",
-    "Middle-earth"
+    "middle-earth",
+    "king",
+    "battle-of-helms-deep",
+    "rider-king",
+    "cavalry-expert",
+    "epic-hero"
   ]
 }

@@ -48,14 +48,27 @@
     "impact": "Strategic superiority",
     "location": "Terminus and controlled territories"
   },
+  "facets": {
+    "genre": [
+      "sci-fi"
+    ],
+    "era": "mid-century",
+    "tone": [
+      "serious",
+      "philosophical"
+    ],
+    "rating": ""
+  },
   "tags": [
-    "nuclear power",
+    "nuclear-power",
     "technology",
-    "Foundation",
-    "science fiction",
+    "foundation",
     "energy",
     "weaponry",
-    "Isaac Asimov",
-    "galactic empire"
+    "isaac-asimov",
+    "galactic-empire",
+    "post-imperial",
+    "strategic-resource",
+    "space-opera"
   ]
 }

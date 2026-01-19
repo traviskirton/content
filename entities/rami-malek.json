@@ -42,9 +42,22 @@
     ],
     "active_years": "2004-present"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "2000s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
     "drama",
-    "modern"
+    "academy-award-winner",
+    "emmy-winner",
+    "versatile-performer",
+    "method-actor",
+    "biographical-roles",
+    "egyptian-american",
+    "mr-robot",
+    "bohemian-rhapsody"
   ]
 }

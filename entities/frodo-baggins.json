@@ -51,13 +51,20 @@
     "affiliation": "Fellowship of the Ring",
     "status": "Survivor of the quest"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "heroic",
+    "archetype": "everyman"
+  },
   "tags": [
     "hobbit",
     "ring-bearer",
-    "hero",
     "middle-earth",
-    "fantasy character",
-    "protagonist",
-    "J.R.R. Tolkien"
+    "fantasy",
+    "j.r.r.-tolkien",
+    "quest",
+    "courage",
+    "companionship",
+    "endurance"
   ]
 }

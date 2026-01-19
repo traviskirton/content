@@ -46,13 +46,21 @@
     "rank": "General",
     "expertise": "Tactical Command"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "ruler"
+  },
   "tags": [
-    "Foundation",
-    "Sci-Fi",
-    "Military",
-    "Commander",
-    "Isaac Asimov",
-    "Tactical Leader",
-    "Political-Military"
+    "foundation",
+    "sci-fi",
+    "military",
+    "commander",
+    "isaac-asimov",
+    "tactical-leader",
+    "political-military",
+    "strategy",
+    "logistics",
+    "ground-operations"
   ]
 }

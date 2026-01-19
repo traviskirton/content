@@ -51,14 +51,28 @@
     "founder": "Hari Seldon",
     "role_in_series": "Foundational scientific principle"
   },
+  "facets": {
+    "discipline": [
+      "mathematics",
+      "sociology",
+      "history"
+    ],
+    "universe": "foundation-universe",
+    "theme": [
+      "future-prediction",
+      "probabilistic-modeling",
+      "large-populations"
+    ]
+  },
   "tags": [
-    "science_fiction",
-    "mathematics",
-    "sociology",
-    "Isaac Asimov",
-    "Future prediction",
-    "Foundation series",
-    "social science",
-    "psychohistory"
+    "psychohistory",
+    "isaac-asimov",
+    "social-science",
+    "abstract-discipline",
+    "scientific-principle",
+    "statistical-modeling",
+    "galactic-scale",
+    "seldon-plan",
+    "mathematical-sociology"
   ]
 }

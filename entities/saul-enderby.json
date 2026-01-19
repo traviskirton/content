@@ -43,11 +43,20 @@
     "agency": "The Circus",
     "personality_type": "Bureaucratic Leader"
   },
+  "facets": {
+    "role": "minor",
+    "morality": "neutral",
+    "archetype": "ruler"
+  },
   "tags": [
-    "Smiley's People",
-    "British Intelligence",
-    "Cold War",
-    "Espionage",
-    "Leadership"
+    "smileys-people",
+    "british-intelligence",
+    "cold-war",
+    "espionage",
+    "bureaucracy",
+    "leadership",
+    "political-intrigue",
+    "institutional-inertia",
+    "the-circus"
   ]
 }

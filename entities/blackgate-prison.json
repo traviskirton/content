@@ -38,10 +38,19 @@
     "fictional": true,
     "type": "prison"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "prison",
     "superhero",
-    "futuristic"
+    "futuristic",
+    "island",
+    "high-security",
+    "maximum-security",
+    "gotham",
+    "guard-towers"
   ]
 }

@@ -37,14 +37,14 @@
     "headquarters": "Hollywood, Los Angeles, California",
     "type": "Film studio"
   },
+  "facets": {},
   "tags": [
-    "film studio",
-    "Hollywood",
-    "Paramount",
-    "movie production",
-    "film distribution",
-    "The Godfather",
+    "film-studio",
+    "hollywood",
+    "movie-production",
+    "film-distribution",
+    "the-godfather",
     "cinema",
-    "American film industry"
+    "american-film-industry"
   ]
 }

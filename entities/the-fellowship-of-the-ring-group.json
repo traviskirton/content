@@ -57,14 +57,22 @@
     "active_period": "Third Age",
     "leadership": "Gandalf, later Aragorn"
   },
+  "facets": {
+    "main-theme": [
+      "fantasy",
+      "quest",
+      "heroes"
+    ],
+    "universe": "middle-earth",
+    "active-era": "third-age"
+  },
   "tags": [
-    "organization",
-    "group",
-    "middle-earth",
-    "fantasy",
     "ring",
-    "quest",
-    "heroes",
-    "tolkien"
+    "tolkien",
+    "fellowship",
+    "diversity",
+    "unity",
+    "courage",
+    "sacrifice"
   ]
 }

@@ -46,14 +46,21 @@
     "affiliation": "Foundation",
     "position": "Political Leader and Economic Strategist"
   },
+  "facets": {
+    "role": "protagonist",
+    "morality": "neutral",
+    "archetype": "ruler"
+  },
   "tags": [
-    "Foundation",
-    "Sci-Fi",
-    "Merchant",
-    "Trader",
-    "Political Leader",
-    "Isaac Asimov",
-    "Economics",
-    "Strategist"
+    "foundation",
+    "sci-fi",
+    "merchant",
+    "trader",
+    "political-leader",
+    "isaac-asimov",
+    "economics",
+    "strategist",
+    "commerce",
+    "diplomacy"
   ]
 }

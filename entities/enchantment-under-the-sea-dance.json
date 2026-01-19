@@ -40,11 +40,19 @@
     "type": "event",
     "founded": "1955"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "room"
+  },
   "tags": [
-    "event",
-    "sci-fi",
-    "1955",
-    "dance",
-    "school"
+    "school-dance",
+    "1950s",
+    "hill-valley",
+    "back-to-the-future",
+    "time-travel",
+    "rock-and-roll",
+    "social-event",
+    "high-school"
   ]
 }

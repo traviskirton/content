@@ -45,13 +45,20 @@
     "portrayed_by": "Donal Donnelly",
     "appearance_year": 1990
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "ambiguous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "The Godfather Part III",
-    "Vatican",
+    "the-godfather-part-iii",
+    "vatican",
     "clergy",
     "corruption",
-    "banking scandal",
-    "religious figure",
-    "politics"
+    "banking-scandal",
+    "religious-figure",
+    "politics",
+    "institutional-corruption",
+    "moral-ambiguity"
   ]
 }

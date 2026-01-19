@@ -47,12 +47,22 @@
     "active_years": "1969–present",
     "notable_tv_roles": "Criminal Minds"
   },
+  "facets": {
+    "profession": [
+      "actor"
+    ],
+    "active-era": "1970s",
+    "nationality": "american"
+  },
   "tags": [
-    "actor",
-    "The Godfather Part III",
-    "gangster roles",
-    "Chicago",
-    "stage actor",
-    "Italian-American"
+    "the-godfather-part-iii",
+    "gangster-roles",
+    "chicago",
+    "stage-actor",
+    "italian-american",
+    "mob-actor",
+    "character-actor",
+    "crime-drama",
+    "fbi"
   ]
 }

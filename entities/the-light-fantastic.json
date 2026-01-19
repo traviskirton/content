@@ -45,13 +45,29 @@
     "series_order": 2,
     "pages": 300
   },
+  "facets": {
+    "genre": [
+      "fantasy",
+      "satire",
+      "adventure"
+    ],
+    "era": "1980s",
+    "tone": [
+      "light",
+      "whimsical",
+      "satirical"
+    ],
+    "rating": "teen"
+  },
   "tags": [
-    "book",
-    "fantasy",
-    "satire",
     "discworld",
     "magic",
-    "adventure",
-    "rincewind"
+    "rincewind",
+    "comic-fantasy",
+    "quest",
+    "unlikely-heroes",
+    "friendship",
+    "loyalty",
+    "pratchett"
   ]
 }

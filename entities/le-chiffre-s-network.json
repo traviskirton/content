@@ -42,11 +42,20 @@
       "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
     }
   ],
+  "facets": {
+    "type": "criminal",
+    "reality": "fictional",
+    "scope": "international"
+  },
   "tags": [
-    "criminal",
     "villainous",
     "spy",
     "thriller",
-    "fictional"
+    "high-stakes-gambling",
+    "money-laundering",
+    "terrorist-financing",
+    "international-syndicate",
+    "secretive",
+    "organized-crime"
   ]
 }

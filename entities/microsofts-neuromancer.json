@@ -39,12 +39,19 @@
     "power_source": "unknown/compact",
     "user_base": "hackers, operators"
   },
+  "facets": {
+    "category": "technology",
+    "subtype": "portable-computer",
+    "setting": "cyberpunk"
+  },
   "tags": [
-    "cyberpunk",
-    "technology",
-    "hardware",
     "neuromancer",
+    "hardware",
     "portable",
-    "computing"
+    "computing",
+    "cyber-tools",
+    "handheld",
+    "data-storage",
+    "hacking"
   ]
 }

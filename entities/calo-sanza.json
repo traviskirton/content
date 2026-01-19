@@ -50,13 +50,20 @@
     "personality_traits": "Brash, witty, loyal",
     "origin": "Camorr"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "rebel"
+  },
   "tags": [
-    "fictional character",
-    "gentleman bastards",
-    "con artist",
-    "fantasy",
+    "gentleman-bastards",
+    "con-artist",
     "thief",
     "combatant",
-    "brother"
+    "brotherly-bond",
+    "streetwise",
+    "brash",
+    "fearless",
+    "camorr"
   ]
 }

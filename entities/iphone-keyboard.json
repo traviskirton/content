@@ -56,13 +56,18 @@
       "Haptic Feedback"
     ]
   },
+  "facets": {},
   "tags": [
     "keyboard",
-    "iPhone",
+    "iphone",
     "software",
-    "user interface",
+    "user-interface",
     "touchscreen",
     "mobile",
-    "input"
+    "input",
+    "auto-correct",
+    "predictive-text",
+    "multi-touch",
+    "haptic-feedback"
   ]
 }

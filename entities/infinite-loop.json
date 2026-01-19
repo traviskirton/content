@@ -49,13 +49,20 @@
     "purpose": "Corporate Headquarters",
     "current_use": "Mixed, some teams remain"
   },
+  "facets": {
+    "location-type": "building",
+    "reality": "real",
+    "scale": "building"
+  },
   "tags": [
     "technology",
-    "corporate_culture",
+    "corporate-culture",
     "history",
-    "apple_inc",
+    "apple-inc",
     "headquarters",
     "campus",
-    "cupertino"
+    "cupertino",
+    "late-1990s",
+    "silicon-valley"
   ]
 }

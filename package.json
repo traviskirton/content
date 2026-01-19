@@ -6,7 +6,8 @@
     "build": "node scripts/build-index.js",
     "generate": "node scripts/generate-entity.js",
     "generate-batch": "node scripts/generate-batch.js",
-    "reconcile": "node scripts/reconcile.js"
+    "reconcile": "node scripts/reconcile.js",
+    "transform-tags": "node scripts/transform-tags.js"
   },
   "dependencies": {
     "openai": "^4.0.0"

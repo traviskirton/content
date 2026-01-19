@@ -46,9 +46,20 @@
     "died": "1962",
     "portrayed_by": "Kenneth Branagh"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "mentor"
+  },
   "tags": [
-    "supporting",
-    "mentor",
-    "scientist"
+    "scientist",
+    "quantum-mechanics",
+    "atomic-theory",
+    "ethical-dilemma",
+    "moral-authority",
+    "oppenheimer",
+    "keneth-branagh",
+    "historical-figure",
+    "physicist"
   ]
 }

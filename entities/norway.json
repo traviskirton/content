@@ -47,10 +47,19 @@
       -8.4689
     ]
   },
+  "facets": {
+    "location-type": "country",
+    "reality": "real",
+    "scale": "country"
+  },
   "tags": [
-    "country",
-    "active",
-    "tours-available",
-    "public"
+    "scandinavia",
+    "fjords",
+    "adventure-tourism",
+    "northern-lights",
+    "mountains",
+    "glaciers",
+    "oslo",
+    "filming-location"
   ]
 }

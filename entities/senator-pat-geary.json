@@ -44,13 +44,20 @@
     "gender": "Male",
     "nationality": "American"
   },
+  "facets": {
+    "role": "antagonist",
+    "morality": "ambiguous",
+    "archetype": "ruler"
+  },
   "tags": [
-    "The Godfather Part II",
+    "the-godfather-part-ii",
     "politics",
     "corruption",
-    "organized crime",
-    "film character",
+    "organized-crime",
+    "film-character",
     "1950s",
-    "antagonist"
+    "us-politics",
+    "nevada",
+    "power"
   ]
 }

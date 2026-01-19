@@ -42,13 +42,21 @@
     "gender": "Male",
     "origin": "Discworld"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "caregiver"
+  },
   "tags": [
-    "Discworld",
-    "Fantasy",
-    "Character",
-    "Magic",
-    "Unseen University",
-    "Animal Character",
-    "Comic Relief"
+    "discworld",
+    "fantasy",
+    "magic",
+    "unseen-university",
+    "animal-character",
+    "comic-relief",
+    "orangutan",
+    "library-guardian",
+    "loyalty",
+    "encyclopedic-knowledge"
   ]
 }

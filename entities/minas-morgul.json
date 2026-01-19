@@ -43,14 +43,20 @@
     "builders": "Men of Gondor",
     "current_inhabitants": "Nazgûl and their minions"
   },
+  "facets": {
+    "location-type": "fortress",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "Middle-earth",
-    "Fortress",
-    "Darkness",
-    "Nazgûl",
-    "Mordor",
-    "The Lord of the Rings",
-    "Evil",
-    "Fantasy Location"
+    "middle-earth",
+    "nazgûl",
+    "mordor",
+    "lord-of-the-rings",
+    "corruption",
+    "darkness",
+    "enemy-stronghold",
+    "evil",
+    "fantasy"
   ]
 }

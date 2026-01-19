@@ -46,13 +46,20 @@
     "occupation": "Engineer / Quartermaster",
     "organization": "MI6"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "neutral",
+    "archetype": "mentor"
+  },
   "tags": [
-    "James Bond",
-    "MI6",
-    "spy gadgets",
-    "supporting character",
-    "espionage technology",
-    "Casino Royale",
-    "fictional character"
+    "james-bond",
+    "mi6",
+    "spy-gadgets",
+    "espionage-technology",
+    "casino-royale",
+    "technology-expert",
+    "intelligence",
+    "gadget-master",
+    "technical-genius"
   ]
 }

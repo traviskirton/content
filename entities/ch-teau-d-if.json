@@ -41,13 +41,20 @@
       "target": "919f9f8b-0d8b-4abc-8e2d-f9c0b8980710"
     }
   ],
+  "facets": {
+    "location-type": "building",
+    "reality": "fictional",
+    "scale": "building"
+  },
   "tags": [
-    "building",
     "prison",
     "historical",
-    "fictional",
-    "19th century",
+    "19th-century",
     "literature",
-    "classic"
+    "classic",
+    "fortress",
+    "marseille",
+    "island",
+    "state-prison"
   ]
 }

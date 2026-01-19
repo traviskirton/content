@@ -49,13 +49,22 @@
     "primary_goal": "Safeguard Seldon Plan",
     "location": "Hidden on Kalgan and elsewhere"
   },
+  "facets": {
+    "genre": [
+      "sci-fi"
+    ],
+    "franchise": "foundation-series",
+    "reality": "fictional"
+  },
   "tags": [
-    "science fiction",
-    "Foundation series",
     "psychohistory",
     "mentalics",
-    "secret society",
-    "galactic empire",
-    "Isaac Asimov"
+    "secret-society",
+    "galactic-empire",
+    "isaac-asimov",
+    "hidden-organization",
+    "mind-control",
+    "second-foundation",
+    "psychohistorical-regents"
   ]
 }

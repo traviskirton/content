@@ -46,14 +46,21 @@
     "affiliation": "Foundation",
     "position": "Political Leader"
   },
+  "facets": {
+    "role": "supporting",
+    "morality": "heroic",
+    "archetype": "sage"
+  },
   "tags": [
-    "Foundation",
-    "Sci-Fi",
-    "Historian",
-    "Political Leader",
-    "Isaac Asimov",
-    "Terminus",
-    "Diplomat",
-    "Classic Literature"
+    "foundation",
+    "sci-fi",
+    "historian",
+    "political-leader",
+    "isaac-asimov",
+    "terminus",
+    "diplomat",
+    "classic-literature",
+    "academic",
+    "strategist"
   ]
 }

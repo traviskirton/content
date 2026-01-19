@@ -41,10 +41,19 @@
     "population": 1,
     "discovered": "Unknown"
   },
+  "facets": {
+    "location-type": "planet",
+    "reality": "fictional",
+    "scale": "planet"
+  },
   "tags": [
-    "planet",
     "sci-fi",
     "futuristic",
-    "Interstellar"
+    "interstellar",
+    "icy",
+    "survival",
+    "space-exploration",
+    "false-beacon",
+    "hostile-environment"
   ]
 }

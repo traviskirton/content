@@ -47,10 +47,18 @@
     "type": "suburban",
     "founded": 1982
   },
+  "facets": {
+    "location-type": "suburban",
+    "reality": "fictional",
+    "scale": "neighborhood"
+  },
   "tags": [
-    "suburban",
-    "sci-fi",
-    "1985",
-    "fictional"
+    "back-to-the-future",
+    "hill-valley",
+    "mcfly-family",
+    "1980s",
+    "time-travel",
+    "suburban-life",
+    "american-suburbia"
   ]
 }
