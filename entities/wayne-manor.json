@@ -27,16 +27,12 @@
   ],
   "relationships": [
     {
-      "type": "located_in",
-      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
-    },
-    {
       "type": "contains",
       "target": "94768b45-89e7-4a8f-99a4-4d038b1357be"
     },
     {
       "type": "featured_in",
-      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
     },
     {
       "type": "featured_in",
@@ -44,7 +40,15 @@
     },
     {
       "type": "featured_in",
-      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "located_in",
+      "target": "3b52879a-7129-4f5c-9e15-60d01eb9c0da"
+    },
+    {
+      "type": "located_in",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
     }
   ],
   "properties": {

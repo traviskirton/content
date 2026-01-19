@@ -32,15 +32,27 @@
   "relationships": [
     {
       "type": "appears_in",
-      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
     },
     {
       "type": "appears_in",
-      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "appears_in",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "located_in",
+      "target": "f2df83b6-a820-4aef-a101-0e1f2c2b9b8d"
     },
     {
       "type": "member_of",
       "target": "1a03f4d0-5132-475b-8b52-ba48966705d1"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "709fafc7-7df4-4a2e-8b8a-e53e9da184f7"
     },
     {
       "type": "related_to",
@@ -49,14 +61,6 @@
     {
       "type": "rivals_with",
       "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
-    },
-    {
-      "type": "portrayed_by",
-      "target": "709fafc7-7df4-4a2e-8b8a-e53e9da184f7"
-    },
-    {
-      "type": "appears_in",
-      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
     }
   ],
   "properties": {

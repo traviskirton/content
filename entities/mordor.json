@@ -29,10 +29,6 @@
   ],
   "relationships": [
     {
-      "type": "located_in",
-      "target": "dbd93414-7d92-4a6c-9370-7a316e89d9ae"
-    },
-    {
       "type": "contains",
       "target": "31f323de-5b04-4d76-91f4-6e21c4a41cb8"
     },
@@ -43,6 +39,10 @@
     {
       "type": "contains",
       "target": "c09f24c7-1c3e-4037-9296-4a9fa60d2e58"
+    },
+    {
+      "type": "located_in",
+      "target": "dbd93414-7d92-4a6c-9370-7a316e89d9ae"
     }
   ],
   "properties": {

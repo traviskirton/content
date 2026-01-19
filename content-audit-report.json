@@ -1,0 +1,22 @@
+{
+  "semanticErrors": [],
+  "aliasIssues": [],
+  "actorMovieGaps": {
+    "actorsMissingMovies": [
+      {
+        "file": "alden-ehrenreich.json",
+        "name": "Alden Ehrenreich",
+        "id": "94053159-3b75-4baf-a7de-15f1d9c8da99",
+        "totalRelationships": 0
+      },
+      {
+        "file": "dylan-arnold.json",
+        "name": "Dylan Arnold",
+        "id": "3fc9cdfb-735b-4f74-b5e2-e2a34d6c77a1",
+        "totalRelationships": 0
+      }
+    ],
+    "moviesMissingActors": []
+  },
+  "timestamp": "2026-01-19T01:03:06.780Z"
+}

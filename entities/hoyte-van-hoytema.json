@@ -26,16 +26,12 @@
   ],
   "relationships": [
     {
-      "type": "worked_with",
-      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+      "type": "composed",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
     },
     {
-      "type": "worked_for",
-      "target": "5de86068-a215-4f6d-a874-3d9ddb2b83b7"
-    },
-    {
-      "type": "directed",
-      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+      "type": "composed",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
     },
     {
       "type": "composed_for",
@@ -44,6 +40,18 @@
     {
       "type": "composed_for",
       "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "directed",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "worked_for",
+      "target": "5de86068-a215-4f6d-a874-3d9ddb2b83b7"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     }
   ],
   "properties": {

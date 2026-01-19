@@ -34,6 +34,54 @@
     {
       "type": "author_of",
       "target": "e5e8a4b9-2137-4f7c-9030-8d2c3e7f3521"
+    },
+    {
+      "type": "features_character",
+      "target": "11cba6f8-6d26-4d9a-8e57-8d66871c435f"
+    },
+    {
+      "type": "features_character",
+      "target": "363797be-3d66-4844-b24d-39f1657c5c00"
+    },
+    {
+      "type": "features_character",
+      "target": "4e9eab3b-d986-44e9-bf2a-7bfdad2c3f9f"
+    },
+    {
+      "type": "features_character",
+      "target": "50fa1b1e-8679-4b51-9646-e429e7c9da31"
+    },
+    {
+      "type": "features_character",
+      "target": "99f2bdbf-d397-45cd-9b92-986bbf9f9315"
+    },
+    {
+      "type": "features_character",
+      "target": "c3f0383d-af85-4de1-b691-667d0a3d9a10"
+    },
+    {
+      "type": "features_character",
+      "target": "cb746d10-0b57-4d72-b8e8-5d9b782d92f6"
+    },
+    {
+      "type": "features_character",
+      "target": "d1d75703-547e-4912-b4b9-c0f9312d7483"
+    },
+    {
+      "type": "features_location",
+      "target": "11cba6f8-6d26-4d9a-8e57-8d66871c435f"
+    },
+    {
+      "type": "features_location",
+      "target": "363797be-3d66-4844-b24d-39f1657c5c00"
+    },
+    {
+      "type": "features_location",
+      "target": "c3f0383d-af85-4de1-b691-667d0a3d9a10"
+    },
+    {
+      "type": "features_location",
+      "target": "e3ceaf8e-89d5-4f8a-9d36-2b0a3f36c1d8"
     }
   ],
   "properties": {

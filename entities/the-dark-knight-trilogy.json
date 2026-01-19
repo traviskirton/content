@@ -28,15 +28,47 @@
   ],
   "relationships": [
     {
-      "type": "includes",
-      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
-    },
-    {
       "type": "created_by",
       "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     },
     {
+      "type": "features_location",
+      "target": "295a0b1a-ed45-4dff-a401-99b121032f26"
+    },
+    {
+      "type": "features_location",
+      "target": "94768b45-89e7-4a8f-99a4-4d038b1357be"
+    },
+    {
+      "type": "filmed_in",
+      "target": "a7b9806d-4c68-4a0f-9671-ead5f36b3b3f"
+    },
+    {
+      "type": "includes",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "includes",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "includes",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
       "type": "owned_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "produced_by",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "produced_by",
+      "target": "d65b3a1e-5b3b-4a72-907d-fae2b0ef4f90"
+    },
+    {
+      "type": "produced_by",
       "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
     },
     {
@@ -44,24 +76,20 @@
       "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
     },
     {
-      "type": "includes",
-      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+      "type": "stars",
+      "target": "709fafc7-7df4-4a2e-8b8a-e53e9da184f7"
     },
     {
-      "type": "includes",
-      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+      "type": "stars",
+      "target": "83e9fafd-1d4c-4b54-a1cc-1b389fee6762"
     },
     {
-      "type": "part_of",
-      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+      "type": "stars",
+      "target": "e689d7d2-51c0-4fe1-a9b8-2334e19b0d1e"
     },
     {
-      "type": "includes",
-      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
-    },
-    {
-      "type": "filmed_in",
-      "target": "a7b9806d-4c68-4a0f-9671-ead5f36b3b3f"
+      "type": "written_by",
+      "target": "5d2f786e-631c-4f2d-9b6d-fc9afcbb10d2"
     }
   ],
   "properties": {

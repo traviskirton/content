@@ -26,12 +26,12 @@
   ],
   "relationships": [
     {
-      "type": "starred_in",
-      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+      "type": "portrays",
+      "target": "c9e5f16a-d3cb-42cd-aaf5-3742bbd62cd9"
     },
     {
-      "type": "starred_in",
-      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+      "type": "portrays",
+      "target": "cd6822b1-8fc0-4b82-9d57-135b13bf136d"
     },
     {
       "type": "starred_in",
@@ -39,19 +39,23 @@
     },
     {
       "type": "starred_in",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "starred_in",
       "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "starred_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "starred_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
     },
     {
       "type": "worked_with",
       "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
-    },
-    {
-      "type": "portrays",
-      "target": "c9e5f16a-d3cb-42cd-aaf5-3742bbd62cd9"
-    },
-    {
-      "type": "starred_in",
-      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
     }
   ],
   "properties": {

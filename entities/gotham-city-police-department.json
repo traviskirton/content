@@ -30,6 +30,10 @@
   ],
   "relationships": [
     {
+      "type": "contains",
+      "target": "c5d8e1f3-8c6f-47aa-bb98-23f0c8e8c5d1"
+    },
+    {
       "type": "featured_in",
       "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
     },
@@ -42,12 +46,16 @@
       "target": "9c39d7e0-1f12-4590-8b53-9ddb5f765cb5"
     },
     {
-      "type": "rivals_with",
-      "target": "1a03f4d0-5132-475b-8b52-ba48966705d1"
+      "type": "located_in",
+      "target": "b5d2c7e4-9f2b-4a0f-bc9f-7f0e8b2511d7"
     },
     {
-      "type": "contains",
-      "target": "c5d8e1f3-8c6f-47aa-bb98-23f0c8e8c5d1"
+      "type": "located_in",
+      "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
+    },
+    {
+      "type": "rivals_with",
+      "target": "1a03f4d0-5132-475b-8b52-ba48966705d1"
     }
   ],
   "properties": {

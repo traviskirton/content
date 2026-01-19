@@ -23,48 +23,36 @@
   ],
   "relationships": [
     {
-      "type": "directed_by",
-      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
-    },
-    {
-      "type": "produced_by",
-      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
-    },
-    {
-      "type": "produced_by",
-      "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
-    },
-    {
-      "type": "written_by",
-      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
-    },
-    {
       "type": "composed_by",
       "target": "a3c5de67-f1d3-42b6-a6b3-123f0d65c1a4"
     },
     {
-      "type": "stars",
-      "target": "ae2541d3-fd8b-4839-a91b-f8c8bdf5ef87"
+      "type": "features_location",
+      "target": "07d1f9bb-24a2-4f2a-8895-abb2bb8fa876"
     },
     {
-      "type": "stars",
-      "target": "e6149baf-563e-4dc9-8eec-a7a33e3e95ac"
+      "type": "directed_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     },
     {
-      "type": "stars",
-      "target": "d12a7f68-726f-4b15-a9c6-8a8a241f16c8"
-    },
-    {
-      "type": "stars",
-      "target": "18fccbcc-2783-4d1c-8f80-e3bb89891a5c"
-    },
-    {
-      "type": "stars",
-      "target": "b3f0899a-5d34-469e-a417-237e55d531bd"
+      "type": "distributed_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
     },
     {
       "type": "features_character",
-      "target": "c5f8d103-826e-410b-bb7b-30d8bbf3b5ba"
+      "target": "1229c5e0-8cd2-46fa-8b0c-55c6822f1f86"
+    },
+    {
+      "type": "features_character",
+      "target": "1c8df9d8-7c51-4c31-94d7-7a8e596cb4ad"
+    },
+    {
+      "type": "features_character",
+      "target": "1f02e131-f680-4aeb-991b-85ce3b0e0b17"
+    },
+    {
+      "type": "features_character",
+      "target": "6143f888-086b-49dc-bf9e-eb039c5b1e66"
     },
     {
       "type": "features_character",
@@ -76,15 +64,7 @@
     },
     {
       "type": "features_character",
-      "target": "dee30356-293b-4b92-b489-7c13cbdb2308"
-    },
-    {
-      "type": "features_character",
-      "target": "1f02e131-f680-4aeb-991b-85ce3b0e0b17"
-    },
-    {
-      "type": "features_character",
-      "target": "1229c5e0-8cd2-46fa-8b0c-55c6822f1f86"
+      "target": "ae2541d3-fd8b-4839-a91b-f8c8bdf5ef87"
     },
     {
       "type": "features_character",
@@ -92,35 +72,163 @@
     },
     {
       "type": "features_character",
-      "target": "1c8df9d8-7c51-4c31-94d7-7a8e596cb4ad"
+      "target": "c5f8d103-826e-410b-bb7b-30d8bbf3b5ba"
     },
     {
       "type": "features_character",
-      "target": "6143f888-086b-49dc-bf9e-eb039c5b1e66"
+      "target": "dee30356-293b-4b92-b489-7c13cbdb2308"
+    },
+    {
+      "type": "features_location",
+      "target": "07d1f9bb-24a2-4f2a-8895-abb2bb8fa876"
+    },
+    {
+      "type": "features_location",
+      "target": "483776d3-066e-4f0b-b360-33507a5c8a55"
+    },
+    {
+      "type": "features_location",
+      "target": "4d2f4489-8b97-4d16-8d2b-5ad7a1e0f2ad"
+    },
+    {
+      "type": "features_location",
+      "target": "5e7d1be7-9085-4c3c-b89f-3c3b162727c3"
+    },
+    {
+      "type": "features_location",
+      "target": "7b053441-48e1-4d56-96c7-498a1d3f832d"
+    },
+    {
+      "type": "features_location",
+      "target": "7d47ad65-f689-4e0a-8ac1-f6e4be29f642"
+    },
+    {
+      "type": "features_location",
+      "target": "82f4eef8-b309-4b98-8c86-1338da56a582"
     },
     {
       "type": "features_location",
       "target": "9180225d-1af2-4db3-b6b4-a8f3bd05de5b"
     },
     {
-      "type": "produced_by_company",
-      "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
+      "type": "features_location",
+      "target": "a9e6c5b2-e2ff-4b65-a469-7d5b6f9cd372"
     },
     {
-      "type": "distributed_by",
-      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+      "type": "features_location",
+      "target": "bfe7bff2-d5d9-4b8a-a972-477b0a20e038"
+    },
+    {
+      "type": "features_location",
+      "target": "e7ad8f76-2e9f-4c9d-8059-9f3a60b7eacb"
+    },
+    {
+      "type": "features_location",
+      "target": "e8b08e64-1f5b-4cee-aabe-b802d5a09512"
+    },
+    {
+      "type": "features_location",
+      "target": "f1d2f3a4-567b-4c41-a7cd-12e3a456789f"
+    },
+    {
+      "type": "features_location",
+      "target": "f5b8e5a1-62c3-4ad1-8dce-2b1a1ec58d62"
     },
     {
       "type": "filmed_in",
       "target": "0a4d2e36-598a-4da2-9d48-54b708bd28d5"
     },
     {
-      "type": "contains",
-      "target": "07d1f9bb-24a2-4f2a-8895-abb2bb8fa876"
-    },
-    {
       "type": "filmed_in",
       "target": "4c6b6d52-7b63-4f29-b77b-3573bd66d892"
+    },
+    {
+      "type": "produced_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "produced_by",
+      "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
+    },
+    {
+      "type": "stars",
+      "target": "0c1d2eb3-acf4-4343-9924-58f2bf89e121"
+    },
+    {
+      "type": "stars",
+      "target": "15f5a123-d9e8-4397-b782-67814dc0b9b6"
+    },
+    {
+      "type": "stars",
+      "target": "18fccbcc-2783-4d1c-8f80-e3bb89891a5c"
+    },
+    {
+      "type": "stars",
+      "target": "34e2f63b-19e6-4aab-bfb9-3a6513dabcb3"
+    },
+    {
+      "type": "stars",
+      "target": "39d41719-e36b-4e59-b689-fb4a992209a8"
+    },
+    {
+      "type": "stars",
+      "target": "3d98b280-78ec-4eaa-99c0-364f0ddf637f"
+    },
+    {
+      "type": "stars",
+      "target": "599550fb-347b-4874-bd88-4eada7a957b8"
+    },
+    {
+      "type": "stars",
+      "target": "71a2b0e1-8d8b-4c70-94b7-8b95c5bcd738"
+    },
+    {
+      "type": "stars",
+      "target": "8e1f45e8-42ac-4c0b-977f-50f479d573b3"
+    },
+    {
+      "type": "stars",
+      "target": "ac3b1234-abf5-40d2-8bef-c8b789d8e123"
+    },
+    {
+      "type": "stars",
+      "target": "ae2541d3-fd8b-4839-a91b-f8c8bdf5ef87"
+    },
+    {
+      "type": "stars",
+      "target": "b3f0899a-5d34-469e-a417-237e55d531bd"
+    },
+    {
+      "type": "stars",
+      "target": "d12a7f68-726f-4b15-a9c6-8a8a241f16c8"
+    },
+    {
+      "type": "stars",
+      "target": "d4a8ef56-62d7-47b5-b8b4-96edf5556b59"
+    },
+    {
+      "type": "stars",
+      "target": "e5d3f69c-ce24-4a97-a133-6a74f0b5f6be"
+    },
+    {
+      "type": "stars",
+      "target": "e6149baf-563e-4dc9-8eec-a7a33e3e95ac"
+    },
+    {
+      "type": "stars",
+      "target": "f4c3d2b2-ae12-4f1e-b3cc-a3d9a9f5c123"
+    },
+    {
+      "type": "stars",
+      "target": "fa6ad433-5bae-4a91-a9c6-38068e12d6f8"
+    },
+    {
+      "type": "written_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     }
   ],
   "properties": {

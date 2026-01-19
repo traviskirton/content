@@ -28,12 +28,16 @@
   ],
   "relationships": [
     {
-      "type": "written_by",
-      "target": "f1af5aff-89e5-443b-9440-fc66997977ab"
+      "type": "features_character",
+      "target": "3bc5187c-e63d-40c0-9d34-4fde5a8e9d8f"
     },
     {
       "type": "features_character",
-      "target": "5b178eaf-65ec-4c0d-8f34-93fab1c9b5f6"
+      "target": "4bfa4176-817c-4a84-90f9-df49d22e2edf"
+    },
+    {
+      "type": "features_character",
+      "target": "4cd03369-18ad-427a-9a34-4f337f9c51c7"
     },
     {
       "type": "features_character",
@@ -41,11 +45,11 @@
     },
     {
       "type": "features_character",
-      "target": "b8d6f445-34f2-4a94-b9e6-608d667b7727"
+      "target": "4fbe1a5d-6f87-44c1-9e0c-d5f49f4f752d"
     },
     {
       "type": "features_character",
-      "target": "4fbe1a5d-6f87-44c1-9e0c-d5f49f4f752d"
+      "target": "5b178eaf-65ec-4c0d-8f34-93fab1c9b5f6"
     },
     {
       "type": "features_character",
@@ -56,16 +60,32 @@
       "target": "878e8ef7-cac7-4094-8b84-a5467a5248ed"
     },
     {
+      "type": "features_character",
+      "target": "9d5b4558-6a3f-4b9f-8463-7bc1ed6c314c"
+    },
+    {
+      "type": "features_character",
+      "target": "b8d6f445-34f2-4a94-b9e6-608d667b7727"
+    },
+    {
       "type": "features_location",
       "target": "25c7e3f9-896d-4b1c-9f8b-5f67ae3d1825"
+    },
+    {
+      "type": "features_location",
+      "target": "87f73de7-8f05-4c8b-8f8a-a4cfe7115273"
+    },
+    {
+      "type": "features_location",
+      "target": "919f9f8b-0d8b-4abc-8e2d-f9c0b8980710"
     },
     {
       "type": "features_location",
       "target": "a1d9f0c7-758c-4b8d-a6f7-e2b12858e1c2"
     },
     {
-      "type": "features_location",
-      "target": "919f9f8b-0d8b-4abc-8e2d-f9c0b8980710"
+      "type": "written_by",
+      "target": "f1af5aff-89e5-443b-9440-fc66997977ab"
     }
   ],
   "properties": {

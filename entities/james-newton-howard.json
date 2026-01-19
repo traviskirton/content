@@ -26,12 +26,24 @@
   ],
   "relationships": [
     {
-      "type": "worked_with",
-      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+      "type": "composed",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "composed",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "composed_for",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "composed_for",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
     },
     {
       "type": "worked_with",
-      "target": "ffbc5d71-dd5e-4895-9898-73d7e5e0b0d9"
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
     },
     {
       "type": "worked_with",
@@ -39,19 +51,15 @@
     },
     {
       "type": "worked_with",
+      "target": "6a4b0f74-b7b5-4874-bfed-c8068f3e0c3b"
+    },
+    {
+      "type": "worked_with",
       "target": "a3c5de67-f1d3-42b6-a6b3-123f0d65c1a4"
     },
     {
       "type": "worked_with",
-      "target": "6a4b0f74-b7b5-4874-bfed-c8068f3e0c3b"
-    },
-    {
-      "type": "composed_for",
-      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
-    },
-    {
-      "type": "composed_for",
-      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+      "target": "ffbc5d71-dd5e-4895-9898-73d7e5e0b0d9"
     }
   ],
   "properties": {

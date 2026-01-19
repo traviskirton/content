@@ -40,6 +40,10 @@
     {
       "type": "worked_for",
       "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
+    },
+    {
+      "type": "starred_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
     }
   ],
   "properties": {

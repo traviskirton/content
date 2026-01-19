@@ -28,11 +28,15 @@
   "relationships": [
     {
       "type": "featured_in",
-      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
     },
     {
       "type": "featured_in",
-      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "located_in",
+      "target": "a8f4c2d3-e5b6-4c3a-9f7e-0d1c85a7b612"
     },
     {
       "type": "located_in",

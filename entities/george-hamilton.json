@@ -30,7 +30,16 @@
     "G. Hamilton",
     "The Tan Actor"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "starred_in",
+      "target": "d5f5bf96-6e3b-4d6f-b32b-32b91a67b1c8"
+    },
+    {
+      "type": "starred_in",
+      "target": "c4da1933-fd4a-4d12-b162-56aa2b8fab63"
+    }
+  ],
   "properties": {
     "birth_date": "1939-08-12",
     "nationality": "American",

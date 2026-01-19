@@ -33,16 +33,20 @@
   ],
   "relationships": [
     {
-      "type": "orchestrated_by",
-      "target": "e91b6591-828c-4f44-8961-9830dc031b96"
+      "type": "features_location",
+      "target": "47dcd2e1-e95a-4b43-8a4e-74bc0a283c95"
+    },
+    {
+      "type": "involves",
+      "target": "47dcd2e1-e95a-4b43-8a4e-74bc0a283c95"
     },
     {
       "type": "obstructed_by",
       "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
     },
     {
-      "type": "involves",
-      "target": "47dcd2e1-e95a-4b43-8a4e-74bc0a283c95"
+      "type": "orchestrated_by",
+      "target": "e91b6591-828c-4f44-8961-9830dc031b96"
     }
   ],
   "properties": {

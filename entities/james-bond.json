@@ -31,7 +31,12 @@
     "James Bond, Agent 007",
     "Bond, James"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "features_character",
+      "target": "0c6a6d4a-4a9e-480b-9433-8b0d6e4e5d97"
+    }
+  ],
   "properties": {
     "nationality": "British",
     "occupation": "Secret Service Agent",

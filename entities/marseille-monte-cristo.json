@@ -29,12 +29,16 @@
   },
   "relationships": [
     {
+      "type": "contains",
+      "target": "25c7e3f9-896d-4b1c-9f8b-5f67ae3d1825"
+    },
+    {
       "type": "featured_in",
       "target": "3c6350b1-f92d-4f6a-a7e7-e82f61c57b13"
     },
     {
-      "type": "contains",
-      "target": "25c7e3f9-896d-4b1c-9f8b-5f67ae3d1825"
+      "type": "located_in",
+      "target": "87f73de7-8f05-4c8b-8f8a-a4cfe7115273"
     }
   ],
   "facets": {

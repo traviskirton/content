@@ -36,6 +36,18 @@
       "target": "6c3edb3b-1c68-4f0f-9ed9-952d3e7acb6e"
     },
     {
+      "type": "features_character",
+      "target": "4af7f867-6c8a-43c1-a4e1-08db387f6d32"
+    },
+    {
+      "type": "features_character",
+      "target": "59ea23e1-3286-44ae-8358-e8e25a1d8f6d"
+    },
+    {
+      "type": "features_character",
+      "target": "ea3a4f1d-2a87-4451-a1f9-6549a1c7ebf6"
+    },
+    {
       "type": "part_of_franchise",
       "target": "3f2a8ac1-8265-4be2-b147-af56f003de51"
     }

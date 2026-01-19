@@ -26,20 +26,16 @@
   ],
   "relationships": [
     {
+      "type": "headquartered_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "headquartered_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
       "type": "produced",
       "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
-    },
-    {
-      "type": "produced",
-      "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
-    },
-    {
-      "type": "produced",
-      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
-    },
-    {
-      "type": "located_in",
-      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
     },
     {
       "type": "produced",
@@ -47,7 +43,31 @@
     },
     {
       "type": "produced",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "produced",
       "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "produced_film",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "produced_film",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "produced_film",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "produced_film",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "produced_film",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
     }
   ],
   "properties": {

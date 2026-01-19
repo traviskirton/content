@@ -34,20 +34,28 @@
       "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
     },
     {
-      "type": "led_by",
-      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
-    },
-    {
-      "type": "led_by",
-      "target": "d03a2ebc-4fbd-4bc1-9bc3-c2659c9123b1"
+      "type": "headquartered_in",
+      "target": "295a0b1a-ed45-4dff-a401-99b121032f26"
     },
     {
       "type": "headquartered_in",
       "target": "d55f7b9e-3b3b-4b8d-a2ef-8b8cbecf3883"
     },
     {
-      "type": "headquartered_in",
+      "type": "led_by",
+      "target": "d03a2ebc-4fbd-4bc1-9bc3-c2659c9123b1"
+    },
+    {
+      "type": "led_by",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    },
+    {
+      "type": "located_in",
       "target": "295a0b1a-ed45-4dff-a401-99b121032f26"
+    },
+    {
+      "type": "located_in",
+      "target": "6a90f4f8-d2f0-41b5-8334-c8c8e9a0de69"
     }
   ],
   "properties": {

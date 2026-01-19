@@ -31,12 +31,12 @@
   ],
   "relationships": [
     {
-      "type": "featured_in",
-      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
-    },
-    {
       "type": "created_by",
       "target": "f41da99b-62cf-4de5-b79b-9c999e62aa8f"
+    },
+    {
+      "type": "featured_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
     },
     {
       "type": "located_at",

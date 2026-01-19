@@ -32,7 +32,15 @@
       "target": "4e017a2d-5a6e-4a12-b197-50daf2115d89"
     },
     {
+      "type": "located_in",
+      "target": "71b6fdea-7640-4829-8e50-2a2a5f09a204"
+    },
+    {
       "type": "part_of",
+      "target": "71b6fdea-7640-4829-8e50-2a2a5f09a204"
+    },
+    {
+      "type": "part_of_series",
       "target": "71b6fdea-7640-4829-8e50-2a2a5f09a204"
     }
   ],

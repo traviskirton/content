@@ -36,6 +36,10 @@
     {
       "type": "portrays",
       "target": "d89e052c-4577-4753-a15c-3b890c6576df"
+    },
+    {
+      "type": "starred_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
     }
   ],
   "properties": {

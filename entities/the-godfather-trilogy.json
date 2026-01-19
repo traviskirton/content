@@ -30,7 +30,48 @@
     "The Godfather Series",
     "Corleone Trilogy"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "features_character",
+      "target": "5bc20469-a1d5-4fd3-ae10-d2bfe9de811d"
+    },
+    {
+      "type": "features_character",
+      "target": "a3f6f2d4-21b7-4cc1-9f6e-abf0a4c0bfa4"
+    },
+    {
+      "type": "features_character",
+      "target": "b9a3bcb3-6257-4ec0-8cd1-2d66a8ac4dca"
+    },
+    {
+      "type": "features_character",
+      "target": "d384d099-5f12-4c62-ba88-59e68c3e4b9e"
+    },
+    {
+      "type": "features_character",
+      "target": "ddfa9828-44d6-4fc3-b0a0-3e329b47172b"
+    },
+    {
+      "type": "features_character",
+      "target": "ee7f7340-b561-47ab-b7d2-9c6f595bd8cd"
+    },
+    {
+      "type": "features_location",
+      "target": "96fe0faa-1995-4c36-b0cc-c24a3878db28"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "8f5a4e30-28e4-4e3d-9096-5ebeb501a9bd"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "9d5bb3a3-d2ed-4544-9282-1bbf4def1829"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "f6be48f1-3a69-4db9-a489-3a1aade3c1e8"
+    }
+  ],
   "properties": {
     "medium": "Film",
     "genre": [

@@ -27,8 +27,88 @@
   ],
   "relationships": [
     {
+      "type": "directed",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    },
+        {
+      "type": "directed",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    },
+    {
+      "type": "directed",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "directed",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "directed",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "directed",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "directed",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "directed",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "founded",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "produced",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    },
+    {
+      "type": "produced",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "produced",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "produced",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "produced",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "produced_by",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "worked_with",
+      "target": "964ed9fc-b4dc-4fbd-8d8f-cf3f8e7e4d5c"
+    },
+    {
+      "type": "worked_with",
+      "target": "b4acdbb7-21f9-4c19-8149-221c0a4f745f"
+    },
+    {
+      "type": "worked_with",
+      "target": "d1f9c872-b97c-4c93-bd58-22a7a721b3a6"
+    },
+    {
+      "type": "worked_for",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
       "type": "worked_with",
       "target": "15f5a123-d9e8-4397-b782-67814dc0b9b6"
+    },
+    {
+      "type": "worked_with",
+      "target": "4cf6d8b9-71f4-4eff-9c9e-bb3b3f7b2e8e"
     },
     {
       "type": "worked_with",
@@ -40,107 +120,39 @@
     },
     {
       "type": "worked_with",
-      "target": "4cf6d8b9-71f4-4eff-9c9e-bb3b3f7b2e8e"
-    },
-    {
-      "type": "worked_with",
       "target": "a3c5de67-f1d3-42b6-a6b3-123f0d65c1a4"
     },
     {
-      "type": "directed",
-      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
-    },
-    {
-      "type": "founded",
-      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
-    },
-    {
-      "type": "worked_for",
-      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
-    },
-    {
-      "type": "directed",
-      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
-    },
-    {
       "type": "wrote",
-      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
-    },
-    {
-      "type": "directed",
-      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
-    },
-    {
-      "type": "produced",
-      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
-    },
-    {
-      "type": "wrote",
-      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
-    },
-    {
-      "type": "directed",
-      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
-    },
-    {
-      "type": "produced",
-      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
-    },
-    {
-      "type": "wrote",
-      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
-    },
-    {
-      "type": "directed",
-      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
     },
     {
       "type": "wrote",
       "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
     },
     {
-      "type": "directed",
-      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
-    },
-    {
       "type": "wrote",
       "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
     },
     {
-      "type": "directed",
-      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+      "type": "wrote",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
     },
     {
-      "type": "produced",
-      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+      "type": "wrote",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
     },
     {
       "type": "wrote",
       "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
     },
     {
-      "type": "directed",
-      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
-    },
-    {
-      "type": "produced",
-      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
-    },
-    {
       "type": "wrote",
       "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
     },
     {
-      "type": "directed",
-      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
-    },
-    {
       "type": "wrote",
-      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
-    },
-    {
-      "type": "produced",
-      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
     }
   ],
   "properties": {

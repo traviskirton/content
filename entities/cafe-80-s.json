@@ -27,6 +27,10 @@
   ],
   "relationships": [
     {
+      "type": "contains",
+      "target": "b12f1176-e8f4-4c8d-9abb-e294b08e1787"
+    },
+    {
       "type": "featured_in",
       "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
     },
@@ -35,8 +39,8 @@
       "target": "d4e5f6a7-b8c9-0123-def0-456789012345"
     },
     {
-      "type": "contains",
-      "target": "b12f1176-e8f4-4c8d-9abb-e294b08e1787"
+      "type": "located_in",
+      "target": "f9b4c1d8-3479-4e60-b9d2-a3c4f778b8bf"
     }
   ],
   "properties": {

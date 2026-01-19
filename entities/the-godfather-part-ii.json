@@ -26,7 +26,52 @@
     "The Godfather: Part II",
     "The Godfather 2"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "directed_by",
+      "target": "3a0c7f6d-9b31-478c-a716-f3fdbc3b10e7"
+    },
+    {
+      "type": "features_character",
+      "target": "4dc5c099-393f-44f3-b544-95c7f8a78758"
+    },
+    {
+      "type": "features_character",
+      "target": "9b3169a4-90d1-43f5-9bcb-fbea0bca7ed3"
+    },
+    {
+      "type": "features_character",
+      "target": "b7744028-c40f-4104-bd37-30636600eea8"
+    },
+    {
+      "type": "features_character",
+      "target": "dc16b2c7-fd10-40de-883a-d217a62a8f04"
+    },
+    {
+      "type": "features_character",
+      "target": "eb4d2398-f8bb-4187-94c8-ea6eabd7759a"
+    },
+    {
+      "type": "stars",
+      "target": "f6be48f1-3a69-4db9-a489-3a1aade3c1e8"
+    },
+    {
+      "type": "stars",
+      "target": "8e4c5d90-fde9-405f-b387-108f4bf79eda"
+    },
+    {
+      "type": "stars",
+      "target": "ca59bff7-659a-43ee-89e0-7c95553eb7ec"
+    },
+    {
+      "type": "stars",
+      "target": "bf6a0eae-e87a-42ce-ae55-1c6056ddb70b"
+    },
+    {
+      "type": "stars",
+      "target": "6dbe0e2b-55f8-4b3e-b919-db8a4b52a0f1"
+    }
+  ],
   "properties": {
     "year": 1974,
     "runtime_minutes": 202,

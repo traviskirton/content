@@ -26,28 +26,28 @@
   ],
   "relationships": [
     {
-      "type": "directed_by",
-      "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
-    },
-    {
-      "type": "produced_by",
-      "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
-    },
-    {
-      "type": "written_by",
-      "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
-    },
-    {
       "type": "composed_by",
       "target": "f4278272-d669-4d9d-92f7-4a2e57682bf7"
     },
     {
-      "type": "stars",
-      "target": "dbf564e7-1a57-4ed3-a2b0-ec5d646bdb24"
+      "type": "directed_by",
+      "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
     },
     {
-      "type": "stars",
-      "target": "89b7e1d7-563c-4b49-b789-416bacf84652"
+      "type": "distributed_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "features_character",
+      "target": "1ea15c82-2e51-4f0d-bfce-98fc45a6ac50"
+    },
+    {
+      "type": "features_character",
+      "target": "4a15ed35-d579-4b34-9dfa-e3d96de5d31b"
+    },
+    {
+      "type": "features_character",
+      "target": "5cd417c8-1175-4197-9e38-93bbcd9de3c8"
     },
     {
       "type": "features_character",
@@ -55,7 +55,51 @@
     },
     {
       "type": "features_character",
-      "target": "4a15ed35-d579-4b34-9dfa-e3d96de5d31b"
+      "target": "a3d5f9fc-b08b-4a82-9ee3-4b7d733b646b"
+    },
+    {
+      "type": "features_character",
+      "target": "abf1b564-08e2-4829-ac44-f830fd1a7a1e"
+    },
+    {
+      "type": "features_character",
+      "target": "ae5189a7-563b-4162-b1ad-7fbbf6d7b3c9"
+    },
+    {
+      "type": "features_character",
+      "target": "b87b3c9d-4e25-41d3-b635-3ab2c66a63b4"
+    },
+    {
+      "type": "features_character",
+      "target": "c8f65c7b-82c3-41db-a2f1-6a7f8e6f843e"
+    },
+    {
+      "type": "features_character",
+      "target": "d89e052c-4577-4753-a15c-3b890c6576df"
+    },
+    {
+      "type": "features_character",
+      "target": "f0c21cd1-6a3b-432a-bf85-225c1effbc09"
+    },
+    {
+      "type": "features_location",
+      "target": "120e0721-cf38-4e88-ac63-de8f4b7bba82"
+    },
+    {
+      "type": "features_location",
+      "target": "168efb74-2b3c-4ef6-8c5b-de68f3a54c1b"
+    },
+    {
+      "type": "features_location",
+      "target": "1d2878e2-4b76-4bd7-bd8f-b22b74680e63"
+    },
+    {
+      "type": "features_location",
+      "target": "2216d72e-589b-4d06-ae52-60f24c971234"
+    },
+    {
+      "type": "features_location",
+      "target": "2a9f7e06-8d8b-40c4-a8b5-5a16f77b35fd"
     },
     {
       "type": "features_location",
@@ -63,23 +107,43 @@
     },
     {
       "type": "features_location",
-      "target": "2216d72e-589b-4d06-ae52-60f24c971234"
+      "target": "5939cc72-7068-4a23-bffe-79f1f29f68e5"
     },
     {
-      "type": "produced_by_company",
-      "target": "d65b3a1e-5b3b-4a72-907d-fae2b0ef4f90"
+      "type": "features_location",
+      "target": "6a90f4f8-d2f0-41b5-8334-c8c8e9a0de69"
     },
     {
-      "type": "distributed_by",
-      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+      "type": "features_location",
+      "target": "7b9b54fe-410e-44c3-b790-9957c11db367"
     },
     {
-      "type": "part_of",
-      "target": "c9b4e5f3-371e-4dc3-b2f5-1a80a2e965f9"
+      "type": "features_location",
+      "target": "b55a3b0d-8a47-4699-a5ba-f5dce359d5ec"
+    },
+    {
+      "type": "features_location",
+      "target": "b5d2c7e4-9f2b-4a0f-bc9f-7f0e8b2511d7"
+    },
+    {
+      "type": "features_location",
+      "target": "c0987f99-8a6c-4071-982e-78b3224c6f7e"
+    },
+    {
+      "type": "features_location",
+      "target": "c8f3d665-6441-4057-af80-b6d8c09f9f8a"
+    },
+    {
+      "type": "features_location",
+      "target": "f2a5ad60-36f4-4f16-ba23-eb8a6cd78a7b"
+    },
+    {
+      "type": "features_location",
+      "target": "f8b9ca12-97b3-4bea-946d-12ac5c7d7f75"
     },
     {
       "type": "filmed_in",
-      "target": "c7e3f8b6-2dbe-4c91-888f-4897a3c8239c"
+      "target": "336de5f4-8a5a-4ccb-92d4-03b4c1dee24c"
     },
     {
       "type": "filmed_in",
@@ -91,11 +155,55 @@
     },
     {
       "type": "filmed_in",
-      "target": "336de5f4-8a5a-4ccb-92d4-03b4c1dee24c"
+      "target": "c7e3f8b6-2dbe-4c91-888f-4897a3c8239c"
     },
     {
       "type": "filmed_in",
       "target": "e1c864e6-a0de-420d-8b0f-36f51a0fdc8b"
+    },
+    {
+      "type": "part_of",
+      "target": "c9b4e5f3-371e-4dc3-b2f5-1a80a2e965f9"
+    },
+    {
+      "type": "part_of_series",
+      "target": "c9b4e5f3-371e-4dc3-b2f5-1a80a2e965f9"
+    },
+    {
+      "type": "produced_by",
+      "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "d65b3a1e-5b3b-4a72-907d-fae2b0ef4f90"
+    },
+    {
+      "type": "stars",
+      "target": "01eddf5d-be9b-488f-9398-650d6d00e0b9"
+    },
+    {
+      "type": "stars",
+      "target": "89b7e1d7-563c-4b49-b789-416bacf84652"
+    },
+    {
+      "type": "stars",
+      "target": "8d84dc6f-5d87-4a2e-a11b-1b7a67e8439a"
+    },
+    {
+      "type": "stars",
+      "target": "dbf564e7-1a57-4ed3-a2b0-ec5d646bdb24"
+    },
+    {
+      "type": "stars",
+      "target": "fa6ad433-5bae-4a91-a9c6-38068e12d6f8"
+    },
+    {
+      "type": "written_by",
+      "target": "c5a2f886-e97f-4c2b-b103-a1f99c5e876d"
+    },
+    {
+      "type": "stars",
+      "target": "e6dd9f4d-04b5-4f36-aad6-60d3ba7e1c8b"
     }
   ],
   "properties": {

@@ -34,6 +34,22 @@
     {
       "type": "appears_in",
       "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "starred_in",
+      "target": "a34e10f7-2f77-48bd-803f-efa34f19c87f"
+    },
+    {
+      "type": "starred_in",
+      "target": "f2318973-a4ee-4b60-8585-397a6f1d4d73"
+    },
+    {
+      "type": "starred_in",
+      "target": "d5f5bf96-6e3b-4d6f-b32b-32b91a67b1c8"
+    },
+    {
+      "type": "starred_in",
+      "target": "c4da1933-fd4a-4d12-b162-56aa2b8fab63"
     }
   ],
   "properties": {

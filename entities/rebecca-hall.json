@@ -21,7 +21,9 @@
       "body": "Rebecca Hall has established herself as a prominent figure in the film industry, known for her compelling performances and critical acclaim. She has received various awards and nominations over her career, including a Golden Globe nomination, and continues to influence the next generation of actors. Hall also made her directorial debut with the 2021 film **'Passing'**, further demonstrating her versatility and talent in the industry."
     }
   ],
-  "aliases": [],
+  "aliases": [
+    "Rebecca"
+  ],
   "relationships": [
     {
       "type": "starred_in",
@@ -30,6 +32,10 @@
     {
       "type": "worked_with",
       "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+    },
+    {
+      "type": "starred_in",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
     }
   ],
   "properties": {

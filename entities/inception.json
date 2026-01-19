@@ -26,72 +26,20 @@
   ],
   "relationships": [
     {
-      "type": "directed_by",
-      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
-    },
-    {
-      "type": "produced_by",
-      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
-    },
-    {
-      "type": "written_by",
-      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
-    },
-    {
       "type": "composed_by",
       "target": "a3c5de67-f1d3-42b6-a6b3-123f0d65c1a4"
     },
     {
-      "type": "stars",
-      "target": "ac3b1234-abf5-40d2-8bef-c8b789d8e123"
+      "type": "directed_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     },
     {
-      "type": "stars",
-      "target": "f4b45718-977d-4185-b97c-8a0f312f5f84"
-    },
-    {
-      "type": "stars",
-      "target": "b4acdbb7-21f9-4c19-8149-221c0a4f745f"
-    },
-    {
-      "type": "stars",
-      "target": "e5d3f69c-ce24-4a97-a133-6a74f0b5f6be"
-    },
-    {
-      "type": "stars",
-      "target": "15f5a123-d9e8-4397-b782-67814dc0b9b6"
-    },
-    {
-      "type": "stars",
-      "target": "223f44e1-6a1e-4026-891c-e560f5657eb4"
+      "type": "distributed_by",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
     },
     {
       "type": "features_character",
-      "target": "c45406b4-9c8f-4f0d-8f0d-df8562b1e735"
-    },
-    {
-      "type": "features_character",
-      "target": "ed4f8534-1cc4-4c5e-b8f8-c54c9f0d3eff"
-    },
-    {
-      "type": "features_character",
-      "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
-    },
-    {
-      "type": "features_character",
-      "target": "83957e7c-4ff2-4e2f-b2f3-1b3a9b4e3c2a"
-    },
-    {
-      "type": "features_character",
-      "target": "cc738e81-1850-4c8a-a04e-75216c6f8968"
-    },
-    {
-      "type": "features_character",
-      "target": "c9e5f16a-d3cb-42cd-aaf5-3742bbd62cd9"
-    },
-    {
-      "type": "features_character",
-      "target": "8437f585-b73f-45f4-a839-74f3fcc8f269"
+      "target": "070c7e8b-254b-48d2-bc66-df03b6b3f043"
     },
     {
       "type": "features_character",
@@ -103,11 +51,35 @@
     },
     {
       "type": "features_character",
-      "target": "070c7e8b-254b-48d2-bc66-df03b6b3f043"
+      "target": "5faa766d-2e48-4b7d-b8c4-0b4fa6e58219"
     },
     {
       "type": "features_character",
-      "target": "5faa766d-2e48-4b7d-b8c4-0b4fa6e58219"
+      "target": "83957e7c-4ff2-4e2f-b2f3-1b3a9b4e3c2a"
+    },
+    {
+      "type": "features_character",
+      "target": "8437f585-b73f-45f4-a839-74f3fcc8f269"
+    },
+    {
+      "type": "features_character",
+      "target": "c45406b4-9c8f-4f0d-8f0d-df8562b1e735"
+    },
+    {
+      "type": "features_character",
+      "target": "c9e5f16a-d3cb-42cd-aaf5-3742bbd62cd9"
+    },
+    {
+      "type": "features_character",
+      "target": "cc738e81-1850-4c8a-a04e-75216c6f8968"
+    },
+    {
+      "type": "features_character",
+      "target": "d479f5a6-9e23-493f-9db2-4fbeabdfd5f3"
+    },
+    {
+      "type": "features_character",
+      "target": "ed4f8534-1cc4-4c5e-b8f8-c54c9f0d3eff"
     },
     {
       "type": "features_character",
@@ -115,11 +87,71 @@
     },
     {
       "type": "features_location",
-      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
+      "target": "07d1f9bb-24a2-4f2a-8895-abb2bb8fa876"
+    },
+    {
+      "type": "features_location",
+      "target": "39b3f5e0-8b8a-4c3a-a12f-dbd4f5e1b9e9"
+    },
+    {
+      "type": "features_location",
+      "target": "418117ac-6001-4412-bcc1-bdf77b3d2b80"
+    },
+    {
+      "type": "features_location",
+      "target": "48c1a68f-d1b9-471f-9c92-23c5ae8d321c"
+    },
+    {
+      "type": "features_location",
+      "target": "5d47e06c-5a46-4ae3-9b63-ecb787e19172"
+    },
+    {
+      "type": "features_location",
+      "target": "5d4c9872-bc8b-4931-ae7d-7e3ac73246e8"
     },
     {
       "type": "features_location",
       "target": "5de86068-a215-4f6d-a874-3d9ddb2b83b7"
+    },
+    {
+      "type": "features_location",
+      "target": "8d2c9f17-25f4-4c4e-b569-45f76f2656de"
+    },
+    {
+      "type": "features_location",
+      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
+    },
+    {
+      "type": "features_location",
+      "target": "b674c306-a2d7-4c8d-9391-cf3a06796c4d"
+    },
+    {
+      "type": "features_location",
+      "target": "b96dc48d-68a2-446f-a0e0-7fbf8741eb3a"
+    },
+    {
+      "type": "features_location",
+      "target": "d2c8efb6-1a2b-428d-b5f5-087cb434dcae"
+    },
+    {
+      "type": "features_location",
+      "target": "f46e6c9e-3198-4ea6-805f-7e3b3f286b3c"
+    },
+    {
+      "type": "filmed_in",
+      "target": "a7f5b313-55b9-4f5d-9b74-7d2f2ddcbd0d"
+    },
+    {
+      "type": "filmed_in",
+      "target": "b1a0418d-0459-4bbf-a28e-10cc88d9f4db"
+    },
+    {
+      "type": "filmed_in",
+      "target": "d29c3776-bfec-4fde-a6de-a191d5a60f9d"
+    },
+    {
+      "type": "produced_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     },
     {
       "type": "produced_by_company",
@@ -130,20 +162,40 @@
       "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
     },
     {
-      "type": "distributed_by",
-      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+      "type": "stars",
+      "target": "15f5a123-d9e8-4397-b782-67814dc0b9b6"
     },
     {
-      "type": "filmed_in",
-      "target": "d29c3776-bfec-4fde-a6de-a191d5a60f9d"
+      "type": "stars",
+      "target": "223f44e1-6a1e-4026-891c-e560f5657eb4"
     },
     {
-      "type": "filmed_in",
-      "target": "a7f5b313-55b9-4f5d-9b74-7d2f2ddcbd0d"
+      "type": "stars",
+      "target": "75a9dc7b-02ee-4d3b-8855-57f9b7f91a43"
     },
     {
-      "type": "filmed_in",
-      "target": "b1a0418d-0459-4bbf-a28e-10cc88d9f4db"
+      "type": "stars",
+      "target": "8e1f45e8-42ac-4c0b-977f-50f479d573b3"
+    },
+    {
+      "type": "stars",
+      "target": "ac3b1234-abf5-40d2-8bef-c8b789d8e123"
+    },
+    {
+      "type": "stars",
+      "target": "b4acdbb7-21f9-4c19-8149-221c0a4f745f"
+    },
+    {
+      "type": "stars",
+      "target": "e5d3f69c-ce24-4a97-a133-6a74f0b5f6be"
+    },
+    {
+      "type": "stars",
+      "target": "f4b45718-977d-4185-b97c-8a0f312f5f84"
+    },
+    {
+      "type": "written_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     }
   ],
   "properties": {

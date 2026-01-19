@@ -21,19 +21,18 @@
       "body": "Sal Maroni is in direct conflict with Batman (Bruce Wayne) and allies like James Gordon. He takes over as the head of organized crime after Falcone's decline, making him a key target for Gotham's vigilante justice. Maroni also forms a tenuous alliance with The Joker to achieve his goals, but their cooperation is fraught with tension."
     }
   ],
-  "aliases": [],
+  "aliases": [
+    "Maroni",
+    "Salvatore Maroni"
+  ],
   "relationships": [
     {
       "type": "appears_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "appears_in",
       "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
-    },
-    {
-      "type": "rivals_with",
-      "target": "fe4f2182-4056-4713-8491-8d53ad5c434b"
-    },
-    {
-      "type": "rivals_with",
-      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
     },
     {
       "type": "member_of",
@@ -44,8 +43,12 @@
       "target": "f9b7c8a2-5693-4b4a-b4d5-a307c6f6b8d4"
     },
     {
-      "type": "appears_in",
-      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+      "type": "rivals_with",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+    },
+    {
+      "type": "rivals_with",
+      "target": "fe4f2182-4056-4713-8491-8d53ad5c434b"
     }
   ],
   "properties": {

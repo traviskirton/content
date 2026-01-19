@@ -33,12 +33,16 @@
   ],
   "relationships": [
     {
+      "type": "appears_in",
+      "target": "9b1ab6a0-df91-4c86-8a72-8c23b7428298"
+    },
+    {
       "type": "employs",
       "target": "4b751a8e-3dce-4f29-8b1a-4e7db45a98fe"
     },
     {
-      "type": "appears_in",
-      "target": "9b1ab6a0-df91-4c86-8a72-8c23b7428298"
+      "type": "features_character",
+      "target": "f549c21b-c222-46f9-8ed1-651ef70979a7"
     }
   ],
   "properties": {

@@ -26,7 +26,7 @@
   ],
   "relationships": [
     {
-      "type": "starred_in",
+      "type": "worked_with",
       "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     },
     {

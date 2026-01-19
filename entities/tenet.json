@@ -23,40 +23,32 @@
   ],
   "relationships": [
     {
+      "type": "composed_by",
+      "target": "d89a19c5-7b44-4ff8-bd6b-90b4f3bbf2a4"
+    },
+    {
       "type": "directed_by",
       "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     },
     {
-      "type": "written_by",
-      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
+      "type": "features_character",
+      "target": "1c4d5e6f-8b9a-7c0d-1e2f-3a4b5c6d7e8f"
     },
     {
-      "type": "produced_by_company",
-      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+      "type": "features_character",
+      "target": "1e9f075d-babe-4e28-8fa4-1123e2c61d7f"
     },
     {
-      "type": "produced_by_company",
-      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+      "type": "features_character",
+      "target": "3fbb2f56-c3f7-457a-8773-e8b9f7d8e57b"
     },
     {
-      "type": "stars",
-      "target": "0c1d2eb3-acf4-4343-9924-58f2bf89e121"
+      "type": "features_character",
+      "target": "6f2e94d3-7482-4de5-829a-c5f5a8b75212"
     },
     {
-      "type": "stars",
-      "target": "fa6ad433-5bae-4a91-a9c6-38068e12d6f8"
-    },
-    {
-      "type": "stars",
-      "target": "d1f9c872-b97c-4c93-bd58-22a7a721b3a6"
-    },
-    {
-      "type": "stars",
-      "target": "e13cd9c3-d92f-4f3e-8726-79d8f37bc561"
-    },
-    {
-      "type": "composed_by",
-      "target": "d89a19c5-7b44-4ff8-bd6b-90b4f3bbf2a4"
+      "type": "features_character",
+      "target": "7fa7678a-d5a9-4078-b7ae-33e0209b251c"
     },
     {
       "type": "features_character",
@@ -67,24 +59,24 @@
       "target": "ed4f8534-1cc4-4c5e-b8f8-c54c9f0d3eff"
     },
     {
-      "type": "features_character",
-      "target": "6f2e94d3-7482-4de5-829a-c5f5a8b75212"
+      "type": "features_location",
+      "target": "0e1248f3-9ad0-40a1-9a1e-8e92d7756809"
     },
     {
-      "type": "features_character",
-      "target": "3fbb2f56-c3f7-457a-8773-e8b9f7d8e57b"
+      "type": "features_location",
+      "target": "1d8e8f63-e7a7-4c41-92b4-df0f60f9fb34"
     },
     {
-      "type": "features_character",
-      "target": "1e9f075d-babe-4e28-8fa4-1123e2c61d7f"
+      "type": "features_location",
+      "target": "2f691aae-612a-4460-bf97-9a2a258499b1"
     },
     {
-      "type": "features_character",
-      "target": "1c4d5e6f-8b9a-7c0d-1e2f-3a4b5c6d7e8f"
+      "type": "features_location",
+      "target": "534627de-1fa6-44f3-b786-9fd4c7a72c30"
     },
     {
-      "type": "features_character",
-      "target": "7fa7678a-d5a9-4078-b7ae-33e0209b251c"
+      "type": "features_location",
+      "target": "68a2b94d-8e84-4d6a-8d57-839253a6d85a"
     },
     {
       "type": "features_location",
@@ -100,15 +92,27 @@
     },
     {
       "type": "features_location",
+      "target": "b4833d86-f3d9-4bd8-b8b6-97b1e1f89de8"
+    },
+    {
+      "type": "features_location",
       "target": "b623e742-3a65-4ea9-a559-787f3d096a8e"
     },
     {
-      "type": "filmed_in",
-      "target": "e87458ca-19f1-4e2c-9f75-4d9eb6c87478"
+      "type": "features_location",
+      "target": "d5d1c4f9-a7d2-4f2e-8d4f-a0b7f7e0d567"
     },
     {
-      "type": "filmed_in",
-      "target": "5c8b7e90-7d23-4d42-94f9-fddeb9ad7162"
+      "type": "features_location",
+      "target": "e7a9c560-40c9-4d9e-9432-f8f2e4df1d02"
+    },
+    {
+      "type": "features_location",
+      "target": "ec7514e5-5d96-4b77-9114-43d63e0ff912"
+    },
+    {
+      "type": "features_location",
+      "target": "f3d1b1e4-6292-4b9a-a398-0f01fde8ea08"
     },
     {
       "type": "filmed_in",
@@ -116,7 +120,11 @@
     },
     {
       "type": "filmed_in",
-      "target": "e6ac1f30-0d01-4c84-9c18-9ae8f13f4ef2"
+      "target": "5c8b7e90-7d23-4d42-94f9-fddeb9ad7162"
+    },
+    {
+      "type": "filmed_in",
+      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
     },
     {
       "type": "filmed_in",
@@ -124,7 +132,75 @@
     },
     {
       "type": "filmed_in",
-      "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
+      "target": "e6ac1f30-0d01-4c84-9c18-9ae8f13f4ef2"
+    },
+    {
+      "type": "filmed_in",
+      "target": "e87458ca-19f1-4e2c-9f75-4d9eb6c87478"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "produced_by_company",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "stars",
+      "target": "0c1d2eb3-acf4-4343-9924-58f2bf89e121"
+    },
+    {
+      "type": "stars",
+      "target": "0d16f31f-9c20-4f85-8bff-648a774c421c"
+    },
+    {
+      "type": "stars",
+      "target": "223f44e1-6a1e-4026-891c-e560f5657eb4"
+    },
+    {
+      "type": "stars",
+      "target": "81460f47-2769-46b3-be7b-733fdd27748c"
+    },
+    {
+      "type": "stars",
+      "target": "8e1f45e8-42ac-4c0b-977f-50f479d573b3"
+    },
+    {
+      "type": "stars",
+      "target": "b4acdbb7-21f9-4c19-8149-221c0a4f745f"
+    },
+    {
+      "type": "stars",
+      "target": "bffa1c16-ee57-490e-8704-bf801c3b7f33"
+    },
+    {
+      "type": "stars",
+      "target": "d1f9c872-b97c-4c93-bd58-22a7a721b3a6"
+    },
+    {
+      "type": "stars",
+      "target": "e13cd9c3-d92f-4f3e-8726-79d8f37bc561"
+    },
+    {
+      "type": "stars",
+      "target": "e5d3f69c-ce24-4a97-a133-6a74f0b5f6be"
+    },
+    {
+      "type": "stars",
+      "target": "f4b45718-977d-4185-b97c-8a0f312f5f84"
+    },
+    {
+      "type": "stars",
+      "target": "f4c3d2b2-ae12-4f1e-b3cc-a3d9a9f5c123"
+    },
+    {
+      "type": "stars",
+      "target": "fa6ad433-5bae-4a91-a9c6-38068e12d6f8"
+    },
+    {
+      "type": "written_by",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     }
   ],
   "properties": {
@@ -162,5 +238,8 @@
     "espionage",
     "global-intrigue",
     "time-travel"
+  ],
+  "aliases": [
+    "TENET"
   ]
 }

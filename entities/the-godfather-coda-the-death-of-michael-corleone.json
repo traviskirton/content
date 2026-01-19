@@ -32,16 +32,52 @@
   ],
   "relationships": [
     {
-      "type": "re_edit_of",
-      "target": "d5f5bf96-6e3b-4d6f-b32b-32b91a67b1c8"
+      "type": "directed_by",
+      "target": "3a0c7f6d-9b31-478c-a716-f3fdbc3b10e7"
+    },
+    {
+      "type": "features_character",
+      "target": "6ff897b5-cdb8-4cd6-91a7-18c0a698a994"
     },
     {
       "type": "part_of_franchise",
       "target": "37f90f75-1f4c-4d85-8d2e-eafcebb09118"
     },
     {
-      "type": "directed_by",
-      "target": "3a0c7f6d-9b31-478c-a716-f3fdbc3b10e7"
+      "type": "re_edit_of",
+      "target": "d5f5bf96-6e3b-4d6f-b32b-32b91a67b1c8"
+    },
+    {
+      "type": "stars",
+      "target": "f6be48f1-3a69-4db9-a489-3a1aade3c1e8"
+    },
+    {
+      "type": "stars",
+      "target": "ca59bff7-659a-43ee-89e0-7c95553eb7ec"
+    },
+    {
+      "type": "stars",
+      "target": "bf6a0eae-e87a-42ce-ae55-1c6056ddb70b"
+    },
+    {
+      "type": "stars",
+      "target": "f571c85e-fd0f-448a-a9f3-64c9e8c3d36f"
+    },
+    {
+      "type": "stars",
+      "target": "5f7e92e6-2291-4741-8691-252c88e411fe"
+    },
+    {
+      "type": "stars",
+      "target": "ae37ba0f-5c7e-4da9-afe6-ab0f35c47e10"
+    },
+    {
+      "type": "stars",
+      "target": "3b5e9ed9-96f9-4b63-807c-fb7deef5765f"
+    },
+    {
+      "type": "stars",
+      "target": "2af8d8b1-c4f3-4a02-8eef-4b246ca7fe28"
     }
   ],
   "properties": {

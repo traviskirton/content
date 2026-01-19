@@ -31,22 +31,6 @@
     {
       "type": "wrote",
       "target": "3c6350b1-f92d-4f6a-a7e7-e82f61c57b13"
-    },
-    {
-      "type": "contains",
-      "target": "d3f76394-c89f-4842-8d8a-f5ae42e74e10"
-    },
-    {
-      "type": "contains",
-      "target": "fa0913cf-7aa6-4b44-8ec0-5d6b9b3bba4e"
-    },
-    {
-      "type": "contains",
-      "target": "47b9c418-2f0e-4a4a-9ac3-02f7c0c59ddb"
-    },
-    {
-      "type": "contains",
-      "target": "c4f64f8e-1fb8-4a39-85d7-397b3ee9ef4c"
     }
   ],
   "properties": {

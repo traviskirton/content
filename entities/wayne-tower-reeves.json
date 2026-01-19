@@ -26,16 +26,16 @@
   ],
   "relationships": [
     {
+      "type": "contains",
+      "target": "741acbc5-8a2f-4247-9585-267f61020389"
+    },
+    {
       "type": "featured_in",
       "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
     },
     {
       "type": "located_in",
       "target": "b5d2c7e4-9f2b-4a0f-bc9f-7f0e8b2511d7"
-    },
-    {
-      "type": "contains",
-      "target": "741acbc5-8a2f-4247-9585-267f61020389"
     }
   ],
   "properties": {

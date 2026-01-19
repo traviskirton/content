@@ -31,16 +31,20 @@
   ],
   "relationships": [
     {
-      "type": "portrayed_by",
-      "target": "123e4567-e89b-12d3-a456-426614174000"
+      "type": "appears_in",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
     },
     {
       "type": "appears_in",
       "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
     },
     {
-      "type": "appears_in",
-      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+      "type": "lives_in",
+      "target": "380e0a6b-1e6d-4f90-8069-0f73e2df8b61"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "123e4567-e89b-12d3-a456-426614174000"
     },
     {
       "type": "related_to",
@@ -49,10 +53,6 @@
     {
       "type": "related_to",
       "target": "fc8d2f8a-4236-4e8b-b19f-12c312fa4ebf"
-    },
-    {
-      "type": "lives_in",
-      "target": "380e0a6b-1e6d-4f90-8069-0f73e2df8b61"
     }
   ],
   "properties": {

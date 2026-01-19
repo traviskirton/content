@@ -28,12 +28,12 @@
   "aliases": [],
   "relationships": [
     {
-      "type": "featured_in",
-      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
-    },
-    {
       "type": "created_by",
       "target": "b15a100f-5c62-4e7d-9e23-2e9806487d94"
+    },
+    {
+      "type": "featured_in",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
     },
     {
       "type": "located_at",

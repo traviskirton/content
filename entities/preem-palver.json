@@ -32,12 +32,16 @@
   ],
   "relationships": [
     {
-      "type": "rival_of",
-      "target": "bb2d4b77-295e-4cde-9ef1-2faf4f8d7502"
-    },
-    {
       "type": "part_of",
       "target": "4e8ca927-012a-4b0e-94ef-59f1e2a9ab2e"
+    },
+    {
+      "type": "part_of_series",
+      "target": "4e8ca927-012a-4b0e-94ef-59f1e2a9ab2e"
+    },
+    {
+      "type": "rival_of",
+      "target": "bb2d4b77-295e-4cde-9ef1-2faf4f8d7502"
     }
   ],
   "properties": {

@@ -26,12 +26,8 @@
   ],
   "relationships": [
     {
-      "type": "worked_with",
-      "target": "2f83a8c2-7bd3-4c4e-ba86-92d5a8f8d295"
-    },
-    {
-      "type": "worked_with",
-      "target": "a3c5de67-f1d3-42b6-a6b3-123f0d65c1a4"
+      "type": "directed",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
     },
     {
       "type": "directed",
@@ -42,8 +38,12 @@
       "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
     },
     {
-      "type": "directed",
-      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+      "type": "worked_with",
+      "target": "2f83a8c2-7bd3-4c4e-ba86-92d5a8f8d295"
+    },
+    {
+      "type": "worked_with",
+      "target": "a3c5de67-f1d3-42b6-a6b3-123f0d65c1a4"
     }
   ],
   "properties": {

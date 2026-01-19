@@ -9,6 +9,14 @@
   ],
   "relationships": [
     {
+      "type": "directed_by",
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+    },
+    {
+      "type": "distributed_by",
+      "target": "217d1e4e-b4f3-4c6f-a1e7-ed74e29c8e67"
+    },
+    {
       "type": "includes",
       "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
     },
@@ -19,6 +27,26 @@
     {
       "type": "includes",
       "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "produced_by",
+      "target": "217d1e4e-b4f3-4c6f-a1e7-ed74e29c8e67"
+    },
+    {
+      "type": "stars",
+      "target": "c1a7a1c9-2d4f-43b7-ae9b-2f8e2c926d9e"
+    },
+    {
+      "type": "stars",
+      "target": "cd795c27-61c9-45b9-a8b0-2ed1f533a9fc"
+    },
+    {
+      "type": "stars",
+      "target": "da3f7c8b-9bb0-4d3b-9d6c-78f984762abc"
+    },
+    {
+      "type": "stars",
+      "target": "f0737a6e-5aef-4b39-b3a6-3e0a8455f1da"
     }
   ],
   "properties": {

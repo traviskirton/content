@@ -32,12 +32,7 @@
     "Espionage Periscope Case",
     "From Russia with Love Briefcase"
   ],
-  "relationships": [
-    {
-      "type": "appears_in",
-      "target": "831f6c2b-f6b2-4399-a3a5-31abbb2e43d4"
-    }
-  ],
+  "relationships": [],
   "properties": {
     "material": "Leather and metal",
     "gadgets": 3,

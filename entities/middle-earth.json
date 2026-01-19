@@ -32,16 +32,32 @@
   ],
   "relationships": [
     {
+      "type": "contains",
+      "target": "47b9c418-2f0e-4a4a-9ac3-02f7c0c59ddb"
+    },
+    {
+      "type": "contains",
+      "target": "8e688776-ff78-4c90-bbdb-d0298e548c73"
+    },
+    {
+      "type": "contains",
+      "target": "c4f64f8e-1fb8-4a39-85d7-397b3ee9ef4c"
+    },
+    {
+      "type": "contains",
+      "target": "d3f76394-c89f-4842-8d8a-f5ae42e74e10"
+    },
+    {
+      "type": "contains",
+      "target": "fa0913cf-7aa6-4b44-8ec0-5d6b9b3bba4e"
+    },
+    {
       "type": "created_by",
       "target": "6c3edb3b-1c68-4f0f-9ed9-952d3e7acb6e"
     },
     {
       "type": "franchise_contains",
       "target": "3f2a8ac1-8265-4be2-b147-af56f003de51"
-    },
-    {
-      "type": "contains",
-      "target": "8e688776-ff78-4c90-bbdb-d0298e548c73"
     }
   ],
   "properties": {

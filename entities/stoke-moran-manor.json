@@ -28,24 +28,28 @@
   ],
   "relationships": [
     {
+      "type": "contained_location",
+      "target": "47374696-f2c8-4053-8bd9-2c7a3e1a9032"
+    },
+    {
+      "type": "contained_location",
+      "target": "8a4f0ea5-e4d0-49d1-bfa1-d3cb64f4f0f7"
+    },
+    {
+      "type": "contains",
+      "target": "47374696-f2c8-4053-8bd9-2c7a3e1a9032"
+    },
+    {
+      "type": "contains",
+      "target": "8a4f0ea5-e4d0-49d1-bfa1-d3cb64f4f0f7"
+    },
+    {
+      "type": "located_in",
+      "target": "689aea73-1937-4ecb-a318-bb7bb799d783"
+    },
+    {
       "type": "located_in",
       "target": "9f8b7c4a-2b5e-44b7-9f3c-c4ed247f3a09"
-    },
-    {
-      "type": "contained_location",
-      "target": "8a4f0ea5-e4d0-49d1-bfa1-d3cb64f4f0f7"
-    },
-    {
-      "type": "contained_location",
-      "target": "47374696-f2c8-4053-8bd9-2c7a3e1a9032"
-    },
-    {
-      "type": "contains",
-      "target": "8a4f0ea5-e4d0-49d1-bfa1-d3cb64f4f0f7"
-    },
-    {
-      "type": "contains",
-      "target": "47374696-f2c8-4053-8bd9-2c7a3e1a9032"
     }
   ],
   "properties": {

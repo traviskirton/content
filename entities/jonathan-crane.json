@@ -31,7 +31,7 @@
   "relationships": [
     {
       "type": "appears_in",
-      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
     },
     {
       "type": "appears_in",
@@ -39,11 +39,15 @@
     },
     {
       "type": "appears_in",
-      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
     },
     {
-      "type": "rivals_with",
-      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
+      "type": "located_in",
+      "target": "78f1b2c1-2d4e-4f3b-bfa8-0bd4c94f8a6b"
+    },
+    {
+      "type": "member_of",
+      "target": "1a03f4d0-5132-475b-8b52-ba48966705d1"
     },
     {
       "type": "related_to",
@@ -54,16 +58,16 @@
       "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
     },
     {
-      "type": "works_at",
-      "target": "78f1b2c1-2d4e-4f3b-bfa8-0bd4c94f8a6b"
-    },
-    {
-      "type": "member_of",
-      "target": "1a03f4d0-5132-475b-8b52-ba48966705d1"
+      "type": "rivals_with",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
     },
     {
       "type": "uses",
       "target": "d5726a3d-fd00-4f52-9eb0-1e68836f5c82"
+    },
+    {
+      "type": "works_at",
+      "target": "78f1b2c1-2d4e-4f3b-bfa8-0bd4c94f8a6b"
     }
   ],
   "properties": {

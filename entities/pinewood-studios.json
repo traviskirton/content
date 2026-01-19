@@ -23,10 +23,6 @@
   ],
   "relationships": [
     {
-      "type": "located_in",
-      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
-    },
-    {
       "type": "filming_location_for",
       "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
     },
@@ -37,6 +33,10 @@
     {
       "type": "filming_location_for",
       "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "located_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
     }
   ],
   "properties": {

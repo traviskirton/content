@@ -27,23 +27,63 @@
   ],
   "relationships": [
     {
-      "type": "produced",
-      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+      "type": "contains",
+      "target": "708e2574-efb1-4626-b6f2-a8e2af2f8227"
     },
     {
-      "type": "produced",
-      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+      "type": "distributed",
+      "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
+    },
+    {
+      "type": "distributed",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+    },
+    {
+      "type": "distributed",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "distributed",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
     },
     {
       "type": "distributed",
       "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
     },
     {
-      "type": "produced",
-      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+      "type": "distributed",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
     },
     {
-      "type": "located_in",
+      "type": "distributed",
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "distributed",
+      "target": "d2b1b5ce-fc81-4abd-8481-70a5e0c55535"
+    },
+    {
+      "type": "distributed",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+    },
+    {
+      "type": "distributed",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "distributed",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "distributed_by",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "headquartered_in",
+      "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    },
+    {
+      "type": "headquartered_in",
       "target": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
     },
     {
@@ -51,8 +91,32 @@
       "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
     },
     {
-      "type": "contains",
-      "target": "708e2574-efb1-4626-b6f2-a8e2af2f8227"
+      "type": "produced",
+      "target": "68c9f9b7-4e4d-4d3e-9e13-5d5f3a129748"
+    },
+    {
+      "type": "produced",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+    },
+    {
+      "type": "produced",
+      "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
+    },
+    {
+      "type": "produced_by",
+      "target": "5e8f13e6-d0b5-4ae5-b9b0-21f973929365"
+    },
+    {
+      "type": "produced_film",
+      "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "produced_film",
+      "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
+    },
+    {
+      "type": "stars",
+      "target": "d41d8cd9-8f00-b204-e980-0998ecf8427e"
     }
   ],
   "properties": {

@@ -30,6 +30,10 @@
     {
       "type": "part_of",
       "target": "0b8f3c27-9edb-4b52-a4b6-1c9b0e3e6683"
+    },
+    {
+      "type": "part_of_series",
+      "target": "0b8f3c27-9edb-4b52-a4b6-1c9b0e3e6683"
     }
   ],
   "properties": {

@@ -28,12 +28,20 @@
   ],
   "relationships": [
     {
+      "type": "connected_to",
+      "target": "1f0a8220-48da-43e2-90b6-52507e8690ac"
+    },
+    {
+      "type": "located_in",
+      "target": "71b6fdea-7640-4829-8e50-2a2a5f09a204"
+    },
+    {
       "type": "part_of",
       "target": "71b6fdea-7640-4829-8e50-2a2a5f09a204"
     },
     {
-      "type": "connected_to",
-      "target": "1f0a8220-48da-43e2-90b6-52507e8690ac"
+      "type": "part_of_series",
+      "target": "71b6fdea-7640-4829-8e50-2a2a5f09a204"
     }
   ],
   "properties": {

@@ -26,19 +26,15 @@
   ],
   "relationships": [
     {
-      "type": "worked_with",
-      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+      "type": "composed",
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
     },
     {
-      "type": "worked_with",
-      "target": "ffbc5d71-dd5e-4895-9898-73d7e5e0b0d9"
+      "type": "composed",
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
     },
     {
-      "type": "worked_for",
-      "target": "217d1e4e-b4f3-4c6f-a1e7-ed74e29c8e67"
-    },
-    {
-      "type": "worked_with",
+      "type": "composed",
       "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
     },
     {
@@ -52,6 +48,22 @@
     {
       "type": "composed_for",
       "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "worked_for",
+      "target": "217d1e4e-b4f3-4c6f-a1e7-ed74e29c8e67"
+    },
+    {
+      "type": "worked_with",
+      "target": "03b96dd8-4c09-47d9-ae2e-186a5e9c0e15"
+    },
+    {
+      "type": "worked_with",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+    },
+    {
+      "type": "worked_with",
+      "target": "ffbc5d71-dd5e-4895-9898-73d7e5e0b0d9"
     }
   ],
   "properties": {

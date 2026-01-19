@@ -30,7 +30,12 @@
     "Raf V.",
     "Cardinal Lamberto (role)"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "starred_in",
+      "target": "d5f5bf96-6e3b-4d6f-b32b-32b91a67b1c8"
+    }
+  ],
   "properties": {
     "birth_date": "1916-02-17",
     "death_date": "2002-10-31",

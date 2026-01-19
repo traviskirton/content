@@ -30,6 +30,10 @@
   ],
   "relationships": [
     {
+      "type": "created_by",
+      "target": "c3d4e5f6-a7b8-9012-cdef-345678901234"
+    },
+    {
       "type": "featured_in",
       "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
     },
@@ -38,8 +42,8 @@
       "target": "a7e5d3c2-b1f8-42a3-9c8e-4f0f0172f0a3"
     },
     {
-      "type": "created_by",
-      "target": "c3d4e5f6-a7b8-9012-cdef-345678901234"
+      "type": "part_of_series",
+      "target": "a7e5d3c2-b1f8-42a3-9c8e-4f0f0172f0a3"
     }
   ],
   "properties": {

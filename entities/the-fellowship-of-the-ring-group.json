@@ -34,7 +34,7 @@
   ],
   "relationships": [
     {
-      "type": "has_item",
+      "type": "features_character",
       "target": "f8839ed5-8b42-4a97-9479-04ddf7e00850"
     },
     {
@@ -43,11 +43,15 @@
     },
     {
       "type": "has_item",
+      "target": "592fc825-b23d-4d1f-8448-225e04485244"
+    },
+    {
+      "type": "has_item",
       "target": "7a6fd1ea-342e-4c3c-9f4a-40f7620d8b52"
     },
     {
       "type": "has_item",
-      "target": "592fc825-b23d-4d1f-8448-225e04485244"
+      "target": "f8839ed5-8b42-4a97-9479-04ddf7e00850"
     }
   ],
   "properties": {

@@ -34,6 +34,22 @@
     {
       "type": "author",
       "target": "6c3edb3b-1c68-4f0f-9ed9-952d3e7acb6e"
+    },
+    {
+      "type": "features_character",
+      "target": "9479d368-f712-4440-9036-4b432f0b8f71"
+    },
+    {
+      "type": "features_character",
+      "target": "a3b47ec3-646e-4f3e-9dc7-5c22246b7ab6"
+    },
+    {
+      "type": "features_character",
+      "target": "b81be927-6f88-42e3-bfc1-9834a2c03957"
+    },
+    {
+      "type": "features_character",
+      "target": "d47a1191-5287-4312-9a5a-9057ea3e309e"
     }
   ],
   "properties": {

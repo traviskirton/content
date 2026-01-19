@@ -27,8 +27,16 @@
   ],
   "relationships": [
     {
-      "type": "located_in",
+      "type": "headquartered_in",
       "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "headquartered_in",
+      "target": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    },
+    {
+      "type": "parent_company",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
     },
     {
       "type": "produced",
@@ -39,8 +47,20 @@
       "target": "be6c3bdf-4f07-4e8a-9d8b-7d5e8b2ef497"
     },
     {
-      "type": "parent_company",
-      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+      "type": "produced_film",
+      "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
+    },
+    {
+      "type": "produced_film",
+      "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
+    },
+    {
+      "type": "produced_film",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "produced_film",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
     }
   ],
   "properties": {

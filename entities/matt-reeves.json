@@ -26,20 +26,20 @@
   ],
   "relationships": [
     {
-      "type": "worked_with",
-      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
-    },
-    {
-      "type": "worked_for",
-      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
-    },
-    {
       "type": "directed",
       "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
     },
     {
       "type": "produced",
       "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "worked_for",
+      "target": "d7fdd2b6-5084-4727-8de2-564d81b7b490"
+    },
+    {
+      "type": "worked_with",
+      "target": "2c9081c5-6afb-4f06-9a6a-9876543210aa"
     },
     {
       "type": "wrote",

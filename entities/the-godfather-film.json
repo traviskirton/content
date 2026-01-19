@@ -33,20 +33,136 @@
   ],
   "relationships": [
     {
-      "type": "features_actor",
+      "type": "cinematography_by",
+      "target": "d96a6450-8077-4b7b-9c1d-04f7b3f70742"
+    },
+    {
+      "type": "directed_by",
+      "target": "3a0c7f6d-9b31-478c-a716-f3fdbc3b10e7"
+    },
+    {
+      "type": "features_character",
+      "target": "1a3e6e9d-996d-4246-90f5-fccfd050c399"
+    },
+    {
+      "type": "features_character",
+      "target": "3b5e9ed9-96f9-4b63-807c-fb7deef5765f"
+    },
+    {
+      "type": "features_character",
+      "target": "5bfd8dfa-b597-4407-a8db-8f912a20ae6f"
+    },
+    {
+      "type": "features_character",
+      "target": "5f7e92e6-2291-4741-8691-252c88e411fe"
+    },
+    {
+      "type": "features_character",
       "target": "65b5f31d-fbb9-4ef7-80f9-b08094bf5dbc"
     },
     {
-      "type": "features_actor",
+      "type": "features_character",
       "target": "7d23a92b-8673-464d-9290-3a3c65802bc4"
+    },
+    {
+      "type": "features_character",
+      "target": "9ade6ec2-703e-425c-8abe-8a6a5a3fbe55"
+    },
+    {
+      "type": "features_character",
+      "target": "ae37ba0f-5c7e-4da9-afe6-ab0f35c47e10"
+    },
+    {
+      "type": "features_character",
+      "target": "cc493ad7-d7b6-45df-9e8d-c3c2e4f07eaa"
+    },
+    {
+      "type": "features_character",
+      "target": "ddf1c9b4-8a80-4fca-a0ce-dd50eb33d8b2"
+    },
+    {
+      "type": "features_character",
+      "target": "de27d5f4-f1f1-4e30-b2c9-358b57aa88bf"
+    },
+    {
+      "type": "features_character",
+      "target": "f571c85e-fd0f-448a-a9f3-64c9e8c3d36f"
+    },
+    {
+      "type": "features_location",
+      "target": "1a3e6e9d-996d-4246-90f5-fccfd050c399"
+    },
+    {
+      "type": "features_location",
+      "target": "5bfd8dfa-b597-4407-a8db-8f912a20ae6f"
+    },
+    {
+      "type": "features_location",
+      "target": "cc493ad7-d7b6-45df-9e8d-c3c2e4f07eaa"
+    },
+    {
+      "type": "features_location",
+      "target": "ddf1c9b4-8a80-4fca-a0ce-dd50eb33d8b2"
     },
     {
       "type": "music_by",
       "target": "1ead34fc-bb9c-4f31-9f82-22b5629aeada"
     },
     {
-      "type": "cinematography_by",
-      "target": "d96a6450-8077-4b7b-9c1d-04f7b3f70742"
+      "type": "stars",
+      "target": "06f600b7-487f-478d-9513-cdfdbde2548a"
+    },
+    {
+      "type": "stars",
+      "target": "3b9a4e9d-8605-4a10-8a28-f3c0efb68399"
+    },
+    {
+      "type": "stars",
+      "target": "65b5f31d-fbb9-4ef7-80f9-b08094bf5dbc"
+    },
+    {
+      "type": "stars",
+      "target": "6dbe0e2b-55f8-4b3e-b919-db8a4b52a0f1"
+    },
+    {
+      "type": "stars",
+      "target": "7d23a92b-8673-464d-9290-3a3c65802bc4"
+    },
+    {
+      "type": "stars",
+      "target": "8a8a4f4a-73a4-4486-8224-0e1ba19f690c"
+    },
+    {
+      "type": "stars",
+      "target": "8e4c5d90-fde9-405f-b387-108f4bf79eda"
+    },
+    {
+      "type": "stars",
+      "target": "8f5a4e30-28e4-4e3d-9096-5ebeb501a9bd"
+    },
+    {
+      "type": "stars",
+      "target": "9d5bb3a3-d2ed-4544-9282-1bbf4def1829"
+    },
+    {
+      "type": "stars",
+      "target": "bf6a0eae-e87a-42ce-ae55-1c6056ddb70b"
+    },
+    {
+      "type": "stars",
+      "target": "ca59bff7-659a-43ee-89e0-7c95553eb7ec"
+    },
+    {
+      "type": "stars",
+      "target": "e99c1a3d-0a17-4baf-9bb2-598f2f58e926"
+    },
+    {
+      "type": "stars",
+      "target": "f3933fbb-71ee-44d6-8231-3e643d4e4f8a"
+    },
+    {
+      "type": "stars",
+      "target": "f6be48f1-3a69-4db9-a489-3a1aade3c1e8"
     }
   ],
   "properties": {

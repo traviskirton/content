@@ -46,6 +46,14 @@
     {
       "type": "colleague",
       "target": "3b5e9ed9-96f9-4b63-807c-fb7deef5765f"
+    },
+    {
+      "type": "starred_in",
+      "target": "d5f5bf96-6e3b-4d6f-b32b-32b91a67b1c8"
+    },
+    {
+      "type": "starred_in",
+      "target": "c4da1933-fd4a-4d12-b162-56aa2b8fab63"
     }
   ],
   "properties": {

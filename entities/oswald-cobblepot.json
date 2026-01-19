@@ -31,6 +31,10 @@
       "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
     },
     {
+      "type": "located_in",
+      "target": "168efb74-2b3c-4ef6-8c5b-de68f3a54c1b"
+    },
+    {
       "type": "related_to",
       "target": "fe4f2182-4056-4713-8491-8d53ad5c434b"
     }

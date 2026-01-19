@@ -25,7 +25,10 @@
       "body": "Trained in combat and espionage, The Protagonist is adept in hand-to-hand combat and proficient with firearms. He is skilled in strategies involving time inversion, allowing him to navigate and exploit time-bending scenarios to his advantage."
     }
   ],
-  "aliases": [],
+  "aliases": [
+    "Protagonist",
+    "The Protagonist (Tenet)"
+  ],
   "relationships": [
     {
       "type": "appears_in",

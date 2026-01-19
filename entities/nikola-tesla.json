@@ -34,12 +34,16 @@
       "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
     },
     {
-      "type": "rivals_with",
-      "target": "5f5157b1-7e9e-4df0-9a2f-d5cb0a2fb7e0"
+      "type": "located_in",
+      "target": "b87f1b7e-6794-4fcb-aaa0-4eedf013e2e3"
     },
     {
       "type": "related_to",
       "target": "5fb7c768-5ebf-4cee-bf7c-e358d2090f1d"
+    },
+    {
+      "type": "rivals_with",
+      "target": "5f5157b1-7e9e-4df0-9a2f-d5cb0a2fb7e0"
     }
   ],
   "properties": {

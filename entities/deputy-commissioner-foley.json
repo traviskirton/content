@@ -21,7 +21,10 @@
       "body": "Foley works closely with **Commissioner James Gordon** (UUID: 9c39d7e0-1f12-4590-8b53-9ddb5f765cb5) within the Gotham City Police Department. His interactions with Gordon highlight his initial skepticism and eventual conviction in following Gordon's lead against Bane's takeover."
     }
   ],
-  "aliases": [],
+  "aliases": [
+    "Foley",
+    "Peter Foley"
+  ],
   "relationships": [
     {
       "type": "appears_in",

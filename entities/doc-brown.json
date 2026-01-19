@@ -32,15 +32,27 @@
   "relationships": [
     {
       "type": "appears_in",
-      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
+      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
     },
     {
       "type": "appears_in",
-      "target": "850eec9f-5ffd-4637-b3e2-0f9f98a5a72d"
+      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+    },
+    {
+      "type": "appears_in",
+      "target": "e0c661c3-9b71-4ef4-9ee7-cd23343f5b88"
     },
     {
       "type": "friends_with",
       "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "type": "located_in",
+      "target": "f1e5d2c3-b4a6-4c2e-8b23-9f5171d4e123"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "fa1b4c26-3f75-4a88-8e6d-351c8c7e8df8"
     },
     {
       "type": "rivals_with",
@@ -48,19 +60,11 @@
     },
     {
       "type": "uses",
-      "target": "a7e5d3c2-b1f8-42a3-9c8e-4f0f0172f0a3"
-    },
-    {
-      "type": "uses",
       "target": "4d8c3b2e-153f-4ab5-bc53-57e8f759c6e9"
     },
     {
-      "type": "portrayed_by",
-      "target": "fa1b4c26-3f75-4a88-8e6d-351c8c7e8df8"
-    },
-    {
-      "type": "appears_in",
-      "target": "9fb37a2d-2bc8-4adb-b3cb-89f2e2c7307a"
+      "type": "uses",
+      "target": "a7e5d3c2-b1f8-42a3-9c8e-4f0f0172f0a3"
     }
   ],
   "properties": {

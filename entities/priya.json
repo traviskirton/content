@@ -25,11 +25,17 @@
       "body": "Priya possesses extensive knowledge of arms dealing and international espionage. She expertly navigates the complexities of time inversion and has access to a vast network of contacts and resources."
     }
   ],
-  "aliases": [],
+  "aliases": [
+    "Priya Singh"
+  ],
   "relationships": [
     {
       "type": "appears_in",
       "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
+    },
+    {
+      "type": "located_in",
+      "target": "1d8e8f63-e7a7-4c41-92b4-df0f60f9fb34"
     },
     {
       "type": "related_to",

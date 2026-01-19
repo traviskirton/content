@@ -37,11 +37,15 @@
     },
     {
       "type": "features_character",
+      "target": "02f23350-9a14-4aff-9a4f-4963e3e9a8f0"
+    },
+    {
+      "type": "features_character",
       "target": "59f6480b-1ca3-4c1f-933f-5aecfdb0b9d3"
     },
     {
       "type": "features_character",
-      "target": "02f23350-9a14-4aff-9a4f-4963e3e9a8f0"
+      "target": "f549c21b-c222-46f9-8ed1-651ef70979a7"
     }
   ],
   "properties": {

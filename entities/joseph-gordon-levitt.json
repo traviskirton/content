@@ -26,16 +26,32 @@
   ],
   "relationships": [
     {
+      "type": "founded",
+      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
+    },
+    {
+      "type": "portrays",
+      "target": "49e69f82-7bea-4a5f-923a-3dcb8638fa22"
+    },
+    {
+      "type": "portrays",
+      "target": "83957e7c-4ff2-4e2f-b2f3-1b3a9b4e3c2a"
+    },
+    {
       "type": "starred_in",
       "target": "bc20c469-e768-4609-8f86-70267ae45c1a"
     },
     {
       "type": "starred_in",
-      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
+      "target": "be5e5139-073b-4a36-8062-f692f67337f0"
     },
     {
       "type": "starred_in",
-      "target": "be5e5139-073b-4a36-8062-f692f67337f0"
+      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
+    },
+    {
+      "type": "starred_in",
+      "target": "e8a1d111-ec4d-458b-b5c8-05e022a2d8bb"
     },
     {
       "type": "worked_with",
@@ -44,14 +60,6 @@
     {
       "type": "worked_with",
       "target": "ac3b1234-abf5-40d2-8bef-c8b789d8e123"
-    },
-    {
-      "type": "founded",
-      "target": "4e2f8d20-8c4f-4c39-a3a1-bc9f67da1c61"
-    },
-    {
-      "type": "starred_in",
-      "target": "d1e1e9a0-dfb4-4db9-a1b0-3e74f3b41f97"
     }
   ],
   "properties": {

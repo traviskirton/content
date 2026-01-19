@@ -35,12 +35,12 @@
       "target": "61e54c6d-8175-4a2e-b0c7-84a8acc9f111"
     },
     {
-      "type": "owned_by",
-      "target": "a5f4e3b2-0d7d-4fbb-bfaa-c2b0629ab6de"
-    },
-    {
       "type": "located_at",
       "target": "94768b45-89e7-4a8f-99a4-4d038b1357be"
+    },
+    {
+      "type": "owned_by",
+      "target": "a5f4e3b2-0d7d-4fbb-bfaa-c2b0629ab6de"
     }
   ],
   "properties": {

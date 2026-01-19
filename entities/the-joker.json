@@ -33,28 +33,28 @@
   ],
   "relationships": [
     {
-      "type": "portrayed_by",
-      "target": "d5c5fcb1-02d2-4c82-9f84-efb89c8a2bd9"
-    },
-    {
-      "type": "appears_in",
-      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
-    },
-    {
-      "type": "rivals_with",
-      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
-    },
-    {
-      "type": "rivals_with",
-      "target": "9c39d7e0-1f12-4590-8b53-9ddb5f765cb5"
-    },
-    {
       "type": "appears_in",
       "target": "8fdec9b3-0a7e-4415-aa6b-4e32f9b6f3e2"
     },
     {
       "type": "appears_in",
       "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "appears_in",
+      "target": "ef425b4c-550c-44bd-8b95-9c2f812b5ac2"
+    },
+    {
+      "type": "portrayed_by",
+      "target": "d5c5fcb1-02d2-4c82-9f84-efb89c8a2bd9"
+    },
+    {
+      "type": "rivals_with",
+      "target": "9c39d7e0-1f12-4590-8b53-9ddb5f765cb5"
+    },
+    {
+      "type": "rivals_with",
+      "target": "d1637915-9c46-4f38-af8b-6932a49e3746"
     }
   ],
   "properties": {

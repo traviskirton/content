@@ -29,6 +29,10 @@
   ],
   "relationships": [
     {
+      "type": "features_character",
+      "target": "4b3a2c1f-5d70-4595-9f47-1c29f9aeb073"
+    },
+    {
       "type": "located_in",
       "target": "5f5157b1-7e9e-4df0-9a2f-d5cb0a2fb7e0"
     }

@@ -31,6 +31,22 @@
       "target": "6c3edb3b-1c68-4f0f-9ed9-952d3e7acb6e"
     },
     {
+      "type": "features_character",
+      "target": "3e041def-f5cd-4d8c-9a34-f9f77f9bbdf3"
+    },
+    {
+      "type": "features_character",
+      "target": "543bafe5-7915-40d0-bbcd-2718a7e65347"
+    },
+    {
+      "type": "features_character",
+      "target": "77c93881-41eb-4d35-b5df-6d58954d1b33"
+    },
+    {
+      "type": "features_character",
+      "target": "a2cb0d5e-7bab-40a2-b949-af40beaab9e9"
+    },
+    {
       "type": "part_of_franchise",
       "target": "3f2a8ac1-8265-4be2-b147-af56f003de51"
     }

@@ -27,20 +27,32 @@
   ],
   "relationships": [
     {
-      "type": "featured_in",
-      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
-    },
-    {
-      "type": "located_in",
-      "target": "168efb74-2b3c-4ef6-8c5b-de68f3a54c1b"
-    },
-    {
       "type": "contains",
       "target": "44c03af8-4df2-41a4-87c1-81a380ecb0a8"
     },
     {
       "type": "contains",
       "target": "99da8d18-f457-44fb-8628-2a7122a906f2"
+    },
+    {
+      "type": "featured_in",
+      "target": "a6cf5b3e-c6ab-457f-a318-7a6485f9e6b1"
+    },
+    {
+      "type": "features_character",
+      "target": "2baf795a-8815-4b66-91f9-65ffe96574de"
+    },
+    {
+      "type": "features_character",
+      "target": "3b5a0728-8cee-4d05-bc8f-cf2ff0915de7"
+    },
+    {
+      "type": "features_character",
+      "target": "4f0b7e38-bb3c-4d69-b45a-01221d151a7c"
+    },
+    {
+      "type": "located_in",
+      "target": "168efb74-2b3c-4ef6-8c5b-de68f3a54c1b"
     }
   ],
   "properties": {
