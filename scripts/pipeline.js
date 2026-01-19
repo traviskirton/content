@@ -17,6 +17,7 @@
  * 1. Extract entities from each title
  * 2. Generate all entities using generate-batch
  * 3. Run validation
+ * 4. Check for missing entities
  */
 
 const fs = require('fs');
@@ -188,6 +189,32 @@ async function main() {
       await runCommand('node', [path.join(SCRIPTS_DIR, 'validate.js')]);
     } catch (err) {
       console.log('\nValidation found issues. Review output above.');
+    }
+
+    // Step 4: Check for missing entities
+    console.log('\n' + '-'.repeat(60));
+    console.log('STEP 4: Checking for missing entities');
+    console.log('-'.repeat(60));
+
+    try {
+      // Save missing entities to file before displaying
+      const { execSync } = require('child_process');
+      const missingJson = execSync(`node ${path.join(SCRIPTS_DIR, 'find-missing.js')} --json`, { encoding: 'utf-8' });
+      const missing = JSON.parse(missingJson);
+
+      if (missing.missing && missing.missing.length > 0) {
+        const missingFile = path.join(__dirname, '..', 'missing-entities.json');
+        fs.writeFileSync(missingFile, missingJson);
+        console.log(`Found ${missing.missing.length} missing entities.`);
+        console.log(`Saved to: missing-entities.json`);
+
+        // Also show human-readable output
+        await runCommand('node', [path.join(SCRIPTS_DIR, 'find-missing.js')]);
+      } else {
+        console.log('No missing entities found.');
+      }
+    } catch (err) {
+      console.log('\nMissing entity check failed.');
     }
   }
 

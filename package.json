@@ -5,6 +5,7 @@
   "scripts": {
     "build": "node scripts/build-index.js",
     "extract": "node scripts/extract-entities.js",
+    "find-missing": "node scripts/find-missing.js",
     "generate": "node scripts/generate-entity.js",
     "generate-batch": "node scripts/generate-batch.js",
     "pipeline": "node scripts/pipeline.js",
