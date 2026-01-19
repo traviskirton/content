@@ -34,6 +34,10 @@
     {
       "type": "contains",
       "target": "c2187d20-5268-4c77-b581-d45fdd3d5a2c"
+    },
+    {
+      "type": "featured_in",
+      "target": "00d6ad61-e1ae-47cd-b217-a30af0b9f508"
     }
   ],
   "properties": {

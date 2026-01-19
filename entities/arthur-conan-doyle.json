@@ -26,7 +26,20 @@
     "A. Conan Doyle",
     "Conan Doyle"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "wrote",
+      "target": "b56774d8-47a7-44a5-857d-27fa4d0e416c"
+    },
+    {
+      "type": "wrote",
+      "target": "35d0df0f-2cce-408e-8a3c-7e285e2bee16"
+    },
+    {
+      "type": "wrote",
+      "target": "6c8b10a3-af96-4e41-82a1-3fdda8f234e8"
+    }
+  ],
   "properties": {
     "birth_year": 1859,
     "death_year": 1930,

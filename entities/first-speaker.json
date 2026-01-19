@@ -35,6 +35,10 @@
     {
       "type": "commands",
       "target": "46d86f50-8293-4cec-b6f4-80b905af11de"
+    },
+    {
+      "type": "appears_in",
+      "target": "00d6ad61-e1ae-47cd-b217-a30af0b9f508"
     }
   ],
   "properties": {

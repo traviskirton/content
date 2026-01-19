@@ -40,6 +40,10 @@
     {
       "type": "defense_against",
       "target": "f9d1b8a2-9093-40ed-bb6a-4d3e0a7cfe9f"
+    },
+    {
+      "type": "appears_in",
+      "target": "00d6ad61-e1ae-47cd-b217-a30af0b9f508"
     }
   ],
   "properties": {

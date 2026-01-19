@@ -26,7 +26,16 @@
     "William Ford Gibson",
     "Father of Cyberpunk"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "wrote",
+      "target": "d8b0039a-8bb0-4f52-9053-f303e3e6d398"
+    },
+    {
+      "type": "wrote",
+      "target": "1c7f578f-fd87-4e76-aa99-507b2a12a2f9"
+    }
+  ],
   "properties": {
     "born": "1948-03-17",
     "nationality": [

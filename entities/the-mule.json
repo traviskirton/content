@@ -42,6 +42,10 @@
     {
       "type": "enemy_of",
       "target": "65c334b1-03e0-4d97-bc87-7d06bbf68f44"
+    },
+    {
+      "type": "appears_in",
+      "target": "00d6ad61-e1ae-47cd-b217-a30af0b9f508"
     }
   ],
   "properties": {

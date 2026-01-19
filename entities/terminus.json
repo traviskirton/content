@@ -30,6 +30,10 @@
     {
       "type": "contains",
       "target": "a0e4d12e-d9e4-4da7-916f-497f7e85bb09"
+    },
+    {
+      "type": "featured_in",
+      "target": "00d6ad61-e1ae-47cd-b217-a30af0b9f508"
     }
   ],
   "properties": {

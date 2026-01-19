@@ -38,6 +38,10 @@
     {
       "type": "member_of",
       "target": "4e8ca927-012a-4b0e-94ef-59f1e2a9ab2e"
+    },
+    {
+      "type": "appears_in",
+      "target": "00d6ad61-e1ae-47cd-b217-a30af0b9f508"
     }
   ],
   "properties": {

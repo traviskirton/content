@@ -35,6 +35,10 @@
     {
       "type": "author",
       "target": "7f39ba3a-6b6e-4d3e-8f2b-9b66027320b0"
+    },
+    {
+      "type": "written_by",
+      "target": "7f39ba3a-6b6e-4d3e-8f2b-9b66027320b0"
     }
   ],
   "properties": {

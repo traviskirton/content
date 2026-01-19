@@ -46,6 +46,18 @@
     {
       "type": "creator_of",
       "target": "ce8943af-4d82-4e8a-86b0-f0fa30b71877"
+    },
+    {
+      "type": "wrote",
+      "target": "7fd2fc7e-9c20-4c82-a5d5-9357db638226"
+    },
+    {
+      "type": "wrote",
+      "target": "87f3d82a-1c34-4f8d-97fc-3202ead228d1"
+    },
+    {
+      "type": "wrote",
+      "target": "00d6ad61-e1ae-47cd-b217-a30af0b9f508"
     }
   ],
   "properties": {

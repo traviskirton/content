@@ -47,6 +47,10 @@
     {
       "type": "features_character",
       "target": "ce8943af-4d82-4e8a-86b0-f0fa30b71877"
+    },
+    {
+      "type": "written_by",
+      "target": "a7d81242-1f49-4f49-bc68-9bb3f929d6e5"
     }
   ],
   "properties": {

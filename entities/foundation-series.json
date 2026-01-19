@@ -75,6 +75,10 @@
     {
       "type": "includes_book",
       "target": "87f3d82a-1c34-4f8d-97fc-3202ead228d1"
+    },
+    {
+      "type": "includes_book",
+      "target": "00d6ad61-e1ae-47cd-b217-a30af0b9f508"
     }
   ],
   "properties": {

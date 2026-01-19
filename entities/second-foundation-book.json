@@ -1,0 +1,142 @@
+{
+  "id": "00d6ad61-e1ae-47cd-b217-a30af0b9f508",
+  "type": "book",
+  "name": "Second Foundation (Novel)",
+  "description": "The third book in Isaac Asimov's Foundation Series, following the search for the mysterious Second Foundation and its role in the Seldon Plan.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "'Second Foundation' was first published in 1953, completing the original Foundation trilogy. The novel is divided into two parts: 'Search by the Mule' and 'Search by the Foundation.' It explores the existence and nature of the Second Foundation, a secret organization of mentalics established by Hari Seldon as a failsafe for his plan to preserve civilization."
+    },
+    {
+      "title": "Plot Summary",
+      "body": "The first part follows the Mule's obsessive search for the Second Foundation, which he sees as the only threat to his empire. The second part, set decades later, follows the First Foundation's own search for the Second Foundation, which they view with suspicion and fear. The novel culminates in revelations about the true nature and location of the Second Foundation."
+    },
+    {
+      "title": "Themes",
+      "body": "Key themes include the nature of mental powers versus physical force, the ethics of manipulation for the greater good, paranoia and trust, and the tension between open scientific progress and secretive guidance. The book explores whether humanity should be guided by an unseen hand or allowed to develop freely."
+    },
+    {
+      "title": "Reception",
+      "body": "'Second Foundation' is considered one of Asimov's finest works and a worthy conclusion to the original trilogy. The novel's intricate plotting and philosophical depth have been praised by critics and readers alike. It contributed to the series winning the Hugo Award for Best All-Time Series in 1966."
+    },
+    {
+      "title": "Impact",
+      "body": "The novel established the Second Foundation as one of science fiction's most intriguing concepts—a secret society of mind-readers working behind the scenes to guide humanity. Its influence can be seen in countless subsequent works exploring hidden powers and secret organizations."
+    }
+  ],
+  "aliases": [
+    "Second Foundation",
+    "Second Foundation (1953)",
+    "Foundation 3"
+  ],
+  "relationships": [
+    {
+      "type": "written_by",
+      "target": "a7d81242-1f49-4f49-bc68-9bb3f929d6e5"
+    },
+    {
+      "type": "part_of_franchise",
+      "target": "f0d9fb2a-0f3e-446a-9a1d-2db988b68967"
+    },
+    {
+      "type": "features_character",
+      "target": "b51fdbe5-3b66-4b84-9b83-298df591d245"
+    },
+    {
+      "type": "sequel_to",
+      "target": "87f3d82a-1c34-4f8d-97fc-3202ead228d1"
+    },
+    {
+      "type": "features_character",
+      "target": "80bcb71e-7990-4fc9-8a24-c828c164fbc1"
+    },
+    {
+      "type": "features_character",
+      "target": "251b6703-f715-4a13-9bb5-45a716198cdf"
+    },
+    {
+      "type": "features_character",
+      "target": "471a8aae-0feb-4e52-bdc6-58f59da2bc2e"
+    },
+    {
+      "type": "features_character",
+      "target": "46d86f50-8293-4cec-b6f4-80b905af11de"
+    },
+    {
+      "type": "features_character",
+      "target": "f940d164-d295-424c-a497-7cb3d63ce179"
+    },
+    {
+      "type": "features_character",
+      "target": "a55f90c0-2c95-4c14-9bea-4f84b4c75891"
+    },
+    {
+      "type": "features_character",
+      "target": "442b3c8d-9a8b-4f39-85fa-2fbd792a1a03"
+    },
+    {
+      "type": "features_location",
+      "target": "b9c6f6fb-c473-4375-ac4b-24ead1f4e537"
+    },
+    {
+      "type": "features_location",
+      "target": "d75919c5-7c9a-4c67-b80a-9f1a6c9d5ef2"
+    },
+    {
+      "type": "features_location",
+      "target": "e2b7d1f4-8f5f-4bca-8c03-4847b76a9c30"
+    },
+    {
+      "type": "features_location",
+      "target": "c3f3e1a2-5a33-4b5d-98b5-4c165ef1b6b7"
+    },
+    {
+      "type": "features_location",
+      "target": "a9d1b4f7-44a1-45e3-9c0c-a62d1a386796"
+    },
+    {
+      "type": "features_item",
+      "target": "1056c6d1-f0de-49b3-b84f-36a735f3e1f7"
+    },
+    {
+      "type": "features_item",
+      "target": "791cb81b-6ecc-4f5e-a71b-08a731e3bc8a"
+    },
+    {
+      "type": "features_organization",
+      "target": "478a780d-5633-44ed-beab-55a3c19c8f03"
+    }
+  ],
+  "properties": {
+    "publication_year": 1953,
+    "genres": [
+      "science fiction",
+      "speculative fiction"
+    ],
+    "format": "novel",
+    "pages": 240
+  },
+  "facets": {
+    "genre": [
+      "sci-fi"
+    ],
+    "era": "mid-century",
+    "tone": [
+      "philosophical",
+      "cerebral",
+      "suspenseful"
+    ],
+    "rating": "teen"
+  },
+  "tags": [
+    "classic",
+    "psychohistory",
+    "galactic-empire",
+    "isaac-asimov",
+    "mentalics",
+    "telepathy",
+    "secret-society",
+    "foundation-universe"
+  ]
+}

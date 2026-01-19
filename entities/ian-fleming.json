@@ -29,7 +29,20 @@
     "I.L. Fleming",
     "Ian Lancaster Fleming"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "wrote",
+      "target": "9b1ab6a0-df91-4c86-8a72-8c23b7428298"
+    },
+    {
+      "type": "wrote",
+      "target": "1d9a0b4b-91c3-4b11-9f82-1f4380fe4c80"
+    },
+    {
+      "type": "wrote",
+      "target": "71b2b558-39dc-4a5a-bb9a-405f6c94e4f2"
+    }
+  ],
   "properties": {
     "birth_year": 1908,
     "death_year": 1964,

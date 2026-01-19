@@ -42,6 +42,10 @@
     {
       "type": "colleague_of",
       "target": "2f58f7fb-3084-4fa4-8e3c-1779f5beabc1"
+    },
+    {
+      "type": "wrote",
+      "target": "e11a7d3f-f018-4a9d-b7a3-68d3bfed9c68"
     }
   ],
   "properties": {

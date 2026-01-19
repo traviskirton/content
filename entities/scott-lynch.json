@@ -25,7 +25,12 @@
     "Scott Lynch",
     "S. Lynch"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "wrote",
+      "target": "379ade9b-9c45-4d0c-8219-0a1a6b03a5a5"
+    }
+  ],
   "properties": {
     "birth_year": 1978,
     "nationality": "American",
