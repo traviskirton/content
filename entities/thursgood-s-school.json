@@ -26,7 +26,12 @@
     "Thursgood's Prep",
     "Thursgood's Boarding School"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "32c5d5e9-2e8f-43f3-982d-9846bc4a1450"
+    }
+  ],
   "properties": {
     "type": "Preparatory School",
     "location": "United Kingdom",

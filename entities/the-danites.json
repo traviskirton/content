@@ -31,7 +31,12 @@
     "Mormon Danites",
     "The Destroying Angels"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "b56774d8-47a7-44a5-857d-27fa4d0e416c"
+    }
+  ],
   "properties": {
     "founded": "circa 1838",
     "region": "Missouri, Illinois, Utah",

@@ -27,7 +27,12 @@
     "Ruined City",
     "Fortress of Gondor"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "851e34d9-5dfc-4e4d-b3b7-78613af03cb2"
+    }
+  ],
   "properties": {
     "river": "Anduin",
     "status": "Ruined and contested",

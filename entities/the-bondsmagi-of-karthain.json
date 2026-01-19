@@ -30,7 +30,12 @@
     "Karthain Bondsmagi",
     "The Arcane Guild"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "5a7efcd8-1e55-4d39-b265-9f136e63f9a1"
+    }
+  ],
   "properties": {
     "location": "Karthain",
     "specialty": "Magical binding",

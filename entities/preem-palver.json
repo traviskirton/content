@@ -32,10 +32,6 @@
   ],
   "relationships": [
     {
-      "type": "part_of",
-      "target": "4e8ca927-012a-4b0e-94ef-59f1e2a9ab2e"
-    },
-    {
       "type": "part_of_series",
       "target": "4e8ca927-012a-4b0e-94ef-59f1e2a9ab2e"
     },

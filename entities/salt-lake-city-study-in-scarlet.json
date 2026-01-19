@@ -26,7 +26,12 @@
     "Mormon Salt Lake",
     "Western Setting (Study in Scarlet)"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "b56774d8-47a7-44a5-857d-27fa4d0e416c"
+    }
+  ],
   "properties": {
     "country": "United States",
     "region": "Utah",

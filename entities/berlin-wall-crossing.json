@@ -26,7 +26,12 @@
     "Berlin Border Crossing",
     "Cold War Crossing"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "2e02ff66-1399-475d-9720-8659e0e0fc3e"
+    }
+  ],
   "properties": {
     "location": "Berlin, Germany",
     "era": "Cold War",

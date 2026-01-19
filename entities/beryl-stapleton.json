@@ -30,7 +30,12 @@
     "Mrs. Stapleton",
     "Beryl"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "6c8b10a3-af96-4e41-82a1-3fdda8f234e8"
+    }
+  ],
   "properties": {
     "gender": "female",
     "role": "key witness and victim",

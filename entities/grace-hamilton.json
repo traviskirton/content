@@ -30,7 +30,12 @@
     "Mrs. Hamilton",
     "Grace Corleone (by marriage)"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d5f5bf96-6e3b-4d6f-b32b-32b91a67b1c8"
+    }
+  ],
   "properties": {
     "gender": "female",
     "occupation": "Socialite",

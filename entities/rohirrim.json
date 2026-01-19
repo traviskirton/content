@@ -31,7 +31,12 @@
     "Rohirrimmen",
     "People of the Horse"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "851e34d9-5dfc-4e4d-b3b7-78613af03cb2"
+    }
+  ],
   "properties": {
     "kingdom": "Rohan",
     "culture": "Equestrian, martial",

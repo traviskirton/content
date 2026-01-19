@@ -28,7 +28,12 @@
     "The Chaos Depths",
     "Multiversal Abyss"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "part_of",
+      "target": "57bca9b6-ab08-4c4a-976e-6f3ffdf5b6e7"
+    }
+  ],
   "properties": {
     "danger_level": "extreme",
     "inhabitants": "extradimensional monsters",

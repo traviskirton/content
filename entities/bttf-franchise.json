@@ -3,6 +3,20 @@
   "type": "franchise",
   "name": "Back to the Future",
   "description": "A science fiction franchise spanning three films, an animated series, and various other media, centered around time travel adventures.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The Back to the Future franchise began with the 1985 film directed by Robert Zemeckis and written by Zemeckis and Bob Gale. The trilogy follows teenager Marty McFly and eccentric scientist Doc Brown as they travel through time in a modified DeLorean, navigating paradoxes and altering history."
+    },
+    {
+      "title": "Films",
+      "body": "The franchise consists of three feature films: Back to the Future (1985), Back to the Future Part II (1989), and Back to the Future Part III (1990). The trilogy explores different time periods including 1955, 1985, 2015, and 1885, creating an interconnected narrative about destiny, choice, and the consequences of changing the past."
+    },
+    {
+      "title": "Legacy",
+      "body": "Back to the Future became a cultural phenomenon, influencing countless time travel stories in film, television, and literature. The DeLorean time machine, flux capacitor, and hoverboard became iconic symbols of 1980s science fiction, and the franchise remains beloved by audiences worldwide."
+    }
+  ],
   "aliases": [
     "BTTF Franchise",
     "Back to the Future Trilogy"

@@ -30,7 +30,12 @@
     "Paramount Studios",
     "Paramount Pictures Corporation"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "distributed",
+      "target": "37f90f75-1f4c-4d85-8d2e-eafcebb09118"
+    }
+  ],
   "properties": {
     "founded": "1912",
     "industry": "Entertainment",

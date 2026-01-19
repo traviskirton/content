@@ -3,6 +3,16 @@
   "type": "location",
   "name": "California",
   "description": "A state on the west coast of the United States, home to Hollywood and the center of the American film industry.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "California is a state located on the West Coast of the United States. It is the most populous U.S. state and the third largest by area. Known for its diverse geography, California features beaches, mountains, deserts, and redwood forests."
+    },
+    {
+      "title": "Film Industry",
+      "body": "California is the center of the American film industry, with Hollywood in Los Angeles serving as the historic heart of movie production. Major studios, production companies, and entertainment conglomerates are headquartered throughout the state, making it the global capital of film and television."
+    }
+  ],
   "aliases": [
     "CA",
     "The Golden State"

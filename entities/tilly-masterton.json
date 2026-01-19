@@ -30,7 +30,12 @@
     "Tilly",
     "Jill's Sister"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "71b2b558-39dc-4a5a-bb9a-405f6c94e4f2"
+    }
+  ],
   "properties": {
     "gender": "female",
     "nationality": "British",

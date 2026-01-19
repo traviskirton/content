@@ -28,7 +28,7 @@
   ],
   "relationships": [
     {
-      "type": "author",
+      "type": "written_by",
       "target": "e5e8a4b9-2137-4f7c-9030-8d2c3e7f3521"
     },
     {
@@ -46,10 +46,6 @@
     {
       "type": "features_character",
       "target": "a4e01e24-cc9b-4b5a-adf6-f34d70506126"
-    },
-    {
-      "type": "written_by",
-      "target": "e5e8a4b9-2137-4f7c-9030-8d2c3e7f3521"
     }
   ],
   "properties": {

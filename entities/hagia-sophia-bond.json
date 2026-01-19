@@ -27,7 +27,12 @@
     "Hagia Sophia Basilica",
     "Aya Sofya"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "1d9a0b4b-91c3-4b11-9f82-1f4380fe4c80"
+    }
+  ],
   "properties": {
     "location": "Istanbul, Turkey",
     "era_built": "537 AD",

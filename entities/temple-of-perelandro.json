@@ -26,7 +26,12 @@
     "Perelandro's Sanctuary",
     "The Veiled Temple"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "379ade9b-9c45-4d0c-8219-0a1a6b03a5a5"
+    }
+  ],
   "properties": {
     "city": "Camorr",
     "function": "Religious and political center",

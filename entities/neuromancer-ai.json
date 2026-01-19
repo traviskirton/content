@@ -33,10 +33,6 @@
   ],
   "relationships": [
     {
-      "type": "part_of",
-      "target": "5a1d5bc2-ea0e-4643-86fc-6cfc54c477a9"
-    },
-    {
       "type": "part_of_series",
       "target": "5a1d5bc2-ea0e-4643-86fc-6cfc54c477a9"
     }

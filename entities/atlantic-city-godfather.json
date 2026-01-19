@@ -26,7 +26,12 @@
     "Atlantic City Boardwalk",
     "The East Coast Hub"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "f2318973-a4ee-4b60-8585-397a6f1d4d73"
+    }
+  ],
   "properties": {
     "region": "East Coast, United States",
     "primary_era": "1970s-1990s",

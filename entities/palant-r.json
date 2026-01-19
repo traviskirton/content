@@ -31,7 +31,12 @@
     "Palantir",
     "Elven Seeing-stone"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "3f2a8ac1-8265-4be2-b147-af56f003de51"
+    }
+  ],
   "properties": {
     "origin": "Elven craftsmanship (First Age)",
     "material": "Crystalline stone",

@@ -27,7 +27,12 @@
     "Cirith Ungol Pass",
     "Tower Pass"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "7f7967a6-878a-4cb9-b3b4-5f4465061f6c"
+    }
+  ],
   "properties": {
     "region": "Mordor",
     "type": "Mountain pass and fortress",

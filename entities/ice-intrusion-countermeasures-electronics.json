@@ -33,7 +33,12 @@
     "Data Defense Programs",
     "Cyber ICE"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d8b0039a-8bb0-4f52-9053-f303e3e6d398"
+    }
+  ],
   "properties": {
     "origin": "Neuromancer (William Gibson)",
     "type_of_technology": "Cybersecurity software",

@@ -31,7 +31,12 @@
     "The Youngest Dwarf",
     "Son of Dis"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "f6869cbb-70fc-4d9a-9bc4-c39d6de4d3ee"
+    }
+  ],
   "properties": {
     "race": "Dwarf",
     "gender": "Male",

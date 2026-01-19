@@ -30,7 +30,12 @@
     "Director of MI6",
     "Moneypenny's Boss"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "9b1ab6a0-df91-4c86-8a72-8c23b7428298"
+    }
+  ],
   "properties": {
     "position": "Head of MI6",
     "gender": "varies",

@@ -31,7 +31,12 @@
     "Neural Interface Deck",
     "Hacker's Deck"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "d8b0039a-8bb0-4f52-9053-f303e3e6d398"
+    }
+  ],
   "properties": {
     "type": "hardware",
     "interface": "neural jack",

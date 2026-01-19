@@ -31,16 +31,12 @@
   ],
   "relationships": [
     {
-      "type": "author",
+      "type": "written_by",
       "target": "1a5b4a75-4e4e-4cb9-822a-111839b3cd45"
     },
     {
       "type": "part_of_series",
       "target": "3b407d4e-ffdb-42a2-8531-cf9f1e5d5640"
-    },
-    {
-      "type": "written_by",
-      "target": "1a5b4a75-4e4e-4cb9-822a-111839b3cd45"
     }
   ],
   "properties": {

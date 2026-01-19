@@ -30,7 +30,12 @@
     "Holmes's Chemical Apparatus",
     "Detective's Chemistry Set"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "used_by",
+      "target": "59f6480b-1ca3-4c1f-933f-5aecfdb0b9d3"
+    }
+  ],
   "properties": {
     "material": "Wooden or leather case",
     "contents": "Various chemical reagents and laboratory tools",

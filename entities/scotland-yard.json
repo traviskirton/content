@@ -31,7 +31,12 @@
     "London Police Headquarters",
     "Met Police HQ"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "associated_with",
+      "target": "59f6480b-1ca3-4c1f-933f-5aecfdb0b9d3"
+    }
+  ],
   "properties": {
     "founded": "1829",
     "location": "London, England",

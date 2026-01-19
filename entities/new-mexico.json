@@ -23,7 +23,12 @@
     "country": "United States",
     "coordinates": "34.5199,-105.8701"
   },
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
+    }
+  ],
   "facets": {
     "location-type": "region",
     "reality": "real",

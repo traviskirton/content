@@ -37,10 +37,6 @@
       "target": "57f89a3b-44ae-4d25-aa48-8a2aeebc602d"
     },
     {
-      "type": "part_of",
-      "target": "feac8d45-6cec-4c0a-b781-41dafaba2f33"
-    },
-    {
       "type": "part_of_series",
       "target": "feac8d45-6cec-4c0a-b781-41dafaba2f33"
     }

@@ -26,7 +26,12 @@
     "Smyrno System",
     "Smyrno Colony"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "part_of",
+      "target": "f0d9fb2a-0f3e-446a-9a1d-2db988b68967"
+    }
+  ],
   "properties": {
     "population": "Medium",
     "economic_focus": "Trade and Mining",

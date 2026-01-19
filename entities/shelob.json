@@ -30,7 +30,12 @@
     "The Great Spider",
     "Daughter of Ungoliant"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "7f7967a6-878a-4cb9-b3b4-5f4465061f6c"
+    }
+  ],
   "properties": {
     "species": "Giant Spider",
     "location": "Cirith Ungol",

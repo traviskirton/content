@@ -27,7 +27,12 @@
     "Data Space",
     "Virtual Reality Network"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "d8b0039a-8bb0-4f52-9053-f303e3e6d398"
+    }
+  ],
   "properties": {
     "type": "virtual reality",
     "user_interface": "neural direct interface",

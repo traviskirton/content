@@ -31,7 +31,12 @@
     "Soul Sandglass",
     "Temporal Hourglass"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "used_by",
+      "target": "a17f6632-3a47-4dfd-a2e3-a7ad4c6f3e3a"
+    }
+  ],
   "properties": {
     "material": "crystal and shadow-metal",
     "function": "lifespan tracking",

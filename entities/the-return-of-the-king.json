@@ -32,7 +32,7 @@
   ],
   "relationships": [
     {
-      "type": "author",
+      "type": "written_by",
       "target": "6c3edb3b-1c68-4f0f-9ed9-952d3e7acb6e"
     },
     {
@@ -50,10 +50,6 @@
     {
       "type": "part_of_franchise",
       "target": "3f2a8ac1-8265-4be2-b147-af56f003de51"
-    },
-    {
-      "type": "written_by",
-      "target": "6c3edb3b-1c68-4f0f-9ed9-952d3e7acb6e"
     }
   ],
   "properties": {

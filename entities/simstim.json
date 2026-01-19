@@ -31,7 +31,12 @@
     "Neural Stimulator",
     "Sim-Stim"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "54d8740e-f091-4f1d-9cd5-1c3a077be9a7"
+    }
+  ],
   "properties": {
     "type": "sensory interface",
     "usage": "entertainment, espionage",

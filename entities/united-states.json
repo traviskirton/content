@@ -3,6 +3,16 @@
   "type": "location",
   "name": "United States",
   "description": "A country in North America, home to Hollywood and the largest film industry in the world.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "The United States of America is a federal republic comprising 50 states. It is the third largest country by total area and population, with a diverse geography spanning from Atlantic to Pacific coasts."
+    },
+    {
+      "title": "Film Industry",
+      "body": "The United States houses the world's largest and most influential film industry, centered in Hollywood, California. American cinema has shaped global entertainment culture, producing iconic films, franchises, and stars that define modern storytelling."
+    }
+  ],
   "aliases": [
     "USA",
     "United States of America",

@@ -27,7 +27,12 @@
     "Urban Sprawl",
     "Sprawl"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "1c7f578f-fd87-4e76-aa99-507b2a12a2f9"
+    }
+  ],
   "properties": {
     "type": "Megalopolis",
     "region": "U.S. East Coast",

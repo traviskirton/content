@@ -30,7 +30,12 @@
     "Goldfinger's Chauffeur",
     "Henchman Strap"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "379ade9b-9c45-4d0c-8219-0a1a6b03a5a5"
+    }
+  ],
   "properties": {
     "occupation": "Chauffeur / Henchman",
     "nationality": "Unspecified",

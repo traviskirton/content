@@ -31,7 +31,12 @@
     "The Mole's Controller",
     "Mastermind"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "appears_in",
+      "target": "32c5d5e9-2e8f-43f3-982d-9846bc4a1450"
+    }
+  ],
   "properties": {
     "nationality": "Soviet",
     "role": "Spymaster",
