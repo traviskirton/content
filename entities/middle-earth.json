@@ -1,6 +1,6 @@
 {
   "id": "dbd93414-7d92-4a6c-9370-7a316e89d9ae",
-  "type": "franchise",
+  "type": "location",
   "name": "Middle-earth",
   "description": "A fictional universe created by J.R.R. Tolkien, encompassing a richly detailed world inhabited by diverse races and cultures.",
   "content": [
@@ -56,25 +56,19 @@
       "target": "6c3edb3b-1c68-4f0f-9ed9-952d3e7acb6e"
     },
     {
-      "type": "franchise_contains",
+      "type": "featured_in",
       "target": "3f2a8ac1-8265-4be2-b147-af56f003de51"
     }
   ],
   "properties": {
-    "genre": "Fantasy",
-    "creator": "J.R.R. Tolkien",
-    "first_appearance": "1900s (early drafts)",
-    "media_types": [
-      "books",
-      "films",
-      "games",
-      "art"
-    ]
+    "region": "Arda",
+    "inhabitants": "Elves, Men, Dwarves, Hobbits, Orcs, and others",
+    "creator": "J.R.R. Tolkien"
   },
   "facets": {
-    "genre": [
-      "fantasy"
-    ]
+    "location-type": "continent",
+    "reality": "fictional",
+    "scale": "region"
   },
   "tags": [
     "world-building",

@@ -63,10 +63,6 @@
     },
     {
       "type": "features_character",
-      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
-    },
-    {
-      "type": "features_character",
       "target": "b128e18b-0a9c-44bd-9a4e-25beafaf1b94"
     },
     {
@@ -254,7 +250,8 @@
     "genre": [
       "action",
       "adventure",
-      "drama"
+      "drama",
+      "superhero"
     ],
     "era": "2000s",
     "tone": [

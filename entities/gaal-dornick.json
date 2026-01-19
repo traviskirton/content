@@ -47,10 +47,6 @@
     {
       "type": "student_of",
       "target": "cc15c2e4-13b8-4e1b-867e-112f66a93662"
-    },
-    {
-      "type": "appears_in",
-      "target": "f0d9fb2a-0f3e-446a-9a1d-2db988b68967"
     }
   ],
   "properties": {

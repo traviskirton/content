@@ -47,14 +47,6 @@
     {
       "type": "appears_in_franchise",
       "target": "d4395616-2c5b-4e2c-a14c-f1c33038f43f"
-    },
-    {
-      "type": "appears_in",
-      "target": "d4395616-2c5b-4e2c-a14c-f1c33038f43f"
-    },
-    {
-      "type": "appears_in",
-      "target": "1e271d3c-46e7-44b9-bc95-73e8e97f9333"
     }
   ],
   "properties": {

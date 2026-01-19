@@ -1,0 +1,53 @@
+{
+  "id": "a8f3d2e1-5b6c-4d9e-8f7a-1c2b3d4e5f6a",
+  "type": "location",
+  "name": "Milky Way Galaxy",
+  "description": "The fictionalized Milky Way Galaxy in Isaac Asimov's Foundation universe, home to the Galactic Empire and countless human-inhabited planets.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "In the Foundation universe, the Milky Way Galaxy is the setting for humanity's vast interstellar civilization. Over thousands of years, humans have colonized millions of planets throughout the galaxy, establishing the Galactic Empire with its capital on Trantor. The galaxy serves as the backdrop for the epic struggle between the declining Empire and the emerging Foundation."
+    },
+    {
+      "title": "Geography",
+      "body": "The galaxy contains countless star systems and inhabited worlds, from the densely populated Core Worlds near the galactic center to the sparsely settled Periphery regions. Key planets include Trantor (the former imperial capital), Terminus (home of the Foundation), and numerous other worlds that play pivotal roles in the series' narrative."
+    },
+    {
+      "title": "History",
+      "body": "Humanity spread across the galaxy over millennia, eventually forming the Galactic Empire that united most inhabited worlds under a single government. At its height, the Empire contained 25 million inhabited planets. The series chronicles the Empire's decline and the Foundation's efforts to shorten the ensuing dark age through psychohistory."
+    },
+    {
+      "title": "Story Significance",
+      "body": "The galaxy provides the epic scale for Asimov's exploration of themes including the rise and fall of civilizations, the power of prediction and planning, and humanity's resilience. Its vast scope allows for diverse cultures, political systems, and conflicts that drive the Foundation narrative."
+    }
+  ],
+  "aliases": [
+    "The Galaxy",
+    "Foundation Galaxy",
+    "Galactic Empire territory"
+  ],
+  "relationships": [
+    {
+      "type": "featured_in",
+      "target": "f0d9fb2a-0f3e-446a-9a1d-2db988b68967"
+    }
+  ],
+  "properties": {
+    "inhabitants": "Humans (billions of planets)",
+    "government": "Galactic Empire (historical)",
+    "creator": "Isaac Asimov"
+  },
+  "facets": {
+    "location-type": "galaxy",
+    "reality": "fictional",
+    "scale": "cosmic"
+  },
+  "tags": [
+    "foundation-universe",
+    "science-fiction",
+    "galactic-empire",
+    "isaac-asimov",
+    "space-opera",
+    "interstellar"
+  ]
+}

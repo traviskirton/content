@@ -52,7 +52,7 @@
   "facets": {
     "role": "protagonist",
     "morality": "heroic",
-    "archetype": "spy"
+    "archetype": "hero"
   },
   "tags": [
     "fictional-character",
@@ -64,6 +64,7 @@
     "international",
     "suave",
     "007",
-    "cold-war"
+    "cold-war",
+    "spy"
   ]
 }

@@ -47,10 +47,6 @@
     {
       "type": "mentor_of",
       "target": "ce8943af-4d82-4e8a-86b0-f0fa30b71877"
-    },
-    {
-      "type": "appears_in",
-      "target": "f0d9fb2a-0f3e-446a-9a1d-2db988b68967"
     }
   ],
   "properties": {

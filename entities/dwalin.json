@@ -38,10 +38,6 @@
     {
       "type": "ally_of",
       "target": "01c69b85-3eec-4bc7-9964-ebccc0a311e0"
-    },
-    {
-      "type": "member_of",
-      "target": "8346b987-d7da-4e02-80df-40184ff2a7b7"
     }
   ],
   "properties": {
