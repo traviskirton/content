@@ -4,10 +4,13 @@
   "description": "Entity dataset for search interface",
   "scripts": {
     "build": "node scripts/build-index.js",
+    "extract": "node scripts/extract-entities.js",
     "generate": "node scripts/generate-entity.js",
     "generate-batch": "node scripts/generate-batch.js",
+    "pipeline": "node scripts/pipeline.js",
     "reconcile": "node scripts/reconcile.js",
-    "transform-tags": "node scripts/transform-tags.js"
+    "transform-tags": "node scripts/transform-tags.js",
+    "validate": "node scripts/validate.js"
   },
   "dependencies": {
     "openai": "^4.0.0"

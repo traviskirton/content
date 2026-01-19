@@ -109,10 +109,6 @@
     {
       "type": "produced_film",
       "target": "fc1e827c-35d3-4aca-aae2-b7be4817a0bf"
-    },
-    {
-      "type": "stars",
-      "target": "d41d8cd9-8f00-b204-e980-0998ecf8427e"
     }
   ],
   "properties": {

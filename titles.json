@@ -1,0 +1,224 @@
+{
+  "titles": [
+    {
+      "type": "book",
+      "name": "A Study in Scarlet"
+    },
+    {
+      "type": "book",
+      "name": "Casino Royale (Novel)"
+    },
+    {
+      "type": "book",
+      "name": "Creative Selection"
+    },
+    {
+      "type": "book",
+      "name": "Foundation"
+    },
+    {
+      "type": "book",
+      "name": "Foundation and Empire"
+    },
+    {
+      "type": "book",
+      "name": "From Russia with Love"
+    },
+    {
+      "type": "book",
+      "name": "Goldfinger (Novel)"
+    },
+    {
+      "type": "book",
+      "name": "Mona Lisa Overdrive"
+    },
+    {
+      "type": "book",
+      "name": "Neuromancer"
+    },
+    {
+      "type": "book",
+      "name": "Second Foundation (Novel)"
+    },
+    {
+      "type": "book",
+      "name": "Smiley's People"
+    },
+    {
+      "type": "book",
+      "name": "The Adventure of the Speckled Band"
+    },
+    {
+      "type": "book",
+      "name": "The Count of Monte Cristo"
+    },
+    {
+      "type": "book",
+      "name": "The Fellowship of the Ring"
+    },
+    {
+      "type": "book",
+      "name": "The Godfather"
+    },
+    {
+      "type": "book",
+      "name": "The Hobbit"
+    },
+    {
+      "type": "book",
+      "name": "The Hound of the Baskervilles"
+    },
+    {
+      "type": "book",
+      "name": "The Last Continent"
+    },
+    {
+      "type": "book",
+      "name": "The Lies of Locke Lamora"
+    },
+    {
+      "type": "book",
+      "name": "The Light Fantastic"
+    },
+    {
+      "type": "book",
+      "name": "The Return of the King"
+    },
+    {
+      "type": "book",
+      "name": "The Two Towers"
+    },
+    {
+      "type": "book",
+      "name": "Tinker, Tailor, Soldier, Spy"
+    },
+    {
+      "type": "franchise",
+      "name": "Back to the Future"
+    },
+    {
+      "type": "franchise",
+      "name": "Batman"
+    },
+    {
+      "type": "franchise",
+      "name": "Burton/Schumacher Batman Films"
+    },
+    {
+      "type": "franchise",
+      "name": "Discworld"
+    },
+    {
+      "type": "franchise",
+      "name": "Foundation Series"
+    },
+    {
+      "type": "franchise",
+      "name": "Gentleman Bastard Series"
+    },
+    {
+      "type": "franchise",
+      "name": "George Smiley Series"
+    },
+    {
+      "type": "franchise",
+      "name": "Karla Trilogy"
+    },
+    {
+      "type": "franchise",
+      "name": "Middle-earth"
+    },
+    {
+      "type": "franchise",
+      "name": "Sprawl Trilogy"
+    },
+    {
+      "type": "franchise",
+      "name": "The Batman (Reeves)"
+    },
+    {
+      "type": "franchise",
+      "name": "The Dark Knight Trilogy"
+    },
+    {
+      "type": "franchise",
+      "name": "The Godfather Trilogy"
+    },
+    {
+      "type": "franchise",
+      "name": "The Lord of the Rings"
+    },
+    {
+      "type": "movie",
+      "name": "Back to the Future"
+    },
+    {
+      "type": "movie",
+      "name": "Back to the Future Part II"
+    },
+    {
+      "type": "movie",
+      "name": "Back to the Future Part III"
+    },
+    {
+      "type": "movie",
+      "name": "Batman"
+    },
+    {
+      "type": "movie",
+      "name": "Batman Begins"
+    },
+    {
+      "type": "movie",
+      "name": "Batman Returns"
+    },
+    {
+      "type": "movie",
+      "name": "Inception"
+    },
+    {
+      "type": "movie",
+      "name": "Interstellar"
+    },
+    {
+      "type": "movie",
+      "name": "Oppenheimer"
+    },
+    {
+      "type": "movie",
+      "name": "Tenet"
+    },
+    {
+      "type": "movie",
+      "name": "The Batman"
+    },
+    {
+      "type": "movie",
+      "name": "The Dark Knight"
+    },
+    {
+      "type": "movie",
+      "name": "The Dark Knight Rises"
+    },
+    {
+      "type": "movie",
+      "name": "The Godfather (Film)"
+    },
+    {
+      "type": "movie",
+      "name": "The Godfather Coda: The Death of Michael Corleone"
+    },
+    {
+      "type": "movie",
+      "name": "The Godfather Part II"
+    },
+    {
+      "type": "movie",
+      "name": "The Godfather Part III"
+    },
+    {
+      "type": "movie",
+      "name": "The Prestige"
+    }
+  ]
+}

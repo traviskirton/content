@@ -1,0 +1,7 @@
+{
+  "titles": [
+    { "type": "movie", "name": "Back to the Future" },
+    { "type": "movie", "name": "The Dark Knight" },
+    { "type": "book", "name": "The Hobbit" }
+  ]
+}

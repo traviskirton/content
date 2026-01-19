@@ -3,6 +3,20 @@
   "type": "location",
   "name": "Pasadena",
   "description": "A city in Los Angeles County, California, known for the Rose Bowl, Caltech, and as a popular filming location for movies and television.",
+  "content": [
+    {
+      "title": "Overview",
+      "body": "Pasadena is a city located in Los Angeles County, California, situated at the base of the San Gabriel Mountains. With a population of approximately 140,000, it is known for its historic architecture, cultural institutions, and annual Tournament of Roses Parade and Rose Bowl Game held on New Year's Day."
+    },
+    {
+      "title": "Notable Landmarks",
+      "body": "The city is home to several notable institutions including the California Institute of Technology (Caltech), NASA's Jet Propulsion Laboratory, the Norton Simon Museum, and the Pasadena Playhouse. The Rose Bowl Stadium, one of America's most famous sports venues, hosts college football games and has been the site of multiple Super Bowls and FIFA World Cup matches."
+    },
+    {
+      "title": "Film and Television",
+      "body": "Pasadena has served as a filming location for numerous productions due to its well-preserved historic neighborhoods and distinctive architecture. The Gamble House, a masterpiece of American Arts and Crafts architecture, was featured prominently in the Back to the Future trilogy as Doc Brown's residence."
+    }
+  ],
   "aliases": [
     "Pasadena, California",
     "Pasadena, CA"

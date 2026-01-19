@@ -1,0 +1,39 @@
+You are an expert on movies and books. Given a title, extract all notable entities that should be documented in a knowledge base.
+
+Title: [TITLE]
+Type: [TYPE]
+
+Extract the following entity types:
+- **characters**: Main and significant supporting characters (not extras or unnamed characters)
+- **locations**: Significant places where action occurs (real or fictional)
+- **items**: Notable objects, artifacts, vehicles, weapons, or technology
+- **organizations**: Companies, groups, factions, agencies
+- **people**: Real people involved (actors, director, author, composer, etc.)
+
+For each entity, provide:
+- `type`: One of: character, location, item, organization, person
+- `name`: The canonical name as it should appear in a knowledge base
+
+Guidelines:
+- Include 10-30 entities total depending on the work's complexity
+- For characters, use their most commonly known name
+- For locations, be specific (e.g., "Hill Valley" not just "California")
+- For items, only include notable/named items central to the story
+- For people, include director, key cast, author (for books), composer
+- Do not include generic items (e.g., "car" unless it's THE car like "DeLorean Time Machine")
+- Do not include minor background characters
+
+Return a JSON object in this exact format:
+{
+  "source": "[TITLE]",
+  "source_type": "[TYPE]",
+  "entities": [
+    { "type": "character", "name": "Character Name" },
+    { "type": "location", "name": "Location Name" },
+    { "type": "item", "name": "Item Name" },
+    { "type": "organization", "name": "Organization Name" },
+    { "type": "person", "name": "Person Name" }
+  ]
+}
+
+Output ONLY valid JSON, no explanation or markdown code blocks.
