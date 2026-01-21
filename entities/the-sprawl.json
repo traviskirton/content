@@ -72,5 +72,17 @@
     "neon-lit",
     "futuristic",
     "decay"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sprawl_(cyberpunk)",
+      "title": "Sprawl (cyberpunk) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://cyberpunk.fandom.com/wiki/The_Sprawl",
+      "title": "The Sprawl - Cyberpunk Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

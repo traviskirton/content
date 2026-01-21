@@ -63,5 +63,17 @@
     "romantic-roles",
     "self-parody",
     "cult-figure"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Hamilton_(actor)",
+      "title": "George Hamilton (actor) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.georgehamilton.com/",
+      "title": "George Hamilton Official Website",
+      "type": "official"
+    }
   ]
 }

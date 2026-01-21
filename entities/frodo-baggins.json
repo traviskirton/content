@@ -66,5 +66,17 @@
     "courage",
     "companionship",
     "endurance"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Frodo_Baggins",
+      "title": "Frodo Baggins - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Frodo_Baggins",
+      "title": "Frodo Baggins - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

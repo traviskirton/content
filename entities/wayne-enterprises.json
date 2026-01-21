@@ -78,5 +78,17 @@
     "defense-technology",
     "gotham-city",
     "batman-universe"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Wayne_Enterprises",
+      "title": "Wayne Enterprises - DC Database (Fandom)",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wayne_Enterprises",
+      "title": "Wayne Enterprises - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

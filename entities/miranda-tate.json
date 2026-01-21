@@ -65,5 +65,17 @@
     "revenge",
     "gotham",
     "talia-al-ghul"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Miranda_Tate",
+      "title": "Miranda Tate - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://batman.fandom.com/wiki/Talia_al_Ghul",
+      "title": "Talia al Ghul - DC Database",
+      "type": "fan-wiki"
+    }
   ]
 }

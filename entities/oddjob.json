@@ -61,5 +61,17 @@
     "lethal-weapon",
     "stealth",
     "physical-strength"
+  ],
+  "links": [
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Oddjob",
+      "title": "Oddjob - James Bond Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_James_Bond_characters#Oddjob",
+      "title": "Oddjob - Wikipedia (James Bond characters)",
+      "type": "wiki"
+    }
   ]
 }

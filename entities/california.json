@@ -125,5 +125,17 @@
     "american-culture",
     "entertainment-industry",
     "golden-state"
+  ],
+  "links": [
+    {
+      "url": "https://www.ca.gov/",
+      "title": "State of California Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/California",
+      "title": "California - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

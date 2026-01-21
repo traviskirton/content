@@ -74,5 +74,12 @@
     "caretaker",
     "confidant",
     "batman-universe"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Alfred_Pennyworth#Gough_and_Millar_Run",
+      "title": "Alfred Pennyworth (Gough) - Batman Fandom",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -93,5 +93,17 @@
     "robotics-research",
     "science-communication",
     "speculative-fiction"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Isaac_Asimov",
+      "title": "Isaac Asimov - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.fantasticfiction.com/a/isaac-asimov/",
+      "title": "Isaac Asimov bibliography - Fantastic Fiction",
+      "type": "database"
+    }
   ]
 }

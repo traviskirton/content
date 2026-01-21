@@ -93,5 +93,17 @@
     "betrayal",
     "family-drama"
   ],
-  "facets": {}
+  "facets": {},
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather",
+      "title": "The Godfather - Wikipedia (Includes Trilogy Information)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.paramount.com/franchises/godfather",
+      "title": "The Godfather Franchise - Paramount Pictures",
+      "type": "official"
+    }
+  ]
 }

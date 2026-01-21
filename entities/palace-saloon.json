@@ -61,5 +61,12 @@
     "classic-architecture",
     "historical",
     "social-hub"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Palace_Saloon",
+      "title": "Palace Saloon – Back to the Future Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

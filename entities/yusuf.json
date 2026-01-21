@@ -61,5 +61,17 @@
     "inception",
     "specialized-sedatives",
     "reliable"
+  ],
+  "links": [
+    {
+      "url": "https://inception.fandom.com/wiki/Yusuf",
+      "title": "Yusuf - Inception Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1375666/characters/nm8416650",
+      "title": "Inception (2010) Characters - IMDb",
+      "type": "database"
+    }
   ]
 }

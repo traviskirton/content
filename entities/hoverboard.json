@@ -56,5 +56,12 @@
     "extreme-sports",
     "hoverboarding",
     "bright-pink"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hoverboard",
+      "title": "Hoverboard - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

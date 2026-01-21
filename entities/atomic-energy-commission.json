@@ -51,5 +51,12 @@
     "ethical-dilemmas",
     "scientific-research",
     "military"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Atomic_Energy_Commission_(United_States)",
+      "title": "United States Atomic Energy Commission - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

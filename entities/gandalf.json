@@ -73,5 +73,17 @@
     "prophecy",
     "staff",
     "glamdring"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Gandalf",
+      "title": "Gandalf - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gandalf",
+      "title": "Gandalf - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

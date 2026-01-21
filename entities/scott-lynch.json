@@ -59,5 +59,17 @@
     "dark-fantasy",
     "heist",
     "intrigue"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Scott_Lynch",
+      "title": "Scott Lynch - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://scottlynch.fandom.com/wiki/Scott_Lynch",
+      "title": "Scott Lynch - Fan Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

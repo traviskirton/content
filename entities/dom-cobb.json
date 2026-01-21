@@ -62,5 +62,17 @@
     "psychology",
     "inception",
     "family-drama"
+  ],
+  "links": [
+    {
+      "url": "https://inception.fandom.com/wiki/Dom_Cobb",
+      "title": "Dom Cobb - Inception Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dom_Cobb",
+      "title": "Dom Cobb - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

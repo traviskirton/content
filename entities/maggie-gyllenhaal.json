@@ -72,5 +72,17 @@
   ],
   "aliases": [
     "Maggie"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Maggie_Gyllenhaal",
+      "title": "Maggie Gyllenhaal - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0349361/",
+      "title": "Maggie Gyllenhaal - IMDb",
+      "type": "database"
+    }
   ]
 }

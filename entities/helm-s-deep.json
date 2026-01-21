@@ -55,5 +55,17 @@
     "hornburg",
     "mountain-fortress",
     "defense"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Helm%27s_Deep",
+      "title": "Helm's Deep | The One Wiki to Rule Them All",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Helm%27s_Deep",
+      "title": "Helm's Deep - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

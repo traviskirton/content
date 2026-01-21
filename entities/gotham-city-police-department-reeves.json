@@ -68,5 +68,12 @@
     "matt-reeves",
     "blockbuster",
     "crime-drama"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Gotham_City_Police_Department_(Reeves)",
+      "title": "Gotham City Police Department (Reeves) - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

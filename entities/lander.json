@@ -57,5 +57,12 @@
     "interstellar",
     "nasa",
     "space-exploration"
+  ],
+  "links": [
+    {
+      "url": "https://interstellar.fandom.com/wiki/Lander",
+      "title": "Lander - Interstellar Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

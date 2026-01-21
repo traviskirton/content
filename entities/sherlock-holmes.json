@@ -77,5 +77,17 @@
     "consulting-detective",
     "eccentric",
     "analytical"
+  ],
+  "links": [
+    {
+      "url": "https://www.sherlockholmes.com/",
+      "title": "The Official Sherlock Holmes Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sherlock_Holmes",
+      "title": "Sherlock Holmes - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

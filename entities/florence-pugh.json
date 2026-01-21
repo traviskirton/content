@@ -69,5 +69,17 @@
     "blockbusters",
     "acclaimed",
     "english-actress"
+  ],
+  "links": [
+    {
+      "url": "https://florencepugh.com/",
+      "title": "Official Website of Florence Pugh",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Florence_Pugh",
+      "title": "Florence Pugh - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

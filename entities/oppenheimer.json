@@ -269,5 +269,17 @@
     "world-war-ii",
     "manhattan-project",
     "historical-drama"
+  ],
+  "links": [
+    {
+      "url": "https://www.imdb.com/title/tt15398776/",
+      "title": "Oppenheimer (2023) - IMDb",
+      "type": "database"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Oppenheimer_(film)",
+      "title": "Oppenheimer (film) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

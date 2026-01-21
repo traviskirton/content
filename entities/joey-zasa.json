@@ -61,5 +61,17 @@
     "gangster",
     "mob-boss",
     "power-struggle"
+  ],
+  "links": [
+    {
+      "url": "https://godfather.fandom.com/wiki/Joey_Zasa",
+      "title": "Joey Zasa - The Godfather Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_The_Godfather_characters#Joey_Zasa",
+      "title": "Joey Zasa - Wikipedia (The Godfather characters list)",
+      "type": "wiki"
+    }
   ]
 }

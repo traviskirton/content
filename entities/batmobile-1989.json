@@ -73,5 +73,17 @@
     "vigilante",
     "customized",
     "tim-burton"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Batmobile_(1989)",
+      "title": "Batmobile (1989) - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Batmobile#Versions",
+      "title": "Batmobile - Wikipedia (Versions section)",
+      "type": "wiki"
+    }
   ]
 }

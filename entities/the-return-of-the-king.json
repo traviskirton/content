@@ -80,5 +80,17 @@
     "redemption",
     "friendship",
     "loyalty"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Return_of_the_King",
+      "title": "The Return of the King - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://lotr.fandom.com/wiki/The_Return_of_the_King_(book)",
+      "title": "The Return of the King (book) - LOTR Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

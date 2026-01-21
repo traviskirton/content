@@ -62,5 +62,17 @@
     "mobster",
     "silent-killer",
     "underworld"
+  ],
+  "links": [
+    {
+      "url": "https://godfather.fandom.com/wiki/Luca_Brasi",
+      "title": "Luca Brasi - The Godfather Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Luca_Brasi",
+      "title": "Luca Brasi - Wikipedia (redirects to character)",
+      "type": "wiki"
+    }
   ]
 }

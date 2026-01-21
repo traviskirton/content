@@ -72,5 +72,17 @@
     "time-travel",
     "marty-mcfly",
     "perseverance"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Seamus_McFly",
+      "title": "Seamus McFly - Back to the Future Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_III#Cast",
+      "title": "Back to the Future Part III - Wikipedia Cast Section",
+      "type": "wiki"
+    }
   ]
 }

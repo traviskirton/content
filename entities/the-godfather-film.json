@@ -201,5 +201,17 @@
     "power-struggle",
     "organized-crime",
     "corleone"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather",
+      "title": "The Godfather - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.paramount.com/movies/godfather",
+      "title": "The Godfather - Official Paramount Pictures Page",
+      "type": "official"
+    }
   ]
 }

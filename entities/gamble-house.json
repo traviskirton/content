@@ -63,5 +63,17 @@
     "back-to-the-future",
     "filming-location",
     "architecture"
+  ],
+  "links": [
+    {
+      "url": "https://gamblehouse.org/",
+      "title": "Gamble House Official Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gamble_House",
+      "title": "Gamble House - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -55,5 +55,17 @@
     "siege",
     "strategic-location",
     "decay"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Osgiliath",
+      "title": "Osgiliath – Tolkien Gateway (Fandom)",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Osgiliath",
+      "title": "Osgiliath - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

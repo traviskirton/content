@@ -51,5 +51,17 @@
     "us-military",
     "atomic-age",
     "cold-war-era"
+  ],
+  "links": [
+    {
+      "url": "https://www.nps.gov/waba/index.htm",
+      "title": "Trinity Site - National Park Service",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Trinity_test",
+      "title": "Trinity Test - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

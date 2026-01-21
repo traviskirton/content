@@ -65,5 +65,17 @@
     "literary-classic",
     "british-literature",
     "20th-century-literature"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ian_Fleming",
+      "title": "Ian Fleming - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.ianfleming.com",
+      "title": "Ian Fleming Publications Official Site",
+      "type": "official"
+    }
   ]
 }

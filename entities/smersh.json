@@ -62,5 +62,17 @@
     "covert-operations",
     "secret-service",
     "political-intrigue"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/SMERSH",
+      "title": "SMERSH - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://jamesbond.fandom.com/wiki/SMERSH",
+      "title": "SMERSH - James Bond Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

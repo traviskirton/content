@@ -62,5 +62,17 @@
     "human",
     "empathy",
     "legacy"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Thomas_Wayne",
+      "title": "Thomas Wayne - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thomas_Wayne_(comics)",
+      "title": "Thomas Wayne (comics) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -64,5 +64,17 @@
   "tags": [
     "sci-fi",
     "thriller"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dileep_Rao",
+      "title": "Dileep Rao - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm1103038/",
+      "title": "Dileep Rao - IMDb",
+      "type": "database"
+    }
   ]
 }

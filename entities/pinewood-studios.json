@@ -66,5 +66,17 @@
     "large-sound-stages",
     "film-backlot",
     "buckinghamshire"
+  ],
+  "links": [
+    {
+      "url": "https://www.pinewoodgroup.com/",
+      "title": "Pinewood Studios Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pinewood_Studios",
+      "title": "Pinewood Studios - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -61,5 +61,17 @@
     "glaciers",
     "oslo",
     "filming-location"
+  ],
+  "links": [
+    {
+      "url": "https://www.visitnorway.com/",
+      "title": "Visit Norway - Official Travel Guide",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Norway",
+      "title": "Norway - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

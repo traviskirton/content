@@ -60,5 +60,17 @@
     "mobster",
     "criminal-leadership",
     "italian-american"
+  ],
+  "links": [
+    {
+      "url": "https://godfather.fandom.com/wiki/Clemenza",
+      "title": "Peter Clemenza - Godfather Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_characters_in_The_Godfather",
+      "title": "List of Characters in The Godfather - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

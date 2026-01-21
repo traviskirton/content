@@ -57,5 +57,12 @@
     "sherlock-holmes",
     "indian-bullwhip",
     "symbolism"
+  ],
+  "links": [
+    {
+      "url": "https://sherlock-holmes.fandom.com/wiki/Bullwhip",
+      "title": "Bullwhip - Sherlock Holmes Wiki (including Dr. Roylott's whip)",
+      "type": "fan-wiki"
+    }
   ]
 }

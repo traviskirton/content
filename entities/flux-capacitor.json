@@ -59,5 +59,17 @@
     "technology",
     "macguffin",
     "delorean-time-machine"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Flux_Capacitor",
+      "title": "Flux Capacitor - Back to the Future Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Back_to_the_Future",
+      "title": "Back to the Future - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

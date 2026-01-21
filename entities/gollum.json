@@ -60,5 +60,17 @@
     "obsession",
     "survivor",
     "mordor-guide"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Gollum",
+      "title": "Gollum - The One Wiki to Rule Them All (LOTR)",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gollum",
+      "title": "Gollum - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

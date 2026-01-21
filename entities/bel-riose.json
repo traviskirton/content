@@ -64,5 +64,12 @@
     "strategy",
     "leadership",
     "science-fiction"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Bel_Riose",
+      "title": "Bel Riose - Foundation Wiki (Fandom)",
+      "type": "fan-wiki"
+    }
   ]
 }

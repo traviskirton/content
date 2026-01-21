@@ -237,5 +237,17 @@
     "crime-drama",
     "urban-noir",
     "vigilante"
+  ],
+  "links": [
+    {
+      "url": "https://www.thebatman.com/",
+      "title": "The Batman (2022) - Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Batman_(film)",
+      "title": "The Batman (film) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

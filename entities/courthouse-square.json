@@ -84,5 +84,17 @@
     "clock-tower",
     "time-travel",
     "iconic-location"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Hill_Valley_Courthouse",
+      "title": "Hill Valley Courthouse - Back to the Future Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Back_to_the_Future#Settings",
+      "title": "Back to the Future - Wikipedia (Settings section)",
+      "type": "wiki"
+    }
   ]
 }

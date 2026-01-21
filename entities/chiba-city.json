@@ -63,5 +63,12 @@
     "cybernetic-black-market",
     "neon-lit",
     "corp-dystopia"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Chiba_(city)",
+      "title": "Chiba, Japan - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

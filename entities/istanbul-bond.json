@@ -59,5 +59,17 @@
     "hagia-sophia",
     "mediterranean-climate",
     "strategic-hub"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Istanbul",
+      "title": "Istanbul - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Istanbul",
+      "title": "Istanbul - James Bond Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

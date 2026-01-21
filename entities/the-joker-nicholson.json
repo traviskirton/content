@@ -63,5 +63,17 @@
     "comic-book",
     "1980s"
   ],
-  "additionalProperties": false
+  "additionalProperties": false,
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Joker_(Jack_Napier)",
+      "title": "The Joker (Jack Napier) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://batman.fandom.com/wiki/Joker_(Jack_Napier)",
+      "title": "Joker (Jack Napier) - Batman Wiki",
+      "type": "fan-wiki"
+    }
+  ]
 }

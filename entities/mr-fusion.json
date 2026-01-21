@@ -62,5 +62,17 @@
     "power-source",
     "compact-device",
     "future-tech"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Mr._Fusion_Home_Energy_Reactor",
+      "title": "Mr. Fusion - Back to the Future Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Back_to_the_Future",
+      "title": "Back to the Future - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

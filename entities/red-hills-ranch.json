@@ -57,5 +57,12 @@
     "western-genre",
     "scenic",
     "sprawling-fields"
+  ],
+  "links": [
+    {
+      "url": "https://www.filminglocations.com/red-hills-ranch",
+      "title": "Red Hills Ranch - Filming Locations (aggregator site)",
+      "type": "database"
+    }
   ]
 }

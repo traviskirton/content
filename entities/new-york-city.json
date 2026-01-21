@@ -66,5 +66,17 @@
     "iconic-architecture",
     "cultural-hub",
     "financial-hub"
+  ],
+  "links": [
+    {
+      "url": "https://www.nyc.gov/",
+      "title": "New York City Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_York_City",
+      "title": "New York City - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

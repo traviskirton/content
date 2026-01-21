@@ -53,5 +53,17 @@
     "technology",
     "neural-interface",
     "hacking"
+  ],
+  "links": [
+    {
+      "url": "https://cyberspace.fandom.com/wiki/Deck",
+      "title": "Deck (Neuromancer) - Cyberspace Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Neuromancer#Technology",
+      "title": "Neuromancer - Wikipedia (Technology section)",
+      "type": "wiki"
+    }
   ]
 }

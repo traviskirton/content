@@ -64,5 +64,17 @@
     "utility-belt",
     "kevlar",
     "night-vision"
+  ],
+  "links": [
+    {
+      "url": "https://dc.fandom.com/wiki/Batsuit",
+      "title": "Batsuit - DC Database",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Batsuit",
+      "title": "Batsuit - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

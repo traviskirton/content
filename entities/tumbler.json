@@ -75,5 +75,17 @@
     "high-speed",
     "batmobile",
     "dark-knight-trilogy"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Tumbler",
+      "title": "Tumbler - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Batmobile#The_Tumbler",
+      "title": "Batmobile - Wikipedia (The Tumbler)",
+      "type": "wiki"
+    }
   ]
 }

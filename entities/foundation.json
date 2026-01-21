@@ -80,5 +80,12 @@
     "political-strategy",
     "scientific-foresight",
     "societal-preservation"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Foundation_(Asimov_novel)",
+      "title": "Foundation (Asimov novel) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

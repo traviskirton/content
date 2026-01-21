@@ -93,5 +93,17 @@
     "hitrecord",
     "television",
     "film"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Joseph_Gordon-Levitt",
+      "title": "Joseph Gordon-Levitt - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://josephgordonlevitt.com/",
+      "title": "Joseph Gordon-Levitt Official Website",
+      "type": "official"
+    }
   ]
 }

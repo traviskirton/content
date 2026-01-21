@@ -52,5 +52,12 @@
     "secret-base",
     "underground-lair",
     "crime-fighting"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Batcave_(Christopher_Nolan_films)",
+      "title": "Batcave (Christopher Nolan films) - DC Database",
+      "type": "fan-wiki"
+    }
   ]
 }

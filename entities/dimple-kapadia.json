@@ -57,5 +57,17 @@
     "award-winning",
     "female-lead",
     "classic-cinema"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dimple_Kapadia",
+      "title": "Dimple Kapadia - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0436996/",
+      "title": "Dimple Kapadia - IMDb",
+      "type": "database"
+    }
   ]
 }

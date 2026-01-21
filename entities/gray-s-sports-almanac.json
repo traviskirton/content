@@ -67,5 +67,12 @@
     "alternate-timeline",
     "plot-device",
     "back-to-the-future"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Gray%27s_Sports_Almanac",
+      "title": "Gray's Sports Almanac - Back to the Future Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

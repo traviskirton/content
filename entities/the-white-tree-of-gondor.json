@@ -57,5 +57,17 @@
     "renewal",
     "minas-tirith",
     "citadel"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/White_Tree_of_Gondor",
+      "title": "White Tree of Gondor - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/White_Tree_of_Gondor",
+      "title": "White Tree of Gondor - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

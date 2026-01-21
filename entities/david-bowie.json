@@ -71,5 +71,17 @@
     "eclectic-career",
     "music-and-film",
     "space-oddity"
+  ],
+  "links": [
+    {
+      "url": "https://www.davidbowie.com/",
+      "title": "David Bowie Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/David_Bowie",
+      "title": "David Bowie - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

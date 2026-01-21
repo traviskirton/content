@@ -70,5 +70,17 @@
     "infiltration",
     "cold-blooded",
     "lethal"
+  ],
+  "links": [
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Red_Grant",
+      "title": "Red Grant - James Bond Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Red_Grant",
+      "title": "Red Grant - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

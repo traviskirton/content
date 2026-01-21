@@ -60,5 +60,12 @@
     "accomplice",
     "conspiracy",
     "victorian-era"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/A_Study_in_Scarlet#Characters",
+      "title": "A Study in Scarlet - Wikipedia (Characters section)",
+      "type": "wiki"
+    }
   ]
 }

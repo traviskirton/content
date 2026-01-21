@@ -254,5 +254,17 @@
     "1980s-nostalgia",
     "pop-culture",
     "franchise"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Back_to_the_Future",
+      "title": "Back to the Future - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0088763/",
+      "title": "Back to the Future - IMDb",
+      "type": "database"
+    }
   ]
 }

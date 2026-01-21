@@ -70,5 +70,12 @@
     "post-imperial",
     "strategic-resource",
     "space-opera"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Nuclear_power",
+      "title": "Nuclear power (Foundation) - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

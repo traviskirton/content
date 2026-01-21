@@ -56,5 +56,12 @@
     "boardwalk",
     "mob",
     "corruption"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather#Locations",
+      "title": "The Godfather - Wikipedia (Locations)",
+      "type": "wiki"
+    }
   ]
 }

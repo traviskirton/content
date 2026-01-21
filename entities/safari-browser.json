@@ -68,5 +68,17 @@
     "icloud-sync",
     "reader-mode",
     "translation"
+  ],
+  "links": [
+    {
+      "url": "https://www.apple.com/safari/",
+      "title": "Safari - Apple",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Safari_(web_browser)",
+      "title": "Safari (web browser) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -71,5 +71,17 @@
     "parody",
     "whimsical",
     "cosmology"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/Discworld",
+      "title": "Discworld - Discworld Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Discworld",
+      "title": "Discworld - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

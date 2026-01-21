@@ -60,5 +60,12 @@
     "leader",
     "strategist",
     "diplomat"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Toran_Darell_II",
+      "title": "Toran Darell II - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

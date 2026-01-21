@@ -58,5 +58,17 @@
     "phial",
     "hope",
     "protection"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Phial_of_Galadriel",
+      "title": "Phial of Galadriel - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Phial_of_Galadriel",
+      "title": "Phial of Galadriel - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

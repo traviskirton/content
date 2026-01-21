@@ -85,5 +85,17 @@
     "cyberspace",
     "corporate-espionage",
     "cybernetic-augmentation"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Neuromancer",
+      "title": "Neuromancer - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.goodreads.com/book/show/22328.Neuromancer",
+      "title": "Neuromancer by William Gibson - Goodreads",
+      "type": "database"
+    }
   ]
 }

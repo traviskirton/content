@@ -62,5 +62,12 @@
     "corleone-family",
     "1950s",
     "italian-american"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Frank_Pentangeli",
+      "title": "Frank Pentangeli - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

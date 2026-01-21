@@ -76,5 +76,17 @@
   ],
   "aliases": [
     "Emily"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Emily_Blunt",
+      "title": "Emily Blunt - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.emilyblunt.com/",
+      "title": "Emily Blunt Official Website",
+      "type": "official"
+    }
   ]
 }

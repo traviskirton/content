@@ -78,5 +78,17 @@
     "meta-fiction",
     "social-satire",
     "fantasy-literature"
+  ],
+  "links": [
+    {
+      "url": "https://www.terrypratchettbooks.com/",
+      "title": "Terry Pratchett Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Discworld",
+      "title": "Discworld - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

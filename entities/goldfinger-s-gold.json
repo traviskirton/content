@@ -61,5 +61,17 @@
     "radiation-contamination",
     "treasure",
     "novel-macguffin"
+  ],
+  "links": [
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Goldfinger%27s_gold",
+      "title": "Goldfinger's gold - James Bond Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Goldfinger_(film)",
+      "title": "Goldfinger (film) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

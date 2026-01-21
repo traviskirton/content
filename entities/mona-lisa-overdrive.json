@@ -82,5 +82,17 @@
     "corporate-power",
     "digital-culture",
     "hacker"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mona_Lisa_Overdrive",
+      "title": "Mona Lisa Overdrive - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.goodreads.com/book/show/151134.Mona_Lisa_Overdrive",
+      "title": "Mona Lisa Overdrive - Goodreads",
+      "type": "database"
+    }
   ]
 }

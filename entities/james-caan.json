@@ -71,5 +71,17 @@
     "academy-award-nominee",
     "intense-performances",
     "charismatic"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/James_Caan",
+      "title": "James Caan - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0001027/",
+      "title": "James Caan - IMDb",
+      "type": "database"
+    }
   ]
 }

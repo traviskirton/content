@@ -70,5 +70,17 @@
     "hill-valley",
     "mcfly-family",
     "back-to-the-future"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Lorraine_Baines",
+      "title": "Lorraine Baines - Back to the Future Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Back_to_the_Future",
+      "title": "Back to the Future - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -47,5 +47,12 @@
     "artificial-gravity",
     "cylindrical-design",
     "human-habitat"
+  ],
+  "links": [
+    {
+      "url": "https://interstellarfans.com/wiki/Cooper_Station",
+      "title": "Cooper Station - Interstellar Wiki (fan wiki)",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -83,5 +83,12 @@
     "urban-decay",
     "noir",
     "corruption"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Gotham_City_(Reeves)",
+      "title": "Gotham City (Reeves) - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

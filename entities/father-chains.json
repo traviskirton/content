@@ -65,5 +65,17 @@
     "criminal-underworld",
     "urban-stealth",
     "tactical"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Gentleman_Bastard_Series",
+      "title": "The Gentleman Bastard Series - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://gentlemanbastards.fandom.com/wiki/Father_Chains",
+      "title": "Father Chains - Gentleman Bastards Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

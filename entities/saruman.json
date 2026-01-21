@@ -63,5 +63,17 @@
     "orcs",
     "uruk-hai",
     "white-wizard"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Saruman",
+      "title": "Saruman - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://lotr.fandom.com/wiki/Saruman",
+      "title": "Saruman - The Lord of the Rings Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

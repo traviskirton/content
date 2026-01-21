@@ -52,5 +52,12 @@
     "gothic-fantasy",
     "espionage",
     "power-dynamics"
+  ],
+  "links": [
+    {
+      "url": "https://wot.fandom.com/wiki/Temple_of_Perelandro",
+      "title": "Temple of Perelandro - Wheel of Time Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

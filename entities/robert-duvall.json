@@ -67,5 +67,17 @@
     "method-acting",
     "oscar-winner",
     "film-legend"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_Duvall",
+      "title": "Robert Duvall - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.robertduvall.com/",
+      "title": "Robert Duvall Official Website",
+      "type": "official"
+    }
   ]
 }

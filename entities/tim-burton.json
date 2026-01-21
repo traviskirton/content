@@ -74,5 +74,17 @@
     "imaginative-storytelling",
     "cult-classics",
     "stop-motion"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tim_Burton",
+      "title": "Tim Burton - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.tim-burton.com/",
+      "title": "Tim Burton Official Website",
+      "type": "official"
+    }
   ]
 }

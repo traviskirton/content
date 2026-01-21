@@ -73,5 +73,17 @@
     "intellectual",
     "espionage",
     "tactical-genius"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/SMERSH",
+      "title": "SMERSH - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://johnlecarre.fandom.com/wiki/Kronsteen",
+      "title": "Kronsteen - John le Carré Wiki (Fandom)",
+      "type": "fan-wiki"
+    }
   ]
 }

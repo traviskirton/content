@@ -63,5 +63,12 @@
     "hill-valley",
     "hoverboard",
     "back-to-the-future"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Cafe_80%27s",
+      "title": "Cafe 80's - Back to the Future Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

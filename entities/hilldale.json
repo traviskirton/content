@@ -56,5 +56,12 @@
     "crime",
     "residential",
     "future-timeline"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Hilldale",
+      "title": "Hilldale - Back to the Future Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

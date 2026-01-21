@@ -85,5 +85,17 @@
     "world-building",
     "oxford-university",
     "scholarship"
+  ],
+  "links": [
+    {
+      "url": "https://www.tolkiensociety.org/",
+      "title": "The Tolkien Society - Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/J._R._R._Tolkien",
+      "title": "J. R. R. Tolkien - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -52,5 +52,17 @@
     "1980s",
     "iconic-location",
     "movie-location"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Twin_Pines_Mall",
+      "title": "Twin Pines Mall - Back to the Future Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Back_to_the_Future",
+      "title": "Back to the Future - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

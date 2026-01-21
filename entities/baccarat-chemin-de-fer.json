@@ -69,5 +69,12 @@
     "strategy",
     "green-baize",
     "casino-royale"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Chemin_de_fer",
+      "title": "Chemin de Fer - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

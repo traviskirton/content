@@ -63,5 +63,17 @@
     "foundation",
     "galactic-empire",
     "long-term-plan"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Seldon_Plan",
+      "title": "Seldon Plan - Foundation Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Foundation_series#Plot_summary",
+      "title": "Foundation series Plot Summary - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

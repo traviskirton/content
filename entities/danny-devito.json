@@ -79,5 +79,17 @@
     "philanthropy",
     "jersey-films",
     "emmy-winner"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Danny_DeVito",
+      "title": "Danny DeVito - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.dannydevito.com/",
+      "title": "Danny DeVito Official Website",
+      "type": "official"
+    }
   ]
 }

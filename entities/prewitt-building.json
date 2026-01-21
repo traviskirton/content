@@ -50,5 +50,12 @@
     "dark-knight",
     "rooftop-pursuit",
     "urban-decay"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Prewitt_Building",
+      "title": "Prewitt Building - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

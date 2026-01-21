@@ -57,5 +57,12 @@
     "wayne-enterprises",
     "skyscraper",
     "dark-atmosphere"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Wayne_Tower",
+      "title": "Wayne Tower - DC Database (Fandom)",
+      "type": "fan-wiki"
+    }
   ]
 }

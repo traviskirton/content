@@ -69,5 +69,17 @@
     "middle-earth",
     "war-of-the-ring",
     "sauron"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Palant%C3%ADr",
+      "title": "Palantír – Tolkien Gateway (Fandom)",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Palant%C3%ADr",
+      "title": "Palantír - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

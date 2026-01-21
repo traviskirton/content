@@ -72,5 +72,17 @@
     "european-cinema",
     "hollywood",
     "character-driven"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cl%C3%A9mence_Po%C3%A9sy",
+      "title": "Clémence Poésy - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.instagram.com/clemencepoesyofficial/",
+      "title": "Clémence Poésy Official Instagram",
+      "type": "official"
+    }
   ]
 }

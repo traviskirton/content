@@ -66,5 +66,17 @@
     "counterculture",
     "cyberspace",
     "post-industrial"
+  ],
+  "links": [
+    {
+      "url": "https://www.williamgibsonbooks.com/",
+      "title": "William Gibson Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/William_Gibson_(author)",
+      "title": "William Gibson (author) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

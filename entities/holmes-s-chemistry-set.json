@@ -54,5 +54,17 @@
     "forensic-science",
     "chemical-analysis",
     "detective-equipment"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sherlock_Holmes#Equipment",
+      "title": "Sherlock Holmes Equipment - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://lockpicking.wiki/wiki/Chemistry_Set_(Sherlock_Holmes)",
+      "title": "Chemistry Set (Sherlock Holmes) - Lockpicking Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

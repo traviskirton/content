@@ -55,5 +55,17 @@
     "port-city",
     "maritime-trade",
     "french-riviera"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Marseille",
+      "title": "Marseille - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://countofmontecristo.fandom.com/wiki/Marseille",
+      "title": "Marseille - The Count of Monte Cristo Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

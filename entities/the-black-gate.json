@@ -59,5 +59,17 @@
     "siege",
     "dark-lord",
     "fantasy-epic"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Morannon",
+      "title": "Morannon (The Black Gate) - LOTR Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Black_Gate_(Middle-earth)",
+      "title": "Black Gate (Middle-earth) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

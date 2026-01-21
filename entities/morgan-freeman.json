@@ -91,5 +91,17 @@
     "versatile-actor",
     "deep-voice",
     "ensemble-cast"
+  ],
+  "links": [
+    {
+      "url": "https://www.morganfreeman.com/",
+      "title": "Morgan Freeman Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Morgan_Freeman",
+      "title": "Morgan Freeman - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

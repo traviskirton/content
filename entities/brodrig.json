@@ -62,5 +62,12 @@
     "political-strategy",
     "diplomacy",
     "influence"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Brodrig",
+      "title": "Brodrig - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -55,5 +55,12 @@
     "department-store",
     "fictional-location",
     "urban-landmark"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Shreck%27s_Department_Store",
+      "title": "Shreck's Department Store - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

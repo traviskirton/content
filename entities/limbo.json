@@ -55,5 +55,12 @@
     "inception-universe",
     "urban-decay",
     "dreamscape"
+  ],
+  "links": [
+    {
+      "url": "https://inception.fandom.com/wiki/Limbo",
+      "title": "Limbo – Inception Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

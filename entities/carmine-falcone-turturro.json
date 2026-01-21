@@ -67,5 +67,17 @@
     "organized-crime",
     "corruption",
     "crime-family"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Carmine_Falcone",
+      "title": "Carmine Falcone - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carmine_Falcone",
+      "title": "Carmine Falcone - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

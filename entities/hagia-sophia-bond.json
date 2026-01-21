@@ -54,5 +54,17 @@
     "espionage",
     "cultural-heritage",
     "iconic-location"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+      "title": "Hagia Sophia - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.ayasofyamuzesi.gov.tr/en",
+      "title": "Official Hagia Sophia Museum Website",
+      "type": "official"
+    }
   ]
 }

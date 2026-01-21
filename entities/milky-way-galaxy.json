@@ -49,5 +49,17 @@
     "isaac-asimov",
     "space-opera",
     "interstellar"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Milky_Way",
+      "title": "Milky Way - Foundation Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Galaxy",
+      "title": "Galaxy - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

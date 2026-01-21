@@ -71,5 +71,17 @@
     "burglar",
     "catwoman",
     "zoë-kravitz"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Catwoman#The_Batman_(2022)",
+      "title": "Catwoman in The Batman (2022) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://batman.fandom.com/wiki/Selina_Kyle_(The_Batman_2022)",
+      "title": "Selina Kyle (The Batman 2022) - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

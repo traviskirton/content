@@ -57,5 +57,17 @@
     "wise-counsel",
     "pragmatic",
     "mentor-figure"
+  ],
+  "links": [
+    {
+      "url": "https://prestige.fandom.com/wiki/John_Cutter",
+      "title": "John Cutter - The Prestige Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0482571/characters/nm0780476",
+      "title": "John Cutter (The Prestige) - IMDb",
+      "type": "database"
+    }
   ]
 }

@@ -70,5 +70,17 @@
     "resilience",
     "hope",
     "courage"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Samwise_Gamgee",
+      "title": "Samwise Gamgee - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Samwise_Gamgee",
+      "title": "Samwise Gamgee - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

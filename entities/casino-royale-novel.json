@@ -116,5 +116,17 @@
     "secret-agent",
     "martini",
     "british-intelligence"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Casino_Royale",
+      "title": "Casino Royale (novel) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.goodreads.com/book/show/16369.Casino_Royale",
+      "title": "Casino Royale by Ian Fleming - Goodreads",
+      "type": "database"
+    }
   ]
 }

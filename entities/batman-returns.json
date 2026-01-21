@@ -164,5 +164,17 @@
     "comic-book",
     "ensemble-cast",
     "practical-effects"
+  ],
+  "links": [
+    {
+      "url": "https://www.warnerbros.com/movies/batman-returns",
+      "title": "Batman Returns Official Warner Bros. Page",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Batman_Returns",
+      "title": "Batman Returns - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

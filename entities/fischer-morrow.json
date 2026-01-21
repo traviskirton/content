@@ -57,5 +57,12 @@
     "energy-sector",
     "global-reach",
     "influence"
+  ],
+  "links": [
+    {
+      "url": "https://inception.fandom.com/wiki/Fischer_Morrow",
+      "title": "Fischer Morrow - Inception Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

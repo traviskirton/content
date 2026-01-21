@@ -44,5 +44,17 @@
     "albuquerque",
     "native-american",
     "hispanic-heritage"
+  ],
+  "links": [
+    {
+      "url": "https://www.newmexico.org/",
+      "title": "New Mexico Official Tourism Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Mexico",
+      "title": "New Mexico - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

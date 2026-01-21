@@ -75,5 +75,17 @@
     "cinema",
     "active",
     "entertainment"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Puente_Hills_Mall",
+      "title": "Puente Hills Mall - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Puente_Hills_Mall",
+      "title": "Puente Hills Mall - Back to the Future Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

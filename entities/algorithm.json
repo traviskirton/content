@@ -52,5 +52,17 @@
     "macguffin",
     "time-travel",
     "powerful"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tenet_(film)#Plot",
+      "title": "Tenet (film) - Wikipedia (Algorithm device described)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://tenet.fandom.com/wiki/Algorithm",
+      "title": "Algorithm - Tenet Fandom",
+      "type": "fan-wiki"
+    }
   ]
 }

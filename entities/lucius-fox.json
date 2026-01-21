@@ -85,5 +85,17 @@
     "engineering",
     "gadgets",
     "ceo"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Lucius_Fox",
+      "title": "Lucius Fox - DC Database",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lucius_Fox",
+      "title": "Lucius Fox - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -59,5 +59,17 @@
     "dwarven-kingdom",
     "quest",
     "legendarium"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Erebor",
+      "title": "Erebor - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Erebor",
+      "title": "Erebor - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

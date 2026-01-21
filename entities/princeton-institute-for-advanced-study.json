@@ -54,5 +54,17 @@
     "manhattan-project",
     "new-jersey",
     "princeton"
+  ],
+  "links": [
+    {
+      "url": "https://www.ias.edu/",
+      "title": "Institute for Advanced Study - Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Institute_for_Advanced_Study",
+      "title": "Institute for Advanced Study - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

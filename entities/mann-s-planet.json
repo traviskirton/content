@@ -55,5 +55,17 @@
     "space-exploration",
     "false-beacon",
     "hostile-environment"
+  ],
+  "links": [
+    {
+      "url": "https://interstellar.fandom.com/wiki/Mann%27s_Planet",
+      "title": "Mann's Planet - Interstellar Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Interstellar_(film)#Plot",
+      "title": "Interstellar (film) - Wikipedia (Plot section)",
+      "type": "wiki"
+    }
   ]
 }

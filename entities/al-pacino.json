@@ -83,5 +83,17 @@
     "academy-award-winner",
     "character-driven",
     "intense-performances"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Al_Pacino",
+      "title": "Al Pacino - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0000199/",
+      "title": "Al Pacino - IMDb",
+      "type": "database"
+    }
   ]
 }

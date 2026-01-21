@@ -69,5 +69,17 @@
     "atmospheric",
     "emotional-undercurrents",
     "contemplative-storytelling"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sofia_Coppola",
+      "title": "Sofia Coppola - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.sophiacoppola.com/",
+      "title": "Sofia Coppola Official Website",
+      "type": "official"
+    }
   ]
 }

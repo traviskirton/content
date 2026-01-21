@@ -65,5 +65,17 @@
     "mafia",
     "financial-manipulation",
     "international-espionage"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Goldfinger_(character)",
+      "title": "Auric Goldfinger - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.007wiki.com/wiki/Auric_Goldfinger",
+      "title": "Auric Goldfinger - 007 Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -71,5 +71,17 @@
     "guided-tours",
     "concert-hall",
     "uk"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/St_George%27s_Hall,_Liverpool",
+      "title": "St George's Hall, Liverpool - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.liverpoolmuseums.org.uk/st-georges-hall",
+      "title": "St George's Hall Liverpool - Official Site (National Museums Liverpool)",
+      "type": "official"
+    }
   ]
 }

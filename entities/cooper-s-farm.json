@@ -61,5 +61,12 @@
     "environmental-collapse",
     "agriculture",
     "family-hub"
+  ],
+  "links": [
+    {
+      "url": "https://interstellarfans.com/wiki/Farm",
+      "title": "The Farm - Interstellar Wiki (fan wiki)",
+      "type": "fan-wiki"
+    }
   ]
 }

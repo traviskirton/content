@@ -63,5 +63,17 @@
     "southern-california",
     "urban",
     "tourist-destination"
+  ],
+  "links": [
+    {
+      "url": "https://www.cityofpasadena.net/",
+      "title": "City of Pasadena Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pasadena,_California",
+      "title": "Pasadena, California - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

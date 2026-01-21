@@ -66,5 +66,17 @@
     "french-cinema",
     "hollywood",
     "transformative-performances"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Marion_Cotillard",
+      "title": "Marion Cotillard - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.marioncotillard.com/en/",
+      "title": "Marion Cotillard Official Website",
+      "type": "official"
+    }
   ]
 }

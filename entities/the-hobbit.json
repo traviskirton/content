@@ -81,5 +81,17 @@
     "quest",
     "heroism",
     "mythology"
+  ],
+  "links": [
+    {
+      "url": "https://www.tolkiensociety.org/author/works/the-hobbit/",
+      "title": "The Hobbit - The Tolkien Society (Official Author Society)",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Hobbit",
+      "title": "The Hobbit - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

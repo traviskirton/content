@@ -68,5 +68,12 @@
     "narrative-arc",
     "storytelling",
     "future-history"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Seldon_Crisis",
+      "title": "Seldon Crisis - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

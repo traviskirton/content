@@ -65,5 +65,17 @@
     "dark-sorcery",
     "nazgûl",
     "shadow"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sauron",
+      "title": "Sauron - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://lotr.fandom.com/wiki/Sauron",
+      "title": "Sauron - The Lord of the Rings Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

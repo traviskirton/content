@@ -63,5 +63,17 @@
     "film-industry",
     "southern-california",
     "major-city"
+  ],
+  "links": [
+    {
+      "url": "https://www.lacity.org/",
+      "title": "City of Los Angeles Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Los_Angeles",
+      "title": "Los Angeles - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

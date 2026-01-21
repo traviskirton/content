@@ -54,5 +54,12 @@
     "hideout",
     "secret-base",
     "corporate-surveillance"
+  ],
+  "links": [
+    {
+      "url": "https://cyberpunk.fandom.com/wiki/Dog_Solitude",
+      "title": "Dog Solitude - Cyberpunk Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -61,5 +61,12 @@
     "scientist",
     "assertive",
     "historical-figure"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Edward_Teller",
+      "title": "Edward Teller - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

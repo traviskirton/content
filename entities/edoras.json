@@ -54,5 +54,17 @@
     "royalty",
     "golden-hall",
     "rohirrim"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Edoras",
+      "title": "Edoras - Lord of the Rings Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Edoras",
+      "title": "Edoras - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

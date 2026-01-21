@@ -51,5 +51,12 @@
     "experimental-technology",
     "remote",
     "isolated"
+  ],
+  "links": [
+    {
+      "url": "https://tenet.fandom.com/wiki/Stalsk-12",
+      "title": "Stalsk-12 - Tenet Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

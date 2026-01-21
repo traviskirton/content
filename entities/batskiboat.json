@@ -62,5 +62,12 @@
     "high-speed",
     "bat-vehicle",
     "gotham"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Batskiboat",
+      "title": "Batskiboat - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

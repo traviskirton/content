@@ -58,5 +58,17 @@
     "escapee",
     "emotional-tension",
     "secret-keeper"
+  ],
+  "links": [
+    {
+      "url": "https://sherlock-holmes.fandom.com/wiki/Mrs._Barrymore",
+      "title": "Mrs. Barrymore - Sherlock Holmes Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles",
+      "title": "The Hound of the Baskervilles - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

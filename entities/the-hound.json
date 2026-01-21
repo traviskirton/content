@@ -57,5 +57,12 @@
     "curse",
     "gothic",
     "symbol"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles#The_Baskerville_hound",
+      "title": "The Hound of the Baskervilles - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

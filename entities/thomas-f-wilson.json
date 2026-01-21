@@ -79,5 +79,17 @@
     "character-actor",
     "improvisation",
     "cult-classic"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Thomas_F._Wilson",
+      "title": "Thomas F. Wilson - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.thomasfwilson.com/",
+      "title": "Thomas F. Wilson Official Website",
+      "type": "official"
+    }
   ]
 }

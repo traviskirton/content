@@ -62,5 +62,17 @@
     "stealth",
     "lockpicking",
     "coming-of-age"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Gentleman_Bastard_Sequence#Characters",
+      "title": "The Gentleman Bastard Sequence - Wikipedia (Characters)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.goodreads.com/series/55359-the-gentleman-bastard-sequence",
+      "title": "Gentleman Bastard Sequence Series - Goodreads",
+      "type": "database"
+    }
   ]
 }

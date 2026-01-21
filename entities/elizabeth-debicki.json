@@ -83,5 +83,17 @@
     "versatile",
     "nuanced-acting",
     "melbourne"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_Debicki",
+      "title": "Elizabeth Debicki - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.instagram.com/elizadebicki/",
+      "title": "Elizabeth Debicki on Instagram",
+      "type": "official"
+    }
   ]
 }

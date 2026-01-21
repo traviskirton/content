@@ -74,5 +74,17 @@
     "bafta-nominee",
     "golden-globe-nominee",
     "commanding-presence"
+  ],
+  "links": [
+    {
+      "url": "https://www.liam-neeson.com/",
+      "title": "Liam Neeson Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Liam_Neeson",
+      "title": "Liam Neeson - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -57,5 +57,12 @@
     "international-syndicate",
     "secretive",
     "organized-crime"
+  ],
+  "links": [
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Le_Chiffre%27s_Network",
+      "title": "Le Chiffre's Network - James Bond Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

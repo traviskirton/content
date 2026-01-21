@@ -64,5 +64,12 @@
     "water-vaporization",
     "military-grade",
     "batman-begins"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Microwave_weapons",
+      "title": "Microwave weapon - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

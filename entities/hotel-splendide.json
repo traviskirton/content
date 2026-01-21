@@ -55,5 +55,17 @@
     "grand-hotel",
     "cold-war",
     "european-elite"
+  ],
+  "links": [
+    {
+      "url": "https://casino-royale.fandom.com/wiki/Hotel_Splendide",
+      "title": "Hotel Splendide - Casino Royale Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Casino_Royale_(novel)#Locations",
+      "title": "Casino Royale - Wikipedia (Hotel Splendide location)",
+      "type": "wiki"
+    }
   ]
 }

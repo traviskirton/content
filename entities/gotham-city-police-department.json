@@ -75,5 +75,17 @@
     "gotham",
     "crime",
     "vigilante"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Gotham_City_Police_Department",
+      "title": "Gotham City Police Department - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gotham_City_Police_Department",
+      "title": "Gotham City Police Department - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

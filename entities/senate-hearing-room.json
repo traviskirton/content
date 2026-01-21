@@ -60,5 +60,17 @@
     "power-struggle",
     "1950s",
     "us-government"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather_Part_II#Plot",
+      "title": "The Godfather Part II Plot - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/United_States_Senate_Hearing",
+      "title": "United States Senate Hearing - Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

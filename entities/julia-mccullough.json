@@ -53,5 +53,17 @@
     "piper-perabo",
     "illusion",
     "the-prestige"
+  ],
+  "links": [
+    {
+      "url": "https://theprestige.fandom.com/wiki/Julia_McCullough",
+      "title": "Julia McCullough - The Prestige Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Prestige",
+      "title": "The Prestige - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

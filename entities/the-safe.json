@@ -59,5 +59,12 @@
     "lock",
     "mechanical-lock",
     "wealth"
+  ],
+  "links": [
+    {
+      "url": "https://sherlockholmes.fandom.com/wiki/Safe",
+      "title": "Safe - Sherlock Holmes Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

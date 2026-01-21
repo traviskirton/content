@@ -66,5 +66,17 @@
     "hand-to-hand-combat",
     "loyal",
     "dream-extraction"
+  ],
+  "links": [
+    {
+      "url": "https://inceptionmovie.wiki/wiki/Arthur",
+      "title": "Arthur (Inception) - Inception Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Inception#Characters",
+      "title": "Inception Characters - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

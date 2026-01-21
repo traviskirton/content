@@ -80,5 +80,17 @@
     "charismatic",
     "gangster-genre",
     "bilingual-actor"
+  ],
+  "links": [
+    {
+      "url": "https://www.andygarcia.com/",
+      "title": "Andy Garcia Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andy_Garcia",
+      "title": "Andy Garcia - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

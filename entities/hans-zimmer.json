@@ -124,5 +124,17 @@
     "award-winning",
     "cinematic",
     "modern"
+  ],
+  "links": [
+    {
+      "url": "https://www.hanszimmer.com/",
+      "title": "Hans Zimmer Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hans_Zimmer",
+      "title": "Hans Zimmer - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

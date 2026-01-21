@@ -58,5 +58,17 @@
     "psychological-manipulation",
     "double-agent",
     "international-espionage"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Karla_(character)",
+      "title": "Karla (character) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://john-le-carre.fandom.com/wiki/Karla",
+      "title": "Karla - John le Carré Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

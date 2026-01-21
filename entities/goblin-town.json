@@ -55,5 +55,12 @@
     "dark",
     "hostile",
     "oppressive-atmosphere"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Goblin-town",
+      "title": "Goblin-town - Tolkien Gateway",
+      "type": "fan-wiki"
+    }
   ]
 }

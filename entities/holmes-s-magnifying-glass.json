@@ -54,5 +54,12 @@
     "victorian-era",
     "evidence-examination",
     "handheld"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sherlock_Holmes#Equipment",
+      "title": "Sherlock Holmes Equipment - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

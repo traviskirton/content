@@ -56,5 +56,17 @@
     "high-contrast",
     "low-key-lighting",
     "shadow-play"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gordon_Willis",
+      "title": "Gordon Willis - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0931551/",
+      "title": "Gordon Willis - IMDb",
+      "type": "database"
+    }
   ]
 }

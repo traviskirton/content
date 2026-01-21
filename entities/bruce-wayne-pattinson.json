@@ -96,5 +96,17 @@
     "noir",
     "dark-knight",
     "batman"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Bruce_Wayne_(The_Batman)",
+      "title": "Bruce Wayne (The Batman) - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Batman_(film)",
+      "title": "The Batman (film) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

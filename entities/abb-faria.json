@@ -63,5 +63,17 @@
     "justice",
     "knowledge",
     "teacher"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo#Characters",
+      "title": "Abbé Faria - The Count of Monte Cristo characters - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Abbé_Faria",
+      "title": "Abbé Faria - Wikipedia (French)",
+      "type": "wiki"
+    }
   ]
 }

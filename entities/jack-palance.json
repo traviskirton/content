@@ -63,5 +63,17 @@
     "tough-guy-roles",
     "live-television",
     "1950s"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jack_Palance",
+      "title": "Jack Palance - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0001611/",
+      "title": "Jack Palance - IMDb",
+      "type": "database"
+    }
   ]
 }

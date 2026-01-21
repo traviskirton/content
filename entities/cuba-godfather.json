@@ -61,5 +61,17 @@
     "cubana",
     "latin-america",
     "historical"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cuba_in_the_United_States",
+      "title": "Cuba - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Cuba",
+      "title": "Cuba - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -88,5 +88,17 @@
     "deLorean-time-machine",
     "hill-valley",
     "mad-scientist"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Emmett_Brown",
+      "title": "Doc Brown - Back to the Future Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Emmett_Brown",
+      "title": "Emmett Brown - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

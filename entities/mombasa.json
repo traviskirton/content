@@ -46,5 +46,17 @@
     "high-speed-chase",
     "clandestine-deals",
     "illicit-activity"
+  ],
+  "links": [
+    {
+      "url": "https://inception.fandom.com/wiki/Mombasa",
+      "title": "Mombasa - Inception Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mombasa",
+      "title": "Mombasa - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

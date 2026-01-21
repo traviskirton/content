@@ -57,5 +57,17 @@
     "covert-operations",
     "physical-intimidation",
     "surveillance"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Goldfinger_(film)#Cast",
+      "title": "Goldfinger (film) - Cast - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0058150/fullcredits",
+      "title": "Goldfinger (1964) - IMDb Full Cast & Crew",
+      "type": "database"
+    }
   ]
 }

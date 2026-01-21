@@ -57,5 +57,17 @@
     "ancient-evil",
     "shadow",
     "darkness"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Shelob",
+      "title": "Shelob - The Lord of the Rings Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shelob",
+      "title": "Shelob - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

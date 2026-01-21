@@ -74,5 +74,17 @@
     "young-hero",
     "psychohistory",
     "space-exploration"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Gaal_Dornick",
+      "title": "Gaal Dornick - Foundation Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Foundation_(Asimov_series)#Main_characters",
+      "title": "Foundation (Asimov series) - Wikipedia (Includes Gaal Dornick)",
+      "type": "wiki"
+    }
   ]
 }

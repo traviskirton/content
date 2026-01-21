@@ -69,5 +69,17 @@
     "film",
     "television",
     "celebrity-descendant"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Zoë_Kravitz",
+      "title": "Zoë Kravitz - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.instagram.com/zoeisabellakravitz/",
+      "title": "Zoë Kravitz Official Instagram",
+      "type": "official"
+    }
   ]
 }

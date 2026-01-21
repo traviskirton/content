@@ -58,5 +58,17 @@
     "architecture",
     "filming-location",
     "scotland"
+  ],
+  "links": [
+    {
+      "url": "https://www.glasgow.gov.uk/",
+      "title": "Glasgow City Council Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Glasgow",
+      "title": "Glasgow - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

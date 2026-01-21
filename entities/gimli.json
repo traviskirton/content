@@ -69,5 +69,17 @@
     "axe-wielder",
     "loyalty",
     "stalwart"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Gimli",
+      "title": "Gimli - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gimli",
+      "title": "Gimli - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

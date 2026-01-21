@@ -56,5 +56,12 @@
     "moorland",
     "natural-hazard",
     "foreboding"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Grimpen_Mire",
+      "title": "Grimpen Mire - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

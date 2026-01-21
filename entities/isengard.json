@@ -62,5 +62,17 @@
     "deforestation",
     "orc-army",
     "ent-rebellion"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Isengard",
+      "title": "Isengard - The One Wiki to Rule Them All",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Isengard",
+      "title": "Isengard - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

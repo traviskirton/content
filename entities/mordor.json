@@ -67,5 +67,17 @@
     "third-age",
     "barad-dur",
     "mount-doom"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Mordor",
+      "title": "Mordor - The One Wiki to Rule Them All",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mordor",
+      "title": "Mordor - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

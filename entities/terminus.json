@@ -58,5 +58,12 @@
     "galactic-empire",
     "isolated",
     "resource-poor"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Terminus",
+      "title": "Terminus - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

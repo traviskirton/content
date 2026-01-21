@@ -67,5 +67,17 @@
     "concealable",
     "espionage",
     "german-design"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Walther_PPK",
+      "title": "Walther PPK - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imfdb.org/wiki/Walther_PPK",
+      "title": "Walther PPK - Internet Movie Firearms Database",
+      "type": "database"
+    }
   ]
 }

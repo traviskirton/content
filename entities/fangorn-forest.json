@@ -54,5 +54,17 @@
     "ancient-forest",
     "ent-guardians",
     "natural-wonders"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Fangorn_Forest",
+      "title": "Fangorn Forest - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fangorn_Forest",
+      "title": "Fangorn Forest - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

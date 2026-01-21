@@ -59,5 +59,17 @@
     "egyptian-american",
     "mr-robot",
     "bohemian-rhapsody"
+  ],
+  "links": [
+    {
+      "url": "https://www.ramimalek.com/",
+      "title": "Rami Malek Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rami_Malek",
+      "title": "Rami Malek - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

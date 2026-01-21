@@ -56,5 +56,12 @@
     "mid-century",
     "nevada",
     "sin-city"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather_Part_II#Las_Vegas",
+      "title": "Las Vegas in The Godfather Part II - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

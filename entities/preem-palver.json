@@ -70,5 +70,12 @@
     "bureaucracy",
     "public-speaking",
     "galactic-empire"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Preem_Palver",
+      "title": "Preem Palver - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

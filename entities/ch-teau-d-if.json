@@ -60,5 +60,17 @@
     "marseille",
     "island",
     "state-prison"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Château_d%27If",
+      "title": "Château d'If - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.chateau-if.com/en/",
+      "title": "Chateau d'If Official Website",
+      "type": "official"
+    }
   ]
 }

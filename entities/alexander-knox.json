@@ -57,5 +57,12 @@
   ],
   "aliases": [
     "Knox"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Alexander_Knox",
+      "title": "Alexander Knox - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

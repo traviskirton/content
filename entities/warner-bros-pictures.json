@@ -131,5 +131,17 @@
     "film",
     "golden-age",
     "modern"
+  ],
+  "links": [
+    {
+      "url": "https://www.warnerbros.com/",
+      "title": "Warner Bros. Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Warner_Bros.",
+      "title": "Warner Bros. - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

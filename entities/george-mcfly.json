@@ -79,5 +79,17 @@
     "high-school",
     "timid",
     "personal-growth"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/George_McFly",
+      "title": "George McFly - Back to the Future Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Back_to_the_Future#Characters",
+      "title": "Back to the Future characters - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

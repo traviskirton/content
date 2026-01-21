@@ -59,5 +59,17 @@
     "covert",
     "spy-fiction",
     "clandestine"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/John_le_Carr%C3%A9",
+      "title": "John le Carré - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Spy_fiction",
+      "title": "Spy fiction - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

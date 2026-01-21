@@ -55,5 +55,12 @@
     "literary-icon",
     "analytical",
     "intellectual"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sherlock_Holmes#Character",
+      "title": "Sherlock Holmes - Wikipedia (Pipe reference)",
+      "type": "wiki"
+    }
   ]
 }

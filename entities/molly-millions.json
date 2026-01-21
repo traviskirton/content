@@ -61,5 +61,17 @@
     "assassin",
     "stealth",
     "combat-specialist"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Molly_Millions",
+      "title": "Molly Millions - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://cyberpunk.fandom.com/wiki/Molly_Millions",
+      "title": "Molly Millions - Cyberpunk Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

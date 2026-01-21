@@ -51,5 +51,12 @@
     "gotham",
     "political-drama",
     "landmark"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Gotham_City_Hall",
+      "title": "Gotham City Hall - DC Database",
+      "type": "fan-wiki"
+    }
   ]
 }

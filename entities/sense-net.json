@@ -62,5 +62,17 @@
     "shadowy-elite",
     "data-extraction",
     "covert-operations"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mona_Lisa_Overdrive",
+      "title": "Mona Lisa Overdrive - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://cyberpunk.fandom.com/wiki/Sense/Net",
+      "title": "Sense/Net - Cyberpunk Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

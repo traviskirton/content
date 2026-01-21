@@ -62,5 +62,17 @@
     "enforcer",
     "authority-figure",
     "1980s"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Principal_Strickland",
+      "title": "Principal Strickland - Back to the Future Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Back_to_the_Future#Characters",
+      "title": "Back to the Future - Characters - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

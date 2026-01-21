@@ -72,5 +72,17 @@
     "film",
     "television",
     "golden-age"
+  ],
+  "links": [
+    {
+      "url": "https://amblinentertainment.com/",
+      "title": "Amblin Entertainment - Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Amblin_Entertainment",
+      "title": "Amblin Entertainment - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

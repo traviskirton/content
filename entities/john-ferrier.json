@@ -62,5 +62,12 @@
     "survival",
     "resilience",
     "family-drama"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Ferrier",
+      "title": "John Ferrier - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

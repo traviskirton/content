@@ -58,5 +58,17 @@
     "quest",
     "greed",
     "adventure"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Lonely_Mountain",
+      "title": "Lonely Mountain - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://lotr.fandom.com/wiki/Erebor",
+      "title": "Erebor - LOTR Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

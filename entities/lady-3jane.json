@@ -61,5 +61,12 @@
     "neuromancer",
     "power",
     "tessier-ashpool"
+  ],
+  "links": [
+    {
+      "url": "https://scp-wiki.wikidot.com/lady-3jane",
+      "title": "Lady 3Jane - SCP Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

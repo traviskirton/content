@@ -66,5 +66,17 @@
     "thriller",
     "sci-fi",
     "comedy"
+  ],
+  "links": [
+    {
+      "url": "https://www.scarlettjohansson.com/",
+      "title": "Scarlett Johansson Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Scarlett_Johansson",
+      "title": "Scarlett Johansson - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

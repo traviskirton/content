@@ -52,5 +52,17 @@
     "backlot",
     "post-production",
     "surrey"
+  ],
+  "links": [
+    {
+      "url": "https://www.thestudiotour.com/sheppertonstudios/",
+      "title": "Shepperton Studios Official Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shepperton_Studios",
+      "title": "Shepperton Studios - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -67,5 +67,17 @@
     "wormhole",
     "space-station",
     "crew-quarters"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Interstellar_(film)#Spaceship_Endurance",
+      "title": "Endurance - Wikipedia (Interstellar Spaceship)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://interstellar.fandom.com/wiki/Endurance",
+      "title": "Endurance - Interstellar Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

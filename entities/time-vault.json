@@ -73,5 +73,17 @@
     "seldon-plan",
     "galactic-empire",
     "technology"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Time_Vault",
+      "title": "Time Vault - Foundation Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hari_Seldon#Foundation",
+      "title": "Hari Seldon - Wikipedia (Foundation context)",
+      "type": "wiki"
+    }
   ]
 }

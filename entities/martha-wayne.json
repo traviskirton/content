@@ -54,5 +54,17 @@
     "philanthropy",
     "gotham-city",
     "family-drama"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Martha_Wayne",
+      "title": "Martha Wayne - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Martha_Wayne",
+      "title": "Martha Wayne - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

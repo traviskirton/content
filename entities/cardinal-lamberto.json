@@ -60,5 +60,17 @@
     "religion",
     "morality",
     "politics"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Pope_John_Paul_I",
+      "title": "Pope John Paul I - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://thecardinalwiki.fandom.com/wiki/Cardinal_Lamberto",
+      "title": "Cardinal Lamberto - The Cardinal Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

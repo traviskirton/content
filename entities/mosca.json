@@ -55,5 +55,17 @@
     "ruthless",
     "enforcer",
     "italian"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather_Part_III#Cast",
+      "title": "The Godfather Part III - Cast - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0099674/characters/nm0560395",
+      "title": "The Godfather Part III (1990) - IMDb - Mosca",
+      "type": "database"
+    }
   ]
 }

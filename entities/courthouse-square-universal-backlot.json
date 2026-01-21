@@ -68,5 +68,17 @@
     "hollywood",
     "outdoor-set",
     "studio-tour"
+  ],
+  "links": [
+    {
+      "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/studio-tours/backlot-tour/index.html",
+      "title": "Universal Studios Hollywood - Studio Tour & Backlot",
+      "type": "official"
+    },
+    {
+      "url": "https://movies.fandom.com/wiki/Courthouse_Square_(Universal_Backlot)",
+      "title": "Courthouse Square (Universal Backlot) - Fandom",
+      "type": "fan-wiki"
+    }
   ]
 }

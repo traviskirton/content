@@ -52,5 +52,12 @@
     "decay",
     "gothic-architecture",
     "dark-atmosphere"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Old_Zoo",
+      "title": "Old Zoo - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

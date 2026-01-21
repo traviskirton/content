@@ -66,5 +66,12 @@
     "political-influence",
     "ruthless",
     "power-hungry"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Max_Shreck",
+      "title": "Max Shreck - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

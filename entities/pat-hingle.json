@@ -71,5 +71,12 @@
     "stage-to-screen",
     "versatile",
     "tony-nominee"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Pat_Hingle",
+      "title": "Pat Hingle - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -83,5 +83,17 @@
     "film-actor",
     "intense-roles",
     "transformation"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tom_Hardy",
+      "title": "Tom Hardy - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0362766/",
+      "title": "Tom Hardy - IMDb",
+      "type": "database"
+    }
   ]
 }

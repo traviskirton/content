@@ -208,5 +208,17 @@
     "time-loop",
     "nostalgia",
     "sequels"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_III",
+      "title": "Back to the Future Part III - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0099088/",
+      "title": "Back to the Future Part III - IMDb",
+      "type": "database"
+    }
   ]
 }

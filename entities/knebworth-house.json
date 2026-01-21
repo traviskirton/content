@@ -56,5 +56,17 @@
     "gothic-architecture",
     "lytton-family",
     "english-country-house"
+  ],
+  "links": [
+    {
+      "url": "https://www.knebworthhouse.com/",
+      "title": "Knebworth House Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Knebworth_House",
+      "title": "Knebworth House - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

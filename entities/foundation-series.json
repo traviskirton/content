@@ -122,5 +122,17 @@
     "social-engineering",
     "hard-science",
     "epic-storytelling"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Foundation_series",
+      "title": "Foundation series - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://foundation.fandom.com/wiki/Foundation_Fandom",
+      "title": "Foundation Fandom - Fan Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

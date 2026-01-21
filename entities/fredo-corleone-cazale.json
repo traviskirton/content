@@ -68,5 +68,17 @@
     "cazale",
     "character-flaw",
     "family-dynamics"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Fredo_Corleone",
+      "title": "Fredo Corleone - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Fredo_Corleone",
+      "title": "Fredo Corleone - Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

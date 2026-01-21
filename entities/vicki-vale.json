@@ -58,5 +58,17 @@
     "curious",
     "determined",
     "tenacious"
+  ],
+  "links": [
+    {
+      "url": "https://dc.fandom.com/wiki/Vicki_Vale",
+      "title": "Vicki Vale - DC Database",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vicki_Vale",
+      "title": "Vicki Vale - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -69,5 +69,17 @@
     "intelligence-officer",
     "moral-complexity",
     "psychological-depth"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/John_le_Carr%C3%A9",
+      "title": "John le Carré - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.johnlecarre.com/",
+      "title": "John le Carré Official Website",
+      "type": "official"
+    }
   ]
 }

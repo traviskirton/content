@@ -62,5 +62,17 @@
     "lava-fields",
     "national-parks",
     "icelandic"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Iceland",
+      "title": "Iceland - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://visiti.is",
+      "title": "Official Iceland Tourism Site",
+      "type": "official"
+    }
   ]
 }

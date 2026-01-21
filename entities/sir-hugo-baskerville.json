@@ -56,5 +56,17 @@
     "supernatural",
     "curse",
     "violent-nobleman"
+  ],
+  "links": [
+    {
+      "url": "https://sherlock.fandom.com/wiki/Sir_Hugo_Baskerville",
+      "title": "Sir Hugo Baskerville - Sherlockian Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles#Background_and_legend",
+      "title": "The Hound of the Baskervilles - Wikipedia Background and Legend section",
+      "type": "wiki"
+    }
   ]
 }

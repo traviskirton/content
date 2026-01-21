@@ -70,5 +70,17 @@
     "cyberspace",
     "corporate-dystopia",
     "artificial-intelligence"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sprawl_trilogy",
+      "title": "Sprawl Trilogy - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://williamgibsonbooks.com/",
+      "title": "William Gibson Official Website",
+      "type": "official"
+    }
   ]
 }

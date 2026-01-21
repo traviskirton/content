@@ -68,5 +68,17 @@
     "concealed",
     "stoke-moran",
     "forensic"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Adventure_of_the_Speckled_Band",
+      "title": "The Adventure of the Speckled Band - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://sherlockholmes.fandom.com/wiki/Ventilator",
+      "title": "Ventilator - Sherlock Holmes Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

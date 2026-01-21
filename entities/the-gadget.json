@@ -62,5 +62,12 @@
     "manhattan-project",
     "los-alamos",
     "trinity-test"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Trinity_(nuclear_test)#The_Gadget",
+      "title": "The Gadget - Wikipedia (Trinity Nuclear Test)",
+      "type": "wiki"
+    }
   ]
 }

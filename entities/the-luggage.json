@@ -56,5 +56,12 @@
     "loyal",
     "sapient-pearwood",
     "rincewind"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/The_Luggage",
+      "title": "The Luggage - Discworld Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

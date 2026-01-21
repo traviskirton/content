@@ -63,5 +63,17 @@
     "film",
     "versatile",
     "broadway"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/David_Krumholtz",
+      "title": "David Krumholtz - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0472280/",
+      "title": "David Krumholtz - IMDb",
+      "type": "database"
+    }
   ]
 }

@@ -55,5 +55,12 @@
     "dc-universe",
     "riddler",
     "enigmatic"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Riddler_Ciphers",
+      "title": "Riddler Ciphers - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

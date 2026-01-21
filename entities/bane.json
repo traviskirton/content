@@ -70,5 +70,17 @@
     "gotham",
     "tactical",
     "batman-villain"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Bane",
+      "title": "Bane - DC Database",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bane_(The_Dark_Knight_Rises)",
+      "title": "Bane (The Dark Knight Rises) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

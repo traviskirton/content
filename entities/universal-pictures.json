@@ -85,5 +85,17 @@
     "carl-laemmle",
     "hollywood",
     "classic-studio"
+  ],
+  "links": [
+    {
+      "url": "https://www.universalpictures.com/",
+      "title": "Universal Pictures Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Universal_Pictures",
+      "title": "Universal Pictures - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -113,5 +113,17 @@
     "legacy",
     "power",
     "corruption"
+  ],
+  "links": [
+    {
+      "url": "https://www.paramount.com/movies/godfather-part-iii",
+      "title": "The Godfather Part III - Paramount Pictures Official Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather_Part_III",
+      "title": "The Godfather Part III - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

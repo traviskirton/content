@@ -57,5 +57,12 @@
     "biologist",
     "complex-personality",
     "emily-blunt"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kitty_Oppenheimer",
+      "title": "Kitty Oppenheimer - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

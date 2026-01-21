@@ -49,5 +49,12 @@
     "fictional-technology",
     "gotham",
     "batman-tech"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Contact_Lenses",
+      "title": "Contact Lenses (Batman) - DC Database",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -66,5 +66,17 @@
     "racketeering",
     "loan-sharking",
     "illegal-gambling"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Barzini_family",
+      "title": "Barzini family - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Barzini_Family",
+      "title": "Barzini Family - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

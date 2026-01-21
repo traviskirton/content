@@ -50,5 +50,12 @@
     "vault",
     "inversion",
     "tenet"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Freeport",
+      "title": "Freeport - Wikipedia (disambiguation, general)",
+      "type": "wiki"
+    }
   ]
 }

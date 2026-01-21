@@ -69,5 +69,17 @@
     "mission-focused",
     "military-operations",
     "adaptive"
+  ],
+  "links": [
+    {
+      "url": "https://www.imdb.com/title/tt6723592/characters/nm4051742",
+      "title": "Tenet (2020) - Ives Character - IMDb",
+      "type": "database"
+    },
+    {
+      "url": "https://tenet.fandom.com/wiki/Ives",
+      "title": "Ives - Tenet Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

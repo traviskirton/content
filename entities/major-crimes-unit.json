@@ -55,5 +55,12 @@
     "organized-crime",
     "batman-universe",
     "detective-work"
+  ],
+  "links": [
+    {
+      "url": "https://dc.fandom.com/wiki/Major_Crimes_Unit",
+      "title": "Major Crimes Unit - DC Database",
+      "type": "fan-wiki"
+    }
   ]
 }

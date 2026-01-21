@@ -56,5 +56,17 @@
     "ancestral-homeland",
     "crime-history",
     "mediterranean"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sicily_in_fiction#The_Godfather",
+      "title": "Sicily in fiction - The Godfather - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Sicily",
+      "title": "Sicily - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

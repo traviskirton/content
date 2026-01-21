@@ -81,5 +81,17 @@
     "collaborations",
     "atmospheric-visuals",
     "major-films"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hoyte_van_Hoytema",
+      "title": "Hoyte van Hoytema - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm1451796/",
+      "title": "Hoyte van Hoytema - IMDb",
+      "type": "database"
+    }
   ]
 }

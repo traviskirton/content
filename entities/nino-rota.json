@@ -60,5 +60,12 @@
     "conductor",
     "orchestral",
     "film-composer"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nino_Rota",
+      "title": "Nino Rota - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -169,5 +169,17 @@
     "complex-narrative",
     "puzzle",
     "magic"
+  ],
+  "links": [
+    {
+      "url": "https://www.imdb.com/title/tt0482571/",
+      "title": "The Prestige (2006) - IMDb",
+      "type": "database"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Prestige",
+      "title": "The Prestige - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

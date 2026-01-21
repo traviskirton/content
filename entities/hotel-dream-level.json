@@ -49,5 +49,17 @@
     "subconscious",
     "mindscape",
     "psychological"
+  ],
+  "links": [
+    {
+      "url": "https://inception.fandom.com/wiki/Hotel_Dream_level",
+      "title": "Hotel Dream Level - Inception Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Inception#Plot",
+      "title": "Inception - Wikipedia (Dream hotel mention)",
+      "type": "wiki"
+    }
   ]
 }

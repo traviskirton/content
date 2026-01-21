@@ -72,5 +72,17 @@
     "femme-fatale",
     "psychological-warfare",
     "soviet-espionage"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Rosa_Klebb",
+      "title": "Rosa Klebb - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Rosa_Klebb",
+      "title": "Rosa Klebb - James Bond Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

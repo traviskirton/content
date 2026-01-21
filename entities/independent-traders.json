@@ -56,5 +56,12 @@
     "science-fiction",
     "isaac-asimov",
     "interstellar-trade"
+  ],
+  "links": [
+    {
+      "url": "https://starwars.fandom.com/wiki/Independent_Traders",
+      "title": "Independent Traders - Star Wars Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

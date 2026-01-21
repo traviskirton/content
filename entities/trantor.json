@@ -60,5 +60,17 @@
     "political-center",
     "city-planet",
     "billion-inhabitants"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Trantor",
+      "title": "Trantor - Foundation Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Trantor",
+      "title": "Trantor - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

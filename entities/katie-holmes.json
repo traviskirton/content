@@ -60,5 +60,17 @@
     "joey-potter",
     "dawsons-creek",
     "batman-begins"
+  ],
+  "links": [
+    {
+      "url": "https://www.katieholmes.com/",
+      "title": "Katie Holmes Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Katie_Holmes",
+      "title": "Katie Holmes - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

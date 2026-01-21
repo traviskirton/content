@@ -52,5 +52,12 @@
     "literary-setting",
     "secret-meetings",
     "historic"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hampstead_Heath",
+      "title": "Hampstead Heath - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

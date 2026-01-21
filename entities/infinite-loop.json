@@ -64,5 +64,12 @@
     "cupertino",
     "late-1990s",
     "silicon-valley"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Infinite_Loop_(address)",
+      "title": "Infinite Loop (address) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

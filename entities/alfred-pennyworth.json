@@ -90,5 +90,17 @@
     "british",
     "father-figure",
     "gotham"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Alfred_Pennyworth",
+      "title": "Alfred Pennyworth - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://batman.fandom.com/wiki/Alfred_Pennyworth",
+      "title": "Alfred Pennyworth - Batman Fandom",
+      "type": "fan-wiki"
+    }
   ]
 }

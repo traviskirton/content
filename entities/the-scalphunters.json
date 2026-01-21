@@ -62,5 +62,17 @@
     "mercenaries",
     "shadow-network",
     "high-risk"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tinker_Tailor_Soldier_Spy_(novel)",
+      "title": "Tinker Tailor Soldier Spy - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://tinker-taylor-spy.fandom.com/wiki/The_Scalphunters",
+      "title": "The Scalphunters - Tinker Tailor Spy Wiki (fan-wiki)",
+      "type": "fan-wiki"
+    }
   ]
 }

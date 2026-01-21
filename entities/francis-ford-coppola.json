@@ -81,5 +81,17 @@
     "academy-awards",
     "filmmaking",
     "narrative-depth"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Francis_Ford_Coppola",
+      "title": "Francis Ford Coppola - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.francisfordcoppola.com/",
+      "title": "Francis Ford Coppola Official Website",
+      "type": "official"
+    }
   ]
 }

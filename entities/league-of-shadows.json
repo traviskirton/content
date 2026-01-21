@@ -70,5 +70,17 @@
     "batman",
     "shadow",
     "assassins"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/League_of_Shadows",
+      "title": "League of Shadows - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/League_of_Assassins",
+      "title": "League of Assassins - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

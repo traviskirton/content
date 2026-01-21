@@ -105,5 +105,17 @@
     "power-dynamics",
     "crime-family",
     "francis-ford-coppola"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather_Part_II",
+      "title": "The Godfather Part II - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.paramount.com/movies/godfather-part-ii",
+      "title": "The Godfather Part II - Official Paramount Pictures Page",
+      "type": "official"
+    }
   ]
 }

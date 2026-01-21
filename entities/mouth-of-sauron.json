@@ -61,5 +61,17 @@
     "psychological-warfare",
     "black-gate",
     "dark-magic"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Mouth_of_Sauron",
+      "title": "Mouth of Sauron - The Lord of the Rings Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mouth_of_Sauron",
+      "title": "Mouth of Sauron - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

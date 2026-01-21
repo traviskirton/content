@@ -62,5 +62,17 @@
     "california",
     "jamestown",
     "educational-programs"
+  ],
+  "links": [
+    {
+      "url": "https://www.parks.ca.gov/?page_id=551",
+      "title": "Railtown 1897 State Historic Park - California State Parks",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Railtown_1897_State_Historic_Park",
+      "title": "Railtown 1897 State Historic Park - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

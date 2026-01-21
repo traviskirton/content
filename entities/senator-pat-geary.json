@@ -59,5 +59,17 @@
     "us-politics",
     "nevada",
     "power"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather_Part_II#Cast_and_characters",
+      "title": "The Godfather Part II - Cast and characters - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Senator_Pat_Geary",
+      "title": "Senator Pat Geary - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

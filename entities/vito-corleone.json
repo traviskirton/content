@@ -73,5 +73,17 @@
     "new-york",
     "family-loyalty",
     "strategic-mind"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Vito_Corleone",
+      "title": "Vito Corleone - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Vito_Corleone",
+      "title": "Vito Corleone - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

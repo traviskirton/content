@@ -69,5 +69,17 @@
     "social-ambition",
     "merchant-ship",
     "early-19th-century"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo",
+      "title": "The Count of Monte Cristo - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://dc.fandom.com/wiki/Danglars",
+      "title": "Danglars - Fandom (fictional characters)",
+      "type": "fan-wiki"
+    }
   ]
 }

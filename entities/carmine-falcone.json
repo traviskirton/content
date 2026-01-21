@@ -64,5 +64,17 @@
     "corruption",
     "power",
     "criminal-underworld"
+  ],
+  "links": [
+    {
+      "url": "https://dc.fandom.com/wiki/Carmine_Falcone",
+      "title": "Carmine Falcone (DC Database)",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carmine_Falcone",
+      "title": "Carmine Falcone - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

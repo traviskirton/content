@@ -79,5 +79,17 @@
     "science",
     "historical",
     "research-facility"
+  ],
+  "links": [
+    {
+      "url": "https://www.lanl.gov/",
+      "title": "Los Alamos National Laboratory Official Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory",
+      "title": "Los Alamos National Laboratory - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

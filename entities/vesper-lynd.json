@@ -61,5 +61,17 @@
     "diplomatic",
     "emotional-conflict",
     "complex-character"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Vesper_Lynd",
+      "title": "Vesper Lynd - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://007.fandom.com/wiki/Vesper_Lynd",
+      "title": "Vesper Lynd - 007 Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -53,5 +53,17 @@
     "stone-hut",
     "granite",
     "timeless"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dartmoor",
+      "title": "Dartmoor - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Neolithic_architecture_of_Dartmoor",
+      "title": "Neolithic architecture of Dartmoor - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

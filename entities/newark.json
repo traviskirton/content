@@ -51,5 +51,17 @@
     "filming-location",
     "brick-city",
     "cultural-hub"
+  ],
+  "links": [
+    {
+      "url": "https://www.newarknj.gov/",
+      "title": "City of Newark Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Newark,_New_Jersey",
+      "title": "Newark, New Jersey - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

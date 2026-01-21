@@ -74,5 +74,17 @@
     "galactic-scale",
     "seldon-plan",
     "mathematical-sociology"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Psychohistory_(fictional)",
+      "title": "Psychohistory (fictional) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://foundation.fandom.com/wiki/Psychohistory",
+      "title": "Psychohistory - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

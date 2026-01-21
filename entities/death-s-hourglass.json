@@ -63,5 +63,12 @@
     "cosmology",
     "universal-balance",
     "mystical-device"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/Death%27s_hourglass",
+      "title": "Death's hourglass - Discworld Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

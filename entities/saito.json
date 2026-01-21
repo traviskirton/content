@@ -63,5 +63,17 @@
     "corporate-espionage",
     "dream-sharing-technology",
     "ken-watanabe"
+  ],
+  "links": [
+    {
+      "url": "https://inception.fandom.com/wiki/Mr._Saito",
+      "title": "Mr. Saito - Inception Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Inception#Cast",
+      "title": "Inception - Cast - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

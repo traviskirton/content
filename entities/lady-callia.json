@@ -70,5 +70,12 @@
     "secret-agent",
     "psychohistory",
     "mental-manipulation"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Callia",
+      "title": "Callia - Foundation Fandom",
+      "type": "fan-wiki"
+    }
   ]
 }

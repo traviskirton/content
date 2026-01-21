@@ -66,5 +66,17 @@
     "sci-fi",
     "dream-sharing",
     "inception"
+  ],
+  "links": [
+    {
+      "url": "https://inception.fandom.com/wiki/PASIV_Device",
+      "title": "PASIV Device - Inception Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1375666/",
+      "title": "Inception (2010) - IMDb",
+      "type": "database"
+    }
   ]
 }

@@ -57,5 +57,12 @@
     "resort-city",
     "nightlife",
     "spy-thriller"
+  ],
+  "links": [
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Miami",
+      "title": "Miami (James Bond) - James Bond Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -57,5 +57,17 @@
     "221b-baker-street",
     "kindly",
     "steady-presence"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mrs_Hudson",
+      "title": "Mrs. Hudson - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://sherlock.fandom.com/wiki/Mrs._Hudson",
+      "title": "Mrs. Hudson - Sherlock Fandom",
+      "type": "fan-wiki"
+    }
   ]
 }

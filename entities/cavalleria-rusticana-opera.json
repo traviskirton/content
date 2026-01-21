@@ -68,5 +68,17 @@
     "betrayal",
     "vengeance",
     "classical-music"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cavalleria_rusticana",
+      "title": "Cavalleria rusticana - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.allmusic.com/composition/cavalleria-rusticana-opera-mc0002392095",
+      "title": "Cavalleria rusticana (Opera) - AllMusic",
+      "type": "database"
+    }
   ]
 }

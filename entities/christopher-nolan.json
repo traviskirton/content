@@ -30,7 +30,7 @@
       "type": "directed",
       "target": "278eef75-2ad5-4241-b689-e4ea9f35ac58"
     },
-        {
+    {
       "type": "directed",
       "target": "9b8c7d6e-5f2a-4f23-a820-c0f1fce13248"
     },
@@ -183,5 +183,17 @@
     "dreamlike",
     "complex-plots",
     "film-author"
+  ],
+  "links": [
+    {
+      "url": "https://www.nolanfans.com",
+      "title": "Christopher Nolan Official Fan Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christopher_Nolan",
+      "title": "Christopher Nolan - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

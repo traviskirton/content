@@ -69,5 +69,17 @@
     "childhood-loss",
     "emotional-center",
     "organized-crime"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mary_Corleone",
+      "title": "Mary Corleone - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Mary_Corleone",
+      "title": "Mary Corleone - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -60,5 +60,17 @@
     "tactical",
     "negotiator",
     "betrayal"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_The_Godfather_characters#Salvatore_Tessio",
+      "title": "List of The Godfather characters - Wikipedia (Salvatore Tessio)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Salvatore_Tessio",
+      "title": "Salvatore Tessio - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

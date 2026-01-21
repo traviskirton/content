@@ -54,5 +54,12 @@
     "crime",
     "action",
     "2020s"
+  ],
+  "links": [
+    {
+      "url": "https://dc.fandom.com/wiki/Gotham_Square_Garden",
+      "title": "Gotham Square Garden - DC Database",
+      "type": "fan-wiki"
+    }
   ]
 }

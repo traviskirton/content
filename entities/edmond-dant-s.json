@@ -82,5 +82,17 @@
     "forgiveness",
     "strategic-thinker",
     "disguise"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Edmond_Dant%C3%A8s",
+      "title": "Edmond Dantès - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo",
+      "title": "The Count of Monte Cristo - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

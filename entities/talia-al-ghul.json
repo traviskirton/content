@@ -68,5 +68,17 @@
     "gotham",
     "dark-knight-rises",
     "marion-cotillard"
+  ],
+  "links": [
+    {
+      "url": "https://dc.fandom.com/wiki/Talia_al_Ghul_(New_Earth)",
+      "title": "Talia al Ghul - DC Database",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Talia_al_Ghul",
+      "title": "Talia al Ghul - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

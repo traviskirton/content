@@ -58,5 +58,17 @@
     "plains",
     "third-age",
     "final-battle"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Pelennor_Fields",
+      "title": "Pelennor Fields - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Pelennor_Fields",
+      "title": "Battle of the Pelennor Fields - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

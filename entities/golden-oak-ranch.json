@@ -56,5 +56,17 @@
     "disney",
     "california",
     "production-studio"
+  ],
+  "links": [
+    {
+      "url": "https://disneyparks.disney.go.com/us/disney-california-adventure/golden-oak-ranch/",
+      "title": "Disney's Golden Oak Ranch - Official Disney Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Golden_Oak_Ranch",
+      "title": "Golden Oak Ranch - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

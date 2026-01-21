@@ -59,5 +59,17 @@
     "art-culture",
     "filming-location",
     "fashion"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Paris",
+      "title": "Paris - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://en.parisinfo.com/",
+      "title": "Paris Convention and Visitors Bureau - Official Tourism Site",
+      "type": "official"
+    }
   ]
 }

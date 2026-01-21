@@ -50,5 +50,12 @@
     "gothic-architecture",
     "iconic-scene",
     "vandalism"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Flugelheim_Museum",
+      "title": "Flugelheim Museum - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

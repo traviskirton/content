@@ -60,5 +60,17 @@
     "tinker-tailor-soldier-spy",
     "counterintelligence",
     "betrayal"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Mole_(TV_series)",
+      "title": "The Mole (TV series) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Spy_Who_Came_in_from_the_Cold",
+      "title": "The Spy Who Came in from the Cold - Wikipedia (context on moles in spy fiction)",
+      "type": "wiki"
+    }
   ]
 }

@@ -42,5 +42,12 @@
     "yacht-marinas",
     "private-beaches",
     "elegant-villas"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Amalfi_Coast",
+      "title": "Amalfi Coast - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

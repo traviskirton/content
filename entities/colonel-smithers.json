@@ -56,5 +56,17 @@
     "intelligence",
     "british-spy",
     "cold-war"
+  ],
+  "links": [
+    {
+      "url": "https://007.fandom.com/wiki/Smithers",
+      "title": "Smithers - 007 Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Goldfinger_(film)",
+      "title": "Goldfinger (film) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -63,5 +63,12 @@
     "corrupt",
     "villa-straylight",
     "family-control"
+  ],
+  "links": [
+    {
+      "url": "https://cyberpunk.fandom.com/wiki/Tessier-Ashpool_S.A.",
+      "title": "Tessier-Ashpool S.A. - Cyberpunk Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

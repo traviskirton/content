@@ -70,5 +70,17 @@
     "vengeance",
     "outsider",
     "aristocracy-rejection"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Penguin_(character)",
+      "title": "Penguin (character) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://batman.fandom.com/wiki/Penguin",
+      "title": "Penguin - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

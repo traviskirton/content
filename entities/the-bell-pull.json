@@ -59,5 +59,17 @@
     "victorian-mystery",
     "crime-fiction",
     "poisonous-snake"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Adventure_of_the_Speckled_Band#Bell-pull",
+      "title": "The Bell-Pull - Section in Wikipedia (The Adventure of the Speckled Band)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://conan-doyle.fandom.com/wiki/Bell-pull",
+      "title": "Bell-pull - Conan Doyle Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

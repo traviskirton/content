@@ -58,5 +58,12 @@
     "fog",
     "atmospheric",
     "baskerville-estate"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Coombe_Tracey",
+      "title": "Coombe Tracey - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

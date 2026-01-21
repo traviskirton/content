@@ -63,5 +63,17 @@
     "mehrangarh-fort",
     "filming-location",
     "tourist-destination"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jodhpur",
+      "title": "Jodhpur - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.rajasthantourplanner.com/jodhpur-tourism.html",
+      "title": "Jodhpur Travel Guide - RajasthanTourPlanner",
+      "type": "official"
+    }
   ]
 }

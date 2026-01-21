@@ -70,5 +70,17 @@
     "protection-rackets",
     "illegal-gambling",
     "classic-mafia"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Corleone_family",
+      "title": "Corleone Family - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Corleone_family",
+      "title": "Corleone Crime Family - Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

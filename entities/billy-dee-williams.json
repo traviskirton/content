@@ -60,5 +60,17 @@
     "charismatic",
     "award-winning",
     "voice-work"
+  ],
+  "links": [
+    {
+      "url": "https://www.billydeewilliams.com/",
+      "title": "Billy Dee Williams Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Billy_Dee_Williams",
+      "title": "Billy Dee Williams - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

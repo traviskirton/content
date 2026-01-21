@@ -104,5 +104,17 @@
     "masked-hero",
     "billionaire",
     "alfred-pennyworth"
+  ],
+  "links": [
+    {
+      "url": "https://dc.com/characters/batman",
+      "title": "Batman - Official DC Characters",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bruce_Wayne",
+      "title": "Bruce Wayne - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

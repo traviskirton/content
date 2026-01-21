@@ -56,5 +56,12 @@
     "victorian-era",
     "mystery",
     "illusion"
+  ],
+  "links": [
+    {
+      "url": "https://theprestige.fandom.com/wiki/London",
+      "title": "London - The Prestige Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

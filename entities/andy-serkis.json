@@ -73,5 +73,17 @@
     "groundbreaking",
     "english",
     "theatre"
+  ],
+  "links": [
+    {
+      "url": "https://www.andyserkis.com/",
+      "title": "Andy Serkis Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andy_Serkis",
+      "title": "Andy Serkis - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -61,5 +61,17 @@
     "negotiator",
     "strategist",
     "criminal-underworld"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hyman_Roth",
+      "title": "Hyman Roth - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Hyman_Roth",
+      "title": "Hyman Roth - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

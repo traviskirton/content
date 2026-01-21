@@ -68,5 +68,12 @@
     "clergy",
     "secretive",
     "financial-influence"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Institute_for_the_Works_of_Religion",
+      "title": "Institute for the Works of Religion (Vatican Bank) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -241,5 +241,17 @@
   ],
   "aliases": [
     "TENET"
+  ],
+  "links": [
+    {
+      "url": "https://www.warnerbros.com/movies/tenet",
+      "title": "TENET - Official Warner Bros. Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tenet_(film)",
+      "title": "Tenet (film) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

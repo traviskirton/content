@@ -53,5 +53,12 @@
     "intelligence-gathering",
     "political-thriller",
     "international-relations"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Paris",
+      "title": "Paris - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

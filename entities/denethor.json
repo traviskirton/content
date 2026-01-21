@@ -65,5 +65,17 @@
     "mental-decline",
     "palantir",
     "fantasy"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Denethor",
+      "title": "Denethor - The Lord of the Rings Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Denethor",
+      "title": "Denethor - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

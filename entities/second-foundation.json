@@ -71,5 +71,17 @@
     "telepathy",
     "shadow-governance",
     "seldon-plan"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Second_Foundation",
+      "title": "Second Foundation - Foundation Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Foundation_series",
+      "title": "Foundation series - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

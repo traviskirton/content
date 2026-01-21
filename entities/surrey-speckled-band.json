@@ -52,5 +52,17 @@
     "rural-atmosphere",
     "moors",
     "classic-mystery"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Surrey",
+      "title": "Surrey - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://sherlockholmes.fandom.com/wiki/Stoke_Moran,_Surrey",
+      "title": "Stoke Moran, Surrey - Sherlock Holmes Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

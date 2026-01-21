@@ -65,5 +65,17 @@
     "television",
     "supporting-roles",
     "award-nominee"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Eric_Roberts",
+      "title": "Eric Roberts - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0734382/",
+      "title": "Eric Roberts - IMDb",
+      "type": "database"
+    }
   ]
 }

@@ -59,5 +59,17 @@
     "organized-crime",
     "mafia-influence",
     "classic-hollywood"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jack_Woltz",
+      "title": "Jack Woltz - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://the-godfather.fandom.com/wiki/Jack_Woltz",
+      "title": "Jack Woltz - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

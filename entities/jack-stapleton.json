@@ -67,5 +67,17 @@
     "natural-sciences",
     "botany",
     "psychological-manipulation"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles",
+      "title": "The Hound of the Baskervilles - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://sherlock-holmes.fandom.com/wiki/Jack_Stapleton",
+      "title": "Jack Stapleton - Sherlock Holmes Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

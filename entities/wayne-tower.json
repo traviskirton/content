@@ -64,5 +64,17 @@
     "corporate-headquarters",
     "urban-icon",
     "dark-knight-trilogy"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Wayne_Tower",
+      "title": "Wayne Tower - DC Database (Fandom)",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wayne_Tower",
+      "title": "Wayne Tower - Wikipedia (redirects to Wayne Enterprises or Batman related)",
+      "type": "wiki"
+    }
   ]
 }

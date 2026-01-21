@@ -66,5 +66,17 @@
     "acrobatic",
     "nine-lives",
     "feline-intuition"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Catwoman#Film",
+      "title": "Catwoman (Michelle Pfeiffer) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://batman.fandom.com/wiki/Selina_Kyle_(DC_Extended_Universe)",
+      "title": "Selina Kyle (Michelle Pfeiffer) - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

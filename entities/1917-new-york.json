@@ -57,5 +57,12 @@
     "the-godfather-part-ii",
     "family-origins",
     "urban-life"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_New_York_City#Early_20th_century",
+      "title": "History of New York City - Early 20th century - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

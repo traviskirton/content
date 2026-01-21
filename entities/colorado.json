@@ -49,5 +49,17 @@
     "hiking",
     "mountain-biking",
     "film-location"
+  ],
+  "links": [
+    {
+      "url": "https://www.colorado.gov/",
+      "title": "State of Colorado Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colorado",
+      "title": "Colorado - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

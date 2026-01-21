@@ -62,5 +62,12 @@
     "covert-operations",
     "spy-thriller",
     "mossad"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Smiley%27s_People",
+      "title": "Smiley's People - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

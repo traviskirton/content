@@ -68,5 +68,17 @@
     "manchester-by-the-sea",
     "gone-baby-gone",
     "american-cinema"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Casey_Affleck",
+      "title": "Casey Affleck - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.caseyaffleck.com/",
+      "title": "Casey Affleck Official Website",
+      "type": "official"
+    }
   ]
 }

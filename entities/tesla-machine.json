@@ -65,5 +65,12 @@
     "energy-weapon",
     "electrical",
     "science-fiction"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nikola_Tesla#Inventions",
+      "title": "Nikola Tesla - Inventions - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

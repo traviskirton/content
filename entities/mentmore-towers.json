@@ -55,5 +55,17 @@
     "rothschild",
     "batman",
     "wayne-manor"
+  ],
+  "links": [
+    {
+      "url": "https://www.mentmore.org.uk/",
+      "title": "Mentmore Towers Official Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mentmore_Towers",
+      "title": "Mentmore Towers - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -67,5 +67,17 @@
     "versatile-actor",
     "academy-award-winner",
     "charitable-work"
+  ],
+  "links": [
+    {
+      "url": "https://www.mattdamonofficial.com/",
+      "title": "Matt Damon Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Matt_Damon",
+      "title": "Matt Damon - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

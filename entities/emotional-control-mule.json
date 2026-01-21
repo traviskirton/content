@@ -65,5 +65,12 @@
     "political-influence",
     "free-will",
     "philosophical"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Mule_(Character)",
+      "title": "Mule - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

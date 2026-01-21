@@ -76,5 +76,17 @@
     "impact",
     "character-driven",
     "method-acting"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Heath_Ledger",
+      "title": "Heath Ledger - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0005132/",
+      "title": "Heath Ledger - IMDb",
+      "type": "database"
+    }
   ]
 }

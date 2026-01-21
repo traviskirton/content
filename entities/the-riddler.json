@@ -62,5 +62,17 @@
     "dark-knight",
     "intellectual",
     "obsession"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Riddler",
+      "title": "Riddler - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://batman.fandom.com/wiki/Riddler",
+      "title": "Riddler - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

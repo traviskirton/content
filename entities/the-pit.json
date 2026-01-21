@@ -54,5 +54,17 @@
     "imprisonment",
     "bruce-wayne",
     "underground"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/The_Pit",
+      "title": "The Pit - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://dc.fandom.com/wiki/The_Pit",
+      "title": "The Pit - DC Database",
+      "type": "fan-wiki"
+    }
   ]
 }

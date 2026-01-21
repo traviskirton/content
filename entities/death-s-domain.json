@@ -59,5 +59,12 @@
     "ethereal",
     "timeless",
     "whimsical"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/Death%27s_Domain",
+      "title": "Death's Domain - Discworld Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

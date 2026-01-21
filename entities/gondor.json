@@ -64,5 +64,17 @@
     "endurance",
     "human-valor",
     "stewardship"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Gondor",
+      "title": "Gondor - The One Wiki to Rule Them All (LOTR)",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gondor",
+      "title": "Gondor - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

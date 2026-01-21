@@ -138,5 +138,17 @@
     "telepathy",
     "secret-society",
     "foundation-universe"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Foundation",
+      "title": "Second Foundation - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.goodreads.com/book/show/27189.Second_Foundation",
+      "title": "Second Foundation - Goodreads",
+      "type": "database"
+    }
   ]
 }

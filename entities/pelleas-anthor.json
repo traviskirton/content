@@ -63,5 +63,12 @@
     "political-manipulation",
     "mental-abilities",
     "strategist"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Pelleas_Anthor",
+      "title": "Pelleas Anthor - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

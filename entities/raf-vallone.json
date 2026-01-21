@@ -61,5 +61,12 @@
     "classic-cinema",
     "character-actor",
     "dramatic"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Raf_Vallone",
+      "title": "Raf Vallone - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

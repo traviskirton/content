@@ -53,5 +53,12 @@
     "urban-landmark",
     "holiday-celebration",
     "fictional-location"
+  ],
+  "links": [
+    {
+      "url": "https://dc.fandom.com/wiki/Gotham_Plaza",
+      "title": "Gotham Plaza - DC Database",
+      "type": "fan-wiki"
+    }
   ]
 }

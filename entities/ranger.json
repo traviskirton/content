@@ -54,5 +54,17 @@
     "sci-fi",
     "exploration",
     "interstellar"
+  ],
+  "links": [
+    {
+      "url": "https://fictionalvehicles.fandom.com/wiki/Ranger_(Interstellar)",
+      "title": "Ranger (Interstellar) - Fictional Vehicles Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://memory-alpha.fandom.com/wiki/Ranger",
+      "title": "Ranger (Star Trek shuttlecraft) - Memory Alpha (Note: different context but same vehicle name)",
+      "type": "fan-wiki"
+    }
   ]
 }

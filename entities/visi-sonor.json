@@ -67,5 +67,12 @@
     "interstellar-communication",
     "advanced-technology",
     "subspace-transmission"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Visi-Sonor",
+      "title": "Visi-Sonor - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

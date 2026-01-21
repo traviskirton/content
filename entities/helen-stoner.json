@@ -69,5 +69,17 @@
     "stoke-moran",
     "fiancée",
     "survivor"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Adventure_of_the_Speckled_Band#Characters",
+      "title": "Characters in The Adventure of the Speckled Band - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://sherlock-holmes.fandom.com/wiki/Helen_Stoner",
+      "title": "Helen Stoner | Sherlock Holmes Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

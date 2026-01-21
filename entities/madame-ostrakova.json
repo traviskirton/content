@@ -61,5 +61,12 @@
     "intelligence",
     "secret-agent",
     "covert-operations"
+  ],
+  "links": [
+    {
+      "url": "https://lecarre.fandom.com/wiki/Madame_Ostrakova",
+      "title": "Madame Ostrakova - LeCarré Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

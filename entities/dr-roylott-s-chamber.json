@@ -58,5 +58,12 @@
     "west-wing",
     "exotic-artifacts",
     "hidden-trap"
+  ],
+  "links": [
+    {
+      "url": "https://sherlock-holmes.fandom.com/wiki/West_Wing_Chamber",
+      "title": "Dr. Roylott's Chamber - Sherlock Holmes Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

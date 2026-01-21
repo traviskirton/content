@@ -62,5 +62,17 @@
     "new-york",
     "tattaglia-crime-family",
     "mobster"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Philip_Tattaglia",
+      "title": "Philip Tattaglia - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Philip_Tattaglia",
+      "title": "Philip Tattaglia - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

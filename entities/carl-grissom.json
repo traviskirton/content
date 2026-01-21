@@ -57,5 +57,17 @@
     "underworld",
     "batman",
     "jack-palance"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Carl_Grissom",
+      "title": "Carl Grissom - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0096895/characters/nm0000686",
+      "title": "Batman (1989) - IMDb Character Listing",
+      "type": "database"
+    }
   ]
 }

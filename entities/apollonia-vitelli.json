@@ -55,5 +55,17 @@
     "1970s-cinema",
     "italian",
     "film-character"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Apollonia_Vitelli",
+      "title": "Apollonia Vitelli - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Apollonia_Vitelli-Corleone",
+      "title": "Apollonia Vitelli-Corleone - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -64,5 +64,17 @@
     "time-inversion",
     "calculated",
     "intelligent"
+  ],
+  "links": [
+    {
+      "url": "https://tenet.fandom.com/wiki/Priya",
+      "title": "Priya - Tenet Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt6723592/characters/nm4794568",
+      "title": "Tenet (2020) - IMDb Cast & Characters",
+      "type": "database"
+    }
   ]
 }

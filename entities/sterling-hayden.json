@@ -65,5 +65,17 @@
     "rugged-charisma",
     "naturalistic-acting",
     "memorable-roles"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sterling_Hayden",
+      "title": "Sterling Hayden - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0375058/",
+      "title": "Sterling Hayden - IMDb",
+      "type": "database"
+    }
   ]
 }

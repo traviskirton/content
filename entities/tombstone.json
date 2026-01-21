@@ -58,5 +58,12 @@
     "artifact",
     "macguffin",
     "time-travel"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Tombstone",
+      "title": "Tombstone - Back to the Future Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

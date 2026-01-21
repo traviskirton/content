@@ -52,5 +52,17 @@
     "nfl",
     "sports-venue",
     "pittsburgh-steelers"
+  ],
+  "links": [
+    {
+      "url": "https://www.heinzfield.com/",
+      "title": "Heinz Field Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Heinz_Field",
+      "title": "Heinz Field - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

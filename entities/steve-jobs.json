@@ -69,5 +69,17 @@
     "digital-revolution",
     "visionary",
     "charismatic-leadership"
+  ],
+  "links": [
+    {
+      "url": "https://www.apple.com/stevejobs/",
+      "title": "Steve Jobs - Apple Official Page",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Steve_Jobs",
+      "title": "Steve Jobs - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

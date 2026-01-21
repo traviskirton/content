@@ -85,5 +85,17 @@
     "friendship",
     "quest",
     "high-fantasy"
+  ],
+  "links": [
+    {
+      "url": "https://www.lordoftherings.net/",
+      "title": "The Official Lord of the Rings Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings",
+      "title": "The Lord of the Rings - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

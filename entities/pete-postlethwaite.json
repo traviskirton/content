@@ -56,5 +56,17 @@
   },
   "tags": [
     "drama"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Pete_Postlethwaite",
+      "title": "Pete Postlethwaite - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0000593/",
+      "title": "Pete Postlethwaite - IMDb",
+      "type": "database"
+    }
   ]
 }

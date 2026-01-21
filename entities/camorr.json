@@ -59,5 +59,12 @@
     "urban-fantasy",
     "canals",
     "crime-lords"
+  ],
+  "links": [
+    {
+      "url": "https://thelocksleyhouse.fandom.com/wiki/Camorr",
+      "title": "Camorr - Locksley House Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

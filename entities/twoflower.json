@@ -62,5 +62,17 @@
     "optimism",
     "exploration",
     "ankh-morpork"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/Twoflower",
+      "title": "Twoflower - Discworld Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Discworld#Twoflower",
+      "title": "Discworld - Wikipedia (Twoflower section)",
+      "type": "wiki"
+    }
   ]
 }

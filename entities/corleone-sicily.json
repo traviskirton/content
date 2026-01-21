@@ -53,5 +53,12 @@
     "organized-crime",
     "mediterranean",
     "historic-town"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Corleone",
+      "title": "Corleone - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -81,5 +81,17 @@
     "character-driven",
     "hollywood",
     "classic-films"
+  ],
+  "links": [
+    {
+      "url": "https://www.dianekeaton.com/",
+      "title": "Diane Keaton Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Diane_Keaton",
+      "title": "Diane Keaton - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -53,5 +53,12 @@
     "traffic-junction",
     "west-end",
     "victorian-architecture"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cambridge_Circus,_London",
+      "title": "Cambridge Circus, London - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

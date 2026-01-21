@@ -70,5 +70,17 @@
     "fierce-independence",
     "bullwhip",
     "mental-transformation"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Catwoman_(Selina_Kyle)",
+      "title": "Catwoman (Selina Kyle) - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Catwoman#Batman_Returns",
+      "title": "Catwoman - Batman Returns - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

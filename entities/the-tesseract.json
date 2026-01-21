@@ -54,5 +54,17 @@
     "interstellar",
     "gravity-anomaly",
     "nonlinear-space"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tesseract_(four-dimensional_geometry)",
+      "title": "Tesseract - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://mathworld.wolfram.com/Tesseract.html",
+      "title": "Tesseract - Wolfram MathWorld",
+      "type": "wiki"
+    }
   ]
 }

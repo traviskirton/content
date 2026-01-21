@@ -55,5 +55,12 @@
     "historical",
     "spiritual-power",
     "corruption"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Vatican_City",
+      "title": "Vatican City - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

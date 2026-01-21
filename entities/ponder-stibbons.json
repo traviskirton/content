@@ -67,5 +67,17 @@
     "academic",
     "magical-theory",
     "pratchett"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/Ponder_Stibbons",
+      "title": "Ponder Stibbons - Discworld Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Discworld_characters#Ponder_Stibbons",
+      "title": "Discworld Characters - Wikipedia (section including Ponder Stibbons)",
+      "type": "wiki"
+    }
   ]
 }

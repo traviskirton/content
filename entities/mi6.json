@@ -70,5 +70,17 @@
     "field-agents",
     "geopolitical-stability",
     "covert-diplomacy"
+  ],
+  "links": [
+    {
+      "url": "https://www.sis.gov.uk/",
+      "title": "Secret Intelligence Service (MI6) Official Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Secret_Intelligence_Service",
+      "title": "MI6 - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

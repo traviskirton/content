@@ -56,5 +56,17 @@
     "switzerland",
     "goldfinger",
     "political-intrigue"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Geneva",
+      "title": "Geneva - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://007.fandom.com/wiki/Geneva",
+      "title": "Geneva - James Bond Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

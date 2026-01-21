@@ -100,5 +100,17 @@
     "europe",
     "united-kingdom",
     "british-culture"
+  ],
+  "links": [
+    {
+      "url": "https://www.gov.uk/",
+      "title": "UK Government Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_Kingdom",
+      "title": "United Kingdom - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

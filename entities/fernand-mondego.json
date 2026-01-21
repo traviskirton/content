@@ -65,5 +65,12 @@
   "aliases": [
     "Fernand",
     "Count de Morcerf"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Fernand_Mondego",
+      "title": "Fernand Mondego - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

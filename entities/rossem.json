@@ -54,5 +54,12 @@
     "galactic-empire",
     "economic-hub",
     "urban-centers"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Rossem",
+      "title": "Rossem - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

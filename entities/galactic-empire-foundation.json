@@ -69,5 +69,17 @@
     "interstellar",
     "bureaucracy",
     "decline"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Galactic_Empire",
+      "title": "Galactic Empire - Foundation Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Foundation_series#Galactic_Empire",
+      "title": "Foundation series - Wikipedia (Galactic Empire section)",
+      "type": "wiki"
+    }
   ]
 }

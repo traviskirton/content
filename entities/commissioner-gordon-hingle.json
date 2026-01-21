@@ -70,5 +70,17 @@
     "trustworthy",
     "pragmatic",
     "crime-fighter"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Commissioner_James_Gordon_(Burton_films)",
+      "title": "Commissioner James Gordon (Burton films) - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pat_Hingle",
+      "title": "Pat Hingle - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -85,5 +85,12 @@
     "political-intrigue",
     "military-strategy",
     "future-history"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Foundation_and_Empire",
+      "title": "Foundation and Empire - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

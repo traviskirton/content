@@ -71,5 +71,17 @@
     "strategic",
     "family-loyalty",
     "calculation"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Michael_Corleone",
+      "title": "Michael Corleone - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Michael_Corleone",
+      "title": "Michael Corleone - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

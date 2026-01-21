@@ -63,5 +63,12 @@
     "identity",
     "redemption",
     "survivor"
+  ],
+  "links": [
+    {
+      "url": "https://cyberpunk.fandom.com/wiki/Sally_Shears",
+      "title": "Sally Shears - Cyberpunk Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

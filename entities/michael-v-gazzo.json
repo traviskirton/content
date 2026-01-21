@@ -54,5 +54,12 @@
     "character-actor",
     "mobster",
     "stage-and-screen"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Michael_V._Gazzo",
+      "title": "Michael V. Gazzo - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

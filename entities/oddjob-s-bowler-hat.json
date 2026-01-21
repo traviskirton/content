@@ -57,5 +57,17 @@
     "bond-villains",
     "gadget",
     "throwing-weapon"
+  ],
+  "links": [
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Oddjob%27s_Bowler_Hat",
+      "title": "Oddjob's Bowler Hat - James Bond Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0058150/",
+      "title": "Goldfinger (1964) - IMDb",
+      "type": "database"
+    }
   ]
 }

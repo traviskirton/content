@@ -87,5 +87,17 @@
     "american",
     "superhero-genre",
     "warner-bros-discovery"
+  ],
+  "links": [
+    {
+      "url": "https://www.dccomics.com/",
+      "title": "DC Comics Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/DC_Comics",
+      "title": "DC Comics - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

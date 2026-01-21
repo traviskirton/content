@@ -72,5 +72,17 @@
     "loyalty",
     "deception",
     "social-stratification"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Lies_of_Locke_Lamora",
+      "title": "The Lies of Locke Lamora - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.goodreads.com/book/show/127455.The_Lies_of_Locke_Lamora",
+      "title": "The Lies of Locke Lamora - Goodreads",
+      "type": "database"
+    }
   ]
 }

@@ -75,5 +75,17 @@
     "golden-globe-nominee",
     "broadway",
     "character-actor"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jeffrey_Wright",
+      "title": "Jeffrey Wright - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0947798/",
+      "title": "Jeffrey Wright - IMDb",
+      "type": "database"
+    }
   ]
 }

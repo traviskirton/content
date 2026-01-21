@@ -55,5 +55,12 @@
     "sherlock-holmes",
     "crime-solving",
     "british-literature"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Greg_Lestrade",
+      "title": "Greg Lestrade - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

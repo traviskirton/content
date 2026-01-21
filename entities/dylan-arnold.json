@@ -49,5 +49,17 @@
     "emerging-actor",
     "indie",
     "film-and-television"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dylan_Arnold",
+      "title": "Dylan Arnold - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.instagram.com/dylan_arnold/",
+      "title": "Dylan Arnold on Instagram",
+      "type": "official"
+    }
   ]
 }

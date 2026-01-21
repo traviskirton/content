@@ -62,5 +62,17 @@
     "espionage",
     "female-leader",
     "bond-universe"
+  ],
+  "links": [
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Pussy_Galore",
+      "title": "Pussy Galore - James Bond Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pussy_Galore",
+      "title": "Pussy Galore - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

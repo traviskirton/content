@@ -76,5 +76,12 @@
     "organized-crime",
     "atmospheric",
     "crime-ridden"
+  ],
+  "links": [
+    {
+      "url": "https://dc.fandom.com/wiki/44_Below_(New_Earth)",
+      "title": "44 Below - DC Database (DC Fan Wiki)",
+      "type": "fan-wiki"
+    }
   ]
 }

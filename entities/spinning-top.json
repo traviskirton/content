@@ -65,5 +65,17 @@
     "dom-cobb",
     "totem",
     "inception"
+  ],
+  "links": [
+    {
+      "url": "https://inception.fandom.com/wiki/Spinning_top",
+      "title": "Spinning Top - Inception Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Inception#Totems",
+      "title": "Inception - Wikipedia (Totems Section)",
+      "type": "wiki"
+    }
   ]
 }

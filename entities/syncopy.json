@@ -87,5 +87,17 @@
     "blockbuster",
     "innovative",
     "high-quality"
+  ],
+  "links": [
+    {
+      "url": "https://www.syncopyinc.com/",
+      "title": "Syncopy Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Syncopy_Films",
+      "title": "Syncopy Films - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -88,5 +88,12 @@
     "cult-classic",
     "vocal-performance",
     "versatile"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Christopher_Lloyd",
+      "title": "Christopher Lloyd - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

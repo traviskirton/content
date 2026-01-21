@@ -66,5 +66,17 @@
     "007",
     "cold-war",
     "spy"
+  ],
+  "links": [
+    {
+      "url": "https://www.007.com/",
+      "title": "007 James Bond Official Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/James_Bond",
+      "title": "James Bond - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

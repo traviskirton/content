@@ -58,5 +58,12 @@
     "clandestine-operations",
     "counterintelligence",
     "spy-network"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Spy_Who_Came_in_from_the_Cold",
+      "title": "The Spy Who Came in from the Cold - Wikipedia (Otto Leipzig is a character in the novel)",
+      "type": "wiki"
+    }
   ]
 }

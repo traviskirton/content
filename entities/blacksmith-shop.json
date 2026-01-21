@@ -51,5 +51,17 @@
     "delorean",
     "frontier",
     "19th-century"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Doc_Brown%27s_Blacksmith_Shop",
+      "title": "Doc Brown's Blacksmith Shop - Back to the Future Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_III",
+      "title": "Back to the Future Part III - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

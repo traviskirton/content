@@ -57,5 +57,17 @@
     "gandalf",
     "foe-hammer",
     "ancient"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Glamdring",
+      "title": "Glamdring - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Glamdring",
+      "title": "Glamdring - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -54,5 +54,17 @@
     "space-opera",
     "post-empire",
     "decay"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Neotrantor",
+      "title": "Neotrantor - Foundation Wiki (fan wiki about Trantor)",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Trantor",
+      "title": "Trantor - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

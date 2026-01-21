@@ -57,5 +57,12 @@
     "organized-crime",
     "crime-lords"
   ],
-  "facets": {}
+  "facets": {},
+  "links": [
+    {
+      "url": "https://fable.fandom.com/wiki/The_Right_People",
+      "title": "The Right People - Fable Wiki (fan-wiki)",
+      "type": "fan-wiki"
+    }
+  ]
 }

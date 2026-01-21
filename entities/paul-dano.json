@@ -63,5 +63,17 @@
     "mainstream",
     "complex-characters",
     "versatile"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Paul_Dano",
+      "title": "Paul Dano - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.pauldano.com/",
+      "title": "Paul Dano Official Website",
+      "type": "official"
+    }
   ]
 }

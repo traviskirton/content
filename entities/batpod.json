@@ -71,5 +71,17 @@
     "agile",
     "tactical",
     "specialized-motorcycle"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Batpod",
+      "title": "Batpod - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Batpod",
+      "title": "Batpod - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -62,5 +62,17 @@
     "complex-characters",
     "hollywood",
     "international-cinema"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jason_Clarke_(actor)",
+      "title": "Jason Clarke - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0168409/",
+      "title": "Jason Clarke - IMDb",
+      "type": "database"
+    }
   ]
 }

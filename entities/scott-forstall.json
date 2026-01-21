@@ -64,5 +64,12 @@
     "user-experience",
     "mobile-first",
     "startup-culture"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Scott_Forstall",
+      "title": "Scott Forstall - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

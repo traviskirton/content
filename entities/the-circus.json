@@ -63,5 +63,17 @@
     "intelligence-agency",
     "secret-service",
     "british-spies"
+  ],
+  "links": [
+    {
+      "url": "https://www.sis.gov.uk/",
+      "title": "Secret Intelligence Service (MI6) Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Secret_Intelligence_Service",
+      "title": "Secret Intelligence Service - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

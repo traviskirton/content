@@ -57,5 +57,12 @@
     "film",
     "mentor",
     "hollywood"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Lee_Strasberg",
+      "title": "Lee Strasberg - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

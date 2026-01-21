@@ -65,5 +65,17 @@
     "historical-buildings",
     "film-location",
     "cultural-heritage"
+  ],
+  "links": [
+    {
+      "url": "https://www.liverpoolcityregion-ca.gov.uk/",
+      "title": "Liverpool City Region Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Liverpool",
+      "title": "Liverpool - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

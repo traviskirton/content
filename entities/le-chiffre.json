@@ -60,5 +60,17 @@
     "fictional-character",
     "criminal-mastermind",
     "psychological"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Le_Chiffre",
+      "title": "Le Chiffre - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Le_Chiffre",
+      "title": "Le Chiffre - James Bond Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

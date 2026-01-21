@@ -58,5 +58,17 @@
     "blockbuster",
     "supporting-actor",
     "golden-globe-winner"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Aaron_Taylor-Johnson",
+      "title": "Aaron Taylor-Johnson - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm1092085/",
+      "title": "Aaron Taylor-Johnson - IMDb",
+      "type": "database"
+    }
   ]
 }

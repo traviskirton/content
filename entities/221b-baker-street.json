@@ -60,5 +60,17 @@
     "sherlock-holmes",
     "baker-street",
     "classic-literature"
+  ],
+  "links": [
+    {
+      "url": "https://www.sherlock-holmes.org.uk/221b-baker-street/",
+      "title": "221B Baker Street - Official Sherlock Holmes Museum",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/221B_Baker_Street",
+      "title": "221B Baker Street - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

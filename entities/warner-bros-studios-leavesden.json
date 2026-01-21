@@ -55,5 +55,17 @@
     "leavesden",
     "united-kingdom",
     "blockbuster-films"
+  ],
+  "links": [
+    {
+      "url": "https://www.wbstudiotour.co.uk/",
+      "title": "Warner Bros. Studio Tour London – The Making of Harry Potter",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Warner_Bros._Studios,_Leavesden",
+      "title": "Warner Bros. Studios, Leavesden - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

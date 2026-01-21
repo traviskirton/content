@@ -52,5 +52,12 @@
     "mediterranean",
     "olive-groves",
     "vineyards"
+  ],
+  "links": [
+    {
+      "url": "https://godfather.fandom.com/wiki/Corleone_Family_Estate",
+      "title": "Corleone Family Estate - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

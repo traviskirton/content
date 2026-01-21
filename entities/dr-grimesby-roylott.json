@@ -70,5 +70,17 @@
     "venomous",
     "exotic-animals",
     "stepfather-abuser"
+  ],
+  "links": [
+    {
+      "url": "https://sherlock-holmes.fandom.com/wiki/Dr._Grimesby_Roylott",
+      "title": "Dr. Grimesby Roylott - Sherlock Holmes Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Adventure_of_the_Speckled_Band",
+      "title": "The Adventure of the Speckled Band - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -66,5 +66,17 @@
     "aerospace-engineer",
     "strategist",
     "human-survival"
+  ],
+  "links": [
+    {
+      "url": "https://interstellar.fandom.com/wiki/Professor_John_Brand",
+      "title": "Professor John Brand - Interstellar Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Interstellar_(film)",
+      "title": "Interstellar (film) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

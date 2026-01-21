@@ -55,5 +55,17 @@
     "ring",
     "sauron",
     "power"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/One_Ring",
+      "title": "One Ring - Lord of the Rings Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/One_Ring",
+      "title": "One Ring - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

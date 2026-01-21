@@ -63,5 +63,17 @@
     "financial-intrigue",
     "political-manipulation",
     "criminal-enterprises"
+  ],
+  "links": [
+    {
+      "url": "https://godfather.fandom.com/wiki/Immobiliare",
+      "title": "Immobiliare - The Godfather Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather_Part_III",
+      "title": "The Godfather Part III - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

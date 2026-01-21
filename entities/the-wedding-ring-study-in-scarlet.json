@@ -55,5 +55,12 @@
     "plot-device",
     "personal-relationships",
     "marital-commitment"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/A_Study_in_Scarlet",
+      "title": "A Study in Scarlet - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

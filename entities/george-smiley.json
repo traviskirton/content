@@ -82,5 +82,17 @@
     "british-secret-intelligence-service",
     "psychological-insight",
     "methodical"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Smiley",
+      "title": "George Smiley - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://jlecarre.fandom.com/wiki/George_Smiley",
+      "title": "George Smiley - John le Carré Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

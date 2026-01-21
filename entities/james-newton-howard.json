@@ -87,5 +87,17 @@
     "electronic",
     "collaboration",
     "award-winning"
+  ],
+  "links": [
+    {
+      "url": "https://jamesnewtonhoward.com/",
+      "title": "James Newton Howard Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/James_Newton_Howard",
+      "title": "James Newton Howard - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

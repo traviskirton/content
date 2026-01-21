@@ -61,5 +61,12 @@
     "loss",
     "injustice",
     "victim"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_Sherlock_Holmes_characters",
+      "title": "List of Sherlock Holmes characters - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

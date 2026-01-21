@@ -57,5 +57,17 @@
     "guilt",
     "grief",
     "marion-cotillard"
+  ],
+  "links": [
+    {
+      "url": "https://inception.fandom.com/wiki/Mal_Cobb",
+      "title": "Mal Cobb - Inception Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Inception#Characters",
+      "title": "Inception - Wikipedia (Characters section)",
+      "type": "wiki"
+    }
   ]
 }

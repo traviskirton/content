@@ -64,5 +64,12 @@
     "deductive-reasoning",
     "political-intrigue",
     "galactic-conflict"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Arkady_Darell",
+      "title": "Arkady Darell - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

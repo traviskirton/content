@@ -75,5 +75,17 @@
     "audiovisual",
     "realtime-graphics",
     "hardware-pushing"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Demoscene",
+      "title": "Demoscene - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://demozoo.org/",
+      "title": "Demozoo - The demoscene database",
+      "type": "database"
+    }
   ]
 }

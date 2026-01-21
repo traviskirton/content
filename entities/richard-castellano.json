@@ -66,5 +66,17 @@
     "character-actor",
     "mobster",
     "cult-classic"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Richard_Castellano",
+      "title": "Richard Castellano - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0140206/",
+      "title": "Richard Castellano - IMDb",
+      "type": "database"
+    }
   ]
 }

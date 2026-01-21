@@ -63,5 +63,12 @@
     "mind-control",
     "strategist",
     "secret-society"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/First_Speaker",
+      "title": "First Speaker - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

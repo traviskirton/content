@@ -58,5 +58,17 @@
     "enforcer",
     "new-york",
     "crime-drama"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Salvatore_Sollozzo#Captain_McCluskey",
+      "title": "Salvatore Sollozzo - Wikipedia (mentions Captain McCluskey)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Captain_McCluskey",
+      "title": "Captain McCluskey - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

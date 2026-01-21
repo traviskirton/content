@@ -65,5 +65,17 @@
     "bureaucratic",
     "operational",
     "intelligence-officer"
+  ],
+  "links": [
+    {
+      "url": "https://tvd.fandom.com/wiki/Roy_Bland",
+      "title": "Roy Bland - The Spy Who Came in from the Cold Wiki (fan page)",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Spy_Who_Came_in_from_the_Cold#Characters",
+      "title": "The Spy Who Came in from the Cold - Wikipedia (character overview)",
+      "type": "wiki"
+    }
   ]
 }

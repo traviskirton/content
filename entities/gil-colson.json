@@ -65,5 +65,17 @@
     "manipulated",
     "fear",
     "ambition"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Gil_Colson",
+      "title": "Gil Colson - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Batman_(film)",
+      "title": "The Batman (film) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

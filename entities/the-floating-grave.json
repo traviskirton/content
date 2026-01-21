@@ -56,5 +56,17 @@
     "dangerous",
     "smugglers",
     "clandestine-activities"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Gentleman_Bastard_Series#Camorr",
+      "title": "Camorr - Wikipedia (setting in Gentleman Bastard series)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://discworld.fandom.com/wiki/The_Floating_Grave",
+      "title": "The Floating Grave - Discworld Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

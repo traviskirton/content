@@ -58,5 +58,17 @@
     "psychological-warfare",
     "manipulation",
     "enforcer"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Grey_King",
+      "title": "The Gray King (Novel) - Wikipedia (for the novel with that title)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://scadrial.fandom.com/wiki/Gray_King",
+      "title": "Gray King - Scadrial Wiki (Brandon Sanderson Universe)",
+      "type": "fan-wiki"
+    }
   ]
 }

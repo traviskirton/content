@@ -72,5 +72,17 @@
     "child-actor",
     "film",
     "young-talent"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mackenzie_Foy",
+      "title": "Mackenzie Foy - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm2343122/",
+      "title": "Mackenzie Foy - IMDb",
+      "type": "database"
+    }
   ]
 }

@@ -65,5 +65,17 @@
     "orcslayer",
     "quest-leader",
     "lonely-mountain"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Thorin_Oakenshield",
+      "title": "Thorin Oakenshield - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thorin_Oakenshield",
+      "title": "Thorin Oakenshield - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

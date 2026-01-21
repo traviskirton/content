@@ -53,5 +53,12 @@
     "strategic-location",
     "isaac-asimov",
     "science-fiction"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Tazenda",
+      "title": "Tazenda - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

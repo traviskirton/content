@@ -61,5 +61,12 @@
     "intelligence-community",
     "emotional-intelligence",
     "domestic-anchor"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Smiley#Family",
+      "title": "George Smiley - Wikipedia (Family section mentions Ann Smiley)",
+      "type": "wiki"
+    }
   ]
 }

@@ -71,5 +71,17 @@
     "western-films",
     "outdoor-adventure",
     "sierra-nevada"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sonora,_California",
+      "title": "Sonora, California - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.sonoraca.com/",
+      "title": "Sonora, CA - Official Tourism Website",
+      "type": "official"
+    }
   ]
 }

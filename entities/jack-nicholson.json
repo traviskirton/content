@@ -76,5 +76,17 @@
     "iconic-roles",
     "award-winning",
     "method-acting"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jack_Nicholson",
+      "title": "Jack Nicholson - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0000197/",
+      "title": "Jack Nicholson - IMDb",
+      "type": "database"
+    }
   ]
 }

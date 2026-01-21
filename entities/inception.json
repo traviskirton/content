@@ -230,5 +230,17 @@
     "subconscious",
     "nonlinear",
     "complex-narrative"
+  ],
+  "links": [
+    {
+      "url": "https://inceptionmovie.warnerbros.com",
+      "title": "Inception Official Warner Bros. Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Inception",
+      "title": "Inception - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

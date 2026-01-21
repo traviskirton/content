@@ -68,5 +68,17 @@
     "quest",
     "courage",
     "riddling"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Bilbo_Baggins",
+      "title": "Bilbo Baggins - The One Wiki to Rule Them All",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bilbo_Baggins",
+      "title": "Bilbo Baggins - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

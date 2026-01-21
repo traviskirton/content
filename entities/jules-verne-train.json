@@ -57,5 +57,12 @@
     "hovering",
     "flux-capacitor",
     "time-travel"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Jules_Verne_Train",
+      "title": "Jules Verne Train - Back to the Future Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

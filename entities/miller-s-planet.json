@@ -48,5 +48,17 @@
     "waterworld",
     "tidal-waves",
     "space-exploration"
+  ],
+  "links": [
+    {
+      "url": "https://interstellar.fandom.com/wiki/Miller%27s_Planet",
+      "title": "Miller's Planet - Interstellar Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Interstellar_(film)#Planets",
+      "title": "Interstellar (film) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

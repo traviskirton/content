@@ -70,5 +70,17 @@
   ],
   "aliases": [
     "John Washington"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/John_David_Washington",
+      "title": "John David Washington - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.johndavidwashington.com/",
+      "title": "John David Washington Official Website",
+      "type": "official"
+    }
   ]
 }

@@ -59,5 +59,17 @@
     "jasper",
     "canadian-wildlife",
     "outdoor-activities"
+  ],
+  "links": [
+    {
+      "url": "https://www.alberta.ca/",
+      "title": "Government of Alberta - Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alberta",
+      "title": "Alberta - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

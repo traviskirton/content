@@ -67,5 +67,17 @@
     "indie-cinema",
     "modern-classic",
     "diverse-roles"
+  ],
+  "links": [
+    {
+      "url": "https://elliotpage.com/",
+      "title": "Elliot Page Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Elliot_Page",
+      "title": "Elliot Page - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

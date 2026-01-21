@@ -59,5 +59,17 @@
     "dry-humor",
     "crew-support",
     "technical-assistant"
+  ],
+  "links": [
+    {
+      "url": "https://interstellarfandom.fandom.com/wiki/CASE",
+      "title": "CASE - Interstellar Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0816692/",
+      "title": "Interstellar (2014) - IMDb",
+      "type": "database"
+    }
   ]
 }

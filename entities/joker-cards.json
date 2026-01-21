@@ -56,5 +56,12 @@
     "gotham",
     "chaos",
     "signature-item"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Joker_Cards",
+      "title": "Joker Cards - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

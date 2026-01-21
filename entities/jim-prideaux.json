@@ -61,5 +61,17 @@
     "betrayal",
     "field-operations",
     "veteran"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Spy_Who_Came_in_from_the_Cold",
+      "title": "The Spy Who Came in from the Cold - Wikipedia (Jim Prideaux character)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://the-odyssey-of-spying.fandom.com/wiki/Jim_Prideaux",
+      "title": "Jim Prideaux - The Odyssey of Spying Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

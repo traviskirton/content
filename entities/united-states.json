@@ -216,5 +216,17 @@
     "superpower",
     "democratic",
     "states"
+  ],
+  "links": [
+    {
+      "url": "https://www.usa.gov/",
+      "title": "USA.gov Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_States",
+      "title": "United States - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

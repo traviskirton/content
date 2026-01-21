@@ -277,5 +277,17 @@
     "hoverboards",
     "special-effects",
     "ensemble-cast"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_II",
+      "title": "Back to the Future Part II - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0096874/",
+      "title": "Back to the Future Part II - IMDb",
+      "type": "database"
+    }
   ]
 }

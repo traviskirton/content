@@ -72,5 +72,17 @@
     "urban",
     "multicultural",
     "british"
+  ],
+  "links": [
+    {
+      "url": "https://www.london.gov.uk/about-london/london-profile",
+      "title": "About London - Greater London Authority",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/London",
+      "title": "London - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

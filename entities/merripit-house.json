@@ -57,5 +57,12 @@
     "isolated",
     "stapletons",
     "devon"
+  ],
+  "links": [
+    {
+      "url": "https://sherlockholmes.fandom.com/wiki/Merripit_House",
+      "title": "Merripit House - Sherlock Holmes Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

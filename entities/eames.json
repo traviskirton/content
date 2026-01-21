@@ -68,5 +68,17 @@
     "dream-manipulation",
     "impersonation",
     "team-player"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Inception_(film)#Cast",
+      "title": "Inception (film) - Wikipedia Cast section",
+      "type": "wiki"
+    },
+    {
+      "url": "https://inception.fandom.com/wiki/Eames",
+      "title": "Eames - Inception Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

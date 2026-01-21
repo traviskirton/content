@@ -57,5 +57,17 @@
     "time-inversion",
     "emotional-arc",
     "elizabeth-debicki"
+  ],
+  "links": [
+    {
+      "url": "https://tenet.fandom.com/wiki/Kat_(Katherine_Barton)",
+      "title": "Kat (Katherine Barton) - Tenet Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt6723592/characters/nm5939164",
+      "title": "Tenet (2020) - IMDb Cast: Kat",
+      "type": "database"
+    }
   ]
 }

@@ -57,5 +57,17 @@
     "british-intelligence",
     "secret-service",
     "intelligence-headquarters"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/John_le_Carr%C3%A9#The_Circus",
+      "title": "The Circus (le Carré) - Wikipedia (section in John le Carré article)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://lecarrewiki.com/The_Circus",
+      "title": "The Circus - Le Carré Wiki (fan-wiki)",
+      "type": "fan-wiki"
+    }
   ]
 }

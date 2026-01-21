@@ -58,5 +58,12 @@
     "political-influence",
     "trade",
     "negotiation"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Limmar_Ponyets",
+      "title": "Limmar Ponyets - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

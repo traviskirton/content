@@ -58,5 +58,17 @@
     "gothic",
     "suspenseful",
     "victorian-era"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Adventure_of_the_Speckled_Band",
+      "title": "The Adventure of the Speckled Band - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://sherlockholmes.fandom.com/wiki/Swamp_Adder",
+      "title": "Swamp Adder - Sherlock Holmes Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -58,5 +58,17 @@
     "forest-guardian",
     "ancient-magic",
     "ecological-preservation"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Treebeard",
+      "title": "Treebeard - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Treebeard",
+      "title": "Treebeard - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

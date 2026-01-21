@@ -63,5 +63,17 @@
     "award-winning",
     "film-actor",
     "irish-cinema"
+  ],
+  "links": [
+    {
+      "url": "https://www.colinfarrell.com/",
+      "title": "Colin Farrell Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colin_Farrell",
+      "title": "Colin Farrell - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

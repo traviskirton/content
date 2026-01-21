@@ -79,5 +79,12 @@
     "character-actor",
     "tim-burton",
     "supporting-roles"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Michael_Gough",
+      "title": "Michael Gough - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

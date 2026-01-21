@@ -66,5 +66,17 @@
     "american-cinema",
     "method-acting",
     "cinematic-legacy"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Cazale",
+      "title": "John Cazale - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0144452/",
+      "title": "John Cazale - IMDb",
+      "type": "database"
+    }
   ]
 }

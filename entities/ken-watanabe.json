@@ -66,5 +66,17 @@
     "charismatic",
     "versatile-performer",
     "japanese-actor"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ken_Watanabe",
+      "title": "Ken Watanabe - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0913822/",
+      "title": "Ken Watanabe - IMDb",
+      "type": "database"
+    }
   ]
 }

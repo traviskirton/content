@@ -66,5 +66,17 @@
     "practical-magic",
     "outdoorsman",
     "robust-personality"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/Archchancellor_Ridcully",
+      "title": "Archchancellor Ridcully - Discworld Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Discworld",
+      "title": "Discworld - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

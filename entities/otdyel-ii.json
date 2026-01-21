@@ -60,5 +60,12 @@
     "spy-games",
     "cryptology",
     "kgb-affiliate"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/KGB",
+      "title": "KGB - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

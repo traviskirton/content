@@ -63,5 +63,17 @@
     "time-travel",
     "retro-futurism",
     "california"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Hill_Valley_(2015)",
+      "title": "Hill Valley (2015) - Back to the Future Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_II",
+      "title": "Back to the Future Part II - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -78,5 +78,17 @@
     "intelligence",
     "british-intelligence",
     "espionage-thriller"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tinker,_Tailor,_Soldier,_Spy",
+      "title": "Tinker, Tailor, Soldier, Spy - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/105348/tinker-tailor-soldier-spy-by-john-le-carre/",
+      "title": "Tinker, Tailor, Soldier, Spy | Penguin Random House",
+      "type": "official"
+    }
   ]
 }

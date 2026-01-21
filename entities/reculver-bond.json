@@ -61,5 +61,12 @@
     "secret-operations",
     "smuggling",
     "seaside-architecture"
+  ],
+  "links": [
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Reculver",
+      "title": "Reculver - James Bond Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

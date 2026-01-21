@@ -79,5 +79,17 @@
     "cinematic-style",
     "authentic-storytelling",
     "cult-following"
+  ],
+  "links": [
+    {
+      "url": "https://www.safdiebrothers.com/",
+      "title": "Safdie Brothers Official Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Benny_Safdie",
+      "title": "Benny Safdie - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

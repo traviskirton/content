@@ -62,5 +62,12 @@
     "classic-literature",
     "academic",
     "strategist"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Lewis_Pirenne",
+      "title": "Lewis Pirenne - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

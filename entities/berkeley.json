@@ -52,5 +52,12 @@
     "university-town",
     "science",
     "historical-drama"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Berkeley,_California",
+      "title": "Berkeley, California - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

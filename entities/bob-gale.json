@@ -80,5 +80,12 @@
     "back-to-the-future",
     "time-travel",
     "cult-classic"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bob_Gale",
+      "title": "Bob Gale - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

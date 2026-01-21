@@ -64,5 +64,17 @@
     "family-home",
     "back-to-the-future",
     "residence"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/McFly_residence",
+      "title": "McFly Residence - Back to the Future Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Back_to_the_Future",
+      "title": "Back to the Future - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

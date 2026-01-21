@@ -61,5 +61,17 @@
     "intelligence",
     "gadget-master",
     "technical-genius"
+  ],
+  "links": [
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Q",
+      "title": "Q (James Bond) - James Bond Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Q_(James_Bond)",
+      "title": "Q (James Bond) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

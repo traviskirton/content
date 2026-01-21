@@ -53,5 +53,12 @@
     "abandoned",
     "gothic-architecture",
     "haunted"
+  ],
+  "links": [
+    {
+      "url": "https://gotham.fandom.com/wiki/Arkham_Orphanage",
+      "title": "Arkham Orphanage – Gotham Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -59,5 +59,17 @@
     "psychological-thriller",
     "illusions",
     "deception"
+  ],
+  "links": [
+    {
+      "url": "https://neuromancer.fandom.com/wiki/Peter_Riviera",
+      "title": "Peter Riviera - Neuromancer Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Neuromancer#Characters",
+      "title": "Neuromancer - Wikipedia (Characters)",
+      "type": "wiki"
+    }
   ]
 }

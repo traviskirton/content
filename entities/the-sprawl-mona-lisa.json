@@ -55,5 +55,17 @@
     "bama",
     "boston-cyberabad-metropolitan-axis",
     "urban-sprawl"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mona_Lisa_Overdrive",
+      "title": "Mona Lisa Overdrive - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://cyberpunk.fandom.com/wiki/The_Sprawl",
+      "title": "The Sprawl - Cyberpunk Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

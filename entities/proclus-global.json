@@ -63,5 +63,12 @@
     "inception",
     "espionage",
     "multinational"
+  ],
+  "links": [
+    {
+      "url": "https://inception.fandom.com/wiki/Proclus_Global",
+      "title": "Proclus Global - Inception Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

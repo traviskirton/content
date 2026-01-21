@@ -60,5 +60,17 @@
     "a-lister",
     "comeback",
     "award-nominee"
+  ],
+  "links": [
+    {
+      "url": "https://www.robertdowneyjr.com/",
+      "title": "Robert Downey Jr. Official Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_Downey_Jr.",
+      "title": "Robert Downey Jr. - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

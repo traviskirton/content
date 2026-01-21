@@ -63,5 +63,17 @@
     "new-york",
     "crime-lord",
     "strategist"
+  ],
+  "links": [
+    {
+      "url": "https://godfather.fandom.com/wiki/Emilio_Barzini",
+      "title": "Emilio Barzini - The Godfather Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_The_Godfather_characters#Emilio_Barzini",
+      "title": "Emilio Barzini - Wikipedia (Godfather Characters)",
+      "type": "wiki"
+    }
   ]
 }

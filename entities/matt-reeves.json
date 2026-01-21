@@ -67,5 +67,17 @@
   },
   "tags": [
     "sci-fi"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Matt_Reeves",
+      "title": "Matt Reeves - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0710127/",
+      "title": "Matt Reeves - IMDb",
+      "type": "database"
+    }
   ]
 }

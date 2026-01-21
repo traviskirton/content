@@ -65,5 +65,17 @@
     "king-of-dale",
     "resilience",
     "human"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Bard",
+      "title": "Bard - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bard_the_Bowman",
+      "title": "Bard the Bowman - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -58,5 +58,17 @@
     "intelligence-agency",
     "spycraft",
     "paranoia"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tinker_Tailor_Soldier_Spy_(novel)#Plot",
+      "title": "Tinker Tailor Soldier Spy - Wikipedia (Soviet Espionage)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Book/TinkerTailorSoldierSpy",
+      "title": "Tinker Tailor Soldier Spy - TV Tropes",
+      "type": "fan-wiki"
+    }
   ]
 }

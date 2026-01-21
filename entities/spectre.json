@@ -61,5 +61,17 @@
     "clandestine",
     "political-manipulation",
     "assassination"
+  ],
+  "links": [
+    {
+      "url": "https://007.fandom.com/wiki/SPECTRE",
+      "title": "SPECTRE - James Bond Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/SPECTRE",
+      "title": "SPECTRE - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

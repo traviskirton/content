@@ -77,5 +77,17 @@
     "karla-trilogy",
     "intelligence",
     "psychological-intrigue"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Smiley%27s_People",
+      "title": "Smiley's People - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.goodreads.com/book/show/100868.Smiley_s_People",
+      "title": "Smiley's People on Goodreads",
+      "type": "database"
+    }
   ]
 }

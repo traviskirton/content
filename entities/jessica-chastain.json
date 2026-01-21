@@ -74,5 +74,17 @@
     "award-nominated",
     "character-driven",
     "female-lead"
+  ],
+  "links": [
+    {
+      "url": "https://www.jessicachastain.co.uk/",
+      "title": "Jessica Chastain Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jessica_Chastain",
+      "title": "Jessica Chastain - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

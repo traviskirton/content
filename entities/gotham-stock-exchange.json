@@ -53,5 +53,12 @@
     "modern-architecture",
     "economic-power",
     "batman"
+  ],
+  "links": [
+    {
+      "url": "https://dc.fandom.com/wiki/Gotham_Stock_Exchange",
+      "title": "Gotham Stock Exchange - DC Database",
+      "type": "fan-wiki"
+    }
   ]
 }

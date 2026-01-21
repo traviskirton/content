@@ -60,5 +60,17 @@
     "early-2000s",
     "independent-film",
     "international-projects"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Josh_Hartnett",
+      "title": "Josh Hartnett - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.joshhartnett.com/",
+      "title": "Josh Hartnett Official Website",
+      "type": "official"
+    }
   ]
 }

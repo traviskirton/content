@@ -58,5 +58,17 @@
     "historical-figure",
     "authoritative",
     "matt-damon"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Leslie_Groves",
+      "title": "Leslie Groves - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm1540914/",
+      "title": "General Leslie Groves - IMDb",
+      "type": "database"
+    }
   ]
 }

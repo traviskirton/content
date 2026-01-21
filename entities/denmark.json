@@ -53,5 +53,17 @@
     "design",
     "gastronomy",
     "high-standard-of-living"
+  ],
+  "links": [
+    {
+      "url": "https://denmark.dk/",
+      "title": "Official website of Denmark",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Denmark",
+      "title": "Denmark - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

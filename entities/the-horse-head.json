@@ -56,5 +56,17 @@
     "organized-crime",
     "mobster",
     "crime-family"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Horse%27s_Head",
+      "title": "The Horse's Head - Wikipedia (within The Godfather page under the horse head scene)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Horse_Head",
+      "title": "Horse Head - The Godfather Wiki (Fandom)",
+      "type": "fan-wiki"
+    }
   ]
 }

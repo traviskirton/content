@@ -54,5 +54,17 @@
     "legendary",
     "reforged",
     "symbol"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/And%C3%BAril",
+      "title": "Andúril - The One Wiki to Rule Them All",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/And%C3%BAril",
+      "title": "Andúril - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

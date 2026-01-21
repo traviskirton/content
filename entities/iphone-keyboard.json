@@ -69,5 +69,12 @@
     "predictive-text",
     "multi-touch",
     "haptic-feedback"
+  ],
+  "links": [
+    {
+      "url": "https://support.apple.com/en-us/HT204095",
+      "title": "Use the keyboard on your iPhone - Apple Support",
+      "type": "official"
+    }
   ]
 }

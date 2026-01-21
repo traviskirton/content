@@ -62,5 +62,17 @@
     "isaac-asimov",
     "militarized",
     "second-foundation"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Kalgan",
+      "title": "Kalgan - Foundation Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Foundation_(Asimov_series)#Kalgan",
+      "title": "Foundation (Asimov series) - Wikipedia (Kalgan section)",
+      "type": "wiki"
+    }
   ]
 }

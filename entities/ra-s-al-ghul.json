@@ -82,5 +82,17 @@
     "charismatic-leader",
     "dark-knight",
     "batman-universe"
+  ],
+  "links": [
+    {
+      "url": "https://dc.fandom.com/wiki/Ra%27s_al-Ghul",
+      "title": "Ra's al Ghul - DC Database",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ra%27s_al_Ghul",
+      "title": "Ra's al Ghul - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

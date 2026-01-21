@@ -54,5 +54,12 @@
     "hobbiton",
     "tolkien-universe",
     "fantasy-setting"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Bag_End",
+      "title": "Bag End - The Lord of the Rings Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

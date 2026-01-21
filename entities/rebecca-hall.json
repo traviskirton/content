@@ -63,5 +63,17 @@
     "versatile-performer",
     "character-driven",
     "british-american-actress"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Rebecca_Hall",
+      "title": "Rebecca Hall - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0354736/",
+      "title": "Rebecca Hall - IMDb",
+      "type": "database"
+    }
   ]
 }

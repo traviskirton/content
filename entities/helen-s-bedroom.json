@@ -55,5 +55,17 @@
     "classic-literature",
     "locked-room",
     "steampunk-gothic"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Adventure_of_the_Speckled_Band",
+      "title": "The Adventure of the Speckled Band - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://sherlock-holmes.fandom.com/wiki/Helen%27s_Bedroom",
+      "title": "Helen's Bedroom | Sherlock Holmes Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

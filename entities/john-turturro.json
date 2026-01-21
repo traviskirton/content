@@ -68,5 +68,17 @@
     "independent-cinema",
     "mainstream",
     "dynamic-performing"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Turturro",
+      "title": "John Turturro - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0878775/",
+      "title": "John Turturro - IMDb",
+      "type": "database"
+    }
   ]
 }

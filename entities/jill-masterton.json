@@ -60,5 +60,17 @@
     "gold-paint",
     "glamour",
     "high-society"
+  ],
+  "links": [
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Jill_Masterton",
+      "title": "Jill Masterton - James Bond Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_James_Bond_characters#Goldfinger_(1964)",
+      "title": "Goldfinger (1964) - Wikipedia (section with Jill Masterton)",
+      "type": "wiki"
+    }
   ]
 }

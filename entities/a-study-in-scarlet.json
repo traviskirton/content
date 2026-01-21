@@ -77,5 +77,17 @@
     "deduction",
     "friendship",
     "forensic-science"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/A_Study_in_Scarlet",
+      "title": "A Study in Scarlet - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.goodreads.com/book/show/86514.A_Study_in_Scarlet",
+      "title": "A Study in Scarlet - Goodreads",
+      "type": "database"
+    }
   ]
 }

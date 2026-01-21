@@ -65,5 +65,12 @@
     "mobile-usability",
     "interaction-design",
     "hardware-prototyping"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bas_Ording",
+      "title": "Bas Ording - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

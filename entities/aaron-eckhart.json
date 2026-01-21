@@ -74,5 +74,17 @@
     "dark-knight",
     "thank-you-for-smoking",
     "neil-labute"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Aaron_Eckhart",
+      "title": "Aaron Eckhart - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0001172/",
+      "title": "Aaron Eckhart - IMDb",
+      "type": "database"
+    }
   ]
 }

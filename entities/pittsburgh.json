@@ -63,5 +63,17 @@
     "urban",
     "pennsylvania",
     "united-states"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Pittsburgh",
+      "title": "Pittsburgh - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.visitpittsburgh.com/",
+      "title": "Visit Pittsburgh Official Tourism Site",
+      "type": "official"
+    }
   ]
 }

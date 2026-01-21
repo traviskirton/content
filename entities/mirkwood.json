@@ -59,5 +59,17 @@
     "shadowy-atmosphere",
     "gloomy",
     "menace"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Mirkwood",
+      "title": "Mirkwood - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mirkwood",
+      "title": "Mirkwood - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

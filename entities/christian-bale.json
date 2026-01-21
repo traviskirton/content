@@ -79,5 +79,12 @@
     "award-winning",
     "batman",
     "oscar-winner"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Christian_Bale",
+      "title": "Christian Bale - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

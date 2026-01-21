@@ -62,5 +62,17 @@
     "hacker-related",
     "corporate-espionage",
     "cybernetic-augmentations"
+  ],
+  "links": [
+    {
+      "url": "https://cyberpunk.fandom.com/wiki/Mona_Lisa_Overdrive",
+      "title": "Mona Lisa Overdrive (Character) - Cyberpunk Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mona_Lisa_Overdrive#Characters",
+      "title": "Mona Lisa Overdrive - Wikipedia (Characters section)",
+      "type": "wiki"
+    }
   ]
 }

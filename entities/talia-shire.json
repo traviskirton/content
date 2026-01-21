@@ -78,5 +78,17 @@
     "rocky-series",
     "coppola-family",
     "academy-award-nominee"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Talia_Shire",
+      "title": "Talia Shire - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0795463/",
+      "title": "Talia Shire - IMDb",
+      "type": "database"
+    }
   ]
 }

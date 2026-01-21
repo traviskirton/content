@@ -76,5 +76,17 @@
     "psychology",
     "dark-knight",
     "unpredictable"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Joker_(character)",
+      "title": "Joker (character) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://dc.fandom.com/wiki/Joker",
+      "title": "Joker - DC Database",
+      "type": "fan-wiki"
+    }
   ]
 }

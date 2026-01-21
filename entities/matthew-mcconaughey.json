@@ -79,5 +79,17 @@
     "dazed-and-confused",
     "dallas-buyers-club",
     "coming-of-age"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Matthew_McConaughey",
+      "title": "Matthew McConaughey - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.matthewmcconaughey.com/",
+      "title": "Matthew McConaughey Official Website",
+      "type": "official"
+    }
   ]
 }

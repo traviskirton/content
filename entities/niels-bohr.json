@@ -61,5 +61,12 @@
     "keneth-branagh",
     "historical-figure",
     "physicist"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Niels_Bohr",
+      "title": "Niels Bohr - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

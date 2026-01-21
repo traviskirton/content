@@ -60,5 +60,17 @@
     "filming-location",
     "glasgow",
     "cemetery"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Glasgow_Necropolis",
+      "title": "Glasgow Necropolis - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.glasgownecropolis.org/",
+      "title": "Glasgow Necropolis Official Website",
+      "type": "official"
+    }
   ]
 }

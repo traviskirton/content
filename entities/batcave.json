@@ -65,5 +65,17 @@
     "underground-complex",
     "secret-base",
     "wayne-manor"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Batcave",
+      "title": "Batcave - DC Database",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Batcave",
+      "title": "Batcave - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

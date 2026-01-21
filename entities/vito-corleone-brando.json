@@ -70,5 +70,17 @@
     "classic-film",
     "organized-crime",
     "family-loyalty"
+  ],
+  "links": [
+    {
+      "url": "https://godfather.fandom.com/wiki/Vito_Corleone",
+      "title": "Vito Corleone - The Godfather Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vito_Corleone",
+      "title": "Vito Corleone - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

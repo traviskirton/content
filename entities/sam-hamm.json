@@ -68,5 +68,12 @@
     "film-franchise",
     "speculative-fiction",
     "fantasy-influence"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sam_Hamm",
+      "title": "Sam Hamm - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

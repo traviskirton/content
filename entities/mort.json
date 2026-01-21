@@ -57,5 +57,17 @@
     "scythe-wielding",
     "mentor-mentee",
     "cosmic-order"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/Mort",
+      "title": "Mort - Discworld Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mort_(Discworld_character)",
+      "title": "Mort (Discworld character) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

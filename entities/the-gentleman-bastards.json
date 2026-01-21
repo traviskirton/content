@@ -63,5 +63,12 @@
     "deception",
     "urban-schemes",
     "charismatic-leader"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/Gentleman_Bastards",
+      "title": "Gentleman Bastards - Discworld Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

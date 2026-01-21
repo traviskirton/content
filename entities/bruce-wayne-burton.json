@@ -105,5 +105,17 @@
     "murders",
     "trauma",
     "wealthy-family"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Bruce_Wayne_(Tim_Burton)",
+      "title": "Bruce Wayne (Tim Burton) - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Batman_(1989_film)",
+      "title": "Batman (1989 film) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

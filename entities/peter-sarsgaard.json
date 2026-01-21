@@ -57,5 +57,17 @@
     "character-driven",
     "nuanced",
     "psychological"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Peter_Sarsgaard",
+      "title": "Peter Sarsgaard - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0765571/",
+      "title": "Peter Sarsgaard - IMDb",
+      "type": "database"
+    }
   ]
 }

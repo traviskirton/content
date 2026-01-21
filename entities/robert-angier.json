@@ -61,5 +61,17 @@
     "cunning",
     "stage-performer",
     "legacy"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Prestige_(film)#Characters",
+      "title": "Robert Angier - The Prestige - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://theprestigewiki.com/wiki/Robert_Angier",
+      "title": "Robert Angier - The Prestige Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

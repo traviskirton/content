@@ -67,5 +67,17 @@
     "filming-location",
     "urban",
     "metropolis"
+  ],
+  "links": [
+    {
+      "url": "https://www.gov.hk/en/about/abouthk/facts.htm",
+      "title": "GovHK - About Hong Kong",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hong_Kong",
+      "title": "Hong Kong - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

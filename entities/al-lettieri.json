@@ -56,5 +56,17 @@
     "crime-films",
     "the-godfather",
     "1970s-cinema"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Al_Lettieri",
+      "title": "Al Lettieri - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0507249/",
+      "title": "Al Lettieri - IMDb",
+      "type": "database"
+    }
   ]
 }

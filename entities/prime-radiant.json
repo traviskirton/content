@@ -71,5 +71,17 @@
     "holographic-interface",
     "psychohistorical-device",
     "future-forecasting"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Prime_Radiant",
+      "title": "Prime Radiant - Foundation Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Foundation_(Isaac_Asimov_series)",
+      "title": "Foundation Series - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

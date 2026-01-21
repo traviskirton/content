@@ -61,5 +61,17 @@
     "espionage",
     "intelligence-operative",
     "covert-operations"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_James_Bond_characters#René_Mathis",
+      "title": "René Mathis - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Rene_Mathis",
+      "title": "René Mathis - James Bond Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

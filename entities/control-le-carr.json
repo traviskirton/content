@@ -62,5 +62,17 @@
     "strategic-mind",
     "bureaucratic-intrigue",
     "paranoia"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Control_(le_Carr%C3%A9)",
+      "title": "Control (le Carré) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://lecarrewiki.com/Control",
+      "title": "Control - leCarreWiki",
+      "type": "fan-wiki"
+    }
   ]
 }

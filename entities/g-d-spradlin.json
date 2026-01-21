@@ -53,5 +53,17 @@
     "authoritative-presence",
     "deep-voice",
     "villainous-roles"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/G._D._Spradlin",
+      "title": "G. D. Spradlin - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0815433/",
+      "title": "G.D. Spradlin - IMDb",
+      "type": "database"
+    }
   ]
 }

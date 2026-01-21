@@ -60,5 +60,17 @@
     "noir",
     "iceberg-bar",
     "vip-lounge"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Iceberg_Lounge",
+      "title": "Iceberg Lounge - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Oswald_Cobblepot",
+      "title": "Oswald Cobblepot - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

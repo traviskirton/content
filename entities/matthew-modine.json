@@ -64,5 +64,17 @@
     "award-nominee",
     "versatile-actor",
     "ensemble-cast"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Matthew_Modine",
+      "title": "Matthew Modine - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0000546/",
+      "title": "Matthew Modine - IMDb",
+      "type": "database"
+    }
   ]
 }

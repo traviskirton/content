@@ -54,5 +54,12 @@
     "intelligence-community",
     "preparatory-school",
     "british-public-school"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/John_le_Carr%C3%A9",
+      "title": "John le Carré - Wikipedia (context for Thursgood's School)",
+      "type": "wiki"
+    }
   ]
 }

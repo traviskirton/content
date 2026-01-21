@@ -67,5 +67,12 @@
     "comedic",
     "versatile",
     "hollywood-veteran"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Michael_Keaton",
+      "title": "Michael Keaton - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

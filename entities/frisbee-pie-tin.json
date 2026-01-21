@@ -59,5 +59,12 @@
     "saloon",
     "marty-mcfly",
     "back-to-the-future"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Frisbee_Pie_Tin",
+      "title": "Frisbee Pie Tin - Back to the Future Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

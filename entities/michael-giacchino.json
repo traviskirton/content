@@ -66,5 +66,17 @@
     "video-game-score",
     "blockbuster",
     "john-williams-influence"
+  ],
+  "links": [
+    {
+      "url": "https://michaelgiacchinocomposer.com/",
+      "title": "Michael Giacchino Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Michael_Giacchino",
+      "title": "Michael Giacchino - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

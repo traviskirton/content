@@ -50,5 +50,17 @@
     "espionage",
     "time-manipulation",
     "tenet-universe"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mumbai",
+      "title": "Mumbai - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt6723592/locations",
+      "title": "Tenet (2020) Filming Locations - IMDb",
+      "type": "database"
+    }
   ]
 }

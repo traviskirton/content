@@ -55,5 +55,17 @@
     "showbiz",
     "italian-american",
     "music-industry"
+  ],
+  "links": [
+    {
+      "url": "https://godfather.fandom.com/wiki/Johnny_Fontane",
+      "title": "Johnny Fontane - The Godfather Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_Godfather_characters#Johnny_Fontane",
+      "title": "Johnny Fontane - Wikipedia (section)",
+      "type": "wiki"
+    }
   ]
 }

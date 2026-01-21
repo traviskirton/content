@@ -55,5 +55,17 @@
     "neoclassical",
     "historic-landmark",
     "grand-architecture"
+  ],
+  "links": [
+    {
+      "url": "https://www.teatromassimo.it/",
+      "title": "Teatro Massimo Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Teatro_Massimo",
+      "title": "Teatro Massimo - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -59,5 +59,17 @@
     "poverty",
     "corruption",
     "comic-book"
+  ],
+  "links": [
+    {
+      "url": "https://dc.fandom.com/wiki/The_Narrows",
+      "title": "The Narrows - DC Database",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://batman.fandom.com/wiki/The_Narrows",
+      "title": "The Narrows - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

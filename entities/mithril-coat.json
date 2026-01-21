@@ -53,5 +53,17 @@
     "middle-earth",
     "protection",
     "dwarves"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Mithril",
+      "title": "Mithril - The One Wiki to Rule Them All",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mithril",
+      "title": "Mithril - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

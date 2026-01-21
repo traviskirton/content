@@ -57,5 +57,17 @@
     "automatic-lacing",
     "hill-valley",
     "back-to-the-future"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Power_lacing#Nike_Air_Mag",
+      "title": "Power lacing - Wikipedia (Nike Air Mag)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.nike.com/air-mags",
+      "title": "Nike Air Mag - Official Nike Store",
+      "type": "official"
+    }
   ]
 }

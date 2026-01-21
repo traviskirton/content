@@ -53,5 +53,17 @@
     "energy-infrastructure",
     "cambridgeshire",
     "british-industry"
+  ],
+  "links": [
+    {
+      "url": "https://www.eonenergy.com/about-eon/our-history/generation",
+      "title": "E.ON Generation History (including Little Barford)",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Little_Barford_power_station",
+      "title": "Little Barford power station - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

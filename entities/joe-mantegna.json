@@ -72,5 +72,17 @@
     "character-actor",
     "crime-drama",
     "fbi"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Joe_Mantegna",
+      "title": "Joe Mantegna - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.joemantegna.com/",
+      "title": "Joe Mantegna Official Website",
+      "type": "official"
+    }
   ]
 }

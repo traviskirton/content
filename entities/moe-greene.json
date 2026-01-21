@@ -57,5 +57,17 @@
     "crime-drama",
     "mobster",
     "film-character"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Moe_Greene",
+      "title": "Moe Greene - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Moe_Greene",
+      "title": "Moe Greene - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

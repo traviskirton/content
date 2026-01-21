@@ -63,5 +63,12 @@
     "cyberspace",
     "digital-espionage",
     "corporate-warfare"
+  ],
+  "links": [
+    {
+      "url": "https://memory-alpha.fandom.com/wiki/Mona_Lisa_Overdrive",
+      "title": "Mona Lisa Overdrive - Memory Alpha (Fandom)",
+      "type": "fan-wiki"
+    }
   ]
 }

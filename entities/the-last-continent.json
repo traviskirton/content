@@ -67,5 +67,17 @@
     "bureaucracy",
     "survival",
     "identity"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Last_Continent",
+      "title": "The Last Continent - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://discworld.fandom.com/wiki/The_Last_Continent",
+      "title": "The Last Continent - Discworld Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

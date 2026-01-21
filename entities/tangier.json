@@ -50,5 +50,12 @@
     "tourism",
     "kasbah-museum",
     "striking-scenery"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tangier",
+      "title": "Tangier - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

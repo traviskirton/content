@@ -57,5 +57,17 @@
     "socialite",
     "redemption",
     "emotional-anchor"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather_Part_III#Cast",
+      "title": "The Godfather Part III Cast - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grace_Hamilton",
+      "title": "Grace Hamilton - Wikipedia (redirects to Grace Corleone character info)",
+      "type": "wiki"
+    }
   ]
 }

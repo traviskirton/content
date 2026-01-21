@@ -66,5 +66,12 @@
     "maternal-love",
     "compassion",
     "social-poise"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Merc%C3%A9d%C3%A8s_(The_Count_of_Monte_Cristo)",
+      "title": "Mercédès - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

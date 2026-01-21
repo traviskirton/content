@@ -76,5 +76,17 @@
     "social-commentary",
     "comedic-fantasy",
     "british-literature"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Terry_Pratchett",
+      "title": "Terry Pratchett - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.terrypratchett.co.uk/",
+      "title": "Terry Pratchett Official Site",
+      "type": "official"
+    }
   ]
 }

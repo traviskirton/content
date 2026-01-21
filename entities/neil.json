@@ -60,5 +60,17 @@
     "espionage",
     "time-inversion",
     "tactical-expert"
+  ],
+  "links": [
+    {
+      "url": "https://tenet.fandom.com/wiki/Neil",
+      "title": "Neil - Tenet Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_Pattinson",
+      "title": "Robert Pattinson - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

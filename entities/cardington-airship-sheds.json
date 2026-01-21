@@ -70,5 +70,17 @@
     "bedfordshire",
     "uk",
     "filming-location"
+  ],
+  "links": [
+    {
+      "url": "https://www.cardingtonairsheds.co.uk/",
+      "title": "Cardington Airship Sheds Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cardington_Airship_Sheds",
+      "title": "Cardington Airship Sheds - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

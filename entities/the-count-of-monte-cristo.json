@@ -122,5 +122,17 @@
     "loyalty",
     "fate",
     "forgiveness"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo",
+      "title": "The Count of Monte Cristo - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo",
+      "title": "The Count of Monte Cristo - Goodreads",
+      "type": "database"
+    }
   ]
 }

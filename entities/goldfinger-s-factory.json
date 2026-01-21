@@ -58,5 +58,12 @@
     "vault",
     "espionage",
     "mafia"
+  ],
+  "links": [
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Goldfinger%27s_Factory",
+      "title": "Goldfinger's Factory - James Bond Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

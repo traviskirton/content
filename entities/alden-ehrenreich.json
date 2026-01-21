@@ -58,5 +58,17 @@
     "coming-of-age",
     "hollywood",
     "young-actor"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Alden_Ehrenreich",
+      "title": "Alden Ehrenreich - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm2041980/",
+      "title": "Alden Ehrenreich - IMDb",
+      "type": "database"
+    }
   ]
 }

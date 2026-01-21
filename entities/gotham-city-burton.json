@@ -90,5 +90,12 @@
     "noir",
     "dark",
     "gotham"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Gotham_City_(Burton)",
+      "title": "Gotham City (Burton) - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

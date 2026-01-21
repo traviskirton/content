@@ -75,5 +75,17 @@
     "psychological-realism",
     "institutional-decay",
     "moral-ambiguity"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Smiley",
+      "title": "George Smiley - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://johnlecarre.fandom.com/wiki/George_Smiley",
+      "title": "George Smiley - John le Carré Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

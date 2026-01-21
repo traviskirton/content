@@ -73,5 +73,17 @@
     "scientific-organization",
     "knowledge-preservation",
     "galactic-history"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Foundation_series",
+      "title": "Foundation series - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://foundation.fandom.com/wiki/Foundation",
+      "title": "Foundation (First Foundation) - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

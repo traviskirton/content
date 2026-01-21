@@ -63,5 +63,17 @@
     "italian-american",
     "matriarchal-figure",
     "corleone-family"
+  ],
+  "links": [
+    {
+      "url": "https://godfather.fandom.com/wiki/Carmela_Corleone",
+      "title": "Carmela Corleone - The Godfather Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carmela_Corleone",
+      "title": "Carmela Corleone - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

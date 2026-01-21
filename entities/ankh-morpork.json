@@ -68,5 +68,17 @@
     "corruption",
     "chaotic-city",
     "fantasy-city"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/Ankh-Morpork",
+      "title": "Ankh-Morpork - Discworld Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ankh-Morpork",
+      "title": "Ankh-Morpork - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

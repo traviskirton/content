@@ -91,5 +91,17 @@
     "television",
     "actress",
     "female-lead"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Lea_Thompson",
+      "title": "Lea Thompson - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.leathompson.com/",
+      "title": "Lea Thompson Official Website",
+      "type": "official"
+    }
   ]
 }

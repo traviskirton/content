@@ -117,5 +117,17 @@
     "christopher-nolan",
     "batman",
     "dc-universe"
+  ],
+  "links": [
+    {
+      "url": "https://www.dc.com/collections/dark-knight-trilogy",
+      "title": "The Dark Knight Trilogy - DC Official",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Dark_Knight_Trilogy",
+      "title": "The Dark Knight Trilogy - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

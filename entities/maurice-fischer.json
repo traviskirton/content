@@ -55,5 +55,17 @@
     "pivotal",
     "influential",
     "strained-relationship"
+  ],
+  "links": [
+    {
+      "url": "https://inception.fandom.com/wiki/Maurice_Fischer",
+      "title": "Maurice Fischer - Inception Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Inception_(film)",
+      "title": "Inception - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

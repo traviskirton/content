@@ -71,5 +71,17 @@
     "loyalty",
     "redemption",
     "internal-conflict"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Boromir",
+      "title": "Boromir - LOTR Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Boromir",
+      "title": "Boromir - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

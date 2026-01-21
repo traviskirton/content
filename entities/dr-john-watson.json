@@ -79,5 +79,17 @@
     "friend",
     "medical-doctor",
     "army-surgeon"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dr._John_Watson",
+      "title": "Dr. John Watson - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://sherlock-holmes.fandom.com/wiki/John_Watson",
+      "title": "John Watson - Sherlock Holmes Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

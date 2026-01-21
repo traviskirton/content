@@ -66,5 +66,17 @@
     "racketeering",
     "gambling",
     "extortion"
+  ],
+  "links": [
+    {
+      "url": "https://the-godfather.fandom.com/wiki/Tattaglia_family",
+      "title": "Tattaglia Family - The Godfather Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather",
+      "title": "The Godfather - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

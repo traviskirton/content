@@ -74,5 +74,17 @@
     "los-angeles",
     "hollywood",
     "movie-lot"
+  ],
+  "links": [
+    {
+      "url": "https://www.universalstudioshollywood.com/",
+      "title": "Universal Studios Hollywood Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Universal_Studios_Hollywood",
+      "title": "Universal Studios Hollywood - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

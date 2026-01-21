@@ -58,5 +58,12 @@
     "secret-base",
     "military",
     "atomic-bomb"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Los_Alamos,_New_Mexico",
+      "title": "Los Alamos, New Mexico - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

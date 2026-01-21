@@ -64,5 +64,17 @@
     "broadway",
     "tony-award-winner",
     "character-actor"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Lithgow",
+      "title": "John Lithgow - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.johnlithgow.net/",
+      "title": "John Lithgow Official Website",
+      "type": "official"
+    }
   ]
 }

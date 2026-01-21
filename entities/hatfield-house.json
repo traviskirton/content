@@ -62,5 +62,17 @@
     "cecil-family",
     "architecture",
     "period-drama"
+  ],
+  "links": [
+    {
+      "url": "https://www.hatfield-house.co.uk/",
+      "title": "Hatfield House Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hatfield_House",
+      "title": "Hatfield House - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

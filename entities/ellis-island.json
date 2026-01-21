@@ -60,5 +60,17 @@
     "family-history",
     "beaux-arts",
     "immigrant-experience"
+  ],
+  "links": [
+    {
+      "url": "https://www.nps.gov/elis/index.htm",
+      "title": "Ellis Island - National Park Service",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ellis_Island",
+      "title": "Ellis Island - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -70,5 +70,17 @@
     "science-versus-folklore",
     "ally",
     "rationalist-mediator"
+  ],
+  "links": [
+    {
+      "url": "https://sherlock-holmes.fandom.com/wiki/Dr._James_Mortimer",
+      "title": "Dr. James Mortimer - Sherlock Holmes Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles",
+      "title": "The Hound of the Baskervilles - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

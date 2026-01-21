@@ -77,5 +77,17 @@
     "british-cinema",
     "film",
     "television"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tom_Wilkinson",
+      "title": "Tom Wilkinson - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0923738/",
+      "title": "Tom Wilkinson - IMDb",
+      "type": "database"
+    }
   ]
 }

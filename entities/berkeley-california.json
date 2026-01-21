@@ -48,5 +48,17 @@
     "counterculture",
     "northern-california",
     "bay-area"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Berkeley,_California",
+      "title": "Berkeley, California - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.cityofberkeley.info/",
+      "title": "City of Berkeley Official Website",
+      "type": "official"
+    }
   ]
 }

@@ -60,5 +60,17 @@
     "counterintelligence",
     "covert-operations",
     "political-intrigue"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Smiley%27s_People",
+      "title": "Smiley's People - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://johnlecarre.fandom.com/wiki/Kirov",
+      "title": "Kirov - John le Carré Wiki (Fandom)",
+      "type": "fan-wiki"
+    }
   ]
 }

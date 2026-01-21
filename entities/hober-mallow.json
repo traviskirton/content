@@ -62,5 +62,17 @@
     "strategist",
     "commerce",
     "diplomacy"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Hober_Mallow",
+      "title": "Hober Mallow - Foundation Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Foundation_series#Characters",
+      "title": "Foundation series Characters - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

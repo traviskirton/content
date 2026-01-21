@@ -56,5 +56,12 @@
     "police-procedural",
     "detective",
     "sideline-rivalry"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Inspector_Gregson",
+      "title": "Inspector Gregson - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

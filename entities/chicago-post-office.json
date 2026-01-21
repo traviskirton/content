@@ -61,5 +61,17 @@
     "filming-location",
     "chicago",
     "urban"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Old_Chicago_Main_Post_Office",
+      "title": "Old Chicago Main Post Office - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.chicago.gov/city/en/depts/dcd/supp_info/post_office.html",
+      "title": "City of Chicago - Old Post Office Information",
+      "type": "official"
+    }
   ]
 }

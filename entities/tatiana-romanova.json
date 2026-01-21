@@ -68,5 +68,17 @@
     "cryptography",
     "espionage",
     "intelligence-gathering"
+  ],
+  "links": [
+    {
+      "url": "https://007.fandom.com/wiki/Tatiana_Romanova",
+      "title": "Tatiana Romanova - James Bond Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/From_Russia,_with_Love",
+      "title": "From Russia, with Love - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

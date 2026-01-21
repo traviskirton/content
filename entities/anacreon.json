@@ -52,5 +52,17 @@
     "four-kingdoms",
     "warrior-elites",
     "political-conflict"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Anacreon",
+      "title": "Anacreon - Foundation Fandom",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Foundation_series",
+      "title": "Foundation series - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

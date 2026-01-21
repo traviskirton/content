@@ -66,5 +66,17 @@
     "street-smart",
     "loyalty",
     "family-drama"
+  ],
+  "links": [
+    {
+      "url": "https://godfather.fandom.com/wiki/Vincent_Mancini",
+      "title": "Vincent Mancini - The Godfather Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather_Part_III#Plot",
+      "title": "The Godfather Part III - Wikipedia (plot section covering Vincent Mancini)",
+      "type": "wiki"
+    }
   ]
 }

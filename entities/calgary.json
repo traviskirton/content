@@ -55,5 +55,17 @@
     "tourist-attraction",
     "calgary-stampede",
     "urban-center"
+  ],
+  "links": [
+    {
+      "url": "https://www.calgary.ca/",
+      "title": "City of Calgary Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Calgary",
+      "title": "Calgary - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

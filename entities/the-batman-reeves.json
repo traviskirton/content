@@ -75,5 +75,17 @@
     "dc-universe",
     "crime",
     "vigilante"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Batman_(franchise)",
+      "title": "The Batman (franchise) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://batman.fandom.com/wiki/The_Batman_(Matt_Reeves_film_series)",
+      "title": "The Batman (Matt Reeves film series) - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

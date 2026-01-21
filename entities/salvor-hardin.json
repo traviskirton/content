@@ -63,5 +63,17 @@
     "classic-literature",
     "psychological-insight",
     "diplomacy"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Salvor_Hardin",
+      "title": "Salvor Hardin - Foundation Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Foundation_series#Plot_summary",
+      "title": "Foundation series - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

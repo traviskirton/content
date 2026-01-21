@@ -65,5 +65,17 @@
     "the-sprawl",
     "artificial-intelligence",
     "corporate-corruption"
+  ],
+  "links": [
+    {
+      "url": "https://cyberpunk.fandom.com/wiki/Bobby_Newmark",
+      "title": "Bobby Newmark - Cyberpunk Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Count_Zero",
+      "title": "Count Zero - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

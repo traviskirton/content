@@ -58,5 +58,17 @@
     "neuromancer",
     "covert-operations",
     "psychological-conflict"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Neuromancer#Plot",
+      "title": "Neuromancer - Wikipedia (includes character Armitage)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://cyberpunk.fandom.com/wiki/Armitage",
+      "title": "Armitage - Cyberpunk Wiki (fan-wiki)",
+      "type": "fan-wiki"
+    }
   ]
 }

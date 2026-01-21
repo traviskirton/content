@@ -66,5 +66,17 @@
     "hope",
     "love",
     "compassionate"
+  ],
+  "links": [
+    {
+      "url": "https://memory-alpha.fandom.com/wiki/Amelia_Brand",
+      "title": "Amelia Brand - Memory Alpha",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Interstellar_(film)",
+      "title": "Interstellar (film) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

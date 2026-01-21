@@ -74,5 +74,17 @@
     "ken-kocienda",
     "team-dynamics",
     "creative-process"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Creative_Selection",
+      "title": "Creative Selection - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.goodreads.com/book/show/29359671-creative-selection",
+      "title": "Creative Selection by Ken Kocienda - Goodreads",
+      "type": "database"
+    }
   ]
 }

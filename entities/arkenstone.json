@@ -65,5 +65,17 @@
     "heart-of-the-mountain",
     "king-thorin-oakenshield",
     "lonely-mountain"
+  ],
+  "links": [
+    {
+      "url": "https://tolkiengateway.net/wiki/Arkenstone",
+      "title": "Arkenstone - Tolkien Gateway (fan-wiki)",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arkenstone",
+      "title": "Arkenstone - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

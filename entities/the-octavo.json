@@ -58,5 +58,17 @@
     "living-spells",
     "magical-tome",
     "cosmic-magic"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/Octavo",
+      "title": "Octavo - Discworld Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Discworld",
+      "title": "Discworld - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

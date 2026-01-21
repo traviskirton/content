@@ -63,5 +63,17 @@
     "norse-inspired",
     "medieval-fantasy",
     "battle-hardened"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/%C3%89owyn",
+      "title": "Éowyn – Tolkien Gateway (Fandom)",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C3%89owyn",
+      "title": "Éowyn - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

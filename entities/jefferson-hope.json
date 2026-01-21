@@ -57,5 +57,17 @@
     "justice",
     "vengeance",
     "complex-character"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jefferson_Hope",
+      "title": "Jefferson Hope - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://sherlockholmes.fandom.com/wiki/Jefferson_Hope",
+      "title": "Jefferson Hope - Sherlock Holmes Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

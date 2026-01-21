@@ -55,5 +55,17 @@
     "surveillance-state",
     "neo-noir",
     "cybernetic-enhancements"
+  ],
+  "links": [
+    {
+      "url": "https://www.elsevier.com/books/mona-lisa-overdrive/william-gibson/9780441569595",
+      "title": "Mona Lisa Overdrive (William Gibson) - Publisher's page",
+      "type": "official"
+    },
+    {
+      "url": "https://cyberpunk.fandom.com/wiki/London_(Mona_Lisa_Overdrive)",
+      "title": "London (Mona Lisa Overdrive) - Cyberpunk Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

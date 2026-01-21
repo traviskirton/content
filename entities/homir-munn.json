@@ -67,5 +67,12 @@
     "archive",
     "scholarly",
     "intellectual"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Homir_Munn",
+      "title": "Homir Munn - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

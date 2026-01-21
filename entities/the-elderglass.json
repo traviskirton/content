@@ -55,5 +55,17 @@
     "otherworldly",
     "glass-structures",
     "mythic"
+  ],
+  "links": [
+    {
+      "url": "https://gentlemoon.fandom.com/wiki/Elderglass",
+      "title": "Elderglass - Gentlemoon Wiki (Dishonored Universe, includes Camorr and similar fantasy)",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://malazan.fandom.com/wiki/Elderglass",
+      "title": "Elderglass - Malazan Wiki (Ancient Glass Structures)",
+      "type": "fan-wiki"
+    }
   ]
 }

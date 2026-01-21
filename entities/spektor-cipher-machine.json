@@ -60,5 +60,12 @@
     "spy-novel",
     "from-russia-with-love",
     "mechanical-encryption"
+  ],
+  "links": [
+    {
+      "url": "https://007.fandom.com/wiki/Spektor_Cipher_Machine",
+      "title": "Spektor Cipher Machine - James Bond Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -62,5 +62,17 @@
     "filming-location",
     "public-access",
     "tours-available"
+  ],
+  "links": [
+    {
+      "url": "https://batterseapowerstation.co.uk/",
+      "title": "Battersea Power Station Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battersea_Power_Station",
+      "title": "Battersea Power Station - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

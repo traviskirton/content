@@ -266,5 +266,17 @@
     "visual-effects",
     "imax",
     "ensemble-cast"
+  ],
+  "links": [
+    {
+      "url": "https://www.interstellarmovie.net/",
+      "title": "Interstellar Official Movie Website",
+      "type": "official"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0816692/",
+      "title": "Interstellar - IMDb",
+      "type": "database"
+    }
   ]
 }

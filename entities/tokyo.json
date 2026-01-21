@@ -59,5 +59,17 @@
     "historic-temples",
     "shinjuku",
     "shibuya"
+  ],
+  "links": [
+    {
+      "url": "https://www.metro.tokyo.lg.jp/english/",
+      "title": "Tokyo Metropolitan Government Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tokyo",
+      "title": "Tokyo - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

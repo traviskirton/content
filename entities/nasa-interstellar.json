@@ -76,5 +76,17 @@
     "astrobiology",
     "humanity",
     "professor-brand"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/NASA",
+      "title": "NASA - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://interstellar.fandom.com/wiki/NASA",
+      "title": "NASA - Interstellar Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

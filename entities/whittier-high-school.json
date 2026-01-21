@@ -68,5 +68,17 @@
     "classic-architecture",
     "american-high-school",
     "back-to-the-future"
+  ],
+  "links": [
+    {
+      "url": "https://whittierhighschool.org/",
+      "title": "Whittier High School Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Whittier_High_School_(California)",
+      "title": "Whittier High School (California) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

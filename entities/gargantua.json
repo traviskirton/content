@@ -50,5 +50,17 @@
     "time-dilation",
     "event-horizon",
     "interstellar"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gargantua_(Interstellar)",
+      "title": "Gargantua (Interstellar) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://interstellar.fandom.com/wiki/Gargantua",
+      "title": "Gargantua - Interstellar Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -64,5 +64,17 @@
     "wisdom",
     "lothlorien",
     "elven-queen"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Galadriel",
+      "title": "Galadriel - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Galadriel",
+      "title": "Galadriel - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

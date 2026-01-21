@@ -61,5 +61,17 @@
     "batman-begins",
     "betrayal",
     "vigilantism"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Henri_Ducard",
+      "title": "Henri Ducard | DC Database",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Batman_Begins",
+      "title": "Batman Begins - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

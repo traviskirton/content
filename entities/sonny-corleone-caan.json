@@ -71,5 +71,17 @@
     "new-york",
     "impulsive",
     "family-loyalty"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sonny_Corleone",
+      "title": "Sonny Corleone - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Sonny_Corleone",
+      "title": "Sonny Corleone - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

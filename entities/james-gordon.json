@@ -84,5 +84,17 @@
     "corruption",
     "justice",
     "batman-ally"
+  ],
+  "links": [
+    {
+      "url": "https://dc.fandom.com/wiki/James_Gordon",
+      "title": "James Gordon - DC Fandom",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/James_Gordon_(comics)",
+      "title": "James Gordon (comics) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

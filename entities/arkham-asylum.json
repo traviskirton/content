@@ -60,5 +60,17 @@
     "asylum",
     "crime-ridden",
     "batman"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Arkham_Asylum",
+      "title": "Arkham Asylum - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://dc.fandom.com/wiki/Arkham_Asylum",
+      "title": "Arkham Asylum - DC Database (fan-wiki)",
+      "type": "fan-wiki"
+    }
   ]
 }

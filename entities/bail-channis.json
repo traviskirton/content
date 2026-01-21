@@ -66,5 +66,17 @@
     "mind-control",
     "foundation-universe",
     "psychological"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Bail_Channis",
+      "title": "Bail Channis - Foundation Wiki (Fandom)",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Foundation",
+      "title": "Second Foundation - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

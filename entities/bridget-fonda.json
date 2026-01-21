@@ -68,5 +68,17 @@
     "strong-female-roles",
     "naturalistic-performance",
     "hollywood"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bridget_Fonda",
+      "title": "Bridget Fonda - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0001222/",
+      "title": "Bridget Fonda - IMDb",
+      "type": "database"
+    }
   ]
 }

@@ -55,5 +55,12 @@
     "cold-war",
     "poker",
     "baccarat"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Casino_Royale_(novel)#Setting",
+      "title": "Casino Royale (novel) - Setting - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

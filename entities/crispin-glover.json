@@ -75,5 +75,17 @@
     "independent-film",
     "cult-classic",
     "unique-style"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Crispin_Glover",
+      "title": "Crispin Glover - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0000416/",
+      "title": "Crispin Glover - IMDb",
+      "type": "database"
+    }
   ]
 }

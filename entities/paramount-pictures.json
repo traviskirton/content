@@ -51,5 +51,17 @@
     "the-godfather",
     "cinema",
     "american-film-industry"
+  ],
+  "links": [
+    {
+      "url": "https://www.paramount.com/",
+      "title": "Paramount Pictures Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paramount_Pictures",
+      "title": "Paramount Pictures - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

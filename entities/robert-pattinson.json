@@ -83,5 +83,17 @@
     "british-actor",
     "versatile",
     "award-winning"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_Pattinson",
+      "title": "Robert Pattinson - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.robertpattinsonofficial.com/",
+      "title": "Robert Pattinson Official Website",
+      "type": "official"
+    }
   ]
 }

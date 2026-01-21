@@ -62,5 +62,17 @@
     "escape",
     "reluctant-hero",
     "magic"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/Rincewind",
+      "title": "Rincewind - Discworld Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_Discworld_characters#Rincewind",
+      "title": "Rincewind - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

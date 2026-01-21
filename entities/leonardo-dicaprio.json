@@ -83,5 +83,17 @@
     "method-acting",
     "collaborator",
     "award-winning"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Leonardo_DiCaprio",
+      "title": "Leonardo DiCaprio - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.leonardodicaprio.com/",
+      "title": "Leonardo DiCaprio Official Website",
+      "type": "official"
+    }
   ]
 }

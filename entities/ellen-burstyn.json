@@ -54,5 +54,12 @@
     "stage-actress",
     "character-actor",
     "versatile"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ellen_Burstyn",
+      "title": "Ellen Burstyn - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

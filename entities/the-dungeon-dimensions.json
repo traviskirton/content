@@ -55,5 +55,12 @@
     "magic",
     "otherworldly",
     "interdimensional-breaches"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/Dungeon_Dimensions",
+      "title": "Dungeon Dimensions - Discworld Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

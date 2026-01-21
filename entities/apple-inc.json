@@ -75,5 +75,17 @@
     "hardware",
     "ios",
     "ecosystem"
+  ],
+  "links": [
+    {
+      "url": "https://www.apple.com/",
+      "title": "Apple Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "title": "Apple Inc. - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -65,5 +65,17 @@
     "loyalty",
     "romantic-tension",
     "intelligence"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Miss_Moneypenny",
+      "title": "Miss Moneypenny - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.007.com/moneypenny",
+      "title": "Miss Moneypenny - Official James Bond 007",
+      "type": "official"
+    }
   ]
 }

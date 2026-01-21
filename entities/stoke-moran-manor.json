@@ -72,5 +72,17 @@
     "dark-ambiance",
     "classic-literature",
     "haunted-estate"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Adventure_of_the_Speckled_Band#Setting",
+      "title": "The Adventure of the Speckled Band - Wikipedia (Setting Section)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://sherlockholmes.fandom.com/wiki/Stoke_Moran_Manor",
+      "title": "Stoke Moran Manor - Sherlock Holmes Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

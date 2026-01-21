@@ -53,5 +53,12 @@
     "gotham-universe",
     "intensive-care",
     "architectural-design"
+  ],
+  "links": [
+    {
+      "url": "https://dc.fandom.com/wiki/Gotham_General_Hospital",
+      "title": "Gotham General Hospital - DC Database",
+      "type": "fan-wiki"
+    }
   ]
 }

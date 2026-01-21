@@ -78,5 +78,17 @@
     "retro",
     "ensemble-cast",
     "iconic"
+  ],
+  "links": [
+    {
+      "url": "https://www.universalpictures.com/franchises/back-to-the-future",
+      "title": "Back to the Future Franchise - Universal Pictures",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Back_to_the_Future",
+      "title": "Back to the Future - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

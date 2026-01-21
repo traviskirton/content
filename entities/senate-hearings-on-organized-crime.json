@@ -73,5 +73,17 @@
     "power-struggle",
     "law-enforcement",
     "mafioso"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kefauver_Hearings",
+      "title": "Kefauver Hearings - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather_Part_II",
+      "title": "The Godfather Part II - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

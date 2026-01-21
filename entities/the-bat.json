@@ -69,5 +69,17 @@
     "flying",
     "dark-knight",
     "wayne-enterprises"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Batwing",
+      "title": "Batwing (Vehicle) - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://dc.fandom.com/wiki/Batwing_(vehicle)",
+      "title": "Batwing - DC Database",
+      "type": "fan-wiki"
+    }
   ]
 }

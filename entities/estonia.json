@@ -54,5 +54,17 @@
     "european-history",
     "urban-landscape",
     "film-production"
+  ],
+  "links": [
+    {
+      "url": "https://www.visitestonia.com/en/",
+      "title": "Visit Estonia - Official Tourism Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Estonia",
+      "title": "Estonia - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

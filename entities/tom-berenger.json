@@ -62,5 +62,17 @@
     "authoritative-roles",
     "soap-operas",
     "academy-award-nominee"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tom_Berenger",
+      "title": "Tom Berenger - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0000823/",
+      "title": "Tom Berenger - IMDb",
+      "type": "database"
+    }
   ]
 }

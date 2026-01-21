@@ -92,5 +92,17 @@
     "mr-fusion",
     "doc-brown",
     "back-to-the-future"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/DeLorean_Time_Machine",
+      "title": "DeLorean Time Machine - Back to the Future Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/DeLorean_time_machine",
+      "title": "DeLorean time machine - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -54,5 +54,17 @@
     "love-theme",
     "mafia-culture",
     "instrumental"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather_Theme_(Speak_Softly_Love)",
+      "title": "The Godfather Theme (Speak Softly Love) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://musicbrainz.org/work/2afd1cc8-3da4-3bed-bf72-f8d87f412ae7",
+      "title": "The Godfather Theme (Speak Softly Love) - MusicBrainz",
+      "type": "database"
+    }
   ]
 }

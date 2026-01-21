@@ -53,5 +53,17 @@
     "innovation",
     "isolated",
     "turning-point"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Colorado_Springs,_Colorado",
+      "title": "Colorado Springs, Colorado - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.visitcos.com/",
+      "title": "Visit Colorado Springs - Official Tourism Site",
+      "type": "official"
+    }
   ]
 }

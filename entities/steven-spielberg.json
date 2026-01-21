@@ -76,5 +76,17 @@
     "john-williams",
     "indiana-jones",
     "classic-cinema"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Steven_Spielberg",
+      "title": "Steven Spielberg - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0000229/",
+      "title": "Steven Spielberg - IMDb",
+      "type": "database"
+    }
   ]
 }

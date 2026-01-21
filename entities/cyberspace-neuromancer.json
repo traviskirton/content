@@ -55,5 +55,17 @@
     "fictional-universe",
     "neural-interface",
     "digital-landscape"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Neuromancer#Themes",
+      "title": "Neuromancer - Wikipedia (Themes section)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://cyberspace.fandom.com/wiki/Cyberspace",
+      "title": "Cyberspace (Neuromancer) - Cyberspace Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -58,5 +58,17 @@
     "power-struggles",
     "bureaucracy",
     "moscow-centre"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Smiley",
+      "title": "George Smiley - Wikipedia (character context)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://johnlecarre.fandom.com/wiki/General_Vladimir",
+      "title": "General Vladimir - John le Carré Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

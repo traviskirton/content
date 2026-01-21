@@ -65,5 +65,12 @@
     "strategy",
     "political-intrigue",
     "commerce"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Toran_Darell",
+      "title": "Toran Darell - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

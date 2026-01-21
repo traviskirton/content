@@ -60,5 +60,17 @@
     "english-heritage",
     "film-location",
     "dark-knight-rises"
+  ],
+  "links": [
+    {
+      "url": "https://www.nottinghamcity.gov.uk/wollatonhall",
+      "title": "Wollaton Hall - Official Nottingham City Council Page",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wollaton_Hall",
+      "title": "Wollaton Hall - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

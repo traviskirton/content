@@ -55,5 +55,12 @@
     "underground",
     "mission-control",
     "lazarus-missions"
+  ],
+  "links": [
+    {
+      "url": "https://interstellar.fandom.com/wiki/NASA",
+      "title": "NASA Facility - Interstellar Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

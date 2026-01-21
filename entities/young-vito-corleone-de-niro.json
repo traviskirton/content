@@ -62,5 +62,17 @@
     "early-20th-century",
     "honor",
     "family-loyalty"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Vito_Corleone",
+      "title": "Vito Corleone - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://the-godfather.fandom.com/wiki/Vito_Corleone",
+      "title": "Vito Corleone - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

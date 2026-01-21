@@ -66,5 +66,17 @@
     "orc",
     "subterranean",
     "tribal-leader"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Great_Goblin",
+      "title": "Great Goblin - Tolkien Gateway (Fandom Wiki)",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_characters_in_The_Lord_of_the_Rings#Other_characters",
+      "title": "List of Characters in The Lord of the Rings - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

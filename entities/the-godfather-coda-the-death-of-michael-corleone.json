@@ -112,5 +112,12 @@
     "crime-family",
     "classic",
     "american-cinema"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather_Coda:_The_Death_of_Michael_Corleone",
+      "title": "The Godfather Coda: The Death of Michael Corleone - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

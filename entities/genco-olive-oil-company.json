@@ -57,5 +57,17 @@
     "organized-crime",
     "money-laundering",
     "corleone"
+  ],
+  "links": [
+    {
+      "url": "https://godfather.fandom.com/wiki/Genco_Olive_Oil_Company",
+      "title": "Genco Olive Oil Company - The Godfather Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather",
+      "title": "The Godfather - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

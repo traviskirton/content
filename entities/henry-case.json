@@ -61,5 +61,17 @@
     "cyberspace",
     "drug-use",
     "chiba-city"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Case_(Neuromancer)",
+      "title": "Case (Neuromancer) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://cyberpunk.fandom.com/wiki/Henry_Case",
+      "title": "Henry Case - Cyberpunk Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

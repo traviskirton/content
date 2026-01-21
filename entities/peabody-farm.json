@@ -51,5 +51,12 @@
     "1985",
     "back-to-the-future",
     "family-farm"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Peabody_Farm",
+      "title": "Peabody Farm - Back to the Future Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

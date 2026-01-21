@@ -55,5 +55,12 @@
     "austere",
     "surveillance",
     "espionage-thriller"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Checkpoint_Charlie",
+      "title": "Checkpoint Charlie - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

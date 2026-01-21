@@ -228,5 +228,17 @@
     "jack-nicholson",
     "batman",
     "iconic-score"
+  ],
+  "links": [
+    {
+      "url": "https://www.warnerbros.com/movies/batman-1989",
+      "title": "Batman (1989) Official Warner Bros. Page",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Batman_(1989_film)",
+      "title": "Batman (1989 film) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

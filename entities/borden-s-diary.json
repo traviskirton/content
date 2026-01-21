@@ -66,5 +66,12 @@
     "alfred-borden",
     "rivalry",
     "handwritten"
+  ],
+  "links": [
+    {
+      "url": "https://dc.fandom.com/wiki/Alfred_Borden#The_Professor's_Diary",
+      "title": "Alfred Borden - DC Database",
+      "type": "fan-wiki"
+    }
   ]
 }

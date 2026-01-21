@@ -58,5 +58,12 @@
     "criminal-underworld",
     "noble",
     "urban"
+  ],
+  "links": [
+    {
+      "url": "https://thelocksleyhouse.fandom.com/wiki/Capa_Barsavi",
+      "title": "Capa Barsavi - Locksley House Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

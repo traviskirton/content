@@ -55,5 +55,17 @@
     "scenic-countryside",
     "historic-landmarks",
     "charming-towns"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bedfordshire",
+      "title": "Bedfordshire - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.bedfordshire.gov.uk/",
+      "title": "Bedfordshire Council Official Website",
+      "type": "official"
+    }
   ]
 }

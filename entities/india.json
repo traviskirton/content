@@ -53,5 +53,17 @@
     "vibrant",
     "diverse",
     "india"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/India",
+      "title": "India - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.incredibleindia.org",
+      "title": "Incredible India - Official Tourism Website",
+      "type": "official"
+    }
   ]
 }

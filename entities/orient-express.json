@@ -54,5 +54,17 @@
     "european-rail",
     "mystery",
     "classic-train"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Orient_Express",
+      "title": "Orient Express - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0059080/locations",
+      "title": "From Russia with Love (1963) - Filming Locations - IMDb",
+      "type": "database"
+    }
   ]
 }

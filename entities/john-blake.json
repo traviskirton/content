@@ -60,5 +60,17 @@
     "detective",
     "batman",
     "loyal"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/John_Blake",
+      "title": "John Blake - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Blake_(The_Dark_Knight_Rises)",
+      "title": "John Blake (The Dark Knight Rises) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

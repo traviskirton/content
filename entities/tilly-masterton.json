@@ -58,5 +58,17 @@
     "grief",
     "family-loyalty",
     "motivator"
+  ],
+  "links": [
+    {
+      "url": "https://www.imdb.com/title/tt0058150/characters/nm52318",
+      "title": "Tilly Masterton - IMDb",
+      "type": "database"
+    },
+    {
+      "url": "https://goldfinger.fandom.com/wiki/Tilly_Masterton",
+      "title": "Tilly Masterton - Goldfinger Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

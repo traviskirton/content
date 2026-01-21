@@ -68,5 +68,17 @@
     "film-music",
     "indie",
     "soundtrack-contributor"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Lukas_Haas",
+      "title": "Lukas Haas - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0001318/",
+      "title": "Lukas Haas - IMDb",
+      "type": "database"
+    }
   ]
 }

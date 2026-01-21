@@ -57,5 +57,17 @@
     "diplomacy",
     "political-leader",
     "science-fiction"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Ankor_Jael",
+      "title": "Ankor Jael - Foundation Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Foundation_series",
+      "title": "Foundation series - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

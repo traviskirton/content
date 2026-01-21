@@ -61,5 +61,17 @@
     "black-hand",
     "new-york",
     "organized-crime"
+  ],
+  "links": [
+    {
+      "url": "https://thegodfather.fandom.com/wiki/Don_Fanucci",
+      "title": "Don Fanucci - The Godfather Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Don_Fanucci",
+      "title": "Don Fanucci - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

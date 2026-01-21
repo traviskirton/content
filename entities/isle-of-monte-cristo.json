@@ -47,5 +47,12 @@
     "secrecy",
     "dumas",
     "count-of-monte-cristo"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo",
+      "title": "The Count of Monte Cristo - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

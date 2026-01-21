@@ -54,5 +54,12 @@
     "political-center",
     "medieval-architecture",
     "historical-city"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bern",
+      "title": "Bern - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

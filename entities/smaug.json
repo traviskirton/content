@@ -68,5 +68,17 @@
     "greed",
     "fiery-wrath",
     "psychological-manipulator"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Smaug",
+      "title": "Smaug - Tolkien Gateway (Fandom)",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Smaug",
+      "title": "Smaug - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

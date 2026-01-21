@@ -72,5 +72,17 @@
     "software-development",
     "creative-selection",
     "human-centered-design"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ken_Kocienda",
+      "title": "Ken Kocienda - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.kenkocienda.com/",
+      "title": "Ken Kocienda Official Website",
+      "type": "official"
+    }
   ]
 }

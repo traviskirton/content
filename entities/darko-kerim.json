@@ -58,5 +58,12 @@
     "firearms",
     "espionage",
     "criminal-organization"
+  ],
+  "links": [
+    {
+      "url": "https://007.fandom.com/wiki/Darko_Kerim",
+      "title": "Darko Kerim - 007 Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

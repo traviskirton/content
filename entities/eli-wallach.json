@@ -70,5 +70,17 @@
     "honorary-oscar",
     "character-driven",
     "award-winning"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Eli_Wallach",
+      "title": "Eli Wallach - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0905968/",
+      "title": "Eli Wallach - IMDb",
+      "type": "database"
+    }
   ]
 }

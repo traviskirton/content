@@ -57,5 +57,17 @@
     "bureaucratic",
     "persistent",
     "justice"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather_Part_III",
+      "title": "The Godfather Part III - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0099674/fullcredits",
+      "title": "The Godfather Part III Cast & Crew - IMDb",
+      "type": "database"
+    }
   ]
 }

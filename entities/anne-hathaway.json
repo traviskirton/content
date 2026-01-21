@@ -83,5 +83,17 @@
     "versatile",
     "emotional-range",
     "charismatic-presence"
+  ],
+  "links": [
+    {
+      "url": "https://www.annehathaway.com/",
+      "title": "Anne Hathaway Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anne_Hathaway_(actress)",
+      "title": "Anne Hathaway - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

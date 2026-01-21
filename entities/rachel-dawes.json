@@ -68,5 +68,12 @@
     "justice",
     "batman-universe",
     "assistant-district-attorney"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Rachel_Dawes",
+      "title": "Rachel Dawes - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

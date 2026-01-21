@@ -62,5 +62,12 @@
     "strategy",
     "logistics",
     "ground-operations"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Sef_Sermak",
+      "title": "Sef Sermak - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -68,5 +68,17 @@
     "paranoia",
     "realism",
     "espionage-tradecraft"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Karla_trilogy",
+      "title": "Karla Trilogy - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://john-le-carre.com/books/karla-trilogy",
+      "title": "John le Carré Official Site - Karla Trilogy",
+      "type": "official"
+    }
   ]
 }

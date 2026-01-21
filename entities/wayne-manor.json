@@ -71,5 +71,17 @@
     "gothic-architecture",
     "estate",
     "hidden-passages"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Wayne_Manor",
+      "title": "Wayne Manor - DC Database (Fandom)",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wayne_Manor",
+      "title": "Wayne Manor - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -58,5 +58,17 @@
     "desperation",
     "arthur-conan-doyle",
     "wild-man"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles#Characters",
+      "title": "The Hound of the Baskervilles Characters - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://sherlockholmes.fandom.com/wiki/Selden",
+      "title": "Selden - Sherlock Holmes Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

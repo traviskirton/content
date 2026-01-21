@@ -62,5 +62,12 @@
     "dark-design",
     "wayne-enterprises",
     "gotham"
+  ],
+  "links": [
+    {
+      "url": "https://dc.fandom.com/wiki/Batcycle_(The_Batman_2022)",
+      "title": "Batcycle (The Batman 2022) - DC Database",
+      "type": "fan-wiki"
+    }
   ]
 }

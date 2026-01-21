@@ -75,5 +75,12 @@
     "minimalism",
     "touchscreen",
     "usability"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Greg_Christie_(software_designer)",
+      "title": "Greg Christie (software designer) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

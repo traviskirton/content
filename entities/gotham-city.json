@@ -112,5 +112,17 @@
     "gothic-architecture",
     "noir",
     "batman"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gotham_City",
+      "title": "Gotham City - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://dc.fandom.com/wiki/Gotham_City",
+      "title": "Gotham City - DC Database",
+      "type": "fan-wiki"
+    }
   ]
 }

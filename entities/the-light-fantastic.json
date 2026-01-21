@@ -69,5 +69,17 @@
     "friendship",
     "loyalty",
     "pratchett"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Light_Fantastic",
+      "title": "The Light Fantastic - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://discworld.fandom.com/wiki/The_Light_Fantastic",
+      "title": "The Light Fantastic - Discworld Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

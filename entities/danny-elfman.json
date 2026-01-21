@@ -81,5 +81,17 @@
     "whimsical",
     "avant-garde",
     "eclectic"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Danny_Elfman",
+      "title": "Danny Elfman - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.dannyelfman.com/",
+      "title": "Danny Elfman Official Website",
+      "type": "official"
+    }
   ]
 }

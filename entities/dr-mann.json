@@ -62,5 +62,17 @@
     "fear",
     "interpersonal-conflict",
     "matt-damon"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Interstellar_(film)",
+      "title": "Interstellar (film) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://interstellar.fandom.com/wiki/Dr._Mann",
+      "title": "Dr. Mann - Interstellar Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -48,5 +48,12 @@
     "artifact",
     "mystery",
     "macguffin"
+  ],
+  "links": [
+    {
+      "url": "https://theprestigewiki.com/wiki/Robert_Angier's_Journal",
+      "title": "Robert Angier's Journal - The Prestige Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

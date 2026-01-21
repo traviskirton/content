@@ -57,5 +57,12 @@
     "family-estate",
     "mafia-headquarters",
     "suburban"
+  ],
+  "links": [
+    {
+      "url": "https://godfather.fandom.com/wiki/Corleone_Compound",
+      "title": "Corleone Compound - Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

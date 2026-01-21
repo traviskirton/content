@@ -58,5 +58,17 @@
     "stage-magic",
     "the-prestige",
     "christian-bale"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Prestige_(film)#Characters",
+      "title": "The Prestige (film) - Wikipedia (Character: Alfred Borden)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://theprestigefanon.fandom.com/wiki/Alfred_Borden",
+      "title": "Alfred Borden - The Prestige Fandom",
+      "type": "fan-wiki"
+    }
   ]
 }

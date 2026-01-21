@@ -53,5 +53,12 @@
     "landmark",
     "batman",
     "climactic-battle"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Gotham_Cathedral",
+      "title": "Gotham Cathedral - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

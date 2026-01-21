@@ -69,5 +69,12 @@
     "redemption",
     "military-tactics",
     "noble-ethics"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Albert_de_Morcerf",
+      "title": "Albert de Morcerf - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

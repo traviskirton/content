@@ -62,5 +62,17 @@
     "loyalty",
     "tenet",
     "john-david-washington"
+  ],
+  "links": [
+    {
+      "url": "https://tenet.movie/",
+      "title": "Tenet Official Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tenet_(film)",
+      "title": "Tenet - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

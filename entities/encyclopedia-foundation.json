@@ -53,5 +53,12 @@
     "science",
     "terminus",
     "scholarship"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Encyclopedia_Foundation",
+      "title": "Encyclopedia Foundation - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

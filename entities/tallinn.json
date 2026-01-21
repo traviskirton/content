@@ -54,5 +54,12 @@
     "urban",
     "maritime",
     "tenet"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tallinn",
+      "title": "Tallinn - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

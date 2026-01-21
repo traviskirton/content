@@ -78,5 +78,17 @@
     "colonialism",
     "deduction",
     "english-country-estate"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Adventure_of_the_Speckled_Band",
+      "title": "The Adventure of the Speckled Band - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.gutenberg.org/ebooks/1661",
+      "title": "The Adventures of Sherlock Holmes by Arthur Conan Doyle - Project Gutenberg",
+      "type": "official"
+    }
   ]
 }

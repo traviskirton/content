@@ -47,5 +47,12 @@
     "habitable-world",
     "rugged-terrain",
     "new-colony"
+  ],
+  "links": [
+    {
+      "url": "https://interstellar.fandom.com/wiki/Edmund%27s_Planet",
+      "title": "Edmund's Planet - Interstellar Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

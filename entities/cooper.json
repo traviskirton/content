@@ -56,5 +56,17 @@
     "family-driven",
     "engineer",
     "mission-leader"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Joseph_Cooper_(Interstellar)",
+      "title": "Joseph Cooper (Interstellar) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://interstellarfans.com/wiki/Joseph_Cooper",
+      "title": "Joseph Cooper - Interstellar Wiki (fan wiki)",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -72,5 +72,17 @@
     "bravery",
     "woodland-craft",
     "tactical-insight"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Meriadoc_Brandybuck",
+      "title": "Meriadoc Brandybuck - LOTR Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Meriadoc_Brandybuck",
+      "title": "Meriadoc Brandybuck - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

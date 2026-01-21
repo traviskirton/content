@@ -50,5 +50,17 @@
     "western-films",
     "public-access",
     "guided-tours"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Monument_Valley",
+      "title": "Monument Valley - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.nps.gov/parkhistory/monumentvalley.htm",
+      "title": "Monument Valley Navajo Tribal Park - Official Info",
+      "type": "official"
+    }
   ]
 }

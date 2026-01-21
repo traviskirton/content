@@ -79,5 +79,17 @@
     "fictional-universe",
     "legendarium",
     "epic-fantasy"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Middle-earth",
+      "title": "Middle-earth - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Middle-earth",
+      "title": "Middle-earth - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

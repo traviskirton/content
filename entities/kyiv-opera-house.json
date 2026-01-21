@@ -53,5 +53,12 @@
     "time-manipulation",
     "spy-thriller",
     "grand-architecture"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/National_Opera_of_Ukraine",
+      "title": "National Opera of Ukraine - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

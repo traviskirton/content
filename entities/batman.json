@@ -117,5 +117,17 @@
     "vigilantism",
     "rogue-gallery",
     "comic-books"
+  ],
+  "links": [
+    {
+      "url": "https://www.dc.com/characters/batman",
+      "title": "Batman - DC Official Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Batman",
+      "title": "Batman - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

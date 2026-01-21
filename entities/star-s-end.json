@@ -50,5 +50,12 @@
     "philosophical",
     "existential",
     "destiny"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Star%27s_End",
+      "title": "Star's End - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

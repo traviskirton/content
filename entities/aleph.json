@@ -65,5 +65,12 @@
     "data-manipulation",
     "espionage",
     "machine-learning"
+  ],
+  "links": [
+    {
+      "url": "https://cyberpunk.fandom.com/wiki/Aleph",
+      "title": "Aleph - Cyberpunk Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

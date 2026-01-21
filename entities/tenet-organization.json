@@ -62,5 +62,17 @@
     "high-stakes-mission",
     "science-fiction",
     "temporal-disaster-prevention"
+  ],
+  "links": [
+    {
+      "url": "https://tenetmovie.com/",
+      "title": "Tenet Official Movie Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tenet_(organization)",
+      "title": "Tenet (fictional organization) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -61,5 +61,12 @@
     "ethical-dilemma",
     "scientific-responsibility",
     "oppenheimer"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "title": "Albert Einstein - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

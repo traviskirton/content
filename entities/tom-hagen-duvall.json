@@ -71,5 +71,17 @@
     "crime-drama",
     "diplomatic",
     "organized-crime"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tom_Hagen",
+      "title": "Tom Hagen - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Tom_Hagen",
+      "title": "Tom Hagen - The Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

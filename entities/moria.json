@@ -54,5 +54,17 @@
     "subterranean",
     "labyrinthine",
     "ancient-ruins"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Moria",
+      "title": "Moria - The One Wiki to Rule Them All",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moria_(Middle-earth)",
+      "title": "Moria (Middle-earth) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

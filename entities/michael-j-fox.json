@@ -81,5 +81,17 @@
     "parkinsons-research",
     "sitcom",
     "emmy-winner"
+  ],
+  "links": [
+    {
+      "url": "https://michaeljfox.org/",
+      "title": "Michael J. Fox Foundation Official Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Michael_J._Fox",
+      "title": "Michael J. Fox - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

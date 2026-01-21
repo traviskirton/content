@@ -272,5 +272,17 @@
     "urban-decay",
     "vigilante",
     "batman"
+  ],
+  "links": [
+    {
+      "url": "https://www.warnerbros.com/movies/batman-begins",
+      "title": "Batman Begins Official Warner Bros. Page",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Batman_Begins",
+      "title": "Batman Begins - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

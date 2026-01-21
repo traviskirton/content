@@ -55,5 +55,17 @@
     "cold-war",
     "q-branch",
     "from-russia-with-love"
+  ],
+  "links": [
+    {
+      "url": "https://007wiki.com/wiki/Briefcase_(From_Russia_with_Love)",
+      "title": "Periscope Briefcase - 007 Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_James_Bond_gadgets",
+      "title": "List of James Bond Gadgets - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

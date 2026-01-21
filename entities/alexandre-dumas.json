@@ -59,5 +59,12 @@
     "swashbuckling",
     "serialized-fiction",
     "adventure-novels"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Alexandre_Dumas",
+      "title": "Alexandre Dumas - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

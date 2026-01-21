@@ -69,5 +69,17 @@
     "naturalistic-acting",
     "gangster-cinema",
     "method-actor"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Marlon_Brando",
+      "title": "Marlon Brando - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0000008/",
+      "title": "Marlon Brando - IMDb",
+      "type": "database"
+    }
   ]
 }

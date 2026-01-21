@@ -60,5 +60,12 @@
     "columbia-university",
     "atomic-bomb",
     "critical-thinker"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Isidor_Isaac_Rabi",
+      "title": "Isidor Isaac Rabi - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

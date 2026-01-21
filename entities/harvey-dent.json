@@ -70,5 +70,17 @@
     "coin-flip",
     "gotham",
     "split-personality"
+  ],
+  "links": [
+    {
+      "url": "https://dc.fandom.com/wiki/Harvey_Dent_(New_Earth)",
+      "title": "Harvey Dent (New Earth) | DC Database",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Two-Face",
+      "title": "Two-Face - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -52,5 +52,17 @@
   "aliases": [
     "Browning",
     "Uncle Peter"
+  ],
+  "links": [
+    {
+      "url": "https://inception.fandom.com/wiki/Peter_Browning",
+      "title": "Peter Browning - Inception Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Inception#Characters",
+      "title": "Inception - Wikipedia (Characters)",
+      "type": "wiki"
+    }
   ]
 }

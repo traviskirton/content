@@ -61,5 +61,17 @@
     "household-manager",
     "dark-humor",
     "supernatural"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/Ysabell",
+      "title": "Ysabell - Discworld Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Discworld_characters#Ysabell",
+      "title": "Discworld characters - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -66,5 +66,12 @@
     "reckless",
     "back-to-the-future",
     "tech-enhanced"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Griff_Tannen",
+      "title": "Griff Tannen - Back to the Future Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

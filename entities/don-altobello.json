@@ -62,5 +62,17 @@
     "cunning",
     "mobster",
     "crime-drama"
+  ],
+  "links": [
+    {
+      "url": "https://thegodfather.fandom.com/wiki/Don_Altobello",
+      "title": "Don Altobello - The Godfather Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Don_Altobello",
+      "title": "Don Altobello - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

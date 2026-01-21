@@ -70,5 +70,17 @@
     "middle-earth",
     "king",
     "strider"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Aragorn",
+      "title": "Aragorn - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aragorn",
+      "title": "Aragorn - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

@@ -59,5 +59,12 @@
     "gotham-city",
     "batman-1989",
     "axis-chemicals"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Smylex",
+      "title": "Smylex - Batman Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

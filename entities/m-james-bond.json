@@ -57,5 +57,17 @@
     "british-intelligence",
     "government",
     "political"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/M_(James_Bond)",
+      "title": "M (James Bond) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://jamesbond.fandom.com/wiki/M",
+      "title": "M - James Bond Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

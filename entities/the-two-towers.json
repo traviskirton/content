@@ -80,5 +80,17 @@
     "environmentalism",
     "loyalty",
     "friendship"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Two_Towers",
+      "title": "The Two Towers - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://lotr.fandom.com/wiki/The_Two_Towers",
+      "title": "The Two Towers - Tolkien Gateway",
+      "type": "fan-wiki"
+    }
   ]
 }

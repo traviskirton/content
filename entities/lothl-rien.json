@@ -53,5 +53,17 @@
     "second-age",
     "elven-rings",
     "twilight-era"
+  ],
+  "links": [
+    {
+      "url": "https://tolkiengateway.net/wiki/Lothl%C3%B3rien",
+      "title": "Lothlórien - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://lotr.fandom.com/wiki/Lothl%C3%B3rien",
+      "title": "Lothlórien - The Lord of the Rings Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

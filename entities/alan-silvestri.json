@@ -91,5 +91,17 @@
     "orchestral",
     "hollywood",
     "classic"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Alan_Silvestri",
+      "title": "Alan Silvestri - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.alan-silvestri.com/",
+      "title": "Alan Silvestri Official Site",
+      "type": "official"
+    }
   ]
 }

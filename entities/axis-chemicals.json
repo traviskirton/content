@@ -54,5 +54,12 @@
     "gothic",
     "dark",
     "crime-ridden"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Axis_Chemicals",
+      "title": "Axis Chemicals - DC Database (Fandom)",
+      "type": "fan-wiki"
+    }
   ]
 }

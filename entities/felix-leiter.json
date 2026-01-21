@@ -55,5 +55,17 @@
     "cold-war",
     "field-agent",
     "trusted-ally"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Felix_Leiter",
+      "title": "Felix Leiter - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Felix_Leiter",
+      "title": "Felix Leiter - James Bond Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

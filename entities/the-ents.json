@@ -61,5 +61,17 @@
     "fangorn",
     "entmoot",
     "mythical"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Ents",
+      "title": "Ents - Tolkien Gateway",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ent",
+      "title": "Ent - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

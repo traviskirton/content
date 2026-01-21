@@ -62,5 +62,12 @@
     "jukebox",
     "hill-valley",
     "american-diner"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Lou%27s_Cafe",
+      "title": "Lou's Cafe - Back to the Future Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

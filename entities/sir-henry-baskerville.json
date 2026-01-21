@@ -67,5 +67,17 @@
     "devon-moor",
     "gothic",
     "survivor"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles#Characters",
+      "title": "The Hound of the Baskervilles - Wikipedia Characters section",
+      "type": "wiki"
+    },
+    {
+      "url": "https://sherlock.fandom.com/wiki/Sir_Henry_Baskerville",
+      "title": "Sir Henry Baskerville - Sherlockian Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

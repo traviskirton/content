@@ -59,5 +59,17 @@
     "intelligence-analyst",
     "cambridge",
     "cold-war"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Connie_Sachs",
+      "title": "Connie Sachs - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://lecarrewiki.com/Connie_Sachs",
+      "title": "Connie Sachs - leCarreWiki",
+      "type": "fan-wiki"
+    }
   ]
 }

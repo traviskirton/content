@@ -88,5 +88,17 @@
     "burbank",
     "major-studio",
     "founder-thomas-tull"
+  ],
+  "links": [
+    {
+      "url": "https://www.legendary.com/",
+      "title": "Legendary Entertainment Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Legendary_Entertainment",
+      "title": "Legendary Entertainment - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

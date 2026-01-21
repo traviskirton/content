@@ -75,5 +75,17 @@
     "grand-tourer",
     "wire-spoke-wheels",
     "british-automobiles"
+  ],
+  "links": [
+    {
+      "url": "https://www.astonmartin.com/en/models/db-mark-iii",
+      "title": "Aston Martin DB Mark III - Official Aston Martin Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aston_Martin_D_B2/4_Mark_III",
+      "title": "Aston Martin DB Mark III - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

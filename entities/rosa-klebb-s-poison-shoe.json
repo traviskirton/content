@@ -55,5 +55,17 @@
     "poison",
     "spy-gadget",
     "hidden-blade"
+  ],
+  "links": [
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Rosa_Klebb's_Poison_Shoe",
+      "title": "Rosa Klebb's Poison Shoe - James Bond Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rosa_Klebb",
+      "title": "Rosa Klebb - Wikipedia (weapon mentioned)",
+      "type": "wiki"
+    }
   ]
 }

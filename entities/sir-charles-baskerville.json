@@ -62,5 +62,17 @@
     "legacy",
     "family-curse",
     "moors"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles#Characters",
+      "title": "The Hound of the Baskervilles - Wikipedia Characters section",
+      "type": "wiki"
+    },
+    {
+      "url": "https://sherlock.fandom.com/wiki/Sir_Charles_Baskerville",
+      "title": "Sir Charles Baskerville - Sherlockian Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -57,5 +57,12 @@
     "fixer",
     "chiba-city",
     "information-broker"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Neuromancer#Characters",
+      "title": "Neuromancer - Wikipedia (Characters Section)",
+      "type": "wiki"
+    }
   ]
 }

@@ -65,5 +65,12 @@
     "spy-thriller",
     "diplomatic-mission",
     "intelligence-hub"
+  ],
+  "links": [
+    {
+      "url": "https://007.fandom.com/wiki/Soviet_Embassy,_Istanbul",
+      "title": "Soviet Embassy, Istanbul - James Bond Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

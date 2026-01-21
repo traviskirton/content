@@ -54,5 +54,12 @@
     "esoteric",
     "mythic",
     "mystical-nexus"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/EcksEcksEcksEcks",
+      "title": "EcksEcksEcksEcks - Discworld Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

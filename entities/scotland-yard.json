@@ -62,5 +62,17 @@
     "victorian-era",
     "crime-prevention",
     "law-and-order"
+  ],
+  "links": [
+    {
+      "url": "https://www.met.police.uk/",
+      "title": "Metropolitan Police Service Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Scotland_Yard",
+      "title": "Scotland Yard - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

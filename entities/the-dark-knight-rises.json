@@ -307,5 +307,17 @@
     "physical-stunts",
     "ensemble-cast",
     "imax"
+  ],
+  "links": [
+    {
+      "url": "https://www.warnerbros.com/movies/dark-knight-rises",
+      "title": "The Dark Knight Rises - Warner Bros. Official Page",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Dark_Knight_Rises",
+      "title": "The Dark Knight Rises - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

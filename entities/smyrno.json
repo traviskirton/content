@@ -50,5 +50,12 @@
     "peripheral-system",
     "interstellar-politics",
     "isaac-asimov"
+  ],
+  "links": [
+    {
+      "url": "https://foundation.fandom.com/wiki/Smyrno",
+      "title": "Smyrno - Foundation Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

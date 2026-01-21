@@ -64,5 +64,17 @@
     "resilient",
     "john-lithgow",
     "interstellar"
+  ],
+  "links": [
+    {
+      "url": "https://interstellar.fandom.com/wiki/Donald",
+      "title": "Donald - Interstellar Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0816692/characters/nm0000000",
+      "title": "Interstellar Cast & Characters - IMDb",
+      "type": "database"
+    }
   ]
 }

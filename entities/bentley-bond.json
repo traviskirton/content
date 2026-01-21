@@ -64,5 +64,17 @@
     "mid-20th-century",
     "sophistication",
     "elegance"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/James_Bond_cars#Casino_Royale",
+      "title": "James Bond Cars - Wikipedia (Casino Royale section)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Bentley",
+      "title": "Bentley - James Bond Wiki (Fandom)",
+      "type": "fan-wiki"
+    }
   ]
 }

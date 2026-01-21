@@ -75,5 +75,17 @@
     "power",
     "legacy",
     "mario-puzo"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather",
+      "title": "The Godfather (Novel) - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.mariopuzo.com/",
+      "title": "Mario Puzo Official Website",
+      "type": "official"
+    }
   ]
 }

@@ -69,5 +69,17 @@
     "northern-ireland",
     "renaissance-theatre",
     "feature-films"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kenneth_Branagh",
+      "title": "Kenneth Branagh - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.kennethbranagh.com/",
+      "title": "Kenneth Branagh Official Website",
+      "type": "official"
+    }
   ]
 }

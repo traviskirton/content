@@ -65,5 +65,17 @@
     "family",
     "sacrifice",
     "hope"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Interstellar_(film)#Cast",
+      "title": "Interstellar (film) - Wikipedia (Cast section)",
+      "type": "wiki"
+    },
+    {
+      "url": "https://interstellar.fandom.com/wiki/Murph_Cooper",
+      "title": "Murph Cooper - Interstellar Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

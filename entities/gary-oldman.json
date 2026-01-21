@@ -76,5 +76,17 @@
     "character-actor",
     "chameleon",
     "stage-experience"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gary_Oldman",
+      "title": "Gary Oldman - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.instagram.com/garyoldman/",
+      "title": "Gary Oldman (@garyoldman) • Instagram",
+      "type": "official"
+    }
   ]
 }

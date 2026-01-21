@@ -62,5 +62,17 @@
     "scientific-research",
     "military",
     "classified"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+      "title": "Manhattan Project - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.atomicheritage.org/history/manhattan-project",
+      "title": "Manhattan Project - Atomic Heritage Foundation",
+      "type": "official"
+    }
   ]
 }

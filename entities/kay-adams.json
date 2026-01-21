@@ -62,5 +62,12 @@
     "american",
     "emotional-intelligence",
     "corleone-family"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kay_Adams",
+      "title": "Kay Adams - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

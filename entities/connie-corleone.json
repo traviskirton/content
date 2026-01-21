@@ -65,5 +65,17 @@
     "film-character",
     "female",
     "emotional-resilience"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Connie_Corleone",
+      "title": "Connie Corleone - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://godfather.fandom.com/wiki/Constanzia_Corleone",
+      "title": "Constanzia Corleone (Connie) - Godfather Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

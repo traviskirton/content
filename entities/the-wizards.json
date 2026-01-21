@@ -66,5 +66,17 @@
     "guild",
     "academic",
     "political-force"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/Wizards",
+      "title": "Wizards - Discworld Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://discworld.fandom.com/wiki/Unseen_University",
+      "title": "Unseen University - Discworld Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

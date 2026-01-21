@@ -65,5 +65,12 @@
     "medieval-architecture",
     "fantasy",
     "old-university"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/Unseen_University",
+      "title": "Unseen University - Discworld Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

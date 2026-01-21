@@ -57,5 +57,17 @@
     "forbidden-land",
     "shadowed",
     "high-danger"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/Cirith_Ungol",
+      "title": "Cirith Ungol - The One Wiki to Rule Them All",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cirith_Ungol",
+      "title": "Cirith Ungol - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

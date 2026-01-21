@@ -62,5 +62,12 @@
   ],
   "aliases": [
     "SMERSH Agent"
+  ],
+  "links": [
+    {
+      "url": "https://jamesbond.fandom.com/wiki/SMERSH_Agent_(Casino_Royale)",
+      "title": "SMERSH Agent (Casino Royale) - James Bond Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

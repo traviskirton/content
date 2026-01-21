@@ -62,5 +62,12 @@
     "loyalty",
     "valor",
     "family"
+  ],
+  "links": [
+    {
+      "url": "https://lotr.fandom.com/wiki/F%C3%ADli",
+      "title": "Fíli - Tolkien Gateway",
+      "type": "fan-wiki"
+    }
   ]
 }

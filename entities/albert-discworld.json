@@ -57,5 +57,12 @@
     "arcane-knowledge",
     "supernatural",
     "house-management"
+  ],
+  "links": [
+    {
+      "url": "https://discworld.fandom.com/wiki/Albert",
+      "title": "Albert - Discworld Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

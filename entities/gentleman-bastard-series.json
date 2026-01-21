@@ -75,5 +75,17 @@
     "friendship",
     "political-intrigue",
     "criminal-mastery"
+  ],
+  "links": [
+    {
+      "url": "https://www.blackstonepublishing.com/gentleman-bastard-series/",
+      "title": "Gentleman Bastard Series - Official Publisher Page",
+      "type": "official"
+    },
+    {
+      "url": "https://fantasy.fandom.com/wiki/Gentleman_Bastard_Series",
+      "title": "Gentleman Bastard Series - Fantasy Fandom Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

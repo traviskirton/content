@@ -73,5 +73,17 @@
     "operation",
     "nuclear-threat",
     "financial-manipulation"
+  ],
+  "links": [
+    {
+      "url": "https://jamesbond.fandom.com/wiki/Operation_Grand_Slam",
+      "title": "Operation Grand Slam - James Bond Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Goldfinger_(film)",
+      "title": "Goldfinger - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

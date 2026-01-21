@@ -69,5 +69,12 @@
     "rugged-landscape",
     "haunting",
     "natural-hazards"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dartmoor",
+      "title": "Dartmoor - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

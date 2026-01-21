@@ -90,5 +90,17 @@
     "blockbuster",
     "dark-themes",
     "hollywood"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/David_S._Goyer",
+      "title": "David S. Goyer - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0338230/",
+      "title": "David S. Goyer - IMDb",
+      "type": "database"
+    }
   ]
 }

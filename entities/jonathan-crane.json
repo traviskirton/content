@@ -89,5 +89,17 @@
     "hallucinations",
     "cillian-murphy",
     "dark-knight-trilogy"
+  ],
+  "links": [
+    {
+      "url": "https://batman.fandom.com/wiki/Jonathan_Crane_(Earth-1)",
+      "title": "Jonathan Crane (Scarecrow) - Batman Wiki",
+      "type": "fan-wiki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Scarecrow_(DC_Comics)",
+      "title": "Scarecrow (DC Comics) - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

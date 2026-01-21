@@ -67,5 +67,17 @@
     "intelligence-analysis",
     "eastern-europe",
     "linguist"
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Toby_Esterhase",
+      "title": "Toby Esterhase - Wikipedia",
+      "type": "wiki"
+    },
+    {
+      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/Smiley/Estherhase",
+      "title": "Toby Esterhase - TV Tropes",
+      "type": "fan-wiki"
+    }
   ]
 }

@@ -69,5 +69,17 @@
     "campus",
     "norman-foster",
     "cupertino"
+  ],
+  "links": [
+    {
+      "url": "https://www.apple.com/apple-park/",
+      "title": "Apple Park - Official Apple Site",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Apple_Park",
+      "title": "Apple Park - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

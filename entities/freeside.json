@@ -63,5 +63,12 @@
     "high-technology",
     "luxury",
     "decadence"
+  ],
+  "links": [
+    {
+      "url": "https://memory-alpha.fandom.com/wiki/Freeside_(location)",
+      "title": "Freeside (location) - Memory Alpha, the Star Trek Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

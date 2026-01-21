@@ -52,5 +52,17 @@
     "historical-attractions",
     "pedestrian-friendly",
     "cultural-hub"
+  ],
+  "links": [
+    {
+      "url": "https://www.princetonnj.gov/",
+      "title": "Town of Princeton Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Princeton,_New_Jersey",
+      "title": "Princeton, New Jersey - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

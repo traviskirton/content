@@ -57,5 +57,12 @@
     "inventor-workshop",
     "back-to-the-future",
     "retro"
+  ],
+  "links": [
+    {
+      "url": "https://backtothefuture.fandom.com/wiki/Doc_Brown%27s_Garage",
+      "title": "Doc Brown's Garage - Back to the Future Wiki",
+      "type": "fan-wiki"
+    }
   ]
 }

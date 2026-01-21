@@ -56,5 +56,17 @@
     "landscapes",
     "architecture",
     "international-films"
+  ],
+  "links": [
+    {
+      "url": "https://www.italia.it/en/home.html",
+      "title": "Italia.it - Official Tourism Website of Italy",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Italy",
+      "title": "Italy - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }

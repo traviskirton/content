@@ -56,5 +56,17 @@
     "british-cinema",
     "musical",
     "indie-film"
+  ],
+  "links": [
+    {
+      "url": "https://www.himeshpatel.com/",
+      "title": "Himesh Patel Official Website",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Himesh_Patel",
+      "title": "Himesh Patel - Wikipedia",
+      "type": "wiki"
+    }
   ]
 }
