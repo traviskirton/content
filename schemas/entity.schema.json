@@ -75,6 +75,19 @@
       "type": "array",
       "items": { "type": "string" },
       "description": "Freeform tags for categorization and filtering"
+    },
+    "links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["url", "title", "type"],
+        "properties": {
+          "url": { "type": "string", "format": "uri" },
+          "title": { "type": "string" },
+          "type": { "type": "string", "enum": ["official", "wiki", "fan-wiki", "database"] }
+        }
+      },
+      "description": "External reference links (most relevant first)"
     }
   },
   "additionalProperties": false
